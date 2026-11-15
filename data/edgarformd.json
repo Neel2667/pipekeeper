@@ -3,9 +3,9 @@
  "name": "SEC EDGAR \u2014 new private funding rounds (Form D, 7 days)",
  "category": "funding",
  "source": "https://efts.sec.gov/LATEST/search-index",
- "collected_at": "2026-11-15T10:13:46+00:00",
+ "collected_at": "2026-11-15T10:17:51+00:00",
  "jobs_on_board": 11,
- "new_this_run": 11,
+ "new_this_run": 0,
  "total_tracked": 11,
  "jobs": [
   {
@@ -14,7 +14,7 @@
    "location": "Medellin",
    "detail": "SEC Form D \u00b7 filed 2026-11-12",
    "url": "https://www.sec.gov/Archives/edgar/data/2161280/000123191926001566/0001231919-26-001566-index.htm",
-   "new_this_run": true
+   "new_this_run": false
   },
   {
    "title": "Bridge33 Real Estate Partners IV (QP) LP raised (Form D)",
@@ -22,7 +22,7 @@
    "location": "Seattle, WA",
    "detail": "SEC Form D \u00b7 filed 2026-11-12",
    "url": "https://www.sec.gov/Archives/edgar/data/2133673/000213367326000001/0002133673-26-000001-index.htm",
-   "new_this_run": true
+   "new_this_run": false
   },
   {
    "title": "LPE Global AI Partners, LLC raised (Form D)",
@@ -30,7 +30,7 @@
    "location": "New York, NY",
    "detail": "SEC Form D \u00b7 filed 2026-11-10",
    "url": "https://www.sec.gov/Archives/edgar/data/2164282/000216428226000001/0002164282-26-000001-index.htm",
-   "new_this_run": true
+   "new_this_run": false
   },
   {
    "title": "Determinate Systems, Inc. raised (Form D)",
@@ -38,7 +38,7 @@
    "location": "Boston, MA",
    "detail": "SEC Form D \u00b7 filed 2026-11-10",
    "url": "https://www.sec.gov/Archives/edgar/data/1929988/000123191926001554/0001231919-26-001554-index.htm",
-   "new_this_run": true
+   "new_this_run": false
   },
   {
    "title": "Bridge33 Real Estate Partners IV (QC) LP raised (Form D)",
@@ -46,7 +46,7 @@
    "location": "Seattle, WA",
    "detail": "SEC Form D \u00b7 filed 2026-11-12",
    "url": "https://www.sec.gov/Archives/edgar/data/2134312/000213431226000001/0002134312-26-000001-index.htm",
-   "new_this_run": true
+   "new_this_run": false
   },
   {
    "title": "BITTERROOT RESOURCES LTD (BITTF) raised (Form D)",
@@ -54,7 +54,7 @@
    "location": "Vancouver",
    "detail": "SEC Form D \u00b7 filed 2026-11-09",
    "url": "https://www.sec.gov/Archives/edgar/data/1028357/000206075526000067/0002060755-26-000067-index.htm",
-   "new_this_run": true
+   "new_this_run": false
   },
   {
    "title": "Cottonwood Technology Fund IV, LP raised (Form D)",
@@ -62,7 +62,7 @@
    "location": "Santa Fe, NM",
    "detail": "SEC Form D \u00b7 filed 2026-11-10",
    "url": "https://www.sec.gov/Archives/edgar/data/2049527/000204952726000001/0002049527-26-000001-index.htm",
-   "new_this_run": true
+   "new_this_run": false
   },
   {
    "title": "Nextech3D.AI Corp. (NEXCF) raised (Form D)",
@@ -70,7 +70,7 @@
    "location": "Toronto, A6",
    "detail": "SEC Form D \u00b7 filed 2026-11-13",
    "url": "https://www.sec.gov/Archives/edgar/data/1737270/000106299326005992/0001062993-26-005992-index.htm",
-   "new_this_run": true
+   "new_this_run": false
   },
   {
    "title": "Gemspring Capital Fund IV-A, LP raised (Form D)",
@@ -78,7 +78,7 @@
    "location": "Westport, CT",
    "detail": "SEC Form D \u00b7 filed 2026-11-10",
    "url": "https://www.sec.gov/Archives/edgar/data/2162759/000090514826004740/0000905148-26-004740-index.htm",
-   "new_this_run": true
+   "new_this_run": false
   },
   {
    "title": "HYDROFARM HOLDINGS GROUP, INC. (HYFM) raised (Form D)",
@@ -86,7 +86,7 @@
    "location": "Shoemakersville, PA",
    "detail": "SEC Form D \u00b7 filed 2026-11-12",
    "url": "https://www.sec.gov/Archives/edgar/data/1695295/000169529526000011/0001695295-26-000011-index.htm",
-   "new_this_run": true
+   "new_this_run": false
   },
   {
    "title": "Gemspring Capital Fund IV, LP raised (Form D)",
@@ -94,7 +94,7 @@
    "location": "Westport, CT",
    "detail": "SEC Form D \u00b7 filed 2026-11-10",
    "url": "https://www.sec.gov/Archives/edgar/data/2162562/000090514826004739/0000905148-26-004739-index.htm",
-   "new_this_run": true
+   "new_this_run": false
   }
  ],
  "runs": [
@@ -102,82 +102,87 @@
    "at": "2026-11-15T10:13:46+00:00",
    "jobs": 11,
    "new": 11
+  },
+  {
+   "at": "2026-11-15T10:17:51+00:00",
+   "jobs": 11,
+   "new": 0
   }
  ],
  "jobs_seen": {
   "palomma holdings ltd raised (form d)|palomma holdings ltd|medellin": {
    "first_seen": "2026-11-15T10:13:46+00:00",
-   "last_seen": "2026-11-15T10:13:46+00:00",
+   "last_seen": "2026-11-15T10:17:51+00:00",
    "title": "Palomma Holdings Ltd raised (Form D)",
    "org": "Palomma Holdings Ltd",
    "location": "Medellin"
   },
   "bridge33 real estate partners iv (qp) lp raised (form d)|bridge33 real estate partners iv (qp) lp|seattle, wa": {
    "first_seen": "2026-11-15T10:13:46+00:00",
-   "last_seen": "2026-11-15T10:13:46+00:00",
+   "last_seen": "2026-11-15T10:17:51+00:00",
    "title": "Bridge33 Real Estate Partners IV (QP) LP raised (Form D)",
    "org": "Bridge33 Real Estate Partners IV (QP) LP",
    "location": "Seattle, WA"
   },
   "lpe global ai partners, llc raised (form d)|lpe global ai partners, llc|new york, ny": {
    "first_seen": "2026-11-15T10:13:46+00:00",
-   "last_seen": "2026-11-15T10:13:46+00:00",
+   "last_seen": "2026-11-15T10:17:51+00:00",
    "title": "LPE Global AI Partners, LLC raised (Form D)",
    "org": "LPE Global AI Partners, LLC",
    "location": "New York, NY"
   },
   "determinate systems, inc. raised (form d)|determinate systems, inc.|boston, ma": {
    "first_seen": "2026-11-15T10:13:46+00:00",
-   "last_seen": "2026-11-15T10:13:46+00:00",
+   "last_seen": "2026-11-15T10:17:51+00:00",
    "title": "Determinate Systems, Inc. raised (Form D)",
    "org": "Determinate Systems, Inc.",
    "location": "Boston, MA"
   },
   "bridge33 real estate partners iv (qc) lp raised (form d)|bridge33 real estate partners iv (qc) lp|seattle, wa": {
    "first_seen": "2026-11-15T10:13:46+00:00",
-   "last_seen": "2026-11-15T10:13:46+00:00",
+   "last_seen": "2026-11-15T10:17:51+00:00",
    "title": "Bridge33 Real Estate Partners IV (QC) LP raised (Form D)",
    "org": "Bridge33 Real Estate Partners IV (QC) LP",
    "location": "Seattle, WA"
   },
   "bitterroot resources ltd (bittf) raised (form d)|bitterroot resources ltd (bittf)|vancouver": {
    "first_seen": "2026-11-15T10:13:46+00:00",
-   "last_seen": "2026-11-15T10:13:46+00:00",
+   "last_seen": "2026-11-15T10:17:51+00:00",
    "title": "BITTERROOT RESOURCES LTD (BITTF) raised (Form D)",
    "org": "BITTERROOT RESOURCES LTD (BITTF)",
    "location": "Vancouver"
   },
   "cottonwood technology fund iv, lp raised (form d)|cottonwood technology fund iv, lp|santa fe, nm": {
    "first_seen": "2026-11-15T10:13:46+00:00",
-   "last_seen": "2026-11-15T10:13:46+00:00",
+   "last_seen": "2026-11-15T10:17:51+00:00",
    "title": "Cottonwood Technology Fund IV, LP raised (Form D)",
    "org": "Cottonwood Technology Fund IV, LP",
    "location": "Santa Fe, NM"
   },
   "nextech3d.ai corp. (nexcf) raised (form d)|nextech3d.ai corp. (nexcf)|toronto, a6": {
    "first_seen": "2026-11-15T10:13:46+00:00",
-   "last_seen": "2026-11-15T10:13:46+00:00",
+   "last_seen": "2026-11-15T10:17:51+00:00",
    "title": "Nextech3D.AI Corp. (NEXCF) raised (Form D)",
    "org": "Nextech3D.AI Corp. (NEXCF)",
    "location": "Toronto, A6"
   },
   "gemspring capital fund iv-a, lp raised (form d)|gemspring capital fund iv-a, lp|westport, ct": {
    "first_seen": "2026-11-15T10:13:46+00:00",
-   "last_seen": "2026-11-15T10:13:46+00:00",
+   "last_seen": "2026-11-15T10:17:51+00:00",
    "title": "Gemspring Capital Fund IV-A, LP raised (Form D)",
    "org": "Gemspring Capital Fund IV-A, LP",
    "location": "Westport, CT"
   },
   "hydrofarm holdings group, inc. (hyfm) raised (form d)|hydrofarm holdings group, inc. (hyfm)|shoemakersville, pa": {
    "first_seen": "2026-11-15T10:13:46+00:00",
-   "last_seen": "2026-11-15T10:13:46+00:00",
+   "last_seen": "2026-11-15T10:17:51+00:00",
    "title": "HYDROFARM HOLDINGS GROUP, INC. (HYFM) raised (Form D)",
    "org": "HYDROFARM HOLDINGS GROUP, INC. (HYFM)",
    "location": "Shoemakersville, PA"
   },
   "gemspring capital fund iv, lp raised (form d)|gemspring capital fund iv, lp|westport, ct": {
    "first_seen": "2026-11-15T10:13:46+00:00",
-   "last_seen": "2026-11-15T10:13:46+00:00",
+   "last_seen": "2026-11-15T10:17:51+00:00",
    "title": "Gemspring Capital Fund IV, LP raised (Form D)",
    "org": "Gemspring Capital Fund IV, LP",
    "location": "Westport, CT"

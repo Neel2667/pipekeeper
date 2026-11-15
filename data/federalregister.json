@@ -3,9 +3,9 @@
  "name": "Federal Register \u2014 newest federal documents",
  "category": "government",
  "source": "https://www.federalregister.gov",
- "collected_at": "2026-11-15T10:14:08+00:00",
+ "collected_at": "2026-11-15T10:17:53+00:00",
  "jobs_on_board": 100,
- "new_this_run": 99,
+ "new_this_run": 0,
  "total_tracked": 99,
  "jobs": [
   {
@@ -14,7 +14,7 @@
    "location": null,
    "detail": "Notice \u00b7 published 2026-11-16",
    "url": "https://www.federalregister.gov/documents/2026/11/16/C1-2026-20951/privacy-act-of-1974-matching-program",
-   "new_this_run": true
+   "new_this_run": false
   },
   {
    "title": "Presidential Determination Concerning Wildfire Suppression Activities in the United States",
@@ -22,7 +22,7 @@
    "location": null,
    "detail": "Presidential Document \u00b7 published 2026-11-16",
    "url": "https://www.federalregister.gov/documents/2026/11/16/2026-23349/presidential-determination-concerning-wildfire-suppression-activities-in-the-united-states",
-   "new_this_run": true
+   "new_this_run": false
   },
   {
    "title": "Veterans Day, 2026",
@@ -30,7 +30,7 @@
    "location": null,
    "detail": "Presidential Document \u00b7 published 2026-11-16",
    "url": "https://www.federalregister.gov/documents/2026/11/16/2026-23348/veterans-day-2026",
-   "new_this_run": true
+   "new_this_run": false
   },
   {
    "title": "Pilot for Online Version of Application for a U.S. Passport (Form DS-11)",
@@ -38,7 +38,7 @@
    "location": null,
    "detail": "Notice \u00b7 published 2026-11-16",
    "url": "https://www.federalregister.gov/documents/2026/11/16/2026-23317/pilot-for-online-version-of-application-for-a-us-passport-form-ds-11",
-   "new_this_run": true
+   "new_this_run": false
   },
   {
    "title": "Safety Zone; Huron River, Huron, OH",
@@ -46,7 +46,7 @@
    "location": null,
    "detail": "Rule \u00b7 published 2026-11-16",
    "url": "https://www.federalregister.gov/documents/2026/11/16/2026-23304/safety-zone-huron-river-huron-oh",
-   "new_this_run": true
+   "new_this_run": false
   },
   {
    "title": "Notice of Request for Approval of a New Information Collection; Highly Pathogenic Avian Influenza: Administration of Vaccine in Zoos",
@@ -54,7 +54,7 @@
    "location": null,
    "detail": "Notice \u00b7 published 2026-11-16",
    "url": "https://www.federalregister.gov/documents/2026/11/16/2026-23302/notice-of-request-for-approval-of-a-new-information-collection-highly-pathogenic-avian-influenza",
-   "new_this_run": true
+   "new_this_run": false
   },
   {
    "title": "Record of Decision; Temporary Closure of East Potomac Park South of Buckeye Drive",
@@ -62,7 +62,7 @@
    "location": null,
    "detail": "Notice \u00b7 published 2026-11-16",
    "url": "https://www.federalregister.gov/documents/2026/11/16/2026-23299/record-of-decision-temporary-closure-of-east-potomac-park-south-of-buckeye-drive",
-   "new_this_run": true
+   "new_this_run": false
   },
   {
    "title": "Agency Information Collection Activities; Submission for OMB Review; Comment Request; Claim Adjudication Process for the Alleged Presence of Pneumoconiosis",
@@ -70,7 +70,7 @@
    "location": null,
    "detail": "Notice \u00b7 published 2026-11-16",
    "url": "https://www.federalregister.gov/documents/2026/11/16/2026-23298/agency-information-collection-activities-submission-for-omb-review-comment-request-claim",
-   "new_this_run": true
+   "new_this_run": false
   },
   {
    "title": "Agency Information Collection Activities; Submission for OMB Review; Comment Request; Application for Continuation of Death Benefit for Student",
@@ -78,7 +78,7 @@
    "location": null,
    "detail": "Notice \u00b7 published 2026-11-16",
    "url": "https://www.federalregister.gov/documents/2026/11/16/2026-23297/agency-information-collection-activities-submission-for-omb-review-comment-request-application-for",
-   "new_this_run": true
+   "new_this_run": false
   },
   {
    "title": "Agency Information Collection Activities; Submission for OMB Review; Comment Request; Administration of the Longshore and Harbor Workers' Compensation Act",
@@ -86,7 +86,7 @@
    "location": null,
    "detail": "Notice \u00b7 published 2026-11-16",
    "url": "https://www.federalregister.gov/documents/2026/11/16/2026-23296/agency-information-collection-activities-submission-for-omb-review-comment-request-administration-of",
-   "new_this_run": true
+   "new_this_run": false
   },
   {
    "title": "Agency Information Collection Activities; Submission for OMB Review; Comment Request; Request for Information on Earnings, Dual Benefits, Dependents, and Third Party Settlements",
@@ -94,7 +94,7 @@
    "location": null,
    "detail": "Notice \u00b7 published 2026-11-16",
    "url": "https://www.federalregister.gov/documents/2026/11/16/2026-23295/agency-information-collection-activities-submission-for-omb-review-comment-request-request-for",
-   "new_this_run": true
+   "new_this_run": false
   },
   {
    "title": "Proposed Revision of Information Collection; Certification of Medical Necessity",
@@ -102,7 +102,7 @@
    "location": null,
    "detail": "Notice \u00b7 published 2026-11-16",
    "url": "https://www.federalregister.gov/documents/2026/11/16/2026-23294/proposed-revision-of-information-collection-certification-of-medical-necessity",
-   "new_this_run": true
+   "new_this_run": false
   },
   {
    "title": "Agency Information Collection Activities; Comment Request; Quarterly Narrative Progress Report, Employment and Training Supplemental Budget Request Activities",
@@ -110,7 +110,7 @@
    "location": null,
    "detail": "Notice \u00b7 published 2026-11-16",
    "url": "https://www.federalregister.gov/documents/2026/11/16/2026-23293/agency-information-collection-activities-comment-request-quarterly-narrative-progress-report",
-   "new_this_run": true
+   "new_this_run": false
   },
   {
    "title": "Agency Information Collection Activities; Comment Request; Workforce Innovation and Opportunity Act Joint Quarterly Narrative Report",
@@ -118,7 +118,7 @@
    "location": null,
    "detail": "Notice \u00b7 published 2026-11-16",
    "url": "https://www.federalregister.gov/documents/2026/11/16/2026-23292/agency-information-collection-activities-comment-request-workforce-innovation-and-opportunity-act",
-   "new_this_run": true
+   "new_this_run": false
   },
   {
    "title": "Certain Railway Tank Cars and Subassemblies Thereof From Mexico: Initiation of Countervailing Duty Investigation",
@@ -126,7 +126,7 @@
    "location": null,
    "detail": "Notice \u00b7 published 2026-11-16",
    "url": "https://www.federalregister.gov/documents/2026/11/16/2026-23291/certain-railway-tank-cars-and-subassemblies-thereof-from-mexico-initiation-of-countervailing-duty",
-   "new_this_run": true
+   "new_this_run": false
   },
   {
    "title": "Certain Railway Tank Cars and Subassemblies Thereof From Mexico: Initiation of Less-Than-Fair-Value Investigation",
@@ -134,7 +134,7 @@
    "location": null,
    "detail": "Notice \u00b7 published 2026-11-16",
    "url": "https://www.federalregister.gov/documents/2026/11/16/2026-23290/certain-railway-tank-cars-and-subassemblies-thereof-from-mexico-initiation-of-less-than-fair-value",
-   "new_this_run": true
+   "new_this_run": false
   },
   {
    "title": "Federal Reserve Bank Services",
@@ -142,7 +142,7 @@
    "location": null,
    "detail": "Notice \u00b7 published 2026-11-16",
    "url": "https://www.federalregister.gov/documents/2026/11/16/2026-23289/federal-reserve-bank-services",
-   "new_this_run": true
+   "new_this_run": false
   },
   {
    "title": "Accuracy of Advertising and Notice of Insured Status",
@@ -150,7 +150,7 @@
    "location": null,
    "detail": "Rule \u00b7 published 2026-11-16",
    "url": "https://www.federalregister.gov/documents/2026/11/16/2026-23288/accuracy-of-advertising-and-notice-of-insured-status",
-   "new_this_run": true
+   "new_this_run": false
   },
   {
    "title": "Privacy of Consumer Financial Information",
@@ -158,7 +158,7 @@
    "location": null,
    "detail": "Rule \u00b7 published 2026-11-16",
    "url": "https://www.federalregister.gov/documents/2026/11/16/2026-23286/privacy-of-consumer-financial-information",
-   "new_this_run": true
+   "new_this_run": false
   },
   {
    "title": "Burlington Electric Department; Notice of Application Tendered for Filing With the Commission and Establishing Procedural Schedule for Licensing and Deadline for Submission of Final Amendments",
@@ -166,7 +166,7 @@
    "location": null,
    "detail": "Notice \u00b7 published 2026-11-16",
    "url": "https://www.federalregister.gov/documents/2026/11/16/2026-23285/burlington-electric-department-notice-of-application-tendered-for-filing-with-the-commission-and",
-   "new_this_run": true
+   "new_this_run": false
   },
   {
    "title": "Combined Notice of Filings",
@@ -174,7 +174,7 @@
    "location": null,
    "detail": "Notice \u00b7 published 2026-11-16",
    "url": "https://www.federalregister.gov/documents/2026/11/16/2026-23284/combined-notice-of-filings",
-   "new_this_run": true
+   "new_this_run": false
   },
   {
    "title": "Combined Notice of Filings #2",
@@ -182,7 +182,7 @@
    "location": null,
    "detail": "Notice \u00b7 published 2026-11-16",
    "url": "https://www.federalregister.gov/documents/2026/11/16/2026-23283/combined-notice-of-filings-2",
-   "new_this_run": true
+   "new_this_run": false
   },
   {
    "title": "Combined Notice of Filings #1",
@@ -190,7 +190,7 @@
    "location": null,
    "detail": "Notice \u00b7 published 2026-11-16",
    "url": "https://www.federalregister.gov/documents/2026/11/16/2026-23282/combined-notice-of-filings-1",
-   "new_this_run": true
+   "new_this_run": false
   },
   {
    "title": "Nondiscrimination Requirements",
@@ -198,7 +198,7 @@
    "location": null,
    "detail": "Rule \u00b7 published 2026-11-16",
    "url": "https://www.federalregister.gov/documents/2026/11/16/2026-23281/nondiscrimination-requirements",
-   "new_this_run": true
+   "new_this_run": false
   },
   {
    "title": "Registration of Mortgage Loan Originators",
@@ -206,7 +206,7 @@
    "location": null,
    "detail": "Rule \u00b7 published 2026-11-16",
    "url": "https://www.federalregister.gov/documents/2026/11/16/2026-23280/registration-of-mortgage-loan-originators",
-   "new_this_run": true
+   "new_this_run": false
   },
   {
    "title": "Restoring Flexibility To Support Head Start Program Access",
@@ -214,7 +214,7 @@
    "location": null,
    "detail": "Rule \u00b7 published 2026-11-16",
    "url": "https://www.federalregister.gov/documents/2026/11/16/2026-23279/restoring-flexibility-to-support-head-start-program-access",
-   "new_this_run": true
+   "new_this_run": false
   },
   {
    "title": "Finished Carbon Steel Flanges From India: Preliminary Results and Rescission, in Part, of Antidumping Duty Administrative Review; 2024-2025",
@@ -222,7 +222,7 @@
    "location": null,
    "detail": "Notice \u00b7 published 2026-11-16",
    "url": "https://www.federalregister.gov/documents/2026/11/16/2026-23278/finished-carbon-steel-flanges-from-india-preliminary-results-and-rescission-in-part-of-antidumping",
-   "new_this_run": true
+   "new_this_run": false
   },
   {
    "title": "Steel Concrete Reinforcing Bar From Mexico: Final Results of Antidumping Duty Administrative Review; 2023-2024",
@@ -230,7 +230,7 @@
    "location": null,
    "detail": "Notice \u00b7 published 2026-11-16",
    "url": "https://www.federalregister.gov/documents/2026/11/16/2026-23277/steel-concrete-reinforcing-bar-from-mexico-final-results-of-antidumping-duty-administrative-review",
-   "new_this_run": true
+   "new_this_run": false
   },
   {
    "title": "Certain Oil Country Tubular Goods From the United Arab Emirates: Postponement of Final Determination of Sales at Less Than Fair Value Investigation and Extension of Provisional Measures",
@@ -238,7 +238,7 @@
    "location": null,
    "detail": "Notice \u00b7 published 2026-11-16",
    "url": "https://www.federalregister.gov/documents/2026/11/16/2026-23276/certain-oil-country-tubular-goods-from-the-united-arab-emirates-postponement-of-final-determination",
-   "new_this_run": true
+   "new_this_run": false
   },
   {
    "title": "Sodium Nitrite From India: Final Results and Rescission, in Part, of Countervailing Duty Administrative Review; 2024",
@@ -246,7 +246,7 @@
    "location": null,
    "detail": "Notice \u00b7 published 2026-11-16",
    "url": "https://www.federalregister.gov/documents/2026/11/16/2026-23275/sodium-nitrite-from-india-final-results-and-rescission-in-part-of-countervailing-duty-administrative",
-   "new_this_run": true
+   "new_this_run": false
   },
   {
    "title": "Thermal Paper From Spain: Final Results of Antidumping Duty Administrative Review; 2023-2024",
@@ -254,7 +254,7 @@
    "location": null,
    "detail": "Notice \u00b7 published 2026-11-16",
    "url": "https://www.federalregister.gov/documents/2026/11/16/2026-23274/thermal-paper-from-spain-final-results-of-antidumping-duty-administrative-review-2023-2024",
-   "new_this_run": true
+   "new_this_run": false
   },
   {
    "title": "Utility Scale Wind Towers From Indonesia: Preliminary Results and Partial Rescission of the Antidumping Duty Administrative Review; 2024-2025",
@@ -262,7 +262,7 @@
    "location": null,
    "detail": "Notice \u00b7 published 2026-11-16",
    "url": "https://www.federalregister.gov/documents/2026/11/16/2026-23273/utility-scale-wind-towers-from-indonesia-preliminary-results-and-partial-rescission-of-the",
-   "new_this_run": true
+   "new_this_run": false
   },
   {
    "title": "Carbon and Alloy Steel Threaded Rod From India: Final Results of Antidumping Duty Administrative Review; 2024-2025",
@@ -270,7 +270,7 @@
    "location": null,
    "detail": "Notice \u00b7 published 2026-11-16",
    "url": "https://www.federalregister.gov/documents/2026/11/16/2026-23272/carbon-and-alloy-steel-threaded-rod-from-india-final-results-of-antidumping-duty-administrative",
-   "new_this_run": true
+   "new_this_run": false
   },
   {
    "title": "Certain Metal Lockers and Parts Thereof From the People's Republic of China: Preliminary Results and Rescission, in Part, of Countervailing Duty Administrative Review; 2024",
@@ -278,7 +278,7 @@
    "location": null,
    "detail": "Notice \u00b7 published 2026-11-16",
    "url": "https://www.federalregister.gov/documents/2026/11/16/2026-23271/certain-metal-lockers-and-parts-thereof-from-the-peoples-republic-of-china-preliminary-results-and",
-   "new_this_run": true
+   "new_this_run": false
   },
   {
    "title": "Finished Carbon Steel Flanges From India: Preliminary Results and Rescission, in Part, of Countervailing Duty Administrative Review; 2024",
@@ -286,7 +286,7 @@
    "location": null,
    "detail": "Notice \u00b7 published 2026-11-16",
    "url": "https://www.federalregister.gov/documents/2026/11/16/2026-23270/finished-carbon-steel-flanges-from-india-preliminary-results-and-rescission-in-part-of",
-   "new_this_run": true
+   "new_this_run": false
   },
   {
    "title": "Strontium Chromate From Austria: Final Results of Antidumping Duty Administrative Review; 2023-2024",
@@ -294,7 +294,7 @@
    "location": null,
    "detail": "Notice \u00b7 published 2026-11-16",
    "url": "https://www.federalregister.gov/documents/2026/11/16/2026-23269/strontium-chromate-from-austria-final-results-of-antidumping-duty-administrative-review-2023-2024",
-   "new_this_run": true
+   "new_this_run": false
   },
   {
    "title": "Ripe Olives From Spain: Preliminary Results and Partial Rescission, of Antidumping Duty Administrative Review; 2024-2025",
@@ -302,7 +302,7 @@
    "location": null,
    "detail": "Notice \u00b7 published 2026-11-16",
    "url": "https://www.federalregister.gov/documents/2026/11/16/2026-23268/ripe-olives-from-spain-preliminary-results-and-partial-rescission-of-antidumping-duty-administrative",
-   "new_this_run": true
+   "new_this_run": false
   },
   {
    "title": "Certain Aluminum Foil From the Republic of T\u00fcrkiye: Final Results of Antidumping Duty Administrative Review; 2023-2024",
@@ -310,7 +310,7 @@
    "location": null,
    "detail": "Notice \u00b7 published 2026-11-16",
    "url": "https://www.federalregister.gov/documents/2026/11/16/2026-23267/certain-aluminum-foil-from-the-republic-of-trkiye-final-results-of-antidumping-duty-administrative",
-   "new_this_run": true
+   "new_this_run": false
   },
   {
    "title": "Steel Propane Cylinders From Thailand: Preliminary Results of Antidumping Duty Administrative Review; 2024-2025",
@@ -318,7 +318,7 @@
    "location": null,
    "detail": "Notice \u00b7 published 2026-11-16",
    "url": "https://www.federalregister.gov/documents/2026/11/16/2026-23266/steel-propane-cylinders-from-thailand-preliminary-results-of-antidumping-duty-administrative-review",
-   "new_this_run": true
+   "new_this_run": false
   },
   {
    "title": "Light-Walled Rectangular Pipe and Tube From Mexico: Preliminary Results and Partial Rescission of Antidumping Duty Administrative Review; 2024-2025",
@@ -326,7 +326,7 @@
    "location": null,
    "detail": "Notice \u00b7 published 2026-11-16",
    "url": "https://www.federalregister.gov/documents/2026/11/16/2026-23265/light-walled-rectangular-pipe-and-tube-from-mexico-preliminary-results-and-partial-rescission-of",
-   "new_this_run": true
+   "new_this_run": false
   },
   {
    "title": "Wooden Cabinets and Vanities and Components Thereof From the People's Republic of China: Final Results of Countervailing Duty Administrative Review; 2024",
@@ -334,7 +334,7 @@
    "location": null,
    "detail": "Notice \u00b7 published 2026-11-16",
    "url": "https://www.federalregister.gov/documents/2026/11/16/2026-23264/wooden-cabinets-and-vanities-and-components-thereof-from-the-peoples-republic-of-china-final-results",
-   "new_this_run": true
+   "new_this_run": false
   },
   {
    "title": "1,3,4,6,7,8-Hexahydro-4,6,6,7,8,8-hexamethylcyclopenta[\u03b3]-2-benzopyran (HHCB); Risk Evaluation Under the Toxic Substances Control Act (TSCA); Notice of Data Availability and Request for Comment",
@@ -342,7 +342,7 @@
    "location": null,
    "detail": "Notice \u00b7 published 2026-11-16",
    "url": "https://www.federalregister.gov/documents/2026/11/16/2026-23263/134678-hexahydro-466788-hexamethylcyclopenta-2-benzopyran-hhcb-risk-evaluation-under-the-toxic",
-   "new_this_run": true
+   "new_this_run": false
   },
   {
    "title": "Agency Information Collection Activities; Comment Request; Loan Discharge Applications (DL/FFEL/Perkins)",
@@ -350,7 +350,7 @@
    "location": null,
    "detail": "Notice \u00b7 published 2026-11-16",
    "url": "https://www.federalregister.gov/documents/2026/11/16/2026-23262/agency-information-collection-activities-comment-request-loan-discharge-applications-dlffelperkins",
-   "new_this_run": true
+   "new_this_run": false
   },
   {
    "title": "Polyethylene Retail Carrier Bags From Malaysia: Preliminary Results of Antidumping Duty Administrative Review; 2024-2025",
@@ -358,7 +358,7 @@
    "location": null,
    "detail": "Notice \u00b7 published 2026-11-16",
    "url": "https://www.federalregister.gov/documents/2026/11/16/2026-23261/polyethylene-retail-carrier-bags-from-malaysia-preliminary-results-of-antidumping-duty",
-   "new_this_run": true
+   "new_this_run": false
   },
   {
    "title": "Certain Pea Protein From the People's Republic of China: Preliminary Results, Partial Rescission, and Preliminary Determination of No Shipments of Antidumping Duty Administrative Review; 2023-2025",
@@ -366,7 +366,7 @@
    "location": null,
    "detail": "Notice \u00b7 published 2026-11-16",
    "url": "https://www.federalregister.gov/documents/2026/11/16/2026-23260/certain-pea-protein-from-the-peoples-republic-of-china-preliminary-results-partial-rescission-and",
-   "new_this_run": true
+   "new_this_run": false
   },
   {
    "title": "Paper File Folders From India: Final Results of Antidumping Duty Administrative Review; 2023-2024",
@@ -374,7 +374,7 @@
    "location": null,
    "detail": "Notice \u00b7 published 2026-11-16",
    "url": "https://www.federalregister.gov/documents/2026/11/16/2026-23259/paper-file-folders-from-india-final-results-of-antidumping-duty-administrative-review-2023-2024",
-   "new_this_run": true
+   "new_this_run": false
   },
   {
    "title": "Certain Oil Country Tubular Goods From the Republic of Korea: Final Results of Antidumping Duty Administrative Review; 2023-2024; Correction",
@@ -382,7 +382,7 @@
    "location": null,
    "detail": "Notice \u00b7 published 2026-11-16",
    "url": "https://www.federalregister.gov/documents/2026/11/16/2026-23258/certain-oil-country-tubular-goods-from-the-republic-of-korea-final-results-of-antidumping-duty",
-   "new_this_run": true
+   "new_this_run": false
   },
   {
    "title": "Certain Frozen Fish Fillets From the Socialist Republic of Vietnam: Preliminary Results and Rescission, in Part, of Antidumping Duty Administrative Review; 2024-2025",
@@ -390,7 +390,7 @@
    "location": null,
    "detail": "Notice \u00b7 published 2026-11-16",
    "url": "https://www.federalregister.gov/documents/2026/11/16/2026-23257/certain-frozen-fish-fillets-from-the-socialist-republic-of-vietnam-preliminary-results-and",
-   "new_this_run": true
+   "new_this_run": false
   },
   {
    "title": "Performance Review Board Members",
@@ -398,7 +398,7 @@
    "location": null,
    "detail": "Notice \u00b7 published 2026-11-16",
    "url": "https://www.federalregister.gov/documents/2026/11/16/2026-23256/performance-review-board-members",
-   "new_this_run": true
+   "new_this_run": false
   },
   {
    "title": "Review of Submarine Cable Landing License Rules and Procedures To Assess Evolving National Security, Law Enforcement, Foreign Policy, and Trade Policy Risks",
@@ -406,7 +406,7 @@
    "location": null,
    "detail": "Rule \u00b7 published 2026-11-16",
    "url": "https://www.federalregister.gov/documents/2026/11/16/2026-23255/review-of-submarine-cable-landing-license-rules-and-procedures-to-assess-evolving-national-security",
-   "new_this_run": true
+   "new_this_run": false
   },
   {
    "title": "Certain Spectral Flow Cytometry Systems and Components Thereof; Notice of Institution of Investigation",
@@ -414,7 +414,7 @@
    "location": null,
    "detail": "Notice \u00b7 published 2026-11-16",
    "url": "https://www.federalregister.gov/documents/2026/11/16/2026-23254/certain-spectral-flow-cytometry-systems-and-components-thereof-notice-of-institution-of",
-   "new_this_run": true
+   "new_this_run": false
   },
   {
    "title": "Diamond Sawblades and Parts Thereof From the People's Republic of China: Continuation of Antidumping Duty Order",
@@ -422,7 +422,7 @@
    "location": null,
    "detail": "Notice \u00b7 published 2026-11-16",
    "url": "https://www.federalregister.gov/documents/2026/11/16/2026-23253/diamond-sawblades-and-parts-thereof-from-the-peoples-republic-of-china-continuation-of-antidumping",
-   "new_this_run": true
+   "new_this_run": false
   },
   {
    "title": "New Postal Products",
@@ -430,7 +430,7 @@
    "location": null,
    "detail": "Notice \u00b7 published 2026-11-16",
    "url": "https://www.federalregister.gov/documents/2026/11/16/2026-23252/new-postal-products",
-   "new_this_run": true
+   "new_this_run": false
   },
   {
    "title": "Fisheries of the Exclusive Economic Zone off Alaska; Pelagic Trawl Gear Definition",
@@ -438,7 +438,7 @@
    "location": null,
    "detail": "Proposed Rule \u00b7 published 2026-11-16",
    "url": "https://www.federalregister.gov/documents/2026/11/16/2026-23251/fisheries-of-the-exclusive-economic-zone-off-alaska-pelagic-trawl-gear-definition",
-   "new_this_run": true
+   "new_this_run": false
   },
   {
    "title": "Notice of Scope Ruling Applications Filed in Antidumping and Countervailing Duty Proceedings",
@@ -446,7 +446,7 @@
    "location": null,
    "detail": "Notice \u00b7 published 2026-11-16",
    "url": "https://www.federalregister.gov/documents/2026/11/16/2026-23250/notice-of-scope-ruling-applications-filed-in-antidumping-and-countervailing-duty-proceedings",
-   "new_this_run": true
+   "new_this_run": false
   },
   {
    "title": "Notice of Public Meeting of the Rhode Island Advisory Committee to the U.S. Commission on Civil Rights",
@@ -454,7 +454,7 @@
    "location": null,
    "detail": "Notice \u00b7 published 2026-11-16",
    "url": "https://www.federalregister.gov/documents/2026/11/16/2026-23249/notice-of-public-meeting-of-the-rhode-island-advisory-committee-to-the-us-commission-on-civil-rights",
-   "new_this_run": true
+   "new_this_run": false
   },
   {
    "title": "Determination of Overfishing or an Overfished Condition",
@@ -462,7 +462,7 @@
    "location": null,
    "detail": "Notice \u00b7 published 2026-11-16",
    "url": "https://www.federalregister.gov/documents/2026/11/16/2026-23248/determination-of-overfishing-or-an-overfished-condition",
-   "new_this_run": true
+   "new_this_run": false
   },
   {
    "title": "Western Pacific Fishery Management Council; Public Meetings",
@@ -470,7 +470,7 @@
    "location": null,
    "detail": "Notice \u00b7 published 2026-11-16",
    "url": "https://www.federalregister.gov/documents/2026/11/16/2026-23247/western-pacific-fishery-management-council-public-meetings",
-   "new_this_run": true
+   "new_this_run": false
   },
   {
    "title": "Foreign Terrorist Organization Designation of Los Lorenzanas",
@@ -478,7 +478,7 @@
    "location": null,
    "detail": "Notice \u00b7 published 2026-11-16",
    "url": "https://www.federalregister.gov/documents/2026/11/16/2026-23246/foreign-terrorist-organization-designation-of-los-lorenzanas",
-   "new_this_run": true
+   "new_this_run": false
   },
   {
    "title": "Formations of, Acquisitions by, and Mergers of Bank Holding Companies",
@@ -486,7 +486,7 @@
    "location": null,
    "detail": "Notice \u00b7 published 2026-11-16",
    "url": "https://www.federalregister.gov/documents/2026/11/16/2026-23245/formations-of-acquisitions-by-and-mergers-of-bank-holding-companies",
-   "new_this_run": true
+   "new_this_run": false
   },
   {
    "title": "Change in Bank Control Notices; Acquisitions of Shares of a Bank or Bank Holding Company",
@@ -494,7 +494,7 @@
    "location": null,
    "detail": "Notice \u00b7 published 2026-11-16",
    "url": "https://www.federalregister.gov/documents/2026/11/16/2026-23244/change-in-bank-control-notices-acquisitions-of-shares-of-a-bank-or-bank-holding-company",
-   "new_this_run": true
+   "new_this_run": false
   },
   {
    "title": "30-Day Notice of Proposed Information Collection: Section 8 Renewal Policy Guidebook",
@@ -502,7 +502,7 @@
    "location": null,
    "detail": "Notice \u00b7 published 2026-11-16",
    "url": "https://www.federalregister.gov/documents/2026/11/16/2026-23243/30-day-notice-of-proposed-information-collection-section-8-renewal-policy-guidebook",
-   "new_this_run": true
+   "new_this_run": false
   },
   {
    "title": "Medicare, Medicaid, and Children's Health Insurance Programs: Announcement of the Extension and Modification of the Nationwide Temporary Moratorium on Enrollment of Hospices",
@@ -510,7 +510,7 @@
    "location": null,
    "detail": "Notice \u00b7 published 2026-11-16",
    "url": "https://www.federalregister.gov/documents/2026/11/16/2026-23242/medicare-medicaid-and-childrens-health-insurance-programs-announcement-of-the-extension-and",
-   "new_this_run": true
+   "new_this_run": false
   },
   {
    "title": "Medicare, Medicaid, and Children's Health Insurance Programs: Announcement of the Extension and Modification of the Nationwide Temporary Moratorium on Enrollment of Home Health Agencies (HHAs)",
@@ -526,7 +526,7 @@
    "location": null,
    "detail": "Notice \u00b7 published 2026-11-16",
    "url": "https://www.federalregister.gov/documents/2026/11/16/2026-23240/specially-designated-global-terrorist-designation-of-los-lorenzanas",
-   "new_this_run": true
+   "new_this_run": false
   },
   {
    "title": "Federal Motor Vehicle Safety Standards; Modernization of FMVSS No. 108 To Accommodate ADS-Equipped Vehicles",
@@ -534,7 +534,7 @@
    "location": null,
    "detail": "Proposed Rule \u00b7 published 2026-11-16",
    "url": "https://www.federalregister.gov/documents/2026/11/16/2026-23239/federal-motor-vehicle-safety-standards-modernization-of-fmvss-no-108-to-accommodate-ads-equipped",
-   "new_this_run": true
+   "new_this_run": false
   },
   {
    "title": "Agency Information Collection Activities; Notice and Request for Comment; 49 CFR Part 555, Temporary Exemption From Motor Vehicle Safety and Bumper Standards",
@@ -542,7 +542,7 @@
    "location": null,
    "detail": "Notice \u00b7 published 2026-11-16",
    "url": "https://www.federalregister.gov/documents/2026/11/16/2026-23238/agency-information-collection-activities-notice-and-request-for-comment-49-cfr-part-555-temporary",
-   "new_this_run": true
+   "new_this_run": false
   },
   {
    "title": "Privacy Act of 1974; Matching Program",
@@ -550,7 +550,7 @@
    "location": null,
    "detail": "Notice \u00b7 published 2026-11-16",
    "url": "https://www.federalregister.gov/documents/2026/11/16/2026-23237/privacy-act-of-1974-matching-program",
-   "new_this_run": true
+   "new_this_run": false
   },
   {
    "title": "Sunshine Act Meetings",
@@ -558,7 +558,7 @@
    "location": null,
    "detail": "Notice \u00b7 published 2026-11-16",
    "url": "https://www.federalregister.gov/documents/2026/11/16/2026-23236/sunshine-act-meetings",
-   "new_this_run": true
+   "new_this_run": false
   },
   {
    "title": "Air Plan Approval; AK; Fairbanks PM2.5 Boundary Redesignation and Clean Data Determination",
@@ -566,7 +566,7 @@
    "location": null,
    "detail": "Proposed Rule \u00b7 published 2026-11-16",
    "url": "https://www.federalregister.gov/documents/2026/11/16/2026-23235/air-plan-approval-ak-fairbanks-pm25-boundary-redesignation-and-clean-data-determination",
-   "new_this_run": true
+   "new_this_run": false
   },
   {
    "title": "Common Alloy Aluminum Sheet From the Kingdom of Bahrain: Final Results of Antidumping Duty Administrative Review; 2024-2025",
@@ -574,7 +574,7 @@
    "location": null,
    "detail": "Notice \u00b7 published 2026-11-16",
    "url": "https://www.federalregister.gov/documents/2026/11/16/2026-23234/common-alloy-aluminum-sheet-from-the-kingdom-of-bahrain-final-results-of-antidumping-duty",
-   "new_this_run": true
+   "new_this_run": false
   },
   {
    "title": "Delfin LNG LLC; Notice of Request for Extension of Time",
@@ -582,7 +582,7 @@
    "location": null,
    "detail": "Notice \u00b7 published 2026-11-16",
    "url": "https://www.federalregister.gov/documents/2026/11/16/2026-23232/delfin-lng-llc-notice-of-request-for-extension-of-time",
-   "new_this_run": true
+   "new_this_run": false
   },
   {
    "title": "Great River Hydro, LLC; Notice of Intent To Prepare an Environmental Assessment",
@@ -590,7 +590,7 @@
    "location": null,
    "detail": "Notice \u00b7 published 2026-11-16",
    "url": "https://www.federalregister.gov/documents/2026/11/16/2026-23231/great-river-hydro-llc-notice-of-intent-to-prepare-an-environmental-assessment",
-   "new_this_run": true
+   "new_this_run": false
   },
   {
    "title": "Special Local Regulation: Marine Events Within the Captain of the Port Miami, Seminole Hard Rock Winterfest Holiday Boat Parade",
@@ -598,7 +598,7 @@
    "location": null,
    "detail": "Rule \u00b7 published 2026-11-16",
    "url": "https://www.federalregister.gov/documents/2026/11/16/2026-23230/special-local-regulation-marine-events-within-the-captain-of-the-port-miami-seminole-hard-rock",
-   "new_this_run": true
+   "new_this_run": false
   },
   {
    "title": "Airworthiness Directives; Dassault Aviation Airplanes",
@@ -606,7 +606,7 @@
    "location": null,
    "detail": "Proposed Rule \u00b7 published 2026-11-16",
    "url": "https://www.federalregister.gov/documents/2026/11/16/2026-23229/airworthiness-directives-dassault-aviation-airplanes",
-   "new_this_run": true
+   "new_this_run": false
   },
   {
    "title": "Castle Mountains National Monument and Craters of the Moon National Monument; Hunting",
@@ -614,7 +614,7 @@
    "location": null,
    "detail": "Proposed Rule \u00b7 published 2026-11-16",
    "url": "https://www.federalregister.gov/documents/2026/11/16/2026-23228/castle-mountains-national-monument-and-craters-of-the-moon-national-monument-hunting",
-   "new_this_run": true
+   "new_this_run": false
   },
   {
    "title": "Notice on Outer Continental Shelf Oil and Gas Lease Sales",
@@ -622,7 +622,7 @@
    "location": null,
    "detail": "Notice \u00b7 published 2026-11-16",
    "url": "https://www.federalregister.gov/documents/2026/11/16/2026-23227/notice-on-outer-continental-shelf-oil-and-gas-lease-sales",
-   "new_this_run": true
+   "new_this_run": false
   },
   {
    "title": "Marine Mammals and Endangered Species",
@@ -630,7 +630,7 @@
    "location": null,
    "detail": "Notice \u00b7 published 2026-11-16",
    "url": "https://www.federalregister.gov/documents/2026/11/16/2026-23226/marine-mammals-and-endangered-species",
-   "new_this_run": true
+   "new_this_run": false
   },
   {
    "title": "Surety Bond Guarantee Program: Streamlining and Modernizing",
@@ -638,7 +638,7 @@
    "location": null,
    "detail": "Rule \u00b7 published 2026-11-16",
    "url": "https://www.federalregister.gov/documents/2026/11/16/2026-23225/surety-bond-guarantee-program-streamlining-and-modernizing",
-   "new_this_run": true
+   "new_this_run": false
   },
   {
    "title": "Agency Information Collection Activities; Proposed eCollection eComments Requested; Reinstatement, With Change, of a Previously Approved Collection, for Which Approval Has Expired: 2026 National Survey of Victim Service Providers",
@@ -646,7 +646,7 @@
    "location": null,
    "detail": "Notice \u00b7 published 2026-11-16",
    "url": "https://www.federalregister.gov/documents/2026/11/16/2026-23224/agency-information-collection-activities-proposed-ecollection-ecomments-requested-reinstatement-with",
-   "new_this_run": true
+   "new_this_run": false
   },
   {
    "title": "Agency Information Collection Activities: Submission to OMB for Review and Approval; Public Comment Request; Information Collection Request Title: Rural Maternity and Obstetrics Management Strategies Program Data Collection, OMB No. 0915-03",
@@ -654,7 +654,7 @@
    "location": null,
    "detail": "Notice \u00b7 published 2026-11-16",
    "url": "https://www.federalregister.gov/documents/2026/11/16/2026-23223/agency-information-collection-activities-submission-to-omb-for-review-and-approval-public-comment",
-   "new_this_run": true
+   "new_this_run": false
   },
   {
    "title": "Northern Indiana Commuter Transportation District's Request To Amend Its Positive Train Control System",
@@ -662,7 +662,7 @@
    "location": null,
    "detail": "Notice \u00b7 published 2026-11-16",
    "url": "https://www.federalregister.gov/documents/2026/11/16/2026-23222/northern-indiana-commuter-transportation-districts-request-to-amend-its-positive-train-control",
-   "new_this_run": true
+   "new_this_run": false
   },
   {
    "title": "Agency Information Collection Activities: Proposed Collection: Public Comment Request; Information Collection Request Title: Rural Residency Planning and Development Program Annual Performance Report-NEW",
@@ -670,7 +670,7 @@
    "location": null,
    "detail": "Notice \u00b7 published 2026-11-16",
    "url": "https://www.federalregister.gov/documents/2026/11/16/2026-23221/agency-information-collection-activities-proposed-collection-public-comment-request-information",
-   "new_this_run": true
+   "new_this_run": false
   },
   {
    "title": "Dole State and Tribal Outreach Grant Program",
@@ -678,7 +678,7 @@
    "location": null,
    "detail": "Proposed Rule \u00b7 published 2026-11-16",
    "url": "https://www.federalregister.gov/documents/2026/11/16/2026-23220/dole-state-and-tribal-outreach-grant-program",
-   "new_this_run": true
+   "new_this_run": false
   },
   {
    "title": "Air Plan Partial Approval and Partial Conditional Approval; South Carolina; Minor Source Permit Program Revisions and Control of Oxides of Nitrogen and Source Testing Requirements",
@@ -686,7 +686,7 @@
    "location": null,
    "detail": "Rule \u00b7 published 2026-11-16",
    "url": "https://www.federalregister.gov/documents/2026/11/16/2026-23219/air-plan-partial-approval-and-partial-conditional-approval-south-carolina-minor-source-permit",
-   "new_this_run": true
+   "new_this_run": false
   },
   {
    "title": "Endangered Species; Receipt of Recovery Permit Applications",
@@ -694,7 +694,7 @@
    "location": null,
    "detail": "Notice \u00b7 published 2026-11-16",
    "url": "https://www.federalregister.gov/documents/2026/11/16/2026-23218/endangered-species-receipt-of-recovery-permit-applications",
-   "new_this_run": true
+   "new_this_run": false
   },
   {
    "title": "Information Collections Being Reviewed by the Federal Communications Commission",
@@ -702,7 +702,7 @@
    "location": null,
    "detail": "Notice \u00b7 published 2026-11-16",
    "url": "https://www.federalregister.gov/documents/2026/11/16/2026-23217/information-collections-being-reviewed-by-the-federal-communications-commission",
-   "new_this_run": true
+   "new_this_run": false
   },
   {
    "title": "Information Collections Being Reviewed by the Federal Communications Commission Under Delegated Authority",
@@ -710,7 +710,7 @@
    "location": null,
    "detail": "Notice \u00b7 published 2026-11-16",
    "url": "https://www.federalregister.gov/documents/2026/11/16/2026-23216/information-collections-being-reviewed-by-the-federal-communications-commission-under-delegated",
-   "new_this_run": true
+   "new_this_run": false
   },
   {
    "title": "Safety Zone; FRL Inaugural Invitational eFoil Exhibition Race, Miami Marine Stadium Basin, Miami, FL",
@@ -718,7 +718,7 @@
    "location": null,
    "detail": "Rule \u00b7 published 2026-11-16",
    "url": "https://www.federalregister.gov/documents/2026/11/16/2026-23215/safety-zone-frl-inaugural-invitational-efoil-exhibition-race-miami-marine-stadium-basin-miami-fl",
-   "new_this_run": true
+   "new_this_run": false
   },
   {
    "title": "Airworthiness Directives; Airbus Helicopters Deutschland GmbH (AHD) Helicopters",
@@ -726,7 +726,7 @@
    "location": null,
    "detail": "Proposed Rule \u00b7 published 2026-11-16",
    "url": "https://www.federalregister.gov/documents/2026/11/16/2026-23213/airworthiness-directives-airbus-helicopters-deutschland-gmbh-ahd-helicopters",
-   "new_this_run": true
+   "new_this_run": false
   },
   {
    "title": "Airworthiness Directives; Airbus Helicopters",
@@ -734,7 +734,7 @@
    "location": null,
    "detail": "Proposed Rule \u00b7 published 2026-11-16",
    "url": "https://www.federalregister.gov/documents/2026/11/16/2026-23212/airworthiness-directives-airbus-helicopters",
-   "new_this_run": true
+   "new_this_run": false
   },
   {
    "title": "Notice of Antarctic Meteorite Collection, Documentation, and Curation Plan Received Under the Antarctic Conservation Act of 1978",
@@ -742,7 +742,7 @@
    "location": null,
    "detail": "Notice \u00b7 published 2026-11-16",
    "url": "https://www.federalregister.gov/documents/2026/11/16/2026-23211/notice-of-antarctic-meteorite-collection-documentation-and-curation-plan-received-under-the",
-   "new_this_run": true
+   "new_this_run": false
   },
   {
    "title": "Sunshine Act Meetings",
@@ -750,7 +750,7 @@
    "location": null,
    "detail": "Notice \u00b7 published 2026-11-16",
    "url": "https://www.federalregister.gov/documents/2026/11/16/2026-23210/sunshine-act-meetings",
-   "new_this_run": true
+   "new_this_run": false
   },
   {
    "title": "Pipeline Safety: Meetings of the Liquid and Gas Pipeline Advisory Committees",
@@ -758,7 +758,7 @@
    "location": null,
    "detail": "Notice \u00b7 published 2026-11-16",
    "url": "https://www.federalregister.gov/documents/2026/11/16/2026-23209/pipeline-safety-meetings-of-the-liquid-and-gas-pipeline-advisory-committees",
-   "new_this_run": true
+   "new_this_run": false
   },
   {
    "title": "Notice of OFAC Sanctions Actions",
@@ -766,7 +766,7 @@
    "location": null,
    "detail": "Notice \u00b7 published 2026-11-16",
    "url": "https://www.federalregister.gov/documents/2026/11/16/2026-23208/notice-of-ofac-sanctions-actions",
-   "new_this_run": true
+   "new_this_run": false
   },
   {
    "title": "Qualification of Drivers; Exemption Applications; Implantable Cardioverter Defibrillators (ICD)",
@@ -774,7 +774,7 @@
    "location": null,
    "detail": "Notice \u00b7 published 2026-11-16",
    "url": "https://www.federalregister.gov/documents/2026/11/16/2026-23207/qualification-of-drivers-exemption-applications-implantable-cardioverter-defibrillators-icd",
-   "new_this_run": true
+   "new_this_run": false
   },
   {
    "title": "Target Product Profile for a Human West Nile Virus Vaccine: Request for Information",
@@ -782,7 +782,7 @@
    "location": null,
    "detail": "Notice \u00b7 published 2026-11-16",
    "url": "https://www.federalregister.gov/documents/2026/11/16/2026-23206/target-product-profile-for-a-human-west-nile-virus-vaccine-request-for-information",
-   "new_this_run": true
+   "new_this_run": false
   },
   {
    "title": "Target Product Profile for Monoclonal Antibodies for West Nile Virus Disease Prevention: Request for Information",
@@ -790,7 +790,7 @@
    "location": null,
    "detail": "Notice \u00b7 published 2026-11-16",
    "url": "https://www.federalregister.gov/documents/2026/11/16/2026-23205/target-product-profile-for-monoclonal-antibodies-for-west-nile-virus-disease-prevention-request-for",
-   "new_this_run": true
+   "new_this_run": false
   },
   {
    "title": "Target Product Profile for a Rapid Diagnostic Test for West Nile Virus Disease: Request for Information",
@@ -798,7 +798,7 @@
    "location": null,
    "detail": "Notice \u00b7 published 2026-11-16",
    "url": "https://www.federalregister.gov/documents/2026/11/16/2026-23204/target-product-profile-for-a-rapid-diagnostic-test-for-west-nile-virus-disease-request-for",
-   "new_this_run": true
+   "new_this_run": false
   },
   {
    "title": "Agency Information Collection Activities: Notice of Intent To Extend Collection 3038-0082, Whistleblower Provisions",
@@ -806,7 +806,7 @@
    "location": null,
    "detail": "Notice \u00b7 published 2026-11-16",
    "url": "https://www.federalregister.gov/documents/2026/11/16/2026-23203/agency-information-collection-activities-notice-of-intent-to-extend-collection-3038-0082",
-   "new_this_run": true
+   "new_this_run": false
   }
  ],
  "runs": [
@@ -814,698 +814,703 @@
    "at": "2026-11-15T10:14:08+00:00",
    "jobs": 100,
    "new": 99
+  },
+  {
+   "at": "2026-11-15T10:17:53+00:00",
+   "jobs": 100,
+   "new": 0
   }
  ],
  "jobs_seen": {
   "privacy act of 1974; matching program|defense department,|": {
    "first_seen": "2026-11-15T10:14:08+00:00",
-   "last_seen": "2026-11-15T10:14:08+00:00",
+   "last_seen": "2026-11-15T10:17:53+00:00",
    "title": "Privacy Act of 1974; Matching Program",
    "org": "Defense Department,",
    "location": null
   },
   "presidential determination concerning wildfire suppression activities in the united states|executive office of the president|": {
    "first_seen": "2026-11-15T10:14:08+00:00",
-   "last_seen": "2026-11-15T10:14:08+00:00",
+   "last_seen": "2026-11-15T10:17:53+00:00",
    "title": "Presidential Determination Concerning Wildfire Suppression Activities in the United States",
    "org": "Executive Office of the President",
    "location": null
   },
   "veterans day, 2026|executive office of the president|": {
    "first_seen": "2026-11-15T10:14:08+00:00",
-   "last_seen": "2026-11-15T10:14:08+00:00",
+   "last_seen": "2026-11-15T10:17:53+00:00",
    "title": "Veterans Day, 2026",
    "org": "Executive Office of the President",
    "location": null
   },
   "pilot for online version of application for a u.s. passport (form ds-11)|state department|": {
    "first_seen": "2026-11-15T10:14:08+00:00",
-   "last_seen": "2026-11-15T10:14:08+00:00",
+   "last_seen": "2026-11-15T10:17:53+00:00",
    "title": "Pilot for Online Version of Application for a U.S. Passport (Form DS-11)",
    "org": "State Department",
    "location": null
   },
   "safety zone; huron river, huron, oh|homeland security department, coast guard|": {
    "first_seen": "2026-11-15T10:14:08+00:00",
-   "last_seen": "2026-11-15T10:14:08+00:00",
+   "last_seen": "2026-11-15T10:17:53+00:00",
    "title": "Safety Zone; Huron River, Huron, OH",
    "org": "Homeland Security Department, Coast Guard",
    "location": null
   },
   "notice of request for approval of a new information collection; highly pathogenic avian influenza: administration of vac|agriculture department, animal and plant health inspection service|": {
    "first_seen": "2026-11-15T10:14:08+00:00",
-   "last_seen": "2026-11-15T10:14:08+00:00",
+   "last_seen": "2026-11-15T10:17:53+00:00",
    "title": "Notice of Request for Approval of a New Information Collection; Highly Pathogenic Avian Influenza: Administration of Vaccine in Zoos",
    "org": "Agriculture Department, Animal and Plant Health Inspection Service",
    "location": null
   },
   "record of decision; temporary closure of east potomac park south of buckeye drive|interior department, national park service|": {
    "first_seen": "2026-11-15T10:14:08+00:00",
-   "last_seen": "2026-11-15T10:14:08+00:00",
+   "last_seen": "2026-11-15T10:17:53+00:00",
    "title": "Record of Decision; Temporary Closure of East Potomac Park South of Buckeye Drive",
    "org": "Interior Department, National Park Service",
    "location": null
   },
   "agency information collection activities; submission for omb review; comment request; claim adjudication process for the|labor department|": {
    "first_seen": "2026-11-15T10:14:08+00:00",
-   "last_seen": "2026-11-15T10:14:08+00:00",
+   "last_seen": "2026-11-15T10:17:53+00:00",
    "title": "Agency Information Collection Activities; Submission for OMB Review; Comment Request; Claim Adjudication Process for the Alleged Presence of Pneumoconiosis",
    "org": "Labor Department",
    "location": null
   },
   "agency information collection activities; submission for omb review; comment request; application for continuation of de|labor department|": {
    "first_seen": "2026-11-15T10:14:08+00:00",
-   "last_seen": "2026-11-15T10:14:08+00:00",
+   "last_seen": "2026-11-15T10:17:53+00:00",
    "title": "Agency Information Collection Activities; Submission for OMB Review; Comment Request; Application for Continuation of Death Benefit for Student",
    "org": "Labor Department",
    "location": null
   },
   "agency information collection activities; submission for omb review; comment request; administration of the longshore an|labor department|": {
    "first_seen": "2026-11-15T10:14:08+00:00",
-   "last_seen": "2026-11-15T10:14:08+00:00",
+   "last_seen": "2026-11-15T10:17:53+00:00",
    "title": "Agency Information Collection Activities; Submission for OMB Review; Comment Request; Administration of the Longshore and Harbor Workers' Compensation Act",
    "org": "Labor Department",
    "location": null
   },
   "agency information collection activities; submission for omb review; comment request; request for information on earning|labor department|": {
    "first_seen": "2026-11-15T10:14:08+00:00",
-   "last_seen": "2026-11-15T10:14:08+00:00",
+   "last_seen": "2026-11-15T10:17:53+00:00",
    "title": "Agency Information Collection Activities; Submission for OMB Review; Comment Request; Request for Information on Earnings, Dual Benefits, Dependents, and Third Party Settlements",
    "org": "Labor Department",
    "location": null
   },
   "proposed revision of information collection; certification of medical necessity|labor department, workers' compensation programs office|": {
    "first_seen": "2026-11-15T10:14:08+00:00",
-   "last_seen": "2026-11-15T10:14:08+00:00",
+   "last_seen": "2026-11-15T10:17:53+00:00",
    "title": "Proposed Revision of Information Collection; Certification of Medical Necessity",
    "org": "Labor Department, Workers' Compensation Programs Office",
    "location": null
   },
   "agency information collection activities; comment request; quarterly narrative progress report, employment and training |labor department, employment and training administration|": {
    "first_seen": "2026-11-15T10:14:08+00:00",
-   "last_seen": "2026-11-15T10:14:08+00:00",
+   "last_seen": "2026-11-15T10:17:53+00:00",
    "title": "Agency Information Collection Activities; Comment Request; Quarterly Narrative Progress Report, Employment and Training Supplemental Budget Request Activities",
    "org": "Labor Department, Employment and Training Administration",
    "location": null
   },
   "agency information collection activities; comment request; workforce innovation and opportunity act joint quarterly narr|labor department, employment and training administration|": {
    "first_seen": "2026-11-15T10:14:08+00:00",
-   "last_seen": "2026-11-15T10:14:08+00:00",
+   "last_seen": "2026-11-15T10:17:53+00:00",
    "title": "Agency Information Collection Activities; Comment Request; Workforce Innovation and Opportunity Act Joint Quarterly Narrative Report",
    "org": "Labor Department, Employment and Training Administration",
    "location": null
   },
   "certain railway tank cars and subassemblies thereof from mexico: initiation of countervailing duty investigation|commerce department, international trade administration|": {
    "first_seen": "2026-11-15T10:14:08+00:00",
-   "last_seen": "2026-11-15T10:14:08+00:00",
+   "last_seen": "2026-11-15T10:17:53+00:00",
    "title": "Certain Railway Tank Cars and Subassemblies Thereof From Mexico: Initiation of Countervailing Duty Investigation",
    "org": "Commerce Department, International Trade Administration",
    "location": null
   },
   "certain railway tank cars and subassemblies thereof from mexico: initiation of less-than-fair-value investigation|commerce department, international trade administration|": {
    "first_seen": "2026-11-15T10:14:08+00:00",
-   "last_seen": "2026-11-15T10:14:08+00:00",
+   "last_seen": "2026-11-15T10:17:53+00:00",
    "title": "Certain Railway Tank Cars and Subassemblies Thereof From Mexico: Initiation of Less-Than-Fair-Value Investigation",
    "org": "Commerce Department, International Trade Administration",
    "location": null
   },
   "federal reserve bank services|federal reserve system|": {
    "first_seen": "2026-11-15T10:14:08+00:00",
-   "last_seen": "2026-11-15T10:14:08+00:00",
+   "last_seen": "2026-11-15T10:17:53+00:00",
    "title": "Federal Reserve Bank Services",
    "org": "Federal Reserve System",
    "location": null
   },
   "accuracy of advertising and notice of insured status|national credit union administration|": {
    "first_seen": "2026-11-15T10:14:08+00:00",
-   "last_seen": "2026-11-15T10:14:08+00:00",
+   "last_seen": "2026-11-15T10:17:53+00:00",
    "title": "Accuracy of Advertising and Notice of Insured Status",
    "org": "National Credit Union Administration",
    "location": null
   },
   "privacy of consumer financial information|national credit union administration|": {
    "first_seen": "2026-11-15T10:14:08+00:00",
-   "last_seen": "2026-11-15T10:14:08+00:00",
+   "last_seen": "2026-11-15T10:17:53+00:00",
    "title": "Privacy of Consumer Financial Information",
    "org": "National Credit Union Administration",
    "location": null
   },
   "burlington electric department; notice of application tendered for filing with the commission and establishing procedura|energy department, federal energy regulatory commission|": {
    "first_seen": "2026-11-15T10:14:08+00:00",
-   "last_seen": "2026-11-15T10:14:08+00:00",
+   "last_seen": "2026-11-15T10:17:53+00:00",
    "title": "Burlington Electric Department; Notice of Application Tendered for Filing With the Commission and Establishing Procedural Schedule for Licensing and Deadline for Submission of Final Amendments",
    "org": "Energy Department, Federal Energy Regulatory Commission",
    "location": null
   },
   "combined notice of filings|energy department, federal energy regulatory commission|": {
    "first_seen": "2026-11-15T10:14:08+00:00",
-   "last_seen": "2026-11-15T10:14:08+00:00",
+   "last_seen": "2026-11-15T10:17:53+00:00",
    "title": "Combined Notice of Filings",
    "org": "Energy Department, Federal Energy Regulatory Commission",
    "location": null
   },
   "combined notice of filings #2|energy department, federal energy regulatory commission|": {
    "first_seen": "2026-11-15T10:14:08+00:00",
-   "last_seen": "2026-11-15T10:14:08+00:00",
+   "last_seen": "2026-11-15T10:17:53+00:00",
    "title": "Combined Notice of Filings #2",
    "org": "Energy Department, Federal Energy Regulatory Commission",
    "location": null
   },
   "combined notice of filings #1|energy department, federal energy regulatory commission|": {
    "first_seen": "2026-11-15T10:14:08+00:00",
-   "last_seen": "2026-11-15T10:14:08+00:00",
+   "last_seen": "2026-11-15T10:17:53+00:00",
    "title": "Combined Notice of Filings #1",
    "org": "Energy Department, Federal Energy Regulatory Commission",
    "location": null
   },
   "nondiscrimination requirements|national credit union administration|": {
    "first_seen": "2026-11-15T10:14:08+00:00",
-   "last_seen": "2026-11-15T10:14:08+00:00",
+   "last_seen": "2026-11-15T10:17:53+00:00",
    "title": "Nondiscrimination Requirements",
    "org": "National Credit Union Administration",
    "location": null
   },
   "registration of mortgage loan originators|national credit union administration|": {
    "first_seen": "2026-11-15T10:14:08+00:00",
-   "last_seen": "2026-11-15T10:14:08+00:00",
+   "last_seen": "2026-11-15T10:17:53+00:00",
    "title": "Registration of Mortgage Loan Originators",
    "org": "National Credit Union Administration",
    "location": null
   },
   "restoring flexibility to support head start program access|health and human services department, children and families administration|": {
    "first_seen": "2026-11-15T10:14:08+00:00",
-   "last_seen": "2026-11-15T10:14:08+00:00",
+   "last_seen": "2026-11-15T10:17:53+00:00",
    "title": "Restoring Flexibility To Support Head Start Program Access",
    "org": "Health and Human Services Department, Children and Families Administration",
    "location": null
   },
   "finished carbon steel flanges from india: preliminary results and rescission, in part, of antidumping duty administrativ|commerce department, international trade administration|": {
    "first_seen": "2026-11-15T10:14:08+00:00",
-   "last_seen": "2026-11-15T10:14:08+00:00",
+   "last_seen": "2026-11-15T10:17:53+00:00",
    "title": "Finished Carbon Steel Flanges From India: Preliminary Results and Rescission, in Part, of Antidumping Duty Administrative Review; 2024-2025",
    "org": "Commerce Department, International Trade Administration",
    "location": null
   },
   "steel concrete reinforcing bar from mexico: final results of antidumping duty administrative review; 2023-2024|commerce department, international trade administration|": {
    "first_seen": "2026-11-15T10:14:08+00:00",
-   "last_seen": "2026-11-15T10:14:08+00:00",
+   "last_seen": "2026-11-15T10:17:53+00:00",
    "title": "Steel Concrete Reinforcing Bar From Mexico: Final Results of Antidumping Duty Administrative Review; 2023-2024",
    "org": "Commerce Department, International Trade Administration",
    "location": null
   },
   "certain oil country tubular goods from the united arab emirates: postponement of final determination of sales at less th|commerce department, international trade administration|": {
    "first_seen": "2026-11-15T10:14:08+00:00",
-   "last_seen": "2026-11-15T10:14:08+00:00",
+   "last_seen": "2026-11-15T10:17:53+00:00",
    "title": "Certain Oil Country Tubular Goods From the United Arab Emirates: Postponement of Final Determination of Sales at Less Than Fair Value Investigation and Extension of Provisional Measures",
    "org": "Commerce Department, International Trade Administration",
    "location": null
   },
   "sodium nitrite from india: final results and rescission, in part, of countervailing duty administrative review; 2024|commerce department, international trade administration|": {
    "first_seen": "2026-11-15T10:14:08+00:00",
-   "last_seen": "2026-11-15T10:14:08+00:00",
+   "last_seen": "2026-11-15T10:17:53+00:00",
    "title": "Sodium Nitrite From India: Final Results and Rescission, in Part, of Countervailing Duty Administrative Review; 2024",
    "org": "Commerce Department, International Trade Administration",
    "location": null
   },
   "thermal paper from spain: final results of antidumping duty administrative review; 2023-2024|commerce department, international trade administration|": {
    "first_seen": "2026-11-15T10:14:08+00:00",
-   "last_seen": "2026-11-15T10:14:08+00:00",
+   "last_seen": "2026-11-15T10:17:53+00:00",
    "title": "Thermal Paper From Spain: Final Results of Antidumping Duty Administrative Review; 2023-2024",
    "org": "Commerce Department, International Trade Administration",
    "location": null
   },
   "utility scale wind towers from indonesia: preliminary results and partial rescission of the antidumping duty administrat|commerce department, international trade administration|": {
    "first_seen": "2026-11-15T10:14:08+00:00",
-   "last_seen": "2026-11-15T10:14:08+00:00",
+   "last_seen": "2026-11-15T10:17:53+00:00",
    "title": "Utility Scale Wind Towers From Indonesia: Preliminary Results and Partial Rescission of the Antidumping Duty Administrative Review; 2024-2025",
    "org": "Commerce Department, International Trade Administration",
    "location": null
   },
   "carbon and alloy steel threaded rod from india: final results of antidumping duty administrative review; 2024-2025|commerce department, international trade administration|": {
    "first_seen": "2026-11-15T10:14:08+00:00",
-   "last_seen": "2026-11-15T10:14:08+00:00",
+   "last_seen": "2026-11-15T10:17:53+00:00",
    "title": "Carbon and Alloy Steel Threaded Rod From India: Final Results of Antidumping Duty Administrative Review; 2024-2025",
    "org": "Commerce Department, International Trade Administration",
    "location": null
   },
   "certain metal lockers and parts thereof from the people's republic of china: preliminary results and rescission, in part|commerce department, international trade administration|": {
    "first_seen": "2026-11-15T10:14:08+00:00",
-   "last_seen": "2026-11-15T10:14:08+00:00",
+   "last_seen": "2026-11-15T10:17:53+00:00",
    "title": "Certain Metal Lockers and Parts Thereof From the People's Republic of China: Preliminary Results and Rescission, in Part, of Countervailing Duty Administrative Review; 2024",
    "org": "Commerce Department, International Trade Administration",
    "location": null
   },
   "finished carbon steel flanges from india: preliminary results and rescission, in part, of countervailing duty administra|commerce department, international trade administration|": {
    "first_seen": "2026-11-15T10:14:08+00:00",
-   "last_seen": "2026-11-15T10:14:08+00:00",
+   "last_seen": "2026-11-15T10:17:53+00:00",
    "title": "Finished Carbon Steel Flanges From India: Preliminary Results and Rescission, in Part, of Countervailing Duty Administrative Review; 2024",
    "org": "Commerce Department, International Trade Administration",
    "location": null
   },
   "strontium chromate from austria: final results of antidumping duty administrative review; 2023-2024|commerce department, international trade administration|": {
    "first_seen": "2026-11-15T10:14:08+00:00",
-   "last_seen": "2026-11-15T10:14:08+00:00",
+   "last_seen": "2026-11-15T10:17:53+00:00",
    "title": "Strontium Chromate From Austria: Final Results of Antidumping Duty Administrative Review; 2023-2024",
    "org": "Commerce Department, International Trade Administration",
    "location": null
   },
   "ripe olives from spain: preliminary results and partial rescission, of antidumping duty administrative review; 2024-2025|commerce department, international trade administration|": {
    "first_seen": "2026-11-15T10:14:08+00:00",
-   "last_seen": "2026-11-15T10:14:08+00:00",
+   "last_seen": "2026-11-15T10:17:53+00:00",
    "title": "Ripe Olives From Spain: Preliminary Results and Partial Rescission, of Antidumping Duty Administrative Review; 2024-2025",
    "org": "Commerce Department, International Trade Administration",
    "location": null
   },
   "certain aluminum foil from the republic of t\u00fcrkiye: final results of antidumping duty administrative review; 2023-2024|commerce department, international trade administration|": {
    "first_seen": "2026-11-15T10:14:08+00:00",
-   "last_seen": "2026-11-15T10:14:08+00:00",
+   "last_seen": "2026-11-15T10:17:53+00:00",
    "title": "Certain Aluminum Foil From the Republic of T\u00fcrkiye: Final Results of Antidumping Duty Administrative Review; 2023-2024",
    "org": "Commerce Department, International Trade Administration",
    "location": null
   },
   "steel propane cylinders from thailand: preliminary results of antidumping duty administrative review; 2024-2025|commerce department, international trade administration|": {
    "first_seen": "2026-11-15T10:14:08+00:00",
-   "last_seen": "2026-11-15T10:14:08+00:00",
+   "last_seen": "2026-11-15T10:17:53+00:00",
    "title": "Steel Propane Cylinders From Thailand: Preliminary Results of Antidumping Duty Administrative Review; 2024-2025",
    "org": "Commerce Department, International Trade Administration",
    "location": null
   },
   "light-walled rectangular pipe and tube from mexico: preliminary results and partial rescission of antidumping duty admin|commerce department, international trade administration|": {
    "first_seen": "2026-11-15T10:14:08+00:00",
-   "last_seen": "2026-11-15T10:14:08+00:00",
+   "last_seen": "2026-11-15T10:17:53+00:00",
    "title": "Light-Walled Rectangular Pipe and Tube From Mexico: Preliminary Results and Partial Rescission of Antidumping Duty Administrative Review; 2024-2025",
    "org": "Commerce Department, International Trade Administration",
    "location": null
   },
   "wooden cabinets and vanities and components thereof from the people's republic of china: final results of countervailing|commerce department, international trade administration|": {
    "first_seen": "2026-11-15T10:14:08+00:00",
-   "last_seen": "2026-11-15T10:14:08+00:00",
+   "last_seen": "2026-11-15T10:17:53+00:00",
    "title": "Wooden Cabinets and Vanities and Components Thereof From the People's Republic of China: Final Results of Countervailing Duty Administrative Review; 2024",
    "org": "Commerce Department, International Trade Administration",
    "location": null
   },
   "1,3,4,6,7,8-hexahydro-4,6,6,7,8,8-hexamethylcyclopenta[\u03b3]-2-benzopyran (hhcb); risk evaluation under the toxic substance|environmental protection agency|": {
    "first_seen": "2026-11-15T10:14:08+00:00",
-   "last_seen": "2026-11-15T10:14:08+00:00",
+   "last_seen": "2026-11-15T10:17:53+00:00",
    "title": "1,3,4,6,7,8-Hexahydro-4,6,6,7,8,8-hexamethylcyclopenta[\u03b3]-2-benzopyran (HHCB); Risk Evaluation Under the Toxic Substances Control Act (TSCA); Notice of Data Availability and Request for Comment",
    "org": "Environmental Protection Agency",
    "location": null
   },
   "agency information collection activities; comment request; loan discharge applications (dl/ffel/perkins)|education department|": {
    "first_seen": "2026-11-15T10:14:08+00:00",
-   "last_seen": "2026-11-15T10:14:08+00:00",
+   "last_seen": "2026-11-15T10:17:53+00:00",
    "title": "Agency Information Collection Activities; Comment Request; Loan Discharge Applications (DL/FFEL/Perkins)",
    "org": "Education Department",
    "location": null
   },
   "polyethylene retail carrier bags from malaysia: preliminary results of antidumping duty administrative review; 2024-2025|commerce department, international trade administration|": {
    "first_seen": "2026-11-15T10:14:08+00:00",
-   "last_seen": "2026-11-15T10:14:08+00:00",
+   "last_seen": "2026-11-15T10:17:53+00:00",
    "title": "Polyethylene Retail Carrier Bags From Malaysia: Preliminary Results of Antidumping Duty Administrative Review; 2024-2025",
    "org": "Commerce Department, International Trade Administration",
    "location": null
   },
   "certain pea protein from the people's republic of china: preliminary results, partial rescission, and preliminary determ|commerce department, international trade administration|": {
    "first_seen": "2026-11-15T10:14:08+00:00",
-   "last_seen": "2026-11-15T10:14:08+00:00",
+   "last_seen": "2026-11-15T10:17:53+00:00",
    "title": "Certain Pea Protein From the People's Republic of China: Preliminary Results, Partial Rescission, and Preliminary Determination of No Shipments of Antidumping Duty Administrative Review; 2023-2025",
    "org": "Commerce Department, International Trade Administration",
    "location": null
   },
   "paper file folders from india: final results of antidumping duty administrative review; 2023-2024|commerce department, international trade administration|": {
    "first_seen": "2026-11-15T10:14:08+00:00",
-   "last_seen": "2026-11-15T10:14:08+00:00",
+   "last_seen": "2026-11-15T10:17:53+00:00",
    "title": "Paper File Folders From India: Final Results of Antidumping Duty Administrative Review; 2023-2024",
    "org": "Commerce Department, International Trade Administration",
    "location": null
   },
   "certain oil country tubular goods from the republic of korea: final results of antidumping duty administrative review; 2|commerce department, international trade administration|": {
    "first_seen": "2026-11-15T10:14:08+00:00",
-   "last_seen": "2026-11-15T10:14:08+00:00",
+   "last_seen": "2026-11-15T10:17:53+00:00",
    "title": "Certain Oil Country Tubular Goods From the Republic of Korea: Final Results of Antidumping Duty Administrative Review; 2023-2024; Correction",
    "org": "Commerce Department, International Trade Administration",
    "location": null
   },
   "certain frozen fish fillets from the socialist republic of vietnam: preliminary results and rescission, in part, of anti|commerce department, international trade administration|": {
    "first_seen": "2026-11-15T10:14:08+00:00",
-   "last_seen": "2026-11-15T10:14:08+00:00",
+   "last_seen": "2026-11-15T10:17:53+00:00",
    "title": "Certain Frozen Fish Fillets From the Socialist Republic of Vietnam: Preliminary Results and Rescission, in Part, of Antidumping Duty Administrative Review; 2024-2025",
    "org": "Commerce Department, International Trade Administration",
    "location": null
   },
   "performance review board members|small business administration|": {
    "first_seen": "2026-11-15T10:14:08+00:00",
-   "last_seen": "2026-11-15T10:14:08+00:00",
+   "last_seen": "2026-11-15T10:17:53+00:00",
    "title": "Performance Review Board Members",
    "org": "Small Business Administration",
    "location": null
   },
   "review of submarine cable landing license rules and procedures to assess evolving national security, law enforcement, fo|federal communications commission|": {
    "first_seen": "2026-11-15T10:14:08+00:00",
-   "last_seen": "2026-11-15T10:14:08+00:00",
+   "last_seen": "2026-11-15T10:17:53+00:00",
    "title": "Review of Submarine Cable Landing License Rules and Procedures To Assess Evolving National Security, Law Enforcement, Foreign Policy, and Trade Policy Risks",
    "org": "Federal Communications Commission",
    "location": null
   },
   "certain spectral flow cytometry systems and components thereof; notice of institution of investigation|international trade commission|": {
    "first_seen": "2026-11-15T10:14:08+00:00",
-   "last_seen": "2026-11-15T10:14:08+00:00",
+   "last_seen": "2026-11-15T10:17:53+00:00",
    "title": "Certain Spectral Flow Cytometry Systems and Components Thereof; Notice of Institution of Investigation",
    "org": "International Trade Commission",
    "location": null
   },
   "diamond sawblades and parts thereof from the people's republic of china: continuation of antidumping duty order|commerce department, international trade administration|": {
    "first_seen": "2026-11-15T10:14:08+00:00",
-   "last_seen": "2026-11-15T10:14:08+00:00",
+   "last_seen": "2026-11-15T10:17:53+00:00",
    "title": "Diamond Sawblades and Parts Thereof From the People's Republic of China: Continuation of Antidumping Duty Order",
    "org": "Commerce Department, International Trade Administration",
    "location": null
   },
   "new postal products|postal regulatory commission|": {
    "first_seen": "2026-11-15T10:14:08+00:00",
-   "last_seen": "2026-11-15T10:14:08+00:00",
+   "last_seen": "2026-11-15T10:17:53+00:00",
    "title": "New Postal Products",
    "org": "Postal Regulatory Commission",
    "location": null
   },
   "fisheries of the exclusive economic zone off alaska; pelagic trawl gear definition|commerce department, national oceanic and atmospheric administration|": {
    "first_seen": "2026-11-15T10:14:08+00:00",
-   "last_seen": "2026-11-15T10:14:08+00:00",
+   "last_seen": "2026-11-15T10:17:53+00:00",
    "title": "Fisheries of the Exclusive Economic Zone off Alaska; Pelagic Trawl Gear Definition",
    "org": "Commerce Department, National Oceanic and Atmospheric Administration",
    "location": null
   },
   "notice of scope ruling applications filed in antidumping and countervailing duty proceedings|commerce department, international trade administration|": {
    "first_seen": "2026-11-15T10:14:08+00:00",
-   "last_seen": "2026-11-15T10:14:08+00:00",
+   "last_seen": "2026-11-15T10:17:53+00:00",
    "title": "Notice of Scope Ruling Applications Filed in Antidumping and Countervailing Duty Proceedings",
    "org": "Commerce Department, International Trade Administration",
    "location": null
   },
   "notice of public meeting of the rhode island advisory committee to the u.s. commission on civil rights|civil rights commission|": {
    "first_seen": "2026-11-15T10:14:08+00:00",
-   "last_seen": "2026-11-15T10:14:08+00:00",
+   "last_seen": "2026-11-15T10:17:53+00:00",
    "title": "Notice of Public Meeting of the Rhode Island Advisory Committee to the U.S. Commission on Civil Rights",
    "org": "Civil Rights Commission",
    "location": null
   },
   "determination of overfishing or an overfished condition|commerce department, national oceanic and atmospheric administration|": {
    "first_seen": "2026-11-15T10:14:08+00:00",
-   "last_seen": "2026-11-15T10:14:08+00:00",
+   "last_seen": "2026-11-15T10:17:53+00:00",
    "title": "Determination of Overfishing or an Overfished Condition",
    "org": "Commerce Department, National Oceanic and Atmospheric Administration",
    "location": null
   },
   "western pacific fishery management council; public meetings|commerce department, national oceanic and atmospheric administration|": {
    "first_seen": "2026-11-15T10:14:08+00:00",
-   "last_seen": "2026-11-15T10:14:08+00:00",
+   "last_seen": "2026-11-15T10:17:53+00:00",
    "title": "Western Pacific Fishery Management Council; Public Meetings",
    "org": "Commerce Department, National Oceanic and Atmospheric Administration",
    "location": null
   },
   "foreign terrorist organization designation of los lorenzanas|state department|": {
    "first_seen": "2026-11-15T10:14:08+00:00",
-   "last_seen": "2026-11-15T10:14:08+00:00",
+   "last_seen": "2026-11-15T10:17:53+00:00",
    "title": "Foreign Terrorist Organization Designation of Los Lorenzanas",
    "org": "State Department",
    "location": null
   },
   "formations of, acquisitions by, and mergers of bank holding companies|federal reserve system|": {
    "first_seen": "2026-11-15T10:14:08+00:00",
-   "last_seen": "2026-11-15T10:14:08+00:00",
+   "last_seen": "2026-11-15T10:17:53+00:00",
    "title": "Formations of, Acquisitions by, and Mergers of Bank Holding Companies",
    "org": "Federal Reserve System",
    "location": null
   },
   "change in bank control notices; acquisitions of shares of a bank or bank holding company|federal reserve system|": {
    "first_seen": "2026-11-15T10:14:08+00:00",
-   "last_seen": "2026-11-15T10:14:08+00:00",
+   "last_seen": "2026-11-15T10:17:53+00:00",
    "title": "Change in Bank Control Notices; Acquisitions of Shares of a Bank or Bank Holding Company",
    "org": "Federal Reserve System",
    "location": null
   },
   "30-day notice of proposed information collection: section 8 renewal policy guidebook|housing and urban development department|": {
    "first_seen": "2026-11-15T10:14:08+00:00",
-   "last_seen": "2026-11-15T10:14:08+00:00",
+   "last_seen": "2026-11-15T10:17:53+00:00",
    "title": "30-Day Notice of Proposed Information Collection: Section 8 Renewal Policy Guidebook",
    "org": "Housing and Urban Development Department",
    "location": null
   },
   "medicare, medicaid, and children's health insurance programs: announcement of the extension and modification of the nati|health and human services department, centers for medicare & medicaid services|": {
    "first_seen": "2026-11-15T10:14:08+00:00",
-   "last_seen": "2026-11-15T10:14:08+00:00",
+   "last_seen": "2026-11-15T10:17:53+00:00",
    "title": "Medicare, Medicaid, and Children's Health Insurance Programs: Announcement of the Extension and Modification of the Nationwide Temporary Moratorium on Enrollment of Hospices",
    "org": "Health and Human Services Department, Centers for Medicare & Medicaid Services",
    "location": null
   },
   "specially designated global terrorist designation of los lorenzanas|state department|": {
    "first_seen": "2026-11-15T10:14:08+00:00",
-   "last_seen": "2026-11-15T10:14:08+00:00",
+   "last_seen": "2026-11-15T10:17:53+00:00",
    "title": "Specially Designated Global Terrorist Designation of Los Lorenzanas",
    "org": "State Department",
    "location": null
   },
   "federal motor vehicle safety standards; modernization of fmvss no. 108 to accommodate ads-equipped vehicles|transportation department, national highway traffic safety administration|": {
    "first_seen": "2026-11-15T10:14:08+00:00",
-   "last_seen": "2026-11-15T10:14:08+00:00",
+   "last_seen": "2026-11-15T10:17:53+00:00",
    "title": "Federal Motor Vehicle Safety Standards; Modernization of FMVSS No. 108 To Accommodate ADS-Equipped Vehicles",
    "org": "Transportation Department, National Highway Traffic Safety Administration",
    "location": null
   },
   "agency information collection activities; notice and request for comment; 49 cfr part 555, temporary exemption from moto|transportation department, national highway traffic safety administration|": {
    "first_seen": "2026-11-15T10:14:08+00:00",
-   "last_seen": "2026-11-15T10:14:08+00:00",
+   "last_seen": "2026-11-15T10:17:53+00:00",
    "title": "Agency Information Collection Activities; Notice and Request for Comment; 49 CFR Part 555, Temporary Exemption From Motor Vehicle Safety and Bumper Standards",
    "org": "Transportation Department, National Highway Traffic Safety Administration",
    "location": null
   },
   "privacy act of 1974; matching program|health and human services department,|": {
    "first_seen": "2026-11-15T10:14:08+00:00",
-   "last_seen": "2026-11-15T10:14:08+00:00",
+   "last_seen": "2026-11-15T10:17:53+00:00",
    "title": "Privacy Act of 1974; Matching Program",
    "org": "Health and Human Services Department,",
    "location": null
   },
   "sunshine act meetings|nuclear regulatory commission|": {
    "first_seen": "2026-11-15T10:14:08+00:00",
-   "last_seen": "2026-11-15T10:14:08+00:00",
+   "last_seen": "2026-11-15T10:17:53+00:00",
    "title": "Sunshine Act Meetings",
    "org": "Nuclear Regulatory Commission",
    "location": null
   },
   "air plan approval; ak; fairbanks pm2.5 boundary redesignation and clean data determination|environmental protection agency|": {
    "first_seen": "2026-11-15T10:14:08+00:00",
-   "last_seen": "2026-11-15T10:14:08+00:00",
+   "last_seen": "2026-11-15T10:17:53+00:00",
    "title": "Air Plan Approval; AK; Fairbanks PM2.5 Boundary Redesignation and Clean Data Determination",
    "org": "Environmental Protection Agency",
    "location": null
   },
   "common alloy aluminum sheet from the kingdom of bahrain: final results of antidumping duty administrative review; 2024-2|commerce department, international trade administration|": {
    "first_seen": "2026-11-15T10:14:08+00:00",
-   "last_seen": "2026-11-15T10:14:08+00:00",
+   "last_seen": "2026-11-15T10:17:53+00:00",
    "title": "Common Alloy Aluminum Sheet From the Kingdom of Bahrain: Final Results of Antidumping Duty Administrative Review; 2024-2025",
    "org": "Commerce Department, International Trade Administration",
    "location": null
   },
   "delfin lng llc; notice of request for extension of time|energy department, federal energy regulatory commission|": {
    "first_seen": "2026-11-15T10:14:08+00:00",
-   "last_seen": "2026-11-15T10:14:08+00:00",
+   "last_seen": "2026-11-15T10:17:53+00:00",
    "title": "Delfin LNG LLC; Notice of Request for Extension of Time",
    "org": "Energy Department, Federal Energy Regulatory Commission",
    "location": null
   },
   "great river hydro, llc; notice of intent to prepare an environmental assessment|energy department, federal energy regulatory commission|": {
    "first_seen": "2026-11-15T10:14:08+00:00",
-   "last_seen": "2026-11-15T10:14:08+00:00",
+   "last_seen": "2026-11-15T10:17:53+00:00",
    "title": "Great River Hydro, LLC; Notice of Intent To Prepare an Environmental Assessment",
    "org": "Energy Department, Federal Energy Regulatory Commission",
    "location": null
   },
   "special local regulation: marine events within the captain of the port miami, seminole hard rock winterfest holiday boat|homeland security department, coast guard|": {
    "first_seen": "2026-11-15T10:14:08+00:00",
-   "last_seen": "2026-11-15T10:14:08+00:00",
+   "last_seen": "2026-11-15T10:17:53+00:00",
    "title": "Special Local Regulation: Marine Events Within the Captain of the Port Miami, Seminole Hard Rock Winterfest Holiday Boat Parade",
    "org": "Homeland Security Department, Coast Guard",
    "location": null
   },
   "airworthiness directives; dassault aviation airplanes|transportation department, federal aviation administration|": {
    "first_seen": "2026-11-15T10:14:08+00:00",
-   "last_seen": "2026-11-15T10:14:08+00:00",
+   "last_seen": "2026-11-15T10:17:53+00:00",
    "title": "Airworthiness Directives; Dassault Aviation Airplanes",
    "org": "Transportation Department, Federal Aviation Administration",
    "location": null
   },
   "castle mountains national monument and craters of the moon national monument; hunting|interior department, national park service|": {
    "first_seen": "2026-11-15T10:14:08+00:00",
-   "last_seen": "2026-11-15T10:14:08+00:00",
+   "last_seen": "2026-11-15T10:17:53+00:00",
    "title": "Castle Mountains National Monument and Craters of the Moon National Monument; Hunting",
    "org": "Interior Department, National Park Service",
    "location": null
   },
   "notice on outer continental shelf oil and gas lease sales|interior department, marine minerals administration|": {
    "first_seen": "2026-11-15T10:14:08+00:00",
-   "last_seen": "2026-11-15T10:14:08+00:00",
+   "last_seen": "2026-11-15T10:17:53+00:00",
    "title": "Notice on Outer Continental Shelf Oil and Gas Lease Sales",
    "org": "Interior Department, Marine Minerals Administration",
    "location": null
   },
   "marine mammals and endangered species|commerce department, national oceanic and atmospheric administration|": {
    "first_seen": "2026-11-15T10:14:08+00:00",
-   "last_seen": "2026-11-15T10:14:08+00:00",
+   "last_seen": "2026-11-15T10:17:53+00:00",
    "title": "Marine Mammals and Endangered Species",
    "org": "Commerce Department, National Oceanic and Atmospheric Administration",
    "location": null
   },
   "surety bond guarantee program: streamlining and modernizing|small business administration|": {
    "first_seen": "2026-11-15T10:14:08+00:00",
-   "last_seen": "2026-11-15T10:14:08+00:00",
+   "last_seen": "2026-11-15T10:17:53+00:00",
    "title": "Surety Bond Guarantee Program: Streamlining and Modernizing",
    "org": "Small Business Administration",
    "location": null
   },
   "agency information collection activities; proposed ecollection ecomments requested; reinstatement, with change, of a pre|justice department|": {
    "first_seen": "2026-11-15T10:14:08+00:00",
-   "last_seen": "2026-11-15T10:14:08+00:00",
+   "last_seen": "2026-11-15T10:17:53+00:00",
    "title": "Agency Information Collection Activities; Proposed eCollection eComments Requested; Reinstatement, With Change, of a Previously Approved Collection, for Which Approval Has Expired: 2026 National Survey of Victim Service Providers",
    "org": "Justice Department",
    "location": null
   },
   "agency information collection activities: submission to omb for review and approval; public comment request; information|health and human services department, health resources and services administration|": {
    "first_seen": "2026-11-15T10:14:08+00:00",
-   "last_seen": "2026-11-15T10:14:08+00:00",
+   "last_seen": "2026-11-15T10:17:53+00:00",
    "title": "Agency Information Collection Activities: Submission to OMB for Review and Approval; Public Comment Request; Information Collection Request Title: Rural Maternity and Obstetrics Management Strategies Program Data Collection, OMB No. 0915-03",
    "org": "Health and Human Services Department, Health Resources and Services Administration",
    "location": null
   },
   "northern indiana commuter transportation district's request to amend its positive train control system|transportation department, federal railroad administration|": {
    "first_seen": "2026-11-15T10:14:08+00:00",
-   "last_seen": "2026-11-15T10:14:08+00:00",
+   "last_seen": "2026-11-15T10:17:53+00:00",
    "title": "Northern Indiana Commuter Transportation District's Request To Amend Its Positive Train Control System",
    "org": "Transportation Department, Federal Railroad Administration",
    "location": null
   },
   "agency information collection activities: proposed collection: public comment request; information collection request ti|health and human services department, health resources and services administration|": {
    "first_seen": "2026-11-15T10:14:08+00:00",
-   "last_seen": "2026-11-15T10:14:08+00:00",
+   "last_seen": "2026-11-15T10:17:53+00:00",
    "title": "Agency Information Collection Activities: Proposed Collection: Public Comment Request; Information Collection Request Title: Rural Residency Planning and Development Program Annual Performance Report-NEW",
    "org": "Health and Human Services Department, Health Resources and Services Administration",
    "location": null
   },
   "dole state and tribal outreach grant program|veterans affairs department|": {
    "first_seen": "2026-11-15T10:14:08+00:00",
-   "last_seen": "2026-11-15T10:14:08+00:00",
+   "last_seen": "2026-11-15T10:17:53+00:00",
    "title": "Dole State and Tribal Outreach Grant Program",
    "org": "Veterans Affairs Department",
    "location": null
   },
   "air plan partial approval and partial conditional approval; south carolina; minor source permit program revisions and co|environmental protection agency|": {
    "first_seen": "2026-11-15T10:14:08+00:00",
-   "last_seen": "2026-11-15T10:14:08+00:00",
+   "last_seen": "2026-11-15T10:17:53+00:00",
    "title": "Air Plan Partial Approval and Partial Conditional Approval; South Carolina; Minor Source Permit Program Revisions and Control of Oxides of Nitrogen and Source Testing Requirements",
    "org": "Environmental Protection Agency",
    "location": null
   },
   "endangered species; receipt of recovery permit applications|interior department, fish and wildlife service|": {
    "first_seen": "2026-11-15T10:14:08+00:00",
-   "last_seen": "2026-11-15T10:14:08+00:00",
+   "last_seen": "2026-11-15T10:17:53+00:00",
    "title": "Endangered Species; Receipt of Recovery Permit Applications",
    "org": "Interior Department, Fish and Wildlife Service",
    "location": null
   },
   "information collections being reviewed by the federal communications commission|federal communications commission|": {
    "first_seen": "2026-11-15T10:14:08+00:00",
-   "last_seen": "2026-11-15T10:14:08+00:00",
+   "last_seen": "2026-11-15T10:17:53+00:00",
    "title": "Information Collections Being Reviewed by the Federal Communications Commission",
    "org": "Federal Communications Commission",
    "location": null
   },
   "information collections being reviewed by the federal communications commission under delegated authority|federal communications commission|": {
    "first_seen": "2026-11-15T10:14:08+00:00",
-   "last_seen": "2026-11-15T10:14:08+00:00",
+   "last_seen": "2026-11-15T10:17:53+00:00",
    "title": "Information Collections Being Reviewed by the Federal Communications Commission Under Delegated Authority",
    "org": "Federal Communications Commission",
    "location": null
   },
   "safety zone; frl inaugural invitational efoil exhibition race, miami marine stadium basin, miami, fl|homeland security department, coast guard|": {
    "first_seen": "2026-11-15T10:14:08+00:00",
-   "last_seen": "2026-11-15T10:14:08+00:00",
+   "last_seen": "2026-11-15T10:17:53+00:00",
    "title": "Safety Zone; FRL Inaugural Invitational eFoil Exhibition Race, Miami Marine Stadium Basin, Miami, FL",
    "org": "Homeland Security Department, Coast Guard",
    "location": null
   },
   "airworthiness directives; airbus helicopters deutschland gmbh (ahd) helicopters|transportation department, federal aviation administration|": {
    "first_seen": "2026-11-15T10:14:08+00:00",
-   "last_seen": "2026-11-15T10:14:08+00:00",
+   "last_seen": "2026-11-15T10:17:53+00:00",
    "title": "Airworthiness Directives; Airbus Helicopters Deutschland GmbH (AHD) Helicopters",
    "org": "Transportation Department, Federal Aviation Administration",
    "location": null
   },
   "airworthiness directives; airbus helicopters|transportation department, federal aviation administration|": {
    "first_seen": "2026-11-15T10:14:08+00:00",
-   "last_seen": "2026-11-15T10:14:08+00:00",
+   "last_seen": "2026-11-15T10:17:53+00:00",
    "title": "Airworthiness Directives; Airbus Helicopters",
    "org": "Transportation Department, Federal Aviation Administration",
    "location": null
   },
   "notice of antarctic meteorite collection, documentation, and curation plan received under the antarctic conservation act|national science foundation|": {
    "first_seen": "2026-11-15T10:14:08+00:00",
-   "last_seen": "2026-11-15T10:14:08+00:00",
+   "last_seen": "2026-11-15T10:17:53+00:00",
    "title": "Notice of Antarctic Meteorite Collection, Documentation, and Curation Plan Received Under the Antarctic Conservation Act of 1978",
    "org": "National Science Foundation",
    "location": null
   },
   "sunshine act meetings|national credit union administration|": {
    "first_seen": "2026-11-15T10:14:08+00:00",
-   "last_seen": "2026-11-15T10:14:08+00:00",
+   "last_seen": "2026-11-15T10:17:53+00:00",
    "title": "Sunshine Act Meetings",
    "org": "National Credit Union Administration",
    "location": null
   },
   "pipeline safety: meetings of the liquid and gas pipeline advisory committees|transportation department, pipeline and hazardous materials safety administration|": {
    "first_seen": "2026-11-15T10:14:08+00:00",
-   "last_seen": "2026-11-15T10:14:08+00:00",
+   "last_seen": "2026-11-15T10:17:53+00:00",
    "title": "Pipeline Safety: Meetings of the Liquid and Gas Pipeline Advisory Committees",
    "org": "Transportation Department, Pipeline and Hazardous Materials Safety Administration",
    "location": null
   },
   "notice of ofac sanctions actions|treasury department, foreign assets control office|": {
    "first_seen": "2026-11-15T10:14:08+00:00",
-   "last_seen": "2026-11-15T10:14:08+00:00",
+   "last_seen": "2026-11-15T10:17:53+00:00",
    "title": "Notice of OFAC Sanctions Actions",
    "org": "Treasury Department, Foreign Assets Control Office",
    "location": null
   },
   "qualification of drivers; exemption applications; implantable cardioverter defibrillators (icd)|transportation department, federal motor carrier safety administration|": {
    "first_seen": "2026-11-15T10:14:08+00:00",
-   "last_seen": "2026-11-15T10:14:08+00:00",
+   "last_seen": "2026-11-15T10:17:53+00:00",
    "title": "Qualification of Drivers; Exemption Applications; Implantable Cardioverter Defibrillators (ICD)",
    "org": "Transportation Department, Federal Motor Carrier Safety Administration",
    "location": null
   },
   "target product profile for a human west nile virus vaccine: request for information|health and human services department, centers for disease control and prevention|": {
    "first_seen": "2026-11-15T10:14:08+00:00",
-   "last_seen": "2026-11-15T10:14:08+00:00",
+   "last_seen": "2026-11-15T10:17:53+00:00",
    "title": "Target Product Profile for a Human West Nile Virus Vaccine: Request for Information",
    "org": "Health and Human Services Department, Centers for Disease Control and Prevention",
    "location": null
   },
   "target product profile for monoclonal antibodies for west nile virus disease prevention: request for information|health and human services department, centers for disease control and prevention|": {
    "first_seen": "2026-11-15T10:14:08+00:00",
-   "last_seen": "2026-11-15T10:14:08+00:00",
+   "last_seen": "2026-11-15T10:17:53+00:00",
    "title": "Target Product Profile for Monoclonal Antibodies for West Nile Virus Disease Prevention: Request for Information",
    "org": "Health and Human Services Department, Centers for Disease Control and Prevention",
    "location": null
   },
   "target product profile for a rapid diagnostic test for west nile virus disease: request for information|health and human services department, centers for disease control and prevention|": {
    "first_seen": "2026-11-15T10:14:08+00:00",
-   "last_seen": "2026-11-15T10:14:08+00:00",
+   "last_seen": "2026-11-15T10:17:53+00:00",
    "title": "Target Product Profile for a Rapid Diagnostic Test for West Nile Virus Disease: Request for Information",
    "org": "Health and Human Services Department, Centers for Disease Control and Prevention",
    "location": null
   },
   "agency information collection activities: notice of intent to extend collection 3038-0082, whistleblower provisions|commodity futures trading commission|": {
    "first_seen": "2026-11-15T10:14:08+00:00",
-   "last_seen": "2026-11-15T10:14:08+00:00",
+   "last_seen": "2026-11-15T10:17:53+00:00",
    "title": "Agency Information Collection Activities: Notice of Intent To Extend Collection 3038-0082, Whistleblower Provisions",
    "org": "Commodity Futures Trading Commission",
    "location": null

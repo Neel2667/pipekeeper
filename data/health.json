@@ -13,8 +13,32 @@
    "feeds": 14,
    "ok": 0,
    "failed": []
+  },
+  {
+   "at": "2026-11-15T10:18:05+00:00",
+   "feeds": 14,
+   "ok": 14,
+   "failed": [
+    "gdelt"
+   ]
   }
  ],
- "last_run": "2026-11-15T10:17:27+00:00",
- "last_status": {}
+ "last_run": "2026-11-15T10:18:05+00:00",
+ "last_status": {
+  "hosthealthcare": true,
+  "remoteok": true,
+  "remotive": true,
+  "weworkremotely": true,
+  "workingnomads": true,
+  "jobicy": true,
+  "himalayas": true,
+  "greenhouse": true,
+  "hnhiring": true,
+  "edgarformd": true,
+  "usaspending": true,
+  "clinicaltrials": true,
+  "openfda510k": true,
+  "federalregister": true,
+  "gdelt": false
+ }
 }

@@ -3,9 +3,9 @@
  "name": "We Work Remotely \u2014 programming jobs",
  "category": "jobs",
  "source": "https://weworkremotely.com/categories/remote-programming-jobs.rss",
- "collected_at": "2026-11-15T10:13:27+00:00",
+ "collected_at": "2026-11-15T10:17:48+00:00",
  "jobs_on_board": 25,
- "new_this_run": 24,
+ "new_this_run": 0,
  "total_tracked": 24,
  "jobs": [
   {
@@ -14,7 +14,7 @@
    "location": null,
    "detail": "Full-Stack Programming",
    "url": "https://weworkremotely.com/remote-jobs/oportun-senior-data-engineer-capital-markets-r13923",
-   "new_this_run": true
+   "new_this_run": false
   },
   {
    "title": "Senior Analytics Engineer / BI Lead \u2014 Channel Insights (iX360)",
@@ -22,7 +22,7 @@
    "location": null,
    "detail": "Full-Stack Programming",
    "url": "https://weworkremotely.com/remote-jobs/toptal-senior-analytics-engineer-bi-lead-channel-insights-ix360",
-   "new_this_run": true
+   "new_this_run": false
   },
   {
    "title": "Salesforce Developer for Org Ownership and Ongoing Platform Development",
@@ -30,7 +30,7 @@
    "location": null,
    "detail": "Full-Stack Programming",
    "url": "https://weworkremotely.com/remote-jobs/toptal-salesforce-developer-for-org-ownership-and-ongoing-platform-development",
-   "new_this_run": true
+   "new_this_run": false
   },
   {
    "title": "Distribution Engineer",
@@ -38,7 +38,7 @@
    "location": null,
    "detail": "Back-End Programming",
    "url": "https://weworkremotely.com/remote-jobs/vertex-marketing-group-distribution-engineer",
-   "new_this_run": true
+   "new_this_run": false
   },
   {
    "title": "Client Value Partner (CVP) - Utilities & Energy Industry",
@@ -46,7 +46,7 @@
    "location": null,
    "detail": "Full-Stack Programming",
    "url": "https://weworkremotely.com/remote-jobs/celonis-client-value-partner-cvp-utilities-energy-industry",
-   "new_this_run": true
+   "new_this_run": false
   },
   {
    "title": "Client Value Partner (CVP) - Oil & Gas Industry",
@@ -54,7 +54,7 @@
    "location": null,
    "detail": "Full-Stack Programming",
    "url": "https://weworkremotely.com/remote-jobs/celonis-client-value-partner-cvp-oil-gas-industry",
-   "new_this_run": true
+   "new_this_run": false
   },
   {
    "title": "Analytics Engineer",
@@ -62,7 +62,7 @@
    "location": null,
    "detail": "Full-Stack Programming",
    "url": "https://weworkremotely.com/remote-jobs/reddit-analytics-engineer",
-   "new_this_run": true
+   "new_this_run": false
   },
   {
    "title": "Senior Data Engineer",
@@ -70,7 +70,7 @@
    "location": null,
    "detail": "Full-Stack Programming",
    "url": "https://weworkremotely.com/remote-jobs/growth-minded-senior-data-engineer",
-   "new_this_run": true
+   "new_this_run": false
   },
   {
    "title": "SAP Berater FI/CO (M/W/D)",
@@ -78,7 +78,7 @@
    "location": null,
    "detail": "Full-Stack Programming",
    "url": "https://weworkremotely.com/remote-jobs/bdf-experts-sap-berater-fi-co-m-w-d",
-   "new_this_run": true
+   "new_this_run": false
   },
   {
    "title": "Senior Fullstack Developer (React.js / Node.js)",
@@ -86,7 +86,7 @@
    "location": null,
    "detail": "Full-Stack Programming",
    "url": "https://weworkremotely.com/remote-jobs/proxify-ab-senior-fullstack-developer-react-js-node-js-5",
-   "new_this_run": true
+   "new_this_run": false
   },
   {
    "title": "Senior Backend Developer (Python)",
@@ -94,7 +94,7 @@
    "location": null,
    "detail": "Back-End Programming",
    "url": "https://weworkremotely.com/remote-jobs/proxify-ab-senior-backend-developer-python-11",
-   "new_this_run": true
+   "new_this_run": false
   },
   {
    "title": "Senior Backend Developer (Node.js / Nest.js)",
@@ -102,7 +102,7 @@
    "location": null,
    "detail": "Back-End Programming",
    "url": "https://weworkremotely.com/remote-jobs/proxify-ab-senior-backend-developer-node-js-nest-js-4",
-   "new_this_run": true
+   "new_this_run": false
   },
   {
    "title": "Freelance Marketo Email Engineer",
@@ -110,7 +110,7 @@
    "location": null,
    "detail": "Front-End Programming",
    "url": "https://weworkremotely.com/remote-jobs/current-freelance-marketo-email-engineer",
-   "new_this_run": true
+   "new_this_run": false
   },
   {
    "title": "Director, AI-Enabled Fraud Prevention & Investigations",
@@ -118,7 +118,7 @@
    "location": null,
    "detail": "Full-Stack Programming",
    "url": "https://weworkremotely.com/remote-jobs/clover-health-director-ai-enabled-fraud-prevention-investigations",
-   "new_this_run": true
+   "new_this_run": false
   },
   {
    "title": "Senior Software Engineer, Product Platform",
@@ -126,7 +126,7 @@
    "location": null,
    "detail": "Full-Stack Programming",
    "url": "https://weworkremotely.com/remote-jobs/lithic-senior-software-engineer-product-platform",
-   "new_this_run": true
+   "new_this_run": false
   },
   {
    "title": "Founding Forward Deployed Engineer",
@@ -134,7 +134,7 @@
    "location": null,
    "detail": "Full-Stack Programming",
    "url": "https://weworkremotely.com/remote-jobs/alloy-founding-forward-deployed-engineer",
-   "new_this_run": true
+   "new_this_run": false
   },
   {
    "title": "Operations Engineer, BizTech",
@@ -142,7 +142,7 @@
    "location": null,
    "detail": "Full-Stack Programming",
    "url": "https://weworkremotely.com/remote-jobs/airbnb-operations-engineer-biztech",
-   "new_this_run": true
+   "new_this_run": false
   },
   {
    "title": "Senior Software Engineer, Processing",
@@ -150,7 +150,7 @@
    "location": null,
    "detail": "Full-Stack Programming",
    "url": "https://weworkremotely.com/remote-jobs/lithic-senior-software-engineer-processing",
-   "new_this_run": true
+   "new_this_run": false
   },
   {
    "title": "Staff Software Engineer, Revenue Systems",
@@ -158,7 +158,7 @@
    "location": null,
    "detail": "Back-End Programming",
    "url": "https://weworkremotely.com/remote-jobs/squarespace-staff-software-engineer-revenue-systems",
-   "new_this_run": true
+   "new_this_run": false
   },
   {
    "title": "Staff Software Engineer - Connectivity",
@@ -166,7 +166,7 @@
    "location": null,
    "detail": "Full-Stack Programming",
    "url": "https://weworkremotely.com/remote-jobs/dremio-staff-software-engineer-connectivity",
-   "new_this_run": true
+   "new_this_run": false
   },
   {
    "title": "Senior Java Developer",
@@ -174,7 +174,7 @@
    "location": null,
    "detail": "Back-End Programming",
    "url": "https://weworkremotely.com/remote-jobs/twikey-senior-java-developer",
-   "new_this_run": true
+   "new_this_run": false
   },
   {
    "title": "Customer Value Architect III",
@@ -182,7 +182,7 @@
    "location": null,
    "detail": "Full-Stack Programming",
    "url": "https://weworkremotely.com/remote-jobs/mixpanel-customer-value-architect-iii-1",
-   "new_this_run": true
+   "new_this_run": false
   },
   {
    "title": "Customer Value Architect III",
@@ -198,7 +198,7 @@
    "location": null,
    "detail": "Full-Stack Programming",
    "url": "https://weworkremotely.com/remote-jobs/sanctuary-computer-head-of-technology",
-   "new_this_run": true
+   "new_this_run": false
   },
   {
    "title": "Staff Software Engineer",
@@ -206,7 +206,7 @@
    "location": null,
    "detail": "Full-Stack Programming",
    "url": "https://weworkremotely.com/remote-jobs/samsara-staff-software-engineer",
-   "new_this_run": true
+   "new_this_run": false
   }
  ],
  "runs": [
@@ -214,173 +214,178 @@
    "at": "2026-11-15T10:13:27+00:00",
    "jobs": 25,
    "new": 24
+  },
+  {
+   "at": "2026-11-15T10:17:48+00:00",
+   "jobs": 25,
+   "new": 0
   }
  ],
  "jobs_seen": {
   "senior data engineer - capital markets (r13923)|oportun|": {
    "first_seen": "2026-11-15T10:13:27+00:00",
-   "last_seen": "2026-11-15T10:13:27+00:00",
+   "last_seen": "2026-11-15T10:17:48+00:00",
    "title": "Senior Data Engineer - Capital Markets (R13923)",
    "org": "Oportun",
    "location": null
   },
   "senior analytics engineer / bi lead \u2014 channel insights (ix360)|toptal|": {
    "first_seen": "2026-11-15T10:13:27+00:00",
-   "last_seen": "2026-11-15T10:13:27+00:00",
+   "last_seen": "2026-11-15T10:17:48+00:00",
    "title": "Senior Analytics Engineer / BI Lead \u2014 Channel Insights (iX360)",
    "org": "Toptal",
    "location": null
   },
   "salesforce developer for org ownership and ongoing platform development|toptal|": {
    "first_seen": "2026-11-15T10:13:27+00:00",
-   "last_seen": "2026-11-15T10:13:27+00:00",
+   "last_seen": "2026-11-15T10:17:48+00:00",
    "title": "Salesforce Developer for Org Ownership and Ongoing Platform Development",
    "org": "Toptal",
    "location": null
   },
   "distribution engineer|vertex marketing group|": {
    "first_seen": "2026-11-15T10:13:27+00:00",
-   "last_seen": "2026-11-15T10:13:27+00:00",
+   "last_seen": "2026-11-15T10:17:48+00:00",
    "title": "Distribution Engineer",
    "org": "Vertex Marketing Group",
    "location": null
   },
   "client value partner (cvp) - utilities & energy industry|celonis|": {
    "first_seen": "2026-11-15T10:13:27+00:00",
-   "last_seen": "2026-11-15T10:13:27+00:00",
+   "last_seen": "2026-11-15T10:17:48+00:00",
    "title": "Client Value Partner (CVP) - Utilities & Energy Industry",
    "org": "Celonis",
    "location": null
   },
   "client value partner (cvp) - oil & gas industry|celonis|": {
    "first_seen": "2026-11-15T10:13:27+00:00",
-   "last_seen": "2026-11-15T10:13:27+00:00",
+   "last_seen": "2026-11-15T10:17:48+00:00",
    "title": "Client Value Partner (CVP) - Oil & Gas Industry",
    "org": "Celonis",
    "location": null
   },
   "analytics engineer|reddit|": {
    "first_seen": "2026-11-15T10:13:27+00:00",
-   "last_seen": "2026-11-15T10:13:27+00:00",
+   "last_seen": "2026-11-15T10:17:48+00:00",
    "title": "Analytics Engineer",
    "org": "Reddit",
    "location": null
   },
   "senior data engineer|growth minded|": {
    "first_seen": "2026-11-15T10:13:27+00:00",
-   "last_seen": "2026-11-15T10:13:27+00:00",
+   "last_seen": "2026-11-15T10:17:48+00:00",
    "title": "Senior Data Engineer",
    "org": "Growth Minded",
    "location": null
   },
   "sap berater fi/co (m/w/d)|bdf experts|": {
    "first_seen": "2026-11-15T10:13:27+00:00",
-   "last_seen": "2026-11-15T10:13:27+00:00",
+   "last_seen": "2026-11-15T10:17:48+00:00",
    "title": "SAP Berater FI/CO (M/W/D)",
    "org": "BDF EXPERTS",
    "location": null
   },
   "senior fullstack developer (react.js / node.js)|proxify ab|": {
    "first_seen": "2026-11-15T10:13:27+00:00",
-   "last_seen": "2026-11-15T10:13:27+00:00",
+   "last_seen": "2026-11-15T10:17:48+00:00",
    "title": "Senior Fullstack Developer (React.js / Node.js)",
    "org": "Proxify AB",
    "location": null
   },
   "senior backend developer (python)|proxify ab|": {
    "first_seen": "2026-11-15T10:13:27+00:00",
-   "last_seen": "2026-11-15T10:13:27+00:00",
+   "last_seen": "2026-11-15T10:17:48+00:00",
    "title": "Senior Backend Developer (Python)",
    "org": "Proxify AB",
    "location": null
   },
   "senior backend developer (node.js / nest.js)|proxify ab|": {
    "first_seen": "2026-11-15T10:13:27+00:00",
-   "last_seen": "2026-11-15T10:13:27+00:00",
+   "last_seen": "2026-11-15T10:17:48+00:00",
    "title": "Senior Backend Developer (Node.js / Nest.js)",
    "org": "Proxify AB",
    "location": null
   },
   "freelance marketo email engineer|current|": {
    "first_seen": "2026-11-15T10:13:27+00:00",
-   "last_seen": "2026-11-15T10:13:27+00:00",
+   "last_seen": "2026-11-15T10:17:48+00:00",
    "title": "Freelance Marketo Email Engineer",
    "org": "Current",
    "location": null
   },
   "director, ai-enabled fraud prevention & investigations|clover health|": {
    "first_seen": "2026-11-15T10:13:27+00:00",
-   "last_seen": "2026-11-15T10:13:27+00:00",
+   "last_seen": "2026-11-15T10:17:48+00:00",
    "title": "Director, AI-Enabled Fraud Prevention & Investigations",
    "org": "Clover Health",
    "location": null
   },
   "senior software engineer, product platform|lithic|": {
    "first_seen": "2026-11-15T10:13:27+00:00",
-   "last_seen": "2026-11-15T10:13:27+00:00",
+   "last_seen": "2026-11-15T10:17:48+00:00",
    "title": "Senior Software Engineer, Product Platform",
    "org": "Lithic",
    "location": null
   },
   "founding forward deployed engineer|alloy|": {
    "first_seen": "2026-11-15T10:13:27+00:00",
-   "last_seen": "2026-11-15T10:13:27+00:00",
+   "last_seen": "2026-11-15T10:17:48+00:00",
    "title": "Founding Forward Deployed Engineer",
    "org": "Alloy",
    "location": null
   },
   "operations engineer, biztech|airbnb|": {
    "first_seen": "2026-11-15T10:13:27+00:00",
-   "last_seen": "2026-11-15T10:13:27+00:00",
+   "last_seen": "2026-11-15T10:17:48+00:00",
    "title": "Operations Engineer, BizTech",
    "org": "Airbnb",
    "location": null
   },
   "senior software engineer, processing|lithic|": {
    "first_seen": "2026-11-15T10:13:27+00:00",
-   "last_seen": "2026-11-15T10:13:27+00:00",
+   "last_seen": "2026-11-15T10:17:48+00:00",
    "title": "Senior Software Engineer, Processing",
    "org": "Lithic",
    "location": null
   },
   "staff software engineer, revenue systems|squarespace|": {
    "first_seen": "2026-11-15T10:13:27+00:00",
-   "last_seen": "2026-11-15T10:13:27+00:00",
+   "last_seen": "2026-11-15T10:17:48+00:00",
    "title": "Staff Software Engineer, Revenue Systems",
    "org": "Squarespace",
    "location": null
   },
   "staff software engineer - connectivity|dremio|": {
    "first_seen": "2026-11-15T10:13:27+00:00",
-   "last_seen": "2026-11-15T10:13:27+00:00",
+   "last_seen": "2026-11-15T10:17:48+00:00",
    "title": "Staff Software Engineer - Connectivity",
    "org": "Dremio",
    "location": null
   },
   "senior java developer|twikey|": {
    "first_seen": "2026-11-15T10:13:27+00:00",
-   "last_seen": "2026-11-15T10:13:27+00:00",
+   "last_seen": "2026-11-15T10:17:48+00:00",
    "title": "Senior Java Developer",
    "org": "Twikey",
    "location": null
   },
   "customer value architect iii|mixpanel|": {
    "first_seen": "2026-11-15T10:13:27+00:00",
-   "last_seen": "2026-11-15T10:13:27+00:00",
+   "last_seen": "2026-11-15T10:17:48+00:00",
    "title": "Customer Value Architect III",
    "org": "Mixpanel",
    "location": null
   },
   "head of technology|sanctuary computer|": {
    "first_seen": "2026-11-15T10:13:27+00:00",
-   "last_seen": "2026-11-15T10:13:27+00:00",
+   "last_seen": "2026-11-15T10:17:48+00:00",
    "title": "Head of Technology",
    "org": "Sanctuary Computer",
    "location": null
   },
   "staff software engineer|samsara|": {
    "first_seen": "2026-11-15T10:13:27+00:00",
-   "last_seen": "2026-11-15T10:13:27+00:00",
+   "last_seen": "2026-11-15T10:17:48+00:00",
    "title": "Staff Software Engineer",
    "org": "Samsara",
    "location": null

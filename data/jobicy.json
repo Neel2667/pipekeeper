@@ -3,9 +3,9 @@
  "name": "Jobicy \u2014 remote jobs",
  "category": "jobs",
  "source": "https://jobicy.com/api/v2/remote-jobs",
- "collected_at": "2026-11-15T10:13:35+00:00",
+ "collected_at": "2026-11-15T10:17:49+00:00",
  "jobs_on_board": 50,
- "new_this_run": 50,
+ "new_this_run": 0,
  "total_tracked": 50,
  "jobs": [
   {
@@ -14,7 +14,7 @@
    "location": "USA",
    "detail": "Senior",
    "url": "https://jobicy.com/jobs/162277-facility-security-officer-2",
-   "new_this_run": true
+   "new_this_run": false
   },
   {
    "title": "Principal Software Engineer - XTM One",
@@ -22,7 +22,7 @@
    "location": "France, Germany, Italy, Portugal, Spain, UK",
    "detail": "Director",
    "url": "https://jobicy.com/jobs/162276-principal-software-engineer-xtm-one",
-   "new_this_run": true
+   "new_this_run": false
   },
   {
    "title": "Board Certified Assistant Behavior Analyst (BCABA) Sign on Bonus!",
@@ -30,7 +30,7 @@
    "location": "USA",
    "detail": "Senior",
    "url": "https://jobicy.com/jobs/162275-board-certified-assistant-behavior-analyst-bcaba-sign-on-bonus",
-   "new_this_run": true
+   "new_this_run": false
   },
   {
    "title": "Customer Support Manager",
@@ -38,7 +38,7 @@
    "location": "USA",
    "detail": "Senior",
    "url": "https://jobicy.com/jobs/162274-customer-support-manager-4",
-   "new_this_run": true
+   "new_this_run": false
   },
   {
    "title": "Federal Climate Policy Director",
@@ -46,7 +46,7 @@
    "location": "USA",
    "detail": "Director",
    "url": "https://jobicy.com/jobs/162273-federal-climate-policy-director",
-   "new_this_run": true
+   "new_this_run": false
   },
   {
    "title": "Coveware - Incident response Director (Remote: West Coast / Pacific Time)",
@@ -54,7 +54,7 @@
    "location": "USA",
    "detail": "Director",
    "url": "https://jobicy.com/jobs/162272-coveware-incident-response-director-remote-west-coast-pacific-time",
-   "new_this_run": true
+   "new_this_run": false
   },
   {
    "title": "Customer Support Manager",
@@ -62,7 +62,7 @@
    "location": "USA",
    "detail": "Any",
    "url": "https://jobicy.com/jobs/162271-customer-support-manager-3",
-   "new_this_run": true
+   "new_this_run": false
   },
   {
    "title": "Account Executive - NA",
@@ -70,7 +70,7 @@
    "location": "Canada, USA",
    "detail": "Director",
    "url": "https://jobicy.com/jobs/162270-account-executive-na",
-   "new_this_run": true
+   "new_this_run": false
   },
   {
    "title": "BCBA - Clinical Assessor",
@@ -78,7 +78,7 @@
    "location": "USA",
    "detail": "Senior",
    "url": "https://jobicy.com/jobs/162268-bcba-clinical-assessor",
-   "new_this_run": true
+   "new_this_run": false
   },
   {
    "title": "Corporate Development Lead",
@@ -86,7 +86,7 @@
    "location": "Canada, USA",
    "detail": "Director",
    "url": "https://jobicy.com/jobs/162266-corporate-development-lead",
-   "new_this_run": true
+   "new_this_run": false
   },
   {
    "title": "Strategic Alliance Director",
@@ -94,7 +94,7 @@
    "location": "USA",
    "detail": "Director",
    "url": "https://jobicy.com/jobs/155387-strategic-alliance-director",
-   "new_this_run": true
+   "new_this_run": false
   },
   {
    "title": "Head of Data Science",
@@ -102,7 +102,7 @@
    "location": "Ireland, Portugal, UK",
    "detail": "Director",
    "url": "https://jobicy.com/jobs/155403-head-of-data-science-2",
-   "new_this_run": true
+   "new_this_run": false
   },
   {
    "title": "Senior Account Executive",
@@ -110,7 +110,7 @@
    "location": "USA",
    "detail": "Director",
    "url": "https://jobicy.com/jobs/155400-senior-account-executive-6",
-   "new_this_run": true
+   "new_this_run": false
   },
   {
    "title": "Mid-Market Account Executive, New Business (API/CPaaS)",
@@ -118,7 +118,7 @@
    "location": "USA",
    "detail": "Director",
    "url": "https://jobicy.com/jobs/155399-mid-market-account-executive-new-business-api-cpaas",
-   "new_this_run": true
+   "new_this_run": false
   },
   {
    "title": "Senior Analytics Engineer",
@@ -126,7 +126,7 @@
    "location": "Ireland, Portugal, UK",
    "detail": "Senior",
    "url": "https://jobicy.com/jobs/155397-senior-analytics-engineer-3",
-   "new_this_run": true
+   "new_this_run": false
   },
   {
    "title": "Enterprise Account Director, New Business (API/CPaaS)",
@@ -134,7 +134,7 @@
    "location": "USA",
    "detail": "Director",
    "url": "https://jobicy.com/jobs/155396-enterprise-account-director-new-business-api-cpaas",
-   "new_this_run": true
+   "new_this_run": false
   },
   {
    "title": "Executive Assistant to the CEO",
@@ -142,7 +142,7 @@
    "location": "APAC",
    "detail": "Director",
    "url": "https://jobicy.com/jobs/155393-executive-assistant-to-the-ceo-3",
-   "new_this_run": true
+   "new_this_run": false
   },
   {
    "title": "Site Reliability Engineer",
@@ -150,7 +150,7 @@
    "location": "Anywhere",
    "detail": "Any",
    "url": "https://jobicy.com/jobs/155391-site-reliability-engineer-4",
-   "new_this_run": true
+   "new_this_run": false
   },
   {
    "title": "Platform Engineer, Managed Postgres",
@@ -158,7 +158,7 @@
    "location": "Anywhere",
    "detail": "Senior",
    "url": "https://jobicy.com/jobs/155389-platform-engineer-managed-postgres",
-   "new_this_run": true
+   "new_this_run": false
   },
   {
    "title": "AI Platform Engineer",
@@ -166,7 +166,7 @@
    "location": "Anywhere",
    "detail": "Director",
    "url": "https://jobicy.com/jobs/155385-ai-platform-engineer",
-   "new_this_run": true
+   "new_this_run": false
   },
   {
    "title": "Community Engagement Lead (BrightLife Kids - SF Bay Area)",
@@ -174,7 +174,7 @@
    "location": "USA",
    "detail": "Director",
    "url": "https://jobicy.com/jobs/155384-community-engagement-lead-brightlife-kids-sf-bay-area",
-   "new_this_run": true
+   "new_this_run": false
   },
   {
    "title": "Solutions Architect f/m/d",
@@ -182,7 +182,7 @@
    "location": "France",
    "detail": "Senior",
    "url": "https://jobicy.com/jobs/155375-solutions-architect-f-m-d",
-   "new_this_run": true
+   "new_this_run": false
   },
   {
    "title": "Senior People Solutions Analyst",
@@ -190,7 +190,7 @@
    "location": "Poland",
    "detail": "Senior",
    "url": "https://jobicy.com/jobs/155376-senior-people-solutions-analyst",
-   "new_this_run": true
+   "new_this_run": false
   },
   {
    "title": "Principal GSI Partner Manager - Accenture (EMEA)",
@@ -198,7 +198,7 @@
    "location": "UK",
    "detail": "Senior",
    "url": "https://jobicy.com/jobs/155382-principal-gsi-partner-manager-accenture-emea",
-   "new_this_run": true
+   "new_this_run": false
   },
   {
    "title": "Junior Software Engineer",
@@ -206,7 +206,7 @@
    "location": "Canada",
    "detail": "Entry-Level, Junior",
    "url": "https://jobicy.com/jobs/153164-junior-software-engineer-2",
-   "new_this_run": true
+   "new_this_run": false
   },
   {
    "title": "Customer Success Specialist",
@@ -214,7 +214,7 @@
    "location": "Canada",
    "detail": "Any",
    "url": "https://jobicy.com/jobs/153160-customer-success-specialist-5",
-   "new_this_run": true
+   "new_this_run": false
   },
   {
    "title": "Principal Customer Success Manager - Pharma",
@@ -222,7 +222,7 @@
    "location": "USA",
    "detail": "Director",
    "url": "https://jobicy.com/jobs/153147-principal-customer-success-manager-pharma",
-   "new_this_run": true
+   "new_this_run": false
   },
   {
    "title": "Systems Engineer Belgium & Luxembourg",
@@ -230,7 +230,7 @@
    "location": "Belgium",
    "detail": "Any",
    "url": "https://jobicy.com/jobs/155372-systems-engineer-belgium-luxembourg",
-   "new_this_run": true
+   "new_this_run": false
   },
   {
    "title": "Business Operations Manager",
@@ -238,7 +238,7 @@
    "location": "USA",
    "detail": "Director",
    "url": "https://jobicy.com/jobs/155401-business-operations-manager",
-   "new_this_run": true
+   "new_this_run": false
   },
   {
    "title": "Sales Engineer - Data & AI Security",
@@ -246,7 +246,7 @@
    "location": "Spain",
    "detail": "Senior",
    "url": "https://jobicy.com/jobs/155368-sales-engineer-data-ai-security",
-   "new_this_run": true
+   "new_this_run": false
   },
   {
    "title": "Solutions Engineer, Veeam Data Cloud Vault",
@@ -254,7 +254,7 @@
    "location": "France",
    "detail": "Director",
    "url": "https://jobicy.com/jobs/155371-solutions-engineer-veeam-data-cloud-vault",
-   "new_this_run": true
+   "new_this_run": false
   },
   {
    "title": "Senior Counsel, EMEA Employment",
@@ -262,7 +262,7 @@
    "location": "UK",
    "detail": "Director",
    "url": "https://jobicy.com/jobs/155370-senior-counsel-emea-employment",
-   "new_this_run": true
+   "new_this_run": false
   },
   {
    "title": "Senior Account Executive, Enterprise (Private Accounts)",
@@ -270,7 +270,7 @@
    "location": "Germany",
    "detail": "Director",
    "url": "https://jobicy.com/jobs/155369-senior-account-executive-enterprise-private-accounts",
-   "new_this_run": true
+   "new_this_run": false
   },
   {
    "title": "Senior Field Marketing Manager",
@@ -278,7 +278,7 @@
    "location": "USA",
    "detail": "Senior",
    "url": "https://jobicy.com/jobs/155356-senior-field-marketing-manager",
-   "new_this_run": true
+   "new_this_run": false
   },
   {
    "title": "Technical Account Manager",
@@ -286,7 +286,7 @@
    "location": "France",
    "detail": "Any",
    "url": "https://jobicy.com/jobs/155373-technical-account-manager-6",
-   "new_this_run": true
+   "new_this_run": false
   },
   {
    "title": "Senior Director, Brand Marketing",
@@ -294,7 +294,7 @@
    "location": "USA",
    "detail": "Director",
    "url": "https://jobicy.com/jobs/155355-senior-director-brand-marketing",
-   "new_this_run": true
+   "new_this_run": false
   },
   {
    "title": "Administrative Officer / Legal Administrative Officer - Financial Services",
@@ -302,7 +302,7 @@
    "location": "APAC, Hong Kong",
    "detail": "Midweight",
    "url": "https://jobicy.com/jobs/149129-administrative-officer-legal-administrative-officer-financial-services-2",
-   "new_this_run": true
+   "new_this_run": false
   },
   {
    "title": "Senior Demand Generation Manager - International",
@@ -310,7 +310,7 @@
    "location": "Ireland, Portugal, UK",
    "detail": "Senior",
    "url": "https://jobicy.com/jobs/155366-senior-demand-generation-manager-international",
-   "new_this_run": true
+   "new_this_run": false
   },
   {
    "title": "Senior Platform Engineer",
@@ -318,7 +318,7 @@
    "location": "USA",
    "detail": "Senior",
    "url": "https://jobicy.com/jobs/155361-senior-platform-engineer-5",
-   "new_this_run": true
+   "new_this_run": false
   },
   {
    "title": "Partner Development Manager",
@@ -326,7 +326,7 @@
    "location": "USA",
    "detail": "Director",
    "url": "https://jobicy.com/jobs/155354-partner-development-manager-2",
-   "new_this_run": true
+   "new_this_run": false
   },
   {
    "title": "Director, Corporate Counsel",
@@ -334,7 +334,7 @@
    "location": "USA",
    "detail": "Director",
    "url": "https://jobicy.com/jobs/153169-director-corporate-counsel-2",
-   "new_this_run": true
+   "new_this_run": false
   },
   {
    "title": "Senior Forward Deployed Engineer",
@@ -342,7 +342,7 @@
    "location": "Canada, Mexico, USA",
    "detail": "Senior",
    "url": "https://jobicy.com/jobs/155357-senior-forward-deployed-engineer-2",
-   "new_this_run": true
+   "new_this_run": false
   },
   {
    "title": "Director, Global Solutions Engineering",
@@ -350,7 +350,7 @@
    "location": "Australia",
    "detail": "Director",
    "url": "https://jobicy.com/jobs/153274-director-global-solutions-engineering",
-   "new_this_run": true
+   "new_this_run": false
   },
   {
    "title": "Health Coach Manager",
@@ -358,7 +358,7 @@
    "location": "USA",
    "detail": "Senior",
    "url": "https://jobicy.com/jobs/153183-health-coach-manager",
-   "new_this_run": true
+   "new_this_run": false
   },
   {
    "title": "Navy Account Executive - Public Sector",
@@ -366,7 +366,7 @@
    "location": "USA",
    "detail": "Director",
    "url": "https://jobicy.com/jobs/162244-navy-account-executive-public-sector",
-   "new_this_run": true
+   "new_this_run": false
   },
   {
    "title": "Director, Strategic Engagements (Northeast)",
@@ -374,7 +374,7 @@
    "location": "USA",
    "detail": "Director",
    "url": "https://jobicy.com/jobs/162253-director-strategic-engagements-northeast",
-   "new_this_run": true
+   "new_this_run": false
   },
   {
    "title": "City Manager, New York",
@@ -382,7 +382,7 @@
    "location": "USA",
    "detail": "Senior",
    "url": "https://jobicy.com/jobs/162252-city-manager-new-york",
-   "new_this_run": true
+   "new_this_run": false
   },
   {
    "title": "Manager, Paid Search",
@@ -390,7 +390,7 @@
    "location": "USA",
    "detail": "Senior",
    "url": "https://jobicy.com/jobs/162251-manager-paid-search",
-   "new_this_run": true
+   "new_this_run": false
   },
   {
    "title": "Director, Observability Architects (Americas) | USA | Remote",
@@ -398,7 +398,7 @@
    "location": "USA",
    "detail": "Director",
    "url": "https://jobicy.com/jobs/162250-director-observability-architects-americas-usa-remote",
-   "new_this_run": true
+   "new_this_run": false
   },
   {
    "title": "Part-Time MCAT Tutor",
@@ -406,7 +406,7 @@
    "location": "Canada, USA",
    "detail": "Any",
    "url": "https://jobicy.com/jobs/162249-part-time-mcat-tutor",
-   "new_this_run": true
+   "new_this_run": false
   }
  ],
  "runs": [
@@ -414,355 +414,360 @@
    "at": "2026-11-15T10:13:35+00:00",
    "jobs": 50,
    "new": 50
+  },
+  {
+   "at": "2026-11-15T10:17:49+00:00",
+   "jobs": 50,
+   "new": 0
   }
  ],
  "jobs_seen": {
   "facility security officer|cribl|usa": {
    "first_seen": "2026-11-15T10:13:35+00:00",
-   "last_seen": "2026-11-15T10:13:35+00:00",
+   "last_seen": "2026-11-15T10:17:49+00:00",
    "title": "Facility Security Officer",
    "org": "Cribl",
    "location": "USA"
   },
   "principal software engineer - xtm one|filigran|france, germany, italy, portugal, spain, uk": {
    "first_seen": "2026-11-15T10:13:35+00:00",
-   "last_seen": "2026-11-15T10:13:35+00:00",
+   "last_seen": "2026-11-15T10:17:49+00:00",
    "title": "Principal Software Engineer - XTM One",
    "org": "Filigran",
    "location": "France, Germany, Italy, Portugal, Spain, UK"
   },
   "board certified assistant behavior analyst (bcaba) sign on bonus!|above and beyond therapy|usa": {
    "first_seen": "2026-11-15T10:13:35+00:00",
-   "last_seen": "2026-11-15T10:13:35+00:00",
+   "last_seen": "2026-11-15T10:17:49+00:00",
    "title": "Board Certified Assistant Behavior Analyst (BCABA) Sign on Bonus!",
    "org": "Above and Beyond Therapy",
    "location": "USA"
   },
   "customer support manager|mercury|usa": {
    "first_seen": "2026-11-15T10:13:35+00:00",
-   "last_seen": "2026-11-15T10:13:35+00:00",
+   "last_seen": "2026-11-15T10:17:49+00:00",
    "title": "Customer Support Manager",
    "org": "Mercury",
    "location": "USA"
   },
   "federal climate policy director|pacific environment|usa": {
    "first_seen": "2026-11-15T10:13:35+00:00",
-   "last_seen": "2026-11-15T10:13:35+00:00",
+   "last_seen": "2026-11-15T10:17:49+00:00",
    "title": "Federal Climate Policy Director",
    "org": "Pacific Environment",
    "location": "USA"
   },
   "coveware - incident response director (remote: west coast / pacific time)|veeam software|usa": {
    "first_seen": "2026-11-15T10:13:35+00:00",
-   "last_seen": "2026-11-15T10:13:35+00:00",
+   "last_seen": "2026-11-15T10:17:49+00:00",
    "title": "Coveware - Incident response Director (Remote: West Coast / Pacific Time)",
    "org": "Veeam Software",
    "location": "USA"
   },
   "customer support manager|cribl|usa": {
    "first_seen": "2026-11-15T10:13:35+00:00",
-   "last_seen": "2026-11-15T10:13:35+00:00",
+   "last_seen": "2026-11-15T10:17:49+00:00",
    "title": "Customer Support Manager",
    "org": "Cribl",
    "location": "USA"
   },
   "account executive - na|filigran|canada, usa": {
    "first_seen": "2026-11-15T10:13:35+00:00",
-   "last_seen": "2026-11-15T10:13:35+00:00",
+   "last_seen": "2026-11-15T10:17:49+00:00",
    "title": "Account Executive - NA",
    "org": "Filigran",
    "location": "Canada, USA"
   },
   "bcba - clinical assessor|above and beyond therapy|usa": {
    "first_seen": "2026-11-15T10:13:35+00:00",
-   "last_seen": "2026-11-15T10:13:35+00:00",
+   "last_seen": "2026-11-15T10:17:49+00:00",
    "title": "BCBA - Clinical Assessor",
    "org": "Above and Beyond Therapy",
    "location": "USA"
   },
   "corporate development lead|mercury|canada, usa": {
    "first_seen": "2026-11-15T10:13:35+00:00",
-   "last_seen": "2026-11-15T10:13:35+00:00",
+   "last_seen": "2026-11-15T10:17:49+00:00",
    "title": "Corporate Development Lead",
    "org": "Mercury",
    "location": "Canada, USA"
   },
   "strategic alliance director|actian|usa": {
    "first_seen": "2026-11-15T10:13:35+00:00",
-   "last_seen": "2026-11-15T10:13:35+00:00",
+   "last_seen": "2026-11-15T10:17:49+00:00",
    "title": "Strategic Alliance Director",
    "org": "Actian",
    "location": "USA"
   },
   "head of data science|paddle|ireland, portugal, uk": {
    "first_seen": "2026-11-15T10:13:35+00:00",
-   "last_seen": "2026-11-15T10:13:35+00:00",
+   "last_seen": "2026-11-15T10:17:49+00:00",
    "title": "Head of Data Science",
    "org": "Paddle",
    "location": "Ireland, Portugal, UK"
   },
   "senior account executive|paddle|usa": {
    "first_seen": "2026-11-15T10:13:35+00:00",
-   "last_seen": "2026-11-15T10:13:35+00:00",
+   "last_seen": "2026-11-15T10:17:49+00:00",
    "title": "Senior Account Executive",
    "org": "Paddle",
    "location": "USA"
   },
   "mid-market account executive, new business (api/cpaas)|vonage|usa": {
    "first_seen": "2026-11-15T10:13:35+00:00",
-   "last_seen": "2026-11-15T10:13:35+00:00",
+   "last_seen": "2026-11-15T10:17:49+00:00",
    "title": "Mid-Market Account Executive, New Business (API/CPaaS)",
    "org": "Vonage",
    "location": "USA"
   },
   "senior analytics engineer|paddle|ireland, portugal, uk": {
    "first_seen": "2026-11-15T10:13:35+00:00",
-   "last_seen": "2026-11-15T10:13:35+00:00",
+   "last_seen": "2026-11-15T10:17:49+00:00",
    "title": "Senior Analytics Engineer",
    "org": "Paddle",
    "location": "Ireland, Portugal, UK"
   },
   "enterprise account director, new business (api/cpaas)|vonage|usa": {
    "first_seen": "2026-11-15T10:13:35+00:00",
-   "last_seen": "2026-11-15T10:13:35+00:00",
+   "last_seen": "2026-11-15T10:17:49+00:00",
    "title": "Enterprise Account Director, New Business (API/CPaaS)",
    "org": "Vonage",
    "location": "USA"
   },
   "executive assistant to the ceo|supabase|apac": {
    "first_seen": "2026-11-15T10:13:35+00:00",
-   "last_seen": "2026-11-15T10:13:35+00:00",
+   "last_seen": "2026-11-15T10:17:49+00:00",
    "title": "Executive Assistant to the CEO",
    "org": "Supabase",
    "location": "APAC"
   },
   "site reliability engineer|supabase|anywhere": {
    "first_seen": "2026-11-15T10:13:35+00:00",
-   "last_seen": "2026-11-15T10:13:35+00:00",
+   "last_seen": "2026-11-15T10:17:49+00:00",
    "title": "Site Reliability Engineer",
    "org": "Supabase",
    "location": "Anywhere"
   },
   "platform engineer, managed postgres|supabase|anywhere": {
    "first_seen": "2026-11-15T10:13:35+00:00",
-   "last_seen": "2026-11-15T10:13:35+00:00",
+   "last_seen": "2026-11-15T10:17:49+00:00",
    "title": "Platform Engineer, Managed Postgres",
    "org": "Supabase",
    "location": "Anywhere"
   },
   "ai platform engineer|supabase|anywhere": {
    "first_seen": "2026-11-15T10:13:35+00:00",
-   "last_seen": "2026-11-15T10:13:35+00:00",
+   "last_seen": "2026-11-15T10:17:49+00:00",
    "title": "AI Platform Engineer",
    "org": "Supabase",
    "location": "Anywhere"
   },
   "community engagement lead (brightlife kids - sf bay area)|brightline|usa": {
    "first_seen": "2026-11-15T10:13:35+00:00",
-   "last_seen": "2026-11-15T10:13:35+00:00",
+   "last_seen": "2026-11-15T10:17:49+00:00",
    "title": "Community Engagement Lead (BrightLife Kids - SF Bay Area)",
    "org": "Brightline",
    "location": "USA"
   },
   "solutions architect f/m/d|apaleo|france": {
    "first_seen": "2026-11-15T10:13:35+00:00",
-   "last_seen": "2026-11-15T10:13:35+00:00",
+   "last_seen": "2026-11-15T10:17:49+00:00",
    "title": "Solutions Architect f/m/d",
    "org": "Apaleo",
    "location": "France"
   },
   "senior people solutions analyst|collibra|poland": {
    "first_seen": "2026-11-15T10:13:35+00:00",
-   "last_seen": "2026-11-15T10:13:35+00:00",
+   "last_seen": "2026-11-15T10:17:49+00:00",
    "title": "Senior People Solutions Analyst",
    "org": "Collibra",
    "location": "Poland"
   },
   "principal gsi partner manager - accenture (emea)|datadog|uk": {
    "first_seen": "2026-11-15T10:13:35+00:00",
-   "last_seen": "2026-11-15T10:13:35+00:00",
+   "last_seen": "2026-11-15T10:17:49+00:00",
    "title": "Principal GSI Partner Manager - Accenture (EMEA)",
    "org": "Datadog",
    "location": "UK"
   },
   "junior software engineer|policyme|canada": {
    "first_seen": "2026-11-15T10:13:35+00:00",
-   "last_seen": "2026-11-15T10:13:35+00:00",
+   "last_seen": "2026-11-15T10:17:49+00:00",
    "title": "Junior Software Engineer",
    "org": "PolicyMe",
    "location": "Canada"
   },
   "customer success specialist|policyme|canada": {
    "first_seen": "2026-11-15T10:13:35+00:00",
-   "last_seen": "2026-11-15T10:13:35+00:00",
+   "last_seen": "2026-11-15T10:17:49+00:00",
    "title": "Customer Success Specialist",
    "org": "PolicyMe",
    "location": "Canada"
   },
   "principal customer success manager - pharma|h1|usa": {
    "first_seen": "2026-11-15T10:13:35+00:00",
-   "last_seen": "2026-11-15T10:13:35+00:00",
+   "last_seen": "2026-11-15T10:17:49+00:00",
    "title": "Principal Customer Success Manager - Pharma",
    "org": "H1",
    "location": "USA"
   },
   "systems engineer belgium & luxembourg|veeam software|belgium": {
    "first_seen": "2026-11-15T10:13:35+00:00",
-   "last_seen": "2026-11-15T10:13:35+00:00",
+   "last_seen": "2026-11-15T10:17:49+00:00",
    "title": "Systems Engineer Belgium & Luxembourg",
    "org": "Veeam Software",
    "location": "Belgium"
   },
   "business operations manager|motive|usa": {
    "first_seen": "2026-11-15T10:13:35+00:00",
-   "last_seen": "2026-11-15T10:13:35+00:00",
+   "last_seen": "2026-11-15T10:17:49+00:00",
    "title": "Business Operations Manager",
    "org": "Motive",
    "location": "USA"
   },
   "sales engineer - data & ai security|veeam software|spain": {
    "first_seen": "2026-11-15T10:13:35+00:00",
-   "last_seen": "2026-11-15T10:13:35+00:00",
+   "last_seen": "2026-11-15T10:17:49+00:00",
    "title": "Sales Engineer - Data & AI Security",
    "org": "Veeam Software",
    "location": "Spain"
   },
   "solutions engineer, veeam data cloud vault|veeam software|france": {
    "first_seen": "2026-11-15T10:13:35+00:00",
-   "last_seen": "2026-11-15T10:13:35+00:00",
+   "last_seen": "2026-11-15T10:17:49+00:00",
    "title": "Solutions Engineer, Veeam Data Cloud Vault",
    "org": "Veeam Software",
    "location": "France"
   },
   "senior counsel, emea employment|veeam software|uk": {
    "first_seen": "2026-11-15T10:13:35+00:00",
-   "last_seen": "2026-11-15T10:13:35+00:00",
+   "last_seen": "2026-11-15T10:17:49+00:00",
    "title": "Senior Counsel, EMEA Employment",
    "org": "Veeam Software",
    "location": "UK"
   },
   "senior account executive, enterprise (private accounts)|veeam software|germany": {
    "first_seen": "2026-11-15T10:13:35+00:00",
-   "last_seen": "2026-11-15T10:13:35+00:00",
+   "last_seen": "2026-11-15T10:17:49+00:00",
    "title": "Senior Account Executive, Enterprise (Private Accounts)",
    "org": "Veeam Software",
    "location": "Germany"
   },
   "senior field marketing manager|fleetio|usa": {
    "first_seen": "2026-11-15T10:13:35+00:00",
-   "last_seen": "2026-11-15T10:13:35+00:00",
+   "last_seen": "2026-11-15T10:17:49+00:00",
    "title": "Senior Field Marketing Manager",
    "org": "Fleetio",
    "location": "USA"
   },
   "technical account manager|veeam software|france": {
    "first_seen": "2026-11-15T10:13:35+00:00",
-   "last_seen": "2026-11-15T10:13:35+00:00",
+   "last_seen": "2026-11-15T10:17:49+00:00",
    "title": "Technical Account Manager",
    "org": "Veeam Software",
    "location": "France"
   },
   "senior director, brand marketing|fleetio|usa": {
    "first_seen": "2026-11-15T10:13:35+00:00",
-   "last_seen": "2026-11-15T10:13:35+00:00",
+   "last_seen": "2026-11-15T10:17:49+00:00",
    "title": "Senior Director, Brand Marketing",
    "org": "Fleetio",
    "location": "USA"
   },
   "administrative officer / legal administrative officer - financial services|axiom|apac, hong kong": {
    "first_seen": "2026-11-15T10:13:35+00:00",
-   "last_seen": "2026-11-15T10:13:35+00:00",
+   "last_seen": "2026-11-15T10:17:49+00:00",
    "title": "Administrative Officer / Legal Administrative Officer - Financial Services",
    "org": "Axiom",
    "location": "APAC, Hong Kong"
   },
   "senior demand generation manager - international|tremendous|ireland, portugal, uk": {
    "first_seen": "2026-11-15T10:13:35+00:00",
-   "last_seen": "2026-11-15T10:13:35+00:00",
+   "last_seen": "2026-11-15T10:17:49+00:00",
    "title": "Senior Demand Generation Manager - International",
    "org": "Tremendous",
    "location": "Ireland, Portugal, UK"
   },
   "senior platform engineer|fleetio|usa": {
    "first_seen": "2026-11-15T10:13:35+00:00",
-   "last_seen": "2026-11-15T10:13:35+00:00",
+   "last_seen": "2026-11-15T10:17:49+00:00",
    "title": "Senior Platform Engineer",
    "org": "Fleetio",
    "location": "USA"
   },
   "partner development manager|fleetio|usa": {
    "first_seen": "2026-11-15T10:13:35+00:00",
-   "last_seen": "2026-11-15T10:13:35+00:00",
+   "last_seen": "2026-11-15T10:17:49+00:00",
    "title": "Partner Development Manager",
    "org": "Fleetio",
    "location": "USA"
   },
   "director, corporate counsel|betterhelp|usa": {
    "first_seen": "2026-11-15T10:13:35+00:00",
-   "last_seen": "2026-11-15T10:13:35+00:00",
+   "last_seen": "2026-11-15T10:17:49+00:00",
    "title": "Director, Corporate Counsel",
    "org": "BetterHelp",
    "location": "USA"
   },
   "senior forward deployed engineer|fleetio|canada, mexico, usa": {
    "first_seen": "2026-11-15T10:13:35+00:00",
-   "last_seen": "2026-11-15T10:13:35+00:00",
+   "last_seen": "2026-11-15T10:17:49+00:00",
    "title": "Senior Forward Deployed Engineer",
    "org": "Fleetio",
    "location": "Canada, Mexico, USA"
   },
   "director, global solutions engineering|upguard|australia": {
    "first_seen": "2026-11-15T10:13:35+00:00",
-   "last_seen": "2026-11-15T10:13:35+00:00",
+   "last_seen": "2026-11-15T10:17:49+00:00",
    "title": "Director, Global Solutions Engineering",
    "org": "UpGuard",
    "location": "Australia"
   },
   "health coach manager|future plc|usa": {
    "first_seen": "2026-11-15T10:13:35+00:00",
-   "last_seen": "2026-11-15T10:13:35+00:00",
+   "last_seen": "2026-11-15T10:17:49+00:00",
    "title": "Health Coach Manager",
    "org": "Future PLC",
    "location": "USA"
   },
   "navy account executive - public sector|unstructured technologies inc.|usa": {
    "first_seen": "2026-11-15T10:13:35+00:00",
-   "last_seen": "2026-11-15T10:13:35+00:00",
+   "last_seen": "2026-11-15T10:17:49+00:00",
    "title": "Navy Account Executive - Public Sector",
    "org": "Unstructured Technologies Inc.",
    "location": "USA"
   },
   "director, strategic engagements (northeast)|xenon pharmaceuticals inc.|usa": {
    "first_seen": "2026-11-15T10:13:35+00:00",
-   "last_seen": "2026-11-15T10:13:35+00:00",
+   "last_seen": "2026-11-15T10:17:49+00:00",
    "title": "Director, Strategic Engagements (Northeast)",
    "org": "Xenon Pharmaceuticals Inc.",
    "location": "USA"
   },
   "city manager, new york|flex|usa": {
    "first_seen": "2026-11-15T10:13:35+00:00",
-   "last_seen": "2026-11-15T10:13:35+00:00",
+   "last_seen": "2026-11-15T10:17:49+00:00",
    "title": "City Manager, New York",
    "org": "Flex",
    "location": "USA"
   },
   "manager, paid search|quince|usa": {
    "first_seen": "2026-11-15T10:13:35+00:00",
-   "last_seen": "2026-11-15T10:13:35+00:00",
+   "last_seen": "2026-11-15T10:17:49+00:00",
    "title": "Manager, Paid Search",
    "org": "Quince",
    "location": "USA"
   },
   "director, observability architects (americas) | usa | remote|grafana labs|usa": {
    "first_seen": "2026-11-15T10:13:35+00:00",
-   "last_seen": "2026-11-15T10:13:35+00:00",
+   "last_seen": "2026-11-15T10:17:49+00:00",
    "title": "Director, Observability Architects (Americas) | USA | Remote",
    "org": "Grafana Labs",
    "location": "USA"
   },
   "part-time mcat tutor|inspira education|canada, usa": {
    "first_seen": "2026-11-15T10:13:35+00:00",
-   "last_seen": "2026-11-15T10:13:35+00:00",
+   "last_seen": "2026-11-15T10:17:49+00:00",
    "title": "Part-Time MCAT Tutor",
    "org": "Inspira Education",
    "location": "Canada, USA"
