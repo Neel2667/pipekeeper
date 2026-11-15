@@ -183,6 +183,21 @@ tbody tr:last-child td{border-bottom:none}
 .feed-bot a{color:var(--dim);text-decoration:underline;text-underline-offset:3px}
 .feed-bot a:hover{color:var(--acc-t)}
 
+/* fleet grid */
+.fleet{display:grid;grid-template-columns:repeat(auto-fill,minmax(255px,1fr));gap:14px}
+.fcard{position:relative;background:var(--card);border:1px solid var(--line);border-radius:16px;
+  padding:18px 20px 16px;cursor:pointer;transition:border-color .2s,transform .2s,background .2s;overflow:hidden}
+.fcard:hover{border-color:rgba(140,180,10,.4);transform:translateY(-3px)}
+.fcard.active{border-color:rgba(140,180,10,.55);background:rgba(190,225,45,.09)}
+.fcard .dot{position:absolute;top:18px;right:16px;width:7px;height:7px;border-radius:50%;background:var(--acc)}
+.fcard .dot.bad{background:#D6564E}
+.fcard .fc{font:500 .6rem/1 var(--mono);letter-spacing:.14em;text-transform:uppercase;color:var(--acc-t)}
+.fcard .fn{font-weight:600;font-size:.85rem;line-height:1.4;margin:9px 0 12px;padding-right:14px}
+.fcard .fm{display:flex;justify-content:space-between;gap:10px;color:var(--faint);font:400 .66rem/1.4 var(--mono)}
+.fcard .fm b{color:var(--dim);font-weight:500}
+.jlink{text-decoration:none;border-bottom:1px solid rgba(140,180,10,.4);transition:.15s}
+.jlink:hover{color:var(--acc-t);border-bottom-color:var(--acc-t)}
+
 /* offers */
 .offers{display:grid;grid-template-columns:1fr 1fr;gap:22px}
 @media(max-width:860px){.offers{grid-template-columns:1fr}}
@@ -305,22 +320,26 @@ footer a{color:var(--dim)}footer a:hover{color:var(--acc-t)}
 
 <div class="stats">
   <div class="wrap stats-in">
-    <div class="stat"><div class="n"><span data-count id="s-runs">0</span></div><div class="l">collection runs completed</div></div>
+    <div class="stat"><div class="n"><span data-count id="s-feeds">0</span></div><div class="l">feeds under management</div></div>
     <div class="stat"><div class="n"><span data-count id="s-records">0</span></div><div class="l">records tracked since start</div></div>
-    <div class="stat"><div class="n"><span data-count id="s-hours">0</span><small>h</small></div><div class="l">of continuous operation</div></div>
+    <div class="stat"><div class="n"><span data-count id="s-runs">0</span></div><div class="l">collection runs per feed</div></div>
     <div class="stat"><div class="n">99.9<small>%</small></div><div class="l">schedule adherence target</div></div>
   </div>
 </div>
 
 <section id="feed">
   <div class="wrap">
-    <div class="kicker reveal">Live feed · sample</div>
-    <h2 class="reveal">What a PipeKeeper feed <em>looks like.</em></h2>
-    <p class="sec-sub reveal">One of our operated feeds — travel-healthcare staffing jobs, straight from the source. Refreshed every hour. New postings are flagged automatically. This isn't a screenshot; it's the live pipe.</p>
+    <div class="kicker reveal">Live fleet · 15 feeds</div>
+    <h2 class="reveal">Every feed, <em>alive.</em></h2>
+    <p class="sec-sub reveal">Eight job boards, two hiring signals, two funding &amp; contract feeds, four government trackers and a news wire — each collected hourly, delta-tracked record by record, and health-checked automatically. Click any feed below to inspect its live pipe.</p>
 
-    <div class="feed-panel" style="margin-top:52px">
+    <div class="fleet reveal" id="fleet" style="margin-top:44px">
+      <div class="fcard"><span class="fc">loading fleet…</span></div>
+    </div>
+
+    <div class="feed-panel" style="margin-top:28px">
       <div class="feed-top">
-        <div class="fl"><i></i>feed-01 · travel healthcare jobs</div>
+        <div class="fl"><i></i><span id="feed-label">feed-01 · travel healthcare jobs</span></div>
         <div class="toggle" id="filter">
           <button class="on" data-f="all">All records</button>
           <button data-f="new">New only</button>
@@ -335,8 +354,8 @@ footer a{color:var(--dim)}footer a:hover{color:var(--acc-t)}
       </div>
       <div class="tbl-scroll">
         <table>
-          <thead><tr><th>Posting</th><th>Location</th><th style="text-align:right">Est. pay</th><th>Contract</th><th>Type</th><th></th></tr></thead>
-          <tbody id="rows"><tr><td colspan="6" style="color:var(--faint)">connecting to pipeline…</td></tr></tbody>
+          <thead><tr><th>Record</th><th>Org / Source</th><th>Location</th><th>Detail</th><th></th></tr></thead>
+          <tbody id="rows"><tr><td colspan="5" style="color:var(--faint)">connecting to pipeline…</td></tr></tbody>
         </table>
       </div>
       <div class="feed-bot">
@@ -442,19 +461,21 @@ footer a{color:var(--dim)}footer a:hover{color:var(--acc-t)}
 
 <script>
 /* ---------- data ---------- */
-const FEED = "https://raw.githubusercontent.com/Neel2667/pipekeeper/main/data/hosthealthcare.json";
-const payTxt = j => j.pay_amount ? "$" + Number(String(j.pay_amount).replace(/,/g,"")).toLocaleString("en-US",{maximumFractionDigits:0}) + (j.pay_unit==="hour"?" /hr":" /wk") : "—";
+const RAW = "https://raw.githubusercontent.com/Neel2667/pipekeeper/main/data/";
+const esc = s => String(s ?? "").replace(/[&<>"']/g, c => ({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;"}[c]));
+const payTxt = j => j.pay_amount ? "$" + Number(String(j.pay_amount).replace(/,/g,"")).toLocaleString("en-US",{maximumFractionDigits:0}) + (j.pay_unit==="hour"?" /hr":" /wk") : null;
+const detailOf = j => j.detail || payTxt(j) || "—";
 function ago(ts){const t=new Date(ts);if(isNaN(t))return "—";const m=Math.max(0,Math.round((Date.now()-t.getTime())/60000));
   if(m<1)return "just now";if(m===1)return "1 min ago";if(m<60)return m+" min ago";
   const h=Math.floor(m/60);return h===1?"1 hr ago":h+" hrs ago";}
-let FEEDDATA=null,FILTER="all";
+let FEEDS=[],ACTIVE="hosthealthcare",FEEDDATA=null,FILTER="all";
 
 function renderDash(d){
   const rows=(d.jobs||[]).slice(0,4);
   document.getElementById("dash-rows").innerHTML=rows.map(j=>`
     <div class="dash-row">
-      <div class="jr"><span class="jt">${j.title}</span><span class="jl">${j.location}</span></div>
-      <span style="display:flex;align-items:center"><span class="jp">${payTxt(j)}</span>${j.new_this_run?'<span class="np">NEW</span>':""}</span>
+      <div class="jr"><span class="jt">${esc(j.title)}</span><span class="jl">${esc(j.location)}</span></div>
+      <span style="display:flex;align-items:center"><span class="jp">${esc(detailOf(j))}</span>${j.new_this_run?'<span class="np">NEW</span>':""}</span>
     </div>`).join("");
   document.getElementById("dash-last").textContent=ago(d.collected_at);
   document.getElementById("chip-new").textContent=(d.new_this_run??0)+" records";
@@ -462,23 +483,22 @@ function renderDash(d){
 }
 function renderTicker(d){
   const items=(d.jobs||[]).slice(0,14).map(j=>
-    `<span class="tick-item">${j.title}<span class="tp">${payTxt(j)}</span><span class="sep">◆</span>${j.location}<span class="sep">◆</span></span>`).join("");
-  const half=`<span style="display:flex;gap:48px">${items}</span>`;
+    `<span class="tick-item">${esc(j.title)}<span class="tp">${esc(detailOf(j))}</span><span class="sep">◆</span>${esc(j.location||j.org||"")}</span><span class="sep" style="margin-left:24px">◆</span>`).join("");
+  const half=`<span style="display:flex;gap:48px;align-items:center">${items}</span>`;
   document.getElementById("ticker").innerHTML=half+half;
 }
 function renderRows(d){
   const rows=(d.jobs||[]).filter(j=>FILTER==="all"||j.new_this_run);
   document.getElementById("rows").innerHTML=rows.length?rows.map(j=>`
     <tr>
-      <td class="tc">${j.title}</td>
-      <td class="loc">${j.location}</td>
-      <td class="num" style="text-align:right;color:var(--acc-t)">${payTxt(j)}</td>
-      <td class="num">${j.weeks?j.weeks+" wks":"—"}</td>
-      <td class="loc">${j.kind||"—"}</td>
+      <td class="tc">${j.url?`<a class="jlink" href="${esc(j.url)}" target="_blank" rel="noopener">${esc(j.title)}</a>`:esc(j.title)}</td>
+      <td class="loc">${esc(j.org||"—")}</td>
+      <td class="loc">${esc(j.location||"—")}</td>
+      <td class="num" style="color:var(--acc-t)">${esc(detailOf(j))}</td>
       <td>${j.new_this_run?'<span class="badge">NEW</span>':""}</td>
     </tr>`).join("")
-    :`<tr><td colspan="6" style="color:var(--faint)">No new records this hour — everything already tracked.</td></tr>`;
-  document.getElementById("fb-src").innerHTML=`source: <a href="${d.source}" target="_blank" rel="noopener">${d.source}</a> · facts &amp; metadata only`;
+    :`<tr><td colspan="5" style="color:var(--faint)">No new records this hour — everything already tracked.</td></tr>`;
+  document.getElementById("fb-src").innerHTML=`source: <a href="${esc(d.source)}" target="_blank" rel="noopener">${esc(d.source)}</a> · facts &amp; metadata only`;
 }
 function renderSpark(d){
   const runs=(d.runs||[]).slice(-48);
@@ -495,11 +515,33 @@ function renderSpark(d){
     <circle cx="${pts[pts.length-1][0].toFixed(1)}" cy="${pts[pts.length-1][1].toFixed(1)}" r="3.5" fill="#6E9108"/>`;
   document.getElementById("spark-n").textContent=runs[runs.length-1].jobs;
 }
+function buildFleet(){
+  const el=document.getElementById("fleet");if(!el)return;
+  el.innerHTML=(FEEDS||[]).map(f=>`
+    <div class="fcard${f.id===ACTIVE?" active":""}" data-f="${esc(f.id)}" title="inspect ${esc(f.name)}">
+      <span class="dot${f.jobs_on_board?"":" bad"}"></span>
+      <span class="fc">${esc(f.category)}</span>
+      <div class="fn">${esc(f.name)}</div>
+      <div class="fm"><span><b>${f.jobs_on_board}</b> latest · <b>${f.new_this_run}</b> new</span><span>${ago(f.collected_at)}</span></div>
+    </div>`).join("");
+}
+async function selectFeed(id){
+  ACTIVE=id;
+  document.querySelectorAll(".fcard").forEach(c=>c.classList.toggle("active",c.dataset.f===id));
+  document.getElementById("rows").innerHTML=`<tr><td colspan="5" style="color:var(--faint)">loading ${esc(id)}…</td></tr>`;
+  try{
+    FEEDDATA=await (await fetch(RAW+"data/"+id+".json?t="+Date.now())).json();
+    document.getElementById("feed-label").textContent=FEEDDATA.name||id;
+    renderRows(FEEDDATA);renderSpark(FEEDDATA);
+  }catch(e){
+    document.getElementById("rows").innerHTML=`<tr><td colspan="5" style="color:var(--faint)">feed warming up — first collection may still be committing.</td></tr>`;
+  }
+}
 function renderStats(d){
-  const runs=d.runs||[];
+  const runs=(d&&d.runs)||[];
+  animCount("s-feeds",FEEDS.length||15);
+  animCount("s-records",FEEDS.reduce((a,f)=>a+(f.total_tracked||0),0)||(d&&d.total_tracked)||0);
   animCount("s-runs",runs.length);
-  animCount("s-records",d.total_tracked||0);
-  animCount("s-hours",runs.length); // each run ≈ one hour of operation
   document.getElementById("fb-last").textContent=ago(d.collected_at)+" ("+d.collected_at+" UTC)";
   document.getElementById("f-updated").textContent="data as of "+d.collected_at+" UTC";
 }
@@ -513,16 +555,25 @@ function animCount(id,target){
 }
 async function loadAll(){
   try{
-    FEEDDATA=await (await fetch(FEED+"?t="+Date.now())).json();
-    renderDash(FEEDDATA);renderTicker(FEEDDATA);renderRows(FEEDDATA);renderSpark(FEEDDATA);renderStats(FEEDDATA);
+    FEEDDATA=await (await fetch(RAW+"data/"+ACTIVE+".json?t="+Date.now())).json();
+    document.getElementById("feed-label").textContent=FEEDDATA.name||ACTIVE;
+    renderDash(FEEDDATA);renderTicker(FEEDDATA);renderRows(FEEDDATA);renderSpark(FEEDDATA);
   }catch(e){console.log("feed pending first cloud run")}
+  try{
+    FEEDS=(await (await fetch(RAW+"feeds.json?t="+Date.now())).json()).feeds||[];
+  }catch(e){}
+  if(FEEDDATA)renderStats(FEEDDATA);
+  buildFleet();
 }
 document.getElementById("filter").addEventListener("click",e=>{
   if(!e.target.dataset.f)return;FILTER=e.target.dataset.f;
   document.querySelectorAll("#filter button").forEach(b=>b.classList.toggle("on",b===e.target));
   if(FEEDDATA)renderRows(FEEDDATA);
 });
-setInterval(()=>{if(FEEDDATA){renderDash(FEEDDATA);renderStats(FEEDDATA);}},30000);
+document.getElementById("fleet").addEventListener("click",e=>{
+  const card=e.target.closest(".fcard");if(card&&card.dataset.f!==ACTIVE)selectFeed(card.dataset.f);
+});
+setInterval(()=>{if(FEEDDATA){renderDash(FEEDDATA);}},30000);
 loadAll();
 
 /* ---------- motion ---------- */
