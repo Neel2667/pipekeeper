@@ -3,93 +3,53 @@
  "name": "Himalayas \u2014 remote jobs",
  "category": "jobs",
  "source": "https://himalayas.app/jobs/api",
- "collected_at": "2026-11-15T17:10:38+00:00",
+ "collected_at": "2026-11-15T21:49:45+00:00",
  "jobs_on_board": 20,
  "new_this_run": 20,
- "total_tracked": 59,
+ "total_tracked": 79,
  "jobs": [
   {
-   "title": "| Technical Support Agents Level A+ / Tier 1",
-   "org": "Vivo Gaming",
-   "location": "Costa Rica",
+   "title": "Executive Concierge - PST",
+   "org": "PwC",
+   "location": "United States",
+   "detail": "$35,500\u2013$109,120/a",
+   "url": null,
+   "new_this_run": true
+  },
+  {
+   "title": "Head of Sales & Distribution - WealthTech & Investment Technology",
+   "org": "Pavago",
+   "location": "United States",
    "detail": "Full Time",
    "url": null,
    "new_this_run": true
   },
   {
-   "title": "Remote Part-Time Executive Assistant",
-   "org": "FreedUp",
+   "title": "Sr. Manager, Project Management (Capital Projects, Automation, Medical Device/Ph",
+   "org": "Danaher",
+   "location": "United States",
+   "detail": "$155,000\u2013$165,000/a",
+   "url": null,
+   "new_this_run": true
+  },
+  {
+   "title": "Incident Response Lead",
+   "org": "CyberOne",
    "location": "Philippines",
-   "detail": "$600\u2013$800/m",
-   "url": null,
-   "new_this_run": true
-  },
-  {
-   "title": "Manager, Enterprise Engineering Solutions (EES)",
-   "org": "CareSource",
-   "location": "United States",
-   "detail": "$94,100\u2013$164,800/a",
-   "url": null,
-   "new_this_run": true
-  },
-  {
-   "title": "Sr Sourcing Manager",
-   "org": "Vital Farms - Current Crew Members",
-   "location": "United States",
-   "detail": "$130,000\u2013$150,000/a",
-   "url": null,
-   "new_this_run": true
-  },
-  {
-   "title": "Digital Marketing Account Manager",
-   "org": "Logical Media Group",
-   "location": "Colombia",
-   "detail": "Contractor",
-   "url": null,
-   "new_this_run": true
-  },
-  {
-   "title": "Site Contract Specialist",
-   "org": "Alimentiv",
-   "location": "Brazil",
    "detail": "Full Time",
    "url": null,
    "new_this_run": true
   },
   {
-   "title": "Sr Revenue Cycle Business Analyst",
-   "org": "Piedmont Healthcare",
+   "title": "Enterprise Customer Success Manager",
+   "org": "Covalent",
    "location": "United States",
    "detail": "Full Time",
    "url": null,
    "new_this_run": true
   },
   {
-   "title": "Brand Partnership Manager",
-   "org": "Salem Media Group",
-   "location": "United States",
-   "detail": "$36\u2013$41/h",
-   "url": null,
-   "new_this_run": true
-  },
-  {
-   "title": "Corporate Events Coordinator",
-   "org": "StarRez",
-   "location": "United States",
-   "detail": "$55,000\u2013$70,000/a",
-   "url": null,
-   "new_this_run": true
-  },
-  {
-   "title": "E-Commerce Operations Manager | South Africa",
-   "org": "HireHawk",
-   "location": "South Africa",
-   "detail": "Full Time",
-   "url": null,
-   "new_this_run": true
-  },
-  {
-   "title": "Junior UX Designer",
+   "title": "User Researcher, Merchant Operations",
    "org": "Bask Health",
    "location": "United States",
    "detail": "Full Time",
@@ -97,74 +57,114 @@
    "new_this_run": true
   },
   {
-   "title": "Java / Quarkus Microservices Developer",
-   "org": "Consultec-TI",
-   "location": "Venezuela",
+   "title": "Senior Executive Assistant",
+   "org": "New Left Accelerator and The Capacity Shop",
+   "location": "United States",
+   "detail": "$94,000\u2013$124,000/a",
+   "url": null,
+   "new_this_run": true
+  },
+  {
+   "title": "Director, Corporate Content",
+   "org": "IonQ",
+   "location": "United States",
+   "detail": "$148,000\u2013$185,000/a",
+   "url": null,
+   "new_this_run": true
+  },
+  {
+   "title": "Google Ads Strategist",
+   "org": "Sweat Pants Agency",
+   "location": "Czechia",
    "detail": "Full Time",
    "url": null,
    "new_this_run": true
   },
   {
-   "title": "Client Product Manager",
-   "org": "IDeaS",
-   "location": "United States",
-   "detail": "Other",
+   "title": "Customer Service (Call Center) Expert",
+   "org": "Xperteez Technology",
+   "location": "Canada, United States",
+   "detail": "$30\u2013$30/h",
    "url": null,
    "new_this_run": true
   },
   {
-   "title": "Senior Insurance Business Analyst / Delivery Lead",
-   "org": "DXC Technology",
-   "location": "United States",
-   "detail": "$84,400\u2013$156,800/a",
-   "url": null,
-   "new_this_run": true
-  },
-  {
-   "title": "Sr. Software Engineer, Integrations",
-   "org": "TrueML",
-   "location": "United States",
-   "detail": "$125,000\u2013$180,000/a",
-   "url": null,
-   "new_this_run": true
-  },
-  {
-   "title": "Principal Product Manager",
-   "org": "Zscaler",
-   "location": "United States",
-   "detail": "$171,500\u2013$245,000/a",
-   "url": null,
-   "new_this_run": true
-  },
-  {
-   "title": "AutoCAD Designer - Warehouse Racking Systems (2D Design)",
-   "org": "KPI Solutions",
-   "location": "United States",
+   "title": "Solutions Architect",
+   "org": "Atreides",
+   "location": "Denmark",
    "detail": "Full Time",
    "url": null,
    "new_this_run": true
   },
   {
-   "title": "Platform Software Engineer",
-   "org": "Syllo",
-   "location": "United States",
-   "detail": "$170,000\u2013$190,000/a",
+   "title": "Senior Google Ads Buyer, DTC eCommerce",
+   "org": "Sweat Pants Agency",
+   "location": "Serbia",
+   "detail": "Full Time",
    "url": null,
    "new_this_run": true
   },
   {
-   "title": "Application Support Engineer",
-   "org": "8x8",
-   "location": "United States",
-   "detail": "$123,600\u2013$185,400/a",
+   "title": "VRI Laotian Remote Interpreter",
+   "org": "Organica Interpreting Corp",
+   "location": "Lao People's Democratic Republic",
+   "detail": "$14\u2013$14/h",
    "url": null,
    "new_this_run": true
   },
   {
-   "title": "Senior Talent Aquisition Partner",
-   "org": "Hello Heart",
+   "title": "UX/UI Designer",
+   "org": "Pavago",
+   "location": "Philippines",
+   "detail": "Full Time",
+   "url": null,
+   "new_this_run": true
+  },
+  {
+   "title": "Technical Account Manager (m/f/d)",
+   "org": "Ververica GmbH",
+   "location": "Argentina, Bermuda, Bolivia, Brazil, Canada, Chile, Colombia, Ecuador, Falkland Islands (Malvinas), French Guiana, Greenland, Guyana, Mexico, Paraguay, Peru, Saint Pierre and Miquelon, Suriname, United States, United States Minor Outlying I",
+   "detail": "Full Time",
+   "url": null,
+   "new_this_run": true
+  },
+  {
+   "title": "Phone Auditor",
+   "org": "ARMStrong Receivable Management",
    "location": "United States",
-   "detail": "$110,000\u2013$160,000/a",
+   "detail": "$17\u2013$18/h",
+   "url": null,
+   "new_this_run": true
+  },
+  {
+   "title": "IT (Data Center) Business Development Executive",
+   "org": "Virtual Technologies Group",
+   "location": "United States",
+   "detail": "$120,000\u2013$320,000/a",
+   "url": null,
+   "new_this_run": true
+  },
+  {
+   "title": "Capital Markets Compliance Lead",
+   "org": "Collectors",
+   "location": "United States",
+   "detail": "$157,000\u2013$200,000/a",
+   "url": null,
+   "new_this_run": true
+  },
+  {
+   "title": "Remote Bilingual Mandarin Customer Experience Specialist",
+   "org": "Alignment Health",
+   "location": "United States",
+   "detail": "$41,600\u2013$57,600/a",
+   "url": null,
+   "new_this_run": true
+  },
+  {
+   "title": "Valuation Quality Control/Review Appraiser",
+   "org": "World Business Lenders",
+   "location": "Argentina, Brazil, Colombia, Costa Rica, Guatemala, Pakistan",
+   "detail": "Full Time",
    "url": null,
    "new_this_run": true
   }
@@ -192,6 +192,11 @@
   },
   {
    "at": "2026-11-15T17:10:38+00:00",
+   "jobs": 20,
+   "new": 20
+  },
+  {
+   "at": "2026-11-15T21:49:45+00:00",
    "jobs": 20,
    "new": 20
   }
@@ -609,6 +614,146 @@
    "title": "Senior Talent Aquisition Partner",
    "org": "Hello Heart",
    "location": "United States"
+  },
+  "executive concierge - pst|pwc|united states": {
+   "first_seen": "2026-11-15T21:49:45+00:00",
+   "last_seen": "2026-11-15T21:49:45+00:00",
+   "title": "Executive Concierge - PST",
+   "org": "PwC",
+   "location": "United States"
+  },
+  "head of sales & distribution - wealthtech & investment technology|pavago|united states": {
+   "first_seen": "2026-11-15T21:49:45+00:00",
+   "last_seen": "2026-11-15T21:49:45+00:00",
+   "title": "Head of Sales & Distribution - WealthTech & Investment Technology",
+   "org": "Pavago",
+   "location": "United States"
+  },
+  "sr. manager, project management (capital projects, automation, medical device/ph|danaher|united states": {
+   "first_seen": "2026-11-15T21:49:45+00:00",
+   "last_seen": "2026-11-15T21:49:45+00:00",
+   "title": "Sr. Manager, Project Management (Capital Projects, Automation, Medical Device/Ph",
+   "org": "Danaher",
+   "location": "United States"
+  },
+  "incident response lead|cyberone|philippines": {
+   "first_seen": "2026-11-15T21:49:45+00:00",
+   "last_seen": "2026-11-15T21:49:45+00:00",
+   "title": "Incident Response Lead",
+   "org": "CyberOne",
+   "location": "Philippines"
+  },
+  "enterprise customer success manager|covalent|united states": {
+   "first_seen": "2026-11-15T21:49:45+00:00",
+   "last_seen": "2026-11-15T21:49:45+00:00",
+   "title": "Enterprise Customer Success Manager",
+   "org": "Covalent",
+   "location": "United States"
+  },
+  "user researcher, merchant operations|bask health|united states": {
+   "first_seen": "2026-11-15T21:49:45+00:00",
+   "last_seen": "2026-11-15T21:49:45+00:00",
+   "title": "User Researcher, Merchant Operations",
+   "org": "Bask Health",
+   "location": "United States"
+  },
+  "senior executive assistant|new left accelerator and the capacity shop|united states": {
+   "first_seen": "2026-11-15T21:49:45+00:00",
+   "last_seen": "2026-11-15T21:49:45+00:00",
+   "title": "Senior Executive Assistant",
+   "org": "New Left Accelerator and The Capacity Shop",
+   "location": "United States"
+  },
+  "director, corporate content|ionq|united states": {
+   "first_seen": "2026-11-15T21:49:45+00:00",
+   "last_seen": "2026-11-15T21:49:45+00:00",
+   "title": "Director, Corporate Content",
+   "org": "IonQ",
+   "location": "United States"
+  },
+  "google ads strategist|sweat pants agency|czechia": {
+   "first_seen": "2026-11-15T21:49:45+00:00",
+   "last_seen": "2026-11-15T21:49:45+00:00",
+   "title": "Google Ads Strategist",
+   "org": "Sweat Pants Agency",
+   "location": "Czechia"
+  },
+  "customer service (call center) expert|xperteez technology|canada, united states": {
+   "first_seen": "2026-11-15T21:49:45+00:00",
+   "last_seen": "2026-11-15T21:49:45+00:00",
+   "title": "Customer Service (Call Center) Expert",
+   "org": "Xperteez Technology",
+   "location": "Canada, United States"
+  },
+  "solutions architect|atreides|denmark": {
+   "first_seen": "2026-11-15T21:49:45+00:00",
+   "last_seen": "2026-11-15T21:49:45+00:00",
+   "title": "Solutions Architect",
+   "org": "Atreides",
+   "location": "Denmark"
+  },
+  "senior google ads buyer, dtc ecommerce|sweat pants agency|serbia": {
+   "first_seen": "2026-11-15T21:49:45+00:00",
+   "last_seen": "2026-11-15T21:49:45+00:00",
+   "title": "Senior Google Ads Buyer, DTC eCommerce",
+   "org": "Sweat Pants Agency",
+   "location": "Serbia"
+  },
+  "vri laotian remote interpreter|organica interpreting corp|lao people's democratic republic": {
+   "first_seen": "2026-11-15T21:49:45+00:00",
+   "last_seen": "2026-11-15T21:49:45+00:00",
+   "title": "VRI Laotian Remote Interpreter",
+   "org": "Organica Interpreting Corp",
+   "location": "Lao People's Democratic Republic"
+  },
+  "ux/ui designer|pavago|philippines": {
+   "first_seen": "2026-11-15T21:49:45+00:00",
+   "last_seen": "2026-11-15T21:49:45+00:00",
+   "title": "UX/UI Designer",
+   "org": "Pavago",
+   "location": "Philippines"
+  },
+  "technical account manager (m/f/d)|ververica gmbh|argentina, bermuda, bolivia, brazil, canada, chile, colombia, ecuador, falkland islands (malvinas), french guiana, green": {
+   "first_seen": "2026-11-15T21:49:45+00:00",
+   "last_seen": "2026-11-15T21:49:45+00:00",
+   "title": "Technical Account Manager (m/f/d)",
+   "org": "Ververica GmbH",
+   "location": "Argentina, Bermuda, Bolivia, Brazil, Canada, Chile, Colombia, Ecuador, Falkland Islands (Malvinas), French Guiana, Greenland, Guyana, Mexico, Paraguay, Peru, Saint Pierre and Miquelon, Suriname, United States, United States Minor Outlying I"
+  },
+  "phone auditor|armstrong receivable management|united states": {
+   "first_seen": "2026-11-15T21:49:45+00:00",
+   "last_seen": "2026-11-15T21:49:45+00:00",
+   "title": "Phone Auditor",
+   "org": "ARMStrong Receivable Management",
+   "location": "United States"
+  },
+  "it (data center) business development executive|virtual technologies group|united states": {
+   "first_seen": "2026-11-15T21:49:45+00:00",
+   "last_seen": "2026-11-15T21:49:45+00:00",
+   "title": "IT (Data Center) Business Development Executive",
+   "org": "Virtual Technologies Group",
+   "location": "United States"
+  },
+  "capital markets compliance lead|collectors|united states": {
+   "first_seen": "2026-11-15T21:49:45+00:00",
+   "last_seen": "2026-11-15T21:49:45+00:00",
+   "title": "Capital Markets Compliance Lead",
+   "org": "Collectors",
+   "location": "United States"
+  },
+  "remote bilingual mandarin customer experience specialist|alignment health|united states": {
+   "first_seen": "2026-11-15T21:49:45+00:00",
+   "last_seen": "2026-11-15T21:49:45+00:00",
+   "title": "Remote Bilingual Mandarin Customer Experience Specialist",
+   "org": "Alignment Health",
+   "location": "United States"
+  },
+  "valuation quality control/review appraiser|world business lenders|argentina, brazil, colombia, costa rica, guatemala, pakistan": {
+   "first_seen": "2026-11-15T21:49:45+00:00",
+   "last_seen": "2026-11-15T21:49:45+00:00",
+   "title": "Valuation Quality Control/Review Appraiser",
+   "org": "World Business Lenders",
+   "location": "Argentina, Brazil, Colombia, Costa Rica, Guatemala, Pakistan"
   }
  }
 }
