@@ -3,410 +3,410 @@
  "name": "Jobicy \u2014 remote jobs",
  "category": "jobs",
  "source": "https://jobicy.com/api/v2/remote-jobs",
- "collected_at": "2026-11-15T12:05:29+00:00",
+ "collected_at": "2026-11-15T17:10:38+00:00",
  "jobs_on_board": 50,
- "new_this_run": 0,
- "total_tracked": 50,
+ "new_this_run": 50,
+ "total_tracked": 100,
  "jobs": [
   {
-   "title": "Facility Security Officer",
-   "org": "Cribl",
+   "title": "Senior Account Executive, New Logo",
+   "org": "Temporal Technologies",
+   "location": "Germany",
+   "detail": "Director",
+   "url": "https://jobicy.com/jobs/162479-senior-account-executive-new-logo",
+   "new_this_run": true
+  },
+  {
+   "title": "Senior Account Executive, New Logo (France)",
+   "org": "Temporal Technologies",
+   "location": "France, UK",
+   "detail": "Director",
+   "url": "https://jobicy.com/jobs/162477-senior-account-executive-new-logo-france",
+   "new_this_run": true
+  },
+  {
+   "title": "Senior Platform Architect - UK",
+   "org": "Temporal Technologies",
+   "location": "UK",
+   "detail": "Senior",
+   "url": "https://jobicy.com/jobs/162483-senior-platform-architect-uk",
+   "new_this_run": true
+  },
+  {
+   "title": "Staff Developer Advocate, Enterprise - EMEA",
+   "org": "Temporal Technologies",
+   "location": "Germany",
+   "detail": "Senior",
+   "url": "https://jobicy.com/jobs/162481-staff-developer-advocate-enterprise-emea",
+   "new_this_run": true
+  },
+  {
+   "title": "Business Development Representative, EMEA",
+   "org": "Temporal Technologies",
+   "location": "UK",
+   "detail": "Senior",
+   "url": "https://jobicy.com/jobs/162485-business-development-representative-emea-2",
+   "new_this_run": true
+  },
+  {
+   "title": "Sales Engineer - Spain",
+   "org": "Zscaler",
+   "location": "Spain",
+   "detail": "Senior",
+   "url": "https://jobicy.com/jobs/162484-sales-engineer-spain",
+   "new_this_run": true
+  },
+  {
+   "title": "Sales Account Executive 3 - Enterprise",
+   "org": "Zscaler",
+   "location": "Poland",
+   "detail": "Director",
+   "url": "https://jobicy.com/jobs/162482-sales-account-executive-3-enterprise",
+   "new_this_run": true
+  },
+  {
+   "title": "Commercial Account Executive",
+   "org": "Zscaler",
+   "location": "Norway",
+   "detail": "Director",
+   "url": "https://jobicy.com/jobs/162480-commercial-account-executive-9",
+   "new_this_run": true
+  },
+  {
+   "title": "Account Executive, Enterprise",
+   "org": "Zscaler",
+   "location": "Austria",
+   "detail": "Director",
+   "url": "https://jobicy.com/jobs/162478-account-executive-enterprise-5",
+   "new_this_run": true
+  },
+  {
+   "title": "Senior Solutions Engineer | Switzerland | Remote",
+   "org": "Grafana Labs",
+   "location": "Switzerland",
+   "detail": "Senior",
+   "url": "https://jobicy.com/jobs/162476-senior-solutions-engineer-switzerland-remote",
+   "new_this_run": true
+  },
+  {
+   "title": "Senior Manager, Contracts - Data Center",
+   "org": "SB Energy",
    "location": "USA",
    "detail": "Senior",
-   "url": "https://jobicy.com/jobs/162277-facility-security-officer-2",
-   "new_this_run": false
+   "url": "https://jobicy.com/jobs/162475-senior-manager-contracts-data-center",
+   "new_this_run": true
   },
   {
-   "title": "Principal Software Engineer - XTM One",
-   "org": "Filigran",
-   "location": "France, Germany, Italy, Portugal, Spain, UK",
+   "title": "ESI Director, Suitability",
+   "org": "National Life Insurance Company",
+   "location": "USA",
    "detail": "Director",
-   "url": "https://jobicy.com/jobs/162276-principal-software-engineer-xtm-one",
-   "new_this_run": false
+   "url": "https://jobicy.com/jobs/162474-esi-director-suitability",
+   "new_this_run": true
   },
   {
-   "title": "Board Certified Assistant Behavior Analyst (BCABA) Sign on Bonus!",
-   "org": "Above and Beyond Therapy",
+   "title": "Director, GTM Operations",
+   "org": "Zapier",
+   "location": "Canada, USA",
+   "detail": "Director",
+   "url": "https://jobicy.com/jobs/162472-director-gtm-operations",
+   "new_this_run": true
+  },
+  {
+   "title": "Senior Associate, Client Success",
+   "org": "Maven Clinic",
    "location": "USA",
    "detail": "Senior",
-   "url": "https://jobicy.com/jobs/162275-board-certified-assistant-behavior-analyst-bcaba-sign-on-bonus",
-   "new_this_run": false
+   "url": "https://jobicy.com/jobs/162470-senior-associate-client-success",
+   "new_this_run": true
   },
   {
-   "title": "Customer Support Manager",
-   "org": "Mercury",
-   "location": "USA",
-   "detail": "Senior",
-   "url": "https://jobicy.com/jobs/162274-customer-support-manager-4",
-   "new_this_run": false
-  },
-  {
-   "title": "Federal Climate Policy Director",
-   "org": "Pacific Environment",
-   "location": "USA",
-   "detail": "Director",
-   "url": "https://jobicy.com/jobs/162273-federal-climate-policy-director",
-   "new_this_run": false
-  },
-  {
-   "title": "Coveware - Incident response Director (Remote: West Coast / Pacific Time)",
-   "org": "Veeam Software",
-   "location": "USA",
-   "detail": "Director",
-   "url": "https://jobicy.com/jobs/162272-coveware-incident-response-director-remote-west-coast-pacific-time",
-   "new_this_run": false
-  },
-  {
-   "title": "Customer Support Manager",
-   "org": "Cribl",
+   "title": "Clinical Growth SDR",
+   "org": "Prosper Health",
    "location": "USA",
    "detail": "Any",
-   "url": "https://jobicy.com/jobs/162271-customer-support-manager-3",
-   "new_this_run": false
+   "url": "https://jobicy.com/jobs/162469-clinical-growth-sdr",
+   "new_this_run": true
   },
   {
-   "title": "Account Executive - NA",
-   "org": "Filigran",
-   "location": "Canada, USA",
+   "title": "Solution Consultant",
+   "org": "Smartling",
+   "location": "USA",
+   "detail": "Any",
+   "url": "https://jobicy.com/jobs/162468-solution-consultant",
+   "new_this_run": true
+  },
+  {
+   "title": "ESI Associate Vice President, Suitability Review",
+   "org": "National Life Insurance Company",
+   "location": "USA",
    "detail": "Director",
-   "url": "https://jobicy.com/jobs/162270-account-executive-na",
-   "new_this_run": false
+   "url": "https://jobicy.com/jobs/162466-esi-associate-vice-president-suitability-review",
+   "new_this_run": true
   },
   {
-   "title": "BCBA - Clinical Assessor",
-   "org": "Above and Beyond Therapy",
+   "title": "Business Intelligence Analytics Engineer",
+   "org": "Carrot",
+   "location": "USA",
+   "detail": "Any",
+   "url": "https://jobicy.com/jobs/162465-business-intelligence-analytics-engineer",
+   "new_this_run": true
+  },
+  {
+   "title": "Junior Sales Development Representative (Early Career)",
+   "org": "Eventbrite",
+   "location": "USA",
+   "detail": "Entry-Level, Junior",
+   "url": "https://jobicy.com/jobs/162464-junior-sales-development-representative-early-career",
+   "new_this_run": true
+  },
+  {
+   "title": "Demand Generation Manager",
+   "org": "Documo Inc.",
+   "location": "USA",
+   "detail": "Director",
+   "url": "https://jobicy.com/jobs/162463-demand-generation-manager-2",
+   "new_this_run": true
+  },
+  {
+   "title": "Senior Actuary, Outcomes",
+   "org": "Maven Clinic",
    "location": "USA",
    "detail": "Senior",
-   "url": "https://jobicy.com/jobs/162268-bcba-clinical-assessor",
-   "new_this_run": false
+   "url": "https://jobicy.com/jobs/162462-senior-actuary-outcomes",
+   "new_this_run": true
   },
   {
-   "title": "Corporate Development Lead",
-   "org": "Mercury",
-   "location": "Canada, USA",
-   "detail": "Director",
-   "url": "https://jobicy.com/jobs/162266-corporate-development-lead",
-   "new_this_run": false
-  },
-  {
-   "title": "Strategic Alliance Director",
-   "org": "Actian",
+   "title": "Senior Paid Search Manager, Make & Manage Money",
+   "org": "Launch Potato",
    "location": "USA",
-   "detail": "Director",
-   "url": "https://jobicy.com/jobs/155387-strategic-alliance-director",
-   "new_this_run": false
+   "detail": "Senior",
+   "url": "https://jobicy.com/jobs/162461-senior-paid-search-manager-make-manage-money",
+   "new_this_run": true
   },
   {
-   "title": "Head of Data Science",
-   "org": "Paddle",
-   "location": "Ireland, Portugal, UK",
-   "detail": "Director",
-   "url": "https://jobicy.com/jobs/155403-head-of-data-science-2",
-   "new_this_run": false
+   "title": "Coordinator, Legal Support (Intern)",
+   "org": "Cogstate",
+   "location": "Australia",
+   "detail": "Entry-Level, Junior",
+   "url": "https://jobicy.com/jobs/162460-coordinator-legal-support-intern",
+   "new_this_run": true
   },
   {
    "title": "Senior Account Executive",
-   "org": "Paddle",
+   "org": "6sense",
    "location": "USA",
    "detail": "Director",
-   "url": "https://jobicy.com/jobs/155400-senior-account-executive-6",
-   "new_this_run": false
+   "url": "https://jobicy.com/jobs/162459-senior-account-executive-14",
+   "new_this_run": true
   },
   {
-   "title": "Mid-Market Account Executive, New Business (API/CPaaS)",
-   "org": "Vonage",
+   "title": "Regional Vice President, Taft-Hartley & Labor",
+   "org": "Maven Clinic",
    "location": "USA",
    "detail": "Director",
-   "url": "https://jobicy.com/jobs/155399-mid-market-account-executive-new-business-api-cpaas",
-   "new_this_run": false
+   "url": "https://jobicy.com/jobs/162458-regional-vice-president-taft-hartley-labor",
+   "new_this_run": true
   },
   {
-   "title": "Senior Analytics Engineer",
-   "org": "Paddle",
-   "location": "Ireland, Portugal, UK",
+   "title": "Lead, Paid Marketing, Make & Manage Money",
+   "org": "Launch Potato",
+   "location": "USA",
    "detail": "Senior",
-   "url": "https://jobicy.com/jobs/155397-senior-analytics-engineer-3",
-   "new_this_run": false
+   "url": "https://jobicy.com/jobs/162457-lead-paid-marketing-make-manage-money",
+   "new_this_run": true
   },
   {
-   "title": "Enterprise Account Director, New Business (API/CPaaS)",
-   "org": "Vonage",
+   "title": "Virtual Lab Manager",
+   "org": "Quartzy",
    "location": "USA",
-   "detail": "Director",
-   "url": "https://jobicy.com/jobs/155396-enterprise-account-director-new-business-api-cpaas",
-   "new_this_run": false
-  },
-  {
-   "title": "Executive Assistant to the CEO",
-   "org": "Supabase",
-   "location": "APAC",
-   "detail": "Director",
-   "url": "https://jobicy.com/jobs/155393-executive-assistant-to-the-ceo-3",
-   "new_this_run": false
-  },
-  {
-   "title": "Site Reliability Engineer",
-   "org": "Supabase",
-   "location": "Anywhere",
    "detail": "Any",
-   "url": "https://jobicy.com/jobs/155391-site-reliability-engineer-4",
-   "new_this_run": false
+   "url": "https://jobicy.com/jobs/162455-virtual-lab-manager",
+   "new_this_run": true
   },
   {
-   "title": "Platform Engineer, Managed Postgres",
-   "org": "Supabase",
-   "location": "Anywhere",
+   "title": "Clinical Trial Associate (Associate, Rater Services)",
+   "org": "Cogstate",
+   "location": "USA",
    "detail": "Senior",
-   "url": "https://jobicy.com/jobs/155389-platform-engineer-managed-postgres",
-   "new_this_run": false
+   "url": "https://jobicy.com/jobs/162454-clinical-trial-associate-associate-rater-services",
+   "new_this_run": true
   },
   {
-   "title": "AI Platform Engineer",
-   "org": "Supabase",
-   "location": "Anywhere",
-   "detail": "Director",
-   "url": "https://jobicy.com/jobs/155385-ai-platform-engineer",
-   "new_this_run": false
-  },
-  {
-   "title": "Community Engagement Lead (BrightLife Kids - SF Bay Area)",
-   "org": "Brightline",
+   "title": "Advertising Account Executive",
+   "org": "6sense",
    "location": "USA",
    "detail": "Director",
-   "url": "https://jobicy.com/jobs/155384-community-engagement-lead-brightlife-kids-sf-bay-area",
-   "new_this_run": false
+   "url": "https://jobicy.com/jobs/162453-advertising-account-executive",
+   "new_this_run": true
   },
   {
-   "title": "Solutions Architect f/m/d",
-   "org": "Apaleo",
-   "location": "France",
-   "detail": "Senior",
-   "url": "https://jobicy.com/jobs/155375-solutions-architect-f-m-d",
-   "new_this_run": false
-  },
-  {
-   "title": "Senior People Solutions Analyst",
-   "org": "Collibra",
-   "location": "Poland",
-   "detail": "Senior",
-   "url": "https://jobicy.com/jobs/155376-senior-people-solutions-analyst",
-   "new_this_run": false
-  },
-  {
-   "title": "Principal GSI Partner Manager - Accenture (EMEA)",
-   "org": "Datadog",
-   "location": "UK",
-   "detail": "Senior",
-   "url": "https://jobicy.com/jobs/155382-principal-gsi-partner-manager-accenture-emea",
-   "new_this_run": false
-  },
-  {
-   "title": "Junior Software Engineer",
-   "org": "PolicyMe",
-   "location": "Canada",
-   "detail": "Entry-Level, Junior",
-   "url": "https://jobicy.com/jobs/153164-junior-software-engineer-2",
-   "new_this_run": false
-  },
-  {
-   "title": "Customer Success Specialist",
-   "org": "PolicyMe",
-   "location": "Canada",
+   "title": "Product Manager, Care Delivery",
+   "org": "Maven Clinic",
+   "location": "USA",
    "detail": "Any",
-   "url": "https://jobicy.com/jobs/153160-customer-success-specialist-5",
-   "new_this_run": false
+   "url": "https://jobicy.com/jobs/162451-product-manager-care-delivery",
+   "new_this_run": true
   },
   {
-   "title": "Principal Customer Success Manager - Pharma",
-   "org": "H1",
-   "location": "USA",
-   "detail": "Director",
-   "url": "https://jobicy.com/jobs/153147-principal-customer-success-manager-pharma",
-   "new_this_run": false
-  },
-  {
-   "title": "Systems Engineer Belgium & Luxembourg",
-   "org": "Veeam Software",
-   "location": "Belgium",
-   "detail": "Any",
-   "url": "https://jobicy.com/jobs/155372-systems-engineer-belgium-luxembourg",
-   "new_this_run": false
-  },
-  {
-   "title": "Business Operations Manager",
-   "org": "Motive",
-   "location": "USA",
-   "detail": "Director",
-   "url": "https://jobicy.com/jobs/155401-business-operations-manager",
-   "new_this_run": false
-  },
-  {
-   "title": "Sales Engineer - Data & AI Security",
-   "org": "Veeam Software",
-   "location": "Spain",
-   "detail": "Senior",
-   "url": "https://jobicy.com/jobs/155368-sales-engineer-data-ai-security",
-   "new_this_run": false
-  },
-  {
-   "title": "Solutions Engineer, Veeam Data Cloud Vault",
-   "org": "Veeam Software",
-   "location": "France",
-   "detail": "Director",
-   "url": "https://jobicy.com/jobs/155371-solutions-engineer-veeam-data-cloud-vault",
-   "new_this_run": false
-  },
-  {
-   "title": "Senior Counsel, EMEA Employment",
-   "org": "Veeam Software",
-   "location": "UK",
-   "detail": "Director",
-   "url": "https://jobicy.com/jobs/155370-senior-counsel-emea-employment",
-   "new_this_run": false
-  },
-  {
-   "title": "Senior Account Executive, Enterprise (Private Accounts)",
-   "org": "Veeam Software",
-   "location": "Germany",
-   "detail": "Director",
-   "url": "https://jobicy.com/jobs/155369-senior-account-executive-enterprise-private-accounts",
-   "new_this_run": false
-  },
-  {
-   "title": "Senior Field Marketing Manager",
-   "org": "Fleetio",
-   "location": "USA",
-   "detail": "Senior",
-   "url": "https://jobicy.com/jobs/155356-senior-field-marketing-manager",
-   "new_this_run": false
-  },
-  {
-   "title": "Technical Account Manager",
-   "org": "Veeam Software",
-   "location": "France",
-   "detail": "Any",
-   "url": "https://jobicy.com/jobs/155373-technical-account-manager-6",
-   "new_this_run": false
-  },
-  {
-   "title": "Senior Director, Brand Marketing",
-   "org": "Fleetio",
-   "location": "USA",
-   "detail": "Director",
-   "url": "https://jobicy.com/jobs/155355-senior-director-brand-marketing",
-   "new_this_run": false
-  },
-  {
-   "title": "Administrative Officer / Legal Administrative Officer - Financial Services",
-   "org": "Axiom",
-   "location": "APAC, Hong Kong",
-   "detail": "Midweight",
-   "url": "https://jobicy.com/jobs/149129-administrative-officer-legal-administrative-officer-financial-services-2",
-   "new_this_run": false
-  },
-  {
-   "title": "Senior Demand Generation Manager - International",
-   "org": "Tremendous",
-   "location": "Ireland, Portugal, UK",
-   "detail": "Senior",
-   "url": "https://jobicy.com/jobs/155366-senior-demand-generation-manager-international",
-   "new_this_run": false
-  },
-  {
-   "title": "Senior Platform Engineer",
-   "org": "Fleetio",
-   "location": "USA",
-   "detail": "Senior",
-   "url": "https://jobicy.com/jobs/155361-senior-platform-engineer-5",
-   "new_this_run": false
-  },
-  {
-   "title": "Partner Development Manager",
-   "org": "Fleetio",
-   "location": "USA",
-   "detail": "Director",
-   "url": "https://jobicy.com/jobs/155354-partner-development-manager-2",
-   "new_this_run": false
-  },
-  {
-   "title": "Director, Corporate Counsel",
-   "org": "BetterHelp",
-   "location": "USA",
-   "detail": "Director",
-   "url": "https://jobicy.com/jobs/153169-director-corporate-counsel-2",
-   "new_this_run": false
-  },
-  {
-   "title": "Senior Forward Deployed Engineer",
-   "org": "Fleetio",
-   "location": "Canada, Mexico, USA",
-   "detail": "Senior",
-   "url": "https://jobicy.com/jobs/155357-senior-forward-deployed-engineer-2",
-   "new_this_run": false
-  },
-  {
-   "title": "Director, Global Solutions Engineering",
-   "org": "UpGuard",
-   "location": "Australia",
-   "detail": "Director",
-   "url": "https://jobicy.com/jobs/153274-director-global-solutions-engineering",
-   "new_this_run": false
-  },
-  {
-   "title": "Health Coach Manager",
-   "org": "Future PLC",
-   "location": "USA",
-   "detail": "Senior",
-   "url": "https://jobicy.com/jobs/153183-health-coach-manager",
-   "new_this_run": false
-  },
-  {
-   "title": "Navy Account Executive - Public Sector",
-   "org": "Unstructured Technologies Inc.",
-   "location": "USA",
-   "detail": "Director",
-   "url": "https://jobicy.com/jobs/162244-navy-account-executive-public-sector",
-   "new_this_run": false
-  },
-  {
-   "title": "Director, Strategic Engagements (Northeast)",
-   "org": "Xenon Pharmaceuticals Inc.",
-   "location": "USA",
-   "detail": "Director",
-   "url": "https://jobicy.com/jobs/162253-director-strategic-engagements-northeast",
-   "new_this_run": false
-  },
-  {
-   "title": "City Manager, New York",
-   "org": "Flex",
-   "location": "USA",
-   "detail": "Senior",
-   "url": "https://jobicy.com/jobs/162252-city-manager-new-york",
-   "new_this_run": false
-  },
-  {
-   "title": "Manager, Paid Search",
-   "org": "Quince",
-   "location": "USA",
-   "detail": "Senior",
-   "url": "https://jobicy.com/jobs/162251-manager-paid-search",
-   "new_this_run": false
-  },
-  {
-   "title": "Director, Observability Architects (Americas) | USA | Remote",
+   "title": "Senior Full Stack Engineer | Experimentation - Product Analytics | UK | Remote",
    "org": "Grafana Labs",
-   "location": "USA",
-   "detail": "Director",
-   "url": "https://jobicy.com/jobs/162250-director-observability-architects-americas-usa-remote",
-   "new_this_run": false
+   "location": "Germany, Ireland, Spain, Sweden, UK",
+   "detail": "Senior",
+   "url": "https://jobicy.com/jobs/162450-senior-full-stack-engineer-experimentation-product-analytics-uk-remote",
+   "new_this_run": true
   },
   {
-   "title": "Part-Time MCAT Tutor",
-   "org": "Inspira Education",
-   "location": "Canada, USA",
+   "title": "Junior Performance Marketer (Remote - Romania)",
+   "org": "EverAI",
+   "location": "Romania",
+   "detail": "Director",
+   "url": "https://jobicy.com/jobs/162449-junior-performance-marketer-remote-romania",
+   "new_this_run": true
+  },
+  {
+   "title": "Senior Full Stack Engineer | Experimentation - Product Analytics | Sweden | Remote",
+   "org": "Grafana Labs",
+   "location": "Germany, Ireland, Spain, Sweden, UK",
+   "detail": "Senior",
+   "url": "https://jobicy.com/jobs/162448-senior-full-stack-engineer-experimentation-product-analytics-sweden-remote",
+   "new_this_run": true
+  },
+  {
+   "title": "Junior Performance Marketer (Remote - Turkey)",
+   "org": "EverAI",
+   "location": "T\u00fcrkiye",
+   "detail": "Director",
+   "url": "https://jobicy.com/jobs/162447-junior-performance-marketer-remote-turkey",
+   "new_this_run": true
+  },
+  {
+   "title": "Senior Full Stack Engineer | Experimentation - Product Analytics | Spain | Remote",
+   "org": "Grafana Labs",
+   "location": "Germany, Ireland, Spain, Sweden, UK",
+   "detail": "Senior",
+   "url": "https://jobicy.com/jobs/162446-senior-full-stack-engineer-experimentation-product-analytics-spain-remote",
+   "new_this_run": true
+  },
+  {
+   "title": "Junior Performance Marketer (Remote - Poland)",
+   "org": "EverAI",
+   "location": "Poland",
+   "detail": "Director",
+   "url": "https://jobicy.com/jobs/162445-junior-performance-marketer-remote-poland",
+   "new_this_run": true
+  },
+  {
+   "title": "Senior Full Stack Engineer | Experimentation - Product Analytics | Ireland | Remote",
+   "org": "Grafana Labs",
+   "location": "Germany, Ireland, Spain, Sweden, UK",
+   "detail": "Senior",
+   "url": "https://jobicy.com/jobs/162444-senior-full-stack-engineer-experimentation-product-analytics-ireland-remote",
+   "new_this_run": true
+  },
+  {
+   "title": "Junior Performance Marketer (Remote - Ukraine)",
+   "org": "EverAI",
+   "location": "Ukraine",
+   "detail": "Director",
+   "url": "https://jobicy.com/jobs/162443-junior-performance-marketer-remote-ukraine",
+   "new_this_run": true
+  },
+  {
+   "title": "Senior Full Stack Engineer | Experimentation - Product Analytics | Germany | Remote",
+   "org": "Grafana Labs",
+   "location": "Germany, Ireland, Spain, Sweden, UK",
+   "detail": "Senior",
+   "url": "https://jobicy.com/jobs/162442-senior-full-stack-engineer-experimentation-product-analytics-germany-remote",
+   "new_this_run": true
+  },
+  {
+   "title": "Senior Sales Engineer, Nordics",
+   "org": "Horizon3.ai",
+   "location": "Sweden",
+   "detail": "Senior",
+   "url": "https://jobicy.com/jobs/162441-senior-sales-engineer-nordics",
+   "new_this_run": true
+  },
+  {
+   "title": "Talent Acquisition Specialist (1year Limited Term)",
+   "org": "Alimentiv",
+   "location": "Brazil",
    "detail": "Any",
-   "url": "https://jobicy.com/jobs/162249-part-time-mcat-tutor",
-   "new_this_run": false
+   "url": "https://jobicy.com/jobs/162440-talent-acquisition-specialist-1year-limited-term",
+   "new_this_run": true
+  },
+  {
+   "title": "Web Automation Test Engineer",
+   "org": "Caylent",
+   "location": "Brazil",
+   "detail": "Any",
+   "url": "https://jobicy.com/jobs/162439-web-automation-test-engineer-2",
+   "new_this_run": true
+  },
+  {
+   "title": "Senior Backend Engineer (f/m/x)",
+   "org": "CarOnSale",
+   "location": "Brazil",
+   "detail": "Senior",
+   "url": "https://jobicy.com/jobs/162438-senior-backend-engineer-f-m-x",
+   "new_this_run": true
+  },
+  {
+   "title": "Senior Site Reliability Engineer",
+   "org": "Monks",
+   "location": "Costa Rica",
+   "detail": "Senior",
+   "url": "https://jobicy.com/jobs/162437-senior-site-reliability-engineer-7",
+   "new_this_run": true
+  },
+  {
+   "title": "Human Resources Generalist",
+   "org": "Alimentiv",
+   "location": "Brazil",
+   "detail": "Senior",
+   "url": "https://jobicy.com/jobs/162435-human-resources-generalist",
+   "new_this_run": true
+  },
+  {
+   "title": "Senior Security Engineer",
+   "org": "Caylent",
+   "location": "Brazil",
+   "detail": "Senior",
+   "url": "https://jobicy.com/jobs/162434-senior-security-engineer-4",
+   "new_this_run": true
+  },
+  {
+   "title": "Paid Search Specialist (PPC) - Brazil",
+   "org": "Brafton",
+   "location": "Brazil",
+   "detail": "Director",
+   "url": "https://jobicy.com/jobs/162433-paid-search-specialist-ppc-brazil",
+   "new_this_run": true
+  },
+  {
+   "title": "Sr. Software Engineer - PAT Assist",
+   "org": "Qventus",
+   "location": "LATAM",
+   "detail": "Senior",
+   "url": "https://jobicy.com/jobs/162432-sr-software-engineer-pat-assist",
+   "new_this_run": true
+  },
+  {
+   "title": "Senior Software Engineer (Full Stack | Node.js & React | AI Focus)",
+   "org": "Oowlish Technology",
+   "location": "Argentina, Brazil, Mexico",
+   "detail": "Senior",
+   "url": "https://jobicy.com/jobs/162431-senior-software-engineer-full-stack-node-js-react-ai-focus-2",
+   "new_this_run": true
+  },
+  {
+   "title": "Salesforce Developer (f/m/x)",
+   "org": "CarOnSale",
+   "location": "Brazil",
+   "detail": "Senior",
+   "url": "https://jobicy.com/jobs/162430-salesforce-developer-f-m-x",
+   "new_this_run": true
   }
  ],
  "runs": [
@@ -429,6 +429,11 @@
    "at": "2026-11-15T12:05:29+00:00",
    "jobs": 50,
    "new": 0
+  },
+  {
+   "at": "2026-11-15T17:10:38+00:00",
+   "jobs": 50,
+   "new": 50
   }
  ],
  "jobs_seen": {
@@ -781,6 +786,356 @@
    "title": "Part-Time MCAT Tutor",
    "org": "Inspira Education",
    "location": "Canada, USA"
+  },
+  "senior account executive, new logo|temporal technologies|germany": {
+   "first_seen": "2026-11-15T17:10:38+00:00",
+   "last_seen": "2026-11-15T17:10:38+00:00",
+   "title": "Senior Account Executive, New Logo",
+   "org": "Temporal Technologies",
+   "location": "Germany"
+  },
+  "senior account executive, new logo (france)|temporal technologies|france, uk": {
+   "first_seen": "2026-11-15T17:10:38+00:00",
+   "last_seen": "2026-11-15T17:10:38+00:00",
+   "title": "Senior Account Executive, New Logo (France)",
+   "org": "Temporal Technologies",
+   "location": "France, UK"
+  },
+  "senior platform architect - uk|temporal technologies|uk": {
+   "first_seen": "2026-11-15T17:10:38+00:00",
+   "last_seen": "2026-11-15T17:10:38+00:00",
+   "title": "Senior Platform Architect - UK",
+   "org": "Temporal Technologies",
+   "location": "UK"
+  },
+  "staff developer advocate, enterprise - emea|temporal technologies|germany": {
+   "first_seen": "2026-11-15T17:10:38+00:00",
+   "last_seen": "2026-11-15T17:10:38+00:00",
+   "title": "Staff Developer Advocate, Enterprise - EMEA",
+   "org": "Temporal Technologies",
+   "location": "Germany"
+  },
+  "business development representative, emea|temporal technologies|uk": {
+   "first_seen": "2026-11-15T17:10:38+00:00",
+   "last_seen": "2026-11-15T17:10:38+00:00",
+   "title": "Business Development Representative, EMEA",
+   "org": "Temporal Technologies",
+   "location": "UK"
+  },
+  "sales engineer - spain|zscaler|spain": {
+   "first_seen": "2026-11-15T17:10:38+00:00",
+   "last_seen": "2026-11-15T17:10:38+00:00",
+   "title": "Sales Engineer - Spain",
+   "org": "Zscaler",
+   "location": "Spain"
+  },
+  "sales account executive 3 - enterprise|zscaler|poland": {
+   "first_seen": "2026-11-15T17:10:38+00:00",
+   "last_seen": "2026-11-15T17:10:38+00:00",
+   "title": "Sales Account Executive 3 - Enterprise",
+   "org": "Zscaler",
+   "location": "Poland"
+  },
+  "commercial account executive|zscaler|norway": {
+   "first_seen": "2026-11-15T17:10:38+00:00",
+   "last_seen": "2026-11-15T17:10:38+00:00",
+   "title": "Commercial Account Executive",
+   "org": "Zscaler",
+   "location": "Norway"
+  },
+  "account executive, enterprise|zscaler|austria": {
+   "first_seen": "2026-11-15T17:10:38+00:00",
+   "last_seen": "2026-11-15T17:10:38+00:00",
+   "title": "Account Executive, Enterprise",
+   "org": "Zscaler",
+   "location": "Austria"
+  },
+  "senior solutions engineer | switzerland | remote|grafana labs|switzerland": {
+   "first_seen": "2026-11-15T17:10:38+00:00",
+   "last_seen": "2026-11-15T17:10:38+00:00",
+   "title": "Senior Solutions Engineer | Switzerland | Remote",
+   "org": "Grafana Labs",
+   "location": "Switzerland"
+  },
+  "senior manager, contracts - data center|sb energy|usa": {
+   "first_seen": "2026-11-15T17:10:38+00:00",
+   "last_seen": "2026-11-15T17:10:38+00:00",
+   "title": "Senior Manager, Contracts - Data Center",
+   "org": "SB Energy",
+   "location": "USA"
+  },
+  "esi director, suitability|national life insurance company|usa": {
+   "first_seen": "2026-11-15T17:10:38+00:00",
+   "last_seen": "2026-11-15T17:10:38+00:00",
+   "title": "ESI Director, Suitability",
+   "org": "National Life Insurance Company",
+   "location": "USA"
+  },
+  "director, gtm operations|zapier|canada, usa": {
+   "first_seen": "2026-11-15T17:10:38+00:00",
+   "last_seen": "2026-11-15T17:10:38+00:00",
+   "title": "Director, GTM Operations",
+   "org": "Zapier",
+   "location": "Canada, USA"
+  },
+  "senior associate, client success|maven clinic|usa": {
+   "first_seen": "2026-11-15T17:10:38+00:00",
+   "last_seen": "2026-11-15T17:10:38+00:00",
+   "title": "Senior Associate, Client Success",
+   "org": "Maven Clinic",
+   "location": "USA"
+  },
+  "clinical growth sdr|prosper health|usa": {
+   "first_seen": "2026-11-15T17:10:38+00:00",
+   "last_seen": "2026-11-15T17:10:38+00:00",
+   "title": "Clinical Growth SDR",
+   "org": "Prosper Health",
+   "location": "USA"
+  },
+  "solution consultant|smartling|usa": {
+   "first_seen": "2026-11-15T17:10:38+00:00",
+   "last_seen": "2026-11-15T17:10:38+00:00",
+   "title": "Solution Consultant",
+   "org": "Smartling",
+   "location": "USA"
+  },
+  "esi associate vice president, suitability review|national life insurance company|usa": {
+   "first_seen": "2026-11-15T17:10:38+00:00",
+   "last_seen": "2026-11-15T17:10:38+00:00",
+   "title": "ESI Associate Vice President, Suitability Review",
+   "org": "National Life Insurance Company",
+   "location": "USA"
+  },
+  "business intelligence analytics engineer|carrot|usa": {
+   "first_seen": "2026-11-15T17:10:38+00:00",
+   "last_seen": "2026-11-15T17:10:38+00:00",
+   "title": "Business Intelligence Analytics Engineer",
+   "org": "Carrot",
+   "location": "USA"
+  },
+  "junior sales development representative (early career)|eventbrite|usa": {
+   "first_seen": "2026-11-15T17:10:38+00:00",
+   "last_seen": "2026-11-15T17:10:38+00:00",
+   "title": "Junior Sales Development Representative (Early Career)",
+   "org": "Eventbrite",
+   "location": "USA"
+  },
+  "demand generation manager|documo inc.|usa": {
+   "first_seen": "2026-11-15T17:10:38+00:00",
+   "last_seen": "2026-11-15T17:10:38+00:00",
+   "title": "Demand Generation Manager",
+   "org": "Documo Inc.",
+   "location": "USA"
+  },
+  "senior actuary, outcomes|maven clinic|usa": {
+   "first_seen": "2026-11-15T17:10:38+00:00",
+   "last_seen": "2026-11-15T17:10:38+00:00",
+   "title": "Senior Actuary, Outcomes",
+   "org": "Maven Clinic",
+   "location": "USA"
+  },
+  "senior paid search manager, make & manage money|launch potato|usa": {
+   "first_seen": "2026-11-15T17:10:38+00:00",
+   "last_seen": "2026-11-15T17:10:38+00:00",
+   "title": "Senior Paid Search Manager, Make & Manage Money",
+   "org": "Launch Potato",
+   "location": "USA"
+  },
+  "coordinator, legal support (intern)|cogstate|australia": {
+   "first_seen": "2026-11-15T17:10:38+00:00",
+   "last_seen": "2026-11-15T17:10:38+00:00",
+   "title": "Coordinator, Legal Support (Intern)",
+   "org": "Cogstate",
+   "location": "Australia"
+  },
+  "senior account executive|6sense|usa": {
+   "first_seen": "2026-11-15T17:10:38+00:00",
+   "last_seen": "2026-11-15T17:10:38+00:00",
+   "title": "Senior Account Executive",
+   "org": "6sense",
+   "location": "USA"
+  },
+  "regional vice president, taft-hartley & labor|maven clinic|usa": {
+   "first_seen": "2026-11-15T17:10:38+00:00",
+   "last_seen": "2026-11-15T17:10:38+00:00",
+   "title": "Regional Vice President, Taft-Hartley & Labor",
+   "org": "Maven Clinic",
+   "location": "USA"
+  },
+  "lead, paid marketing, make & manage money|launch potato|usa": {
+   "first_seen": "2026-11-15T17:10:38+00:00",
+   "last_seen": "2026-11-15T17:10:38+00:00",
+   "title": "Lead, Paid Marketing, Make & Manage Money",
+   "org": "Launch Potato",
+   "location": "USA"
+  },
+  "virtual lab manager|quartzy|usa": {
+   "first_seen": "2026-11-15T17:10:38+00:00",
+   "last_seen": "2026-11-15T17:10:38+00:00",
+   "title": "Virtual Lab Manager",
+   "org": "Quartzy",
+   "location": "USA"
+  },
+  "clinical trial associate (associate, rater services)|cogstate|usa": {
+   "first_seen": "2026-11-15T17:10:38+00:00",
+   "last_seen": "2026-11-15T17:10:38+00:00",
+   "title": "Clinical Trial Associate (Associate, Rater Services)",
+   "org": "Cogstate",
+   "location": "USA"
+  },
+  "advertising account executive|6sense|usa": {
+   "first_seen": "2026-11-15T17:10:38+00:00",
+   "last_seen": "2026-11-15T17:10:38+00:00",
+   "title": "Advertising Account Executive",
+   "org": "6sense",
+   "location": "USA"
+  },
+  "product manager, care delivery|maven clinic|usa": {
+   "first_seen": "2026-11-15T17:10:38+00:00",
+   "last_seen": "2026-11-15T17:10:38+00:00",
+   "title": "Product Manager, Care Delivery",
+   "org": "Maven Clinic",
+   "location": "USA"
+  },
+  "senior full stack engineer | experimentation - product analytics | uk | remote|grafana labs|germany, ireland, spain, sweden, uk": {
+   "first_seen": "2026-11-15T17:10:38+00:00",
+   "last_seen": "2026-11-15T17:10:38+00:00",
+   "title": "Senior Full Stack Engineer | Experimentation - Product Analytics | UK | Remote",
+   "org": "Grafana Labs",
+   "location": "Germany, Ireland, Spain, Sweden, UK"
+  },
+  "junior performance marketer (remote - romania)|everai|romania": {
+   "first_seen": "2026-11-15T17:10:38+00:00",
+   "last_seen": "2026-11-15T17:10:38+00:00",
+   "title": "Junior Performance Marketer (Remote - Romania)",
+   "org": "EverAI",
+   "location": "Romania"
+  },
+  "senior full stack engineer | experimentation - product analytics | sweden | remote|grafana labs|germany, ireland, spain, sweden, uk": {
+   "first_seen": "2026-11-15T17:10:38+00:00",
+   "last_seen": "2026-11-15T17:10:38+00:00",
+   "title": "Senior Full Stack Engineer | Experimentation - Product Analytics | Sweden | Remote",
+   "org": "Grafana Labs",
+   "location": "Germany, Ireland, Spain, Sweden, UK"
+  },
+  "junior performance marketer (remote - turkey)|everai|t\u00fcrkiye": {
+   "first_seen": "2026-11-15T17:10:38+00:00",
+   "last_seen": "2026-11-15T17:10:38+00:00",
+   "title": "Junior Performance Marketer (Remote - Turkey)",
+   "org": "EverAI",
+   "location": "T\u00fcrkiye"
+  },
+  "senior full stack engineer | experimentation - product analytics | spain | remote|grafana labs|germany, ireland, spain, sweden, uk": {
+   "first_seen": "2026-11-15T17:10:38+00:00",
+   "last_seen": "2026-11-15T17:10:38+00:00",
+   "title": "Senior Full Stack Engineer | Experimentation - Product Analytics | Spain | Remote",
+   "org": "Grafana Labs",
+   "location": "Germany, Ireland, Spain, Sweden, UK"
+  },
+  "junior performance marketer (remote - poland)|everai|poland": {
+   "first_seen": "2026-11-15T17:10:38+00:00",
+   "last_seen": "2026-11-15T17:10:38+00:00",
+   "title": "Junior Performance Marketer (Remote - Poland)",
+   "org": "EverAI",
+   "location": "Poland"
+  },
+  "senior full stack engineer | experimentation - product analytics | ireland | remote|grafana labs|germany, ireland, spain, sweden, uk": {
+   "first_seen": "2026-11-15T17:10:38+00:00",
+   "last_seen": "2026-11-15T17:10:38+00:00",
+   "title": "Senior Full Stack Engineer | Experimentation - Product Analytics | Ireland | Remote",
+   "org": "Grafana Labs",
+   "location": "Germany, Ireland, Spain, Sweden, UK"
+  },
+  "junior performance marketer (remote - ukraine)|everai|ukraine": {
+   "first_seen": "2026-11-15T17:10:38+00:00",
+   "last_seen": "2026-11-15T17:10:38+00:00",
+   "title": "Junior Performance Marketer (Remote - Ukraine)",
+   "org": "EverAI",
+   "location": "Ukraine"
+  },
+  "senior full stack engineer | experimentation - product analytics | germany | remote|grafana labs|germany, ireland, spain, sweden, uk": {
+   "first_seen": "2026-11-15T17:10:38+00:00",
+   "last_seen": "2026-11-15T17:10:38+00:00",
+   "title": "Senior Full Stack Engineer | Experimentation - Product Analytics | Germany | Remote",
+   "org": "Grafana Labs",
+   "location": "Germany, Ireland, Spain, Sweden, UK"
+  },
+  "senior sales engineer, nordics|horizon3.ai|sweden": {
+   "first_seen": "2026-11-15T17:10:38+00:00",
+   "last_seen": "2026-11-15T17:10:38+00:00",
+   "title": "Senior Sales Engineer, Nordics",
+   "org": "Horizon3.ai",
+   "location": "Sweden"
+  },
+  "talent acquisition specialist (1year limited term)|alimentiv|brazil": {
+   "first_seen": "2026-11-15T17:10:38+00:00",
+   "last_seen": "2026-11-15T17:10:38+00:00",
+   "title": "Talent Acquisition Specialist (1year Limited Term)",
+   "org": "Alimentiv",
+   "location": "Brazil"
+  },
+  "web automation test engineer|caylent|brazil": {
+   "first_seen": "2026-11-15T17:10:38+00:00",
+   "last_seen": "2026-11-15T17:10:38+00:00",
+   "title": "Web Automation Test Engineer",
+   "org": "Caylent",
+   "location": "Brazil"
+  },
+  "senior backend engineer (f/m/x)|caronsale|brazil": {
+   "first_seen": "2026-11-15T17:10:38+00:00",
+   "last_seen": "2026-11-15T17:10:38+00:00",
+   "title": "Senior Backend Engineer (f/m/x)",
+   "org": "CarOnSale",
+   "location": "Brazil"
+  },
+  "senior site reliability engineer|monks|costa rica": {
+   "first_seen": "2026-11-15T17:10:38+00:00",
+   "last_seen": "2026-11-15T17:10:38+00:00",
+   "title": "Senior Site Reliability Engineer",
+   "org": "Monks",
+   "location": "Costa Rica"
+  },
+  "human resources generalist|alimentiv|brazil": {
+   "first_seen": "2026-11-15T17:10:38+00:00",
+   "last_seen": "2026-11-15T17:10:38+00:00",
+   "title": "Human Resources Generalist",
+   "org": "Alimentiv",
+   "location": "Brazil"
+  },
+  "senior security engineer|caylent|brazil": {
+   "first_seen": "2026-11-15T17:10:38+00:00",
+   "last_seen": "2026-11-15T17:10:38+00:00",
+   "title": "Senior Security Engineer",
+   "org": "Caylent",
+   "location": "Brazil"
+  },
+  "paid search specialist (ppc) - brazil|brafton|brazil": {
+   "first_seen": "2026-11-15T17:10:38+00:00",
+   "last_seen": "2026-11-15T17:10:38+00:00",
+   "title": "Paid Search Specialist (PPC) - Brazil",
+   "org": "Brafton",
+   "location": "Brazil"
+  },
+  "sr. software engineer - pat assist|qventus|latam": {
+   "first_seen": "2026-11-15T17:10:38+00:00",
+   "last_seen": "2026-11-15T17:10:38+00:00",
+   "title": "Sr. Software Engineer - PAT Assist",
+   "org": "Qventus",
+   "location": "LATAM"
+  },
+  "senior software engineer (full stack | node.js & react | ai focus)|oowlish technology|argentina, brazil, mexico": {
+   "first_seen": "2026-11-15T17:10:38+00:00",
+   "last_seen": "2026-11-15T17:10:38+00:00",
+   "title": "Senior Software Engineer (Full Stack | Node.js & React | AI Focus)",
+   "org": "Oowlish Technology",
+   "location": "Argentina, Brazil, Mexico"
+  },
+  "salesforce developer (f/m/x)|caronsale|brazil": {
+   "first_seen": "2026-11-15T17:10:38+00:00",
+   "last_seen": "2026-11-15T17:10:38+00:00",
+   "title": "Salesforce Developer (f/m/x)",
+   "org": "CarOnSale",
+   "location": "Brazil"
   }
  }
 }

@@ -3,168 +3,168 @@
  "name": "Himalayas \u2014 remote jobs",
  "category": "jobs",
  "source": "https://himalayas.app/jobs/api",
- "collected_at": "2026-11-15T12:05:29+00:00",
+ "collected_at": "2026-11-15T17:10:38+00:00",
  "jobs_on_board": 20,
  "new_this_run": 20,
- "total_tracked": 39,
+ "total_tracked": 59,
  "jobs": [
   {
-   "title": "[Job-32676] Senior Business Analyst - Dynamics 365, Brazil",
-   "org": "CI&T",
+   "title": "| Technical Support Agents Level A+ / Tier 1",
+   "org": "Vivo Gaming",
+   "location": "Costa Rica",
+   "detail": "Full Time",
+   "url": null,
+   "new_this_run": true
+  },
+  {
+   "title": "Remote Part-Time Executive Assistant",
+   "org": "FreedUp",
+   "location": "Philippines",
+   "detail": "$600\u2013$800/m",
+   "url": null,
+   "new_this_run": true
+  },
+  {
+   "title": "Manager, Enterprise Engineering Solutions (EES)",
+   "org": "CareSource",
+   "location": "United States",
+   "detail": "$94,100\u2013$164,800/a",
+   "url": null,
+   "new_this_run": true
+  },
+  {
+   "title": "Sr Sourcing Manager",
+   "org": "Vital Farms - Current Crew Members",
+   "location": "United States",
+   "detail": "$130,000\u2013$150,000/a",
+   "url": null,
+   "new_this_run": true
+  },
+  {
+   "title": "Digital Marketing Account Manager",
+   "org": "Logical Media Group",
+   "location": "Colombia",
+   "detail": "Contractor",
+   "url": null,
+   "new_this_run": true
+  },
+  {
+   "title": "Site Contract Specialist",
+   "org": "Alimentiv",
    "location": "Brazil",
    "detail": "Full Time",
    "url": null,
    "new_this_run": true
   },
   {
-   "title": "Sales (WFH | US Only)",
-   "org": "Spieldenner Financial Group",
+   "title": "Sr Revenue Cycle Business Analyst",
+   "org": "Piedmont Healthcare",
    "location": "United States",
    "detail": "Full Time",
    "url": null,
    "new_this_run": true
   },
   {
-   "title": "General Manager, Communication, Media, Entertainment and Technology - US-Based",
-   "org": "Toptal",
+   "title": "Brand Partnership Manager",
+   "org": "Salem Media Group",
    "location": "United States",
-   "detail": "Full Time",
+   "detail": "$36\u2013$41/h",
    "url": null,
    "new_this_run": true
   },
   {
-   "title": "Senior Database Administrator (PostgreSQL)",
-   "org": "Tabby",
-   "location": "Ukraine",
-   "detail": "Full Time",
+   "title": "Corporate Events Coordinator",
+   "org": "StarRez",
+   "location": "United States",
+   "detail": "$55,000\u2013$70,000/a",
    "url": null,
    "new_this_run": true
   },
   {
-   "title": "Business Development Manager - Digital Marketing",
-   "org": "Colab",
+   "title": "E-Commerce Operations Manager | South Africa",
+   "org": "HireHawk",
    "location": "South Africa",
    "detail": "Full Time",
    "url": null,
    "new_this_run": true
   },
   {
-   "title": "QA Engineer",
-   "org": "Trilogy Federal",
-   "location": "United States",
-   "detail": "$75,000\u2013$90,000/a",
-   "url": null,
-   "new_this_run": true
-  },
-  {
-   "title": "Customer Reputation Specialist",
-   "org": "TripleTen",
-   "location": "Argentina",
-   "detail": "$600\u2013$600/m",
-   "url": null,
-   "new_this_run": true
-  },
-  {
-   "title": "Global Campaigns Lead",
-   "org": "HelloKindred",
-   "location": "United States",
-   "detail": "Contractor",
-   "url": null,
-   "new_this_run": true
-  },
-  {
-   "title": "2D Graphic Design & Image Editing Expert (GIMP), Remote",
-   "org": "Xperteez Technology",
-   "location": "United States",
-   "detail": "$21\u2013$70/h",
-   "url": null,
-   "new_this_run": true
-  },
-  {
-   "title": "Internship - Law, Policy, and Research - Spring 2027",
-   "org": "Outright International",
-   "location": "remote",
-   "detail": "Intern",
-   "url": null,
-   "new_this_run": true
-  },
-  {
-   "title": "Senior Project Manager, Qualitative",
-   "org": "Konovo",
-   "location": "Mexico",
-   "detail": "Full Time",
-   "url": null,
-   "new_this_run": true
-  },
-  {
-   "title": "Coordinator, Legal Support (Intern)",
-   "org": "Cogstate",
-   "location": "Australia, United Kingdom, United States",
-   "detail": "Intern",
-   "url": null,
-   "new_this_run": true
-  },
-  {
-   "title": "Director, Government Pricing",
-   "org": "MediSpend",
-   "location": "United States",
-   "detail": "$150,000\u2013$200,000/a",
-   "url": null,
-   "new_this_run": true
-  },
-  {
-   "title": "Marketing Communications Manager, Donor Engagement",
-   "org": "American Heart Association",
-   "location": "United States",
-   "detail": "$69,300\u2013$90,000/a",
-   "url": null,
-   "new_this_run": true
-  },
-  {
-   "title": "Digital Content Specialist - Website & Social Media",
-   "org": "KPFF Consulting Engineers",
-   "location": "United States",
-   "detail": "$78,000\u2013$95,000/a",
-   "url": null,
-   "new_this_run": true
-  },
-  {
-   "title": "Senior UX/UI Designer for Product (Freelance)",
-   "org": "Vi",
-   "location": "United States",
-   "detail": "Contractor",
-   "url": null,
-   "new_this_run": true
-  },
-  {
-   "title": "Senior AI Engineer",
-   "org": "Osano",
+   "title": "Junior UX Designer",
+   "org": "Bask Health",
    "location": "United States",
    "detail": "Full Time",
    "url": null,
    "new_this_run": true
   },
   {
-   "title": "Senior Editor, Analytics",
-   "org": "Postmedia Network Inc.",
-   "location": "Canada",
-   "detail": "$75,000\u2013$90,000/a",
-   "url": null,
-   "new_this_run": true
-  },
-  {
-   "title": "Technical Architect",
-   "org": "Talan",
-   "location": "Chile",
+   "title": "Java / Quarkus Microservices Developer",
+   "org": "Consultec-TI",
+   "location": "Venezuela",
    "detail": "Full Time",
    "url": null,
    "new_this_run": true
   },
   {
-   "title": "Project Manager (Junior+/Middle)",
-   "org": "Viseven",
-   "location": "Ukraine",
+   "title": "Client Product Manager",
+   "org": "IDeaS",
+   "location": "United States",
+   "detail": "Other",
+   "url": null,
+   "new_this_run": true
+  },
+  {
+   "title": "Senior Insurance Business Analyst / Delivery Lead",
+   "org": "DXC Technology",
+   "location": "United States",
+   "detail": "$84,400\u2013$156,800/a",
+   "url": null,
+   "new_this_run": true
+  },
+  {
+   "title": "Sr. Software Engineer, Integrations",
+   "org": "TrueML",
+   "location": "United States",
+   "detail": "$125,000\u2013$180,000/a",
+   "url": null,
+   "new_this_run": true
+  },
+  {
+   "title": "Principal Product Manager",
+   "org": "Zscaler",
+   "location": "United States",
+   "detail": "$171,500\u2013$245,000/a",
+   "url": null,
+   "new_this_run": true
+  },
+  {
+   "title": "AutoCAD Designer - Warehouse Racking Systems (2D Design)",
+   "org": "KPI Solutions",
+   "location": "United States",
    "detail": "Full Time",
+   "url": null,
+   "new_this_run": true
+  },
+  {
+   "title": "Platform Software Engineer",
+   "org": "Syllo",
+   "location": "United States",
+   "detail": "$170,000\u2013$190,000/a",
+   "url": null,
+   "new_this_run": true
+  },
+  {
+   "title": "Application Support Engineer",
+   "org": "8x8",
+   "location": "United States",
+   "detail": "$123,600\u2013$185,400/a",
+   "url": null,
+   "new_this_run": true
+  },
+  {
+   "title": "Senior Talent Aquisition Partner",
+   "org": "Hello Heart",
+   "location": "United States",
+   "detail": "$110,000\u2013$160,000/a",
    "url": null,
    "new_this_run": true
   }
@@ -187,6 +187,11 @@
   },
   {
    "at": "2026-11-15T12:05:29+00:00",
+   "jobs": 20,
+   "new": 20
+  },
+  {
+   "at": "2026-11-15T17:10:38+00:00",
    "jobs": 20,
    "new": 20
   }
@@ -464,6 +469,146 @@
    "title": "Project Manager (Junior+/Middle)",
    "org": "Viseven",
    "location": "Ukraine"
+  },
+  "| technical support agents level a+ / tier 1|vivo gaming|costa rica": {
+   "first_seen": "2026-11-15T17:10:38+00:00",
+   "last_seen": "2026-11-15T17:10:38+00:00",
+   "title": "| Technical Support Agents Level A+ / Tier 1",
+   "org": "Vivo Gaming",
+   "location": "Costa Rica"
+  },
+  "remote part-time executive assistant|freedup|philippines": {
+   "first_seen": "2026-11-15T17:10:38+00:00",
+   "last_seen": "2026-11-15T17:10:38+00:00",
+   "title": "Remote Part-Time Executive Assistant",
+   "org": "FreedUp",
+   "location": "Philippines"
+  },
+  "manager, enterprise engineering solutions (ees)|caresource|united states": {
+   "first_seen": "2026-11-15T17:10:38+00:00",
+   "last_seen": "2026-11-15T17:10:38+00:00",
+   "title": "Manager, Enterprise Engineering Solutions (EES)",
+   "org": "CareSource",
+   "location": "United States"
+  },
+  "sr sourcing manager|vital farms - current crew members|united states": {
+   "first_seen": "2026-11-15T17:10:38+00:00",
+   "last_seen": "2026-11-15T17:10:38+00:00",
+   "title": "Sr Sourcing Manager",
+   "org": "Vital Farms - Current Crew Members",
+   "location": "United States"
+  },
+  "digital marketing account manager|logical media group|colombia": {
+   "first_seen": "2026-11-15T17:10:38+00:00",
+   "last_seen": "2026-11-15T17:10:38+00:00",
+   "title": "Digital Marketing Account Manager",
+   "org": "Logical Media Group",
+   "location": "Colombia"
+  },
+  "site contract specialist|alimentiv|brazil": {
+   "first_seen": "2026-11-15T17:10:38+00:00",
+   "last_seen": "2026-11-15T17:10:38+00:00",
+   "title": "Site Contract Specialist",
+   "org": "Alimentiv",
+   "location": "Brazil"
+  },
+  "sr revenue cycle business analyst|piedmont healthcare|united states": {
+   "first_seen": "2026-11-15T17:10:38+00:00",
+   "last_seen": "2026-11-15T17:10:38+00:00",
+   "title": "Sr Revenue Cycle Business Analyst",
+   "org": "Piedmont Healthcare",
+   "location": "United States"
+  },
+  "brand partnership manager|salem media group|united states": {
+   "first_seen": "2026-11-15T17:10:38+00:00",
+   "last_seen": "2026-11-15T17:10:38+00:00",
+   "title": "Brand Partnership Manager",
+   "org": "Salem Media Group",
+   "location": "United States"
+  },
+  "corporate events coordinator|starrez|united states": {
+   "first_seen": "2026-11-15T17:10:38+00:00",
+   "last_seen": "2026-11-15T17:10:38+00:00",
+   "title": "Corporate Events Coordinator",
+   "org": "StarRez",
+   "location": "United States"
+  },
+  "e-commerce operations manager | south africa|hirehawk|south africa": {
+   "first_seen": "2026-11-15T17:10:38+00:00",
+   "last_seen": "2026-11-15T17:10:38+00:00",
+   "title": "E-Commerce Operations Manager | South Africa",
+   "org": "HireHawk",
+   "location": "South Africa"
+  },
+  "junior ux designer|bask health|united states": {
+   "first_seen": "2026-11-15T17:10:38+00:00",
+   "last_seen": "2026-11-15T17:10:38+00:00",
+   "title": "Junior UX Designer",
+   "org": "Bask Health",
+   "location": "United States"
+  },
+  "java / quarkus microservices developer|consultec-ti|venezuela": {
+   "first_seen": "2026-11-15T17:10:38+00:00",
+   "last_seen": "2026-11-15T17:10:38+00:00",
+   "title": "Java / Quarkus Microservices Developer",
+   "org": "Consultec-TI",
+   "location": "Venezuela"
+  },
+  "client product manager|ideas|united states": {
+   "first_seen": "2026-11-15T17:10:38+00:00",
+   "last_seen": "2026-11-15T17:10:38+00:00",
+   "title": "Client Product Manager",
+   "org": "IDeaS",
+   "location": "United States"
+  },
+  "senior insurance business analyst / delivery lead|dxc technology|united states": {
+   "first_seen": "2026-11-15T17:10:38+00:00",
+   "last_seen": "2026-11-15T17:10:38+00:00",
+   "title": "Senior Insurance Business Analyst / Delivery Lead",
+   "org": "DXC Technology",
+   "location": "United States"
+  },
+  "sr. software engineer, integrations|trueml|united states": {
+   "first_seen": "2026-11-15T17:10:38+00:00",
+   "last_seen": "2026-11-15T17:10:38+00:00",
+   "title": "Sr. Software Engineer, Integrations",
+   "org": "TrueML",
+   "location": "United States"
+  },
+  "principal product manager|zscaler|united states": {
+   "first_seen": "2026-11-15T17:10:38+00:00",
+   "last_seen": "2026-11-15T17:10:38+00:00",
+   "title": "Principal Product Manager",
+   "org": "Zscaler",
+   "location": "United States"
+  },
+  "autocad designer - warehouse racking systems (2d design)|kpi solutions|united states": {
+   "first_seen": "2026-11-15T17:10:38+00:00",
+   "last_seen": "2026-11-15T17:10:38+00:00",
+   "title": "AutoCAD Designer - Warehouse Racking Systems (2D Design)",
+   "org": "KPI Solutions",
+   "location": "United States"
+  },
+  "platform software engineer|syllo|united states": {
+   "first_seen": "2026-11-15T17:10:38+00:00",
+   "last_seen": "2026-11-15T17:10:38+00:00",
+   "title": "Platform Software Engineer",
+   "org": "Syllo",
+   "location": "United States"
+  },
+  "application support engineer|8x8|united states": {
+   "first_seen": "2026-11-15T17:10:38+00:00",
+   "last_seen": "2026-11-15T17:10:38+00:00",
+   "title": "Application Support Engineer",
+   "org": "8x8",
+   "location": "United States"
+  },
+  "senior talent aquisition partner|hello heart|united states": {
+   "first_seen": "2026-11-15T17:10:38+00:00",
+   "last_seen": "2026-11-15T17:10:38+00:00",
+   "title": "Senior Talent Aquisition Partner",
+   "org": "Hello Heart",
+   "location": "United States"
   }
  }
 }
