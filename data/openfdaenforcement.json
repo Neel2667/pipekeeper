@@ -3,7 +3,7 @@
  "name": "openFDA \u2014 newest recalls & enforcement actions",
  "category": "government",
  "source": "https://open.fda.gov/apis/food/enforcement/",
- "collected_at": "2026-11-15T10:22:52+00:00",
+ "collected_at": "2026-11-15T12:05:34+00:00",
  "jobs_on_board": 100,
  "new_this_run": 0,
  "total_tracked": 100,
@@ -819,705 +819,710 @@
    "at": "2026-11-15T10:22:52+00:00",
    "jobs": 100,
    "new": 0
+  },
+  {
+   "at": "2026-11-15T12:05:34+00:00",
+   "jobs": 100,
+   "new": 0
   }
  ],
  "jobs_seen": {
   "gluten free truly aip rustic bread mix, 14 oz|gf blends inc|richland, wa": {
    "first_seen": "2026-11-15T10:22:30+00:00",
-   "last_seen": "2026-11-15T10:22:52+00:00",
+   "last_seen": "2026-11-15T12:05:34+00:00",
    "title": "Gluten Free Truly AIP Rustic Bread Mix, 14 oz",
    "org": "GF Blends Inc",
    "location": "Richland, WA"
   },
   "eden brothers broccoli seeds - calabrese. sold in packets, net wt. 1oz pouches, upc svbro111 -qb2 & 1 pound pouches upc |eden brothers|arden, nc": {
    "first_seen": "2026-11-15T10:22:30+00:00",
-   "last_seen": "2026-11-15T10:22:52+00:00",
+   "last_seen": "2026-11-15T12:05:34+00:00",
    "title": "EDEN BROTHERS Broccoli Seeds - Calabrese. Sold in packets, Net Wt. 1oz pouches, UPC SVBRO111 -qb2 & 1 Pound pouches UPC SVBRO111 -qb4.",
    "org": "EDEN BROTHERS",
    "location": "Arden, NC"
   },
   "miyoko's creamery european style salted plant milk butter, net wt. 8 oz (227g). upc 857554005773. distributed by: prospe|prosperity organic foods inc|boise, id": {
    "first_seen": "2026-11-15T10:22:30+00:00",
-   "last_seen": "2026-11-15T10:22:52+00:00",
+   "last_seen": "2026-11-15T12:05:34+00:00",
    "title": "Miyoko's Creamery European Style Salted Plant Milk Butter, Net Wt. 8 OZ (227G). UPC 857554005773. Distributed By: Prosperity Organic Food\u2026",
    "org": "Prosperity Organic Foods Inc",
    "location": "Boise, ID"
   },
   "riad's oliva to go hummus|oliva on main|bethlehem, ct": {
    "first_seen": "2026-11-15T10:22:30+00:00",
-   "last_seen": "2026-11-15T10:22:52+00:00",
+   "last_seen": "2026-11-15T12:05:34+00:00",
    "title": "Riad's Oliva to Go Hummus",
    "org": "Oliva on Main",
    "location": "Bethlehem, CT"
   },
   "riad's oliva to go baba ghanouj|oliva on main|bethlehem, ct": {
    "first_seen": "2026-11-15T10:22:30+00:00",
-   "last_seen": "2026-11-15T10:22:52+00:00",
+   "last_seen": "2026-11-15T12:05:34+00:00",
    "title": "Riad's Oliva to Go Baba Ghanouj",
    "org": "Oliva on Main",
    "location": "Bethlehem, CT"
   },
   "zestigreens broccoli seeds for sprouting & microgreens; 8 oz; heirloom broccoli seeds. sku: x004iom4aj zestigreens brocc|fortuna marketing, inc|poway, ca": {
    "first_seen": "2026-11-15T10:22:30+00:00",
-   "last_seen": "2026-11-15T10:22:52+00:00",
+   "last_seen": "2026-11-15T12:05:34+00:00",
    "title": "ZestiGreens Broccoli Seeds for Sprouting & Microgreens; 8 OZ; Heirloom Broccoli Seeds. SKU: X004IOM4AJ ZestiGreens Broccoli Seeds for Sp\u2026",
    "org": "FORTUNA MARKETING, INC",
    "location": "Poway, CA"
   },
   "gluten free eat g.a.n.g.s.t.e.r pizza crust and flat bread mix, 5.8oz (165g) & 3.98 lbs.|gf blends inc|richland, wa": {
    "first_seen": "2026-11-15T10:22:30+00:00",
-   "last_seen": "2026-11-15T10:22:52+00:00",
+   "last_seen": "2026-11-15T12:05:34+00:00",
    "title": "Gluten Free EAT G.A.N.G.S.T.E.R Pizza Crust and Flat Bread Mix, 5.8oz (165g) & 3.98 lbs.",
    "org": "GF Blends Inc",
    "location": "Richland, WA"
   },
   "sunny sky non-dairy french vanilla creamer, 96oz , bag in box, 3 per case, refrigerate after opening.|sunny sky products, llc|douglassville, pa": {
    "first_seen": "2026-11-15T10:22:30+00:00",
-   "last_seen": "2026-11-15T10:22:52+00:00",
+   "last_seen": "2026-11-15T12:05:34+00:00",
    "title": "Sunny Sky Non-Dairy French Vanilla Creamer, 96oz , bag in box, 3 per case, refrigerate after opening.",
    "org": "Sunny Sky Products, LLC",
    "location": "Douglassville, PA"
   },
   "gluten free truly aip all purpose baking mix flour 15.3 oz|gf blends inc|richland, wa": {
    "first_seen": "2026-11-15T10:22:30+00:00",
-   "last_seen": "2026-11-15T10:22:52+00:00",
+   "last_seen": "2026-11-15T12:05:34+00:00",
    "title": "Gluten Free Truly AIP All Purpose Baking Mix Flour 15.3 oz",
    "org": "GF Blends Inc",
    "location": "Richland, WA"
   },
   "riad's oliva to go spicy baba ghanouj|oliva on main|bethlehem, ct": {
    "first_seen": "2026-11-15T10:22:30+00:00",
-   "last_seen": "2026-11-15T10:22:52+00:00",
+   "last_seen": "2026-11-15T12:05:34+00:00",
    "title": "Riad's Oliva to Go Spicy Baba Ghanouj",
    "org": "Oliva on Main",
    "location": "Bethlehem, CT"
   },
   "boner bears chocolate, 3 doses per bar, net wt. 22g, male enhancement, dosage: consume 1 piece at least 1 hour prior to |jxk enterprises, inc.|miami, fl": {
    "first_seen": "2026-11-15T10:22:30+00:00",
-   "last_seen": "2026-11-15T10:22:52+00:00",
+   "last_seen": "2026-11-15T12:05:34+00:00",
    "title": "Boner Bears CHOCOLATE, 3 DOSES PER BAR, NET WT. 22g, MALE ENHANCEMENT, DOSAGE: Consume 1 piece at least 1 hour prior to activity. Do not \u2026",
    "org": "JXK Enterprises, Inc.",
    "location": "Miami, FL"
   },
   "blue bottle coffee 4oz sweet blossom simple syrup in a glass boston round bottle with metal and plastisol cap. the label|pink house alchemy, llc|fayetteville, ar": {
    "first_seen": "2026-11-15T10:22:30+00:00",
-   "last_seen": "2026-11-15T10:22:52+00:00",
+   "last_seen": "2026-11-15T12:05:34+00:00",
    "title": "Blue Bottle Coffee 4oz Sweet Blossom Simple Syrup in a glass boston round bottle with metal and plastisol cap. The label reads in part as\u2026",
    "org": "Pink House Alchemy, LLC",
    "location": "Fayetteville, AR"
   },
   "jovy gummy worms neon; packaged in 1lb plastic units. upc 712199083411|el ruisenor de mexico, inc.|vernon, ca": {
    "first_seen": "2026-11-15T10:22:30+00:00",
-   "last_seen": "2026-11-15T10:22:52+00:00",
+   "last_seen": "2026-11-15T12:05:34+00:00",
    "title": "Jovy Gummy Worms Neon; packaged in 1lb plastic units. UPC 712199083411",
    "org": "El Ruisenor De Mexico, Inc.",
    "location": "Vernon, CA"
   },
   "milk chocolate covered raisins; packaged in 1lb, 5lb, 20lb clear plastic units. no upc|el ruisenor de mexico, inc.|vernon, ca": {
    "first_seen": "2026-11-15T10:22:30+00:00",
-   "last_seen": "2026-11-15T10:22:52+00:00",
+   "last_seen": "2026-11-15T12:05:34+00:00",
    "title": "Milk Chocolate Covered Raisins; packaged in 1lb, 5lb, 20lb clear plastic units. No UPC",
    "org": "El Ruisenor De Mexico, Inc.",
    "location": "Vernon, CA"
   },
   "whole wheat flour; packaged in 1lb, 5lb, 50lb clear plastic units. no upc|el ruisenor de mexico, inc.|vernon, ca": {
    "first_seen": "2026-11-15T10:22:30+00:00",
-   "last_seen": "2026-11-15T10:22:52+00:00",
+   "last_seen": "2026-11-15T12:05:34+00:00",
    "title": "Whole wheat flour; packaged in 1lb, 5lb, 50lb clear plastic units. No UPC",
    "org": "El Ruisenor De Mexico, Inc.",
    "location": "Vernon, CA"
   },
   "special red almond mole powder; packaged in 1lb, 5lb, 11lb clear plastic units. no upc|el ruisenor de mexico, inc.|vernon, ca": {
    "first_seen": "2026-11-15T10:22:30+00:00",
-   "last_seen": "2026-11-15T10:22:52+00:00",
+   "last_seen": "2026-11-15T12:05:34+00:00",
    "title": "Special Red Almond Mole Powder; packaged in 1lb, 5lb, 11lb clear plastic units. No UPC",
    "org": "El Ruisenor De Mexico, Inc.",
    "location": "Vernon, CA"
   },
   "fritura mixed dry fruit; packed in a clear plastic 1lb, 5lb, 25lb unit sizes. no upc|el ruisenor de mexico, inc.|vernon, ca": {
    "first_seen": "2026-11-15T10:22:30+00:00",
-   "last_seen": "2026-11-15T10:22:52+00:00",
+   "last_seen": "2026-11-15T12:05:34+00:00",
    "title": "Fritura mixed dry fruit; packed in a clear plastic 1lb, 5lb, 25lb unit sizes. no UPC",
    "org": "El Ruisenor De Mexico, Inc.",
    "location": "Vernon, CA"
   },
   "black sesame seeds; packed in a clear plastic bag. 1lb, 5lb, 50lb unit size. no upc|el ruisenor de mexico, inc.|vernon, ca": {
    "first_seen": "2026-11-15T10:22:30+00:00",
-   "last_seen": "2026-11-15T10:22:52+00:00",
+   "last_seen": "2026-11-15T12:05:34+00:00",
    "title": "Black Sesame Seeds; packed in a clear plastic bag. 1lb, 5lb, 50lb unit size. No UPC",
    "org": "El Ruisenor De Mexico, Inc.",
    "location": "Vernon, CA"
   },
   "10x10 wheat snack; packaged in 2lb, 5lb, 33lb clear plastic units. no upc|el ruisenor de mexico, inc.|vernon, ca": {
    "first_seen": "2026-11-15T10:22:30+00:00",
-   "last_seen": "2026-11-15T10:22:52+00:00",
+   "last_seen": "2026-11-15T12:05:34+00:00",
    "title": "10X10 Wheat Snack; packaged in 2lb, 5lb, 33lb clear plastic units. No UPC",
    "org": "El Ruisenor De Mexico, Inc.",
    "location": "Vernon, CA"
   },
   "textured soy protein; packaged in 1lb, 5lb, 33lb clear plastic units. no upc|el ruisenor de mexico, inc.|vernon, ca": {
    "first_seen": "2026-11-15T10:22:30+00:00",
-   "last_seen": "2026-11-15T10:22:52+00:00",
+   "last_seen": "2026-11-15T12:05:34+00:00",
    "title": "Textured Soy Protein; packaged in 1lb, 5lb, 33lb clear plastic units. No UPC",
    "org": "El Ruisenor De Mexico, Inc.",
    "location": "Vernon, CA"
   },
   "voila! juice 100% squeezed orange voila! oakland, ca 94601 16 oz: upc 701725001074 32 oz: upc 701725001081 64 oz: upc 70|voila juice company|oakland, ca": {
    "first_seen": "2026-11-15T10:22:30+00:00",
-   "last_seen": "2026-11-15T10:22:52+00:00",
+   "last_seen": "2026-11-15T12:05:34+00:00",
    "title": "Voila! juice 100% SQUEEZED ORANGE VOILA! OAKLAND, CA 94601 16 OZ: UPC 701725001074 32 OZ: UPC 701725001081 64 OZ: UPC 701725001098 128 \u2026",
    "org": "Voila Juice Company",
    "location": "Oakland, CA"
   },
   "all-purpose flour; packaged in 1lb, 5lb, 50lb clear plastic units. no upc|el ruisenor de mexico, inc.|vernon, ca": {
    "first_seen": "2026-11-15T10:22:30+00:00",
-   "last_seen": "2026-11-15T10:22:52+00:00",
+   "last_seen": "2026-11-15T12:05:34+00:00",
    "title": "All-Purpose Flour; packaged in 1lb, 5lb, 50lb clear plastic units. No UPC",
    "org": "El Ruisenor De Mexico, Inc.",
    "location": "Vernon, CA"
   },
   "fritura rueda papa / potato wheel snack; packed in a clear plastic 1lb, 5lb, 33lb unit sizes. no upc|el ruisenor de mexico, inc.|vernon, ca": {
    "first_seen": "2026-11-15T10:22:30+00:00",
-   "last_seen": "2026-11-15T10:22:52+00:00",
+   "last_seen": "2026-11-15T12:05:34+00:00",
    "title": "Fritura Rueda Papa / Potato Wheel Snack; packed in a clear plastic 1lb, 5lb, 33lb unit sizes. No UPC",
    "org": "El Ruisenor De Mexico, Inc.",
    "location": "Vernon, CA"
   },
   "soybeans; packed in a clear plastic 1lb, 5lb, 50lb unit sizes. no upc|el ruisenor de mexico, inc.|vernon, ca": {
    "first_seen": "2026-11-15T10:22:30+00:00",
-   "last_seen": "2026-11-15T10:22:52+00:00",
+   "last_seen": "2026-11-15T12:05:34+00:00",
    "title": "Soybeans; packed in a clear plastic 1lb, 5lb, 50lb unit sizes. No UPC",
    "org": "El Ruisenor De Mexico, Inc.",
    "location": "Vernon, CA"
   },
   "horchata drink mix; packaged in 1lb, 5lb, 50lb clear plastic units. no upc|el ruisenor de mexico, inc.|vernon, ca": {
    "first_seen": "2026-11-15T10:22:30+00:00",
-   "last_seen": "2026-11-15T10:22:52+00:00",
+   "last_seen": "2026-11-15T12:05:34+00:00",
    "title": "Horchata Drink Mix; packaged in 1lb, 5lb, 50lb clear plastic units. No UPC",
    "org": "El Ruisenor De Mexico, Inc.",
    "location": "Vernon, CA"
   },
   "churro mix; packed in a clear plastic 1lb, 5lb, 50lb unit sizes. no upc|el ruisenor de mexico, inc.|vernon, ca": {
    "first_seen": "2026-11-15T10:22:30+00:00",
-   "last_seen": "2026-11-15T10:22:52+00:00",
+   "last_seen": "2026-11-15T12:05:34+00:00",
    "title": "Churro Mix; packed in a clear plastic 1lb, 5lb, 50lb unit sizes. no UPC",
    "org": "El Ruisenor De Mexico, Inc.",
    "location": "Vernon, CA"
   },
   "jovy gummy bears regular; packed in a clear plastic 1lb unit sizes. upc: upc 712199085156|el ruisenor de mexico, inc.|vernon, ca": {
    "first_seen": "2026-11-15T10:22:30+00:00",
-   "last_seen": "2026-11-15T10:22:52+00:00",
+   "last_seen": "2026-11-15T12:05:34+00:00",
    "title": "Jovy Gummy Bears Regular; packed in a clear plastic 1lb unit sizes. UPC: UPC 712199085156",
    "org": "El Ruisenor De Mexico, Inc.",
    "location": "Vernon, CA"
   },
   "almonds in shell; packed in a clear plastic bag. 1lb, 5lb, 50lb unit size. no upc|el ruisenor de mexico, inc.|vernon, ca": {
    "first_seen": "2026-11-15T10:22:30+00:00",
-   "last_seen": "2026-11-15T10:22:52+00:00",
+   "last_seen": "2026-11-15T12:05:34+00:00",
    "title": "Almonds in Shell; packed in a clear plastic bag. 1lb, 5lb, 50lb unit size. No UPC",
    "org": "El Ruisenor De Mexico, Inc.",
    "location": "Vernon, CA"
   },
   "4x6 wheat snack; packaged in 1lb, 5lb, 33lb clear plastic units. 4x8 wheat snack; packaged in 1lb, 5lb, 33lb clear plast|el ruisenor de mexico, inc.|vernon, ca": {
    "first_seen": "2026-11-15T10:22:30+00:00",
-   "last_seen": "2026-11-15T10:22:52+00:00",
+   "last_seen": "2026-11-15T12:05:34+00:00",
    "title": "4X6 Wheat Snack; packaged in 1lb, 5lb, 33lb clear plastic units. 4X8 Wheat Snack; packaged in 1lb, 5lb, 33lb clear plastic units. No UPC",
    "org": "El Ruisenor De Mexico, Inc.",
    "location": "Vernon, CA"
   },
   "dried pears; packaged in 1lb, 5lb, 25lb clear plastic units. no upc|el ruisenor de mexico, inc.|vernon, ca": {
    "first_seen": "2026-11-15T10:22:30+00:00",
-   "last_seen": "2026-11-15T10:22:52+00:00",
+   "last_seen": "2026-11-15T12:05:34+00:00",
    "title": "Dried Pears; packaged in 1lb, 5lb, 25lb clear plastic units. No UPC",
    "org": "El Ruisenor De Mexico, Inc.",
    "location": "Vernon, CA"
   },
   "wheat bran; packaged in 1lb, 5lb, 50lb clear plastic units. no upc|el ruisenor de mexico, inc.|vernon, ca": {
    "first_seen": "2026-11-15T10:22:30+00:00",
-   "last_seen": "2026-11-15T10:22:52+00:00",
+   "last_seen": "2026-11-15T12:05:34+00:00",
    "title": "Wheat Bran; packaged in 1lb, 5lb, 50lb clear plastic units. No UPC",
    "org": "El Ruisenor De Mexico, Inc.",
    "location": "Vernon, CA"
   },
   "butter toffee peanuts; packed in a clear plastic bag. 1lb, 5lb, 50lb unit size. no upc|el ruisenor de mexico, inc.|vernon, ca": {
    "first_seen": "2026-11-15T10:22:30+00:00",
-   "last_seen": "2026-11-15T10:22:52+00:00",
+   "last_seen": "2026-11-15T12:05:34+00:00",
    "title": "Butter Toffee Peanuts; packed in a clear plastic bag. 1lb, 5lb, 50lb unit size. No UPC",
    "org": "El Ruisenor De Mexico, Inc.",
    "location": "Vernon, CA"
   },
   "great value fruit cocktail in fruit juice from concentrate net wt 15 oz (425g) distributed by: walmart inc., bentonville|pacific coast producers|lodi, ca": {
    "first_seen": "2026-11-15T10:22:30+00:00",
-   "last_seen": "2026-11-15T10:22:52+00:00",
+   "last_seen": "2026-11-15T12:05:34+00:00",
    "title": "Great Value Fruit Cocktail in Fruit Juice from Concentrate NET WT 15 OZ (425g) DISTRIBUTED BY: Walmart Inc., Bentonville, AR 72716 UPC:\u2026",
    "org": "Pacific Coast Producers",
    "location": "Lodi, CA"
   },
   "heirloom homegrown green sprouting calabrese broccoli sprouts seed. net wt. 8oz asin #b09p49whhp, upc 8 50056 62744 3. e|eak distribution llc|casper, wy": {
    "first_seen": "2026-11-15T10:22:30+00:00",
-   "last_seen": "2026-11-15T10:22:52+00:00",
+   "last_seen": "2026-11-15T12:05:34+00:00",
    "title": "Heirloom Homegrown Green Sprouting Calabrese Broccoli Sprouts Seed. Net wt. 8oz ASIN #B09P49WHHP, UPC 8 50056 62744 3. EAK Distribution L\u2026",
    "org": "EAK Distribution LLC",
    "location": "Casper, WY"
   },
   "dried diced pineapple; packaged in 1lb, 5lb, 44lb clear plastic units. no upc|el ruisenor de mexico, inc.|vernon, ca": {
    "first_seen": "2026-11-15T10:22:30+00:00",
-   "last_seen": "2026-11-15T10:22:52+00:00",
+   "last_seen": "2026-11-15T12:05:34+00:00",
    "title": "Dried Diced Pineapple; packaged in 1lb, 5lb, 44lb clear plastic units. No UPC",
    "org": "El Ruisenor De Mexico, Inc.",
    "location": "Vernon, CA"
   },
   "fritura lagrimita / teardrop wheat snack; packed in a clear plastic 1lb, 5lb, 44lb unit sizes.|el ruisenor de mexico, inc.|vernon, ca": {
    "first_seen": "2026-11-15T10:22:30+00:00",
-   "last_seen": "2026-11-15T10:22:52+00:00",
+   "last_seen": "2026-11-15T12:05:34+00:00",
    "title": "Fritura Lagrimita / Teardrop Wheat Snack; packed in a clear plastic 1lb, 5lb, 44lb unit sizes.",
    "org": "El Ruisenor De Mexico, Inc.",
    "location": "Vernon, CA"
   },
   "trader joe's crispy rice milk chocolate bar; imported from belgium, 3- 1.75 oz bars. package contains 3 individually wra|trader joe's company|monrovia, ca": {
    "first_seen": "2026-11-15T10:22:30+00:00",
-   "last_seen": "2026-11-15T10:22:52+00:00",
+   "last_seen": "2026-11-15T12:05:34+00:00",
    "title": "Trader Joe's Crispy Rice Milk Chocolate Bar; Imported from Belgium, 3- 1.75 oz bars. Package contains 3 individually wrapped bars package\u2026",
    "org": "Trader Joe's Company",
    "location": "Monrovia, CA"
   },
   "harina de trigo; whole wheat flour; packed in a clear plastic bag. 1lb, 5lb, 50lb unit size. no upc|el ruisenor de mexico, inc.|vernon, ca": {
    "first_seen": "2026-11-15T10:22:30+00:00",
-   "last_seen": "2026-11-15T10:22:52+00:00",
+   "last_seen": "2026-11-15T12:05:34+00:00",
    "title": "Harina de Trigo; Whole Wheat Flour; packed in a clear plastic bag. 1lb, 5lb, 50lb unit size. No UPC",
    "org": "El Ruisenor De Mexico, Inc.",
    "location": "Vernon, CA"
   },
   "almond flour; packaged in 1lb, 5lb, 50lb clear plastic units. no upc|el ruisenor de mexico, inc.|vernon, ca": {
    "first_seen": "2026-11-15T10:22:30+00:00",
-   "last_seen": "2026-11-15T10:22:52+00:00",
+   "last_seen": "2026-11-15T12:05:34+00:00",
    "title": "Almond Flour; packaged in 1lb, 5lb, 50lb clear plastic units. No UPC",
    "org": "El Ruisenor De Mexico, Inc.",
    "location": "Vernon, CA"
   },
   "whole pitted dried apricots; packed in a clear plastic 1lb, 5lb, 28lb unit sizes. no upc|el ruisenor de mexico, inc.|vernon, ca": {
    "first_seen": "2026-11-15T10:22:30+00:00",
-   "last_seen": "2026-11-15T10:22:52+00:00",
+   "last_seen": "2026-11-15T12:05:34+00:00",
    "title": "Whole Pitted Dried Apricots; packed in a clear plastic 1lb, 5lb, 28lb unit sizes. no UPC",
    "org": "El Ruisenor De Mexico, Inc.",
    "location": "Vernon, CA"
   },
   "bread crumbs; packaged in 1lb, 5lb, 50lb clear plastic units. no upc|el ruisenor de mexico, inc.|vernon, ca": {
    "first_seen": "2026-11-15T10:22:30+00:00",
-   "last_seen": "2026-11-15T10:22:52+00:00",
+   "last_seen": "2026-11-15T12:05:34+00:00",
    "title": "Bread Crumbs; packaged in 1lb, 5lb, 50lb clear plastic units. No UPC",
    "org": "El Ruisenor De Mexico, Inc.",
    "location": "Vernon, CA"
   },
   "dried kiwi slices; packaged in 1lb, 5lb, 44lb clear plastic units. no upc|el ruisenor de mexico, inc.|vernon, ca": {
    "first_seen": "2026-11-15T10:22:30+00:00",
-   "last_seen": "2026-11-15T10:22:52+00:00",
+   "last_seen": "2026-11-15T12:05:34+00:00",
    "title": "Dried Kiwi Slices; packaged in 1lb, 5lb, 44lb clear plastic units. No UPC",
    "org": "El Ruisenor De Mexico, Inc.",
    "location": "Vernon, CA"
   },
   "gearharts fine chocolates net wt. 4oz upc 8 98111 00205 7; net wt. 8oz upc 8 98111 00206; gearharts fine chocolates 243b|gearharts fine chocolates, inc.|charlottesville, va": {
    "first_seen": "2026-11-15T10:22:30+00:00",
-   "last_seen": "2026-11-15T10:22:52+00:00",
+   "last_seen": "2026-11-15T12:05:34+00:00",
    "title": "GEARHARTS FINE CHOCOLATES Net Wt. 4oz UPC 8 98111 00205 7; Net Wt. 8oz UPC 8 98111 00206; Gearharts Fine Chocolates 243B Ridge McIntire R\u2026",
    "org": "Gearharts Fine Chocolates, Inc.",
    "location": "Charlottesville, VA"
   },
   "dried cod; packed in a clear plastic bag. 1lb, 5lb, 50lb unit size. no upc|el ruisenor de mexico, inc.|vernon, ca": {
    "first_seen": "2026-11-15T10:22:30+00:00",
-   "last_seen": "2026-11-15T10:22:52+00:00",
+   "last_seen": "2026-11-15T12:05:34+00:00",
    "title": "Dried Cod; packed in a clear plastic bag. 1lb, 5lb, 50lb unit size. No UPC",
    "org": "El Ruisenor De Mexico, Inc.",
    "location": "Vernon, CA"
   },
   "evexias health solutions amino ultra, 90-capsules, dietary supplement in white plastic bottles with blue/green/white lab|evexias health solution|southlake, tx": {
    "first_seen": "2026-11-15T10:22:30+00:00",
-   "last_seen": "2026-11-15T10:22:52+00:00",
+   "last_seen": "2026-11-15T12:05:34+00:00",
    "title": "Evexias Health Solutions Amino Ultra, 90-capsules, dietary supplement in white plastic bottles with blue/green/white labeling",
    "org": "EVEXIAS HEALTH SOLUTION",
    "location": "Southlake, TX"
   },
   "dried fruit mix; packed in a clear plastic 1lb, 5lb, 25lb unit sizes.|el ruisenor de mexico, inc.|vernon, ca": {
    "first_seen": "2026-11-15T10:22:30+00:00",
-   "last_seen": "2026-11-15T10:22:52+00:00",
+   "last_seen": "2026-11-15T12:05:34+00:00",
    "title": "Dried Fruit Mix; packed in a clear plastic 1lb, 5lb, 25lb unit sizes.",
    "org": "El Ruisenor De Mexico, Inc.",
    "location": "Vernon, CA"
   },
   "air-dried apple rings; packaged in 1lb, 5lb, 22lb clear plastic units. no upc|el ruisenor de mexico, inc.|vernon, ca": {
    "first_seen": "2026-11-15T10:22:30+00:00",
-   "last_seen": "2026-11-15T10:22:52+00:00",
+   "last_seen": "2026-11-15T12:05:34+00:00",
    "title": "Air-Dried Apple Rings; packaged in 1lb, 5lb, 22lb clear plastic units. No UPC",
    "org": "El Ruisenor De Mexico, Inc.",
    "location": "Vernon, CA"
   },
   "hulled sesame seeds; packed in a clear plastic bag. 1lb, 5lb, 50lb unit size. no upc|el ruisenor de mexico, inc.|vernon, ca": {
    "first_seen": "2026-11-15T10:22:30+00:00",
-   "last_seen": "2026-11-15T10:22:52+00:00",
+   "last_seen": "2026-11-15T12:05:34+00:00",
    "title": "Hulled Sesame Seeds; packed in a clear plastic bag. 1lb, 5lb, 50lb unit size. No UPC",
    "org": "El Ruisenor De Mexico, Inc.",
    "location": "Vernon, CA"
   },
   "dried peaches; packed in a clear plastic 1lb, 5lb, 22-25lb unit sizes. no upc|el ruisenor de mexico, inc.|vernon, ca": {
    "first_seen": "2026-11-15T10:22:30+00:00",
-   "last_seen": "2026-11-15T10:22:52+00:00",
+   "last_seen": "2026-11-15T12:05:34+00:00",
    "title": "Dried Peaches; packed in a clear plastic 1lb, 5lb, 22-25lb unit sizes. No UPC",
    "org": "El Ruisenor De Mexico, Inc.",
    "location": "Vernon, CA"
   },
   "jovy gummy peach rings; packed in a clear plastic 1lb unit sizes. upc: 712199083404|el ruisenor de mexico, inc.|vernon, ca": {
    "first_seen": "2026-11-15T10:22:30+00:00",
-   "last_seen": "2026-11-15T10:22:52+00:00",
+   "last_seen": "2026-11-15T12:05:34+00:00",
    "title": "Jovy Gummy Peach Rings; packed in a clear plastic 1lb unit sizes. UPC: 712199083404",
    "org": "El Ruisenor De Mexico, Inc.",
    "location": "Vernon, CA"
   },
   "dried mango slices; packaged in 1lb, 5lb, 44lb clear plastic units. no upc|el ruisenor de mexico, inc.|vernon, ca": {
    "first_seen": "2026-11-15T10:22:30+00:00",
-   "last_seen": "2026-11-15T10:22:52+00:00",
+   "last_seen": "2026-11-15T12:05:34+00:00",
    "title": "Dried Mango Slices; packaged in 1lb, 5lb, 44lb clear plastic units. No UPC",
    "org": "El Ruisenor De Mexico, Inc.",
    "location": "Vernon, CA"
   },
   "shelled white pine nuts; packaged in 1lb, 5lb, 25-55lb clear plastic units. no upc|el ruisenor de mexico, inc.|vernon, ca": {
    "first_seen": "2026-11-15T10:22:30+00:00",
-   "last_seen": "2026-11-15T10:22:52+00:00",
+   "last_seen": "2026-11-15T12:05:34+00:00",
    "title": "Shelled White Pine Nuts; packaged in 1lb, 5lb, 25-55lb clear plastic units. No UPC",
    "org": "El Ruisenor De Mexico, Inc.",
    "location": "Vernon, CA"
   },
   "dried pineapple rings; packaged in 1lb, 5lb, 44lb clear plastic units. no upc|el ruisenor de mexico, inc.|vernon, ca": {
    "first_seen": "2026-11-15T10:22:30+00:00",
-   "last_seen": "2026-11-15T10:22:52+00:00",
+   "last_seen": "2026-11-15T12:05:34+00:00",
    "title": "Dried Pineapple Rings; packaged in 1lb, 5lb, 44lb clear plastic units. No UPC",
    "org": "El Ruisenor De Mexico, Inc.",
    "location": "Vernon, CA"
   },
   "raw shelled pistachios; packaged in 1lb, 5lb, 25-30lb clear plastic units. no upc|el ruisenor de mexico, inc.|vernon, ca": {
    "first_seen": "2026-11-15T10:22:30+00:00",
-   "last_seen": "2026-11-15T10:22:52+00:00",
+   "last_seen": "2026-11-15T12:05:34+00:00",
    "title": "Raw Shelled Pistachios; packaged in 1lb, 5lb, 25-30lb clear plastic units. No UPC",
    "org": "El Ruisenor De Mexico, Inc.",
    "location": "Vernon, CA"
   },
   "walnut halves; packaged in 1lb, 5lb, 22-25lb clear plastic units. no upc|el ruisenor de mexico, inc.|vernon, ca": {
    "first_seen": "2026-11-15T10:22:30+00:00",
-   "last_seen": "2026-11-15T10:22:52+00:00",
+   "last_seen": "2026-11-15T12:05:34+00:00",
    "title": "Walnut halves; packaged in 1lb, 5lb, 22-25lb clear plastic units. No UPC",
    "org": "El Ruisenor De Mexico, Inc.",
    "location": "Vernon, CA"
   },
   "roasted whole almonds; packed in a clear plastic bag. 1lb, 5lb, 25lb unit size. no upc|el ruisenor de mexico, inc.|vernon, ca": {
    "first_seen": "2026-11-15T10:22:30+00:00",
-   "last_seen": "2026-11-15T10:22:52+00:00",
+   "last_seen": "2026-11-15T12:05:34+00:00",
    "title": "Roasted Whole Almonds; packed in a clear plastic bag. 1lb, 5lb, 25lb unit size. No UPC",
    "org": "El Ruisenor De Mexico, Inc.",
    "location": "Vernon, CA"
   },
   "gardners basics brand waltham 29 broccoli sprouting seeds packaged in a white and green resealable pouch, net weight 1 p|gardeners basics|spanish fork, ut": {
    "first_seen": "2026-11-15T10:22:30+00:00",
-   "last_seen": "2026-11-15T10:22:52+00:00",
+   "last_seen": "2026-11-15T12:05:34+00:00",
    "title": "Gardners Basics brand Waltham 29 Broccoli Sprouting Seeds packaged in a white and green resealable pouch, net weight 1 pound (454 g), wit\u2026",
    "org": "Gardeners Basics",
    "location": "Spanish Fork, UT"
   },
   "marca el pato salsa para enchiladas; 28 ounce can: 0 72360 00208 6 case: 0 72360 20612 5|walker foods, inc|los angeles, ca": {
    "first_seen": "2026-11-15T10:22:30+00:00",
-   "last_seen": "2026-11-15T10:22:52+00:00",
+   "last_seen": "2026-11-15T12:05:34+00:00",
    "title": "Marca El Pato Salsa para Enchiladas; 28 ounce Can: 0 72360 00208 6 Case: 0 72360 20612 5",
    "org": "Walker Foods, Inc",
    "location": "Los Angeles, CA"
   },
   "wild west seeds broccoli seeds green sprouting calabrese lot #4105. net wt. 50lb. wild west seeds broccoli waltham29 see|wild west seed inc|albany, or": {
    "first_seen": "2026-11-15T10:22:30+00:00",
-   "last_seen": "2026-11-15T10:22:52+00:00",
+   "last_seen": "2026-11-15T12:05:34+00:00",
    "title": "Wild West Seeds Broccoli Seeds Green Sprouting Calabrese lot #4105. Net Wt. 50lb. Wild West Seeds Broccoli Waltham29 Seeds lot #4475 (thi\u2026",
    "org": "Wild West Seed Inc",
    "location": "Albany, OR"
   },
   "tropical trail mix; packaged in 1lb, 5lb, 25lb clear plastic units. no upc|el ruisenor de mexico, inc.|vernon, ca": {
    "first_seen": "2026-11-15T10:22:30+00:00",
-   "last_seen": "2026-11-15T10:22:52+00:00",
+   "last_seen": "2026-11-15T12:05:34+00:00",
    "title": "Tropical Trail Mix; packaged in 1lb, 5lb, 25lb clear plastic units. No UPC",
    "org": "El Ruisenor De Mexico, Inc.",
    "location": "Vernon, CA"
   },
   "natural sesame seeds; packed in a clear plastic bag. 1lb, 5lb, 50lb unit size. no upc|el ruisenor de mexico, inc.|vernon, ca": {
    "first_seen": "2026-11-15T10:22:30+00:00",
-   "last_seen": "2026-11-15T10:22:52+00:00",
+   "last_seen": "2026-11-15T12:05:34+00:00",
    "title": "Natural Sesame Seeds; packed in a clear plastic bag. 1lb, 5lb, 50lb unit size. No UPC",
    "org": "El Ruisenor De Mexico, Inc.",
    "location": "Vernon, CA"
   },
   "raw in-shell peanuts; packed in a clear plastic 1lb, 5lb, 50lb unit sizes. raw spanish peanuts; sold by weight (bulk) ra|el ruisenor de mexico, inc.|vernon, ca": {
    "first_seen": "2026-11-15T10:22:30+00:00",
-   "last_seen": "2026-11-15T10:22:52+00:00",
+   "last_seen": "2026-11-15T12:05:34+00:00",
    "title": "Raw In-Shell Peanuts; packed in a clear plastic 1lb, 5lb, 50lb unit sizes. Raw Spanish Peanuts; sold by weight (bulk) Raw shelled Peanuts\u2026",
    "org": "El Ruisenor De Mexico, Inc.",
    "location": "Vernon, CA"
   },
   "ground shrimp; packed in a clear plastic 1lb, 5lb, 25-50lb unit sizes. no upc|el ruisenor de mexico, inc.|vernon, ca": {
    "first_seen": "2026-11-15T10:22:30+00:00",
-   "last_seen": "2026-11-15T10:22:52+00:00",
+   "last_seen": "2026-11-15T12:05:34+00:00",
    "title": "Ground Shrimp; packed in a clear plastic 1lb, 5lb, 25-50lb unit sizes. No UPC",
    "org": "El Ruisenor De Mexico, Inc.",
    "location": "Vernon, CA"
   },
   "wheat germ; packaged in 1lb, 5lb, 50lb clear plastic units. no upc|el ruisenor de mexico, inc.|vernon, ca": {
    "first_seen": "2026-11-15T10:22:30+00:00",
-   "last_seen": "2026-11-15T10:22:52+00:00",
+   "last_seen": "2026-11-15T12:05:34+00:00",
    "title": "Wheat Germ; packaged in 1lb, 5lb, 50lb clear plastic units. No UPC",
    "org": "El Ruisenor De Mexico, Inc.",
    "location": "Vernon, CA"
   },
   "jovy gummy bears neon; packed in 1lb plastic units. upc 712199083558|el ruisenor de mexico, inc.|vernon, ca": {
    "first_seen": "2026-11-15T10:22:30+00:00",
-   "last_seen": "2026-11-15T10:22:52+00:00",
+   "last_seen": "2026-11-15T12:05:34+00:00",
    "title": "Jovy Gummy Bears Neon; packed in 1lb plastic units. UPC 712199083558",
    "org": "El Ruisenor De Mexico, Inc.",
    "location": "Vernon, CA"
   },
   "sempio yellow peach; product of korea; net wt. 14.10 oz. upc: 8801005320825|sempio food services, inc|cerritos, ca": {
    "first_seen": "2026-11-15T10:22:30+00:00",
-   "last_seen": "2026-11-15T10:22:52+00:00",
+   "last_seen": "2026-11-15T12:05:34+00:00",
    "title": "Sempio Yellow Peach; Product of Korea; NET WT. 14.10 oz. UPC: 8801005320825",
    "org": "Sempio Food Services, Inc",
    "location": "Cerritos, CA"
   },
   "primal herbs, volume, herbal supplement, net wt. 8.5 oz, 30 servings|primal supplements group llc|albuquerque, nm": {
    "first_seen": "2026-11-15T10:22:30+00:00",
-   "last_seen": "2026-11-15T10:22:52+00:00",
+   "last_seen": "2026-11-15T12:05:34+00:00",
    "title": "PRIMAL HERBS, VOLUME, HERBAL SUPPLEMENT, Net Wt. 8.5 oz, 30 servings",
    "org": "PRIMAL SUPPLEMENTS GROUP LLC",
    "location": "Albuquerque, NM"
   },
   "pecans in shell; packaged in 1lb, 5lb, 50lb clear plastic units. no upc|el ruisenor de mexico, inc.|vernon, ca": {
    "first_seen": "2026-11-15T10:22:30+00:00",
-   "last_seen": "2026-11-15T10:22:52+00:00",
+   "last_seen": "2026-11-15T12:05:34+00:00",
    "title": "Pecans in Shell; packaged in 1lb, 5lb, 50lb clear plastic units. No UPC",
    "org": "El Ruisenor De Mexico, Inc.",
    "location": "Vernon, CA"
   },
   "babies' magic tea; baby sleep gripe water; dietary supplement; net wt. 4 oz; age 2eeks+ \"no alcohol, dairy, wheat, soy a|pacific health sciences llc|oxnard, ca": {
    "first_seen": "2026-11-15T10:22:30+00:00",
-   "last_seen": "2026-11-15T10:22:52+00:00",
+   "last_seen": "2026-11-15T12:05:34+00:00",
    "title": "Babies' Magic Tea; Baby Sleep Gripe Water; Dietary Supplement; Net Wt. 4 OZ; Age 2eeks+ \"No Alcohol, Dairy, Wheat, Soy And Animal Testing\u2026",
    "org": "Pacific Health Sciences Llc",
    "location": "Oxnard, CA"
   },
   "sliced almonds; packed in a clear plastic bag. 1lb, 5lb, 25lb unit size. no upc|el ruisenor de mexico, inc.|vernon, ca": {
    "first_seen": "2026-11-15T10:22:30+00:00",
-   "last_seen": "2026-11-15T10:22:52+00:00",
+   "last_seen": "2026-11-15T12:05:34+00:00",
    "title": "Sliced Almonds; packed in a clear plastic bag. 1lb, 5lb, 25lb unit size. No UPC",
    "org": "El Ruisenor De Mexico, Inc.",
    "location": "Vernon, CA"
   },
   "jovy gummy worms (regular); packaged in 1lb plastic units. upc: 712199083398|el ruisenor de mexico, inc.|vernon, ca": {
    "first_seen": "2026-11-15T10:22:30+00:00",
-   "last_seen": "2026-11-15T10:22:52+00:00",
+   "last_seen": "2026-11-15T12:05:34+00:00",
    "title": "Jovy Gummy Worms (Regular); packaged in 1lb plastic units. UPC: 712199083398",
    "org": "El Ruisenor De Mexico, Inc.",
    "location": "Vernon, CA"
   },
   "whole wheat; packaged in 1lb, 5lb, 50lb clear plastic units. no upc|el ruisenor de mexico, inc.|vernon, ca": {
    "first_seen": "2026-11-15T10:22:30+00:00",
-   "last_seen": "2026-11-15T10:22:52+00:00",
+   "last_seen": "2026-11-15T12:05:34+00:00",
    "title": "Whole Wheat; packaged in 1lb, 5lb, 50lb clear plastic units. No UPC",
    "org": "El Ruisenor De Mexico, Inc.",
    "location": "Vernon, CA"
   },
   "dried papaya spears; packaged in 1lb, 5lb, 44lb clear plastic units. no upc|el ruisenor de mexico, inc.|vernon, ca": {
    "first_seen": "2026-11-15T10:22:30+00:00",
-   "last_seen": "2026-11-15T10:22:52+00:00",
+   "last_seen": "2026-11-15T12:05:34+00:00",
    "title": "Dried Papaya Spears; packaged in 1lb, 5lb, 44lb clear plastic units. No UPC",
    "org": "El Ruisenor De Mexico, Inc.",
    "location": "Vernon, CA"
   },
   "fritura rueda / wheat wheel snack; packed in a clear plastic 2lb, 5lb, 33lb unit sizes. no upc|el ruisenor de mexico, inc.|vernon, ca": {
    "first_seen": "2026-11-15T10:22:30+00:00",
-   "last_seen": "2026-11-15T10:22:52+00:00",
+   "last_seen": "2026-11-15T12:05:34+00:00",
    "title": "Fritura Rueda / Wheat Wheel Snack; packed in a clear plastic 2lb, 5lb, 33lb unit sizes. no UPC",
    "org": "El Ruisenor De Mexico, Inc.",
    "location": "Vernon, CA"
   },
   "dried diced papaya; packaged in 1lb, 5lb, 44lb clear plastic units. no upc|el ruisenor de mexico, inc.|vernon, ca": {
    "first_seen": "2026-11-15T10:22:30+00:00",
-   "last_seen": "2026-11-15T10:22:52+00:00",
+   "last_seen": "2026-11-15T12:05:34+00:00",
    "title": "Dried Diced Papaya; packaged in 1lb, 5lb, 44lb clear plastic units. No UPC",
    "org": "El Ruisenor De Mexico, Inc.",
    "location": "Vernon, CA"
   },
   "roasted & salted mixed nuts; packaged in 1lb, 5lb, 25lb clear plastic units. roasted & unsalted mixed nuts; packaged in |el ruisenor de mexico, inc.|vernon, ca": {
    "first_seen": "2026-11-15T10:22:30+00:00",
-   "last_seen": "2026-11-15T10:22:52+00:00",
+   "last_seen": "2026-11-15T12:05:34+00:00",
    "title": "Roasted & Salted Mixed Nuts; packaged in 1lb, 5lb, 25lb clear plastic units. Roasted & Unsalted Mixed Nuts; packaged in 1lb, 5lb, 25lb c\u2026",
    "org": "El Ruisenor De Mexico, Inc.",
    "location": "Vernon, CA"
   },
   "walnuts in shell; packaged in 1lb, 5lb, 50lb clear plastic units. no upc|el ruisenor de mexico, inc.|vernon, ca": {
    "first_seen": "2026-11-15T10:22:30+00:00",
-   "last_seen": "2026-11-15T10:22:52+00:00",
+   "last_seen": "2026-11-15T12:05:34+00:00",
    "title": "Walnuts in Shell; packaged in 1lb, 5lb, 50lb clear plastic units. No UPC",
    "org": "El Ruisenor De Mexico, Inc.",
    "location": "Vernon, CA"
   },
   "tube shaped wheat snack; packaged in 1lb, 5lb, 33lb clear plastic units. no upc|el ruisenor de mexico, inc.|vernon, ca": {
    "first_seen": "2026-11-15T10:22:30+00:00",
-   "last_seen": "2026-11-15T10:22:52+00:00",
+   "last_seen": "2026-11-15T12:05:34+00:00",
    "title": "Tube Shaped Wheat Snack; packaged in 1lb, 5lb, 33lb clear plastic units. No UPC",
    "org": "El Ruisenor De Mexico, Inc.",
    "location": "Vernon, CA"
   },
   "andronico's community markets 100% squeezed orange androinco's community markets san leandro, ca 94577 16 oz: upc 675643|voila juice company|oakland, ca": {
    "first_seen": "2026-11-15T10:22:30+00:00",
-   "last_seen": "2026-11-15T10:22:52+00:00",
+   "last_seen": "2026-11-15T12:05:34+00:00",
    "title": "Andronico's COMMUNITY MARKETS 100% SQUEEZED ORANGE ANDROINCO'S COMMUNITY MARKETS SAN LEANDRO, CA 94577 16 OZ: UPC 675643050967 32 OZ: \u2026",
    "org": "Voila Juice Company",
    "location": "Oakland, CA"
   },
   "hazelnuts in shell; packed in a clear plastic bag. 1lb, 5lb, 50lb unit size. no upc|el ruisenor de mexico, inc.|vernon, ca": {
    "first_seen": "2026-11-15T10:22:30+00:00",
-   "last_seen": "2026-11-15T10:22:52+00:00",
+   "last_seen": "2026-11-15T12:05:34+00:00",
    "title": "Hazelnuts in Shell; packed in a clear plastic bag. 1lb, 5lb, 50lb unit size. No UPC",
    "org": "El Ruisenor De Mexico, Inc.",
    "location": "Vernon, CA"
   },
   "apple rings; packed in 1lb, 5lb, and 2lb unit sizes. product code: aplc-r01-22|el ruisenor de mexico, inc.|vernon, ca": {
    "first_seen": "2026-11-15T10:22:30+00:00",
-   "last_seen": "2026-11-15T10:22:52+00:00",
+   "last_seen": "2026-11-15T12:05:34+00:00",
    "title": "Apple Rings; packed in 1lb, 5lb, and 2lb unit sizes. Product code: APLC-R01-22",
    "org": "El Ruisenor De Mexico, Inc.",
    "location": "Vernon, CA"
   },
   "dried whole shrimp; packed in a clear plastic 1lb, 5lb, 30lb unit sizes. no upc|el ruisenor de mexico, inc.|vernon, ca": {
    "first_seen": "2026-11-15T10:22:30+00:00",
-   "last_seen": "2026-11-15T10:22:52+00:00",
+   "last_seen": "2026-11-15T12:05:34+00:00",
    "title": "Dried Whole Shrimp; packed in a clear plastic 1lb, 5lb, 30lb unit sizes. No UPC",
    "org": "El Ruisenor De Mexico, Inc.",
    "location": "Vernon, CA"
   },
   "homestyle poblano mole; packaged in 1lb, 5lb, 22lb clear plastic units. no upc|el ruisenor de mexico, inc.|vernon, ca": {
    "first_seen": "2026-11-15T10:22:30+00:00",
-   "last_seen": "2026-11-15T10:22:52+00:00",
+   "last_seen": "2026-11-15T12:05:34+00:00",
    "title": "Homestyle Poblano Mole; packaged in 1lb, 5lb, 22lb clear plastic units. No UPC",
    "org": "El Ruisenor De Mexico, Inc.",
    "location": "Vernon, CA"
   },
   "jovy watermelon gummy rings; packed in a clear plastic 1lb unit sizes. upc 712199083510|el ruisenor de mexico, inc.|vernon, ca": {
    "first_seen": "2026-11-15T10:22:30+00:00",
-   "last_seen": "2026-11-15T10:22:52+00:00",
+   "last_seen": "2026-11-15T12:05:34+00:00",
    "title": "Jovy Watermelon Gummy Rings; packed in a clear plastic 1lb unit sizes. UPC 712199083510",
    "org": "El Ruisenor De Mexico, Inc.",
    "location": "Vernon, CA"
   },
   "chocolate covered almonds; packed in a clear plastic bag. 1lb, 5lb, 50lb unit size. no upc|el ruisenor de mexico, inc.|vernon, ca": {
    "first_seen": "2026-11-15T10:22:30+00:00",
-   "last_seen": "2026-11-15T10:22:52+00:00",
+   "last_seen": "2026-11-15T12:05:34+00:00",
    "title": "Chocolate Covered Almonds; packed in a clear plastic bag. 1lb, 5lb, 50lb unit size. No UPC",
    "org": "El Ruisenor De Mexico, Inc.",
    "location": "Vernon, CA"
   },
   "honey nut granola|el ruisenor de mexico, inc.|vernon, ca": {
    "first_seen": "2026-11-15T10:22:30+00:00",
-   "last_seen": "2026-11-15T10:22:52+00:00",
+   "last_seen": "2026-11-15T12:05:34+00:00",
    "title": "Honey Nut Granola",
    "org": "El Ruisenor De Mexico, Inc.",
    "location": "Vernon, CA"
   },
   "stewarts shops vanilla heavenly medley 1/2 gallon (1.89 l), upc codes: 0 82086 44371 1|stewart's shops corp.|saratoga springs, ny": {
    "first_seen": "2026-11-15T10:22:30+00:00",
-   "last_seen": "2026-11-15T10:22:52+00:00",
+   "last_seen": "2026-11-15T12:05:34+00:00",
    "title": "Stewarts Shops Vanilla Heavenly Medley 1/2 Gallon (1.89 L), UPC Codes: 0 82086 44371 1",
    "org": "Stewart's Shops Corp.",
    "location": "Saratoga Springs, NY"
   },
   "j. higgs loaded bacon & cheddar potato chips, net wt 7.75 oz (219.7g) bag, upc 051933316454. sold as 13 (7.75oz) bags pe|saratoga potato chips llc|fort wayne, in": {
    "first_seen": "2026-11-15T10:22:30+00:00",
-   "last_seen": "2026-11-15T10:22:52+00:00",
+   "last_seen": "2026-11-15T12:05:34+00:00",
    "title": "J. HIGGS Loaded Bacon & Cheddar Potato Chips, NET WT 7.75 OZ (219.7g) bag, UPC 051933316454. Sold as 13 (7.75oz) bags per case.",
    "org": "Saratoga Potato Chips LLC",
    "location": "Fort Wayne, IN"
   },
   "pur aqua sparkling frost cherry limeade 17 oz., upc: 4099100167023|refresco beverages us inc|tampa, fl": {
    "first_seen": "2026-11-15T10:22:30+00:00",
-   "last_seen": "2026-11-15T10:22:52+00:00",
+   "last_seen": "2026-11-15T12:05:34+00:00",
    "title": "Pur Aqua Sparkling Frost Cherry Limeade 17 oz., UPC: 4099100167023",
    "org": "Refresco Beverages US Inc",
    "location": "Tampa, FL"
   },
   "made fresh brand black bean and corn salad; 5lb white plastic tub|made fresh salads inc|bay shore, ny": {
    "first_seen": "2026-11-15T10:22:30+00:00",
-   "last_seen": "2026-11-15T10:22:52+00:00",
+   "last_seen": "2026-11-15T12:05:34+00:00",
    "title": "Made Fresh brand Black Bean and Corn Salad; 5lb white plastic tub",
    "org": "Made Fresh Salads Inc",
    "location": "Bay Shore, NY"
   },
   "made from plants; daring; plant steak bites; ready in 4 mins microwaveable pouch; upc: 86001124319|daring foods inc|long beach, ca": {
    "first_seen": "2026-11-15T10:22:30+00:00",
-   "last_seen": "2026-11-15T10:22:52+00:00",
+   "last_seen": "2026-11-15T12:05:34+00:00",
    "title": "Made From Plants; Daring; Plant Steak Bites; Ready in 4 Mins Microwaveable Pouch; UPC: 86001124319",
    "org": "DARING FOODS INC",
    "location": "Long Beach, CA"
   },
   "stewarts shops vanilla chocolate strawberry ice cream 1/2 gallon (1.89 l), upc: 0 82086 44377 3|stewart's shops corp.|saratoga springs, ny": {
    "first_seen": "2026-11-15T10:22:30+00:00",
-   "last_seen": "2026-11-15T10:22:52+00:00",
+   "last_seen": "2026-11-15T12:05:34+00:00",
    "title": "Stewarts Shops Vanilla chocolate Strawberry Ice Cream 1/2 gallon (1.89 L), UPC: 0 82086 44377 3",
    "org": "Stewart's Shops Corp.",
    "location": "Saratoga Springs, NY"
   },
   "holsum spinach flour tortillas large, 8 count (20 oz.) upc: 810023430629|holsum de puerto rico, inc.|toa baja, pr": {
    "first_seen": "2026-11-15T10:22:30+00:00",
-   "last_seen": "2026-11-15T10:22:52+00:00",
+   "last_seen": "2026-11-15T12:05:34+00:00",
    "title": "Holsum Spinach Flour Tortillas Large, 8 count (20 oz.) UPC: 810023430629",
    "org": "Holsum De Puerto Rico, Inc.",
    "location": "Toa Baja, PR"
   },
   "deano's pasta; pear and pecorino triangoli ravioli, 1lb.; ingredients: dough: semolina (wheat, niacin, thiamine, mononit|deano's pasta|somerville, ma": {
    "first_seen": "2026-11-15T10:22:30+00:00",
-   "last_seen": "2026-11-15T10:22:52+00:00",
+   "last_seen": "2026-11-15T12:05:34+00:00",
    "title": "Deano's Pasta; Pear and Pecorino Triangoli Ravioli, 1lb.; Ingredients: Dough: Semolina (Wheat, Niacin, Thiamine, Mononitrate, Riboflavin,\u2026",
    "org": "DEANO'S PASTA",
    "location": "Somerville, MA"
   },
   "queso palmita. generic name: pastel de queso (cheese pie). intended use: human consumption. condition: frozen. shelf lif|queso palmita gp llc|stafford, tx": {
    "first_seen": "2026-11-15T10:22:30+00:00",
-   "last_seen": "2026-11-15T10:22:52+00:00",
+   "last_seen": "2026-11-15T12:05:34+00:00",
    "title": "QUESO PALMITA. Generic Name: Pastel de Queso (Cheese Pie). Intended use: Human consumption. Condition: Frozen. Shelf life or expected lif\u2026",
    "org": "QUESO PALMITA GP LLC",
    "location": "Stafford, TX"
   },
   "saint francis apizza frozen pepperoni pizza, net weight: 17 oz. (482g), packaged individually in vacuum-sealed plastic, |saint francis apizza llc|cincinnati, oh": {
    "first_seen": "2026-11-15T10:22:30+00:00",
-   "last_seen": "2026-11-15T10:22:52+00:00",
+   "last_seen": "2026-11-15T12:05:34+00:00",
    "title": "Saint Francis Apizza Frozen Pepperoni Pizza, Net Weight: 17 oz. (482g), packaged individually in vacuum-sealed plastic, UPC: 6 66186 27762 1",
    "org": "Saint Francis Apizza LLC",
    "location": "Cincinnati, OH"
   },
   "chocolate chip cookies packaged in a cardboard box; ingredients: king midas special (wheat flour, niacin, reduced iron, |j k patisserie & bakery llc|long island city, ny": {
    "first_seen": "2026-11-15T10:22:30+00:00",
-   "last_seen": "2026-11-15T10:22:52+00:00",
+   "last_seen": "2026-11-15T12:05:34+00:00",
    "title": "Chocolate Chip Cookies packaged in a cardboard box; Ingredients: King Midas Special (Wheat flour, niacin, reduced iron, thiamine mononitr\u2026",
    "org": "J K Patisserie & Bakery LLC",
    "location": "Long Island City, NY"
   },
   "x10 natural enhancement supplement, 0.5 fl oz/sachet (15 ml), 7 sachets/box, upc: 7708075247094, manufactured by futupro|a&p creations|clermont, fl": {
    "first_seen": "2026-11-15T10:22:30+00:00",
-   "last_seen": "2026-11-15T10:22:52+00:00",
+   "last_seen": "2026-11-15T12:05:34+00:00",
    "title": "X10 Natural Enhancement Supplement, 0.5 fl oz/sachet (15 mL), 7 sachets/box, UPC: 7708075247094, Manufactured by FutuPro S.A.S., Colombia\u2026",
    "org": "A&P CREATIONS",
    "location": "Clermont, FL"
   },
   "leasa alfalfa sprouts; packaged in plastic clamshell containers; keep refrigerated; net wt. 6 oz. (170g); grown & packag|leasa industries co., inc.|miami, fl": {
    "first_seen": "2026-11-15T10:22:30+00:00",
-   "last_seen": "2026-11-15T10:22:52+00:00",
+   "last_seen": "2026-11-15T12:05:34+00:00",
    "title": "LEASA Alfalfa Sprouts; packaged in plastic clamshell containers; KEEP REFRIGERATED; NET WT. 6 OZ. (170g); Grown & Packaged by: LEASA Indu\u2026",
    "org": "LEASA Industries Co., Inc.",
    "location": "Miami, FL"
   },
   "winco foods salsa bean dip express tray is packaged in a foil bottom container with clear plastic lid. net wt. 54oz. upc|winco foods llc|boise, id": {
    "first_seen": "2026-11-15T10:22:30+00:00",
-   "last_seen": "2026-11-15T10:22:52+00:00",
+   "last_seen": "2026-11-15T12:05:34+00:00",
    "title": "WinCo Foods Salsa Bean Dip Express Tray is packaged in a foil bottom container with clear plastic lid. Net Wt. 54oz. UPC 2 67173 510983. \u2026",
    "org": "WinCo Foods LLC",
    "location": "Boise, ID"

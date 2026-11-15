@@ -3,9 +3,9 @@
  "name": "Hacker News \u2014 Who is hiring? (companies recruiting now)",
  "category": "hiring-signal",
  "source": "https://news.ycombinator.com",
- "collected_at": "2026-11-15T10:29:42+00:00",
+ "collected_at": "2026-11-15T12:05:31+00:00",
  "jobs_on_board": 140,
- "new_this_run": 140,
+ "new_this_run": 0,
  "total_tracked": 140,
  "jobs": [
   {
@@ -14,7 +14,7 @@
    "location": null,
    "detail": "Ask HN \u00b7 November 2026",
    "url": "https://news.ycombinator.com/item?id=50500910",
-   "new_this_run": true
+   "new_this_run": false
   },
   {
    "title": "Common Prefix",
@@ -22,7 +22,7 @@
    "location": null,
    "detail": "Ask HN \u00b7 November 2026",
    "url": "https://news.ycombinator.com/item?id=50488627",
-   "new_this_run": true
+   "new_this_run": false
   },
   {
    "title": "Joulent",
@@ -30,7 +30,7 @@
    "location": null,
    "detail": "Ask HN \u00b7 November 2026",
    "url": "https://news.ycombinator.com/item?id=50487782",
-   "new_this_run": true
+   "new_this_run": false
   },
   {
    "title": "Bonfire Analytics",
@@ -38,7 +38,7 @@
    "location": null,
    "detail": "Ask HN \u00b7 November 2026",
    "url": "https://news.ycombinator.com/item?id=50487397",
-   "new_this_run": true
+   "new_this_run": false
   },
   {
    "title": "*Confidential Healthcare AI Startup",
@@ -46,7 +46,7 @@
    "location": null,
    "detail": "Ask HN \u00b7 November 2026",
    "url": "https://news.ycombinator.com/item?id=50484305",
-   "new_this_run": true
+   "new_this_run": false
   },
   {
    "title": "Bechtel",
@@ -54,7 +54,7 @@
    "location": null,
    "detail": "Ask HN \u00b7 November 2026",
    "url": "https://news.ycombinator.com/item?id=50483905",
-   "new_this_run": true
+   "new_this_run": false
   },
   {
    "title": "Elm AI",
@@ -62,7 +62,7 @@
    "location": null,
    "detail": "Ask HN \u00b7 November 2026",
    "url": "https://news.ycombinator.com/item?id=50481529",
-   "new_this_run": true
+   "new_this_run": false
   },
   {
    "title": "CERN",
@@ -70,7 +70,7 @@
    "location": null,
    "detail": "Ask HN \u00b7 November 2026",
    "url": "https://news.ycombinator.com/item?id=50480454",
-   "new_this_run": true
+   "new_this_run": false
   },
   {
    "title": "Location: REMOTE (anywhere)",
@@ -78,7 +78,7 @@
    "location": null,
    "detail": "Ask HN \u00b7 November 2026",
    "url": "https://news.ycombinator.com/item?id=50479794",
-   "new_this_run": true
+   "new_this_run": false
   },
   {
    "title": "Location: India (currently travelling within India; IST, UTC+5:30) Remote: Yes \u2013 remote only",
@@ -86,7 +86,7 @@
    "location": null,
    "detail": "Ask HN \u00b7 November 2026",
    "url": "https://news.ycombinator.com/item?id=50479091",
-   "new_this_run": true
+   "new_this_run": false
   },
   {
    "title": "Genentech",
@@ -94,7 +94,7 @@
    "location": null,
    "detail": "Ask HN \u00b7 November 2026",
    "url": "https://news.ycombinator.com/item?id=50477398",
-   "new_this_run": true
+   "new_this_run": false
   },
   {
    "title": "Alternative Payments",
@@ -102,7 +102,7 @@
    "location": null,
    "detail": "Ask HN \u00b7 November 2026",
    "url": "https://news.ycombinator.com/item?id=50474550",
-   "new_this_run": true
+   "new_this_run": false
   },
   {
    "title": "Native",
@@ -110,7 +110,7 @@
    "location": null,
    "detail": "Ask HN \u00b7 November 2026",
    "url": "https://news.ycombinator.com/item?id=50466168",
-   "new_this_run": true
+   "new_this_run": false
   },
   {
    "title": "Landlord",
@@ -118,7 +118,7 @@
    "location": null,
    "detail": "Ask HN \u00b7 November 2026",
    "url": "https://news.ycombinator.com/item?id=50461075",
-   "new_this_run": true
+   "new_this_run": false
   },
   {
    "title": "Foji",
@@ -126,7 +126,7 @@
    "location": null,
    "detail": "Ask HN \u00b7 November 2026",
    "url": "https://news.ycombinator.com/item?id=50460895",
-   "new_this_run": true
+   "new_this_run": false
   },
   {
    "title": "Kroo",
@@ -134,7 +134,7 @@
    "location": null,
    "detail": "Ask HN \u00b7 November 2026",
    "url": "https://news.ycombinator.com/item?id=50460238",
-   "new_this_run": true
+   "new_this_run": false
   },
   {
    "title": "Erica Holloway",
@@ -142,7 +142,7 @@
    "location": null,
    "detail": "Ask HN \u00b7 November 2026",
    "url": "https://news.ycombinator.com/item?id=50456061",
-   "new_this_run": true
+   "new_this_run": false
   },
   {
    "title": "Hemant Singh",
@@ -150,7 +150,7 @@
    "location": null,
    "detail": "Ask HN \u00b7 November 2026",
    "url": "https://news.ycombinator.com/item?id=50454490",
-   "new_this_run": true
+   "new_this_run": false
   },
   {
    "title": "Hey HN! We\u2019re building ThunderTruck\u2122, the operating system for local food\u2014connecting mobile food vendors and b",
@@ -158,7 +158,7 @@
    "location": null,
    "detail": "Ask HN \u00b7 November 2026",
    "url": "https://news.ycombinator.com/item?id=50453290",
-   "new_this_run": true
+   "new_this_run": false
   },
   {
    "title": "Quaisr",
@@ -166,7 +166,7 @@
    "location": null,
    "detail": "Ask HN \u00b7 November 2026",
    "url": "https://news.ycombinator.com/item?id=50452319",
-   "new_this_run": true
+   "new_this_run": false
   },
   {
    "title": "RAIDS AI",
@@ -174,7 +174,7 @@
    "location": null,
    "detail": "Ask HN \u00b7 November 2026",
    "url": "https://news.ycombinator.com/item?id=50451710",
-   "new_this_run": true
+   "new_this_run": false
   },
   {
    "title": "Nevral Forensics Intelligence (NFI)",
@@ -182,7 +182,7 @@
    "location": null,
    "detail": "Ask HN \u00b7 November 2026",
    "url": "https://news.ycombinator.com/item?id=50449027",
-   "new_this_run": true
+   "new_this_run": false
   },
   {
    "title": "Odin",
@@ -190,7 +190,7 @@
    "location": null,
    "detail": "Ask HN \u00b7 November 2026",
    "url": "https://news.ycombinator.com/item?id=50447035",
-   "new_this_run": true
+   "new_this_run": false
   },
   {
    "title": "Epsilon",
@@ -198,7 +198,7 @@
    "location": null,
    "detail": "Ask HN \u00b7 November 2026",
    "url": "https://news.ycombinator.com/item?id=50441512",
-   "new_this_run": true
+   "new_this_run": false
   },
   {
    "title": "Who's hiring a customer success, guide onboarding specialist and account management roles remotely in US UK an",
@@ -206,7 +206,7 @@
    "location": null,
    "detail": "Ask HN \u00b7 November 2026",
    "url": "https://news.ycombinator.com/item?id=50437037",
-   "new_this_run": true
+   "new_this_run": false
   },
   {
    "title": "LiveKit",
@@ -214,7 +214,7 @@
    "location": null,
    "detail": "Ask HN \u00b7 November 2026",
    "url": "https://news.ycombinator.com/item?id=50433727",
-   "new_this_run": true
+   "new_this_run": false
   },
   {
    "title": "Polymath",
@@ -222,7 +222,7 @@
    "location": null,
    "detail": "Ask HN \u00b7 November 2026",
    "url": "https://news.ycombinator.com/item?id=50432950",
-   "new_this_run": true
+   "new_this_run": false
   },
   {
    "title": "Location: Bangalore, India (IST / UTC+5:30) Remote: Yes (Worldwide) Willing to relocate: Yes (Worldwide, visa",
@@ -230,7 +230,7 @@
    "location": null,
    "detail": "Ask HN \u00b7 November 2026",
    "url": "https://news.ycombinator.com/item?id=50430411",
-   "new_this_run": true
+   "new_this_run": false
   },
   {
    "title": "Stealth Health-Tech Startup",
@@ -238,7 +238,7 @@
    "location": null,
    "detail": "Ask HN \u00b7 November 2026",
    "url": "https://news.ycombinator.com/item?id=50429861",
-   "new_this_run": true
+   "new_this_run": false
   },
   {
    "title": "Collabify",
@@ -246,7 +246,7 @@
    "location": null,
    "detail": "Ask HN \u00b7 November 2026",
    "url": "https://news.ycombinator.com/item?id=50428062",
-   "new_this_run": true
+   "new_this_run": false
   },
   {
    "title": "Sunsave",
@@ -254,7 +254,7 @@
    "location": null,
    "detail": "Ask HN \u00b7 November 2026",
    "url": "https://news.ycombinator.com/item?id=50427924",
-   "new_this_run": true
+   "new_this_run": false
   },
   {
    "title": "Tecla IO",
@@ -262,7 +262,7 @@
    "location": null,
    "detail": "Ask HN \u00b7 November 2026",
    "url": "https://news.ycombinator.com/item?id=50427828",
-   "new_this_run": true
+   "new_this_run": false
   },
   {
    "title": "Amodo Design",
@@ -270,7 +270,7 @@
    "location": null,
    "detail": "Ask HN \u00b7 November 2026",
    "url": "https://news.ycombinator.com/item?id=50426542",
-   "new_this_run": true
+   "new_this_run": false
   },
   {
    "title": "DevOps Engineer Hybrid, 3 days a week in the office Hong Kong Full-time We are looking for a DevOps Engineer t",
@@ -278,7 +278,7 @@
    "location": null,
    "detail": "Ask HN \u00b7 November 2026",
    "url": "https://news.ycombinator.com/item?id=50425675",
-   "new_this_run": true
+   "new_this_run": false
   },
   {
    "title": "Seal (YC S20)",
@@ -286,7 +286,7 @@
    "location": null,
    "detail": "Ask HN \u00b7 November 2026",
    "url": "https://news.ycombinator.com/item?id=50424162",
-   "new_this_run": true
+   "new_this_run": false
   },
   {
    "title": "AetherGrid",
@@ -294,7 +294,7 @@
    "location": null,
    "detail": "Ask HN \u00b7 November 2026",
    "url": "https://news.ycombinator.com/item?id=50423766",
-   "new_this_run": true
+   "new_this_run": false
   },
   {
    "title": "OpenTrain AI",
@@ -302,7 +302,7 @@
    "location": null,
    "detail": "Ask HN \u00b7 November 2026",
    "url": "https://news.ycombinator.com/item?id=50420399",
-   "new_this_run": true
+   "new_this_run": false
   },
   {
    "title": "Location: Estonia Remote:Yes Willing to relocate: No Technologies: React.js,Vue.js, Next.js,Nuxt.js ,TypeScrip",
@@ -310,7 +310,7 @@
    "location": null,
    "detail": "Ask HN \u00b7 November 2026",
    "url": "https://news.ycombinator.com/item?id=50403646",
-   "new_this_run": true
+   "new_this_run": false
   },
   {
    "title": "Head of Global GTM + Regional Sales Partners",
@@ -318,7 +318,7 @@
    "location": null,
    "detail": "Ask HN \u00b7 November 2026",
    "url": "https://news.ycombinator.com/item?id=50402383",
-   "new_this_run": true
+   "new_this_run": false
   },
   {
    "title": "3ive",
@@ -326,7 +326,7 @@
    "location": null,
    "detail": "Ask HN \u00b7 November 2026",
    "url": "https://news.ycombinator.com/item?id=50398466",
-   "new_this_run": true
+   "new_this_run": false
   },
   {
    "title": "Prior Labs",
@@ -334,7 +334,7 @@
    "location": null,
    "detail": "Ask HN \u00b7 November 2026",
    "url": "https://news.ycombinator.com/item?id=50398420",
-   "new_this_run": true
+   "new_this_run": false
   },
   {
    "title": "Sparcle",
@@ -342,7 +342,7 @@
    "location": null,
    "detail": "Ask HN \u00b7 November 2026",
    "url": "https://news.ycombinator.com/item?id=50398375",
-   "new_this_run": true
+   "new_this_run": false
   },
   {
    "title": "BuildQ",
@@ -350,7 +350,7 @@
    "location": null,
    "detail": "Ask HN \u00b7 November 2026",
    "url": "https://news.ycombinator.com/item?id=50396245",
-   "new_this_run": true
+   "new_this_run": false
   },
   {
    "title": "Machine Age",
@@ -358,7 +358,7 @@
    "location": null,
    "detail": "Ask HN \u00b7 November 2026",
    "url": "https://news.ycombinator.com/item?id=50393239",
-   "new_this_run": true
+   "new_this_run": false
   },
   {
    "title": "NetBird",
@@ -366,7 +366,7 @@
    "location": null,
    "detail": "Ask HN \u00b7 November 2026",
    "url": "https://news.ycombinator.com/item?id=50392398",
-   "new_this_run": true
+   "new_this_run": false
   },
   {
    "title": "iCallidus",
@@ -374,7 +374,7 @@
    "location": null,
    "detail": "Ask HN \u00b7 November 2026",
    "url": "https://news.ycombinator.com/item?id=50389352",
-   "new_this_run": true
+   "new_this_run": false
   },
   {
    "title": "I'm Sushant Gangurde, A Software Engineer focused on Full-Stack Development and AI-powered applications",
@@ -382,7 +382,7 @@
    "location": null,
    "detail": "Ask HN \u00b7 November 2026",
    "url": "https://news.ycombinator.com/item?id=50388471",
-   "new_this_run": true
+   "new_this_run": false
   },
   {
    "title": "Zefr",
@@ -390,7 +390,7 @@
    "location": null,
    "detail": "Ask HN \u00b7 November 2026",
    "url": "https://news.ycombinator.com/item?id=50386884",
-   "new_this_run": true
+   "new_this_run": false
   },
   {
    "title": "Odette Technologies",
@@ -398,7 +398,7 @@
    "location": null,
    "detail": "Ask HN \u00b7 November 2026",
    "url": "https://news.ycombinator.com/item?id=50385049",
-   "new_this_run": true
+   "new_this_run": false
   },
   {
    "title": "Piramidal (YC W24)",
@@ -406,7 +406,7 @@
    "location": null,
    "detail": "Ask HN \u00b7 November 2026",
    "url": "https://news.ycombinator.com/item?id=50384764",
-   "new_this_run": true
+   "new_this_run": false
   },
   {
    "title": "Sortrace",
@@ -414,7 +414,7 @@
    "location": null,
    "detail": "Ask HN \u00b7 November 2026",
    "url": "https://news.ycombinator.com/item?id=50384008",
-   "new_this_run": true
+   "new_this_run": false
   },
   {
    "title": "Nirvana Robotics",
@@ -422,7 +422,7 @@
    "location": null,
    "detail": "Ask HN \u00b7 November 2026",
    "url": "https://news.ycombinator.com/item?id=50383984",
-   "new_this_run": true
+   "new_this_run": false
   },
   {
    "title": "I'm Rajneesh Verma, a Full-Stack & AI Engineer currently working with a YC-backed startup",
@@ -430,7 +430,7 @@
    "location": null,
    "detail": "Ask HN \u00b7 November 2026",
    "url": "https://news.ycombinator.com/item?id=50382899",
-   "new_this_run": true
+   "new_this_run": false
   },
   {
    "title": "ChainSecurity",
@@ -438,7 +438,7 @@
    "location": null,
    "detail": "Ask HN \u00b7 November 2026",
    "url": "https://news.ycombinator.com/item?id=50380439",
-   "new_this_run": true
+   "new_this_run": false
   },
   {
    "title": "VictoriaMetrics",
@@ -446,7 +446,7 @@
    "location": null,
    "detail": "Ask HN \u00b7 November 2026",
    "url": "https://news.ycombinator.com/item?id=50380208",
-   "new_this_run": true
+   "new_this_run": false
   },
   {
    "title": "COi Rubber Products",
@@ -454,7 +454,7 @@
    "location": null,
    "detail": "Ask HN \u00b7 November 2026",
    "url": "https://news.ycombinator.com/item?id=50377145",
-   "new_this_run": true
+   "new_this_run": false
   },
   {
    "title": "N26 SE",
@@ -462,7 +462,7 @@
    "location": null,
    "detail": "Ask HN \u00b7 November 2026",
    "url": "https://news.ycombinator.com/item?id=50377000",
-   "new_this_run": true
+   "new_this_run": false
   },
   {
    "title": "ICEYE",
@@ -470,7 +470,7 @@
    "location": null,
    "detail": "Ask HN \u00b7 November 2026",
    "url": "https://news.ycombinator.com/item?id=50376253",
-   "new_this_run": true
+   "new_this_run": false
   },
   {
    "title": "ALBERT",
@@ -478,7 +478,7 @@
    "location": null,
    "detail": "Ask HN \u00b7 November 2026",
    "url": "https://news.ycombinator.com/item?id=50373706",
-   "new_this_run": true
+   "new_this_run": false
   },
   {
    "title": "Furtim Modus",
@@ -486,7 +486,7 @@
    "location": null,
    "detail": "Ask HN \u00b7 November 2026",
    "url": "https://news.ycombinator.com/item?id=50372966",
-   "new_this_run": true
+   "new_this_run": false
   },
   {
    "title": "SentiLink",
@@ -494,7 +494,7 @@
    "location": null,
    "detail": "Ask HN \u00b7 November 2026",
    "url": "https://news.ycombinator.com/item?id=50370932",
-   "new_this_run": true
+   "new_this_run": false
   },
   {
    "title": "Kaida",
@@ -502,7 +502,7 @@
    "location": null,
    "detail": "Ask HN \u00b7 November 2026",
    "url": "https://news.ycombinator.com/item?id=50370710",
-   "new_this_run": true
+   "new_this_run": false
   },
   {
    "title": "Matcha.fm",
@@ -510,7 +510,7 @@
    "location": null,
    "detail": "Ask HN \u00b7 November 2026",
    "url": "https://news.ycombinator.com/item?id=50369728",
-   "new_this_run": true
+   "new_this_run": false
   },
   {
    "title": "Oscilar.com",
@@ -518,7 +518,7 @@
    "location": null,
    "detail": "Ask HN \u00b7 November 2026",
    "url": "https://news.ycombinator.com/item?id=50369581",
-   "new_this_run": true
+   "new_this_run": false
   },
   {
    "title": "Search Atlas",
@@ -526,7 +526,7 @@
    "location": null,
    "detail": "Ask HN \u00b7 November 2026",
    "url": "https://news.ycombinator.com/item?id=50365279",
-   "new_this_run": true
+   "new_this_run": false
   },
   {
    "title": "Bikky",
@@ -534,7 +534,7 @@
    "location": null,
    "detail": "Ask HN \u00b7 November 2026",
    "url": "https://news.ycombinator.com/item?id=50363693",
-   "new_this_run": true
+   "new_this_run": false
   },
   {
    "title": "Bubblehouse",
@@ -542,7 +542,7 @@
    "location": null,
    "detail": "Ask HN \u00b7 November 2026",
    "url": "https://news.ycombinator.com/item?id=50363483",
-   "new_this_run": true
+   "new_this_run": false
   },
   {
    "title": "Lumen Labs",
@@ -550,7 +550,7 @@
    "location": null,
    "detail": "Ask HN \u00b7 November 2026",
    "url": "https://news.ycombinator.com/item?id=50361229",
-   "new_this_run": true
+   "new_this_run": false
   },
   {
    "title": "Coder",
@@ -558,7 +558,7 @@
    "location": null,
    "detail": "Ask HN \u00b7 November 2026",
    "url": "https://news.ycombinator.com/item?id=50360244",
-   "new_this_run": true
+   "new_this_run": false
   },
   {
    "title": "Sphinx Defense",
@@ -566,7 +566,7 @@
    "location": null,
    "detail": "Ask HN \u00b7 November 2026",
    "url": "https://news.ycombinator.com/item?id=50359595",
-   "new_this_run": true
+   "new_this_run": false
   },
   {
    "title": "Cocient",
@@ -574,7 +574,7 @@
    "location": null,
    "detail": "Ask HN \u00b7 November 2026",
    "url": "https://news.ycombinator.com/item?id=50357754",
-   "new_this_run": true
+   "new_this_run": false
   },
   {
    "title": "Apollo Research",
@@ -582,7 +582,7 @@
    "location": null,
    "detail": "Ask HN \u00b7 November 2026",
    "url": "https://news.ycombinator.com/item?id=50357728",
-   "new_this_run": true
+   "new_this_run": false
   },
   {
    "title": "Radar Labs",
@@ -590,7 +590,7 @@
    "location": null,
    "detail": "Ask HN \u00b7 November 2026",
    "url": "https://news.ycombinator.com/item?id=50357486",
-   "new_this_run": true
+   "new_this_run": false
   },
   {
    "title": "Thankly",
@@ -598,7 +598,7 @@
    "location": null,
    "detail": "Ask HN \u00b7 November 2026",
    "url": "https://news.ycombinator.com/item?id=50357360",
-   "new_this_run": true
+   "new_this_run": false
   },
   {
    "title": "Solution Street",
@@ -606,7 +606,7 @@
    "location": null,
    "detail": "Ask HN \u00b7 November 2026",
    "url": "https://news.ycombinator.com/item?id=50356544",
-   "new_this_run": true
+   "new_this_run": false
   },
   {
    "title": "Estuary",
@@ -614,7 +614,7 @@
    "location": null,
    "detail": "Ask HN \u00b7 November 2026",
    "url": "https://news.ycombinator.com/item?id=50356058",
-   "new_this_run": true
+   "new_this_run": false
   },
   {
    "title": "Tether",
@@ -622,7 +622,7 @@
    "location": null,
    "detail": "Ask HN \u00b7 November 2026",
    "url": "https://news.ycombinator.com/item?id=50355834",
-   "new_this_run": true
+   "new_this_run": false
   },
   {
    "title": "Exponent",
@@ -630,7 +630,7 @@
    "location": null,
    "detail": "Ask HN \u00b7 November 2026",
    "url": "https://news.ycombinator.com/item?id=50354142",
-   "new_this_run": true
+   "new_this_run": false
   },
   {
    "title": "Location: Andaluc\u00eda, Spain (CET) Remote: Yes \u2013 remote only Willing to relocate: No (EU citizen \u2013 no visa or wo",
@@ -638,7 +638,7 @@
    "location": null,
    "detail": "Ask HN \u00b7 November 2026",
    "url": "https://news.ycombinator.com/item?id=50353980",
-   "new_this_run": true
+   "new_this_run": false
   },
   {
    "title": "ThreatMark",
@@ -646,7 +646,7 @@
    "location": null,
    "detail": "Ask HN \u00b7 November 2026",
    "url": "https://news.ycombinator.com/item?id=50353951",
-   "new_this_run": true
+   "new_this_run": false
   },
   {
    "title": "Special",
@@ -654,7 +654,7 @@
    "location": null,
    "detail": "Ask HN \u00b7 November 2026",
    "url": "https://news.ycombinator.com/item?id=50353641",
-   "new_this_run": true
+   "new_this_run": false
   },
   {
    "title": "DigiKey",
@@ -662,7 +662,7 @@
    "location": null,
    "detail": "Ask HN \u00b7 November 2026",
    "url": "https://news.ycombinator.com/item?id=50353464",
-   "new_this_run": true
+   "new_this_run": false
   },
   {
    "title": "ControlPlane",
@@ -670,7 +670,7 @@
    "location": null,
    "detail": "Ask HN \u00b7 November 2026",
    "url": "https://news.ycombinator.com/item?id=50353340",
-   "new_this_run": true
+   "new_this_run": false
   },
   {
    "title": "Clad (YC W23)",
@@ -678,7 +678,7 @@
    "location": null,
    "detail": "Ask HN \u00b7 November 2026",
    "url": "https://news.ycombinator.com/item?id=50353098",
-   "new_this_run": true
+   "new_this_run": false
   },
   {
    "title": "TheraPlug",
@@ -686,7 +686,7 @@
    "location": null,
    "detail": "Ask HN \u00b7 November 2026",
    "url": "https://news.ycombinator.com/item?id=50352937",
-   "new_this_run": true
+   "new_this_run": false
   },
   {
    "title": "IMC Trading",
@@ -694,7 +694,7 @@
    "location": null,
    "detail": "Ask HN \u00b7 November 2026",
    "url": "https://news.ycombinator.com/item?id=50352150",
-   "new_this_run": true
+   "new_this_run": false
   },
   {
    "title": "Avoca",
@@ -702,7 +702,7 @@
    "location": null,
    "detail": "Ask HN \u00b7 November 2026",
    "url": "https://news.ycombinator.com/item?id=50352134",
-   "new_this_run": true
+   "new_this_run": false
   },
   {
    "title": "Antithesis",
@@ -710,7 +710,7 @@
    "location": null,
    "detail": "Ask HN \u00b7 November 2026",
    "url": "https://news.ycombinator.com/item?id=50351981",
-   "new_this_run": true
+   "new_this_run": false
   },
   {
    "title": "Taxnova",
@@ -718,7 +718,7 @@
    "location": null,
    "detail": "Ask HN \u00b7 November 2026",
    "url": "https://news.ycombinator.com/item?id=50351794",
-   "new_this_run": true
+   "new_this_run": false
   },
   {
    "title": "EggAI",
@@ -726,7 +726,7 @@
    "location": null,
    "detail": "Ask HN \u00b7 November 2026",
    "url": "https://news.ycombinator.com/item?id=50351693",
-   "new_this_run": true
+   "new_this_run": false
   },
   {
    "title": "ProphetX",
@@ -734,7 +734,7 @@
    "location": null,
    "detail": "Ask HN \u00b7 November 2026",
    "url": "https://news.ycombinator.com/item?id=50351346",
-   "new_this_run": true
+   "new_this_run": false
   },
   {
    "title": "AREO",
@@ -742,7 +742,7 @@
    "location": null,
    "detail": "Ask HN \u00b7 November 2026",
    "url": "https://news.ycombinator.com/item?id=50351266",
-   "new_this_run": true
+   "new_this_run": false
   },
   {
    "title": "Stealth",
@@ -750,7 +750,7 @@
    "location": null,
    "detail": "Ask HN \u00b7 November 2026",
    "url": "https://news.ycombinator.com/item?id=50350986",
-   "new_this_run": true
+   "new_this_run": false
   },
   {
    "title": "Marker Learning",
@@ -758,7 +758,7 @@
    "location": null,
    "detail": "Ask HN \u00b7 November 2026",
    "url": "https://news.ycombinator.com/item?id=50350981",
-   "new_this_run": true
+   "new_this_run": false
   },
   {
    "title": "Proofline",
@@ -766,7 +766,7 @@
    "location": null,
    "detail": "Ask HN \u00b7 November 2026",
    "url": "https://news.ycombinator.com/item?id=50350810",
-   "new_this_run": true
+   "new_this_run": false
   },
   {
    "title": "Lobox Recruiter brings recruitment and professional networking together in one ecosystem",
@@ -774,7 +774,7 @@
    "location": null,
    "detail": "Ask HN \u00b7 November 2026",
    "url": "https://news.ycombinator.com/item?id=50350417",
-   "new_this_run": true
+   "new_this_run": false
   },
   {
    "title": "Enclave",
@@ -782,7 +782,7 @@
    "location": null,
    "detail": "Ask HN \u00b7 November 2026",
    "url": "https://news.ycombinator.com/item?id=50350397",
-   "new_this_run": true
+   "new_this_run": false
   },
   {
    "title": "PlantingSpace",
@@ -790,7 +790,7 @@
    "location": null,
    "detail": "Ask HN \u00b7 November 2026",
    "url": "https://news.ycombinator.com/item?id=50350077",
-   "new_this_run": true
+   "new_this_run": false
   },
   {
    "title": "Location: Dorset, UK Remote: Yes (UK, US and EU time zones) Willing to relocate: No Technologies: Ruby on Rail",
@@ -798,7 +798,7 @@
    "location": null,
    "detail": "Ask HN \u00b7 November 2026",
    "url": "https://news.ycombinator.com/item?id=50349800",
-   "new_this_run": true
+   "new_this_run": false
   },
   {
    "title": "OpenRent",
@@ -806,7 +806,7 @@
    "location": null,
    "detail": "Ask HN \u00b7 November 2026",
    "url": "https://news.ycombinator.com/item?id=50349755",
-   "new_this_run": true
+   "new_this_run": false
   },
   {
    "title": "Encube",
@@ -814,7 +814,7 @@
    "location": null,
    "detail": "Ask HN \u00b7 November 2026",
    "url": "https://news.ycombinator.com/item?id=50349751",
-   "new_this_run": true
+   "new_this_run": false
   },
   {
    "title": "Perry",
@@ -822,7 +822,7 @@
    "location": null,
    "detail": "Ask HN \u00b7 November 2026",
    "url": "https://news.ycombinator.com/item?id=50349660",
-   "new_this_run": true
+   "new_this_run": false
   },
   {
    "title": "UNICEF - REMOTE backend dev - Digital Inclusion Division, Connectivity Credits We're building a marketplace wh",
@@ -830,7 +830,7 @@
    "location": null,
    "detail": "Ask HN \u00b7 November 2026",
    "url": "https://news.ycombinator.com/item?id=50349615",
-   "new_this_run": true
+   "new_this_run": false
   },
   {
    "title": "DigitalTolk is hiring for remote positions across Pakistan, India and Philippines",
@@ -838,7 +838,7 @@
    "location": null,
    "detail": "Ask HN \u00b7 November 2026",
    "url": "https://news.ycombinator.com/item?id=50349601",
-   "new_this_run": true
+   "new_this_run": false
   },
   {
    "title": "telli (YF F24) - customer-facing agents - is hiring in Berlin (Eng, GTM, Design) - https://www.telli.com/caree",
@@ -846,7 +846,7 @@
    "location": null,
    "detail": "Ask HN \u00b7 November 2026",
    "url": "https://news.ycombinator.com/item?id=50349443",
-   "new_this_run": true
+   "new_this_run": false
   },
   {
    "title": "Scento",
@@ -854,7 +854,7 @@
    "location": null,
    "detail": "Ask HN \u00b7 November 2026",
    "url": "https://news.ycombinator.com/item?id=50349294",
-   "new_this_run": true
+   "new_this_run": false
   },
   {
    "title": "Modash.io",
@@ -862,7 +862,7 @@
    "location": null,
    "detail": "Ask HN \u00b7 November 2026",
    "url": "https://news.ycombinator.com/item?id=50349251",
-   "new_this_run": true
+   "new_this_run": false
   },
   {
    "title": "Opsfleet",
@@ -870,7 +870,7 @@
    "location": null,
    "detail": "Ask HN \u00b7 November 2026",
    "url": "https://news.ycombinator.com/item?id=50349129",
-   "new_this_run": true
+   "new_this_run": false
   },
   {
    "title": "Proxima Fusion",
@@ -878,7 +878,7 @@
    "location": null,
    "detail": "Ask HN \u00b7 November 2026",
    "url": "https://news.ycombinator.com/item?id=50349037",
-   "new_this_run": true
+   "new_this_run": false
   },
   {
    "title": "Diffusion",
@@ -886,7 +886,7 @@
    "location": null,
    "detail": "Ask HN \u00b7 November 2026",
    "url": "https://news.ycombinator.com/item?id=50349005",
-   "new_this_run": true
+   "new_this_run": false
   },
   {
    "title": "Blockrotate",
@@ -894,7 +894,7 @@
    "location": null,
    "detail": "Ask HN \u00b7 November 2026",
    "url": "https://news.ycombinator.com/item?id=50349000",
-   "new_this_run": true
+   "new_this_run": false
   },
   {
    "title": "Odoo",
@@ -902,7 +902,7 @@
    "location": null,
    "detail": "Ask HN \u00b7 November 2026",
    "url": "https://news.ycombinator.com/item?id=50348803",
-   "new_this_run": true
+   "new_this_run": false
   },
   {
    "title": "Aloe",
@@ -910,7 +910,7 @@
    "location": null,
    "detail": "Ask HN \u00b7 November 2026",
    "url": "https://news.ycombinator.com/item?id=50348566",
-   "new_this_run": true
+   "new_this_run": false
   },
   {
    "title": "Baton",
@@ -918,7 +918,7 @@
    "location": null,
    "detail": "Ask HN \u00b7 November 2026",
    "url": "https://news.ycombinator.com/item?id=50348423",
-   "new_this_run": true
+   "new_this_run": false
   },
   {
    "title": "VALIS (Valis Insights)",
@@ -926,7 +926,7 @@
    "location": null,
    "detail": "Ask HN \u00b7 November 2026",
    "url": "https://news.ycombinator.com/item?id=50348145",
-   "new_this_run": true
+   "new_this_run": false
   },
   {
    "title": "Tech Mahindra\u2019s Cloud Advisory division is hiring engineers (4+YoE) and cloud solution architects (8+YoE) to h",
@@ -934,7 +934,7 @@
    "location": null,
    "detail": "Ask HN \u00b7 November 2026",
    "url": "https://news.ycombinator.com/item?id=50348055",
-   "new_this_run": true
+   "new_this_run": false
   },
   {
    "title": "Splash Tech",
@@ -942,7 +942,7 @@
    "location": null,
    "detail": "Ask HN \u00b7 November 2026",
    "url": "https://news.ycombinator.com/item?id=50348022",
-   "new_this_run": true
+   "new_this_run": false
   },
   {
    "title": "KSC Trading",
@@ -950,7 +950,7 @@
    "location": null,
    "detail": "Ask HN \u00b7 November 2026",
    "url": "https://news.ycombinator.com/item?id=50347792",
-   "new_this_run": true
+   "new_this_run": false
   },
   {
    "title": "Flow Traders",
@@ -958,7 +958,7 @@
    "location": null,
    "detail": "Ask HN \u00b7 November 2026",
    "url": "https://news.ycombinator.com/item?id=50347596",
-   "new_this_run": true
+   "new_this_run": false
   },
   {
    "title": "Charge Robotics",
@@ -966,167 +966,7 @@
    "location": null,
    "detail": "Ask HN \u00b7 November 2026",
    "url": "https://news.ycombinator.com/item?id=50347550",
-   "new_this_run": true
-  },
-  {
-   "title": "Vohuman - Agentastic",
-   "org": "ahmadyan",
-   "location": null,
-   "detail": "Ask HN \u00b7 November 2026",
-   "url": "https://news.ycombinator.com/item?id=50347501",
-   "new_this_run": true
-  },
-  {
-   "title": "Reddit",
-   "org": "gunsch",
-   "location": null,
-   "detail": "Ask HN \u00b7 November 2026",
-   "url": "https://news.ycombinator.com/item?id=50347217",
-   "new_this_run": true
-  },
-  {
-   "title": "Certara",
-   "org": "garysieling",
-   "location": null,
-   "detail": "Ask HN \u00b7 November 2026",
-   "url": "https://news.ycombinator.com/item?id=50347008",
-   "new_this_run": true
-  },
-  {
-   "title": "Justworks",
-   "org": "hullo",
-   "location": null,
-   "detail": "Ask HN \u00b7 November 2026",
-   "url": "https://news.ycombinator.com/item?id=50346890",
-   "new_this_run": true
-  },
-  {
-   "title": "Rapiscan Systems and its parent company OSI are hiring for service techs.",
-   "org": "rsamtravis",
-   "location": null,
-   "detail": "Ask HN \u00b7 November 2026",
-   "url": "https://news.ycombinator.com/item?id=50346871",
-   "new_this_run": true
-  },
-  {
-   "title": "Mechanize",
-   "org": "CactusBlue",
-   "location": null,
-   "detail": "Ask HN \u00b7 November 2026",
-   "url": "https://news.ycombinator.com/item?id=50346820",
-   "new_this_run": true
-  },
-  {
-   "title": "Telescope Partners",
-   "org": "mikeihbe",
-   "location": null,
-   "detail": "Ask HN \u00b7 November 2026",
-   "url": "https://news.ycombinator.com/item?id=50346665",
-   "new_this_run": true
-  },
-  {
-   "title": "GovStar",
-   "org": "GOVSTAR",
-   "location": null,
-   "detail": "Ask HN \u00b7 November 2026",
-   "url": "https://news.ycombinator.com/item?id=50346358",
-   "new_this_run": true
-  },
-  {
-   "title": "Hatch",
-   "org": "polansky",
-   "location": null,
-   "detail": "Ask HN \u00b7 November 2026",
-   "url": "https://news.ycombinator.com/item?id=50346184",
-   "new_this_run": true
-  },
-  {
-   "title": "America First Policy Institute - Office for Fiscal and Regulatory Analysis",
-   "org": "gwbrooks",
-   "location": null,
-   "detail": "Ask HN \u00b7 November 2026",
-   "url": "https://news.ycombinator.com/item?id=50345953",
-   "new_this_run": true
-  },
-  {
-   "title": "Sendery ( https://sendery.co )",
-   "org": "ncaroyannis",
-   "location": null,
-   "detail": "Ask HN \u00b7 November 2026",
-   "url": "https://news.ycombinator.com/item?id=50345770",
-   "new_this_run": true
-  },
-  {
-   "title": "Spade",
-   "org": "nycmatty",
-   "location": null,
-   "detail": "Ask HN \u00b7 November 2026",
-   "url": "https://news.ycombinator.com/item?id=50345424",
-   "new_this_run": true
-  },
-  {
-   "title": "Beacon AI",
-   "org": "beaconai",
-   "location": null,
-   "detail": "Ask HN \u00b7 November 2026",
-   "url": "https://news.ycombinator.com/item?id=50345264",
-   "new_this_run": true
-  },
-  {
-   "title": "Baserow ( https://baserow.io )",
-   "org": "bram2w",
-   "location": null,
-   "detail": "Ask HN \u00b7 November 2026",
-   "url": "https://news.ycombinator.com/item?id=50345251",
-   "new_this_run": true
-  },
-  {
-   "title": "Railway",
-   "org": "kollmar28",
-   "location": null,
-   "detail": "Ask HN \u00b7 November 2026",
-   "url": "https://news.ycombinator.com/item?id=50345025",
-   "new_this_run": true
-  },
-  {
-   "title": "Meta",
-   "org": "spoofyroot",
-   "location": null,
-   "detail": "Ask HN \u00b7 November 2026",
-   "url": "https://news.ycombinator.com/item?id=50344968",
-   "new_this_run": true
-  },
-  {
-   "title": "Silkline",
-   "org": "bshul-silkline1",
-   "location": null,
-   "detail": "Ask HN \u00b7 November 2026",
-   "url": "https://news.ycombinator.com/item?id=50344816",
-   "new_this_run": true
-  },
-  {
-   "title": "yeet",
-   "org": "r3tr0",
-   "location": null,
-   "detail": "Ask HN \u00b7 November 2026",
-   "url": "https://news.ycombinator.com/item?id=50344773",
-   "new_this_run": true
-  },
-  {
-   "title": "FusionAuth",
-   "org": "mooreds",
-   "location": null,
-   "detail": "Ask HN \u00b7 November 2026",
-   "url": "https://news.ycombinator.com/item?id=50344646",
-   "new_this_run": true
-  },
-  {
-   "title": "Location: Huntington Beach, CA, USA Remote: Yes Willing to relocate: No Technologies: C#/.NET, TypeScript, Rea",
-   "org": "jandekkers",
-   "location": null,
-   "detail": "Ask HN \u00b7 November 2026",
-   "url": "https://news.ycombinator.com/item?id=50344555",
-   "new_this_run": true
+   "new_this_run": false
   }
  ],
  "runs": [
@@ -1134,985 +974,990 @@
    "at": "2026-11-15T10:29:42+00:00",
    "jobs": 140,
    "new": 140
+  },
+  {
+   "at": "2026-11-15T12:05:31+00:00",
+   "jobs": 140,
+   "new": 0
   }
  ],
  "jobs_seen": {
   "early-stage startup|paulyonewaytech|": {
    "first_seen": "2026-11-15T10:29:42+00:00",
-   "last_seen": "2026-11-15T10:29:42+00:00",
+   "last_seen": "2026-11-15T12:05:31+00:00",
    "title": "Early-stage Startup",
    "org": "Paulyonewaytech",
    "location": null
   },
   "common prefix|commonprefix|": {
    "first_seen": "2026-11-15T10:29:42+00:00",
-   "last_seen": "2026-11-15T10:29:42+00:00",
+   "last_seen": "2026-11-15T12:05:31+00:00",
    "title": "Common Prefix",
    "org": "commonprefix",
    "location": null
   },
   "joulent|sandysuresh8|": {
    "first_seen": "2026-11-15T10:29:42+00:00",
-   "last_seen": "2026-11-15T10:29:42+00:00",
+   "last_seen": "2026-11-15T12:05:31+00:00",
    "title": "Joulent",
    "org": "sandysuresh8",
    "location": null
   },
   "bonfire analytics|jayapokuri|": {
    "first_seen": "2026-11-15T10:29:42+00:00",
-   "last_seen": "2026-11-15T10:29:42+00:00",
+   "last_seen": "2026-11-15T12:05:31+00:00",
    "title": "Bonfire Analytics",
    "org": "jayapokuri",
    "location": null
   },
   "*confidential healthcare ai startup|mernaemara|": {
    "first_seen": "2026-11-15T10:29:42+00:00",
-   "last_seen": "2026-11-15T10:29:42+00:00",
+   "last_seen": "2026-11-15T12:05:31+00:00",
    "title": "*Confidential Healthcare AI Startup",
    "org": "mernaemara",
    "location": null
   },
   "bechtel|halz|": {
    "first_seen": "2026-11-15T10:29:42+00:00",
-   "last_seen": "2026-11-15T10:29:42+00:00",
+   "last_seen": "2026-11-15T12:05:31+00:00",
    "title": "Bechtel",
    "org": "halz",
    "location": null
   },
   "elm ai|tanvesh01|": {
    "first_seen": "2026-11-15T10:29:42+00:00",
-   "last_seen": "2026-11-15T10:29:42+00:00",
+   "last_seen": "2026-11-15T12:05:31+00:00",
    "title": "Elm AI",
    "org": "tanvesh01",
    "location": null
   },
   "cern|lyluo|": {
    "first_seen": "2026-11-15T10:29:42+00:00",
-   "last_seen": "2026-11-15T10:29:42+00:00",
+   "last_seen": "2026-11-15T12:05:31+00:00",
    "title": "CERN",
    "org": "lyluo",
    "location": null
   },
   "location: remote (anywhere)|ycombinatorwn0d|": {
    "first_seen": "2026-11-15T10:29:42+00:00",
-   "last_seen": "2026-11-15T10:29:42+00:00",
+   "last_seen": "2026-11-15T12:05:31+00:00",
    "title": "Location: REMOTE (anywhere)",
    "org": "ycombinatorwn0d",
    "location": null
   },
   "location: india (currently travelling within india; ist, utc+5:30) remote: yes \u2013 remote only|ishanichugh|": {
    "first_seen": "2026-11-15T10:29:42+00:00",
-   "last_seen": "2026-11-15T10:29:42+00:00",
+   "last_seen": "2026-11-15T12:05:31+00:00",
    "title": "Location: India (currently travelling within India; IST, UTC+5:30) Remote: Yes \u2013 remote only",
    "org": "ishanichugh",
    "location": null
   },
   "genentech|mikegene|": {
    "first_seen": "2026-11-15T10:29:42+00:00",
-   "last_seen": "2026-11-15T10:29:42+00:00",
+   "last_seen": "2026-11-15T12:05:31+00:00",
    "title": "Genentech",
    "org": "mikegene",
    "location": null
   },
   "alternative payments|filipegarcia199|": {
    "first_seen": "2026-11-15T10:29:42+00:00",
-   "last_seen": "2026-11-15T10:29:42+00:00",
+   "last_seen": "2026-11-15T12:05:31+00:00",
    "title": "Alternative Payments",
    "org": "filipegarcia199",
    "location": null
   },
   "native|georgewithnativ|": {
    "first_seen": "2026-11-15T10:29:42+00:00",
-   "last_seen": "2026-11-15T10:29:42+00:00",
+   "last_seen": "2026-11-15T12:05:31+00:00",
    "title": "Native",
    "org": "georgewithnativ",
    "location": null
   },
   "landlord|hunterrwebb|": {
    "first_seen": "2026-11-15T10:29:42+00:00",
-   "last_seen": "2026-11-15T10:29:42+00:00",
+   "last_seen": "2026-11-15T12:05:31+00:00",
    "title": "Landlord",
    "org": "hunterrwebb",
    "location": null
   },
   "foji|mitchellhirsche|": {
    "first_seen": "2026-11-15T10:29:42+00:00",
-   "last_seen": "2026-11-15T10:29:42+00:00",
+   "last_seen": "2026-11-15T12:05:31+00:00",
    "title": "Foji",
    "org": "mitchellhirsche",
    "location": null
   },
   "kroo|jonnyxu|": {
    "first_seen": "2026-11-15T10:29:42+00:00",
-   "last_seen": "2026-11-15T10:29:42+00:00",
+   "last_seen": "2026-11-15T12:05:31+00:00",
    "title": "Kroo",
    "org": "jonnyxu",
    "location": null
   },
   "erica holloway|ericafootprint|": {
    "first_seen": "2026-11-15T10:29:42+00:00",
-   "last_seen": "2026-11-15T10:29:42+00:00",
+   "last_seen": "2026-11-15T12:05:31+00:00",
    "title": "Erica Holloway",
    "org": "ericafootprint",
    "location": null
   },
   "hemant singh|simplyhemat|": {
    "first_seen": "2026-11-15T10:29:42+00:00",
-   "last_seen": "2026-11-15T10:29:42+00:00",
+   "last_seen": "2026-11-15T12:05:31+00:00",
    "title": "Hemant Singh",
    "org": "simplyHemat",
    "location": null
   },
   "hey hn! we\u2019re building thundertruck\u2122, the operating system for local food\u2014connecting mobile food vendors and b|makeshift_softw|": {
    "first_seen": "2026-11-15T10:29:42+00:00",
-   "last_seen": "2026-11-15T10:29:42+00:00",
+   "last_seen": "2026-11-15T12:05:31+00:00",
    "title": "Hey HN! We\u2019re building ThunderTruck\u2122, the operating system for local food\u2014connecting mobile food vendors and b",
    "org": "makeshift_softw",
    "location": null
   },
   "quaisr|quaisr|": {
    "first_seen": "2026-11-15T10:29:42+00:00",
-   "last_seen": "2026-11-15T10:29:42+00:00",
+   "last_seen": "2026-11-15T12:05:31+00:00",
    "title": "Quaisr",
    "org": "Quaisr",
    "location": null
   },
   "raids ai|ritaraidsai|": {
    "first_seen": "2026-11-15T10:29:42+00:00",
-   "last_seen": "2026-11-15T10:29:42+00:00",
+   "last_seen": "2026-11-15T12:05:31+00:00",
    "title": "RAIDS AI",
    "org": "ritaraidsai",
    "location": null
   },
   "nevral forensics intelligence (nfi)|babalekpam|": {
    "first_seen": "2026-11-15T10:29:42+00:00",
-   "last_seen": "2026-11-15T10:29:42+00:00",
+   "last_seen": "2026-11-15T12:05:31+00:00",
    "title": "Nevral Forensics Intelligence (NFI)",
    "org": "babalekpam",
    "location": null
   },
   "odin|systemaccount|": {
    "first_seen": "2026-11-15T10:29:42+00:00",
-   "last_seen": "2026-11-15T10:29:42+00:00",
+   "last_seen": "2026-11-15T12:05:31+00:00",
    "title": "Odin",
    "org": "systemaccount",
    "location": null
   },
   "epsilon|kat_marq|": {
    "first_seen": "2026-11-15T10:29:42+00:00",
-   "last_seen": "2026-11-15T10:29:42+00:00",
+   "last_seen": "2026-11-15T12:05:31+00:00",
    "title": "Epsilon",
    "org": "kat_marq",
    "location": null
   },
   "who's hiring a customer success, guide onboarding specialist and account management roles remotely in us uk an|onyeagbalilian|": {
    "first_seen": "2026-11-15T10:29:42+00:00",
-   "last_seen": "2026-11-15T10:29:42+00:00",
+   "last_seen": "2026-11-15T12:05:31+00:00",
    "title": "Who's hiring a customer success, guide onboarding specialist and account management roles remotely in US UK an",
    "org": "onyeagbaLilian",
    "location": null
   },
   "livekit|mcapistrano|": {
    "first_seen": "2026-11-15T10:29:42+00:00",
-   "last_seen": "2026-11-15T10:29:42+00:00",
+   "last_seen": "2026-11-15T12:05:31+00:00",
    "title": "LiveKit",
    "org": "mcapistrano",
    "location": null
   },
   "polymath|playfair11|": {
    "first_seen": "2026-11-15T10:29:42+00:00",
-   "last_seen": "2026-11-15T10:29:42+00:00",
+   "last_seen": "2026-11-15T12:05:31+00:00",
    "title": "Polymath",
    "org": "playfair11",
    "location": null
   },
   "location: bangalore, india (ist / utc+5:30) remote: yes (worldwide) willing to relocate: yes (worldwide, visa|shubhankarlord|": {
    "first_seen": "2026-11-15T10:29:42+00:00",
-   "last_seen": "2026-11-15T10:29:42+00:00",
+   "last_seen": "2026-11-15T12:05:31+00:00",
    "title": "Location: Bangalore, India (IST / UTC+5:30) Remote: Yes (Worldwide) Willing to relocate: Yes (Worldwide, visa",
    "org": "shubhankarLord",
    "location": null
   },
   "stealth health-tech startup|gage-wunderrese|": {
    "first_seen": "2026-11-15T10:29:42+00:00",
-   "last_seen": "2026-11-15T10:29:42+00:00",
+   "last_seen": "2026-11-15T12:05:31+00:00",
    "title": "Stealth Health-Tech Startup",
    "org": "gage-wunderrese",
    "location": null
   },
   "collabify|dejayy|": {
    "first_seen": "2026-11-15T10:29:42+00:00",
-   "last_seen": "2026-11-15T10:29:42+00:00",
+   "last_seen": "2026-11-15T12:05:31+00:00",
    "title": "Collabify",
    "org": "dejayy",
    "location": null
   },
   "sunsave|moystard|": {
    "first_seen": "2026-11-15T10:29:42+00:00",
-   "last_seen": "2026-11-15T10:29:42+00:00",
+   "last_seen": "2026-11-15T12:05:31+00:00",
    "title": "Sunsave",
    "org": "moystard",
    "location": null
   },
   "tecla io|codafe|": {
    "first_seen": "2026-11-15T10:29:42+00:00",
-   "last_seen": "2026-11-15T10:29:42+00:00",
+   "last_seen": "2026-11-15T12:05:31+00:00",
    "title": "Tecla IO",
    "org": "codafe",
    "location": null
   },
   "amodo design|samdorey|": {
    "first_seen": "2026-11-15T10:29:42+00:00",
-   "last_seen": "2026-11-15T10:29:42+00:00",
+   "last_seen": "2026-11-15T12:05:31+00:00",
    "title": "Amodo Design",
    "org": "samdorey",
    "location": null
   },
   "devops engineer hybrid, 3 days a week in the office hong kong full-time we are looking for a devops engineer t|adriantroop|": {
    "first_seen": "2026-11-15T10:29:42+00:00",
-   "last_seen": "2026-11-15T10:29:42+00:00",
+   "last_seen": "2026-11-15T12:05:31+00:00",
    "title": "DevOps Engineer Hybrid, 3 days a week in the office Hong Kong Full-time We are looking for a DevOps Engineer t",
    "org": "AdrianTroop",
    "location": null
   },
   "seal (yc s20)|abaan_1302|": {
    "first_seen": "2026-11-15T10:29:42+00:00",
-   "last_seen": "2026-11-15T10:29:42+00:00",
+   "last_seen": "2026-11-15T12:05:31+00:00",
    "title": "Seal (YC S20)",
    "org": "Abaan_1302",
    "location": null
   },
   "aethergrid|wyclifferotich|": {
    "first_seen": "2026-11-15T10:29:42+00:00",
-   "last_seen": "2026-11-15T10:29:42+00:00",
+   "last_seen": "2026-11-15T12:05:31+00:00",
    "title": "AetherGrid",
    "org": "WycliffeRotich",
    "location": null
   },
   "opentrain ai|opentrainai|": {
    "first_seen": "2026-11-15T10:29:42+00:00",
-   "last_seen": "2026-11-15T10:29:42+00:00",
+   "last_seen": "2026-11-15T12:05:31+00:00",
    "title": "OpenTrain AI",
    "org": "OpenTrainAI",
    "location": null
   },
   "location: estonia remote:yes willing to relocate: no technologies: react.js,vue.js, next.js,nuxt.js ,typescrip|mustafadalga|": {
    "first_seen": "2026-11-15T10:29:42+00:00",
-   "last_seen": "2026-11-15T10:29:42+00:00",
+   "last_seen": "2026-11-15T12:05:31+00:00",
    "title": "Location: Estonia Remote:Yes Willing to relocate: No Technologies: React.js,Vue.js, Next.js,Nuxt.js ,TypeScrip",
    "org": "mustafadalga",
    "location": null
   },
   "head of global gtm + regional sales partners|bhalenduc|": {
    "first_seen": "2026-11-15T10:29:42+00:00",
-   "last_seen": "2026-11-15T10:29:42+00:00",
+   "last_seen": "2026-11-15T12:05:31+00:00",
    "title": "Head of Global GTM + Regional Sales Partners",
    "org": "bhalenduc",
    "location": null
   },
   "3ive|criscros|": {
    "first_seen": "2026-11-15T10:29:42+00:00",
-   "last_seen": "2026-11-15T10:29:42+00:00",
+   "last_seen": "2026-11-15T12:05:31+00:00",
    "title": "3ive",
    "org": "criscros",
    "location": null
   },
   "prior labs|noahho|": {
    "first_seen": "2026-11-15T10:29:42+00:00",
-   "last_seen": "2026-11-15T10:29:42+00:00",
+   "last_seen": "2026-11-15T12:05:31+00:00",
    "title": "Prior Labs",
    "org": "noahho",
    "location": null
   },
   "sparcle|rajendrapatil|": {
    "first_seen": "2026-11-15T10:29:42+00:00",
-   "last_seen": "2026-11-15T10:29:42+00:00",
+   "last_seen": "2026-11-15T12:05:31+00:00",
    "title": "Sparcle",
    "org": "rajendrapatil",
    "location": null
   },
   "buildq|dylan-buildq|": {
    "first_seen": "2026-11-15T10:29:42+00:00",
-   "last_seen": "2026-11-15T10:29:42+00:00",
+   "last_seen": "2026-11-15T12:05:31+00:00",
    "title": "BuildQ",
    "org": "dylan-buildq",
    "location": null
   },
   "machine age|chrisworsey55|": {
    "first_seen": "2026-11-15T10:29:42+00:00",
-   "last_seen": "2026-11-15T10:29:42+00:00",
+   "last_seen": "2026-11-15T12:05:31+00:00",
    "title": "Machine Age",
    "org": "chrisworsey55",
    "location": null
   },
   "netbird|verobytes|": {
    "first_seen": "2026-11-15T10:29:42+00:00",
-   "last_seen": "2026-11-15T10:29:42+00:00",
+   "last_seen": "2026-11-15T12:05:31+00:00",
    "title": "NetBird",
    "org": "verobytes",
    "location": null
   },
   "icallidus|grimre4p|": {
    "first_seen": "2026-11-15T10:29:42+00:00",
-   "last_seen": "2026-11-15T10:29:42+00:00",
+   "last_seen": "2026-11-15T12:05:31+00:00",
    "title": "iCallidus",
    "org": "grimre4p",
    "location": null
   },
   "i'm sushant gangurde, a software engineer focused on full-stack development and ai-powered applications|sush1271|": {
    "first_seen": "2026-11-15T10:29:42+00:00",
-   "last_seen": "2026-11-15T10:29:42+00:00",
+   "last_seen": "2026-11-15T12:05:31+00:00",
    "title": "I'm Sushant Gangurde, A Software Engineer focused on Full-Stack Development and AI-powered applications",
    "org": "Sush1271",
    "location": null
   },
   "zefr|zefr-sre|": {
    "first_seen": "2026-11-15T10:29:42+00:00",
-   "last_seen": "2026-11-15T10:29:42+00:00",
+   "last_seen": "2026-11-15T12:05:31+00:00",
    "title": "Zefr",
    "org": "zefr-sre",
    "location": null
   },
   "odette technologies|odette_leadersh|": {
    "first_seen": "2026-11-15T10:29:42+00:00",
-   "last_seen": "2026-11-15T10:29:42+00:00",
+   "last_seen": "2026-11-15T12:05:31+00:00",
    "title": "Odette Technologies",
    "org": "odette_leadersh",
    "location": null
   },
   "piramidal (yc w24)|kyrxanthos|": {
    "first_seen": "2026-11-15T10:29:42+00:00",
-   "last_seen": "2026-11-15T10:29:42+00:00",
+   "last_seen": "2026-11-15T12:05:31+00:00",
    "title": "Piramidal (YC W24)",
    "org": "kyrxanthos",
    "location": null
   },
   "sortrace|sortrace|": {
    "first_seen": "2026-11-15T10:29:42+00:00",
-   "last_seen": "2026-11-15T10:29:42+00:00",
+   "last_seen": "2026-11-15T12:05:31+00:00",
    "title": "Sortrace",
    "org": "sortrace",
    "location": null
   },
   "nirvana robotics|niuro|": {
    "first_seen": "2026-11-15T10:29:42+00:00",
-   "last_seen": "2026-11-15T10:29:42+00:00",
+   "last_seen": "2026-11-15T12:05:31+00:00",
    "title": "Nirvana Robotics",
    "org": "niuro",
    "location": null
   },
   "i'm rajneesh verma, a full-stack & ai engineer currently working with a yc-backed startup|rajneesh_01|": {
    "first_seen": "2026-11-15T10:29:42+00:00",
-   "last_seen": "2026-11-15T10:29:42+00:00",
+   "last_seen": "2026-11-15T12:05:31+00:00",
    "title": "I'm Rajneesh Verma, a Full-Stack & AI Engineer currently working with a YC-backed startup",
    "org": "Rajneesh_01",
    "location": null
   },
   "chainsecurity|wipaveeknecht|": {
    "first_seen": "2026-11-15T10:29:42+00:00",
-   "last_seen": "2026-11-15T10:29:42+00:00",
+   "last_seen": "2026-11-15T12:05:31+00:00",
    "title": "ChainSecurity",
    "org": "wipaveeknecht",
    "location": null
   },
   "victoriametrics|katie_zhy|": {
    "first_seen": "2026-11-15T10:29:42+00:00",
-   "last_seen": "2026-11-15T10:29:42+00:00",
+   "last_seen": "2026-11-15T12:05:31+00:00",
    "title": "VictoriaMetrics",
    "org": "katie_zhy",
    "location": null
   },
   "coi rubber products|coirubber|": {
    "first_seen": "2026-11-15T10:29:42+00:00",
-   "last_seen": "2026-11-15T10:29:42+00:00",
+   "last_seen": "2026-11-15T12:05:31+00:00",
    "title": "COi Rubber Products",
    "org": "coirubber",
    "location": null
   },
   "n26 se|doomvwr|": {
    "first_seen": "2026-11-15T10:29:42+00:00",
-   "last_seen": "2026-11-15T10:29:42+00:00",
+   "last_seen": "2026-11-15T12:05:31+00:00",
    "title": "N26 SE",
    "org": "doomvwr",
    "location": null
   },
   "iceye|wojciech12|": {
    "first_seen": "2026-11-15T10:29:42+00:00",
-   "last_seen": "2026-11-15T10:29:42+00:00",
+   "last_seen": "2026-11-15T12:05:31+00:00",
    "title": "ICEYE",
    "org": "wojciech12",
    "location": null
   },
   "albert|meetalbert|": {
    "first_seen": "2026-11-15T10:29:42+00:00",
-   "last_seen": "2026-11-15T10:29:42+00:00",
+   "last_seen": "2026-11-15T12:05:31+00:00",
    "title": "ALBERT",
    "org": "meetalbert",
    "location": null
   },
   "furtim modus|furtimmodus|": {
    "first_seen": "2026-11-15T10:29:42+00:00",
-   "last_seen": "2026-11-15T10:29:42+00:00",
+   "last_seen": "2026-11-15T12:05:31+00:00",
    "title": "Furtim Modus",
    "org": "furtimmodus",
    "location": null
   },
   "sentilink|lizwoodfieldta|": {
    "first_seen": "2026-11-15T10:29:42+00:00",
-   "last_seen": "2026-11-15T10:29:42+00:00",
+   "last_seen": "2026-11-15T12:05:31+00:00",
    "title": "SentiLink",
    "org": "lizwoodfieldta",
    "location": null
   },
   "kaida|maxberdnikau|": {
    "first_seen": "2026-11-15T10:29:42+00:00",
-   "last_seen": "2026-11-15T10:29:42+00:00",
+   "last_seen": "2026-11-15T12:05:31+00:00",
    "title": "Kaida",
    "org": "maxberdnikau",
    "location": null
   },
   "matcha.fm|fiiico|": {
    "first_seen": "2026-11-15T10:29:42+00:00",
-   "last_seen": "2026-11-15T10:29:42+00:00",
+   "last_seen": "2026-11-15T12:05:31+00:00",
    "title": "Matcha.fm",
    "org": "fiiico",
    "location": null
   },
   "oscilar.com|dsuniga14|": {
    "first_seen": "2026-11-15T10:29:42+00:00",
-   "last_seen": "2026-11-15T10:29:42+00:00",
+   "last_seen": "2026-11-15T12:05:31+00:00",
    "title": "Oscilar.com",
    "org": "Dsuniga14",
    "location": null
   },
   "search atlas|jp_recruiter_se|": {
    "first_seen": "2026-11-15T10:29:42+00:00",
-   "last_seen": "2026-11-15T10:29:42+00:00",
+   "last_seen": "2026-11-15T12:05:31+00:00",
    "title": "Search Atlas",
    "org": "JP_recruiter_Se",
    "location": null
   },
   "bikky|kimmaniti|": {
    "first_seen": "2026-11-15T10:29:42+00:00",
-   "last_seen": "2026-11-15T10:29:42+00:00",
+   "last_seen": "2026-11-15T12:05:31+00:00",
    "title": "Bikky",
    "org": "KimManiti",
    "location": null
   },
   "bubblehouse|andreyvit|": {
    "first_seen": "2026-11-15T10:29:42+00:00",
-   "last_seen": "2026-11-15T10:29:42+00:00",
+   "last_seen": "2026-11-15T12:05:31+00:00",
    "title": "Bubblehouse",
    "org": "andreyvit",
    "location": null
   },
   "lumen labs|daniel_van_zant|": {
    "first_seen": "2026-11-15T10:29:42+00:00",
-   "last_seen": "2026-11-15T10:29:42+00:00",
+   "last_seen": "2026-11-15T12:05:31+00:00",
    "title": "Lumen Labs",
    "org": "Daniel_Van_Zant",
    "location": null
   },
   "coder|elianahammonds|": {
    "first_seen": "2026-11-15T10:29:42+00:00",
-   "last_seen": "2026-11-15T10:29:42+00:00",
+   "last_seen": "2026-11-15T12:05:31+00:00",
    "title": "Coder",
    "org": "elianahammonds",
    "location": null
   },
   "sphinx defense|jascaddel|": {
    "first_seen": "2026-11-15T10:29:42+00:00",
-   "last_seen": "2026-11-15T10:29:42+00:00",
+   "last_seen": "2026-11-15T12:05:31+00:00",
    "title": "Sphinx Defense",
    "org": "jascaddel",
    "location": null
   },
   "cocient|oliverbaverstam|": {
    "first_seen": "2026-11-15T10:29:42+00:00",
-   "last_seen": "2026-11-15T10:29:42+00:00",
+   "last_seen": "2026-11-15T12:05:31+00:00",
    "title": "Cocient",
    "org": "oliverbaverstam",
    "location": null
   },
   "apollo research|joping_apollo|": {
    "first_seen": "2026-11-15T10:29:42+00:00",
-   "last_seen": "2026-11-15T10:29:42+00:00",
+   "last_seen": "2026-11-15T12:05:31+00:00",
    "title": "Apollo Research",
    "org": "joping_apollo",
    "location": null
   },
   "radar labs|timjulien|": {
    "first_seen": "2026-11-15T10:29:42+00:00",
-   "last_seen": "2026-11-15T10:29:42+00:00",
+   "last_seen": "2026-11-15T12:05:31+00:00",
    "title": "Radar Labs",
    "org": "timjulien",
    "location": null
   },
   "thankly|harshpj|": {
    "first_seen": "2026-11-15T10:29:42+00:00",
-   "last_seen": "2026-11-15T10:29:42+00:00",
+   "last_seen": "2026-11-15T12:05:31+00:00",
    "title": "Thankly",
    "org": "harshpj",
    "location": null
   },
   "solution street|kschuman72|": {
    "first_seen": "2026-11-15T10:29:42+00:00",
-   "last_seen": "2026-11-15T10:29:42+00:00",
+   "last_seen": "2026-11-15T12:05:31+00:00",
    "title": "Solution Street",
    "org": "kschuman72",
    "location": null
   },
   "estuary|estuary|": {
    "first_seen": "2026-11-15T10:29:42+00:00",
-   "last_seen": "2026-11-15T10:29:42+00:00",
+   "last_seen": "2026-11-15T12:05:31+00:00",
    "title": "Estuary",
    "org": "Estuary",
    "location": null
   },
   "tether|lulicaffarini|": {
    "first_seen": "2026-11-15T10:29:42+00:00",
-   "last_seen": "2026-11-15T10:29:42+00:00",
+   "last_seen": "2026-11-15T12:05:31+00:00",
    "title": "Tether",
    "org": "lulicaffarini",
    "location": null
   },
   "exponent|nialbima|": {
    "first_seen": "2026-11-15T10:29:42+00:00",
-   "last_seen": "2026-11-15T10:29:42+00:00",
+   "last_seen": "2026-11-15T12:05:31+00:00",
    "title": "Exponent",
    "org": "nialbima",
    "location": null
   },
   "location: andaluc\u00eda, spain (cet) remote: yes \u2013 remote only willing to relocate: no (eu citizen \u2013 no visa or wo|theghost1980|": {
    "first_seen": "2026-11-15T10:29:42+00:00",
-   "last_seen": "2026-11-15T10:29:42+00:00",
+   "last_seen": "2026-11-15T12:05:31+00:00",
    "title": "Location: Andaluc\u00eda, Spain (CET) Remote: Yes \u2013 remote only Willing to relocate: No (EU citizen \u2013 no visa or wo",
    "org": "theghost1980",
    "location": null
   },
   "threatmark|kyry_cz|": {
    "first_seen": "2026-11-15T10:29:42+00:00",
-   "last_seen": "2026-11-15T10:29:42+00:00",
+   "last_seen": "2026-11-15T12:05:31+00:00",
    "title": "ThreatMark",
    "org": "kyry_cz",
    "location": null
   },
   "special|specialholdings|": {
    "first_seen": "2026-11-15T10:29:42+00:00",
-   "last_seen": "2026-11-15T10:29:42+00:00",
+   "last_seen": "2026-11-15T12:05:31+00:00",
    "title": "Special",
    "org": "specialholdings",
    "location": null
   },
   "digikey|bombledmonk|": {
    "first_seen": "2026-11-15T10:29:42+00:00",
-   "last_seen": "2026-11-15T10:29:42+00:00",
+   "last_seen": "2026-11-15T12:05:31+00:00",
    "title": "DigiKey",
    "org": "bombledmonk",
    "location": null
   },
   "controlplane|cipherboy|": {
    "first_seen": "2026-11-15T10:29:42+00:00",
-   "last_seen": "2026-11-15T10:29:42+00:00",
+   "last_seen": "2026-11-15T12:05:31+00:00",
    "title": "ControlPlane",
    "org": "cipherboy",
    "location": null
   },
   "clad (yc w23)|jrudin|": {
    "first_seen": "2026-11-15T10:29:42+00:00",
-   "last_seen": "2026-11-15T10:29:42+00:00",
+   "last_seen": "2026-11-15T12:05:31+00:00",
    "title": "Clad (YC W23)",
    "org": "jrudin",
    "location": null
   },
   "theraplug|therapluginc|": {
    "first_seen": "2026-11-15T10:29:42+00:00",
-   "last_seen": "2026-11-15T10:29:42+00:00",
+   "last_seen": "2026-11-15T12:05:31+00:00",
    "title": "TheraPlug",
    "org": "therapluginc",
    "location": null
   },
   "imc trading|sarahscrutton|": {
    "first_seen": "2026-11-15T10:29:42+00:00",
-   "last_seen": "2026-11-15T10:29:42+00:00",
+   "last_seen": "2026-11-15T12:05:31+00:00",
    "title": "IMC Trading",
    "org": "sarahscrutton",
    "location": null
   },
   "avoca|bschumer|": {
    "first_seen": "2026-11-15T10:29:42+00:00",
-   "last_seen": "2026-11-15T10:29:42+00:00",
+   "last_seen": "2026-11-15T12:05:31+00:00",
    "title": "Avoca",
    "org": "bschumer",
    "location": null
   },
   "antithesis|terpimost|": {
    "first_seen": "2026-11-15T10:29:42+00:00",
-   "last_seen": "2026-11-15T10:29:42+00:00",
+   "last_seen": "2026-11-15T12:05:31+00:00",
    "title": "Antithesis",
    "org": "terpimost",
    "location": null
   },
   "taxnova|marmalykh|": {
    "first_seen": "2026-11-15T10:29:42+00:00",
-   "last_seen": "2026-11-15T10:29:42+00:00",
+   "last_seen": "2026-11-15T12:05:31+00:00",
    "title": "Taxnova",
    "org": "marmalykh",
    "location": null
   },
   "eggai|nherment|": {
    "first_seen": "2026-11-15T10:29:42+00:00",
-   "last_seen": "2026-11-15T10:29:42+00:00",
+   "last_seen": "2026-11-15T12:05:31+00:00",
    "title": "EggAI",
    "org": "nherment",
    "location": null
   },
   "prophetx|lordnacho|": {
    "first_seen": "2026-11-15T10:29:42+00:00",
-   "last_seen": "2026-11-15T10:29:42+00:00",
+   "last_seen": "2026-11-15T12:05:31+00:00",
    "title": "ProphetX",
    "org": "lordnacho",
    "location": null
   },
   "areo|areo_marius|": {
    "first_seen": "2026-11-15T10:29:42+00:00",
-   "last_seen": "2026-11-15T10:29:42+00:00",
+   "last_seen": "2026-11-15T12:05:31+00:00",
    "title": "AREO",
    "org": "AREO_Marius",
    "location": null
   },
   "stealth|shayneo|": {
    "first_seen": "2026-11-15T10:29:42+00:00",
-   "last_seen": "2026-11-15T10:29:42+00:00",
+   "last_seen": "2026-11-15T12:05:31+00:00",
    "title": "Stealth",
    "org": "shayneo",
    "location": null
   },
   "marker learning|john-the-marker|": {
    "first_seen": "2026-11-15T10:29:42+00:00",
-   "last_seen": "2026-11-15T10:29:42+00:00",
+   "last_seen": "2026-11-15T12:05:31+00:00",
    "title": "Marker Learning",
    "org": "john-the-marker",
    "location": null
   },
   "proofline|mohsen1|": {
    "first_seen": "2026-11-15T10:29:42+00:00",
-   "last_seen": "2026-11-15T10:29:42+00:00",
+   "last_seen": "2026-11-15T12:05:31+00:00",
    "title": "Proofline",
    "org": "mohsen1",
    "location": null
   },
   "lobox recruiter brings recruitment and professional networking together in one ecosystem|loboxplatform|": {
    "first_seen": "2026-11-15T10:29:42+00:00",
-   "last_seen": "2026-11-15T10:29:42+00:00",
+   "last_seen": "2026-11-15T12:05:31+00:00",
    "title": "Lobox Recruiter brings recruitment and professional networking together in one ecosystem",
    "org": "LoboxPlatform",
    "location": null
   },
   "enclave|charlottemorgan|": {
    "first_seen": "2026-11-15T10:29:42+00:00",
-   "last_seen": "2026-11-15T10:29:42+00:00",
+   "last_seen": "2026-11-15T12:05:31+00:00",
    "title": "Enclave",
    "org": "charlottemorgan",
    "location": null
   },
   "plantingspace|plantingspace|": {
    "first_seen": "2026-11-15T10:29:42+00:00",
-   "last_seen": "2026-11-15T10:29:42+00:00",
+   "last_seen": "2026-11-15T12:05:31+00:00",
    "title": "PlantingSpace",
    "org": "PlantingSpace",
    "location": null
   },
   "location: dorset, uk remote: yes (uk, us and eu time zones) willing to relocate: no technologies: ruby on rail|thorandzeus|": {
    "first_seen": "2026-11-15T10:29:42+00:00",
-   "last_seen": "2026-11-15T10:29:42+00:00",
+   "last_seen": "2026-11-15T12:05:31+00:00",
    "title": "Location: Dorset, UK Remote: Yes (UK, US and EU time zones) Willing to relocate: No Technologies: Ruby on Rail",
    "org": "ThorAndZeus",
    "location": null
   },
   "openrent|openrent|": {
    "first_seen": "2026-11-15T10:29:42+00:00",
-   "last_seen": "2026-11-15T10:29:42+00:00",
+   "last_seen": "2026-11-15T12:05:31+00:00",
    "title": "OpenRent",
    "org": "openrent",
    "location": null
   },
   "encube|kreldjarn|": {
    "first_seen": "2026-11-15T10:29:42+00:00",
-   "last_seen": "2026-11-15T10:29:42+00:00",
+   "last_seen": "2026-11-15T12:05:31+00:00",
    "title": "Encube",
    "org": "kreldjarn",
    "location": null
   },
   "perry|vaneesaagrawal|": {
    "first_seen": "2026-11-15T10:29:42+00:00",
-   "last_seen": "2026-11-15T10:29:42+00:00",
+   "last_seen": "2026-11-15T12:05:31+00:00",
    "title": "Perry",
    "org": "VaneesaAgrawal",
    "location": null
   },
   "unicef - remote backend dev - digital inclusion division, connectivity credits we're building a marketplace wh|harrywilsontypi|": {
    "first_seen": "2026-11-15T10:29:42+00:00",
-   "last_seen": "2026-11-15T10:29:42+00:00",
+   "last_seen": "2026-11-15T12:05:31+00:00",
    "title": "UNICEF - REMOTE backend dev - Digital Inclusion Division, Connectivity Credits We're building a marketplace wh",
    "org": "harrywilsontypi",
    "location": null
   },
   "digitaltolk is hiring for remote positions across pakistan, india and philippines|syedtariqislam|": {
    "first_seen": "2026-11-15T10:29:42+00:00",
-   "last_seen": "2026-11-15T10:29:42+00:00",
+   "last_seen": "2026-11-15T12:05:31+00:00",
    "title": "DigitalTolk is hiring for remote positions across Pakistan, India and Philippines",
    "org": "syedtariqislam",
    "location": null
   },
   "telli (yf f24) - customer-facing agents - is hiring in berlin (eng, gtm, design) - https://www.telli.com/caree|sebselassie|": {
    "first_seen": "2026-11-15T10:29:42+00:00",
-   "last_seen": "2026-11-15T10:29:42+00:00",
+   "last_seen": "2026-11-15T12:05:31+00:00",
    "title": "telli (YF F24) - customer-facing agents - is hiring in Berlin (Eng, GTM, Design) - https://www.telli.com/caree",
    "org": "sebselassie",
    "location": null
   },
   "scento|scentocom|": {
    "first_seen": "2026-11-15T10:29:42+00:00",
-   "last_seen": "2026-11-15T10:29:42+00:00",
+   "last_seen": "2026-11-15T12:05:31+00:00",
    "title": "Scento",
    "org": "scentocom",
    "location": null
   },
   "modash.io|polinalu|": {
    "first_seen": "2026-11-15T10:29:42+00:00",
-   "last_seen": "2026-11-15T10:29:42+00:00",
+   "last_seen": "2026-11-15T12:05:31+00:00",
    "title": "Modash.io",
    "org": "PolinaLu",
    "location": null
   },
   "opsfleet|bat-eln|": {
    "first_seen": "2026-11-15T10:29:42+00:00",
-   "last_seen": "2026-11-15T10:29:42+00:00",
+   "last_seen": "2026-11-15T12:05:31+00:00",
    "title": "Opsfleet",
    "org": "Bat-elN",
    "location": null
   },
   "proxima fusion|l1am0|": {
    "first_seen": "2026-11-15T10:29:42+00:00",
-   "last_seen": "2026-11-15T10:29:42+00:00",
+   "last_seen": "2026-11-15T12:05:31+00:00",
    "title": "Proxima Fusion",
    "org": "l1am0",
    "location": null
   },
   "diffusion|jmccarthy|": {
    "first_seen": "2026-11-15T10:29:42+00:00",
-   "last_seen": "2026-11-15T10:29:42+00:00",
+   "last_seen": "2026-11-15T12:05:31+00:00",
    "title": "Diffusion",
    "org": "jmccarthy",
    "location": null
   },
   "blockrotate|m00dy|": {
    "first_seen": "2026-11-15T10:29:42+00:00",
-   "last_seen": "2026-11-15T10:29:42+00:00",
+   "last_seen": "2026-11-15T12:05:31+00:00",
    "title": "Blockrotate",
    "org": "m00dy",
    "location": null
   },
   "odoo|spiksla|": {
    "first_seen": "2026-11-15T10:29:42+00:00",
-   "last_seen": "2026-11-15T10:29:42+00:00",
+   "last_seen": "2026-11-15T12:05:31+00:00",
    "title": "Odoo",
    "org": "spiksla",
    "location": null
   },
   "aloe|justcallmejm|": {
    "first_seen": "2026-11-15T10:29:42+00:00",
-   "last_seen": "2026-11-15T10:29:42+00:00",
+   "last_seen": "2026-11-15T12:05:31+00:00",
    "title": "Aloe",
    "org": "justcallmejm",
    "location": null
   },
   "baton|batontrucking|": {
    "first_seen": "2026-11-15T10:29:42+00:00",
-   "last_seen": "2026-11-15T10:29:42+00:00",
+   "last_seen": "2026-11-15T12:05:31+00:00",
    "title": "Baton",
    "org": "BatonTrucking",
    "location": null
   },
   "valis (valis insights)|calebralphs|": {
    "first_seen": "2026-11-15T10:29:42+00:00",
-   "last_seen": "2026-11-15T10:29:42+00:00",
+   "last_seen": "2026-11-15T12:05:31+00:00",
    "title": "VALIS (Valis Insights)",
    "org": "calebralphs",
    "location": null
   },
   "tech mahindra\u2019s cloud advisory division is hiring engineers (4+yoe) and cloud solution architects (8+yoe) to h|csprabala|": {
    "first_seen": "2026-11-15T10:29:42+00:00",
-   "last_seen": "2026-11-15T10:29:42+00:00",
+   "last_seen": "2026-11-15T12:05:31+00:00",
    "title": "Tech Mahindra\u2019s Cloud Advisory division is hiring engineers (4+YoE) and cloud solution architects (8+YoE) to h",
    "org": "csprabala",
    "location": null
   },
   "splash tech|lucasrattz|": {
    "first_seen": "2026-11-15T10:29:42+00:00",
-   "last_seen": "2026-11-15T10:29:42+00:00",
+   "last_seen": "2026-11-15T12:05:31+00:00",
    "title": "Splash Tech",
    "org": "lucasrattz",
    "location": null
   },
   "ksc trading|ksctrading|": {
    "first_seen": "2026-11-15T10:29:42+00:00",
-   "last_seen": "2026-11-15T10:29:42+00:00",
+   "last_seen": "2026-11-15T12:05:31+00:00",
    "title": "KSC Trading",
    "org": "ksctrading",
    "location": null
   },
   "flow traders|christyfthk|": {
    "first_seen": "2026-11-15T10:29:42+00:00",
-   "last_seen": "2026-11-15T10:29:42+00:00",
+   "last_seen": "2026-11-15T12:05:31+00:00",
    "title": "Flow Traders",
    "org": "christyfthk",
    "location": null
   },
   "charge robotics|justicz|": {
    "first_seen": "2026-11-15T10:29:42+00:00",
-   "last_seen": "2026-11-15T10:29:42+00:00",
+   "last_seen": "2026-11-15T12:05:31+00:00",
    "title": "Charge Robotics",
    "org": "justicz",
    "location": null
   },
   "vohuman - agentastic|ahmadyan|": {
    "first_seen": "2026-11-15T10:29:42+00:00",
-   "last_seen": "2026-11-15T10:29:42+00:00",
+   "last_seen": "2026-11-15T12:05:31+00:00",
    "title": "Vohuman - Agentastic",
    "org": "ahmadyan",
    "location": null
   },
   "reddit|gunsch|": {
    "first_seen": "2026-11-15T10:29:42+00:00",
-   "last_seen": "2026-11-15T10:29:42+00:00",
+   "last_seen": "2026-11-15T12:05:31+00:00",
    "title": "Reddit",
    "org": "gunsch",
    "location": null
   },
   "certara|garysieling|": {
    "first_seen": "2026-11-15T10:29:42+00:00",
-   "last_seen": "2026-11-15T10:29:42+00:00",
+   "last_seen": "2026-11-15T12:05:31+00:00",
    "title": "Certara",
    "org": "garysieling",
    "location": null
   },
   "justworks|hullo|": {
    "first_seen": "2026-11-15T10:29:42+00:00",
-   "last_seen": "2026-11-15T10:29:42+00:00",
+   "last_seen": "2026-11-15T12:05:31+00:00",
    "title": "Justworks",
    "org": "hullo",
    "location": null
   },
   "rapiscan systems and its parent company osi are hiring for service techs.|rsamtravis|": {
    "first_seen": "2026-11-15T10:29:42+00:00",
-   "last_seen": "2026-11-15T10:29:42+00:00",
+   "last_seen": "2026-11-15T12:05:31+00:00",
    "title": "Rapiscan Systems and its parent company OSI are hiring for service techs.",
    "org": "rsamtravis",
    "location": null
   },
   "mechanize|cactusblue|": {
    "first_seen": "2026-11-15T10:29:42+00:00",
-   "last_seen": "2026-11-15T10:29:42+00:00",
+   "last_seen": "2026-11-15T12:05:31+00:00",
    "title": "Mechanize",
    "org": "CactusBlue",
    "location": null
   },
   "telescope partners|mikeihbe|": {
    "first_seen": "2026-11-15T10:29:42+00:00",
-   "last_seen": "2026-11-15T10:29:42+00:00",
+   "last_seen": "2026-11-15T12:05:31+00:00",
    "title": "Telescope Partners",
    "org": "mikeihbe",
    "location": null
   },
   "govstar|govstar|": {
    "first_seen": "2026-11-15T10:29:42+00:00",
-   "last_seen": "2026-11-15T10:29:42+00:00",
+   "last_seen": "2026-11-15T12:05:31+00:00",
    "title": "GovStar",
    "org": "GOVSTAR",
    "location": null
   },
   "hatch|polansky|": {
    "first_seen": "2026-11-15T10:29:42+00:00",
-   "last_seen": "2026-11-15T10:29:42+00:00",
+   "last_seen": "2026-11-15T12:05:31+00:00",
    "title": "Hatch",
    "org": "polansky",
    "location": null
   },
   "america first policy institute - office for fiscal and regulatory analysis|gwbrooks|": {
    "first_seen": "2026-11-15T10:29:42+00:00",
-   "last_seen": "2026-11-15T10:29:42+00:00",
+   "last_seen": "2026-11-15T12:05:31+00:00",
    "title": "America First Policy Institute - Office for Fiscal and Regulatory Analysis",
    "org": "gwbrooks",
    "location": null
   },
   "sendery ( https://sendery.co )|ncaroyannis|": {
    "first_seen": "2026-11-15T10:29:42+00:00",
-   "last_seen": "2026-11-15T10:29:42+00:00",
+   "last_seen": "2026-11-15T12:05:31+00:00",
    "title": "Sendery ( https://sendery.co )",
    "org": "ncaroyannis",
    "location": null
   },
   "spade|nycmatty|": {
    "first_seen": "2026-11-15T10:29:42+00:00",
-   "last_seen": "2026-11-15T10:29:42+00:00",
+   "last_seen": "2026-11-15T12:05:31+00:00",
    "title": "Spade",
    "org": "nycmatty",
    "location": null
   },
   "beacon ai|beaconai|": {
    "first_seen": "2026-11-15T10:29:42+00:00",
-   "last_seen": "2026-11-15T10:29:42+00:00",
+   "last_seen": "2026-11-15T12:05:31+00:00",
    "title": "Beacon AI",
    "org": "beaconai",
    "location": null
   },
   "baserow ( https://baserow.io )|bram2w|": {
    "first_seen": "2026-11-15T10:29:42+00:00",
-   "last_seen": "2026-11-15T10:29:42+00:00",
+   "last_seen": "2026-11-15T12:05:31+00:00",
    "title": "Baserow ( https://baserow.io )",
    "org": "bram2w",
    "location": null
   },
   "railway|kollmar28|": {
    "first_seen": "2026-11-15T10:29:42+00:00",
-   "last_seen": "2026-11-15T10:29:42+00:00",
+   "last_seen": "2026-11-15T12:05:31+00:00",
    "title": "Railway",
    "org": "kollmar28",
    "location": null
   },
   "meta|spoofyroot|": {
    "first_seen": "2026-11-15T10:29:42+00:00",
-   "last_seen": "2026-11-15T10:29:42+00:00",
+   "last_seen": "2026-11-15T12:05:31+00:00",
    "title": "Meta",
    "org": "spoofyroot",
    "location": null
   },
   "silkline|bshul-silkline1|": {
    "first_seen": "2026-11-15T10:29:42+00:00",
-   "last_seen": "2026-11-15T10:29:42+00:00",
+   "last_seen": "2026-11-15T12:05:31+00:00",
    "title": "Silkline",
    "org": "bshul-silkline1",
    "location": null
   },
   "yeet|r3tr0|": {
    "first_seen": "2026-11-15T10:29:42+00:00",
-   "last_seen": "2026-11-15T10:29:42+00:00",
+   "last_seen": "2026-11-15T12:05:31+00:00",
    "title": "yeet",
    "org": "r3tr0",
    "location": null
   },
   "fusionauth|mooreds|": {
    "first_seen": "2026-11-15T10:29:42+00:00",
-   "last_seen": "2026-11-15T10:29:42+00:00",
+   "last_seen": "2026-11-15T12:05:31+00:00",
    "title": "FusionAuth",
    "org": "mooreds",
    "location": null
   },
   "location: huntington beach, ca, usa remote: yes willing to relocate: no technologies: c#/.net, typescript, rea|jandekkers|": {
    "first_seen": "2026-11-15T10:29:42+00:00",
-   "last_seen": "2026-11-15T10:29:42+00:00",
+   "last_seen": "2026-11-15T12:05:31+00:00",
    "title": "Location: Huntington Beach, CA, USA Remote: Yes Willing to relocate: No Technologies: C#/.NET, TypeScript, Rea",
    "org": "jandekkers",
    "location": null

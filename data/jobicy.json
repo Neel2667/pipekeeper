@@ -3,7 +3,7 @@
  "name": "Jobicy \u2014 remote jobs",
  "category": "jobs",
  "source": "https://jobicy.com/api/v2/remote-jobs",
- "collected_at": "2026-11-15T10:22:48+00:00",
+ "collected_at": "2026-11-15T12:05:29+00:00",
  "jobs_on_board": 50,
  "new_this_run": 0,
  "total_tracked": 50,
@@ -424,355 +424,360 @@
    "at": "2026-11-15T10:22:48+00:00",
    "jobs": 50,
    "new": 0
+  },
+  {
+   "at": "2026-11-15T12:05:29+00:00",
+   "jobs": 50,
+   "new": 0
   }
  ],
  "jobs_seen": {
   "facility security officer|cribl|usa": {
    "first_seen": "2026-11-15T10:13:35+00:00",
-   "last_seen": "2026-11-15T10:22:48+00:00",
+   "last_seen": "2026-11-15T12:05:29+00:00",
    "title": "Facility Security Officer",
    "org": "Cribl",
    "location": "USA"
   },
   "principal software engineer - xtm one|filigran|france, germany, italy, portugal, spain, uk": {
    "first_seen": "2026-11-15T10:13:35+00:00",
-   "last_seen": "2026-11-15T10:22:48+00:00",
+   "last_seen": "2026-11-15T12:05:29+00:00",
    "title": "Principal Software Engineer - XTM One",
    "org": "Filigran",
    "location": "France, Germany, Italy, Portugal, Spain, UK"
   },
   "board certified assistant behavior analyst (bcaba) sign on bonus!|above and beyond therapy|usa": {
    "first_seen": "2026-11-15T10:13:35+00:00",
-   "last_seen": "2026-11-15T10:22:48+00:00",
+   "last_seen": "2026-11-15T12:05:29+00:00",
    "title": "Board Certified Assistant Behavior Analyst (BCABA) Sign on Bonus!",
    "org": "Above and Beyond Therapy",
    "location": "USA"
   },
   "customer support manager|mercury|usa": {
    "first_seen": "2026-11-15T10:13:35+00:00",
-   "last_seen": "2026-11-15T10:22:48+00:00",
+   "last_seen": "2026-11-15T12:05:29+00:00",
    "title": "Customer Support Manager",
    "org": "Mercury",
    "location": "USA"
   },
   "federal climate policy director|pacific environment|usa": {
    "first_seen": "2026-11-15T10:13:35+00:00",
-   "last_seen": "2026-11-15T10:22:48+00:00",
+   "last_seen": "2026-11-15T12:05:29+00:00",
    "title": "Federal Climate Policy Director",
    "org": "Pacific Environment",
    "location": "USA"
   },
   "coveware - incident response director (remote: west coast / pacific time)|veeam software|usa": {
    "first_seen": "2026-11-15T10:13:35+00:00",
-   "last_seen": "2026-11-15T10:22:48+00:00",
+   "last_seen": "2026-11-15T12:05:29+00:00",
    "title": "Coveware - Incident response Director (Remote: West Coast / Pacific Time)",
    "org": "Veeam Software",
    "location": "USA"
   },
   "customer support manager|cribl|usa": {
    "first_seen": "2026-11-15T10:13:35+00:00",
-   "last_seen": "2026-11-15T10:22:48+00:00",
+   "last_seen": "2026-11-15T12:05:29+00:00",
    "title": "Customer Support Manager",
    "org": "Cribl",
    "location": "USA"
   },
   "account executive - na|filigran|canada, usa": {
    "first_seen": "2026-11-15T10:13:35+00:00",
-   "last_seen": "2026-11-15T10:22:48+00:00",
+   "last_seen": "2026-11-15T12:05:29+00:00",
    "title": "Account Executive - NA",
    "org": "Filigran",
    "location": "Canada, USA"
   },
   "bcba - clinical assessor|above and beyond therapy|usa": {
    "first_seen": "2026-11-15T10:13:35+00:00",
-   "last_seen": "2026-11-15T10:22:48+00:00",
+   "last_seen": "2026-11-15T12:05:29+00:00",
    "title": "BCBA - Clinical Assessor",
    "org": "Above and Beyond Therapy",
    "location": "USA"
   },
   "corporate development lead|mercury|canada, usa": {
    "first_seen": "2026-11-15T10:13:35+00:00",
-   "last_seen": "2026-11-15T10:22:48+00:00",
+   "last_seen": "2026-11-15T12:05:29+00:00",
    "title": "Corporate Development Lead",
    "org": "Mercury",
    "location": "Canada, USA"
   },
   "strategic alliance director|actian|usa": {
    "first_seen": "2026-11-15T10:13:35+00:00",
-   "last_seen": "2026-11-15T10:22:48+00:00",
+   "last_seen": "2026-11-15T12:05:29+00:00",
    "title": "Strategic Alliance Director",
    "org": "Actian",
    "location": "USA"
   },
   "head of data science|paddle|ireland, portugal, uk": {
    "first_seen": "2026-11-15T10:13:35+00:00",
-   "last_seen": "2026-11-15T10:22:48+00:00",
+   "last_seen": "2026-11-15T12:05:29+00:00",
    "title": "Head of Data Science",
    "org": "Paddle",
    "location": "Ireland, Portugal, UK"
   },
   "senior account executive|paddle|usa": {
    "first_seen": "2026-11-15T10:13:35+00:00",
-   "last_seen": "2026-11-15T10:22:48+00:00",
+   "last_seen": "2026-11-15T12:05:29+00:00",
    "title": "Senior Account Executive",
    "org": "Paddle",
    "location": "USA"
   },
   "mid-market account executive, new business (api/cpaas)|vonage|usa": {
    "first_seen": "2026-11-15T10:13:35+00:00",
-   "last_seen": "2026-11-15T10:22:48+00:00",
+   "last_seen": "2026-11-15T12:05:29+00:00",
    "title": "Mid-Market Account Executive, New Business (API/CPaaS)",
    "org": "Vonage",
    "location": "USA"
   },
   "senior analytics engineer|paddle|ireland, portugal, uk": {
    "first_seen": "2026-11-15T10:13:35+00:00",
-   "last_seen": "2026-11-15T10:22:48+00:00",
+   "last_seen": "2026-11-15T12:05:29+00:00",
    "title": "Senior Analytics Engineer",
    "org": "Paddle",
    "location": "Ireland, Portugal, UK"
   },
   "enterprise account director, new business (api/cpaas)|vonage|usa": {
    "first_seen": "2026-11-15T10:13:35+00:00",
-   "last_seen": "2026-11-15T10:22:48+00:00",
+   "last_seen": "2026-11-15T12:05:29+00:00",
    "title": "Enterprise Account Director, New Business (API/CPaaS)",
    "org": "Vonage",
    "location": "USA"
   },
   "executive assistant to the ceo|supabase|apac": {
    "first_seen": "2026-11-15T10:13:35+00:00",
-   "last_seen": "2026-11-15T10:22:48+00:00",
+   "last_seen": "2026-11-15T12:05:29+00:00",
    "title": "Executive Assistant to the CEO",
    "org": "Supabase",
    "location": "APAC"
   },
   "site reliability engineer|supabase|anywhere": {
    "first_seen": "2026-11-15T10:13:35+00:00",
-   "last_seen": "2026-11-15T10:22:48+00:00",
+   "last_seen": "2026-11-15T12:05:29+00:00",
    "title": "Site Reliability Engineer",
    "org": "Supabase",
    "location": "Anywhere"
   },
   "platform engineer, managed postgres|supabase|anywhere": {
    "first_seen": "2026-11-15T10:13:35+00:00",
-   "last_seen": "2026-11-15T10:22:48+00:00",
+   "last_seen": "2026-11-15T12:05:29+00:00",
    "title": "Platform Engineer, Managed Postgres",
    "org": "Supabase",
    "location": "Anywhere"
   },
   "ai platform engineer|supabase|anywhere": {
    "first_seen": "2026-11-15T10:13:35+00:00",
-   "last_seen": "2026-11-15T10:22:48+00:00",
+   "last_seen": "2026-11-15T12:05:29+00:00",
    "title": "AI Platform Engineer",
    "org": "Supabase",
    "location": "Anywhere"
   },
   "community engagement lead (brightlife kids - sf bay area)|brightline|usa": {
    "first_seen": "2026-11-15T10:13:35+00:00",
-   "last_seen": "2026-11-15T10:22:48+00:00",
+   "last_seen": "2026-11-15T12:05:29+00:00",
    "title": "Community Engagement Lead (BrightLife Kids - SF Bay Area)",
    "org": "Brightline",
    "location": "USA"
   },
   "solutions architect f/m/d|apaleo|france": {
    "first_seen": "2026-11-15T10:13:35+00:00",
-   "last_seen": "2026-11-15T10:22:48+00:00",
+   "last_seen": "2026-11-15T12:05:29+00:00",
    "title": "Solutions Architect f/m/d",
    "org": "Apaleo",
    "location": "France"
   },
   "senior people solutions analyst|collibra|poland": {
    "first_seen": "2026-11-15T10:13:35+00:00",
-   "last_seen": "2026-11-15T10:22:48+00:00",
+   "last_seen": "2026-11-15T12:05:29+00:00",
    "title": "Senior People Solutions Analyst",
    "org": "Collibra",
    "location": "Poland"
   },
   "principal gsi partner manager - accenture (emea)|datadog|uk": {
    "first_seen": "2026-11-15T10:13:35+00:00",
-   "last_seen": "2026-11-15T10:22:48+00:00",
+   "last_seen": "2026-11-15T12:05:29+00:00",
    "title": "Principal GSI Partner Manager - Accenture (EMEA)",
    "org": "Datadog",
    "location": "UK"
   },
   "junior software engineer|policyme|canada": {
    "first_seen": "2026-11-15T10:13:35+00:00",
-   "last_seen": "2026-11-15T10:22:48+00:00",
+   "last_seen": "2026-11-15T12:05:29+00:00",
    "title": "Junior Software Engineer",
    "org": "PolicyMe",
    "location": "Canada"
   },
   "customer success specialist|policyme|canada": {
    "first_seen": "2026-11-15T10:13:35+00:00",
-   "last_seen": "2026-11-15T10:22:48+00:00",
+   "last_seen": "2026-11-15T12:05:29+00:00",
    "title": "Customer Success Specialist",
    "org": "PolicyMe",
    "location": "Canada"
   },
   "principal customer success manager - pharma|h1|usa": {
    "first_seen": "2026-11-15T10:13:35+00:00",
-   "last_seen": "2026-11-15T10:22:48+00:00",
+   "last_seen": "2026-11-15T12:05:29+00:00",
    "title": "Principal Customer Success Manager - Pharma",
    "org": "H1",
    "location": "USA"
   },
   "systems engineer belgium & luxembourg|veeam software|belgium": {
    "first_seen": "2026-11-15T10:13:35+00:00",
-   "last_seen": "2026-11-15T10:22:48+00:00",
+   "last_seen": "2026-11-15T12:05:29+00:00",
    "title": "Systems Engineer Belgium & Luxembourg",
    "org": "Veeam Software",
    "location": "Belgium"
   },
   "business operations manager|motive|usa": {
    "first_seen": "2026-11-15T10:13:35+00:00",
-   "last_seen": "2026-11-15T10:22:48+00:00",
+   "last_seen": "2026-11-15T12:05:29+00:00",
    "title": "Business Operations Manager",
    "org": "Motive",
    "location": "USA"
   },
   "sales engineer - data & ai security|veeam software|spain": {
    "first_seen": "2026-11-15T10:13:35+00:00",
-   "last_seen": "2026-11-15T10:22:48+00:00",
+   "last_seen": "2026-11-15T12:05:29+00:00",
    "title": "Sales Engineer - Data & AI Security",
    "org": "Veeam Software",
    "location": "Spain"
   },
   "solutions engineer, veeam data cloud vault|veeam software|france": {
    "first_seen": "2026-11-15T10:13:35+00:00",
-   "last_seen": "2026-11-15T10:22:48+00:00",
+   "last_seen": "2026-11-15T12:05:29+00:00",
    "title": "Solutions Engineer, Veeam Data Cloud Vault",
    "org": "Veeam Software",
    "location": "France"
   },
   "senior counsel, emea employment|veeam software|uk": {
    "first_seen": "2026-11-15T10:13:35+00:00",
-   "last_seen": "2026-11-15T10:22:48+00:00",
+   "last_seen": "2026-11-15T12:05:29+00:00",
    "title": "Senior Counsel, EMEA Employment",
    "org": "Veeam Software",
    "location": "UK"
   },
   "senior account executive, enterprise (private accounts)|veeam software|germany": {
    "first_seen": "2026-11-15T10:13:35+00:00",
-   "last_seen": "2026-11-15T10:22:48+00:00",
+   "last_seen": "2026-11-15T12:05:29+00:00",
    "title": "Senior Account Executive, Enterprise (Private Accounts)",
    "org": "Veeam Software",
    "location": "Germany"
   },
   "senior field marketing manager|fleetio|usa": {
    "first_seen": "2026-11-15T10:13:35+00:00",
-   "last_seen": "2026-11-15T10:22:48+00:00",
+   "last_seen": "2026-11-15T12:05:29+00:00",
    "title": "Senior Field Marketing Manager",
    "org": "Fleetio",
    "location": "USA"
   },
   "technical account manager|veeam software|france": {
    "first_seen": "2026-11-15T10:13:35+00:00",
-   "last_seen": "2026-11-15T10:22:48+00:00",
+   "last_seen": "2026-11-15T12:05:29+00:00",
    "title": "Technical Account Manager",
    "org": "Veeam Software",
    "location": "France"
   },
   "senior director, brand marketing|fleetio|usa": {
    "first_seen": "2026-11-15T10:13:35+00:00",
-   "last_seen": "2026-11-15T10:22:48+00:00",
+   "last_seen": "2026-11-15T12:05:29+00:00",
    "title": "Senior Director, Brand Marketing",
    "org": "Fleetio",
    "location": "USA"
   },
   "administrative officer / legal administrative officer - financial services|axiom|apac, hong kong": {
    "first_seen": "2026-11-15T10:13:35+00:00",
-   "last_seen": "2026-11-15T10:22:48+00:00",
+   "last_seen": "2026-11-15T12:05:29+00:00",
    "title": "Administrative Officer / Legal Administrative Officer - Financial Services",
    "org": "Axiom",
    "location": "APAC, Hong Kong"
   },
   "senior demand generation manager - international|tremendous|ireland, portugal, uk": {
    "first_seen": "2026-11-15T10:13:35+00:00",
-   "last_seen": "2026-11-15T10:22:48+00:00",
+   "last_seen": "2026-11-15T12:05:29+00:00",
    "title": "Senior Demand Generation Manager - International",
    "org": "Tremendous",
    "location": "Ireland, Portugal, UK"
   },
   "senior platform engineer|fleetio|usa": {
    "first_seen": "2026-11-15T10:13:35+00:00",
-   "last_seen": "2026-11-15T10:22:48+00:00",
+   "last_seen": "2026-11-15T12:05:29+00:00",
    "title": "Senior Platform Engineer",
    "org": "Fleetio",
    "location": "USA"
   },
   "partner development manager|fleetio|usa": {
    "first_seen": "2026-11-15T10:13:35+00:00",
-   "last_seen": "2026-11-15T10:22:48+00:00",
+   "last_seen": "2026-11-15T12:05:29+00:00",
    "title": "Partner Development Manager",
    "org": "Fleetio",
    "location": "USA"
   },
   "director, corporate counsel|betterhelp|usa": {
    "first_seen": "2026-11-15T10:13:35+00:00",
-   "last_seen": "2026-11-15T10:22:48+00:00",
+   "last_seen": "2026-11-15T12:05:29+00:00",
    "title": "Director, Corporate Counsel",
    "org": "BetterHelp",
    "location": "USA"
   },
   "senior forward deployed engineer|fleetio|canada, mexico, usa": {
    "first_seen": "2026-11-15T10:13:35+00:00",
-   "last_seen": "2026-11-15T10:22:48+00:00",
+   "last_seen": "2026-11-15T12:05:29+00:00",
    "title": "Senior Forward Deployed Engineer",
    "org": "Fleetio",
    "location": "Canada, Mexico, USA"
   },
   "director, global solutions engineering|upguard|australia": {
    "first_seen": "2026-11-15T10:13:35+00:00",
-   "last_seen": "2026-11-15T10:22:48+00:00",
+   "last_seen": "2026-11-15T12:05:29+00:00",
    "title": "Director, Global Solutions Engineering",
    "org": "UpGuard",
    "location": "Australia"
   },
   "health coach manager|future plc|usa": {
    "first_seen": "2026-11-15T10:13:35+00:00",
-   "last_seen": "2026-11-15T10:22:48+00:00",
+   "last_seen": "2026-11-15T12:05:29+00:00",
    "title": "Health Coach Manager",
    "org": "Future PLC",
    "location": "USA"
   },
   "navy account executive - public sector|unstructured technologies inc.|usa": {
    "first_seen": "2026-11-15T10:13:35+00:00",
-   "last_seen": "2026-11-15T10:22:48+00:00",
+   "last_seen": "2026-11-15T12:05:29+00:00",
    "title": "Navy Account Executive - Public Sector",
    "org": "Unstructured Technologies Inc.",
    "location": "USA"
   },
   "director, strategic engagements (northeast)|xenon pharmaceuticals inc.|usa": {
    "first_seen": "2026-11-15T10:13:35+00:00",
-   "last_seen": "2026-11-15T10:22:48+00:00",
+   "last_seen": "2026-11-15T12:05:29+00:00",
    "title": "Director, Strategic Engagements (Northeast)",
    "org": "Xenon Pharmaceuticals Inc.",
    "location": "USA"
   },
   "city manager, new york|flex|usa": {
    "first_seen": "2026-11-15T10:13:35+00:00",
-   "last_seen": "2026-11-15T10:22:48+00:00",
+   "last_seen": "2026-11-15T12:05:29+00:00",
    "title": "City Manager, New York",
    "org": "Flex",
    "location": "USA"
   },
   "manager, paid search|quince|usa": {
    "first_seen": "2026-11-15T10:13:35+00:00",
-   "last_seen": "2026-11-15T10:22:48+00:00",
+   "last_seen": "2026-11-15T12:05:29+00:00",
    "title": "Manager, Paid Search",
    "org": "Quince",
    "location": "USA"
   },
   "director, observability architects (americas) | usa | remote|grafana labs|usa": {
    "first_seen": "2026-11-15T10:13:35+00:00",
-   "last_seen": "2026-11-15T10:22:48+00:00",
+   "last_seen": "2026-11-15T12:05:29+00:00",
    "title": "Director, Observability Architects (Americas) | USA | Remote",
    "org": "Grafana Labs",
    "location": "USA"
   },
   "part-time mcat tutor|inspira education|canada, usa": {
    "first_seen": "2026-11-15T10:13:35+00:00",
-   "last_seen": "2026-11-15T10:22:48+00:00",
+   "last_seen": "2026-11-15T12:05:29+00:00",
    "title": "Part-Time MCAT Tutor",
    "org": "Inspira Education",
    "location": "Canada, USA"
