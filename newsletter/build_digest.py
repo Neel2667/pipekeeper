@@ -150,7 +150,7 @@ def send_mailerlite(html, subject):
         "name": f"PipeKeeper Weekly {subject.split('—')[-1].strip()}",
         "subject": subject,
         "from_name": "PipeKeeper",
-        "reply_to": os.environ.get("NEWSLETTER_FROM", "hello@pipekeeper.dev"),
+        "reply_to": os.environ.get("NEWSLETTER_FROM", "hello@pipekeeper.eu.org"),
         "groups": [group] if group else [],
         "content": {"type": "html", "value": html},
     })

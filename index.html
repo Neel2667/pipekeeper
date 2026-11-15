@@ -496,7 +496,7 @@ footer a{color:var(--dim)}footer a:hover{color:var(--acc-t)}
     <h2 class="reveal">A 5-day paid pilot.<br><em>Real data, or you don't pay.</em></h2>
     <p class="lede reveal" style="text-align:center">We connect one source of your choice, deliver cleaned data for five days, and hand you the health reports. If it isn't exactly what we promised — the pilot is free.</p>
     <div class="hero-cta reveal">
-      <a class="btn btn-primary" href="mailto:hello@pipekeeper.dev?subject=PipeKeeper%20pilot" style="padding:16px 30px;font-size:1rem">Start a pilot →</a>
+      <a class="btn btn-primary" href="mailto:hello@pipekeeper.eu.org?subject=PipeKeeper%20pilot" style="padding:16px 30px;font-size:1rem">Start a pilot →</a>
       <a class="btn btn-ghost" href="#feed" style="padding:16px 30px;font-size:1rem">See the data first</a>
     </div>
     <p class="news-note reveal" style="margin-top:18px;text-align:center">We accept <b style="color:var(--dim)">UPI · PayPal · Wise · bank transfer</b> — whichever is easiest for you.</p>
@@ -641,7 +641,7 @@ function subGo(e){
       .then(()=>{note.textContent="You're in — first issue lands Monday 09:00 UTC. Check your inbox."; e.target.reset();})
       .catch(()=>{note.textContent="Almost — open "+ML_FORM_URL+" and submit there while we fix the wiring.";});
   }else{
-    window.location.href = "mailto:hello@pipekeeper.dev?subject=Subscribe%20to%20PipeKeeper%20Weekly&body=Subscribe%20me:%20"+encodeURIComponent(email);
+    window.location.href = "mailto:hello@pipekeeper.eu.org?subject=Subscribe%20to%20PipeKeeper%20Weekly&body=Subscribe%20me:%20"+encodeURIComponent(email);
     note.textContent="Your mail app just opened — hit send and you're subscribed. (Connect MailerLite to automate this.)";
   }
   return false;
