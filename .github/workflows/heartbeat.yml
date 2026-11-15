@@ -1,0 +1,32 @@
+name: heartbeat
+
+# Runs every hour, forever, on GitHub's machines.
+# Proves the always-on schedule works. The real collectors plug into this pattern.
+
+on:
+  schedule:
+    - cron: "0 * * * *" # top of every hour
+  workflow_dispatch: {} # manual trigger for testing
+
+permissions:
+  contents: write
+
+jobs:
+  heartbeat:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Record heartbeat
+        run: |
+          TS=$(date -u +"%Y-%m-%d %H:%M:%S UTC")
+          echo "{\"timestamp\": \"$TS\", \"status\": \"alive\", \"runner\": \"github-actions\"}" > data/heartbeat.json
+          echo "PipeKeeper heartbeat at $TS — system alive"
+
+      - name: Commit fresh status
+        run: |
+          git config user.name "pipekeeper-bot"
+          git config user.email "actions@pipekeeper.local"
+          git add data/heartbeat.json
+          git diff --cached --quiet || git commit -m "heartbeat: $(date -u +"%Y-%m-%d %H:%M")"
+          git push
