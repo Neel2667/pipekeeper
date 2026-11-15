@@ -530,7 +530,7 @@ async function selectFeed(id){
   document.querySelectorAll(".fcard").forEach(c=>c.classList.toggle("active",c.dataset.f===id));
   document.getElementById("rows").innerHTML=`<tr><td colspan="5" style="color:var(--faint)">loading ${esc(id)}…</td></tr>`;
   try{
-    FEEDDATA=await (await fetch(RAW+"data/"+id+".json?t="+Date.now())).json();
+    FEEDDATA=await (await fetch(RAW+id+".json?t="+Date.now())).json();
     document.getElementById("feed-label").textContent=FEEDDATA.name||id;
     renderRows(FEEDDATA);renderSpark(FEEDDATA);
   }catch(e){
@@ -555,7 +555,7 @@ function animCount(id,target){
 }
 async function loadAll(){
   try{
-    FEEDDATA=await (await fetch(RAW+"data/"+ACTIVE+".json?t="+Date.now())).json();
+    FEEDDATA=await (await fetch(RAW+ACTIVE+".json?t="+Date.now())).json();
     document.getElementById("feed-label").textContent=FEEDDATA.name||ACTIVE;
     renderDash(FEEDDATA);renderTicker(FEEDDATA);renderRows(FEEDDATA);renderSpark(FEEDDATA);
   }catch(e){console.log("feed pending first cloud run")}
