@@ -18,6 +18,10 @@ if not story:
 comments = fetch_json(BASE + f"/search_by_date?tags=comment,story_{story['story_id']}&hitsPerPage=250")
 jobs = []
 for c in comments.get("hits", []):
+    # structural filter: only TOP-LEVEL comments are company posts; replies
+    # (to applicants or other companies) have a parent_id != the story id
+    if str(c.get("parent_id")) != str(story["story_id"]):
+        continue
     text = strip_html(c.get("comment_text") or "", limit=160)
     if not text:
         continue
