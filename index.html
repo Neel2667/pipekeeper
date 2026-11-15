@@ -183,8 +183,29 @@ tbody tr:last-child td{border-bottom:none}
 .feed-bot a{color:var(--dim);text-decoration:underline;text-underline-offset:3px}
 .feed-bot a:hover{color:var(--acc-t)}
 
-/* fleet grid */
-.fleet{display:grid;grid-template-columns:repeat(auto-fill,minmax(255px,1fr));gap:14px}
+/* newsletter */
+.news{border-top:1px solid var(--line);border-bottom:1px solid var(--line);background:linear-gradient(180deg,#FBFCF7,#F7F8F3)}
+.news-in{display:grid;grid-template-columns:1.1fr .9fr;gap:56px;align-items:center;padding:96px 0}
+@media(max-width:860px){.news-in{grid-template-columns:1fr;gap:40px}}
+.news h2{font-size:clamp(2rem,3.4vw,2.8rem)}
+.news-form{display:flex;gap:10px;margin-top:26px}
+.news-form input{flex:1;min-width:0;border:1px solid var(--line2);border-radius:12px;padding:14px 16px;
+  font:400 .95rem/1 var(--sans);background:#fff;color:var(--ink);outline:none;transition:border-color .2s,box-shadow .2s}
+.news-form input:focus{border-color:rgba(140,180,10,.55);box-shadow:0 0 0 3px rgba(190,225,45,.25)}
+.news-note{color:var(--faint);font:400 .76rem/1.6 var(--mono);margin-top:14px}
+.news-issue{display:inline-flex;align-items:center;gap:8px;margin-top:10px;color:var(--dim);font:500 .82rem/1 var(--sans);
+  border:1px solid var(--line);border-radius:10px;padding:9px 14px;background:#fff;transition:.2s}
+.news-issue:hover{border-color:rgba(140,180,10,.4);color:var(--acc-t)}
+.news-sample{background:var(--card);border:1px solid var(--line);border-radius:18px;padding:26px;
+  box-shadow:0 24px 60px -30px rgba(30,40,70,.25);font-family:Georgia,serif}
+.news-sample .k{font:700 11px/1 var(--mono);letter-spacing:.18em;color:var(--acc-t)}
+.news-sample .h{font-size:1.5rem;margin:12px 0 6px;letter-spacing:-.01em}
+.news-sample .s{color:var(--dim);font-size:.8rem;font-family:var(--sans)}
+.news-sample ul{list-style:none;margin-top:16px;display:grid;gap:9px}
+.news-sample li{font-size:.9rem;color:#333a45;display:flex;justify-content:space-between;gap:12px;border-bottom:1px solid var(--line);padding-bottom:9px}
+.news-sample li .d{color:var(--faint);font-family:var(--mono);font-size:.72rem;white-space:nowrap}
+
+/* fleet grid */.fleet{display:grid;grid-template-columns:repeat(auto-fill,minmax(255px,1fr));gap:14px}
 .fcard{position:relative;background:var(--card);border:1px solid var(--line);border-radius:16px;
   padding:18px 20px 16px;cursor:pointer;transition:border-color .2s,transform .2s,background .2s;overflow:hidden}
 .fcard:hover{border-color:rgba(140,180,10,.4);transform:translateY(-3px)}
@@ -261,6 +282,7 @@ footer a{color:var(--dim)}footer a:hover{color:var(--acc-t)}
       <a href="#feed">Live data</a>
       <a href="#services">Services</a>
       <a href="#how">Method</a>
+      <a href="#newsletter">Newsletter</a>
     </div>
     <a class="btn btn-primary nav-cta" href="#contact">Start a pilot</a>
   </div>
@@ -366,6 +388,34 @@ footer a{color:var(--dim)}footer a:hover{color:var(--acc-t)}
   </div>
 </section>
 
+<section id="newsletter" class="news">
+  <div class="wrap news-in">
+    <div>
+      <div class="kicker reveal">PipeKeeper Weekly · free forever</div>
+      <h2 class="reveal">One email, every Monday.<br><em>Fifteen feeds of market truth.</em></h2>
+      <p class="sec-sub reveal" style="margin-top:14px">New jobs, new funding rounds, new federal contracts, new recalls — everything the pipeline caught this week, in one five-minute read. Generated from the live data, not from anyone's opinion. No spam, no data sharing, unsubscribe by replying.</p>
+      <form class="news-form reveal" id="sub-form" target="_blank" rel="noopener" method="post" onsubmit="return subGo(event)">
+        <input type="email" name="email" placeholder="you@agency.com" required aria-label="Email address">
+        <button class="btn btn-primary" type="submit" style="white-space:nowrap">Subscribe free</button>
+      </form>
+      <div class="news-note reveal" id="sub-note">We'll never share your address. First issue lands Monday 09:00 UTC.</div>
+      <a class="news-issue reveal" href="https://neel2667.github.io/pipekeeper/data/digest_preview.html" target="_blank" rel="noopener">📰 Read the latest issue</a>
+    </div>
+    <div class="news-sample reveal" aria-hidden="true">
+      <div class="k">PIPEKEEPER WEEKLY</div>
+      <div class="h">15 feeds. One week of market truth.</div>
+      <div class="s">Week of Nov 15 · 15/15 feeds green · +3,229 new records</div>
+      <ul>
+        <li><span>Bridge33 raised (SEC Form D)</span><span class="d">funding</span></li>
+        <li><span>Account Executive, AI Native — Anthropic</span><span class="d">hiring</span></li>
+        <li><span>RN - CVPICU · Columbus, OH — $4,411/wk</span><span class="d">jobs</span></li>
+        <li><span>Contract $34.8M — DHS · NORESCO</span><span class="d">federal</span></li>
+        <li><span>Clear Aligner System 510(k) cleared</span><span class="d">medtech</span></li>
+      </ul>
+    </div>
+  </div>
+</section>
+
 <section id="services">
   <div class="wrap">
     <div class="kicker reveal">Two ways to work with us</div>
@@ -449,6 +499,7 @@ footer a{color:var(--dim)}footer a:hover{color:var(--acc-t)}
       <a class="btn btn-primary" href="mailto:hello@pipekeeper.dev?subject=PipeKeeper%20pilot" style="padding:16px 30px;font-size:1rem">Start a pilot →</a>
       <a class="btn btn-ghost" href="#feed" style="padding:16px 30px;font-size:1rem">See the data first</a>
     </div>
+    <p class="news-note reveal" style="margin-top:18px;text-align:center">We accept <b style="color:var(--dim)">UPI · PayPal · Wise · bank transfer</b> — whichever is easiest for you.</p>
   </div>
 </section>
 
@@ -575,6 +626,26 @@ document.getElementById("fleet").addEventListener("click",e=>{
 });
 setInterval(()=>{if(FEEDDATA){renderDash(FEEDDATA);}},30000);
 loadAll();
+
+/* ---------- newsletter signup ---------- */
+// Paste your MailerLite embedded-form action URL here, e.g.
+// https://assets.mailerlite.com/json/forms/1234567890 (Mail → Forms → Embedded HTML)
+const ML_FORM_URL = "";
+
+function subGo(e){
+  e.preventDefault();
+  const email = new FormData(e.target).get("email");
+  const note = document.getElementById("sub-note");
+  if(ML_FORM_URL){
+    fetch(ML_FORM_URL, {method:"POST", headers:{"Content-Type":"application/json"}, body:JSON.stringify({email})})
+      .then(()=>{note.textContent="You're in — first issue lands Monday 09:00 UTC. Check your inbox."; e.target.reset();})
+      .catch(()=>{note.textContent="Almost — open "+ML_FORM_URL+" and submit there while we fix the wiring.";});
+  }else{
+    window.location.href = "mailto:hello@pipekeeper.dev?subject=Subscribe%20to%20PipeKeeper%20Weekly&body=Subscribe%20me:%20"+encodeURIComponent(email);
+    note.textContent="Your mail app just opened — hit send and you're subscribed. (Connect MailerLite to automate this.)";
+  }
+  return false;
+}
 
 /* ---------- motion ---------- */
 window.addEventListener("scroll",()=>{document.getElementById("nav").classList.toggle("scrolled",scrollY>30)},{passive:true});
