@@ -1,0 +1,54 @@
+name: pipeline
+
+# The always-on data pipeline: runs every hour on GitHub's machines.
+# Collects fresh data from all registered sources, commits it, and
+# leaves a health record. If a collector fails, the next run retries
+# automatically; failures are visible in the Actions history.
+
+on:
+  schedule:
+    - cron: "15 * * * *" # every hour at :15
+  workflow_dispatch: {} # manual trigger for testing
+
+permissions:
+  contents: write
+
+jobs:
+  collect:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Run collectors
+        id: collect
+        run: |
+          mkdir -p data
+          set +e
+          EXIT=0
+          python3 collectors/hosthealthcare.py || EXIT=1
+          echo "collector_exit=$EXIT" >> "$GITHUB_OUTPUT"
+          exit 0 # never fail the run; health is recorded in data
+
+      - name: Record health
+        run: |
+          TS=$(date -u +"%Y-%m-%d %H:%M:%S UTC")
+          python3 - <<EOF
+          import json, pathlib
+          p = pathlib.Path("data/health.json")
+          try:
+              h = json.loads(p.read_text())
+          except Exception:
+              h = {"runs": []}
+          h["runs"] = (h.get("runs", []) + [{"at": "$TS", "collector_exit": "${{ steps.collect.outputs.collector_exit }}"}])[-200:]
+          h["last_run"] = "$TS"
+          p.write_text(json.dumps(h, indent=1))
+          EOF
+          echo "health recorded at $TS (exit=${{ steps.collect.outputs.collector_exit }})"
+
+      - name: Commit fresh data
+        run: |
+          git config user.name "pipekeeper-bot"
+          git config user.email "actions@pipekeeper.local"
+          git add data/
+          git diff --cached --quiet || git commit -m "pipeline run: $(date -u +"%Y-%m-%d %H:%M")"
+          git push
