@@ -19,6 +19,7 @@ jobs:
 
       - name: Record heartbeat
         run: |
+          mkdir -p data
           TS=$(date -u +"%Y-%m-%d %H:%M:%S UTC")
           echo "{\"timestamp\": \"$TS\", \"status\": \"alive\", \"runner\": \"github-actions\"}" > data/heartbeat.json
           echo "PipeKeeper heartbeat at $TS — system alive"
