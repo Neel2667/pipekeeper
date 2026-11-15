@@ -579,7 +579,7 @@ const METHODOLOGY = {
 function renderMethod(d){
   const cat = d.category || (FEEDS.find(f=>f.id===d.id)||{}).category || "jobs";
   document.getElementById("fmethod-body").innerHTML =
-    `<b>${esc(d.name||d.id)}</b> — refreshed hourly · ${d.total_tracked||0} records tracked since launch · ${d.jobs_on_board||0} in the current snapshot.<br>${METHODOLOGY[cat]||METHODOLOGY.jobs}`;
+    `<b>${esc(d.name||d.id)}</b> — refreshed hourly · ${d.total_tracked||0} records tracked since launch · ${Math.min(d.jobs_on_board||0,120)} in the current snapshot.<br>${METHODOLOGY[cat]||METHODOLOGY.jobs}`;
 }
 function renderRows(d){
   const rows=(d.jobs||[]).filter(j=>FILTER==="all"||j.new_this_run);
@@ -619,7 +619,7 @@ function buildFleet(){
       <span class="dot${f.jobs_on_board?"":" bad"}"></span>
       <span class="fc">${esc(f.category)}</span>
       <div class="fn">${esc(f.name)}</div>
-      <div class="fm"><span><b>${f.jobs_on_board}</b> latest · <b>${f.new_this_run}</b> new</span><span>${ago(f.collected_at)}</span></div>
+      <div class="fm"><span><b>${Math.min(f.jobs_on_board||0,120)}</b> latest · <b>${f.new_this_run}</b> new</span><span>${ago(f.collected_at)}</span></div>
     </div>`).join("");
 }
 async function selectFeed(id){
