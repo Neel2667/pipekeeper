@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-15T10:18:05+00:00",
+ "generated_at": "2026-11-15T10:22:30+00:00",
  "feeds": [
   {
    "id": "clinicaltrials",
@@ -99,6 +99,17 @@
    "new_this_run": 0,
    "total_tracked": 99,
    "runs": 2
+  },
+  {
+   "id": "openfdaenforcement",
+   "name": "openFDA \u2014 newest recalls & enforcement actions",
+   "category": "government",
+   "source": "https://open.fda.gov/apis/food/enforcement/",
+   "collected_at": "2026-11-15T10:22:30+00:00",
+   "jobs_on_board": 100,
+   "new_this_run": 100,
+   "total_tracked": 100,
+   "runs": 1
   },
   {
    "id": "remoteok",

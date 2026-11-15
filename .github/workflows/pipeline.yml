@@ -23,7 +23,7 @@ jobs:
         id: collect
         run: |
           mkdir -p data
-          COLLECTORS="hosthealthcare remoteok remotive weworkremotely workingnomads jobicy himalayas greenhouse hnhiring edgarformd usaspending clinicaltrials openfda510k federalregister gdelt"
+          COLLECTORS="hosthealthcare remoteok remotive weworkremotely workingnomads jobicy himalayas greenhouse hnhiring edgarformd usaspending clinicaltrials openfda510k openfdaenforcement federalregister"
           STATUS=/tmp/collector_status.txt; : > "$STATUS"
           for c in $COLLECTORS; do
             if python3 "collectors/$c.py"; then
