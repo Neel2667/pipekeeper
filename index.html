@@ -4,368 +4,589 @@
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>PipeKeeper — Data infrastructure that never sleeps</title>
-<meta name="description" content="We build and maintain self-healing data pipelines, and sell fresh niche data feeds. Collected hourly. Zero servers of ours to break.">
-<link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'%3E%3Ccircle cx='16' cy='16' r='14' fill='%230B0E14'/%3E%3Ccircle cx='16' cy='16' r='6' fill='%23D9F45C'/%3E%3C/svg%3E">
+<meta name="description" content="Self-healing data pipelines and fresh niche data feeds, collected hourly. Zero servers of ours to break.">
+<link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'%3E%3Crect width='32' height='32' rx='8' fill='%230B0D12'/%3E%3Ccircle cx='16' cy='16' r='5' fill='%23D8F35A'/%3E%3C/svg%3E">
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link href="https://fonts.googleapis.com/css2?family=Inter:opsz,wght@14..32,400;14..32,500;14..32,600&family=Instrument+Serif:ital@0;1&display=swap" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css2?family=Instrument+Serif:ital@0;1&family=Space+Grotesk:wght@400;500;600;700&family=JetBrains+Mono:wght@400;500;600&display=swap" rel="stylesheet">
+<script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/3.12.5/gsap.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/3.12.5/ScrollTrigger.min.js"></script>
 <style>
-  :root{
-    --bg:#0B0E14; --bg2:#0E1220; --card:#121722; --line:#1E2636;
-    --ink:#E9ECF2; --dim:#8B95AB; --faint:#5A6478;
-    --accent:#D9F45C; --accent-ink:#141803;
-    --mono:ui-monospace,"SF Mono",SFMono-Regular,Menlo,monospace;
-  }
-  *{box-sizing:border-box;margin:0;padding:0}
-  html{scroll-behavior:smooth}
-  body{
-    background:var(--bg); color:var(--ink);
-    font:400 16px/1.6 "Inter",system-ui,sans-serif;
-    -webkit-font-smoothing:antialiased; text-rendering:optimizeLegibility;
-  }
-  ::selection{background:var(--accent);color:var(--accent-ink)}
-  a{color:inherit;text-decoration:none}
-  .wrap{max-width:1080px;margin:0 auto;padding:0 24px}
+:root{
+  --bg:#08090C; --bg2:#0C0E14; --card:rgba(255,255,255,.028); --glass:rgba(16,19,26,.62);
+  --line:rgba(255,255,255,.07); --line2:rgba(255,255,255,.12);
+  --ink:#F2F4F8; --dim:#98A2B8; --faint:#5D6577;
+  --acc:#D8F35A; --acc2:#9BE94B; --acc-ink:#10130A;
+  --disp:"Instrument Serif",serif; --sans:"Space Grotesk",sans-serif; --mono:"JetBrains Mono",monospace;
+}
+*{box-sizing:border-box;margin:0;padding:0}
+html{scroll-behavior:smooth}
+body{background:var(--bg);color:var(--ink);font:400 16px/1.6 var(--sans);
+  -webkit-font-smoothing:antialiased;text-rendering:optimizeLegibility;overflow-x:hidden}
+::selection{background:var(--acc);color:var(--acc-ink)}
+::-webkit-scrollbar{width:10px}::-webkit-scrollbar-thumb{background:#23282f;border-radius:8px}
+::-webkit-scrollbar-track{background:var(--bg)}
+a{color:inherit;text-decoration:none}
+.wrap{max-width:1140px;margin:0 auto;padding:0 28px}
+.grain{position:fixed;inset:0;z-index:100;pointer-events:none;opacity:.05;mix-blend-mode:overlay;
+  background-image:url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='160' height='160'%3E%3Cfilter id='n'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='0.9' numOctaves='2'/%3E%3C/filter%3E%3Crect width='100%25' height='100%25' filter='url(%23n)'/%3E%3C/svg%3E")}
 
-  /* ---------- nav ---------- */
-  nav{position:sticky;top:0;z-index:50;backdrop-filter:blur(14px);
-    background:color-mix(in srgb, var(--bg) 78%, transparent);border-bottom:1px solid var(--line)}
-  .nav-in{display:flex;align-items:center;justify-content:space-between;height:64px}
-  .brand{display:flex;align-items:center;gap:10px;font-weight:600;letter-spacing:-.01em}
-  .dot{width:9px;height:9px;border-radius:50%;background:var(--accent);
-    box-shadow:0 0 0 0 rgba(217,244,92,.5);animation:pulse 2.4s infinite}
-  @keyframes pulse{0%{box-shadow:0 0 0 0 rgba(217,244,92,.45)}70%{box-shadow:0 0 0 9px rgba(217,244,92,0)}100%{box-shadow:0 0 0 0 rgba(217,244,92,0)}}
-  .nav-links{display:flex;gap:28px;font-size:.9rem;color:var(--dim)}
-  .nav-links a:hover{color:var(--ink)}
-  .btn{display:inline-flex;align-items:center;gap:8px;border-radius:10px;padding:9px 18px;
-    font-size:.9rem;font-weight:500;transition:.18s}
-  .btn-primary{background:var(--accent);color:var(--accent-ink)}
-  .btn-primary:hover{filter:brightness(1.08);transform:translateY(-1px)}
-  .btn-ghost{border:1px solid var(--line);color:var(--ink)}
-  .btn-ghost:hover{border-color:var(--faint)}
+/* ============ NAV ============ */
+nav{position:fixed;top:0;left:0;right:0;z-index:90;transition:.3s;border-bottom:1px solid transparent}
+nav.scrolled{background:rgba(8,9,12,.72);backdrop-filter:blur(18px);border-bottom-color:var(--line)}
+.nav-in{display:flex;align-items:center;justify-content:space-between;height:68px}
+.brand{display:flex;align-items:center;gap:11px;font:600 1.05rem/1 var(--sans);letter-spacing:-.01em}
+.brand-mark{width:26px;height:26px;border-radius:8px;background:linear-gradient(135deg,#1A1E27,#0E1116);
+  border:1px solid var(--line2);display:grid;place-items:center}
+.brand-mark i{width:9px;height:9px;border-radius:50%;background:var(--acc);display:block;
+  box-shadow:0 0 12px 2px rgba(216,243,90,.55);animation:pulse 2.6s infinite}
+@keyframes pulse{0%,100%{transform:scale(1);opacity:1}50%{transform:scale(.75);opacity:.7}}
+.nav-links{display:flex;gap:32px;font-size:.9rem;color:var(--dim)}
+.nav-links a{position:relative;transition:color .2s}
+.nav-links a:hover{color:var(--ink)}
+.nav-links a::after{content:"";position:absolute;left:0;bottom:-4px;width:0;height:1px;background:var(--acc);transition:width .25s}
+.nav-links a:hover::after{width:100%}
+.btn{display:inline-flex;align-items:center;gap:9px;border-radius:12px;padding:12px 22px;
+  font:500 .92rem/1 var(--sans);cursor:pointer;border:none;position:relative;overflow:hidden;transition:transform .2s}
+.btn-primary{background:var(--acc);color:var(--acc-ink);box-shadow:0 0 0 0 rgba(216,243,90,.35)}
+.btn-primary:hover{transform:translateY(-2px);box-shadow:0 8px 28px -6px rgba(216,243,90,.45)}
+.btn-ghost{background:rgba(255,255,255,.04);border:1px solid var(--line2);color:var(--ink);backdrop-filter:blur(8px)}
+.btn-ghost:hover{background:rgba(255,255,255,.08);transform:translateY(-2px)}
+.nav-cta{padding:10px 18px;border-radius:10px;font-size:.88rem}
 
-  /* ---------- hero ---------- */
-  header{position:relative;padding:96px 0 64px;overflow:hidden}
-  header::before{content:"";position:absolute;inset:0;
-    background-image:radial-gradient(circle at 1px 1px, rgba(233,236,242,.05) 1px, transparent 0);
-    background-size:28px 28px;mask-image:linear-gradient(to bottom, black 30%, transparent 85%)}
-  .glow{position:absolute;width:640px;height:640px;border-radius:50%;pointer-events:none;
-    background:radial-gradient(circle, rgba(217,244,92,.07), transparent 65%);top:-260px;right:-160px}
-  .eyebrow{display:inline-flex;align-items:center;gap:10px;font:500 .78rem/1 var(--mono);
-    letter-spacing:.14em;text-transform:uppercase;color:var(--dim);margin-bottom:28px}
-  .eyebrow .dot{width:7px;height:7px}
-  h1{font-family:"Instrument Serif",serif;font-weight:400;letter-spacing:-.015em;
-    font-size:clamp(2.6rem,6vw,4.4rem);line-height:1.06;max-width:16ch}
-  h1 em{font-style:italic;color:var(--accent)}
-  .lede{color:var(--dim);font-size:1.08rem;max-width:52ch;margin-top:20px}
-  .hero-cta{display:flex;gap:14px;margin-top:34px;flex-wrap:wrap}
-  .live-pill{display:inline-flex;align-items:center;gap:10px;margin-top:26px;
-    font:500 .82rem/1 var(--mono);color:var(--dim);border:1px solid var(--line);
-    border-radius:99px;padding:10px 16px;background:var(--bg2)}
-  .live-pill b{color:var(--ink);font-weight:600}
-  .live-pill .dot{width:7px;height:7px}
+/* ============ HERO ============ */
+.hero{position:relative;min-height:100vh;display:flex;align-items:center;padding:140px 0 80px;overflow:hidden}
+.hero-bg{position:absolute;inset:0;pointer-events:none}
+.mesh{position:absolute;border-radius:50%;filter:blur(90px);opacity:.5}
+.mesh.a{width:640px;height:640px;background:radial-gradient(circle,rgba(216,243,90,.16),transparent 62%);top:-200px;right:-140px;animation:drift 16s ease-in-out infinite alternate}
+.mesh.b{width:540px;height:540px;background:radial-gradient(circle,rgba(94,140,255,.13),transparent 62%);bottom:-220px;left:-160px;animation:drift 20s ease-in-out infinite alternate-reverse}
+@keyframes drift{from{transform:translate(0,0) scale(1)}to{transform:translate(60px,40px) scale(1.12)}}
+.grid-lines{position:absolute;inset:0;
+  background-image:linear-gradient(rgba(255,255,255,.028) 1px,transparent 1px),linear-gradient(90deg,rgba(255,255,255,.028) 1px,transparent 1px);
+  background-size:56px 56px;mask-image:radial-gradient(ellipse 90% 70% at 50% 40%,black 30%,transparent 78%)}
+.hero-grid{display:grid;grid-template-columns:1.05fr .95fr;gap:64px;align-items:center;position:relative}
+@media(max-width:960px){.hero-grid{grid-template-columns:1fr;gap:56px}}
+.eyebrow{display:inline-flex;align-items:center;gap:10px;font:500 .74rem/1 var(--mono);
+  letter-spacing:.16em;text-transform:uppercase;color:var(--dim);border:1px solid var(--line);
+  border-radius:99px;padding:9px 16px;background:rgba(255,255,255,.03);backdrop-filter:blur(6px)}
+.eyebrow i{width:7px;height:7px;border-radius:50%;background:var(--acc);animation:pulse 2.2s infinite}
+h1{font:400 clamp(3rem,5.6vw,4.9rem)/1.02 var(--disp);letter-spacing:-.02em;margin:30px 0 0}
+h1 .line{display:block;overflow:hidden}
+h1 .line span{display:inline-block}
+h1 em{font-style:italic;color:var(--acc);text-shadow:0 0 34px rgba(216,243,90,.35)}
+.lede{color:var(--dim);font-size:1.1rem;max-width:50ch;margin-top:24px;line-height:1.7}
+.lede b{color:var(--ink);font-weight:500}
+.hero-cta{display:flex;gap:14px;margin-top:38px;flex-wrap:wrap}
+.hero-meta{display:flex;gap:26px;margin-top:44px;color:var(--faint);font:400 .8rem/1.4 var(--mono);flex-wrap:wrap}
+.hero-meta b{color:var(--dim);font-weight:500}
 
-  /* ---------- trust strip ---------- */
-  .trust{border-top:1px solid var(--line);border-bottom:1px solid var(--line);background:var(--bg2)}
-  .trust-in{display:grid;grid-template-columns:repeat(4,1fr);gap:24px;padding:26px 0}
-  .t-num{font:600 1.35rem/1.2 var(--mono);font-variant-numeric:tabular-nums;letter-spacing:-.02em}
-  .t-lab{color:var(--dim);font-size:.8rem;margin-top:3px}
-  @media(max-width:760px){.trust-in{grid-template-columns:repeat(2,1fr)}}
+/* hero dashboard */
+.dash{position:relative;perspective:1400px}
+.dash-card{position:relative;border-radius:22px;overflow:hidden;
+  background:linear-gradient(160deg,rgba(24,28,38,.9),rgba(12,14,20,.94));
+  border:1px solid rgba(255,255,255,.1);box-shadow:0 40px 90px -30px rgba(0,0,0,.8),0 0 0 1px rgba(255,255,255,.04) inset;
+  transform-style:preserve-3d;will-change:transform;transition:transform .18s ease-out}
+.dash-head{display:flex;justify-content:space-between;align-items:center;padding:16px 20px;border-bottom:1px solid var(--line)}
+.dash-dots{display:flex;gap:7px}.dash-dots i{width:10px;height:10px;border-radius:50%;background:#2A2F3A}
+.dash-dots i:first-child{background:#3D4450}
+.dash-title{font:500 .72rem/1 var(--mono);letter-spacing:.12em;text-transform:uppercase;color:var(--faint)}
+.dash-live{display:flex;align-items:center;gap:8px;font:500 .7rem/1 var(--mono);color:var(--acc)}
+.dash-live i{width:7px;height:7px;border-radius:50%;background:var(--acc);animation:pulse 2s infinite}
+.dash-body{padding:18px 20px}
+.dash-row{display:flex;justify-content:space-between;align-items:center;padding:12px 14px;border-radius:12px;
+  background:rgba(255,255,255,.03);margin-bottom:9px;border:1px solid rgba(255,255,255,.04);
+  font:500 .84rem/1.3 var(--sans);animation:slidein .5s cubic-bezier(.2,.8,.2,1) backwards}
+.dash-row:nth-child(1){animation-delay:.15s}.dash-row:nth-child(2){animation-delay:.3s}
+.dash-row:nth-child(3){animation-delay:.45s}.dash-row:nth-child(4){animation-delay:.6s}
+@keyframes slidein{from{opacity:0;transform:translateX(24px)}to{opacity:1;transform:none}}
+.dash-row .jr{display:flex;flex-direction:column;gap:3px;min-width:0}
+.dash-row .jt{font-weight:600;white-space:nowrap;overflow:hidden;text-overflow:ellipsis;max-width:210px}
+.dash-row .jl{font:400 .72rem/1 var(--mono);color:var(--faint)}
+.dash-row .jp{font:600 .88rem/1 var(--mono);color:var(--acc);white-space:nowrap}
+.dash-row .np{font:600 .6rem/1 var(--mono);letter-spacing:.08em;color:var(--acc-ink);
+  background:var(--acc);border-radius:99px;padding:4px 8px;margin-left:10px}
+.dash-foot{display:flex;justify-content:space-between;align-items:center;padding:14px 20px;border-top:1px solid var(--line);
+  font:400 .72rem/1 var(--mono);color:var(--faint)}
+.dash-foot b{color:var(--dim);font-weight:500}
+.float-chip{position:absolute;z-index:2;padding:12px 16px;border-radius:14px;
+  background:rgba(14,17,23,.85);backdrop-filter:blur(12px);border:1px solid var(--line2);
+  box-shadow:0 20px 50px -12px rgba(0,0,0,.7);font:500 .78rem/1.3 var(--mono);animation:bob 6s ease-in-out infinite}
+.float-chip .fc-t{color:var(--acc);font-size:.68rem;letter-spacing:.12em;text-transform:uppercase;display:block;margin-bottom:4px}
+.float-chip .fc-n{color:var(--ink);font-weight:600}
+.chip-1{top:-24px;right:6%}
+.chip-2{bottom:-26px;left:-6%;animation-delay:1.4s}
+@keyframes bob{0%,100%{transform:translateY(0)}50%{transform:translateY(-12px)}}
+@media(max-width:960px){.chip-2{left:4%}}
 
-  /* ---------- sections ---------- */
-  section{padding:88px 0}
-  .sec-head{margin-bottom:44px}
-  .kicker{font:500 .74rem/1 var(--mono);letter-spacing:.16em;text-transform:uppercase;color:var(--accent);margin-bottom:14px}
-  h2{font-family:"Instrument Serif",serif;font-weight:400;font-size:clamp(1.8rem,3.4vw,2.6rem);
-    letter-spacing:-.01em;line-height:1.15;max-width:22ch}
-  .sec-sub{color:var(--dim);max-width:56ch;margin-top:14px}
+/* ============ TICKER ============ */
+.ticker{border-top:1px solid var(--line);border-bottom:1px solid var(--line);
+  background:var(--bg2);overflow:hidden;padding:16px 0;position:relative}
+.ticker-track{display:flex;gap:48px;width:max-content;animation:marquee 42s linear infinite}
+.ticker:hover .ticker-track{animation-play-state:paused}
+@keyframes marquee{to{transform:translateX(-50%)}}
+.tick-item{display:flex;align-items:center;gap:12px;font:500 .84rem/1 var(--mono);color:var(--dim);white-space:nowrap}
+.tick-item .tp{color:var(--acc);font-weight:600}
+.tick-item .sep{color:#2A2F3A}
+.tick-tag{position:absolute;left:24px;top:50%;transform:translateY(-50%);z-index:2;
+  font:600 .66rem/1 var(--mono);letter-spacing:.14em;color:var(--acc-ink);background:var(--acc);
+  padding:7px 12px;border-radius:99px}
 
-  /* ---------- live feed ---------- */
-  .feed-head{display:flex;align-items:end;justify-content:space-between;gap:20px;flex-wrap:wrap}
-  .spark{background:var(--card);border:1px solid var(--line);border-radius:14px;padding:18px 20px;margin-bottom:22px}
-  .spark .lab{font:500 .72rem/1 var(--mono);letter-spacing:.12em;text-transform:uppercase;color:var(--dim);margin-bottom:10px}
-  table{width:100%;border-collapse:collapse;background:var(--card);border:1px solid var(--line);border-radius:14px;overflow:hidden}
-  .tbl-scroll{overflow-x:auto;border-radius:14px;border:1px solid var(--line);background:var(--card)}
-  .tbl-scroll table{border:none}
-  th{font:500 .72rem/1 var(--mono);letter-spacing:.1em;text-transform:uppercase;color:var(--faint);
-    text-align:left;padding:14px 18px;border-bottom:1px solid var(--line);white-space:nowrap}
-  td{padding:14px 18px;border-bottom:1px solid var(--line);font-size:.92rem;white-space:nowrap}
-  tr:last-child td{border-bottom:none}
-  tbody tr{transition:background .15s}
-  tbody tr:hover{background:rgba(233,236,242,.03)}
-  .num{font-family:var(--mono);font-variant-numeric:tabular-nums;font-size:.9rem}
-  .title-cell{font-weight:500;white-space:normal;min-width:220px}
-  .loc{color:var(--dim)}
-  .badge{display:inline-block;background:var(--accent);color:var(--accent-ink);
-    font:600 .66rem/1 var(--mono);letter-spacing:.06em;padding:.28rem .55rem;border-radius:99px}
-  .toolbar{display:flex;justify-content:space-between;align-items:center;gap:16px;margin-bottom:14px;flex-wrap:wrap}
-  .toggle{display:inline-flex;border:1px solid var(--line);border-radius:9px;overflow:hidden;font-size:.82rem}
-  .toggle button{background:transparent;border:none;color:var(--dim);padding:7px 14px;cursor:pointer;font:inherit}
-  .toggle button.on{background:var(--card2,#1B2232);color:var(--ink)}
-  .updated{color:var(--faint);font:400 .78rem/1 var(--mono);font-variant-numeric:tabular-nums}
-  .updated b{color:var(--dim);font-weight:500}
+/* ============ SECTIONS ============ */
+section{padding:110px 0;position:relative}
+.kicker{font:500 .72rem/1 var(--mono);letter-spacing:.18em;text-transform:uppercase;color:var(--acc);margin-bottom:18px;display:flex;align-items:center;gap:12px}
+.kicker::before{content:"";width:26px;height:1px;background:var(--acc);opacity:.6}
+h2{font:400 clamp(2rem,3.6vw,3rem)/1.12 var(--disp);letter-spacing:-.015em;max-width:24ch}
+h2 em{font-style:italic;color:var(--acc)}
+.sec-sub{color:var(--dim);max-width:56ch;margin-top:16px;font-size:1.02rem}
 
-  /* ---------- offerings ---------- */
-  .offers{display:grid;grid-template-columns:1fr 1fr;gap:20px}
-  @media(max-width:820px){.offers{grid-template-columns:1fr}}
-  .offer{background:var(--card);border:1px solid var(--line);border-radius:18px;padding:34px 32px;position:relative;overflow:hidden;transition:border-color .2s, transform .2s}
-  .offer:hover{border-color:#33405c;transform:translateY(-2px)}
-  .offer .tag{font:500 .7rem/1 var(--mono);letter-spacing:.14em;text-transform:uppercase;color:var(--dim)}
-  .offer h3{font-family:"Instrument Serif",serif;font-weight:400;font-size:1.7rem;margin:12px 0 10px}
-  .offer p{color:var(--dim);font-size:.95rem;max-width:42ch}
-  .offer ul{list-style:none;margin-top:20px;display:grid;gap:10px}
-  .offer li{display:flex;gap:10px;font-size:.9rem;color:var(--ink)}
-  .offer li::before{content:"→";color:var(--accent);font-family:var(--mono);flex-shrink:0}
-  .price{margin-top:24px;padding-top:20px;border-top:1px solid var(--line);display:flex;align-items:baseline;gap:8px}
-  .price .p{font:600 1.5rem/1 var(--mono);font-variant-numeric:tabular-nums}
-  .price .per{color:var(--faint);font-size:.8rem}
-  .ribbon{position:absolute;top:18px;right:18px;font:500 .68rem/1 var(--mono);letter-spacing:.1em;
-    text-transform:uppercase;color:var(--accent);border:1px solid rgba(217,244,92,.35);
-    padding:6px 10px;border-radius:99px}
+/* stats */
+.stats{border-top:1px solid var(--line);border-bottom:1px solid var(--line);background:var(--bg2)}
+.stats-in{display:grid;grid-template-columns:repeat(4,1fr);gap:20px;padding:44px 0}
+@media(max-width:760px){.stats-in{grid-template-columns:repeat(2,1fr)}}
+.stat{position:relative;padding-left:20px}
+.stat::before{content:"";position:absolute;left:0;top:6px;bottom:6px;width:2px;border-radius:2px;
+  background:linear-gradient(to bottom,var(--acc),transparent)}
+.stat .n{font:600 2.3rem/1.1 var(--mono);font-variant-numeric:tabular-nums;letter-spacing:-.03em}
+.stat .n small{font-size:1.2rem;color:var(--acc)}
+.stat .l{color:var(--dim);font-size:.82rem;margin-top:6px}
 
-  /* ---------- how ---------- */
-  .steps{display:grid;grid-template-columns:repeat(3,1fr);gap:20px}
-  @media(max-width:820px){.steps{grid-template-columns:1fr}}
-  .step{background:var(--card);border:1px solid var(--line);border-radius:16px;padding:28px}
-  .step .n{font:400 2.4rem/1 "Instrument Serif",serif;color:var(--accent)}
-  .step h4{font-weight:600;margin:14px 0 8px;font-size:1rem}
-  .step p{color:var(--dim);font-size:.9rem}
+/* feed */
+.feed-panel{border-radius:24px;background:var(--glass);backdrop-filter:blur(16px);
+  border:1px solid var(--line);box-shadow:0 30px 80px -40px rgba(0,0,0,.8);overflow:hidden}
+.feed-top{display:flex;justify-content:space-between;align-items:center;gap:16px;flex-wrap:wrap;
+  padding:22px 26px;border-bottom:1px solid var(--line)}
+.feed-top .fl{display:flex;align-items:center;gap:10px;font:500 .74rem/1 var(--mono);
+  letter-spacing:.14em;text-transform:uppercase;color:var(--dim)}
+.feed-top .fl i{width:8px;height:8px;border-radius:50%;background:var(--acc);animation:pulse 2s infinite}
+.toggle{display:inline-flex;border:1px solid var(--line2);border-radius:10px;overflow:hidden;background:rgba(255,255,255,.02)}
+.toggle button{background:transparent;border:none;color:var(--dim);padding:8px 16px;cursor:pointer;font:500 .82rem/1 var(--sans);transition:.2s}
+.toggle button.on{background:rgba(216,243,90,.14);color:var(--acc)}
+.sparkbox{padding:22px 26px;border-bottom:1px solid var(--line);display:grid;grid-template-columns:auto 1fr;gap:26px;align-items:end}
+@media(max-width:820px){.sparkbox{grid-template-columns:1fr}}
+.spark-meta .sv{font:600 1.6rem/1 var(--mono);font-variant-numeric:tabular-nums}
+.spark-meta .sl{color:var(--faint);font-size:.74rem;margin-top:6px;font:400 .72rem/1.5 var(--mono)}
+.tbl-scroll{overflow-x:auto}
+table{width:100%;border-collapse:collapse;min-width:760px}
+th{font:500 .68rem/1 var(--mono);letter-spacing:.12em;text-transform:uppercase;color:var(--faint);
+  text-align:left;padding:15px 24px;border-bottom:1px solid var(--line)}
+td{padding:15px 24px;border-bottom:1px solid rgba(255,255,255,.045);font-size:.92rem;white-space:nowrap}
+tbody tr{transition:background .15s}
+tbody tr:hover{background:rgba(216,243,90,.035)}
+tbody tr:last-child td{border-bottom:none}
+.num{font:500 .9rem/1 var(--mono);font-variant-numeric:tabular-nums}
+.tc{font-weight:600;white-space:normal;min-width:230px}
+.loc{color:var(--dim);font:400 .84rem/1 var(--mono)}
+.badge{display:inline-block;background:var(--acc);color:var(--acc-ink);font:600 .62rem/1 var(--mono);
+  letter-spacing:.08em;padding:.3rem .6rem;border-radius:99px}
+.feed-bot{display:flex;justify-content:space-between;gap:14px;flex-wrap:wrap;padding:16px 26px;
+  color:var(--faint);font:400 .76rem/1.5 var(--mono)}
+.feed-bot a{color:var(--dim);text-decoration:underline;text-underline-offset:3px}
+.feed-bot a:hover{color:var(--acc)}
 
-  /* ---------- contact ---------- */
-  .contact{background:var(--bg2);border-top:1px solid var(--line);border-bottom:1px solid var(--line)}
-  .contact-in{display:flex;justify-content:space-between;align-items:center;gap:32px;flex-wrap:wrap;padding:64px 0}
-  .contact h2{max-width:none}
+/* offers */
+.offers{display:grid;grid-template-columns:1fr 1fr;gap:22px}
+@media(max-width:860px){.offers{grid-template-columns:1fr}}
+.offer{position:relative;border-radius:24px;padding:40px 36px;overflow:hidden;
+  background:var(--card);border:1px solid var(--line);transition:border-color .25s,transform .25s}
+.offer::before{content:"";position:absolute;inset:0;opacity:0;transition:opacity .3s;pointer-events:none;
+  background:radial-gradient(600px circle at var(--mx,50%) var(--my,50%),rgba(216,243,90,.09),transparent 42%)}
+.offer:hover{border-color:rgba(216,243,90,.28);transform:translateY(-4px)}
+.offer:hover::before{opacity:1}
+.offer .tag{font:500 .68rem/1 var(--mono);letter-spacing:.16em;text-transform:uppercase;color:var(--dim)}
+.offer h3{font:400 2rem/1.15 var(--disp);margin:16px 0 12px;letter-spacing:-.01em}
+.offer h3 em{font-style:italic;color:var(--acc)}
+.offer p{color:var(--dim);font-size:.95rem;max-width:44ch}
+.offer ul{list-style:none;margin-top:22px;display:grid;gap:11px}
+.offer li{display:flex;gap:12px;font-size:.9rem;align-items:baseline}
+.offer li i{color:var(--acc);font-style:normal;font-family:var(--mono);font-size:.8rem}
+.price{margin-top:28px;padding-top:22px;border-top:1px solid var(--line);display:flex;align-items:baseline;gap:10px}
+.price .p{font:600 1.9rem/1 var(--mono);font-variant-numeric:tabular-nums;letter-spacing:-.02em}
+.price .per{color:var(--faint);font-size:.8rem}
+.ribbon{position:absolute;top:22px;right:22px;font:600 .64rem/1 var(--mono);letter-spacing:.12em;
+  text-transform:uppercase;color:var(--acc-ink);background:var(--acc);padding:7px 12px;border-radius:99px}
 
-  /* ---------- footer ---------- */
-  footer{padding:40px 0;color:var(--faint);font-size:.82rem}
-  .foot-in{display:flex;justify-content:space-between;gap:16px;flex-wrap:wrap;border-top:1px solid var(--line);padding-top:28px}
-  footer a{color:var(--dim)} footer a:hover{color:var(--ink)}
+/* steps */
+.steps{display:grid;grid-template-columns:repeat(3,1fr);gap:22px;position:relative}
+@media(max-width:860px){.steps{grid-template-columns:1fr}}
+.step{position:relative;background:var(--card);border:1px solid var(--line);border-radius:20px;padding:34px 30px;overflow:hidden}
+.step .n{font:400 3.2rem/1 var(--disp);color:transparent;-webkit-text-stroke:1px rgba(216,243,90,.5)}
+.step h4{font-weight:600;margin:18px 0 10px;font-size:1.05rem}
+.step p{color:var(--dim);font-size:.9rem}
+.step::after{content:"";position:absolute;left:0;right:0;bottom:0;height:2px;
+  background:linear-gradient(90deg,var(--acc),transparent);opacity:0;transition:opacity .3s}
+.step:hover::after{opacity:1}
 
-  .fade{opacity:0;transform:translateY(14px);animation:rise .7s cubic-bezier(.2,.7,.2,1) forwards}
-  .fade.d1{animation-delay:.08s}.fade.d2{animation-delay:.16s}.fade.d3{animation-delay:.24s}.fade.d4{animation-delay:.32s}
-  @keyframes rise{to{opacity:1;transform:none}}
+/* pipeline viz */
+.viz{margin:70px auto 0;max-width:820px}
+.viz svg{width:100%;height:auto;display:block}
+
+/* contact */
+.cta{position:relative;padding:130px 0;text-align:center;overflow:hidden}
+.cta .mesh.c{left:50%;top:50%;transform:translate(-50%,-50%);width:760px;height:520px;opacity:.7;
+  background:radial-gradient(circle,rgba(216,243,90,.13),transparent 60%);animation:drift 14s ease-in-out infinite alternate}
+.cta h2{font-size:clamp(2.4rem,5vw,4rem);margin:0 auto;max-width:20ch}
+.cta .lede{margin:22px auto 0}
+.cta .hero-cta{justify-content:center}
+
+footer{border-top:1px solid var(--line);padding:44px 0;color:var(--faint);font:400 .82rem/1.6 var(--mono)}
+.foot-in{display:flex;justify-content:space-between;gap:18px;flex-wrap:wrap;align-items:center}
+footer a{color:var(--dim)}footer a:hover{color:var(--acc)}
+
+.reveal{will-change:transform,opacity}
+@media(prefers-reduced-motion:reduce){*{animation:none!important;transition:none!important}}
 </style>
 </head>
 <body>
+<div class="grain"></div>
 
-<nav>
+<nav id="nav">
   <div class="wrap nav-in">
-    <a class="brand" href="#"><span class="dot"></span>PipeKeeper</a>
+    <a class="brand" href="#"><span class="brand-mark"><i></i></span>PipeKeeper</a>
     <div class="nav-links">
       <a href="#feed">Live data</a>
       <a href="#services">Services</a>
-      <a href="#how">How it works</a>
+      <a href="#how">Method</a>
     </div>
-    <a class="btn btn-primary" href="#contact">Start a pilot</a>
+    <a class="btn btn-primary nav-cta" href="#contact">Start a pilot</a>
   </div>
 </nav>
 
-<header>
-  <div class="glow"></div>
-  <div class="wrap">
-    <div class="eyebrow fade"><span class="dot"></span>Live data infrastructure · running now</div>
-    <h1 class="fade d1">Your market data, <em>collected hourly,</em> and never allowed to die.</h1>
-    <p class="lede fade d2">PipeKeeper builds data pipelines that watch, heal, and refresh themselves — and sells fresh, structured niche datasets refreshed on the same infrastructure. Two services, one machine that never sleeps.</p>
-    <div class="hero-cta fade d3">
-      <a class="btn btn-primary" href="#contact">Start a 5-day pilot</a>
-      <a class="btn btn-ghost" href="#feed">See the live feed ↓</a>
+<header class="hero">
+  <div class="hero-bg">
+    <div class="grid-lines"></div>
+    <div class="mesh a"></div><div class="mesh b"></div>
+  </div>
+  <div class="wrap hero-grid">
+    <div>
+      <div class="eyebrow reveal-h"><i></i>LIVE DATA INFRASTRUCTURE · RUNNING NOW</div>
+      <h1>
+        <span class="line"><span>Your market data,</span></span>
+        <span class="line"><span><em>collected hourly,</em></span></span>
+        <span class="line"><span>never allowed to die.</span></span>
+      </h1>
+      <p class="lede reveal-h">PipeKeeper builds data pipelines that <b>watch, heal, and refresh themselves</b> — and sells fresh, structured niche datasets on the same infrastructure. Two services. One machine that never sleeps.</p>
+      <div class="hero-cta reveal-h">
+        <a class="btn btn-primary" href="#contact">Start a 5-day pilot</a>
+        <a class="btn btn-ghost" href="#feed">See the live feed ↓</a>
+      </div>
+      <div class="hero-meta reveal-h">
+        <span>◆ <b id="m-last">connecting…</b></span>
+        <span>◆ <b>hourly</b> freshness</span>
+        <span>◆ <b>$0</b> infra to break</span>
+      </div>
     </div>
-    <div class="live-pill fade d4"><span class="dot"></span><span id="live-status">connecting to pipeline…</span></div>
+    <div class="dash" id="dash">
+      <div class="float-chip chip-1"><span class="fc-t">New this hour</span><span class="fc-n" id="chip-new">—</span></div>
+      <div class="float-chip chip-2"><span class="fc-t">Pipeline status</span><span class="fc-n" style="color:var(--acc)">● self-healing</span></div>
+      <div class="dash-card" id="dash-card">
+        <div class="dash-head">
+          <div class="dash-dots"><i></i><i></i><i></i></div>
+          <div class="dash-title">pipekeeper · feed 01</div>
+          <div class="dash-live"><i></i>LIVE</div>
+        </div>
+        <div class="dash-body" id="dash-rows">
+          <div class="dash-row"><div class="jr"><span class="jt">connecting…</span></div></div>
+        </div>
+        <div class="dash-foot">
+          <span>next run <b>on the hour</b></span>
+          <span>collected <b id="dash-last">—</b></span>
+        </div>
+      </div>
+    </div>
   </div>
 </header>
 
-<div class="trust">
-  <div class="wrap trust-in">
-    <div><div class="t-num" id="t-runs">—</div><div class="t-lab">collection runs completed</div></div>
-    <div><div class="t-num" id="t-records">—</div><div class="t-lab">records tracked to date</div></div>
-    <div><div class="t-num" id="t-fresh">—</div><div class="t-lab">new records this hour</div></div>
-    <div><div class="t-num">99.9<span style="color:var(--faint)">%</span></div><div class="t-lab">schedule adherence target</div></div>
+<div class="ticker">
+  <div class="tick-tag">LIVE FEED</div>
+  <div class="ticker-track" id="ticker">
+    <span class="tick-item">connecting to pipeline…</span>
+  </div>
+</div>
+
+<div class="stats">
+  <div class="wrap stats-in">
+    <div class="stat"><div class="n"><span data-count id="s-runs">0</span></div><div class="l">collection runs completed</div></div>
+    <div class="stat"><div class="n"><span data-count id="s-records">0</span></div><div class="l">records tracked since start</div></div>
+    <div class="stat"><div class="n"><span data-count id="s-hours">0</span><small>h</small></div><div class="l">of continuous operation</div></div>
+    <div class="stat"><div class="n">99.9<small>%</small></div><div class="l">schedule adherence target</div></div>
   </div>
 </div>
 
 <section id="feed">
   <div class="wrap">
-    <div class="sec-head feed-head">
-      <div>
-        <div class="kicker">Live feed · sample</div>
-        <h2>What a PipeKeeper feed looks like.</h2>
-        <p class="sec-sub">Below: one of our operated feeds — travel-healthcare staffing jobs, straight from the source, refreshed every hour. New postings are flagged automatically.</p>
+    <div class="kicker reveal">Live feed · sample</div>
+    <h2 class="reveal">What a PipeKeeper feed <em>looks like.</em></h2>
+    <p class="sec-sub reveal">One of our operated feeds — travel-healthcare staffing jobs, straight from the source. Refreshed every hour. New postings are flagged automatically. This isn't a screenshot; it's the live pipe.</p>
+
+    <div class="feed-panel" style="margin-top:52px">
+      <div class="feed-top">
+        <div class="fl"><i></i>feed-01 · travel healthcare jobs</div>
+        <div class="toggle" id="filter">
+          <button class="on" data-f="all">All records</button>
+          <button data-f="new">New only</button>
+        </div>
+      </div>
+      <div class="sparkbox">
+        <div class="spark-meta">
+          <div class="sv" id="spark-n">—</div>
+          <div class="sl">records per run<br>last 48 collections</div>
+        </div>
+        <svg id="spark" height="72" width="100%" viewBox="0 0 900 72" preserveAspectRatio="none"></svg>
+      </div>
+      <div class="tbl-scroll">
+        <table>
+          <thead><tr><th>Posting</th><th>Location</th><th style="text-align:right">Est. pay</th><th>Contract</th><th>Type</th><th></th></tr></thead>
+          <tbody id="rows"><tr><td colspan="6" style="color:var(--faint)">connecting to pipeline…</td></tr></tbody>
+        </table>
+      </div>
+      <div class="feed-bot">
+        <span id="fb-src"></span>
+        <span>last collected <b id="fb-last" style="color:var(--dim)">—</b></span>
       </div>
     </div>
-
-    <div class="spark">
-      <div class="lab">Records per collection run · last 48 runs</div>
-      <svg id="spark-svg" width="100%" height="64" viewBox="0 0 900 64" preserveAspectRatio="none"></svg>
-    </div>
-
-    <div class="toolbar">
-      <div class="toggle" id="filter">
-        <button class="on" data-f="all">All records</button>
-        <button data-f="new">New only</button>
-      </div>
-      <div class="updated">last collected <b id="last-at">—</b></div>
-    </div>
-
-    <div class="tbl-scroll">
-      <table>
-        <thead><tr><th>Posting</th><th>Location</th><th style="text-align:right">Est. pay</th><th>Contract</th><th>Type</th><th></th></tr></thead>
-        <tbody id="rows"><tr><td colspan="6" style="color:var(--dim)">connecting…</td></tr></tbody>
-      </table>
-    </div>
-    <p class="updated" style="margin-top:14px" id="src-note"></p>
   </div>
 </section>
 
 <section id="services">
   <div class="wrap">
-    <div class="sec-head">
-      <div class="kicker">Two ways to work with us</div>
-      <h2>Keep your pipelines alive. Or just buy the data.</h2>
-    </div>
-    <div class="offers">
-      <div class="offer">
+    <div class="kicker reveal">Two ways to work with us</div>
+    <h2 class="reveal">Keep your pipelines alive.<br>Or just <em>buy the data.</em></h2>
+    <div class="offers" style="margin-top:56px">
+      <div class="offer reveal" id="offer1">
         <div class="ribbon">Most requested</div>
         <div class="tag">Pipeline Care</div>
-        <h3>We build &amp; babysit your collectors.</h3>
+        <h3>We build &amp; <em>baby-sit</em> your collectors.</h3>
         <p>You need data from websites that keep changing. We build the scrapers, watch them around the clock, and repair them the hour they break — before you ever notice.</p>
         <ul>
-          <li>Custom collectors for your exact sources</li>
-          <li>Hourly health checks with automatic repair</li>
-          <li>Weekly health report — plain English</li>
-          <li>Clean CSV / Sheets delivery, every run</li>
+          <li><i>→</i>Custom collectors for your exact sources</li>
+          <li><i>→</i>Hourly health checks, automatic repair</li>
+          <li><i>→</i>Weekly health report — plain English</li>
+          <li><i>→</i>Clean CSV / Sheets delivery, every run</li>
         </ul>
         <div class="price"><span class="p">$300–800</span><span class="per">/ month per pipeline</span></div>
       </div>
-      <div class="offer">
+      <div class="offer reveal" id="offer2">
         <div class="tag">Data Feeds</div>
-        <h3>Skip the plumbing. Buy the output.</h3>
-        <p>Ready-made niche datasets — who's hiring, at what pay, what changed this week. Fresh hourly, delivered as clean files or API. No scrapers, no maintenance, no surprises.</p>
+        <h3>Skip the plumbing. <em>Buy the output.</em></h3>
+        <p>Ready-made niche datasets — who's hiring, at what pay, what changed this week. Fresh hourly, delivered as clean files or API. No scrapers. No maintenance. No surprises.</p>
         <ul>
-          <li>Hourly freshness with timestamped runs</li>
-          <li>First-seen / last-seen history per record</li>
-          <li>Clean schema + methodology card</li>
-          <li>CSV now, API on request</li>
+          <li><i>→</i>Hourly freshness, timestamped runs</li>
+          <li><i>→</i>First-seen / last-seen history per record</li>
+          <li><i>→</i>Clean schema + methodology card</li>
+          <li><i>→</i>CSV now, API on request</li>
         </ul>
         <div class="price"><span class="p">$99–149</span><span class="per">/ month per feed</span></div>
       </div>
+    </div>
+
+    <div class="viz reveal" id="viz">
+      <svg viewBox="0 0 820 220" fill="none">
+        <defs>
+          <linearGradient id="pv" x1="0" y1="0" x2="1" y2="0">
+            <stop offset="0" stop-color="#D8F35A" stop-opacity=".9"/><stop offset="1" stop-color="#D8F35A" stop-opacity=".15"/>
+          </linearGradient>
+        </defs>
+        <g font-family="JetBrains Mono" font-size="11" fill="#5D6577">
+          <text x="40" y="60" text-anchor="middle">source</text>
+          <text x="40" y="160" text-anchor="middle">source</text>
+          <text x="410" y="115" text-anchor="middle">PIPEKEEPER</text>
+          <text x="780" y="60" text-anchor="middle">your</text><text x="780" y="76" text-anchor="middle">dashboard</text>
+          <text x="780" y="160" text-anchor="middle">your</text><text x="780" y="176" text-anchor="middle">spreadsheet</text>
+        </g>
+        <circle cx="40" cy="46" r="5" fill="#3A4150"/><circle cx="40" cy="146" r="5" fill="#3A4150"/>
+        <circle cx="410" cy="106" r="26" stroke="#D8F35A" stroke-width="1.5" opacity=".9"/>
+        <circle cx="410" cy="106" r="8" fill="#D8F35A"/>
+        <circle cx="780" cy="66" r="5" fill="#3A4150"/><circle cx="780" cy="166" r="5" fill="#3A4150"/>
+        <path id="p1" d="M48 46 C 180 46, 280 100, 392 104" stroke="url(#pv)" stroke-width="1.5" fill="none"/>
+        <path id="p2" d="M48 146 C 180 146, 280 116, 392 110" stroke="url(#pv)" stroke-width="1.5" fill="none"/>
+        <path id="p3" d="M428 100 C 560 92, 660 70, 772 66" stroke="url(#pv)" stroke-width="1.5" fill="none"/>
+        <path id="p4" d="M428 112 C 560 122, 660 158, 772 166" stroke="url(#pv)" stroke-width="1.5" fill="none"/>
+        <g id="dots"></g>
+        <text x="410" y="142" text-anchor="middle" font-family="JetBrains Mono" font-size="10" fill="#98A2B8">watch · heal · refresh — hourly</text>
+      </svg>
     </div>
   </div>
 </section>
 
 <section id="how">
   <div class="wrap">
-    <div class="sec-head">
-      <div class="kicker">The PipeKeeper method</div>
-      <h2>Three steps, then you stop thinking about it.</h2>
-    </div>
-    <div class="steps">
-      <div class="step"><div class="n">01</div><h4>We connect</h4><p>In 48 hours your sources are being collected, cleaned, and structured — visible on your own status page from day one.</p></div>
-      <div class="step"><div class="n">02</div><h4>We watch</h4><p>Every run is health-checked. A source that changes or breaks is detected within the hour, not when a client calls you.</p></div>
-      <div class="step"><div class="n">03</div><h4>You forget</h4><p>Broken scrapers repair themselves. You get a weekly one-line report: fresh, alive, delivered. That's the whole job.</p></div>
+    <div class="kicker reveal">The PipeKeeper method</div>
+    <h2 class="reveal">Three steps, then you <em>stop thinking about it.</em></h2>
+    <div class="steps" style="margin-top:56px">
+      <div class="step reveal"><div class="n">01</div><h4>We connect</h4><p>In 48 hours your sources are collected, cleaned, and structured — visible on your own status page from day one.</p></div>
+      <div class="step reveal"><div class="n">02</div><h4>We watch</h4><p>Every run is health-checked. A source that changes or breaks is detected within the hour — not when a client calls you.</p></div>
+      <div class="step reveal"><div class="n">03</div><h4>You forget</h4><p>Broken scrapers repair themselves. You get a weekly one-line report: fresh, alive, delivered. That's the whole job.</p></div>
     </div>
   </div>
 </section>
 
-<section id="contact" class="contact">
-  <div class="wrap contact-in">
-    <div>
-      <div class="kicker">Start here</div>
-      <h2>A 5-day paid pilot. Real data, or you don't pay.</h2>
-      <p class="sec-sub">We connect one source of your choice, deliver cleaned data for five days, and hand you the health reports. If it isn't exactly what we promised, the pilot is free.</p>
+<section id="contact" class="cta">
+  <div class="mesh c"></div>
+  <div class="wrap">
+    <div class="kicker reveal" style="justify-content:center;display:flex">Start here</div>
+    <h2 class="reveal">A 5-day paid pilot.<br><em>Real data, or you don't pay.</em></h2>
+    <p class="lede reveal" style="text-align:center">We connect one source of your choice, deliver cleaned data for five days, and hand you the health reports. If it isn't exactly what we promised — the pilot is free.</p>
+    <div class="hero-cta reveal">
+      <a class="btn btn-primary" href="mailto:hello@pipekeeper.dev?subject=PipeKeeper%20pilot" style="padding:16px 30px;font-size:1rem">Start a pilot →</a>
+      <a class="btn btn-ghost" href="#feed" style="padding:16px 30px;font-size:1rem">See the data first</a>
     </div>
-    <a class="btn btn-primary" href="mailto:hello@pipekeeper.dev?subject=PipeKeeper%20pilot" style="padding:14px 26px;font-size:.95rem">Start a pilot →</a>
   </div>
 </section>
 
 <footer>
   <div class="wrap foot-in">
-    <div>PipeKeeper — self-healing data pipelines &amp; fresh niche feeds.</div>
-    <div><a href="https://github.com/Neel2667/pipekeeper">Source &amp; run history</a> · <span id="foot-updated"></span></div>
+    <span>PipeKeeper — self-healing data pipelines &amp; fresh niche feeds.</span>
+    <span><a href="https://github.com/Neel2667/pipekeeper" target="_blank" rel="noopener">source &amp; run history</a> · <span id="f-updated"></span></span>
   </div>
 </footer>
 
 <script>
+/* ---------- data ---------- */
 const FEED = "https://raw.githubusercontent.com/Neel2667/pipekeeper/main/data/hosthealthcare.json";
-const HEALTH = "https://raw.githubusercontent.com/Neel2667/pipekeeper/main/data/health.json";
-const money = n => n ? "$" + Number(String(n).replace(/,/g,"")).toLocaleString("en-US",{maximumFractionDigits:0}) : "—";
-const pay = j => j.pay_amount ? money(j.pay_amount) + (j.pay_unit === "hour" ? " /hr" : " /wk") : "—";
-let FEEDDATA = null, FILTER = "all";
-function ago(ts){
-  const t = new Date(ts);
-  if (isNaN(t)) return "—";
-  const m = Math.max(0, Math.round((Date.now() - t.getTime()) / 60000));
-  if (m < 1) return "just now";
-  if (m === 1) return "1 min ago";
-  if (m < 60) return m + " min ago";
-  const h = Math.floor(m/60);
-  return h === 1 ? "1 hr ago" : h + " hrs ago";
-}
+const payTxt = j => j.pay_amount ? "$" + Number(String(j.pay_amount).replace(/,/g,"")).toLocaleString("en-US",{maximumFractionDigits:0}) + (j.pay_unit==="hour"?" /hr":" /wk") : "—";
+function ago(ts){const t=new Date(ts);if(isNaN(t))return "—";const m=Math.max(0,Math.round((Date.now()-t.getTime())/60000));
+  if(m<1)return "just now";if(m===1)return "1 min ago";if(m<60)return m+" min ago";
+  const h=Math.floor(m/60);return h===1?"1 hr ago":h+" hrs ago";}
+let FEEDDATA=null,FILTER="all";
 
-function renderStats(d){
-  const runs = d.runs || [];
-  document.getElementById("t-runs").textContent = runs.length;
-  document.getElementById("t-records").textContent = d.total_tracked ?? "—";
-  document.getElementById("t-fresh").textContent = d.new_this_run ?? "—";
-  const last = d.collected_at;
-  document.getElementById("live-status").innerHTML =
-    last ? `pipeline alive · last collection <b>${ago(last)}</b> · ${d.jobs_on_board} records fresh` : "pipeline connecting…";
-  document.getElementById("last-at").innerHTML = last ? `${ago(last)} (${last} UTC)` : "—";
-  document.getElementById("foot-updated").textContent = last ? `data as of ${last} UTC` : "";
+function renderDash(d){
+  const rows=(d.jobs||[]).slice(0,4);
+  document.getElementById("dash-rows").innerHTML=rows.map(j=>`
+    <div class="dash-row">
+      <div class="jr"><span class="jt">${j.title}</span><span class="jl">${j.location}</span></div>
+      <span style="display:flex;align-items:center"><span class="jp">${payTxt(j)}</span>${j.new_this_run?'<span class="np">NEW</span>':""}</span>
+    </div>`).join("");
+  document.getElementById("dash-last").textContent=ago(d.collected_at);
+  document.getElementById("chip-new").textContent=(d.new_this_run??0)+" records";
+  document.getElementById("m-last").textContent="last run "+ago(d.collected_at);
 }
-
+function renderTicker(d){
+  const items=(d.jobs||[]).slice(0,14).map(j=>
+    `<span class="tick-item">${j.title}<span class="tp">${payTxt(j)}</span><span class="sep">◆</span>${j.location}<span class="sep">◆</span></span>`).join("");
+  const half=`<span style="display:flex;gap:48px">${items}</span>`;
+  document.getElementById("ticker").innerHTML=half+half;
+}
 function renderRows(d){
-  const rows = (d.jobs||[]).filter(j => FILTER==="all" || j.new_this_run);
-  document.getElementById("rows").innerHTML = rows.length ? rows.map(j=>`
+  const rows=(d.jobs||[]).filter(j=>FILTER==="all"||j.new_this_run);
+  document.getElementById("rows").innerHTML=rows.length?rows.map(j=>`
     <tr>
-      <td class="title-cell">${j.title}</td>
+      <td class="tc">${j.title}</td>
       <td class="loc">${j.location}</td>
-      <td class="num" style="text-align:right">${pay(j)}</td>
-      <td class="num">${j.weeks ? j.weeks+" wks" : "—"}</td>
+      <td class="num" style="text-align:right;color:var(--acc)">${payTxt(j)}</td>
+      <td class="num">${j.weeks?j.weeks+" wks":"—"}</td>
       <td class="loc">${j.kind||"—"}</td>
       <td>${j.new_this_run?'<span class="badge">NEW</span>':""}</td>
     </tr>`).join("")
-    : `<tr><td colspan="6" style="color:var(--dim)">No new records this hour — everything already tracked.</td></tr>`;
-  document.getElementById("src-note").innerHTML =
-    `Source: <a href="${d.source}" style="color:var(--dim);text-decoration:underline" target="_blank" rel="noopener">${d.source}</a> · collected facts &amp; metadata only · refreshes hourly`;
+    :`<tr><td colspan="6" style="color:var(--faint)">No new records this hour — everything already tracked.</td></tr>`;
+  document.getElementById("fb-src").innerHTML=`source: <a href="${d.source}" target="_blank" rel="noopener">${d.source}</a> · facts &amp; metadata only`;
 }
-
 function renderSpark(d){
-  const runs = (d.runs||[]).slice(-48);
-  if (runs.length < 2) return;
-  const w=900,h=64,max=Math.max(...runs.map(r=>r.jobs),10);
-  const pts = runs.map((r,i)=>[ (i/(runs.length-1))*w, h-8-((r.jobs/max)*(h-18)) ]);
-  const line = pts.map(p=>p.map(v=>v.toFixed(1)).join(",")).join(" ");
-  const area = `0,${h} ${line} ${w},${h}`;
-  document.getElementById("spark-svg").innerHTML =
-    `<defs><linearGradient id="sg" x1="0" y1="0" x2="0" y2="1">
-      <stop offset="0" stop-color="#D9F45C" stop-opacity=".28"/><stop offset="1" stop-color="#D9F45C" stop-opacity="0"/>
+  const runs=(d.runs||[]).slice(-48);
+  if(runs.length<2)return;
+  const w=900,h=72,max=Math.max(...runs.map(r=>r.jobs),10);
+  const pts=runs.map((r,i)=>[(i/(runs.length-1))*(w-8)+4,h-10-((r.jobs/max)*(h-24))]);
+  const line=pts.map(p=>p.map(v=>v.toFixed(1)).join(",")).join(" ");
+  document.getElementById("spark").innerHTML=`
+    <defs><linearGradient id="sg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#D8F35A" stop-opacity=".3"/><stop offset="1" stop-color="#D8F35A" stop-opacity="0"/>
     </linearGradient></defs>
-    <polygon points="${area}" fill="url(#sg)"/>
-    <polyline points="${line}" fill="none" stroke="#D9F45C" stroke-width="2" stroke-linejoin="round"/>
-    <circle cx="${pts[pts.length-1][0]}" cy="${pts[pts.length-1][1]}" r="3.5" fill="#D9F45C"/>`;
+    <polygon points="4,${h} ${line} ${pts[pts.length-1][0].toFixed(1)},${h}" fill="url(#sg)"/>
+    <polyline points="${line}" fill="none" stroke="#D8F35A" stroke-width="2"/>
+    <circle cx="${pts[pts.length-1][0].toFixed(1)}" cy="${pts[pts.length-1][1].toFixed(1)}" r="3.5" fill="#D8F35A"/>`;
+  document.getElementById("spark-n").textContent=runs[runs.length-1].jobs;
 }
-
+function renderStats(d){
+  const runs=d.runs||[];
+  animCount("s-runs",runs.length);
+  animCount("s-records",d.total_tracked||0);
+  animCount("s-hours",runs.length); // each run ≈ one hour of operation
+  document.getElementById("fb-last").textContent=ago(d.collected_at)+" ("+d.collected_at+" UTC)";
+  document.getElementById("f-updated").textContent="data as of "+d.collected_at+" UTC";
+}
+function animCount(id,target){
+  const el=document.getElementById(id);if(!el)return;
+  const start=performance.now(),from=parseInt(el.textContent)||0,dur=1200;
+  function step(t){const p=Math.min(1,(t-start)/dur),e=1-Math.pow(1-p,3);
+    el.textContent=Math.round(from+(target-from)*e);
+    if(p<1)requestAnimationFrame(step);}
+  requestAnimationFrame(step);
+}
 async function loadAll(){
   try{
-    FEEDDATA = await (await fetch(FEED + "?t=" + Date.now())).json();
-    renderStats(FEEDDATA); renderRows(FEEDDATA); renderSpark(FEEDDATA);
-  }catch(e){
-    document.getElementById("live-status").textContent = "pipeline connecting… (first cloud run pending)";
-  }
-  try{
-    const h = await (await fetch(HEALTH + "?t=" + Date.now())).json();
-    const ok = (h.runs||[]).slice(-10).filter(r=>r.collector_exit==="0").length;
-    if (h.runs?.length) console.log(`health: ${ok}/${Math.min(10,h.runs.length)} recent runs healthy`);
-  }catch(e){}
+    FEEDDATA=await (await fetch(FEED+"?t="+Date.now())).json();
+    renderDash(FEEDDATA);renderTicker(FEEDDATA);renderRows(FEEDDATA);renderSpark(FEEDDATA);renderStats(FEEDDATA);
+  }catch(e){console.log("feed pending first cloud run")}
 }
-document.getElementById("filter").addEventListener("click", e=>{
-  if(!e.target.dataset.f) return;
-  FILTER = e.target.dataset.f;
-  document.querySelectorAll("#filter button").forEach(b=>b.classList.toggle("on", b===e.target));
-  if (FEEDDATA) renderRows(FEEDDATA);
+document.getElementById("filter").addEventListener("click",e=>{
+  if(!e.target.dataset.f)return;FILTER=e.target.dataset.f;
+  document.querySelectorAll("#filter button").forEach(b=>b.classList.toggle("on",b===e.target));
+  if(FEEDDATA)renderRows(FEEDDATA);
 });
-setInterval(()=>{ if(FEEDDATA){ renderStats(FEEDDATA); } }, 30000);
+setInterval(()=>{if(FEEDDATA){renderDash(FEEDDATA);renderStats(FEEDDATA);}},30000);
 loadAll();
+
+/* ---------- motion ---------- */
+window.addEventListener("scroll",()=>{document.getElementById("nav").classList.toggle("scrolled",scrollY>30)},{passive:true});
+
+// hero headline line-mask reveal
+document.querySelectorAll("h1 .line span").forEach((s,i)=>{
+  s.style.transform="translateY(110%)";s.style.transition=`transform .9s cubic-bezier(.2,.8,.2,1) ${.12*i+.1}s`;
+  requestAnimationFrame(()=>requestAnimationFrame(()=>s.style.transform="translateY(0)"));
+});
+document.querySelectorAll(".reveal-h").forEach((el,i)=>{el.style.opacity=0;el.style.transform="translateY(16px)";
+  el.style.transition=`opacity .8s ease ${.35+i*.12}s, transform .8s cubic-bezier(.2,.8,.2,1) ${.35+i*.12}s`;
+  requestAnimationFrame(()=>requestAnimationFrame(()=>{el.style.opacity=1;el.style.transform="none";}));});
+
+// dashboard 3D tilt
+const dash=document.getElementById("dash"),card=document.getElementById("dash-card");
+if(dash&&card&&matchMedia("(pointer:fine)").matches){
+  dash.addEventListener("mousemove",e=>{const r=dash.getBoundingClientRect();
+    const x=(e.clientX-r.left)/r.width-.5,y=(e.clientY-r.top)/r.height-.5;
+    card.style.transform=`rotateY(${x*7}deg) rotateX(${-y*7}deg) translateZ(0)`;});
+  dash.addEventListener("mouseleave",()=>card.style.transform="");
+}
+
+// spotlight on offer cards
+document.querySelectorAll(".offer").forEach(c=>{
+  c.addEventListener("mousemove",e=>{const r=c.getBoundingClientRect();
+    c.style.setProperty("--mx",((e.clientX-r.left)/r.width*100)+"%");
+    c.style.setProperty("--my",((e.clientY-r.top)/r.height*100)+"%");});
+});
+
+// pipeline viz: dots traveling along paths
+(function(){
+  const g=document.getElementById("dots");if(!g)return;
+  const paths=["p1","p2","p3","p4"].map(id=>document.getElementById(id));
+  const NS="http://www.w3.org/2000/svg";
+  let t=0;
+  setInterval(()=>{
+    t=(t+1)%360;
+    g.innerHTML="";
+    paths.forEach((p,i)=>{
+      const len=p.getTotalLength();
+      for(let k=0;k<3;k++){
+        const pt=p.getPointAtLength(((t/360)+k/3+i*.18)%1*len);
+        const c=document.createElementNS(NS,"circle");
+        c.setAttribute("cx",pt.x);c.setAttribute("cy",pt.y);c.setAttribute("r",i<2?3:2.5);
+        c.setAttribute("fill","#D8F35A");c.setAttribute("opacity",".9");
+        g.appendChild(c);
+      }
+    });
+  },50);
+})();
+
+// scroll reveals (GSAP if available, CSS fallback keeps content visible)
+if(window.gsap&&window.ScrollTrigger){
+  gsap.registerPlugin(ScrollTrigger);
+  gsap.utils.toArray(".reveal").forEach(el=>{
+    gsap.fromTo(el,{opacity:0,y:28},{opacity:1,y:0,duration:.9,ease:"power3.out",
+      scrollTrigger:{trigger:el,start:"top 86%"}});
+  });
+  gsap.utils.toArray(".step").forEach((el,i)=>{
+    gsap.fromTo(el,{opacity:0,y:34},{opacity:1,y:0,duration:.8,delay:i*.12,ease:"power3.out",
+      scrollTrigger:{trigger:el,start:"top 88%"}});
+  });
+}
 </script>
 </body>
 </html>
