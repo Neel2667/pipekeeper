@@ -208,7 +208,7 @@
 
     <div class="tbl-scroll">
       <table>
-        <thead><tr><th>Posting</th><th>Location</th><th style="text-align:right">Est. pay / wk</th><th>Contract</th><th>Type</th><th></th></tr></thead>
+        <thead><tr><th>Posting</th><th>Location</th><th style="text-align:right">Est. pay</th><th>Contract</th><th>Type</th><th></th></tr></thead>
         <tbody id="rows"><tr><td colspan="6" style="color:var(--dim)">connecting…</td></tr></tbody>
       </table>
     </div>
@@ -288,10 +288,12 @@
 const FEED = "https://raw.githubusercontent.com/Neel2667/pipekeeper/main/data/hosthealthcare.json";
 const HEALTH = "https://raw.githubusercontent.com/Neel2667/pipekeeper/main/data/health.json";
 const money = n => n ? "$" + Number(String(n).replace(/,/g,"")).toLocaleString("en-US",{maximumFractionDigits:0}) : "—";
+const pay = j => j.pay_amount ? money(j.pay_amount) + (j.pay_unit === "hour" ? " /hr" : " /wk") : "—";
 let FEEDDATA = null, FILTER = "all";
-
 function ago(ts){
-  const m = Math.max(0, Math.round((Date.now() - new Date(ts.replace(" ", "T") + "Z")) / 60000));
+  const t = new Date(ts);
+  if (isNaN(t)) return "—";
+  const m = Math.max(0, Math.round((Date.now() - t.getTime()) / 60000));
   if (m < 1) return "just now";
   if (m === 1) return "1 min ago";
   if (m < 60) return m + " min ago";
@@ -317,7 +319,7 @@ function renderRows(d){
     <tr>
       <td class="title-cell">${j.title}</td>
       <td class="loc">${j.location}</td>
-      <td class="num" style="text-align:right">${money(j.pay_usd_week)}</td>
+      <td class="num" style="text-align:right">${pay(j)}</td>
       <td class="num">${j.weeks ? j.weeks+" wks" : "—"}</td>
       <td class="loc">${j.kind||"—"}</td>
       <td>${j.new_this_run?'<span class="badge">NEW</span>':""}</td>

@@ -24,7 +24,7 @@ CARD_RE = re.compile(
     r'jobcard__title">(?P<title>[^<]+)</strong>(?P<extra>.{0,2500}?)View\s+Details',
     re.S,
 )
-PAY_RE = re.compile(r"Estimated\s+(?:Hourly\s+Pay|Total\s+Pay):.*?\$\s*([\d,]+(?:\.\d+)?)", re.S)
+PAY_RE = re.compile(r"Estimated\s+(Hourly\s+Pay|Total\s+Pay):.*?\$\s*([\d,]+(?:\.\d+)?)", re.S)
 DURATION_RE = re.compile(r"(\d+)\s*Weeks", re.S)
 
 
@@ -49,7 +49,8 @@ def parse(html: str) -> list[dict]:
             {
                 "title": title,
                 "location": location,
-                "pay_usd_week": pay.group(1) if pay else None,
+                "pay_amount": pay.group(2) if pay else None,
+                "pay_unit": ("hour" if "hourly" in pay.group(1).lower() else "week") if pay else None,
                 "weeks": int(dur.group(1)) if dur else None,
                 "kind": kind,
             }

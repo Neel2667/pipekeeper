@@ -1,6 +1,6 @@
 {
  "source": "https://www.hosthealthcare.com/jobs/",
- "collected_at": "2026-11-15T09:22:54+00:00",
+ "collected_at": "2026-11-15T09:31:30+00:00",
  "jobs_on_board": 15,
  "new_this_run": 0,
  "total_tracked": 11,
@@ -8,7 +8,8 @@
   {
    "title": "Physical Therapist - Allied",
    "location": "Seattle, WA",
-   "pay_usd_week": "24,166.4",
+   "pay_amount": "24,166.4",
+   "pay_unit": "week",
    "weeks": 26,
    "kind": "travel",
    "new_this_run": false
@@ -16,7 +17,8 @@
   {
    "title": "CRNA",
    "location": "Bigfork, MN",
-   "pay_usd_week": "6,212.5",
+   "pay_amount": "6,212.5",
+   "pay_unit": "week",
    "weeks": 13,
    "kind": "travel",
    "new_this_run": false
@@ -24,7 +26,8 @@
   {
    "title": "Perfusionist - CVOR",
    "location": "Houston, TX",
-   "pay_usd_week": "6,212.5",
+   "pay_amount": "6,212.5",
+   "pay_unit": "week",
    "weeks": 13,
    "kind": "travel",
    "new_this_run": false
@@ -32,7 +35,8 @@
   {
    "title": "RN - Manager",
    "location": "Palo Alto, CA",
-   "pay_usd_week": "5,035.0",
+   "pay_amount": "5,035.0",
+   "pay_unit": "week",
    "weeks": 13,
    "kind": "travel",
    "new_this_run": false
@@ -40,7 +44,8 @@
   {
    "title": "Director of Oncology - Executive Leadership",
    "location": "Santa Maria, CA",
-   "pay_usd_week": "93.1",
+   "pay_amount": "93.1",
+   "pay_unit": "hour",
    "weeks": 13,
    "kind": "local",
    "new_this_run": false
@@ -48,7 +53,8 @@
   {
    "title": "Director of Periop Services, Cath Lab, EKG",
    "location": "Glendale, CA",
-   "pay_usd_week": "4,463.2",
+   "pay_amount": "4,463.2",
+   "pay_unit": "week",
    "weeks": 13,
    "kind": "travel",
    "new_this_run": false
@@ -56,7 +62,8 @@
   {
    "title": "Director of Oncology - Executive Leadership",
    "location": "Santa Maria, CA",
-   "pay_usd_week": "4,463.2",
+   "pay_amount": "4,463.2",
+   "pay_unit": "week",
    "weeks": 13,
    "kind": "travel",
    "new_this_run": false
@@ -64,7 +71,8 @@
   {
    "title": "RN - CVPICU",
    "location": "Columbus, OH",
-   "pay_usd_week": "4,411.4",
+   "pay_amount": "4,411.4",
+   "pay_unit": "week",
    "weeks": 8,
    "kind": "travel",
    "new_this_run": false
@@ -72,7 +80,8 @@
   {
    "title": "Cath Lab Tech",
    "location": "Bakersfield, CA",
-   "pay_usd_week": "4,409.1",
+   "pay_amount": "4,409.1",
+   "pay_unit": "week",
    "weeks": 13,
    "kind": "travel",
    "new_this_run": false
@@ -80,7 +89,8 @@
   {
    "title": "Cath Lab Tech",
    "location": "Bakersfield, CA",
-   "pay_usd_week": "4,409.1",
+   "pay_amount": "4,409.1",
+   "pay_unit": "week",
    "weeks": 13,
    "kind": "travel",
    "new_this_run": false
@@ -88,7 +98,8 @@
   {
    "title": "Cath Lab Tech",
    "location": "Bakersfield, CA",
-   "pay_usd_week": "4,409.1",
+   "pay_amount": "4,409.1",
+   "pay_unit": "week",
    "weeks": 20,
    "kind": "travel",
    "new_this_run": false
@@ -96,7 +107,8 @@
   {
    "title": "RN - CVPICU",
    "location": "Columbus, OH",
-   "pay_usd_week": "4,250.6",
+   "pay_amount": "4,250.6",
+   "pay_unit": "week",
    "weeks": 8,
    "kind": "travel",
    "new_this_run": false
@@ -104,7 +116,8 @@
   {
    "title": "RN - PICU",
    "location": "Columbus, OH",
-   "pay_usd_week": "4,089.6",
+   "pay_amount": "4,089.6",
+   "pay_unit": "week",
    "weeks": 8,
    "kind": "travel",
    "new_this_run": false
@@ -112,7 +125,8 @@
   {
    "title": "RN - NICU",
    "location": "Columbus, OH",
-   "pay_usd_week": "4,089.6",
+   "pay_amount": "4,089.6",
+   "pay_unit": "week",
    "weeks": 8,
    "kind": "travel",
    "new_this_run": false
@@ -120,7 +134,8 @@
   {
    "title": "RN - Nurse Manager",
    "location": "Bronx, NY",
-   "pay_usd_week": "95.0",
+   "pay_amount": "95.0",
+   "pay_unit": "hour",
    "weeks": 13,
    "kind": "local",
    "new_this_run": false
@@ -151,72 +166,77 @@
    "at": "2026-11-15T09:22:54+00:00",
    "jobs": 15,
    "new": 0
+  },
+  {
+   "at": "2026-11-15T09:31:30+00:00",
+   "jobs": 15,
+   "new": 0
   }
  ],
  "jobs_seen": {
   "physical therapist - allied|seattle, wa": {
    "first_seen": "2026-11-15T09:21:04+00:00",
-   "last_seen": "2026-11-15T09:22:54+00:00",
+   "last_seen": "2026-11-15T09:31:30+00:00",
    "title": "Physical Therapist - Allied",
    "location": "Seattle, WA"
   },
   "crna|bigfork, mn": {
    "first_seen": "2026-11-15T09:21:04+00:00",
-   "last_seen": "2026-11-15T09:22:54+00:00",
+   "last_seen": "2026-11-15T09:31:30+00:00",
    "title": "CRNA",
    "location": "Bigfork, MN"
   },
   "perfusionist - cvor|houston, tx": {
    "first_seen": "2026-11-15T09:21:04+00:00",
-   "last_seen": "2026-11-15T09:22:54+00:00",
+   "last_seen": "2026-11-15T09:31:30+00:00",
    "title": "Perfusionist - CVOR",
    "location": "Houston, TX"
   },
   "rn - manager|palo alto, ca": {
    "first_seen": "2026-11-15T09:21:04+00:00",
-   "last_seen": "2026-11-15T09:22:54+00:00",
+   "last_seen": "2026-11-15T09:31:30+00:00",
    "title": "RN - Manager",
    "location": "Palo Alto, CA"
   },
   "director of oncology - executive leadership|santa maria, ca": {
    "first_seen": "2026-11-15T09:21:04+00:00",
-   "last_seen": "2026-11-15T09:22:54+00:00",
+   "last_seen": "2026-11-15T09:31:30+00:00",
    "title": "Director of Oncology - Executive Leadership",
    "location": "Santa Maria, CA"
   },
   "director of periop services, cath lab, ekg|glendale, ca": {
    "first_seen": "2026-11-15T09:21:04+00:00",
-   "last_seen": "2026-11-15T09:22:54+00:00",
+   "last_seen": "2026-11-15T09:31:30+00:00",
    "title": "Director of Periop Services, Cath Lab, EKG",
    "location": "Glendale, CA"
   },
   "rn - cvpicu|columbus, oh": {
    "first_seen": "2026-11-15T09:21:04+00:00",
-   "last_seen": "2026-11-15T09:22:54+00:00",
+   "last_seen": "2026-11-15T09:31:30+00:00",
    "title": "RN - CVPICU",
    "location": "Columbus, OH"
   },
   "cath lab tech|bakersfield, ca": {
    "first_seen": "2026-11-15T09:21:04+00:00",
-   "last_seen": "2026-11-15T09:22:54+00:00",
+   "last_seen": "2026-11-15T09:31:30+00:00",
    "title": "Cath Lab Tech",
    "location": "Bakersfield, CA"
   },
   "rn - picu|columbus, oh": {
    "first_seen": "2026-11-15T09:21:04+00:00",
-   "last_seen": "2026-11-15T09:22:54+00:00",
+   "last_seen": "2026-11-15T09:31:30+00:00",
    "title": "RN - PICU",
    "location": "Columbus, OH"
   },
   "rn - nicu|columbus, oh": {
    "first_seen": "2026-11-15T09:21:04+00:00",
-   "last_seen": "2026-11-15T09:22:54+00:00",
+   "last_seen": "2026-11-15T09:31:30+00:00",
    "title": "RN - NICU",
    "location": "Columbus, OH"
   },
   "rn - nurse manager|bronx, ny": {
    "first_seen": "2026-11-15T09:21:04+00:00",
-   "last_seen": "2026-11-15T09:22:54+00:00",
+   "last_seen": "2026-11-15T09:31:30+00:00",
    "title": "RN - Nurse Manager",
    "location": "Bronx, NY"
   }
