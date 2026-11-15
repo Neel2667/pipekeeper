@@ -531,7 +531,7 @@ async function selectFeed(id){
   document.getElementById("rows").innerHTML=`<tr><td colspan="5" style="color:var(--faint)">loading ${esc(id)}…</td></tr>`;
   try{
     FEEDDATA=await (await fetch(RAW+id+".json?t="+Date.now())).json();
-    document.getElementById("feed-label").textContent=FEEDDATA.name||id;
+    if(FEEDDATA.name)document.getElementById("feed-label").textContent=FEEDDATA.name;
     renderRows(FEEDDATA);renderSpark(FEEDDATA);
   }catch(e){
     document.getElementById("rows").innerHTML=`<tr><td colspan="5" style="color:var(--faint)">feed warming up — first collection may still be committing.</td></tr>`;
@@ -556,7 +556,7 @@ function animCount(id,target){
 async function loadAll(){
   try{
     FEEDDATA=await (await fetch(RAW+ACTIVE+".json?t="+Date.now())).json();
-    document.getElementById("feed-label").textContent=FEEDDATA.name||ACTIVE;
+    if(FEEDDATA.name)document.getElementById("feed-label").textContent=FEEDDATA.name;
     renderDash(FEEDDATA);renderTicker(FEEDDATA);renderRows(FEEDDATA);renderSpark(FEEDDATA);
   }catch(e){console.log("feed pending first cloud run")}
   try{
