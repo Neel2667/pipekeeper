@@ -1,0 +1,41 @@
+name: newsletter
+
+# PipeKeeper Weekly — generated from the live pipeline and delivered every
+# Monday 09:00 UTC. Delivery via MailerLite API if ML_API_KEY secret is set,
+# otherwise plain SMTP (SMTP_* secrets), otherwise preview-only.
+# Digest preview is always committed to data/digest_preview.html so anyone
+# can read the latest issue on GitHub.
+
+on:
+  schedule:
+    - cron: "0 9 * * 1" # Mondays 09:00 UTC
+  workflow_dispatch: {} # manual trigger / test send
+
+permissions:
+  contents: write
+
+jobs:
+  send:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Build & deliver digest
+        env:
+          ML_API_KEY: ${{ secrets.ML_API_KEY }}
+          ML_GROUP_ID: ${{ secrets.ML_GROUP_ID }}
+          SMTP_HOST: ${{ secrets.SMTP_HOST }}
+          SMTP_PORT: ${{ secrets.SMTP_PORT }}
+          SMTP_USER: ${{ secrets.SMTP_USER }}
+          SMTP_PASS: ${{ secrets.SMTP_PASS }}
+          SMTP_TO: ${{ secrets.SMTP_TO }}
+          NEWSLETTER_FROM: ${{ secrets.NEWSLETTER_FROM }}
+        run: python3 newsletter/build_digest.py
+
+      - name: Commit preview
+        run: |
+          git config user.name "pipekeeper-bot"
+          git config user.email "actions@pipekeeper.local"
+          git add data/digest_preview.html
+          git diff --cached --quiet || git commit -m "newsletter: weekly digest $(date -u +%Y-%m-%d)"
+          git push
