@@ -3,654 +3,996 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>PipeKeeper — Data infrastructure that never sleeps</title>
-<meta name="description" content="Self-healing data pipelines and fresh niche data feeds, collected hourly. Zero servers of ours to break.">
-<link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'%3E%3Crect width='32' height='32' rx='8' fill='%230B0D12'/%3E%3Ccircle cx='16' cy='16' r='5' fill='%23D8F35A'/%3E%3C/svg%3E">
+<title>PipeKeeper — Market data, collected hourly, never allowed to die</title>
+<meta name="description" content="PipeKeeper runs self-healing data pipelines on public sources and sells the fresh, structured output. A live public-data register, updated hourly.">
+<link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'%3E%3Crect width='32' height='32' fill='%2314140F'/%3E%3Crect x='7' y='8' width='12' height='2' fill='%23F2EEE4'/%3E%3Crect x='7' y='14' width='18' height='2' fill='%23F2EEE4'/%3E%3Crect x='7' y='20' width='9' height='2' fill='%23F2EEE4'/%3E%3Crect x='23' y='19' width='3' height='3' fill='%23D8451E'/%3E%3C/svg%3E">
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link href="https://fonts.googleapis.com/css2?family=Instrument+Serif:ital@0;1&family=Space+Grotesk:wght@400;500;600;700&family=JetBrains+Mono:wght@400;500;600&display=swap" rel="stylesheet">
-<script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/3.12.5/gsap.min.js"></script>
-<script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/3.12.5/ScrollTrigger.min.js"></script>
+<link href="https://fonts.googleapis.com/css2?family=Archivo:wght@400;500;600;700;800&family=IBM+Plex+Mono:wght@400;500;600&family=Newsreader:ital,opsz,wght@0,6..72,400;1,6..72,400&display=swap" rel="stylesheet">
 <style>
+/* ============================================================
+   PIPEKEEPER — PUBLIC DATA REGISTER
+   A printed technical register: warm paper, ink rules,
+   specimen figures, one signal colour. No gradients, no glass.
+   ============================================================ */
 :root{
-  --bg:#F7F8F3; --bg2:#FFFFFF; --card:#FFFFFF; --glass:rgba(255,255,255,.78);
-  --line:rgba(21,24,29,.08); --line2:rgba(21,24,29,.15);
-  --ink:#15181D; --dim:#59606E; --faint:#8A91A0;
-  --acc:#CDEF3C; --acc-t:#5E7C08; --acc-ink:#161B04;
-  --disp:"Instrument Serif",serif; --sans:"Space Grotesk",sans-serif; --mono:"JetBrains Mono",monospace;
+  --paper:#F2EEE4;
+  --paper-hi:#FAF7EF;
+  --paper-lo:#E7E1D3;
+  --ink:#14140F;
+  --ink-70:#4C4B42;
+  --ink-45:#7B796D;
+  --rule:rgba(20,20,15,.13);
+  --rule-2:rgba(20,20,15,.26);
+  --rule-3:rgba(20,20,15,.5);
+  --signal:#D8451E;
+  --ok:#2C6B51;
+  --disp:"Archivo",Helvetica,Arial,sans-serif;
+  --serif:"Newsreader",Georgia,serif;
+  --mono:"IBM Plex Mono",ui-monospace,Menlo,monospace;
+  --shell:1240px;
+  --ease:cubic-bezier(.16,1,.3,1);
 }
 *{box-sizing:border-box;margin:0;padding:0}
-html{scroll-behavior:smooth}
-body{background:var(--bg);color:var(--ink);font:400 16px/1.6 var(--sans);
-  -webkit-font-smoothing:antialiased;text-rendering:optimizeLegibility;overflow-x:hidden}
-::selection{background:var(--acc);color:var(--acc-ink)}
-::-webkit-scrollbar{width:10px}::-webkit-scrollbar-thumb{background:#23282f;border-radius:8px}
-::-webkit-scrollbar-track{background:var(--bg)}
+html{-webkit-text-size-adjust:100%}
+body{
+  background:var(--paper);color:var(--ink);
+  font:400 16px/1.65 var(--disp);
+  -webkit-font-smoothing:antialiased;text-rendering:optimizeLegibility;
+  overflow-x:hidden;padding-top:64px;
+}
+::selection{background:var(--ink);color:var(--paper)}
 a{color:inherit;text-decoration:none}
-.wrap{max-width:1140px;margin:0 auto;padding:0 28px}
-.grain{position:fixed;inset:0;z-index:100;pointer-events:none;opacity:.035;mix-blend-mode:multiply;
-  background-image:url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='160' height='160'%3E%3Cfilter id='n'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='0.9' numOctaves='2'/%3E%3C/filter%3E%3Crect width='100%25' height='100%25' filter='url(%23n)'/%3E%3C/svg%3E")}
+button{font:inherit;color:inherit;background:none;border:none;cursor:pointer}
+img,svg{display:block}
+:focus-visible{outline:2px solid var(--signal);outline-offset:3px}
+.shell{width:100%;max-width:var(--shell);margin:0 auto;padding:0 36px}
+@media(max-width:640px){.shell{padding:0 20px}}
 
-/* ============ NAV ============ */
-nav{position:fixed;top:0;left:0;right:0;z-index:90;transition:.3s;border-bottom:1px solid transparent}
-nav.scrolled{background:rgba(247,248,243,.78);backdrop-filter:blur(18px);border-bottom-color:var(--line)}
-.nav-in{display:flex;align-items:center;justify-content:space-between;height:68px}
-.brand{display:flex;align-items:center;gap:11px;font:600 1.05rem/1 var(--sans);letter-spacing:-.01em}
-.brand-mark{width:26px;height:26px;border-radius:8px;background:linear-gradient(135deg,#1A1E27,#0E1116);
-  border:1px solid rgba(21,24,29,.2);display:grid;place-items:center}
-.brand-mark i{width:9px;height:9px;border-radius:50%;background:var(--acc);display:block;
-  box-shadow:0 0 12px 2px rgba(216,243,90,.55);animation:pulse 2.6s infinite}
-@keyframes pulse{0%,100%{transform:scale(1);opacity:1}50%{transform:scale(.75);opacity:.7}}
-.nav-links{display:flex;gap:32px;font-size:.9rem;color:var(--dim)}
-.nav-links a{position:relative;transition:color .2s;white-space:nowrap}
-@media(max-width:700px){.nav-in{gap:12px}.brand{font-size:.9rem}.nav-links{gap:12px;font-size:.74rem}.nav-links a:nth-child(n+3){display:none}.nav-cta{padding:8px 12px;font-size:.78rem}}
-.nav-links a:hover{color:var(--ink)}
-.nav-links a::after{content:"";position:absolute;left:0;bottom:-4px;width:0;height:1px;background:var(--acc);transition:width .25s}
-.nav-links a:hover::after{width:100%}
-.btn{display:inline-flex;align-items:center;gap:9px;border-radius:12px;padding:12px 22px;
-  font:500 .92rem/1 var(--sans);cursor:pointer;border:none;position:relative;overflow:hidden;transition:transform .2s}
-.btn-primary{background:var(--acc);color:var(--acc-ink);box-shadow:0 6px 20px -6px rgba(140,180,10,.45)}
-.btn-primary:hover{transform:translateY(-2px);box-shadow:0 12px 30px -8px rgba(140,180,10,.55)}
-.btn-ghost{background:rgba(21,24,29,.03);border:1px solid var(--line2);color:var(--ink);backdrop-filter:blur(8px)}
-.btn-ghost:hover{background:rgba(21,24,29,.06);transform:translateY(-2px)}
-.nav-cta{padding:10px 18px;border-radius:10px;font-size:.88rem}
+/* ---------- type primitives ---------- */
+.mono{font-family:var(--mono);font-size:.66rem;letter-spacing:.15em;text-transform:uppercase;color:var(--ink-70)}
+.serif{font-family:var(--serif);font-style:italic;font-weight:400}
+h2{font:700 clamp(1.9rem,3.3vw,2.85rem)/1.03 var(--disp);letter-spacing:-.04em;max-width:22ch}
+h3{font:700 clamp(1.35rem,2vw,1.7rem)/1.15 var(--disp);letter-spacing:-.03em}
+p{max-width:64ch}
+.lede{font-size:1.06rem;line-height:1.68;color:var(--ink-70);max-width:52ch}
+.body{font-size:.94rem;line-height:1.72;color:var(--ink-70)}
 
-/* ============ HERO ============ */
-.hero{position:relative;min-height:100vh;display:flex;align-items:center;padding:140px 0 80px;overflow:hidden}
-.hero-bg{position:absolute;inset:0;pointer-events:none}
-.mesh{position:absolute;border-radius:50%;filter:blur(90px);opacity:.5}
-.mesh.a{width:640px;height:640px;background:radial-gradient(circle,rgba(190,225,45,.22),transparent 62%);top:-200px;right:-140px;animation:drift 16s ease-in-out infinite alternate}
-.mesh.b{width:540px;height:540px;background:radial-gradient(circle,rgba(120,160,255,.14),transparent 62%);bottom:-220px;left:-160px;animation:drift 20s ease-in-out infinite alternate-reverse}
-@keyframes drift{from{transform:translate(0,0) scale(1)}to{transform:translate(60px,40px) scale(1.12)}}
-.grid-lines{position:absolute;inset:0;
-  background-image:linear-gradient(rgba(21,24,29,.05) 1px,transparent 1px),linear-gradient(90deg,rgba(21,24,29,.05) 1px,transparent 1px);
-  background-size:56px 56px;mask-image:radial-gradient(ellipse 90% 70% at 50% 40%,black 30%,transparent 78%)}
-.hero-grid{display:grid;grid-template-columns:1.05fr .95fr;gap:64px;align-items:center;position:relative}
-@media(max-width:960px){.hero-grid{grid-template-columns:1fr;gap:56px}}
-.eyebrow{display:inline-flex;align-items:center;gap:10px;font:500 .74rem/1 var(--mono);
-  letter-spacing:.16em;text-transform:uppercase;color:var(--dim);border:1px solid var(--line);
-  border-radius:99px;padding:9px 16px;background:rgba(255,255,255,.6);backdrop-filter:blur(6px)}
-.eyebrow i{width:7px;height:7px;border-radius:50%;background:var(--acc);animation:pulse 2.2s infinite}
-h1{font:400 clamp(3rem,5.6vw,4.9rem)/1.02 var(--disp);letter-spacing:-.02em;margin:30px 0 0}
-h1 .line{display:block;overflow:hidden}
-h1 .line span{display:inline-block}
-h1 em{font-style:italic;color:var(--acc-t)}
-.lede{color:var(--dim);font-size:1.1rem;max-width:50ch;margin-top:24px;line-height:1.7}
-.lede b{color:var(--ink);font-weight:500}
-.hero-cta{display:flex;gap:14px;margin-top:38px;flex-wrap:wrap}
-.hero-meta{display:flex;gap:26px;margin-top:44px;color:var(--faint);font:400 .8rem/1.4 var(--mono);flex-wrap:wrap}
-.hero-meta b{color:var(--dim);font-weight:500}
+/* ---------- buttons ---------- */
+.btn{display:inline-flex;align-items:center;justify-content:center;gap:10px;
+  padding:14px 20px;border-radius:2px;border:1px solid var(--ink);
+  font:500 .72rem/1 var(--mono);letter-spacing:.1em;text-transform:uppercase;
+  transition:background .18s linear,color .18s linear,border-color .18s linear;white-space:nowrap}
+.btn .ar{transition:transform .25s var(--ease)}
+.btn:hover .ar{transform:translateX(3px)}
+.btn-ink{background:var(--ink);color:var(--paper)}
+.btn-ink:hover{background:var(--signal);border-color:var(--signal);color:#fff}
+.btn-line{background:transparent;color:var(--ink)}
+.btn-line:hover{background:var(--ink);color:var(--paper)}
+.btn-sm{padding:11px 15px;font-size:.66rem}
+.link{display:inline-flex;align-items:center;gap:8px;font:500 .72rem/1 var(--mono);
+  letter-spacing:.1em;text-transform:uppercase;border-bottom:1px solid var(--ink);padding-bottom:4px;
+  transition:color .18s,border-color .18s}
+.link:hover{color:var(--signal);border-color:var(--signal)}
 
-/* hero dashboard */
-.dash{position:relative;perspective:1400px}
-.dash-card{position:relative;border-radius:22px;overflow:hidden;
-  background:linear-gradient(165deg,#FFFFFF,#F4F6EE);
-  border:1px solid rgba(21,24,29,.1);box-shadow:0 40px 90px -34px rgba(30,40,70,.28),0 2px 6px rgba(30,40,70,.05);
-  transform-style:preserve-3d;will-change:transform;transition:transform .18s ease-out}
-.dash-head{display:flex;justify-content:space-between;align-items:center;padding:16px 20px;border-bottom:1px solid var(--line)}
-.dash-dots{display:flex;gap:7px}.dash-dots i{width:10px;height:10px;border-radius:50%;background:#E3E6DC}
-.dash-dots i:first-child{background:#C9CDBE}
-.dash-title{font:500 .72rem/1 var(--mono);letter-spacing:.12em;text-transform:uppercase;color:var(--faint)}
-.dash-live{display:flex;align-items:center;gap:8px;font:500 .7rem/1 var(--mono);color:var(--acc-t)}
-.dash-live i{width:7px;height:7px;border-radius:50%;background:var(--acc);animation:pulse 2s infinite}
-.dash-body{padding:18px 20px}
-.dash-row{display:flex;justify-content:space-between;align-items:center;padding:12px 14px;border-radius:12px;
-  background:#F6F8F0;margin-bottom:9px;border:1px solid rgba(21,24,29,.06);
-  font:500 .84rem/1.3 var(--sans);animation:slidein .5s cubic-bezier(.2,.8,.2,1) backwards}
-.dash-row:nth-child(1){animation-delay:.15s}.dash-row:nth-child(2){animation-delay:.3s}
-.dash-row:nth-child(3){animation-delay:.45s}.dash-row:nth-child(4){animation-delay:.6s}
-@keyframes slidein{from{opacity:0;transform:translateX(24px)}to{opacity:1;transform:none}}
-.dash-row .jr{display:flex;flex-direction:column;gap:3px;min-width:0}
-.dash-row .jt{font-weight:600;white-space:nowrap;overflow:hidden;text-overflow:ellipsis;max-width:210px}
-.dash-row .jl{font:400 .72rem/1 var(--mono);color:var(--faint)}
-.dash-row .jp{font:600 .88rem/1 var(--mono);color:var(--acc-t);white-space:nowrap}
-.dash-row .np{font:600 .6rem/1 var(--mono);letter-spacing:.08em;color:var(--acc-ink);
-  background:var(--acc);border-radius:99px;padding:4px 8px;margin-left:10px}
-.dash-foot{display:flex;justify-content:space-between;align-items:center;padding:14px 20px;border-top:1px solid var(--line);
-  font:400 .72rem/1 var(--mono);color:var(--faint)}
-.dash-foot b{color:var(--dim);font-weight:500}
-.float-chip{position:absolute;z-index:2;padding:12px 16px;border-radius:14px;
-  background:rgba(255,255,255,.92);backdrop-filter:blur(12px);border:1px solid var(--line2);
-  box-shadow:0 20px 50px -14px rgba(30,40,70,.25);font:500 .78rem/1.3 var(--mono);animation:bob 6s ease-in-out infinite}
-.float-chip .fc-t{color:var(--acc-t);font-size:.68rem;letter-spacing:.12em;text-transform:uppercase;display:block;margin-bottom:4px}
-.float-chip .fc-n{color:var(--ink);font-weight:600}
-.chip-1{top:-46px;right:-14px}
-.chip-2{bottom:-40px;left:-5%;animation-delay:1.4s}
-@keyframes bob{0%,100%{transform:translateY(0)}50%{transform:translateY(-12px)}}
-@media(max-width:960px){.chip-2{left:4%}}
+/* ---------- masthead ---------- */
+.masthead{position:fixed;top:0;left:0;right:0;z-index:90;background:var(--paper);
+  border-bottom:1px solid var(--rule-2)}
+.masthead-in{display:flex;align-items:center;justify-content:space-between;height:64px;gap:28px}
+.logo{display:flex;align-items:baseline;gap:10px;font:800 1.06rem/1 var(--disp);letter-spacing:-.035em}
+.logo .glyph{width:11px;height:11px;background:var(--ink);display:inline-block;position:relative;top:0}
+.logo .glyph::after{content:"";position:absolute;right:-4px;bottom:-4px;width:4px;height:4px;background:var(--signal)}
+.logo .est{font:400 .56rem/1 var(--mono);letter-spacing:.18em;text-transform:uppercase;color:var(--ink-45);
+  padding-left:12px;border-left:1px solid var(--rule-2)}
+@media(max-width:560px){.logo .est{display:none}}
+.mast-nav{display:flex;gap:26px}
+.mast-nav a{font:500 .68rem/1 var(--mono);letter-spacing:.11em;text-transform:uppercase;color:var(--ink-70);
+  padding:6px 0;border-bottom:1px solid transparent;transition:color .18s,border-color .18s}
+.mast-nav a:hover{color:var(--ink);border-color:var(--signal)}
+.mast-right{display:flex;align-items:center;gap:18px}
+.sysdot{display:flex;align-items:center;gap:8px;font:400 .62rem/1 var(--mono);letter-spacing:.1em;
+  text-transform:uppercase;color:var(--ink-70);white-space:nowrap}
+.sysdot i{width:6px;height:6px;background:var(--ok);display:block}
+@media(max-width:1080px){.mast-nav,.sysdot{display:none}}
+@media(max-width:420px){.mast-right .btn{padding:10px 12px;font-size:.6rem}}
 
-/* ============ TICKER ============ */
-.ticker{border-top:1px solid var(--line);border-bottom:1px solid var(--line);
-  background:var(--bg2);overflow:hidden;padding:16px 0;position:relative}
-.ticker-track{display:flex;gap:48px;width:max-content;animation:marquee 42s linear infinite}
+/* ---------- dateline ---------- */
+.dateline{border-bottom:1px solid var(--rule-2);background:var(--paper-hi)}
+.dateline-in{display:flex;align-items:center;justify-content:space-between;gap:20px;padding:9px 0;
+  font:400 .6rem/1 var(--mono);letter-spacing:.14em;text-transform:uppercase;color:var(--ink-45)}
+.dateline-in b{color:var(--ink);font-weight:500}
+.dateline-in .sep{color:var(--rule-3)}
+@media(max-width:760px){
+  .dateline-in{gap:14px;justify-content:flex-start}
+  .dateline-in span:nth-child(n+3),.dateline-in .sep{display:none}
+}
+/* ---------- hero ---------- */
+.hero{padding:104px 0 0;position:relative}
+.hero::before{content:"";position:absolute;inset:100px 0 0;pointer-events:none;
+  background-image:linear-gradient(90deg,var(--rule) 1px,transparent 1px);
+  background-size:calc(100% / 6) 100%;
+  mask-image:linear-gradient(180deg,#000,rgba(0,0,0,.25) 70%,transparent);
+  -webkit-mask-image:linear-gradient(180deg,#000,rgba(0,0,0,.25) 70%,transparent)}
+.hero-in{position:relative;display:grid;grid-template-columns:minmax(0,1.12fr) minmax(0,.88fr);gap:60px;
+  align-items:start;padding-bottom:72px}
+@media(max-width:1000px){.hero-in{grid-template-columns:minmax(0,1fr);gap:52px;padding-bottom:56px}}
+.hero-kicker{display:flex;align-items:center;gap:12px;margin-bottom:26px}
+.hero-kicker .tag{background:var(--ink);color:var(--paper);padding:5px 8px;font:500 .56rem/1 var(--mono);
+  letter-spacing:.18em;text-transform:uppercase}
+.hero-kicker .txt{font:400 .6rem/1 var(--mono);letter-spacing:.16em;text-transform:uppercase;color:var(--ink-45)}
+h1{font:800 clamp(2.1rem,5.3vw,4.55rem)/.98 var(--disp);letter-spacing:-.048em;margin:0}
+@media(max-width:420px){h1{font-size:1.95rem;letter-spacing:-.04em}}
+h1 .line{display:block;overflow:hidden;padding-bottom:.06em}
+h1 .line > span{display:block;animation:rise .9s var(--ease) both}
+h1 .line:nth-child(2) > span{animation-delay:.07s}
+h1 .line:nth-child(3) > span{animation-delay:.14s}
+@keyframes rise{from{transform:translateY(106%)}to{transform:translateY(0)}}
+h1 em{font:400 italic 1.02em/1 var(--serif);letter-spacing:-.03em;font-style:italic;
+  text-decoration:underline;text-decoration-color:var(--signal);text-decoration-thickness:3px;
+  text-underline-offset:.12em;text-decoration-skip-ink:none}
+.hero-lede{margin-top:30px}
+.hero-actions{display:flex;align-items:center;gap:24px;margin-top:34px;flex-wrap:wrap}
+.hero-index{display:grid;grid-template-columns:repeat(3,auto);gap:0;margin-top:46px;
+  border-top:1px solid var(--rule-2);max-width:520px}
+.hero-index div{padding:14px 22px 0 0}
+.hero-index div + div{padding-left:22px;border-left:1px solid var(--rule)}
+.hero-index .k{font:400 .56rem/1 var(--mono);letter-spacing:.16em;text-transform:uppercase;color:var(--ink-45)}
+.hero-index .v{font:600 .82rem/1.3 var(--disp);margin-top:6px}
+
+/* ---------- figure (live register) ---------- */
+.figure{position:relative;background:var(--paper-hi);border:1px solid var(--rule-3);
+  box-shadow:10px 10px 0 rgba(20,20,15,.07)}
+.stamp{position:absolute;bottom:-24px;right:26px;transform:rotate(-4.5deg);z-index:3;
+  border:2px solid var(--signal);color:var(--signal);background:rgba(250,247,239,.94);
+  font:600 .56rem/1 var(--mono);letter-spacing:.2em;text-transform:uppercase;padding:6px 9px}
+.fig-head{display:flex;align-items:center;justify-content:space-between;gap:12px;padding:11px 14px;
+  border-bottom:1px solid var(--rule-2);font:400 .58rem/1 var(--mono);letter-spacing:.15em;
+  text-transform:uppercase;color:var(--ink-45)}
+.fig-live{display:flex;align-items:center;gap:7px;color:var(--signal)}
+.fig-live i{width:6px;height:6px;background:var(--signal);animation:blink 2s steps(1) infinite}
+@keyframes blink{0%,49%{opacity:1}50%,100%{opacity:.15}}
+.fig-stat{display:flex;align-items:flex-end;justify-content:space-between;gap:16px;padding:18px 14px 2px}
+.fig-stat .v{font:800 3.15rem/1 var(--disp);letter-spacing:-.055em;font-variant-numeric:tabular-nums}
+.fig-stat .v small{font:400 .58rem/1.4 var(--mono);letter-spacing:.14em;text-transform:uppercase;
+  color:var(--ink-45);margin-left:9px;vertical-align:middle;display:inline-block;max-width:92px}
+.fig-stat .delta{text-align:right;font:500 .66rem/1.5 var(--mono);color:var(--signal);white-space:nowrap}
+.fig-stat .delta > span{display:block;font-size:.56rem;letter-spacing:.14em;text-transform:uppercase;color:var(--ink-45);margin-top:3px}
+.fig-stat .delta b{font-size:.82rem;letter-spacing:.02em}
+.fig-spark{padding:6px 14px 0}
+#hero-spark{width:100%;height:52px;display:block}
+.fig-body{padding:8px 6px 6px}
+.fig-row{display:grid;grid-template-columns:minmax(0,1fr) auto;gap:2px 14px;padding:9px 8px;
+  border-top:1px solid var(--rule);align-items:baseline}
+.fig-row:first-child{border-top:1px solid var(--rule-2)}
+.fig-row .t{font:500 .78rem/1.35 var(--disp);white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
+.fig-row .l{font:400 .56rem/1.3 var(--mono);letter-spacing:.1em;text-transform:uppercase;color:var(--ink-45);
+  white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
+.fig-row .d{font:500 .7rem/1 var(--mono);color:var(--ink);white-space:nowrap;text-align:right}
+.fig-row .nw{display:inline-block;background:var(--signal);color:#fff;font:600 .5rem/1 var(--mono);
+  letter-spacing:.1em;padding:3px 4px;margin-left:6px;vertical-align:middle}
+.fig-foot{display:flex;align-items:center;justify-content:space-between;gap:10px;padding:10px 14px;
+  border-top:1px solid var(--rule-2);background:var(--paper-lo);
+  font:400 .56rem/1 var(--mono);letter-spacing:.1em;text-transform:uppercase;color:var(--ink-45)}
+.fig-foot b{color:var(--ink);font-weight:500}
+@media(max-width:520px){.fig-stat .v{font-size:2.5rem}.stamp{display:none}}
+
+/* ---------- ticker ---------- */
+.ticker{background:var(--ink);color:var(--paper);position:relative;overflow:hidden}
+.ticker-in{display:flex;align-items:stretch}
+.tick-tag{flex:none;display:flex;align-items:center;gap:8px;background:var(--signal);color:#fff;
+  padding:0 16px;font:600 .58rem/1 var(--mono);letter-spacing:.2em;text-transform:uppercase;z-index:2}
+.ticker-track{display:flex;gap:44px;width:max-content;padding:11px 22px;animation:marquee 58s linear infinite}
 .ticker:hover .ticker-track{animation-play-state:paused}
 @keyframes marquee{to{transform:translateX(-50%)}}
-.tick-item{display:flex;align-items:center;gap:12px;font:500 .84rem/1 var(--mono);color:var(--dim);white-space:nowrap}
-.tick-item .tp{color:var(--acc-t);font-weight:600}
-.tick-item .sep{color:#D3D7C9}
-.tick-tag{position:absolute;left:24px;top:50%;transform:translateY(-50%);z-index:2;
-  font:600 .66rem/1 var(--mono);letter-spacing:.14em;color:var(--acc-ink);background:var(--acc);
-  padding:7px 12px;border-radius:99px}
+.tick-item{display:flex;align-items:center;gap:10px;font:400 .7rem/1 var(--mono);
+  letter-spacing:.02em;color:rgba(242,238,228,.66);white-space:nowrap}
+.tick-item .tp{color:var(--paper);font-weight:500}
+.tick-item .sep{color:rgba(242,238,228,.28)}
 
-/* ============ SECTIONS ============ */
-section{padding:110px 0;position:relative}
-.kicker{font:500 .72rem/1 var(--mono);letter-spacing:.18em;text-transform:uppercase;color:var(--acc-t);margin-bottom:18px;display:flex;align-items:center;gap:12px}
-.kicker::before{content:"";width:26px;height:1px;background:var(--acc);opacity:.6}
-h2{font:400 clamp(2rem,3.6vw,3rem)/1.12 var(--disp);letter-spacing:-.015em;max-width:24ch}
-h2 em{font-style:italic;color:var(--acc-t)}
-.sec-sub{color:var(--dim);max-width:56ch;margin-top:16px;font-size:1.02rem}
+/* ---------- figures band ---------- */
+.figures{border-bottom:1px solid var(--rule-2)}
+.figures-in{display:grid;grid-template-columns:repeat(4,1fr);border-top:2px solid var(--ink)}
+@media(max-width:820px){.figures-in{grid-template-columns:repeat(2,1fr)}}
+.cell{padding:26px 22px 24px;border-right:1px solid var(--rule);border-bottom:1px solid var(--rule)}
+.cell:nth-child(4n){border-right:none}
+@media(max-width:820px){.cell:nth-child(2n){border-right:none}}
+.cell .k{font:400 .56rem/1 var(--mono);letter-spacing:.17em;text-transform:uppercase;color:var(--ink-45)}
+.cell .v{font:800 clamp(1.9rem,2.9vw,2.5rem)/1 var(--disp);letter-spacing:-.05em;margin:14px 0 8px;
+  font-variant-numeric:tabular-nums}
+.cell .v small{font:700 .9rem/1 var(--disp);color:var(--signal);letter-spacing:0;margin-left:2px}
+.cell .l{font-size:.76rem;color:var(--ink-70);line-height:1.5}
 
-/* stats */
-.stats{border-top:1px solid var(--line);border-bottom:1px solid var(--line);background:var(--bg2)}
-.stats-in{display:grid;grid-template-columns:repeat(4,1fr);gap:20px;padding:44px 0}
-@media(max-width:760px){.stats-in{grid-template-columns:repeat(2,1fr)}}
-.stat{position:relative;padding-left:20px}
-.stat::before{content:"";position:absolute;left:0;top:6px;bottom:6px;width:2px;border-radius:2px;
-  background:linear-gradient(to bottom,var(--acc),transparent)}
-.stat .n{font:600 2.3rem/1.1 var(--mono);font-variant-numeric:tabular-nums;letter-spacing:-.03em}
-.stat .n small{font-size:1.2rem;color:var(--acc-t)}
-.stat .l{color:var(--dim);font-size:.82rem;margin-top:6px}
+/* ---------- section scaffolding ---------- */
+.band{padding:78px 0 0}
+.band-open{border-top:2px solid var(--ink);padding-top:26px}
+.band-head{display:grid;grid-template-columns:210px minmax(0,1fr);gap:44px;margin-bottom:40px}
+@media(max-width:880px){.band-head{grid-template-columns:1fr;gap:20px;margin-bottom:32px}}
+.bh-idx{display:flex;flex-direction:column;gap:10px}
+.bh-idx .num{font:500 .72rem/1 var(--mono);letter-spacing:.16em;color:var(--signal)}
+.bh-idx .lbl{font:400 .58rem/1.5 var(--mono);letter-spacing:.17em;text-transform:uppercase;color:var(--ink-45)}
+.bh-main h2 + p{margin-top:18px}
+@media(max-width:880px){.band-head .bh-main{padding-top:6px}}
 
-/* feed */
-.feed-panel{border-radius:24px;background:var(--glass);backdrop-filter:blur(16px);
-  border:1px solid var(--line);box-shadow:0 30px 80px -44px rgba(30,40,70,.3);overflow:hidden}
-.feed-top{display:flex;justify-content:space-between;align-items:center;gap:16px;flex-wrap:wrap;
-  padding:22px 26px;border-bottom:1px solid var(--line)}
-.feed-top .fl{display:flex;align-items:center;gap:10px;font:500 .74rem/1 var(--mono);
-  letter-spacing:.14em;text-transform:uppercase;color:var(--dim)}
-.feed-top .fl i{width:8px;height:8px;border-radius:50%;background:var(--acc);animation:pulse 2s infinite}
-.toggle{display:inline-flex;border:1px solid var(--line2);border-radius:10px;overflow:hidden;background:rgba(21,24,29,.03)}
-.toggle button{background:transparent;border:none;color:var(--dim);padding:8px 16px;cursor:pointer;font:500 .82rem/1 var(--sans);transition:.2s}
-.toggle button.on{background:rgba(205,239,60,.35);color:var(--acc-ink)}
-.sparkbox{padding:22px 26px;border-bottom:1px solid var(--line);display:grid;grid-template-columns:auto 1fr;gap:26px;align-items:end}
-@media(max-width:820px){.sparkbox{grid-template-columns:1fr}}
-.spark-meta .sv{font:600 1.6rem/1 var(--mono);font-variant-numeric:tabular-nums}
-.spark-meta .sl{color:var(--faint);font-size:.74rem;margin-top:6px;font:400 .72rem/1.5 var(--mono)}
-.tbl-scroll{overflow-x:auto}
+/* ---------- register list ---------- */
+.reg{border-top:1px solid var(--rule-2)}
+.reg-row{display:grid;grid-template-columns:104px minmax(0,1fr) 172px 84px 18px;gap:20px;align-items:center;
+  width:100%;text-align:left;padding:14px 12px;border-bottom:1px solid var(--rule);
+  background:transparent;transition:background .14s linear,color .14s linear;position:relative}
+.reg-row:hover,.reg-row:focus-visible{background:var(--ink);color:var(--paper);outline:none}
+.reg-row:hover .reg-cat,.reg-row:focus-visible .reg-cat{border-color:rgba(242,238,228,.42);color:var(--paper)}
+.reg-row:hover .reg-nums,.reg-row:focus-visible .reg-nums,
+.reg-row:hover .reg-time,.reg-row:focus-visible .reg-time{color:rgba(242,238,228,.7)}
+.reg-row:hover .reg-nums b,.reg-row:focus-visible .reg-nums b{color:var(--paper)}
+.reg-row:hover .reg-arrow,.reg-row:focus-visible .reg-arrow{color:var(--paper);transform:translateX(3px)}
+.reg-row.active{box-shadow:inset 4px 0 0 var(--signal)}
+.reg-cat{justify-self:start;border:1px solid var(--rule-3);padding:4px 6px;
+  font:400 .54rem/1 var(--mono);letter-spacing:.15em;text-transform:uppercase;color:var(--ink-70)}
+.reg-name{font:500 .9rem/1.35 var(--disp);letter-spacing:-.01em;display:flex;align-items:center;gap:9px}
+.reg-dot{width:5px;height:5px;background:var(--ok);flex:none}
+.reg-dot.bad{background:var(--signal)}
+.reg-nums{font:400 .64rem/1 var(--mono);letter-spacing:.04em;color:var(--ink-45);white-space:nowrap}
+.reg-nums b{color:var(--ink);font-weight:500}
+.reg-time{font:400 .62rem/1 var(--mono);letter-spacing:.06em;color:var(--ink-45);white-space:nowrap;text-align:right}
+.reg-arrow{font:400 .8rem/1 var(--mono);color:var(--ink-45);transition:transform .2s var(--ease),color .18s;text-align:right}
+@media(max-width:900px){
+  .reg-row{grid-template-columns:88px minmax(0,1fr) 76px;gap:12px}
+  .reg-nums{display:none}
+}
+@media(max-width:560px){
+  .reg-row{grid-template-columns:minmax(0,1fr) 20px;gap:8px;padding:13px 8px}
+  .reg-cat{grid-column:1;grid-row:1;margin-bottom:6px}
+  .reg-name{grid-column:1;grid-row:2}
+  .reg-time{grid-column:1;grid-row:3;text-align:left;margin-top:4px}
+  .reg-arrow{grid-column:2;grid-row:1 / span 3;align-self:center}
+}
+
+/* ---------- specimen panel ---------- */
+.specimen{margin-top:14px;border:1px solid var(--rule-3);background:var(--paper-hi);
+  box-shadow:8px 8px 0 rgba(20,20,15,.05)}
+.spec-head{display:flex;align-items:center;justify-content:space-between;gap:16px;flex-wrap:wrap;
+  padding:12px 18px;border-bottom:1px solid var(--rule-2);background:var(--paper-lo)}
+.spec-title{display:flex;align-items:center;gap:10px;font:500 .64rem/1 var(--mono);
+  letter-spacing:.13em;text-transform:uppercase;color:var(--ink)}
+.spec-title i{width:6px;height:6px;background:var(--ok);display:block;animation:blink 3s steps(1) infinite}
+.spec-tools{display:flex;align-items:center;gap:10px;flex-wrap:wrap}
+.seg{display:inline-flex;border:1px solid var(--rule-3);background:var(--paper-hi)}
+.seg button{padding:7px 12px;font:400 .58rem/1 var(--mono);letter-spacing:.12em;text-transform:uppercase;
+  color:var(--ink-45);transition:background .15s,color .15s}
+.seg button + button{border-left:1px solid var(--rule-3)}
+.seg button.on{background:var(--ink);color:var(--paper)}
+.mini{padding:7px 11px;border:1px solid var(--rule-3);background:var(--paper-hi);
+  font:400 .58rem/1 var(--mono);letter-spacing:.12em;text-transform:uppercase;color:var(--ink-70);
+  transition:background .15s,color .15s}
+.mini:hover{background:var(--ink);color:var(--paper)}
+
+.method-card{border-bottom:1px solid var(--rule)}
+.method-card summary{cursor:pointer;list-style:none;display:flex;align-items:center;gap:9px;
+  padding:10px 18px;font:400 .58rem/1 var(--mono);letter-spacing:.14em;text-transform:uppercase;
+  color:var(--ink-70);transition:background .15s}
+.method-card summary::-webkit-details-marker{display:none}
+.method-card summary:hover{background:var(--paper-lo)}
+.method-card summary::before{content:"+";font-family:var(--mono);color:var(--signal);font-size:.8rem}
+.method-card[open] summary::before{content:"–"}
+.method-card .mc-body{padding:0 18px 16px;font-size:.84rem;line-height:1.75;color:var(--ink-70);max-width:86ch}
+.method-card .mc-body b{color:var(--ink);font-weight:600}
+
+.chart-row{display:grid;grid-template-columns:150px minmax(0,1fr);gap:24px;align-items:end;
+  padding:20px 18px 16px;border-bottom:1px solid var(--rule)}
+@media(max-width:760px){.chart-row{grid-template-columns:1fr;gap:12px}}
+.chart-meta .v{font:800 1.9rem/1 var(--disp);letter-spacing:-.05em;font-variant-numeric:tabular-nums}
+.chart-meta .k{font:400 .56rem/1.7 var(--mono);letter-spacing:.13em;text-transform:uppercase;color:var(--ink-45);
+  margin-top:8px}
+#spark{width:100%;height:68px}
+
+.table-wrap{overflow-x:auto}
 table{width:100%;border-collapse:collapse;min-width:760px}
-th{font:500 .68rem/1 var(--mono);letter-spacing:.12em;text-transform:uppercase;color:var(--faint);
-  text-align:left;padding:15px 24px;border-bottom:1px solid var(--line)}
-td{padding:15px 24px;border-bottom:1px solid rgba(21,24,29,.06);font-size:.92rem;white-space:nowrap}
-tbody tr{transition:background .15s}
-tbody tr:hover{background:rgba(190,225,45,.12)}
+thead th{font:400 .54rem/1 var(--mono);letter-spacing:.16em;text-transform:uppercase;color:var(--ink-45);
+  text-align:left;padding:11px 16px;border-bottom:1px solid var(--rule-2);background:var(--paper-lo);font-weight:400}
+tbody td{padding:12px 16px;border-bottom:1px solid var(--rule);font-size:.84rem;white-space:nowrap;color:var(--ink-70)}
+tbody tr{transition:background .12s linear}
+tbody tr:hover{background:rgba(20,20,15,.045)}
 tbody tr:last-child td{border-bottom:none}
-.num{font:500 .9rem/1 var(--mono);font-variant-numeric:tabular-nums}
-.tc{font-weight:600;white-space:normal;min-width:230px}
-.loc{color:var(--dim);font:400 .84rem/1 var(--mono)}
-.badge{display:inline-block;background:var(--acc);color:var(--acc-ink);font:600 .62rem/1 var(--mono);
-  letter-spacing:.08em;padding:.3rem .6rem;border-radius:99px}
-.feed-bot{display:flex;justify-content:space-between;gap:14px;flex-wrap:wrap;padding:16px 26px;
-  color:var(--faint);font:400 .76rem/1.5 var(--mono)}
-.feed-bot a{color:var(--dim);text-decoration:underline;text-underline-offset:3px}
-.feed-bot a:hover{color:var(--acc-t)}
+td.rec{white-space:normal;min-width:240px;color:var(--ink);font-weight:500}
+td.num{font:400 .76rem/1.4 var(--mono);color:var(--ink)}
+td.org,td.loc{font:400 .72rem/1.4 var(--mono);color:var(--ink-45)}
+.jlink{border-bottom:1px solid var(--rule-3);transition:border-color .15s,color .15s}
+.jlink:hover{color:var(--signal);border-color:var(--signal)}
+.badge{display:inline-block;background:var(--signal);color:#fff;font:600 .5rem/1 var(--mono);
+  letter-spacing:.12em;padding:3px 5px;text-transform:uppercase}
+.spec-foot{display:flex;align-items:center;justify-content:space-between;gap:16px;flex-wrap:wrap;
+  padding:12px 18px;border-top:1px solid var(--rule-2);background:var(--paper-lo);
+  font:400 .58rem/1.8 var(--mono);letter-spacing:.06em;color:var(--ink-45);overflow-wrap:anywhere}
+.spec-foot b{color:var(--ink);font-weight:500}
+.spec-foot a{border-bottom:1px solid var(--rule-3)}
+.spec-foot a:hover{color:var(--signal);border-color:var(--signal)}
+.empty td{color:var(--ink-45);font-size:.78rem}
 
-/* newsletter */
-.news{border-top:1px solid var(--line);border-bottom:1px solid var(--line);background:linear-gradient(180deg,#FBFCF7,#F7F8F3)}
-.news-in{display:grid;grid-template-columns:1.1fr .9fr;gap:56px;align-items:center;padding:96px 0}
-@media(max-width:860px){.news-in{grid-template-columns:1fr;gap:40px}}
-.news h2{font-size:clamp(2rem,3.4vw,2.8rem)}
-.news-form{display:flex;gap:10px;margin-top:26px}
-.news-form input{flex:1;min-width:0;border:1px solid var(--line2);border-radius:12px;padding:14px 16px;
-  font:400 .95rem/1 var(--sans);background:#fff;color:var(--ink);outline:none;transition:border-color .2s,box-shadow .2s}
-.news-form input:focus{border-color:rgba(140,180,10,.55);box-shadow:0 0 0 3px rgba(190,225,45,.25)}
-.news-note{color:var(--faint);font:400 .76rem/1.6 var(--mono);margin-top:14px}
-.news-issue{display:inline-flex;align-items:center;gap:8px;margin-top:10px;color:var(--dim);font:500 .82rem/1 var(--sans);
-  border:1px solid var(--line);border-radius:10px;padding:9px 14px;background:#fff;transition:.2s}
-.news-issue:hover{border-color:rgba(140,180,10,.4);color:var(--acc-t)}
-.news-sample{background:var(--card);border:1px solid var(--line);border-radius:18px;padding:26px;
-  box-shadow:0 24px 60px -30px rgba(30,40,70,.25);font-family:Georgia,serif}
-.news-sample .k{font:700 11px/1 var(--mono);letter-spacing:.18em;color:var(--acc-t)}
-.news-sample .h{font-size:1.5rem;margin:12px 0 6px;letter-spacing:-.01em}
-.news-sample .s{color:var(--dim);font-size:.8rem;font-family:var(--sans)}
-.news-sample ul{list-style:none;margin-top:16px;display:grid;gap:9px}
-.news-sample li{font-size:.9rem;color:#333a45;display:flex;justify-content:space-between;gap:12px;border-bottom:1px solid var(--line);padding-bottom:9px}
-.news-sample li .d{color:var(--faint);font-family:var(--mono);font-size:.72rem;white-space:nowrap}
+/* ---------- services ---------- */
+.dossiers{display:grid;grid-template-columns:1fr 1fr;border-top:2px solid var(--ink)}
+@media(max-width:860px){.dossiers{grid-template-columns:1fr}}
+.dossier{padding:34px 34px 30px;border-bottom:1px solid var(--rule);position:relative}
+.dossier + .dossier{border-left:1px solid var(--rule)}
+@media(max-width:860px){.dossier + .dossier{border-left:none}.dossier{padding:30px 0}}
+.dossier .plate{display:flex;align-items:center;justify-content:space-between;gap:12px;margin-bottom:22px}
+.dossier .plate .n{font:500 .62rem/1 var(--mono);letter-spacing:.16em;color:var(--signal)}
+.dossier .plate .tag{font:400 .56rem/1 var(--mono);letter-spacing:.16em;text-transform:uppercase;color:var(--ink-45)}
+.dossier h3{max-width:18ch;margin-bottom:14px}
+.dossier h3 em{font:400 italic 1.04em/1 var(--serif);letter-spacing:-.02em;font-style:italic}
+.dossier ul{list-style:none;margin-top:22px;border-top:1px solid var(--rule)}
+.dossier li{display:flex;gap:12px;padding:10px 0;border-bottom:1px solid var(--rule);
+  font-size:.86rem;line-height:1.5;color:var(--ink-70)}
+.dossier li::before{content:"—";font-family:var(--mono);color:var(--signal);flex:none}
+.dossier .price-row{display:flex;align-items:baseline;justify-content:space-between;gap:14px;margin-top:24px}
+.dossier .price{font:800 1.5rem/1 var(--disp);letter-spacing:-.04em}
+.dossier .per{font:400 .58rem/1.5 var(--mono);letter-spacing:.12em;text-transform:uppercase;color:var(--ink-45);
+  text-align:right;max-width:120px}
+.dossier .fig-tag{position:absolute;top:34px;right:34px}
 
-/* fleet grid */.fleet{display:grid;grid-template-columns:repeat(auto-fill,minmax(255px,1fr));gap:14px}
-.fcard{position:relative;background:var(--card);border:1px solid var(--line);border-radius:16px;
-  padding:18px 20px 16px;cursor:pointer;transition:border-color .2s,transform .2s,background .2s;overflow:hidden}
-.fcard:hover{border-color:rgba(140,180,10,.4);transform:translateY(-3px)}
-.fcard.active{border-color:rgba(140,180,10,.55);background:rgba(190,225,45,.09)}
-.fcard .dot{position:absolute;top:18px;right:16px;width:7px;height:7px;border-radius:50%;background:var(--acc)}
-.fcard .dot.bad{background:#D6564E}
-.fcard .fc{font:500 .6rem/1 var(--mono);letter-spacing:.14em;text-transform:uppercase;color:var(--acc-t)}
-.fcard .fn{font-weight:600;font-size:.85rem;line-height:1.4;margin:9px 0 12px;padding-right:14px}
-.fcard .fm{display:flex;justify-content:space-between;gap:10px;color:var(--faint);font:400 .66rem/1.4 var(--mono)}
-.fcard .fm b{color:var(--dim);font-weight:500}
-.jlink{text-decoration:none;border-bottom:1px solid rgba(140,180,10,.4);transition:.15s}
-.jlink:hover{color:var(--acc-t);border-bottom-color:var(--acc-t)}
+.schematic{margin-top:44px;border:1px solid var(--rule-2);background:var(--paper-hi);padding:22px 20px 10px}
+.schematic .cap{display:flex;justify-content:space-between;gap:16px;flex-wrap:wrap;
+  font:400 .56rem/1 var(--mono);letter-spacing:.15em;text-transform:uppercase;color:var(--ink-45);margin-bottom:6px}
+.schematic svg{width:100%;height:auto}
 
-/* system status strip */
-.sysstat{display:flex;align-items:center;justify-content:center;gap:12px;padding:12px 0;
-  border-bottom:1px solid var(--line);background:var(--bg2);
-  font:500 .74rem/1 var(--mono);color:var(--dim);letter-spacing:.04em}
-.sysstat .ss-dot{width:8px;height:8px;border-radius:50%;background:var(--acc);flex:none;animation:pulse 2.6s infinite}
-.sysstat .ss-dot.bad{background:#D6564E;animation:none}
-.sysstat b{color:var(--ink);font-weight:600}
-.sysstat .sep{color:var(--faint)}
+/* ---------- method ---------- */
+.steps{display:grid;grid-template-columns:repeat(3,1fr);border-top:2px solid var(--ink)}
+@media(max-width:820px){.steps{grid-template-columns:1fr}}
+.step{padding:26px 28px 30px;border-bottom:1px solid var(--rule)}
+.step + .step{border-left:1px solid var(--rule)}
+@media(max-width:820px){.step{border-left:none!important;padding:24px 0}}
+.step .n{font:500 .62rem/1 var(--mono);letter-spacing:.16em;color:var(--signal)}
+.step h4{font:700 1.16rem/1.25 var(--disp);letter-spacing:-.02em;margin:16px 0 10px}
+.step p{font-size:.86rem;color:var(--ink-70);line-height:1.7}
+.step .stampbar{margin-top:20px;height:2px;width:34px;background:var(--rule-3);transition:background .3s,width .3s var(--ease)}
+.step:hover .stampbar{background:var(--signal);width:64px}
 
-/* feed methodology */
-.fmethod{border-bottom:1px solid var(--line);background:rgba(190,225,45,.05)}
-.fmethod summary{cursor:pointer;padding:12px 26px;font:500 .72rem/1 var(--mono);
-  letter-spacing:.1em;text-transform:uppercase;color:var(--acc-t);list-style:none;display:flex;align-items:center;gap:8px}
-.fmethod summary::-webkit-details-marker{display:none}
-.fmethod summary::before{content:"+";font-family:var(--mono);color:var(--dim);transition:.2s}
-.fmethod[open] summary::before{content:"–"}
-.fmethod .fm-body{padding:4px 26px 18px;color:var(--dim);font-size:.86rem;line-height:1.7;max-width:78ch}
-.fmethod .fm-body b{color:var(--ink);font-weight:500}
+/* ---------- tariff ---------- */
+.tariff{display:grid;grid-template-columns:repeat(3,1fr);border:1px solid var(--rule-3);margin-top:40px}
+@media(max-width:900px){.tariff{grid-template-columns:1fr}}
+.tier{padding:28px 26px 30px;display:flex;flex-direction:column;position:relative}
+.tier + .tier{border-left:1px solid var(--rule-3)}
+@media(max-width:900px){.tier + .tier{border-left:none;border-top:1px solid var(--rule-3)}}
+.tier .t-head{display:flex;align-items:center;justify-content:space-between;gap:10px;
+  font:400 .56rem/1 var(--mono);letter-spacing:.18em;text-transform:uppercase;color:var(--ink-45)}
+.tier h3{margin:16px 0 10px;font-size:1.4rem}
+.tier h3 em{font:400 italic 1.06em/1 var(--serif)}
+.tier .t-desc{font-size:.84rem;color:var(--ink-70);line-height:1.65;min-height:3.2em}
+.tier ul{list-style:none;margin:20px 0 24px;border-top:1px solid var(--rule);flex:1}
+.tier li{padding:9px 0;border-bottom:1px solid var(--rule);font-size:.82rem;line-height:1.5;
+  color:var(--ink-70);display:flex;gap:9px}
+.tier li::before{content:"+";font-family:var(--mono);color:var(--signal);flex:none;font-size:.72rem}
+.tier .price{font:800 2.1rem/1 var(--disp);letter-spacing:-.05em;margin-bottom:18px}
+.tier .price span{font:400 .58rem/1 var(--mono);letter-spacing:.1em;text-transform:uppercase;
+  color:var(--ink-45);margin-left:7px;letter-spacing:.08em}
+.tier .btn{width:100%}
+.tier.featured{background:var(--ink);color:var(--paper)}
+.tier.featured .t-head,.tier.featured .t-desc,.tier.featured li,.tier.featured .price span{color:rgba(242,238,228,.66)}
+.tier.featured ul,.tier.featured li{border-color:rgba(242,238,228,.18)}
+.tier.featured li::before{color:var(--signal)}
+.tier.featured .flag{position:absolute;top:0;right:26px;transform:translateY(-50%);
+  background:var(--signal);color:#fff;font:600 .5rem/1 var(--mono);letter-spacing:.16em;
+  text-transform:uppercase;padding:5px 8px}
+.tier .btn-line{border-color:var(--rule-3)}
+.tier.featured .btn{background:var(--paper);color:var(--ink);border-color:var(--paper)}
+.tier.featured .btn:hover{background:var(--signal);border-color:var(--signal);color:#fff}
+@media(max-width:900px){.tier.featured .flag{top:0}}
+.tariff-note{margin-top:22px;font:400 .6rem/1.9 var(--mono);letter-spacing:.06em;color:var(--ink-45);
+  max-width:80ch}
+.tariff-note b{color:var(--ink);font-weight:500}
 
-/* feed panel small buttons */
-.mini-btn{border:1px solid var(--line2);background:#fff;color:var(--dim);border-radius:9px;
-  padding:8px 13px;font:500 .74rem/1 var(--mono);cursor:pointer;transition:.2s;white-space:nowrap}
-.mini-btn:hover{color:var(--acc-t);border-color:rgba(140,180,10,.45)}
+/* ---------- weekly ---------- */
+.weekly{border-top:2px solid var(--ink);padding:64px 0 72px;margin-top:74px}
+.weekly-in{display:grid;grid-template-columns:1.05fr .95fr;gap:56px;align-items:center}
+@media(max-width:900px){.weekly-in{grid-template-columns:1fr;gap:36px}}
+.coupon{position:relative;background:var(--paper-hi);border:1px dashed var(--rule-3);padding:28px 26px 26px}
+.coupon::before,.coupon::after{content:"";position:absolute;width:12px;height:12px;background:var(--paper);
+  border:1px dashed var(--rule-3);border-radius:50%}
+.coupon::before{left:-7px;top:50%;transform:translateY(-50%)}
+.coupon::after{right:-7px;top:50%;transform:translateY(-50%)}
+.coupon .c-head{display:flex;align-items:flex-start;justify-content:space-between;gap:14px;
+  border-bottom:1px solid var(--rule-2);padding-bottom:14px;margin-bottom:18px}
+.coupon .c-head .t{font:700 1.32rem/1.2 var(--disp);letter-spacing:-.03em;max-width:16ch}
+.coupon .c-head .stamp2{border:1.5px solid var(--signal);color:var(--signal);padding:5px 7px;
+  font:600 .5rem/1 var(--mono);letter-spacing:.18em;text-transform:uppercase;transform:rotate(-4deg);flex:none}
+.coupon ul{list-style:none}
+.coupon li{display:flex;justify-content:space-between;gap:14px;padding:9px 0;
+  border-bottom:1px solid var(--rule);font-size:.82rem;color:var(--ink-70)}
+.coupon li span:last-child{font:400 .54rem/1 var(--mono);letter-spacing:.12em;text-transform:uppercase;
+  color:var(--ink-45);border:1px solid var(--rule-2);padding:3px 4px;white-space:nowrap;align-self:center}
+.coupon .c-meta{display:flex;justify-content:space-between;gap:12px;margin-top:16px;
+  font:400 .54rem/1.7 var(--mono);letter-spacing:.12em;text-transform:uppercase;color:var(--ink-45)}
+.news-form{display:flex;align-items:stretch;gap:0;margin-top:26px;max-width:480px;
+  border:1px solid var(--ink);background:var(--paper-hi)}
+.news-form input{flex:1;min-width:0;border:none;background:transparent;padding:14px 16px;
+  font:400 .82rem/1 var(--mono);color:var(--ink);outline:none}
+.news-form input::placeholder{color:var(--ink-45)}
+.news-form button{background:var(--ink);color:var(--paper);padding:0 20px;
+  font:500 .64rem/1 var(--mono);letter-spacing:.12em;text-transform:uppercase;
+  transition:background .18s linear}
+.news-form button:hover{background:var(--signal)}
+.news-note{margin-top:14px;font:400 .58rem/1.9 var(--mono);letter-spacing:.07em;color:var(--ink-45);max-width:46ch}
+.issue-link{margin-top:18px}
 
-/* subscription pricing */
-.plans{display:grid;grid-template-columns:repeat(3,1fr);gap:22px;margin-top:56px}
-.plan{position:relative;border:1px solid var(--line);border-radius:22px;background:var(--bg2);
-  padding:34px 30px;display:flex;flex-direction:column;transition:.25s}
-.plan:hover{transform:translateY(-3px);box-shadow:0 18px 44px rgba(35,42,55,.08);border-color:var(--line2)}
-.plan.feat{background:#fff;box-shadow:0 12px 40px rgba(35,42,55,.07)}
-.plan .ptag{font:500 .66rem/1 var(--mono);letter-spacing:.16em;text-transform:uppercase;color:var(--dim)}
-.plan h3{font:400 1.5rem/1.15 var(--disp);margin:14px 0 8px;letter-spacing:-.01em}
-.plan h3 em{font-style:italic;color:var(--acc-t)}
-.plan .pdesc{color:var(--dim);font-size:.88rem;line-height:1.6;min-height:2.9em}
-.plan ul{list-style:none;margin:20px 0 26px;display:grid;gap:10px;flex:1}
-.plan li{display:flex;gap:10px;font-size:.86rem;align-items:baseline;color:var(--ink)}
-.plan li i{color:var(--acc-t);font-style:normal;font-family:var(--mono);font-size:.78rem}
-.plan .pprice{display:flex;align-items:baseline;gap:7px;margin-bottom:20px}
-.plan .pprice b{font:600 2.2rem/1 var(--disp);letter-spacing:-.02em;color:var(--ink)}
-.plan .pprice s{font:400 1rem/1 var(--disp);color:var(--faint);text-decoration:none}
-.plan .pprice span{font-size:.8rem;color:var(--dim)}
-.plan .badge{position:absolute;top:-11px;left:26px;background:var(--acc);color:#fff;
-  font:600 .62rem/1 var(--mono);letter-spacing:.1em;padding:6px 12px;border-radius:99px}
-@media(max-width:900px){.plans{grid-template-columns:1fr;max-width:460px;margin-left:auto;margin-right:auto}}
-.checkout-note{margin-top:34px;text-align:center;color:var(--faint);font-size:.8rem;display:flex;align-items:center;justify-content:center;gap:8px;flex-wrap:wrap}
-.checkout-note img{height:1.05em;vertical-align:middle;filter:grayscale(1);opacity:.65}
+/* ---------- closing ---------- */
+.closing{background:var(--ink);color:var(--paper);padding:96px 0 100px;position:relative;overflow:hidden}
+.closing::before{content:"";position:absolute;inset:0;
+  background-image:linear-gradient(90deg,rgba(242,238,228,.07) 1px,transparent 1px);
+  background-size:calc(100% / 6) 100%;pointer-events:none}
+.closing .shell{position:relative}
+.closing .mono{color:rgba(242,238,228,.55)}
+.closing h2{color:var(--paper);font-size:clamp(2.3rem,4.8vw,3.9rem);max-width:20ch;letter-spacing:-.045em}
+.closing h2 em{font:400 italic 1.02em/1 var(--serif);letter-spacing:-.03em;
+  text-decoration:underline;text-decoration-color:var(--signal);text-decoration-thickness:3px;
+  text-underline-offset:.12em;text-decoration-skip-ink:none}
+.closing .lede{color:rgba(242,238,228,.72);margin-top:24px}
+.closing .cta-actions{display:flex;gap:14px;margin-top:34px;flex-wrap:wrap}
+.closing .btn-line{border-color:rgba(242,238,228,.4);color:var(--paper)}
+.closing .btn-line:hover{background:var(--paper);color:var(--ink);border-color:var(--paper)}
+.closing .btn-ink{background:var(--paper);color:var(--ink);border-color:var(--paper)}
+.closing .btn-ink:hover{background:var(--signal);border-color:var(--signal);color:#fff}
+.closing .fine{margin-top:30px;font:400 .58rem/1.9 var(--mono);letter-spacing:.08em;
+  color:rgba(242,238,228,.5);text-transform:uppercase}
+.closing .fine b{color:rgba(242,238,228,.85);font-weight:500}
 
-/* offers */
-.offers{display:grid;grid-template-columns:1fr 1fr;gap:22px}
-@media(max-width:860px){.offers{grid-template-columns:1fr}}
-.offer{position:relative;border-radius:24px;padding:40px 36px;overflow:hidden;
-  background:var(--card);border:1px solid var(--line);transition:border-color .25s,transform .25s}
-.offer::before{content:"";position:absolute;inset:0;opacity:0;transition:opacity .3s;pointer-events:none;
-  background:radial-gradient(600px circle at var(--mx,50%) var(--my,50%),rgba(190,225,45,.16),transparent 42%)}
-.offer:hover{border-color:rgba(140,180,10,.35);transform:translateY(-4px)}
-.offer:hover::before{opacity:1}
-.offer .tag{font:500 .68rem/1 var(--mono);letter-spacing:.16em;text-transform:uppercase;color:var(--dim)}
-.offer h3{font:400 2rem/1.15 var(--disp);margin:16px 0 12px;letter-spacing:-.01em}
-.offer h3 em{font-style:italic;color:var(--acc-t)}
-.offer p{color:var(--dim);font-size:.95rem;max-width:44ch}
-.offer ul{list-style:none;margin-top:22px;display:grid;gap:11px}
-.offer li{display:flex;gap:12px;font-size:.9rem;align-items:baseline}
-.offer li i{color:var(--acc-t);font-style:normal;font-family:var(--mono);font-size:.8rem}
-.price{margin-top:28px;padding-top:22px;border-top:1px solid var(--line);display:flex;align-items:baseline;gap:10px}
-.price .p{font:600 1.9rem/1 var(--mono);font-variant-numeric:tabular-nums;letter-spacing:-.02em}
-.price .per{color:var(--faint);font-size:.8rem}
-.ribbon{position:absolute;top:22px;right:22px;font:600 .64rem/1 var(--mono);letter-spacing:.12em;
-  text-transform:uppercase;color:var(--acc-ink);background:var(--acc);padding:7px 12px;border-radius:99px}
+/* ---------- footer ---------- */
+footer{padding:46px 0 40px;border-top:1px solid var(--rule-2)}
+.foot-grid{display:grid;grid-template-columns:1.7fr 1fr 1fr 1fr;gap:36px;padding-bottom:38px;
+  border-bottom:1px solid var(--rule)}
+@media(max-width:820px){.foot-grid{grid-template-columns:1fr 1fr;gap:28px}}
+@media(max-width:520px){.foot-grid{grid-template-columns:1fr}}
+.foot-brand .logo{margin-bottom:14px}
+.foot-brand p{font-size:.8rem;line-height:1.7;color:var(--ink-70);max-width:32ch}
+.foot-col h5{font:400 .54rem/1 var(--mono);letter-spacing:.18em;text-transform:uppercase;
+  color:var(--ink-45);margin-bottom:14px}
+.foot-col a{display:block;font-size:.8rem;color:var(--ink-70);padding:5px 0;transition:color .15s}
+.foot-col a:hover{color:var(--signal)}
+.foot-base{display:flex;align-items:center;justify-content:space-between;gap:16px;flex-wrap:wrap;
+  padding-top:20px;font:400 .56rem/1.8 var(--mono);letter-spacing:.09em;text-transform:uppercase;color:var(--ink-45)}
+.foot-base .ok{display:flex;align-items:center;gap:7px}
+.foot-base .ok i{width:5px;height:5px;background:var(--ok);display:block;animation:blink 3s steps(1) infinite}
 
-/* steps */
-.steps{display:grid;grid-template-columns:repeat(3,1fr);gap:22px;position:relative}
-@media(max-width:860px){.steps{grid-template-columns:1fr}}
-.step{position:relative;background:var(--card);border:1px solid var(--line);border-radius:20px;padding:34px 30px;overflow:hidden}
-.step .n{font:400 3.2rem/1 var(--disp);color:transparent;-webkit-text-stroke:1px rgba(130,165,10,.5)}
-.step h4{font-weight:600;margin:18px 0 10px;font-size:1.05rem}
-.step p{color:var(--dim);font-size:.9rem}
-.step::after{content:"";position:absolute;left:0;right:0;bottom:0;height:2px;
-  background:linear-gradient(90deg,var(--acc),transparent);opacity:0;transition:opacity .3s}
-.step:hover::after{opacity:1}
+/* ---------- narrow-screen overrides (kept last so they win) ---------- */
+@media(max-width:560px){
+  .hero-index{display:block;max-width:none;border-top:1px solid var(--rule-2)}
+  .hero-index div{display:flex;align-items:baseline;justify-content:space-between;gap:14px;
+    padding:11px 0;border-bottom:1px solid var(--rule)}
+  .hero-index div + div{padding-left:0;border-left:none}
+  .hero-index .v{margin-top:0;text-align:right}
+}
 
-/* pipeline viz */
-.viz{margin:70px auto 0;max-width:820px}
-.viz svg{width:100%;height:auto;display:block}
-
-/* contact */
-.cta{position:relative;padding:130px 0;text-align:center;overflow:hidden}
-.cta .mesh.c{left:50%;top:50%;transform:translate(-50%,-50%);width:760px;height:520px;opacity:.5;
-  background:radial-gradient(circle,rgba(190,225,45,.2),transparent 60%);animation:drift 14s ease-in-out infinite alternate}
-.cta h2{font-size:clamp(2.4rem,5vw,4rem);margin:0 auto;max-width:20ch}
-.cta .lede{margin:22px auto 0}
-.cta .hero-cta{justify-content:center}
-
-footer{border-top:1px solid var(--line);padding:44px 0;color:var(--faint);font:400 .82rem/1.6 var(--mono)}
-.foot-in{display:flex;justify-content:space-between;gap:18px;flex-wrap:wrap;align-items:center}
-footer a{color:var(--dim)}footer a:hover{color:var(--acc-t)}
-
-.reveal{will-change:transform,opacity}
-@media(prefers-reduced-motion:reduce){*{animation:none!important;transition:none!important}}
+/* ---------- motion ---------- */
+.reveal{opacity:0;transform:translateY(16px);transition:opacity .7s var(--ease),transform .7s var(--ease)}
+.reveal.in{opacity:1;transform:none}
+@media(prefers-reduced-motion:reduce){
+  *,*::before,*::after{animation:none!important;transition:none!important}
+  .reveal{opacity:1;transform:none}
+}
 </style>
 </head>
 <body>
-<div class="grain"></div>
 
-<nav id="nav">
-  <div class="wrap nav-in">
-    <a class="brand" href="#"><span class="brand-mark"><i></i></span>PipeKeeper</a>
-    <div class="nav-links">
-      <a href="#feed">Live data</a>
-      <a href="#pricing">Pricing</a>
+<header class="masthead">
+  <div class="shell masthead-in">
+    <a class="logo" href="#top" aria-label="PipeKeeper, home">
+      <span class="glyph" aria-hidden="true"></span>
+      PipeKeeper
+      <span class="est">Data register · est. 2026</span>
+    </a>
+    <nav class="mast-nav" aria-label="Sections">
+      <a href="#register">Register</a>
       <a href="#services">Services</a>
-      <a href="#how">Method</a>
-      <a href="#newsletter">Newsletter</a>
-    </div>
-    <a class="btn btn-primary nav-cta" href="#contact">Start a pilot</a>
-  </div>
-</nav>
-
-<header class="hero">
-  <div class="hero-bg">
-    <div class="grid-lines"></div>
-    <div class="mesh a"></div><div class="mesh b"></div>
-  </div>
-  <div class="wrap hero-grid">
-    <div>
-      <div class="eyebrow reveal-h"><i></i>LIVE DATA INFRASTRUCTURE · RUNNING NOW</div>
-      <h1>
-        <span class="line"><span>Your market data,</span></span>
-        <span class="line"><span><em>collected hourly,</em></span></span>
-        <span class="line"><span>never allowed to die.</span></span>
-      </h1>
-      <p class="lede reveal-h">PipeKeeper builds data pipelines that <b>watch, heal, and refresh themselves</b> — and sells fresh, structured niche datasets on the same infrastructure. Two services. One machine that never sleeps.</p>
-      <div class="hero-cta reveal-h">
-        <a class="btn btn-primary" href="#contact">Start a 5-day pilot</a>
-        <a class="btn btn-ghost" href="#feed">See the live feed ↓</a>
-      </div>
-      <div class="hero-meta reveal-h">
-        <span>◆ <b id="m-last">connecting…</b></span>
-        <span>◆ <b>hourly</b> freshness</span>
-        <span>◆ <b>$0</b> infra to break</span>
-      </div>
-    </div>
-    <div class="dash" id="dash">
-      <div class="float-chip chip-1"><span class="fc-t">New this hour</span><span class="fc-n" id="chip-new">—</span></div>
-      <div class="float-chip chip-2"><span class="fc-t">Pipeline status</span><span class="fc-n" style="color:var(--acc)">● self-healing</span></div>
-      <div class="dash-card" id="dash-card">
-        <div class="dash-head">
-          <div class="dash-dots"><i></i><i></i><i></i></div>
-          <div class="dash-title">pipekeeper · feed 01</div>
-          <div class="dash-live"><i></i>LIVE</div>
-        </div>
-        <div class="dash-body" id="dash-rows">
-          <div class="dash-row"><div class="jr"><span class="jt">connecting…</span></div></div>
-        </div>
-        <div class="dash-foot">
-          <span>next run <b>on the hour</b></span>
-          <span>collected <b id="dash-last">—</b></span>
-        </div>
-      </div>
+      <a href="#method">Method</a>
+      <a href="#tariff">Tariff</a>
+      <a href="#weekly">Weekly</a>
+    </nav>
+    <div class="mast-right">
+      <span class="sysdot"><i></i><span id="nav-status-text">15/15 nominal</span></span>
+      <a class="btn btn-ink btn-sm" href="#contact">Start a pilot <span class="ar">→</span></a>
     </div>
   </div>
 </header>
 
-<div class="ticker">
-  <div class="tick-tag">LIVE FEED</div>
-  <div class="ticker-track" id="ticker">
-    <span class="tick-item">connecting to pipeline…</span>
+<div class="dateline">
+  <div class="shell dateline-in">
+    <span>Edition <b>No. 015</b></span>
+    <span class="sep">/</span>
+    <span><b id="m-last">connecting…</b></span>
+    <span class="sep">/</span>
+    <span>Cadence <b>hourly</b></span>
+    <span class="sep">/</span>
+    <span>Infrastructure <b>$0 owned</b></span>
   </div>
 </div>
 
-<div class="sysstat" id="sysstat"><span class="ss-dot" id="ss-dot"></span><span id="ss-text">checking fleet status…</span></div>
-
-<div class="stats">
-  <div class="wrap stats-in">
-    <div class="stat"><div class="n"><span data-count id="s-feeds">0</span></div><div class="l">feeds under management</div></div>
-    <div class="stat"><div class="n"><span data-count id="s-records">0</span></div><div class="l">records tracked since start</div></div>
-    <div class="stat"><div class="n"><span data-count id="s-runs">0</span></div><div class="l">collection runs per feed</div></div>
-    <div class="stat"><div class="n">99.9<small>%</small></div><div class="l">schedule adherence target</div></div>
-  </div>
-</div>
-
-<section id="feed">
-  <div class="wrap">
-    <div class="kicker reveal">Live fleet · 15 feeds</div>
-    <h2 class="reveal">Every feed, <em>alive.</em></h2>
-    <p class="sec-sub reveal">Eight job boards, two hiring signals, two funding &amp; contract feeds, and four government &amp; safety trackers — each collected hourly, delta-tracked record by record, and health-checked automatically. Click any feed below to inspect its live pipe.</p>
-
-    <div class="fleet reveal" id="fleet" style="margin-top:44px">
-      <div class="fcard"><span class="fc">loading fleet…</span></div>
-    </div>
-
-    <div class="feed-panel" style="margin-top:28px">
-      <div class="feed-top">
-        <div class="fl"><i></i><span id="feed-label">feed-01 · travel healthcare jobs</span></div>
-        <div class="toggle" id="filter">
-          <button class="on" data-f="all">All records</button>
-          <button data-f="new">New only</button>
+<main id="top">
+  <section class="hero">
+    <div class="shell hero-in">
+      <div>
+        <div class="hero-kicker">
+          <span class="tag">Live</span>
+          <span class="txt">Public data, kept alive</span>
         </div>
-        <button class="mini-btn" id="copy-link" title="Copy a link to this feed">Copy link</button>
-      </div>
-      <details class="fmethod" id="fmethod">
-        <summary>About this feed · methodology</summary>
-        <div class="fm-body" id="fmethod-body"></div>
-      </details>
-      <div class="sparkbox">
-        <div class="spark-meta">
-          <div class="sv" id="spark-n">—</div>
-          <div class="sl">records per run<br>last 48 collections</div>
+        <h1>
+          <span class="line"><span>Your market data,</span></span>
+          <span class="line"><span>collected hourly,</span></span>
+          <span class="line"><span><em>never left to rot.</em></span></span>
+        </h1>
+        <p class="lede hero-lede">PipeKeeper builds data pipelines that <strong>watch, heal, and refresh themselves</strong> — then sells the fresh, structured result. Two services, one register, no server of ours to break.</p>
+        <div class="hero-actions">
+          <a class="btn btn-ink" href="#contact">Start a 5-day pilot <span class="ar">→</span></a>
+          <a class="link" href="#register">Inspect the live register</a>
         </div>
-        <svg id="spark" height="72" width="100%" viewBox="0 0 900 72" preserveAspectRatio="none"></svg>
+        <div class="hero-index">
+          <div><div class="k">Feeds</div><div class="v">15 under watch</div></div>
+          <div><div class="k">Refresh</div><div class="v">Every hour, on the hour</div></div>
+          <div><div class="k">Uptime</div><div class="v">Health-checked per run</div></div>
+        </div>
       </div>
-      <div class="tbl-scroll">
-        <table>
-          <thead><tr><th>Record</th><th>Org / Source</th><th>Location</th><th>Detail</th><th></th></tr></thead>
-          <tbody id="rows"><tr><td colspan="5" style="color:var(--faint)">connecting to pipeline…</td></tr></tbody>
-        </table>
-      </div>
-      <div class="feed-bot">
-        <span id="fb-src"></span>
-        <span><a id="fb-csv" href="#" target="_blank" rel="noopener" style="color:var(--acc-t)">⬇ sample CSV</a> · <span id="fb-note" style="color:var(--faint)"></span></span>
-        <span>last collected <b id="fb-last" style="color:var(--dim)">—</b></span>
+
+      <figure class="figure" aria-label="Live register excerpt">
+        <div class="stamp">Hourly</div>
+        <div class="fig-head">
+          <span>Fig. 01 — Register excerpt</span>
+          <span class="fig-live"><i></i>Live</span>
+        </div>
+        <div class="fig-stat">
+          <div class="v"><span id="dash-count">—</span><small>records in snapshot</small></div>
+          <div class="delta"><b>+<span id="dash-new">0</span></b><span>new this run</span></div>
+        </div>
+        <div class="fig-spark"><svg id="hero-spark" viewBox="0 0 460 52" preserveAspectRatio="none" aria-hidden="true"></svg></div>
+        <div class="fig-body" id="dash-rows">
+          <div class="fig-row"><span class="t">Connecting…</span><span class="d">—</span></div>
+        </div>
+        <div class="fig-foot">
+          <span>Next run <b>on the hour</b></span>
+          <span>Collected <b id="dash-last">—</b></span>
+        </div>
+      </figure>
+    </div>
+  </section>
+
+  <div class="ticker" aria-hidden="true">
+    <div class="ticker-in">
+      <div class="tick-tag"><span>Wire</span></div>
+      <div class="ticker-track" id="ticker">
+        <span class="tick-item">connecting to pipeline…</span>
       </div>
     </div>
   </div>
-</section>
 
-<section id="newsletter" class="news">
-  <div class="wrap news-in">
-    <div>
-      <div class="kicker reveal">PipeKeeper Weekly · free forever</div>
-      <h2 class="reveal">One email, every Monday.<br><em>Fifteen feeds of market truth.</em></h2>
-      <p class="sec-sub reveal" style="margin-top:14px">New jobs, new funding rounds, new federal contracts, new recalls — everything the pipeline caught this week, in one five-minute read. Generated from the live data, not from anyone's opinion. No spam, no data sharing, unsubscribe by replying.</p>
-      <form class="news-form reveal" id="sub-form" target="_blank" rel="noopener" method="post" onsubmit="return subGo(event)">
-        <input type="email" name="email" placeholder="you@agency.com" required aria-label="Email address">
-        <button class="btn btn-primary" type="submit" style="white-space:nowrap">Subscribe free</button>
-      </form>
-      <div class="news-note reveal" id="sub-note">We'll never share your address. First issue lands Monday 09:00 UTC.</div>
-      <a class="news-issue reveal" href="https://neel2667.github.io/pipekeeper/data/digest_preview.html" target="_blank" rel="noopener">📰 Read the latest issue</a>
-    </div>
-    <div class="news-sample reveal" aria-hidden="true">
-      <div class="k">PIPEKEEPER WEEKLY</div>
-      <div class="h">15 feeds. One week of market truth.</div>
-      <div class="s">Week of Nov 15 · 15/15 feeds green · +3,229 new records</div>
-      <ul>
-        <li><span>Bridge33 raised (SEC Form D)</span><span class="d">funding</span></li>
-        <li><span>Account Executive, AI Native — Anthropic</span><span class="d">hiring</span></li>
-        <li><span>RN - CVPICU · Columbus, OH — $4,411/wk</span><span class="d">jobs</span></li>
-        <li><span>Contract $34.8M — DHS · NORESCO</span><span class="d">federal</span></li>
-        <li><span>Clear Aligner System 510(k) cleared</span><span class="d">medtech</span></li>
-      </ul>
+  <div class="figures">
+    <div class="shell">
+      <div class="figures-in">
+        <div class="cell"><div class="k">Coverage</div><div class="v"><span id="s-feeds">0</span></div><div class="l">feeds under management</div></div>
+        <div class="cell"><div class="k">Cumulative</div><div class="v"><span id="s-records">0</span></div><div class="l">records tracked since launch</div></div>
+        <div class="cell"><div class="k">Cadence</div><div class="v"><span id="s-runs">0</span></div><div class="l">collection runs per feed</div></div>
+        <div class="cell"><div class="k">Reliability</div><div class="v">99.9<small>%</small></div><div class="l">schedule adherence target</div></div>
+      </div>
     </div>
   </div>
-</section>
 
-<section id="services">
-  <div class="wrap">
-    <div class="kicker reveal">Two ways to work with us</div>
-    <h2 class="reveal">Keep your pipelines alive.<br>Or just <em>buy the data.</em></h2>
-    <div class="offers" style="margin-top:56px">
-      <div class="offer reveal" id="offer1">
-        <div class="ribbon">Most requested</div>
-        <div class="tag">Pipeline Care</div>
-        <h3>We build &amp; <em>baby-sit</em> your collectors.</h3>
-        <p>You need data from websites that keep changing. We build the scrapers, watch them around the clock, and repair them the hour they break — before you ever notice.</p>
+  <section id="register" class="band">
+    <div class="shell">
+      <div class="band-open band-head">
+        <div class="bh-idx">
+          <span class="num">§ 01</span>
+          <span class="lbl">The live register</span>
+        </div>
+        <div class="bh-main">
+          <h2>Every feed, <span class="serif">on the record.</span></h2>
+          <p class="lede body">Eight job boards, two hiring signals, two funding &amp; contract wires and four government &amp; safety trackers. Each one collected hourly, delta-tracked record by record, and health-checked without a human in the loop. Select a line to read its register.</p>
+        </div>
+      </div>
+
+      <div class="reg" id="fleet">
+        <button class="reg-row" type="button" disabled><span class="reg-cat">loading</span><span class="reg-name">Fetching fleet index…</span><span class="reg-nums"></span><span class="reg-time"></span><span class="reg-arrow"></span></button>
+      </div>
+
+      <div class="specimen">
+        <div class="spec-head">
+          <div class="spec-title"><i></i><span id="feed-label">feed-01 · travel healthcare jobs</span></div>
+          <div class="spec-tools">
+            <div class="seg" id="filter">
+              <button class="on" data-f="all">All records</button>
+              <button data-f="new">New only</button>
+            </div>
+            <button class="mini" id="copy-link" title="Copy a link to this feed">Copy link</button>
+          </div>
+        </div>
+        <details class="method-card" id="fmethod">
+          <summary>Method card — how this feed is collected</summary>
+          <div class="mc-body" id="fmethod-body"></div>
+        </details>
+        <div class="chart-row">
+          <div class="chart-meta">
+            <div class="v" id="spark-n">—</div>
+            <div class="k">Records per run<br>last 48 collections</div>
+          </div>
+          <svg id="spark" height="68" width="100%" viewBox="0 0 900 68" preserveAspectRatio="none" aria-hidden="true"></svg>
+        </div>
+        <div class="table-wrap">
+          <table>
+            <thead><tr><th>Record</th><th>Org / source</th><th>Location</th><th>Detail</th><th></th></tr></thead>
+            <tbody id="rows"><tr class="empty"><td colspan="5">Connecting to pipeline…</td></tr></tbody>
+          </table>
+        </div>
+        <div class="spec-foot">
+          <span id="fb-src"></span>
+          <span><a id="fb-csv" href="#" target="_blank" rel="noopener">Download sample CSV</a> &nbsp;/&nbsp; <span id="fb-note"></span></span>
+          <span>Last collected <b id="fb-last">—</b></span>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <section id="services" class="band">
+    <div class="shell">
+      <div class="band-open band-head">
+        <div class="bh-idx">
+          <span class="num">§ 02</span>
+          <span class="lbl">Two ways to work</span>
+        </div>
+        <div class="bh-main">
+          <h2>Keep your pipelines alive. <span class="serif">Or buy the output.</span></h2>
+          <p class="lede body">Either we run the machinery for you, or you skip the machinery entirely and take delivery of the data. Both come off the same register, collected hourly on infrastructure nobody has to own.</p>
+        </div>
+      </div>
+
+      <div class="dossiers">
+        <div class="dossier reveal">
+          <div class="plate"><span class="n">01 / Care</span><span class="tag">Most requested</span></div>
+          <h3>We build &amp; <em>baby-sit</em> your collectors.</h3>
+          <p class="body">You need data from sites that keep changing. We build the collectors, watch them around the clock, and repair them the hour they break — before you ever notice.</p>
+          <ul>
+            <li>Custom collectors for your exact sources</li>
+            <li>Hourly health checks, automatic repair</li>
+            <li>Weekly health report, in plain English</li>
+            <li>Clean CSV or Sheets delivery, every run</li>
+          </ul>
+          <div class="price-row">
+            <span class="price">$300–800</span>
+            <span class="per">per pipeline<br>per month</span>
+          </div>
+        </div>
+        <div class="dossier reveal">
+          <div class="plate"><span class="n">02 / Feeds</span><span class="tag">Ready today</span></div>
+          <h3>Skip the plumbing. <em>Buy the output.</em></h3>
+          <p class="body">Ready-made niche datasets — who's hiring, at what pay, what changed this week. Fresh hourly, delivered as clean files or API. No scrapers, no maintenance, no surprises.</p>
+          <ul>
+            <li>Hourly freshness, timestamped runs</li>
+            <li>First-seen / last-seen per record</li>
+            <li>Clean schema with a method card</li>
+            <li>CSV today, API on request</li>
+          </ul>
+          <div class="price-row">
+            <span class="price">$99–149</span>
+            <span class="per">per feed<br>per month</span>
+          </div>
+        </div>
+      </div>
+
+      <div class="schematic reveal">
+        <div class="cap">
+          <span>Fig. 02 — Collection and delivery</span>
+          <span>Watch · heal · refresh</span>
+        </div>
+        <svg viewBox="0 0 900 268" fill="none" role="img" aria-label="Sources feed the PipeKeeper register, which delivers to your dashboard and spreadsheet">
+          <g stroke="rgba(20,20,15,.09)">
+            <path d="M0 24h900M0 118h900M0 228h900"/>
+          </g>
+          <g font-family="IBM Plex Mono, monospace" font-size="9" fill="#7B796D" letter-spacing="1.6">
+            <text x="20" y="44">A. SOURCES</text>
+            <text x="420" y="44">B. REGISTER</text>
+            <text x="710" y="44">C. DELIVERY</text>
+            <text x="20" y="258">FIG. 02</text>
+            <text x="812" y="258">SCALE: N</text>
+          </g>
+
+          <!-- source blocks: one clean column -->
+          <g fill="#FAF7EF" stroke="#14140F" stroke-width="1">
+            <rect x="20" y="58" width="172" height="38"/>
+            <rect x="20" y="104" width="172" height="38"/>
+            <rect x="20" y="150" width="172" height="38"/>
+            <rect x="20" y="196" width="172" height="38"/>
+          </g>
+          <g font-family="IBM Plex Mono, monospace" font-size="8.5" fill="#14140F" letter-spacing="1.1">
+            <text x="32" y="74">JOB BOARDS</text>
+            <text x="32" y="120">GOVERNMENT</text>
+            <text x="32" y="166">SEC FILINGS</text>
+            <text x="32" y="212">CONTRACTS</text>
+          </g>
+          <g font-family="IBM Plex Mono, monospace" font-size="7.5" fill="#7B796D" letter-spacing=".7">
+            <text x="32" y="87">REFRESH / 60 MIN</text>
+            <text x="32" y="133">REFRESH / 60 MIN</text>
+            <text x="32" y="179">DELTA / RECORD</text>
+            <text x="32" y="225">DELTA / RECORD</text>
+          </g>
+
+          <!-- register block -->
+          <rect x="420" y="70" width="170" height="112" fill="#14140F"/>
+          <g font-family="IBM Plex Mono, monospace" font-size="9" fill="#F2EEE4" letter-spacing="1.4">
+            <text x="436" y="94">PIPEKEEPER</text>
+            <text x="436" y="110" fill="#D8451E">REGISTER</text>
+            <text x="436" y="136" font-size="7.5" fill="#B9B5A6">HEAL / RETRY</text>
+            <text x="436" y="149" font-size="7.5" fill="#B9B5A6">DEDUPE / DELTA</text>
+            <text x="436" y="162" font-size="7.5" fill="#B9B5A6">HEALTH CHECK</text>
+          </g>
+          <rect x="420" y="188" width="170" height="1" fill="#D8451E"/>
+
+          <!-- connectors -->
+          <g stroke="#14140F" stroke-width="1" stroke-dasharray="3 4" opacity=".75">
+            <path id="p1" d="M192 77 C 300 77, 330 112, 420 112"/>
+            <path id="p2" d="M192 123 C 300 123, 330 116, 420 117"/>
+            <path id="p3" d="M192 169 C 300 169, 330 124, 420 123"/>
+            <path id="p4" d="M192 215 C 300 215, 330 130, 420 128"/>
+            <path id="p5" d="M590 118 C 650 118, 655 88, 710 88"/>
+            <path id="p6" d="M590 124 C 650 124, 655 168, 710 168"/>
+          </g>
+          <circle cx="420" cy="112" r="2.2" fill="#D8451E"/>
+          <circle cx="420" cy="123" r="2.2" fill="#D8451E"/>
+
+          <!-- delivery -->
+          <g fill="#FAF7EF" stroke="#14140F" stroke-width="1">
+            <rect x="710" y="68" width="170" height="40"/>
+            <rect x="710" y="148" width="170" height="40"/>
+          </g>
+          <g font-family="IBM Plex Mono, monospace" font-size="8.5" fill="#14140F" letter-spacing="1">
+            <text x="722" y="85">YOUR DASHBOARD</text>
+            <text x="722" y="165">YOUR SPREADSHEET</text>
+          </g>
+          <g font-family="IBM Plex Mono, monospace" font-size="7.5" fill="#7B796D" letter-spacing=".7">
+            <text x="722" y="98">CSV / JSON</text>
+            <text x="722" y="178">CSV / SHEETS SYNC</text>
+          </g>
+
+          <circle r="2.4" fill="#D8451E">
+            <animateMotion dur="5s" repeatCount="indefinite"><mpath href="#p5"/></animateMotion>
+          </circle>
+        </svg>
+      </div>
+    </div>
+  </section>
+
+  <section id="method" class="band">
+    <div class="shell">
+      <div class="band-open band-head">
+        <div class="bh-idx">
+          <span class="num">§ 03</span>
+          <span class="lbl">Operating method</span>
+        </div>
+        <div class="bh-main">
+          <h2>Three steps, then you <span class="serif">stop thinking about it.</span></h2>
+        </div>
+      </div>
+      <div class="steps">
+        <div class="step reveal">
+          <div class="n">Step 01</div>
+          <h4>We connect</h4>
+          <p>Within 48 hours your sources are collected, cleaned and structured — visible on a status page from day one.</p>
+          <div class="stampbar"></div>
+        </div>
+        <div class="step reveal">
+          <div class="n">Step 02</div>
+          <h4>We watch</h4>
+          <p>Every run is health-checked. A source that changes shape is caught within the hour, not when a client calls you.</p>
+          <div class="stampbar"></div>
+        </div>
+        <div class="step reveal">
+          <div class="n">Step 03</div>
+          <h4>You forget</h4>
+          <p>Broken collectors repair themselves. You get one weekly line: fresh, alive, delivered. That is the whole job.</p>
+          <div class="stampbar"></div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <section id="tariff" class="band">
+    <div class="shell">
+      <div class="band-open band-head">
+        <div class="bh-idx">
+          <span class="num">§ 04</span>
+          <span class="lbl">Tariff</span>
+        </div>
+        <div class="bh-main">
+          <h2>Fresh data on tap. <span class="serif">Pick a feed, check out.</span></h2>
+          <p class="lede body">Every tier is the real pipeline: hourly collection, first-seen tracking and health checks. Card checkout is handled by Polar; your data lands within the hour.</p>
+        </div>
+      </div>
+
+      <div class="tariff">
+        <div class="tier">
+          <div class="t-head"><span>Starter</span><span>One feed</span></div>
+          <h3>One feed, <em>kept fresh.</em></h3>
+          <p class="t-desc">Any single feed from the live register, refreshed hourly.</p>
+          <ul>
+            <li>1 feed of your choice</li>
+            <li>Hourly refresh, clean CSV</li>
+            <li>New-record flag every run</li>
+            <li>Weekly one-line health report</li>
+            <li>Cancel anytime, keep your data</li>
+          </ul>
+          <div class="price">$99<span>/ month</span></div>
+          <a class="btn btn-line" data-checkout="starter">Subscribe — $99/mo</a>
+        </div>
+        <div class="tier featured">
+          <span class="flag">Most popular</span>
+          <div class="t-head"><span>Pro</span><span>Three feeds</span></div>
+          <h3>Three feeds, <em>fast lane.</em></h3>
+          <p class="t-desc">For teams watching a market, not just a single board.</p>
+          <ul>
+            <li>3 feeds of your choice</li>
+            <li>Hourly refresh + Sheets sync</li>
+            <li>Combined “what changed” digest</li>
+            <li>Priority custom-niche requests</li>
+            <li>Cancel anytime, keep your data</li>
+          </ul>
+          <div class="price">$249<span>/ month</span></div>
+          <a class="btn" data-checkout="pro">Subscribe — $249/mo</a>
+        </div>
+        <div class="tier">
+          <div class="t-head"><span>Care</span><span>Custom</span></div>
+          <h3>Your sources, <em>our watch.</em></h3>
+          <p class="t-desc">We build collectors for the sites you choose and run them like our own.</p>
+          <ul>
+            <li>Custom collectors, 48h build</li>
+            <li>Hourly runs, self-healing repair</li>
+            <li>Weekly plain-English report</li>
+            <li>Starts with a 5-day pilot</li>
+          </ul>
+          <div class="price">$300+<span>/ month</span></div>
+          <a class="btn btn-line" href="#contact">Start with a pilot</a>
+        </div>
+      </div>
+      <p class="tariff-note"><b>Secure card checkout by Polar</b> · taxes handled at checkout · every tier starts with the register you can inspect above — no demo bait.</p>
+    </div>
+  </section>
+
+  <section id="weekly" class="weekly">
+    <div class="shell weekly-in">
+      <div>
+        <div class="mono" style="margin-bottom:18px">§ 05 — PipeKeeper Weekly · free forever</div>
+        <h2>One email, Monday. <span class="serif">Fifteen feeds of market truth.</span></h2>
+        <p class="lede body" style="margin-top:18px">New jobs, funding rounds, federal contracts and recalls — everything the register caught this week, in one five-minute read. Generated from the data, not from anyone's opinion. No spam, no sharing; unsubscribe by replying.</p>
+        <form class="news-form reveal" id="sub-form" target="_blank" rel="noopener" method="post" onsubmit="return subGo(event)">
+          <input type="email" name="email" placeholder="you@agency.com" required aria-label="Email address">
+          <button type="submit">Subscribe free</button>
+        </form>
+        <div class="news-note" id="sub-note">We never share your address. First issue lands Monday 09:00 UTC.</div>
+        <a class="link issue-link" href="https://neel2667.github.io/pipekeeper/data/digest_preview.html" target="_blank" rel="noopener">Read the latest issue →</a>
+      </div>
+
+      <div class="coupon reveal" aria-hidden="true">
+        <div class="c-head">
+          <span class="t">15 feeds. One week of market truth.</span>
+          <span class="stamp2">Free</span>
+        </div>
         <ul>
-          <li><i>→</i>Custom collectors for your exact sources</li>
-          <li><i>→</i>Hourly health checks, automatic repair</li>
-          <li><i>→</i>Weekly health report — plain English</li>
-          <li><i>→</i>Clean CSV / Sheets delivery, every run</li>
+          <li><span>Bridge33 raised (SEC Form D)</span><span>funding</span></li>
+          <li><span>Account Executive, AI Native — Anthropic</span><span>hiring</span></li>
+          <li><span>RN - CVPICU · Columbus, OH — $4,411/wk</span><span>jobs</span></li>
+          <li><span>Contract $34.8M — DHS · NORESCO</span><span>federal</span></li>
+          <li><span>Clear Aligner System 510(k) cleared</span><span>medtech</span></li>
         </ul>
-        <div class="price"><span class="p">$300–800</span><span class="per">/ month per pipeline</span></div>
-      </div>
-      <div class="offer reveal" id="offer2">
-        <div class="tag">Data Feeds</div>
-        <h3>Skip the plumbing. <em>Buy the output.</em></h3>
-        <p>Ready-made niche datasets — who's hiring, at what pay, what changed this week. Fresh hourly, delivered as clean files or API. No scrapers. No maintenance. No surprises.</p>
-        <ul>
-          <li><i>→</i>Hourly freshness, timestamped runs</li>
-          <li><i>→</i>First-seen / last-seen history per record</li>
-          <li><i>→</i>Clean schema + methodology card</li>
-          <li><i>→</i>CSV now, API on request</li>
-        </ul>
-        <div class="price"><span class="p">$99–149</span><span class="per">/ month per feed</span></div>
+        <div class="c-meta"><span>Week of Nov 15</span><span>15/15 green · +3,229 records</span></div>
       </div>
     </div>
+  </section>
 
-    <div class="viz reveal" id="viz">
-      <svg viewBox="0 0 820 220" fill="none">
-        <defs>
-          <linearGradient id="pv" x1="0" y1="0" x2="1" y2="0">
-            <stop offset="0" stop-color="#86AE0B" stop-opacity=".85"/><stop offset="1" stop-color="#86AE0B" stop-opacity=".12"/>
-          </linearGradient>
-        </defs>
-        <g font-family="JetBrains Mono" font-size="11" fill="#5D6577">
-          <text x="40" y="60" text-anchor="middle">source</text>
-          <text x="40" y="160" text-anchor="middle">source</text>
-          <text x="410" y="115" text-anchor="middle">PIPEKEEPER</text>
-          <text x="780" y="60" text-anchor="middle">your</text><text x="780" y="76" text-anchor="middle">dashboard</text>
-          <text x="780" y="160" text-anchor="middle">your</text><text x="780" y="176" text-anchor="middle">spreadsheet</text>
-        </g>
-        <circle cx="40" cy="46" r="5" fill="#3A4150"/><circle cx="40" cy="146" r="5" fill="#3A4150"/>
-        <circle cx="410" cy="106" r="26" stroke="#86AE0B" stroke-width="1.5" opacity=".9"/>
-        <circle cx="410" cy="106" r="8" fill="#CDEF3C"/>
-        <circle cx="780" cy="66" r="5" fill="#3A4150"/><circle cx="780" cy="166" r="5" fill="#3A4150"/>
-        <path id="p1" d="M48 46 C 180 46, 280 100, 392 104" stroke="url(#pv)" stroke-width="1.5" fill="none"/>
-        <path id="p2" d="M48 146 C 180 146, 280 116, 392 110" stroke="url(#pv)" stroke-width="1.5" fill="none"/>
-        <path id="p3" d="M428 100 C 560 92, 660 70, 772 66" stroke="url(#pv)" stroke-width="1.5" fill="none"/>
-        <path id="p4" d="M428 112 C 560 122, 660 158, 772 166" stroke="url(#pv)" stroke-width="1.5" fill="none"/>
-        <g id="dots"></g>
-        <text x="410" y="142" text-anchor="middle" font-family="JetBrains Mono" font-size="10" fill="#98A2B8">watch · heal · refresh — hourly</text>
-      </svg>
-    </div>
-  </div>
-</section>
-
-<section id="how">
-  <div class="wrap">
-    <div class="kicker reveal">The PipeKeeper method</div>
-    <h2 class="reveal">Three steps, then you <em>stop thinking about it.</em></h2>
-    <div class="steps" style="margin-top:56px">
-      <div class="step reveal"><div class="n">01</div><h4>We connect</h4><p>In 48 hours your sources are collected, cleaned, and structured — visible on your own status page from day one.</p></div>
-      <div class="step reveal"><div class="n">02</div><h4>We watch</h4><p>Every run is health-checked. A source that changes or breaks is detected within the hour — not when a client calls you.</p></div>
-      <div class="step reveal"><div class="n">03</div><h4>You forget</h4><p>Broken scrapers repair themselves. You get a weekly one-line report: fresh, alive, delivered. That's the whole job.</p></div>
-    </div>
-  </div>
-</section>
-
-<section id="pricing">
-  <div class="wrap">
-    <div class="kicker reveal">Subscriptions — cancel anytime</div>
-    <h2 class="reveal">Fresh data on tap.<br><em>Pick a feed, check out, done.</em></h2>
-    <p class="lede reveal" style="text-align:center;max-width:60ch;margin:14px auto 0">Every plan is the real pipeline — hourly collection, first-seen tracking, health checks. Card checkout handled by Polar; your data lands in your inbox and dashboard within the hour.</p>
-    <div class="plans">
-      <div class="plan reveal" id="plan-starter">
-        <div class="ptag">Starter</div>
-        <h3>One <em>feed.</em></h3>
-        <p class="pdesc">Any single feed from the live fleet, refreshed hourly.</p>
-        <ul>
-          <li><i>→</i>1 feed of your choice</li>
-          <li><i>→</i>Hourly refresh, clean CSV</li>
-          <li><i>→</i>New-records flag every run</li>
-          <li><i>→</i>Weekly one-line health report</li>
-          <li><i>→</i>Cancel anytime, keep your data</li>
-        </ul>
-        <div class="pprice"><b>$99</b><span>/ month</span></div>
-        <a class="btn btn-ghost" data-checkout="starter" style="width:100%;text-align:center;justify-content:center">Subscribe — $99/mo</a>
+  <section id="contact" class="closing">
+    <div class="shell">
+      <div class="mono reveal" style="margin-bottom:20px">§ 06 — Start here</div>
+      <h2 class="reveal">A 5-day pilot. <em>Real data, or you don't pay.</em></h2>
+      <p class="lede reveal">We connect one source of your choice, deliver cleaned data for five days, and hand over the health reports. If it isn't exactly what we promised, the pilot is free.</p>
+      <div class="cta-actions reveal">
+        <a class="btn btn-ink" href="mailto:hello@pipekeeper.eu.org?subject=PipeKeeper%20pilot">Start a pilot <span class="ar">→</span></a>
+        <a class="btn btn-line" href="#register">Read the register first</a>
       </div>
-      <div class="plan feat reveal" id="plan-pro">
-        <div class="badge">Most popular</div>
-        <div class="ptag">Pro</div>
-        <h3>Three feeds, <em>fast lane.</em></h3>
-        <p class="pdesc">For teams watching a market, not just a board.</p>
-        <ul>
-          <li><i>→</i>3 feeds of your choice</li>
-          <li><i>→</i>Hourly refresh + Google Sheets sync</li>
-          <li><i>→</i>Combined "what changed this week" digest</li>
-          <li><i>→</i>Priority custom-niche requests</li>
-          <li><i>→</i>Cancel anytime, keep your data</li>
-        </ul>
-        <div class="pprice"><b>$249</b><span>/ month</span></div>
-        <a class="btn btn-primary" data-checkout="pro" style="width:100%;text-align:center;justify-content:center">Subscribe — $249/mo</a>
-      </div>
-      <div class="plan reveal" id="plan-care">
-        <div class="ptag">Pipeline Care</div>
-        <h3>Your <em>sources,</em> our babysitter.</h3>
-        <p class="pdesc">We build collectors for the sites you choose and run them like our own.</p>
-        <ul>
-          <li><i>→</i>Custom collectors, 48h build</li>
-          <li><i>→</i>Hourly runs, self-healing repair</li>
-          <li><i>→</i>Weekly plain-English report</li>
-          <li><i>→</i>Starts with a 5-day pilot</li>
-        </ul>
-        <div class="pprice"><b>$300+</b><span>/ month</span></div>
-        <a class="btn btn-ghost" href="#contact" style="width:100%;text-align:center;justify-content:center">Start with a pilot</a>
-      </div>
+      <p class="fine reveal">Payment accepted <b>UPI · PayPal · Wise · bank transfer</b> — whichever is easiest.</p>
     </div>
-    <p class="checkout-note reveal">
-      Secure card checkout by <b style="color:var(--dim)">Polar</b> · taxes handled at checkout ·
-      every plan starts with the live fleet you can inspect above — no "demo" bait.
-    </p>
-  </div>
-</section>
-
-<section id="contact" class="cta">
-  <div class="mesh c"></div>
-  <div class="wrap">
-    <div class="kicker reveal" style="justify-content:center;display:flex">Start here</div>
-    <h2 class="reveal">A 5-day paid pilot.<br><em>Real data, or you don't pay.</em></h2>
-    <p class="lede reveal" style="text-align:center">We connect one source of your choice, deliver cleaned data for five days, and hand you the health reports. If it isn't exactly what we promised — the pilot is free.</p>
-    <div class="hero-cta reveal">
-      <a class="btn btn-primary" href="mailto:hello@pipekeeper.eu.org?subject=PipeKeeper%20pilot" style="padding:16px 30px;font-size:1rem">Start a pilot →</a>
-      <a class="btn btn-ghost" href="#feed" style="padding:16px 30px;font-size:1rem">See the data first</a>
-    </div>
-    <p class="news-note reveal" style="margin-top:18px;text-align:center">We accept <b style="color:var(--dim)">UPI · PayPal · Wise · bank transfer</b> — whichever is easiest for you.</p>
-  </div>
-</section>
+  </section>
+</main>
 
 <footer>
-  <div class="wrap foot-in">
-    <span>PipeKeeper — self-healing data pipelines &amp; fresh niche feeds.</span>
-    <span><a href="https://github.com/Neel2667/pipekeeper" target="_blank" rel="noopener">source &amp; run history</a> · <span id="f-updated"></span></span>
+  <div class="shell">
+    <div class="foot-grid">
+      <div class="foot-brand">
+        <a class="logo" href="#top"><span class="glyph" aria-hidden="true"></span>PipeKeeper</a>
+        <p>Self-healing data pipelines and fresh niche feeds, collected hourly on public sources — on infrastructure we don't have to own.</p>
+      </div>
+      <div class="foot-col">
+        <h5>Register</h5>
+        <a href="#register" data-goto="remoteok">Remote tech jobs</a>
+        <a href="#register" data-goto="edgarformd">SEC funding rounds</a>
+        <a href="#register" data-goto="usaspending">Federal contracts</a>
+        <a href="#register" data-goto="openfda510k">FDA clearances</a>
+      </div>
+      <div class="foot-col">
+        <h5>Product</h5>
+        <a href="#services">Services</a>
+        <a href="#method">Method</a>
+        <a href="#tariff">Tariff</a>
+        <a href="#weekly">Weekly</a>
+      </div>
+      <div class="foot-col">
+        <h5>Company</h5>
+        <a href="mailto:hello@pipekeeper.eu.org">Contact</a>
+        <a href="https://github.com/Neel2667/pipekeeper" target="_blank" rel="noopener">Source &amp; run history</a>
+        <a href="#register">Live status</a>
+      </div>
+    </div>
+    <div class="foot-base">
+      <span>© 2026 PipeKeeper · printed from live data</span>
+      <span class="ok"><i></i><span id="f-updated">fleet online</span></span>
+    </div>
   </div>
 </footer>
 
 <script>
-/* ---------- data ---------- */
+/* ============================================================
+   DATA
+   ============================================================ */
 const RAW = "https://raw.githubusercontent.com/Neel2667/pipekeeper/main/data/";
 const esc = s => String(s ?? "").replace(/[&<>"']/g, c => ({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;"}[c]));
 const payTxt = j => j.pay_amount ? "$" + Number(String(j.pay_amount).replace(/,/g,"")).toLocaleString("en-US",{maximumFractionDigits:0}) + (j.pay_unit==="hour"?" /hr":" /wk") : null;
 const detailOf = j => j.detail || payTxt(j) || "—";
-function ago(ts){const t=new Date(ts);if(isNaN(t))return "—";const m=Math.max(0,Math.round((Date.now()-t.getTime())/60000));
-  if(m<1)return "just now";if(m===1)return "1 min ago";if(m<60)return m+" min ago";
-  const h=Math.floor(m/60);return h===1?"1 hr ago":h+" hrs ago";}
-let FEEDS=[],ACTIVE="hosthealthcare",FEEDDATA=null,FILTER="all";
+function ago(ts){
+  const t = new Date(ts); if (isNaN(t)) return "—";
+  const m = Math.max(0, Math.round((Date.now() - t.getTime())/60000));
+  if (m < 1) return "just now";
+  if (m === 1) return "1 min ago";
+  if (m < 60) return m + " min ago";
+  const h = Math.floor(m/60); return h === 1 ? "1 hr ago" : h + " hrs ago";
+}
+let FEEDS = [], ACTIVE = "hosthealthcare", FEEDDATA = null, FILTER = "all";
 
+/* ============================================================
+   RENDER — figure excerpt
+   ============================================================ */
 function renderDash(d){
-  const rows=(d.jobs||[]).slice(0,4);
-  document.getElementById("dash-rows").innerHTML=rows.map(j=>`
-    <div class="dash-row">
-      <div class="jr"><span class="jt">${esc(j.title)}</span><span class="jl">${esc(j.location)}</span></div>
-      <span style="display:flex;align-items:center"><span class="jp">${esc(detailOf(j))}</span>${j.new_this_run?'<span class="np">NEW</span>':""}</span>
+  const rows = (d.jobs || []).slice(0,4);
+  document.getElementById("dash-rows").innerHTML = rows.map(j => `
+    <div class="fig-row">
+      <span class="t">${esc(j.title)}</span>
+      <span class="d">${esc(detailOf(j))}${j.new_this_run ? '<span class="nw">new</span>' : ""}</span>
+      <span class="l">${esc(j.location || j.org || "—")}</span>
     </div>`).join("");
-  document.getElementById("dash-last").textContent=ago(d.collected_at);
-  document.getElementById("chip-new").textContent=(d.new_this_run??0)+" records";
-  document.getElementById("m-last").textContent="last run "+ago(d.collected_at);
+  document.getElementById("dash-count").textContent = Math.min(d.jobs_on_board || (d.jobs||[]).length, 120);
+  document.getElementById("dash-new").textContent = d.new_this_run ?? 0;
+  document.getElementById("dash-last").textContent = ago(d.collected_at);
+  document.getElementById("m-last").textContent = "Last run " + ago(d.collected_at);
+  renderHeroSpark(d);
+}
+function renderHeroSpark(d){
+  const el = document.getElementById("hero-spark");
+  const runs = (d.runs || []).slice(-24);
+  if (!el || runs.length < 2) return;
+  const W = 460, H = 52, base = H - 3, top = 8, pad = 1;
+  const vals = runs.map(r => r.jobs);
+  const max = Math.max(...vals), min = Math.min(...vals), flat = max === min;
+  const pts = runs.map((r,i) => [
+    pad + (i/(runs.length-1))*(W - pad*2),
+    base - ((flat ? .55 : (r.jobs - min)/(max - min)) * (base - top))
+  ]);
+  const line = pts.map(p => p[0].toFixed(1)+","+p[1].toFixed(1)).join(" ");
+  const lastPt = pts[pts.length-1];
+  el.innerHTML = `
+    <line x1="0" y1="${base+.5}" x2="${W}" y2="${base+.5}" stroke="rgba(20,20,15,.22)"/>
+    ${flat ? "" : `<polygon points="${pad},${base} ${line} ${(W-pad).toFixed(1)},${base}" fill="rgba(20,20,15,.08)"/>`}
+    <polyline points="${line}" fill="none" stroke="#14140F" stroke-opacity="${flat ? ".45" : ".8"}"
+      stroke-width="1.2" ${flat ? 'stroke-dasharray="3 3"' : ""} stroke-linejoin="round"/>
+    <circle cx="${lastPt[0].toFixed(1)}" cy="${lastPt[1].toFixed(1)}" r="2.6" fill="#D8451E"/>`;
 }
 function renderTicker(d){
-  const items=(d.jobs||[]).slice(0,14).map(j=>
-    `<span class="tick-item">${esc(j.title)}<span class="tp">${esc(detailOf(j))}</span><span class="sep">◆</span>${esc(j.location||j.org||"")}</span><span class="sep" style="margin-left:24px">◆</span>`).join("");
-  const half=`<span style="display:flex;gap:48px;align-items:center">${items}</span>`;
-  document.getElementById("ticker").innerHTML=half+half;
+  const items = (d.jobs || []).slice(0,16).map(j =>
+    `<span class="tick-item">${esc(j.title)}<span class="tp">${esc(detailOf(j))}</span><span class="sep">/</span>${esc(j.location || j.org || "")}</span>`
+  ).join("");
+  const half = `<span style="display:flex;gap:44px;align-items:center">${items}</span>`;
+  document.getElementById("ticker").innerHTML = half + half;
 }
+
+/* ============================================================
+   RENDER — register panel
+   ============================================================ */
 const METHODOLOGY = {
   "jobs": "Collected directly from the public job board. <b>Facts only</b> — titles, employers, locations and pay exactly as the source posts them (weekly vs hourly units preserved). Every record links to its source page.",
   "hiring-signal": "Company hiring announcements collected from public sources. Each record links to the original post. <b>Facts only</b> — what was posted, where, when we first saw it.",
@@ -658,151 +1000,181 @@ const METHODOLOGY = {
   "government": "US public-domain government data (ClinicalTrials.gov / openFDA / Federal Register). New and updated records only, with links to the primary source. Public domain: free to use commercially."
 };
 function renderMethod(d){
-  const cat = d.category || (FEEDS.find(f=>f.id===d.id)||{}).category || "jobs";
+  const cat = d.category || (FEEDS.find(f => f.id === d.id) || {}).category || "jobs";
   document.getElementById("fmethod-body").innerHTML =
-    `<b>${esc(d.name||d.id)}</b> — refreshed hourly · ${d.total_tracked||0} records tracked since launch · ${Math.min(d.jobs_on_board||0,120)} in the current snapshot.<br>${METHODOLOGY[cat]||METHODOLOGY.jobs}`;
+    `<b>${esc(d.name || d.id)}</b> — refreshed hourly · ${d.total_tracked || 0} records tracked since launch · ${Math.min(d.jobs_on_board || 0, 120)} in the current snapshot.<br>${METHODOLOGY[cat] || METHODOLOGY.jobs}`;
 }
 function renderRows(d){
-  const rows=(d.jobs||[]).filter(j=>FILTER==="all"||j.new_this_run);
-  document.getElementById("rows").innerHTML=rows.length?rows.map(j=>`
+  const matching = (d.jobs || []).filter(j => FILTER === "all" || j.new_this_run);
+  const rows = matching.slice(0, 24);
+  document.getElementById("rows").innerHTML = rows.length ? rows.map(j => `
     <tr>
-      <td class="tc">${j.url?`<a class="jlink" href="${esc(j.url)}" target="_blank" rel="noopener">${esc(j.title)}</a>`:esc(j.title)}</td>
-      <td class="loc">${esc(j.org||"—")}</td>
-      <td class="loc">${esc(j.location||"—")}</td>
-      <td class="num" style="color:var(--acc-t)">${esc(detailOf(j))}</td>
-      <td>${j.new_this_run?'<span class="badge">NEW</span>':""}</td>
+      <td class="rec">${j.url ? `<a class="jlink" href="${esc(j.url)}" target="_blank" rel="noopener">${esc(j.title)}</a>` : esc(j.title)}</td>
+      <td class="org">${esc(j.org || "—")}</td>
+      <td class="loc">${esc(j.location || "—")}</td>
+      <td class="num">${esc(detailOf(j))}</td>
+      <td>${j.new_this_run ? '<span class="badge">new</span>' : ""}</td>
     </tr>`).join("")
-    :`<tr><td colspan="5" style="color:var(--faint)">No new records this hour — everything already tracked.</td></tr>`;
-  document.getElementById("fb-src").innerHTML=`source: <a href="${esc(d.source)}" target="_blank" rel="noopener">${esc(d.source)}</a> · facts &amp; metadata only`;
-  document.getElementById("fb-csv").href=RAW+"exports/"+d.id+".csv";
-  document.getElementById("fb-note").textContent=`showing latest ${Math.min(d.jobs.length,120)} of ${d.total_tracked||0} tracked`;
+    : `<tr class="empty"><td colspan="5">No new records this hour — everything already tracked.</td></tr>`;
+  document.getElementById("fb-src").innerHTML = `Source: <a href="${esc(d.source)}" target="_blank" rel="noopener">${esc(d.source)}</a> · facts &amp; metadata only`;
+  document.getElementById("fb-csv").href = RAW + "exports/" + d.id + ".csv";
+  document.getElementById("fb-note").textContent = !rows.length
+    ? `no matching records this run · ${d.total_tracked || 0} tracked`
+    : matching.length > rows.length
+      ? `first ${rows.length} of ${matching.length} in snapshot · ${d.total_tracked || 0} tracked`
+      : `all ${rows.length} in snapshot · ${d.total_tracked || 0} tracked`;
   renderMethod(d);
 }
 function renderSpark(d){
-  const runs=(d.runs||[]).slice(-48);
-  if(runs.length<2)return;
-  const w=900,h=72,max=Math.max(...runs.map(r=>r.jobs),10);
-  const pts=runs.map((r,i)=>[(i/(runs.length-1))*(w-8)+4,h-10-((r.jobs/max)*(h-24))]);
-  const line=pts.map(p=>p.map(v=>v.toFixed(1)).join(",")).join(" ");
-  document.getElementById("spark").innerHTML=`
-    <defs><linearGradient id="sg" x1="0" y1="0" x2="0" y2="1">
-      <stop offset="0" stop-color="#86AE0B" stop-opacity=".28"/><stop offset="1" stop-color="#86AE0B" stop-opacity="0"/>
-    </linearGradient></defs>
-    <polygon points="4,${h} ${line} ${pts[pts.length-1][0].toFixed(1)},${h}" fill="url(#sg)"/>
-    <polyline points="${line}" fill="none" stroke="#6E9108" stroke-width="2"/>
-    <circle cx="${pts[pts.length-1][0].toFixed(1)}" cy="${pts[pts.length-1][1].toFixed(1)}" r="3.5" fill="#6E9108"/>`;
-  document.getElementById("spark-n").textContent=runs[runs.length-1].jobs;
+  const runs = (d.runs || []).slice(-48);
+  const el = document.getElementById("spark");
+  if (runs.length < 2 || !el) return;
+  const w = 900, h = 68, base = h - 4, top = 8, pad = 2;
+  const vals = runs.map(r => r.jobs);
+  const max = Math.max(...vals), min = Math.min(...vals), flat = max === min;
+  const pts = runs.map((r,i) => [
+    pad + (i/(runs.length-1))*(w - pad*2),
+    base - ((flat ? .55 : (r.jobs - min)/(max - min)) * (base - top))
+  ]);
+  const line = pts.map(p => p[0].toFixed(1)+","+p[1].toFixed(1)).join(" ");
+  const lastPt = pts[pts.length-1];
+  el.innerHTML = `
+    <line x1="0" y1="${base+.5}" x2="${w}" y2="${base+.5}" stroke="rgba(20,20,15,.22)"/>
+    ${flat ? "" : `<polygon points="${pad},${base} ${line} ${(w-pad).toFixed(1)},${base}" fill="rgba(20,20,15,.07)"/>`}
+    <polyline points="${line}" fill="none" stroke="#14140F" stroke-opacity="${flat ? ".45" : ".85"}"
+      stroke-width="1.3" ${flat ? 'stroke-dasharray="3 3"' : ""} stroke-linejoin="round"/>
+    <circle cx="${lastPt[0].toFixed(1)}" cy="${lastPt[1].toFixed(1)}" r="2.8" fill="#D8451E"/>`;
+  document.getElementById("spark-n").textContent = runs[runs.length-1].jobs;
 }
 function buildFleet(){
-  const el=document.getElementById("fleet");if(!el)return;
-  el.innerHTML=(FEEDS||[]).map(f=>`
-    <div class="fcard${f.id===ACTIVE?" active":""}" data-f="${esc(f.id)}" title="inspect ${esc(f.name)}">
-      <span class="dot${f.jobs_on_board?"":" bad"}"></span>
-      <span class="fc">${esc(f.category)}</span>
-      <div class="fn">${esc(f.name)}</div>
-      <div class="fm"><span><b>${Math.min(f.jobs_on_board||0,120)}</b> latest · <b>${f.new_this_run}</b> new</span><span>${ago(f.collected_at)}</span></div>
-    </div>`).join("");
+  const el = document.getElementById("fleet"); if (!el) return;
+  el.innerHTML = (FEEDS || []).map(f => `
+    <button class="reg-row${f.id === ACTIVE ? " active" : ""}" type="button"
+      data-f="${esc(f.id)}" aria-label="Inspect ${esc(f.name)}">
+      <span class="reg-cat">${esc(f.category)}</span>
+      <span class="reg-name"><i class="reg-dot${f.jobs_on_board ? "" : " bad"}"></i>${esc(f.name)}</span>
+      <span class="reg-nums"><b>${Math.min(f.jobs_on_board || 0, 120)}</b> latest · <b>${f.new_this_run}</b> new</span>
+      <span class="reg-time">${ago(f.collected_at)}</span>
+      <span class="reg-arrow">→</span>
+    </button>`).join("");
 }
 async function selectFeed(id){
-  if(id===ACTIVE&&FEEDDATA)return;
-  ACTIVE=id;
-  history.replaceState(null,"","#feed="+id);
-  document.querySelectorAll(".fcard").forEach(c=>c.classList.toggle("active",c.dataset.f===id));
-  document.getElementById("rows").innerHTML=`<tr><td colspan="5" style="color:var(--faint)">loading ${esc(id)}…</td></tr>`;
+  if (id === ACTIVE && FEEDDATA) return;
+  ACTIVE = id;
+  history.replaceState(null, "", "#feed=" + id);
+  document.querySelectorAll(".reg-row").forEach(c => c.classList.toggle("active", c.dataset.f === id));
+  document.getElementById("rows").innerHTML = `<tr class="empty"><td colspan="5">Loading ${esc(id)}…</td></tr>`;
   try{
-    FEEDDATA=await (await fetch(RAW+id+".json?t="+Date.now())).json();
-    if(FEEDDATA.name)document.getElementById("feed-label").textContent=FEEDDATA.name;
-    renderRows(FEEDDATA);renderSpark(FEEDDATA);
+    FEEDDATA = await (await fetch(RAW + id + ".json?t=" + Date.now())).json();
+    if (FEEDDATA.name) document.getElementById("feed-label").textContent = FEEDDATA.name;
+    renderRows(FEEDDATA); renderSpark(FEEDDATA); renderDash(FEEDDATA);
   }catch(e){
-    document.getElementById("rows").innerHTML=`<tr><td colspan="5" style="color:var(--faint)">feed warming up — first collection may still be committing.</td></tr>`;
+    document.getElementById("rows").innerHTML = `<tr class="empty"><td colspan="5">Feed warming up — first collection may still be committing.</td></tr>`;
   }
 }
 function renderStats(d){
-  const runs=(d&&d.runs)||[];
-  animCount("s-feeds",FEEDS.length||15);
-  animCount("s-records",FEEDS.reduce((a,f)=>a+(f.total_tracked||0),0)||(d&&d.total_tracked)||0);
-  animCount("s-runs",runs.length);
-  document.getElementById("fb-last").textContent=ago(d.collected_at)+" ("+d.collected_at+" UTC)";
-  document.getElementById("f-updated").textContent="data as of "+d.collected_at+" UTC";
+  const runs = (d && d.runs) || [];
+  animCount("s-feeds", FEEDS.length || 15);
+  animCount("s-records", FEEDS.reduce((a,f) => a + (f.total_tracked || 0), 0) || (d && d.total_tracked) || 0);
+  animCount("s-runs", runs.length);
+  document.getElementById("fb-last").textContent = ago(d.collected_at) + " (" + d.collected_at + " UTC)";
+  const t = new Date(d.collected_at);
+  const stamp = isNaN(t) ? d.collected_at : t.toLocaleString("en-GB", {
+    timeZone:"UTC", day:"2-digit", month:"short", year:"numeric", hour:"2-digit", minute:"2-digit"
+  }) + " UTC";
+  document.getElementById("f-updated").textContent = "fleet online · data as of " + stamp;
 }
-function animCount(id,target){
-  const el=document.getElementById(id);if(!el)return;
-  const start=performance.now(),from=parseInt(el.textContent)||0,dur=1200;
-  function step(t){const p=Math.min(1,(t-start)/dur),e=1-Math.pow(1-p,3);
-    el.textContent=Math.round(from+(target-from)*e);
-    if(p<1)requestAnimationFrame(step);}
+function animCount(id, target){
+  const el = document.getElementById(id); if (!el) return;
+  const start = performance.now(), from = parseInt(el.textContent) || 0, dur = 1200;
+  function step(t){
+    const p = Math.min(1,(t-start)/dur), e = 1 - Math.pow(1-p,3);
+    el.textContent = Math.round(from + (target-from)*e).toLocaleString("en-US");
+    if (p < 1) requestAnimationFrame(step);
+  }
   requestAnimationFrame(step);
 }
 async function loadAll(){
   try{
-    FEEDDATA=await (await fetch(RAW+ACTIVE+".json?t="+Date.now())).json();
-    if(FEEDDATA.name)document.getElementById("feed-label").textContent=FEEDDATA.name;
-    renderDash(FEEDDATA);renderTicker(FEEDDATA);renderRows(FEEDDATA);renderSpark(FEEDDATA);
-  }catch(e){console.log("feed pending first cloud run")}
+    FEEDDATA = await (await fetch(RAW + ACTIVE + ".json?t=" + Date.now())).json();
+    if (FEEDDATA.name) document.getElementById("feed-label").textContent = FEEDDATA.name;
+    renderDash(FEEDDATA); renderTicker(FEEDDATA); renderRows(FEEDDATA); renderSpark(FEEDDATA);
+  }catch(e){ console.log("feed pending first cloud run"); }
   try{
-    FEEDS=(await (await fetch(RAW+"feeds.json?t="+Date.now())).json()).feeds||[];
+    FEEDS = (await (await fetch(RAW + "feeds.json?t=" + Date.now())).json()).feeds || [];
   }catch(e){}
-  if(FEEDDATA)renderStats(FEEDDATA);
+  if (FEEDDATA) renderStats(FEEDDATA);
   buildFleet();
   applyHash();
   refreshStatus();
 }
 function applyHash(){
-  const m=location.hash.match(/feed=([a-z0-9_]+)/i);
-  if(m&&m[1]!==ACTIVE&&document.querySelector(`[data-f="${m[1]}"]`))selectFeed(m[1]);
+  const m = location.hash.match(/feed=([a-z0-9_]+)/i);
+  if (m && m[1] !== ACTIVE && document.querySelector(`[data-f="${m[1]}"]`)) selectFeed(m[1]);
 }
-window.addEventListener("hashchange",applyHash);
+window.addEventListener("hashchange", applyHash);
 async function refreshStatus(){
   try{
-    const h=await (await fetch(RAW+"health.json?t="+Date.now())).json();
-    const st=h.last_status||{};const ids=Object.keys(st);
-    const ok=ids.filter(k=>st[k]).length;
-    const dot=document.getElementById("ss-dot");
-    dot.classList.toggle("bad",ok<ids.length);
-    document.getElementById("ss-text").innerHTML=
-      `SYSTEM STATUS &nbsp;<b>${ok}/${ids.length} collectors green</b> <span class="sep">◆</span> last run ${ago(h.last_run)} <span class="sep">◆</span> next run on the hour`;
+    const h = await (await fetch(RAW + "health.json?t=" + Date.now())).json();
+    const st = h.last_status || {}; const ids = Object.keys(st);
+    const ok = ids.filter(k => st[k]).length;
+    document.getElementById("nav-status-text").textContent = ok === ids.length
+      ? `${ok}/${ids.length} nominal` : `${ids.length - ok} degraded`;
+    const dot = document.querySelector(".sysdot i");
+    if (dot) dot.style.background = ok === ids.length ? "var(--ok)" : "var(--signal)";
   }catch(e){}
 }
-document.getElementById("copy-link").addEventListener("click",()=>{
-  const b=document.getElementById("copy-link");
-  history.replaceState(null,"","#feed="+ACTIVE);
-  navigator.clipboard.writeText(location.href).then(()=>{b.textContent="Copied ✓";
-    setTimeout(()=>b.textContent="Copy link",1600);});
+
+/* ============================================================
+   INTERACTIONS
+   ============================================================ */
+document.getElementById("copy-link").addEventListener("click", () => {
+  const b = document.getElementById("copy-link");
+  history.replaceState(null, "", "#feed=" + ACTIVE);
+  navigator.clipboard.writeText(location.href).then(() => {
+    b.textContent = "Copied ✓";
+    setTimeout(() => b.textContent = "Copy link", 1600);
+  });
 });
-document.getElementById("filter").addEventListener("click",e=>{
-  if(!e.target.dataset.f)return;FILTER=e.target.dataset.f;
-  document.querySelectorAll("#filter button").forEach(b=>b.classList.toggle("on",b===e.target));
-  if(FEEDDATA)renderRows(FEEDDATA);
+document.getElementById("filter").addEventListener("click", e => {
+  if (!e.target.dataset.f) return;
+  FILTER = e.target.dataset.f;
+  document.querySelectorAll("#filter button").forEach(b => b.classList.toggle("on", b === e.target));
+  if (FEEDDATA) renderRows(FEEDDATA);
 });
-document.getElementById("fleet").addEventListener("click",e=>{
-  const card=e.target.closest(".fcard");if(card&&card.dataset.f!==ACTIVE)selectFeed(card.dataset.f);
+document.getElementById("fleet").addEventListener("click", e => {
+  const row = e.target.closest(".reg-row");
+  if (row && row.dataset.f && row.dataset.f !== ACTIVE) selectFeed(row.dataset.f);
 });
-setInterval(()=>{if(FEEDDATA){renderDash(FEEDDATA);}},30000);
-setInterval(refreshStatus,60000);
+document.querySelectorAll("[data-goto]").forEach(a => {
+  a.addEventListener("click", () => setTimeout(() => selectFeed(a.dataset.goto), 60));
+});
+(function duplicateSources(){
+  const t = document.getElementById("sources-track");
+  if (t) t.innerHTML += t.innerHTML;
+})();
+setInterval(() => { if (FEEDDATA) renderDash(FEEDDATA); }, 30000);
+setInterval(refreshStatus, 60000);
 loadAll();
 
-/* ---------- newsletter signup ---------- */
-// Paste your MailerLite embedded-form action URL here, e.g.
-// https://assets.mailerlite.com/json/forms/1234567890 (Mail → Forms → Embedded HTML)
+/* ============================================================
+   NEWSLETTER + CHECKOUT
+   ============================================================ */
+// Paste your MailerLite embedded-form action URL here (Mail → Forms → Embedded HTML)
 const ML_FORM_URL = "";
 
-/* ---- Subscription checkout ------------------------------------------------
-   Paste your Polar product checkout URLs here and the buttons go live.
-   1) polar.sh dashboard → Products → new: "$99/mo Starter", "$249/mo Pro"
-   2) copy each checkout link into the matching slot below.
----------------------------------------------------------------------------- */
+/* Paste your Polar product checkout URLs here and the buttons go live. */
 const CHECKOUT = {
   starter: "",  // e.g. https://polar.sh/checkout/xxx  ($99/mo)
   pro:     ""   // e.g. https://polar.sh/checkout/yyy  ($249/mo)
 };
-document.querySelectorAll("[data-checkout]").forEach(a=>{
-  const plan=a.dataset.checkout;
-  if(CHECKOUT[plan]){
-    a.href=CHECKOUT[plan]; a.target="_blank"; a.rel="noopener";
-  }else{
-    a.href="mailto:hello@pipekeeper.eu.org?subject=PipeKeeper%20subscription%20—%20"+plan.toUpperCase()
-      +"&body=Hi%2C%20I%20want%20the%20"+plan.toUpperCase()+"%20plan.%20Send%20me%20a%20checkout%20link%20for%20my%20feed%20choice.";
-    a.addEventListener("click",e=>{ /* mailto fallback until checkout links are pasted */ });
+document.querySelectorAll("[data-checkout]").forEach(a => {
+  const plan = a.dataset.checkout;
+  if (CHECKOUT[plan]){
+    a.href = CHECKOUT[plan]; a.target = "_blank"; a.rel = "noopener";
+  } else {
+    a.href = "mailto:hello@pipekeeper.eu.org?subject=PipeKeeper%20subscription%20—%20" + plan.toUpperCase()
+      + "&body=Hi%2C%20I%20want%20the%20" + plan.toUpperCase() + "%20plan.%20Send%20me%20a%20checkout%20link%20for%20my%20feed%20choice.";
   }
 });
 
@@ -810,78 +1182,28 @@ function subGo(e){
   e.preventDefault();
   const email = new FormData(e.target).get("email");
   const note = document.getElementById("sub-note");
-  if(ML_FORM_URL){
+  if (ML_FORM_URL){
     fetch(ML_FORM_URL, {method:"POST", headers:{"Content-Type":"application/json"}, body:JSON.stringify({email})})
-      .then(()=>{note.textContent="You're in — first issue lands Monday 09:00 UTC. Check your inbox."; e.target.reset();})
-      .catch(()=>{note.textContent="Almost — open "+ML_FORM_URL+" and submit there while we fix the wiring.";});
-  }else{
-    window.location.href = "mailto:hello@pipekeeper.eu.org?subject=Subscribe%20to%20PipeKeeper%20Weekly&body=Subscribe%20me:%20"+encodeURIComponent(email);
-    note.textContent="Your mail app just opened — hit send and you're subscribed. (Connect MailerLite to automate this.)";
+      .then(() => { note.textContent = "You're in — first issue lands Monday 09:00 UTC. Check your inbox."; e.target.reset(); })
+      .catch(() => { note.textContent = "Almost — open " + ML_FORM_URL + " and submit there while we fix the wiring."; });
+  } else {
+    window.location.href = "mailto:hello@pipekeeper.eu.org?subject=Subscribe%20to%20PipeKeeper%20Weekly&body=Subscribe%20me:%20" + encodeURIComponent(email);
+    note.textContent = "Your mail app just opened — hit send and you're subscribed.";
   }
   return false;
 }
 
-/* ---------- motion ---------- */
-window.addEventListener("scroll",()=>{document.getElementById("nav").classList.toggle("scrolled",scrollY>30)},{passive:true});
-
-// hero headline line-mask reveal
-document.querySelectorAll("h1 .line span").forEach((s,i)=>{
-  s.style.transform="translateY(110%)";s.style.transition=`transform .9s cubic-bezier(.2,.8,.2,1) ${.12*i+.1}s`;
-  requestAnimationFrame(()=>requestAnimationFrame(()=>s.style.transform="translateY(0)"));
-});
-document.querySelectorAll(".reveal-h").forEach((el,i)=>{el.style.opacity=0;el.style.transform="translateY(16px)";
-  el.style.transition=`opacity .8s ease ${.35+i*.12}s, transform .8s cubic-bezier(.2,.8,.2,1) ${.35+i*.12}s`;
-  requestAnimationFrame(()=>requestAnimationFrame(()=>{el.style.opacity=1;el.style.transform="none";}));});
-
-// dashboard 3D tilt
-const dash=document.getElementById("dash"),card=document.getElementById("dash-card");
-if(dash&&card&&matchMedia("(pointer:fine)").matches){
-  dash.addEventListener("mousemove",e=>{const r=dash.getBoundingClientRect();
-    const x=(e.clientX-r.left)/r.width-.5,y=(e.clientY-r.top)/r.height-.5;
-    card.style.transform=`rotateY(${x*7}deg) rotateX(${-y*7}deg) translateZ(0)`;});
-  dash.addEventListener("mouseleave",()=>card.style.transform="");
-}
-
-// spotlight on offer cards
-document.querySelectorAll(".offer").forEach(c=>{
-  c.addEventListener("mousemove",e=>{const r=c.getBoundingClientRect();
-    c.style.setProperty("--mx",((e.clientX-r.left)/r.width*100)+"%");
-    c.style.setProperty("--my",((e.clientY-r.top)/r.height*100)+"%");});
-});
-
-// pipeline viz: dots traveling along paths
-(function(){
-  const g=document.getElementById("dots");if(!g)return;
-  const paths=["p1","p2","p3","p4"].map(id=>document.getElementById(id));
-  const NS="http://www.w3.org/2000/svg";
-  let t=0;
-  setInterval(()=>{
-    t=(t+1)%360;
-    g.innerHTML="";
-    paths.forEach((p,i)=>{
-      const len=p.getTotalLength();
-      for(let k=0;k<3;k++){
-        const pt=p.getPointAtLength(((t/360)+k/3+i*.18)%1*len);
-        const c=document.createElementNS(NS,"circle");
-        c.setAttribute("cx",pt.x);c.setAttribute("cy",pt.y);c.setAttribute("r",i<2?3:2.5);
-        c.setAttribute("fill","#86AE0B");c.setAttribute("opacity",".9");
-        g.appendChild(c);
-      }
-    });
-  },50);
-})();
-
-// scroll reveals (GSAP if available, CSS fallback keeps content visible)
-if(window.gsap&&window.ScrollTrigger){
-  gsap.registerPlugin(ScrollTrigger);
-  gsap.utils.toArray(".reveal").forEach(el=>{
-    gsap.fromTo(el,{opacity:0,y:28},{opacity:1,y:0,duration:.9,ease:"power3.out",
-      scrollTrigger:{trigger:el,start:"top 86%"}});
-  });
-  gsap.utils.toArray(".step").forEach((el,i)=>{
-    gsap.fromTo(el,{opacity:0,y:34},{opacity:1,y:0,duration:.8,delay:i*.12,ease:"power3.out",
-      scrollTrigger:{trigger:el,start:"top 88%"}});
-  });
+/* ============================================================
+   MOTION — entrances only, no scroll hijacking
+   ============================================================ */
+const reveals = document.querySelectorAll(".reveal");
+if ("IntersectionObserver" in window){
+  const io = new IntersectionObserver((entries) => {
+    entries.forEach(en => { if (en.isIntersecting){ en.target.classList.add("in"); io.unobserve(en.target); } });
+  }, {rootMargin:"0px 0px -8% 0px", threshold:.08});
+  reveals.forEach(el => io.observe(el));
+} else {
+  reveals.forEach(el => el.classList.add("in"));
 }
 </script>
 </body>
