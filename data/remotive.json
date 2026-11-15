@@ -3,7 +3,7 @@
  "name": "Remotive \u2014 remote jobs",
  "category": "jobs",
  "source": "https://remotive.com/api/remote-jobs",
- "collected_at": "2026-11-15T10:17:48+00:00",
+ "collected_at": "2026-11-15T10:22:47+00:00",
  "jobs_on_board": 16,
  "new_this_run": 0,
  "total_tracked": 16,
@@ -147,117 +147,122 @@
    "at": "2026-11-15T10:17:48+00:00",
    "jobs": 16,
    "new": 0
+  },
+  {
+   "at": "2026-11-15T10:22:47+00:00",
+   "jobs": 16,
+   "new": 0
   }
  ],
  "jobs_seen": {
   "remote office assistant|coalition technologies|worldwide": {
    "first_seen": "2026-11-15T10:17:27+00:00",
-   "last_seen": "2026-11-15T10:17:48+00:00",
+   "last_seen": "2026-11-15T10:22:47+00:00",
    "title": "Remote Office Assistant",
    "org": "Coalition Technologies",
    "location": "Worldwide"
   },
   "senior data engineer|lemon.io|latam, europe, usa, canada, apac": {
    "first_seen": "2026-11-15T10:17:27+00:00",
-   "last_seen": "2026-11-15T10:17:48+00:00",
+   "last_seen": "2026-11-15T10:22:47+00:00",
    "title": "Senior Data Engineer",
    "org": "Lemon.io",
    "location": "LATAM, Europe, USA, Canada, APAC"
   },
   "customer service representative|shyftoff|usa": {
    "first_seen": "2026-11-15T10:17:27+00:00",
-   "last_seen": "2026-11-15T10:17:48+00:00",
+   "last_seen": "2026-11-15T10:22:47+00:00",
    "title": "Customer Service Representative",
    "org": "ShyftOff",
    "location": "USA"
   },
   "senior react full-stack developer|lemon.io|latam, europe, usa, canada, apac": {
    "first_seen": "2026-11-15T10:17:27+00:00",
-   "last_seen": "2026-11-15T10:17:48+00:00",
+   "last_seen": "2026-11-15T10:22:47+00:00",
    "title": "Senior React Full-stack Developer",
    "org": "Lemon.io",
    "location": "LATAM, Europe, USA, Canada, APAC"
   },
   "inside sales contractor|credit wellness, llc|worldwide": {
    "first_seen": "2026-11-15T10:17:27+00:00",
-   "last_seen": "2026-11-15T10:17:48+00:00",
+   "last_seen": "2026-11-15T10:22:47+00:00",
    "title": "Inside Sales Contractor",
    "org": "Credit Wellness, LLC",
    "location": "Worldwide"
   },
   "tier iii service desk engineer|unio digital|worldwide": {
    "first_seen": "2026-11-15T10:17:27+00:00",
-   "last_seen": "2026-11-15T10:17:48+00:00",
+   "last_seen": "2026-11-15T10:22:47+00:00",
    "title": "Tier III Service Desk Engineer",
    "org": "Unio Digital",
    "location": "Worldwide"
   },
   "us remote patient care advocate (customer service)|vxi global solutions|usa": {
    "first_seen": "2026-11-15T10:17:27+00:00",
-   "last_seen": "2026-11-15T10:17:48+00:00",
+   "last_seen": "2026-11-15T10:22:47+00:00",
    "title": "US Remote Patient Care Advocate (Customer Service)",
    "org": "VXI Global Solutions",
    "location": "USA"
   },
   "freelance writer|iapwe|worldwide": {
    "first_seen": "2026-11-15T10:17:27+00:00",
-   "last_seen": "2026-11-15T10:17:48+00:00",
+   "last_seen": "2026-11-15T10:22:47+00:00",
    "title": "Freelance Writer",
    "org": "IAPWE",
    "location": "Worldwide"
   },
   "content reviewer - united states|telus digital|usa": {
    "first_seen": "2026-11-15T10:17:27+00:00",
-   "last_seen": "2026-11-15T10:17:48+00:00",
+   "last_seen": "2026-11-15T10:22:47+00:00",
    "title": "Content Reviewer - United States",
    "org": "TELUS Digital",
    "location": "USA"
   },
   "freelance copywriter|coalition technologies|worldwide": {
    "first_seen": "2026-11-15T10:17:27+00:00",
-   "last_seen": "2026-11-15T10:17:48+00:00",
+   "last_seen": "2026-11-15T10:22:47+00:00",
    "title": "Freelance Copywriter",
    "org": "Coalition Technologies",
    "location": "Worldwide"
   },
   "full-stack developer|fluence international, inc.|worldwide": {
    "first_seen": "2026-11-15T10:17:27+00:00",
-   "last_seen": "2026-11-15T10:17:48+00:00",
+   "last_seen": "2026-11-15T10:22:47+00:00",
    "title": "Full-Stack Developer",
    "org": "Fluence International, Inc.",
    "location": "Worldwide"
   },
   "senior back-end developer|lemon.io|europe, usa, canada, australia, singapore, mexico, saudi arabia": {
    "first_seen": "2026-11-15T10:17:27+00:00",
-   "last_seen": "2026-11-15T10:17:48+00:00",
+   "last_seen": "2026-11-15T10:22:47+00:00",
    "title": "Senior Back-end Developer",
    "org": "Lemon.io",
    "location": "Europe, USA, Canada, Australia, Singapore, Mexico, Saudi Arabia"
   },
   "head of engineering|lemon.io|worldwide": {
    "first_seen": "2026-11-15T10:17:27+00:00",
-   "last_seen": "2026-11-15T10:17:48+00:00",
+   "last_seen": "2026-11-15T10:22:47+00:00",
    "title": "Head of Engineering",
    "org": "Lemon.io",
    "location": "Worldwide"
   },
   "ai trainer - video annotation|imerit technology|worldwide": {
    "first_seen": "2026-11-15T10:17:27+00:00",
-   "last_seen": "2026-11-15T10:17:48+00:00",
+   "last_seen": "2026-11-15T10:22:47+00:00",
    "title": "AI Trainer - Video Annotation",
    "org": "iMerit Technology",
    "location": "Worldwide"
   },
   "software engineer, ai coding tasks|askable|worldwide": {
    "first_seen": "2026-11-15T10:17:27+00:00",
-   "last_seen": "2026-11-15T10:17:48+00:00",
+   "last_seen": "2026-11-15T10:22:47+00:00",
    "title": "Software Engineer, AI Coding Tasks",
    "org": "Askable",
    "location": "Worldwide"
   },
   "tech lead full-stack rails engineer|mitre media|usa, canada, usa timezones": {
    "first_seen": "2026-11-15T10:17:27+00:00",
-   "last_seen": "2026-11-15T10:17:48+00:00",
+   "last_seen": "2026-11-15T10:22:47+00:00",
    "title": "Tech Lead Full-Stack Rails Engineer",
    "org": "Mitre Media",
    "location": "USA, Canada, USA timezones"

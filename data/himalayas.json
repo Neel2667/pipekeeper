@@ -3,7 +3,7 @@
  "name": "Himalayas \u2014 remote jobs",
  "category": "jobs",
  "source": "https://himalayas.app/jobs/api",
- "collected_at": "2026-11-15T10:17:49+00:00",
+ "collected_at": "2026-11-15T10:22:48+00:00",
  "jobs_on_board": 20,
  "new_this_run": 0,
  "total_tracked": 19,
@@ -179,138 +179,143 @@
    "at": "2026-11-15T10:17:49+00:00",
    "jobs": 20,
    "new": 0
+  },
+  {
+   "at": "2026-11-15T10:22:48+00:00",
+   "jobs": 20,
+   "new": 0
   }
  ],
  "jobs_seen": {
   "technology delivery lead - financial services|accenture|united states": {
    "first_seen": "2026-11-15T10:13:38+00:00",
-   "last_seen": "2026-11-15T10:17:49+00:00",
+   "last_seen": "2026-11-15T10:22:48+00:00",
    "title": "Technology Delivery Lead - Financial Services",
    "org": "Accenture",
    "location": "United States"
   },
   "junior accountant|eventbase|canada": {
    "first_seen": "2026-11-15T10:13:38+00:00",
-   "last_seen": "2026-11-15T10:17:49+00:00",
+   "last_seen": "2026-11-15T10:22:48+00:00",
    "title": "Junior Accountant",
    "org": "Eventbase",
    "location": "Canada"
   },
   "sales development representative, german speaking|abnormal security|germany": {
    "first_seen": "2026-11-15T10:13:38+00:00",
-   "last_seen": "2026-11-15T10:17:49+00:00",
+   "last_seen": "2026-11-15T10:22:48+00:00",
    "title": "Sales Development Representative, German Speaking",
    "org": "Abnormal Security",
    "location": "Germany"
   },
   "event operations manager - sponsorships|mercer advisors|united states": {
    "first_seen": "2026-11-15T10:13:38+00:00",
-   "last_seen": "2026-11-15T10:17:49+00:00",
+   "last_seen": "2026-11-15T10:22:48+00:00",
    "title": "Event Operations Manager - Sponsorships",
    "org": "Mercer Advisors",
    "location": "United States"
   },
   "engineer ii - distribution|qualus|united states": {
    "first_seen": "2026-11-15T10:13:38+00:00",
-   "last_seen": "2026-11-15T10:17:49+00:00",
+   "last_seen": "2026-11-15T10:22:48+00:00",
    "title": "Engineer II - Distribution",
    "org": "Qualus",
    "location": "United States"
   },
   "clinical research associate - mexico|icon|mexico": {
    "first_seen": "2026-11-15T10:13:38+00:00",
-   "last_seen": "2026-11-15T10:17:49+00:00",
+   "last_seen": "2026-11-15T10:22:48+00:00",
    "title": "Clinical Research Associate - Mexico",
    "org": "ICON",
    "location": "Mexico"
   },
   "due diligence landman \u2013 powder river basin [remote]|purple land management|united states": {
    "first_seen": "2026-11-15T10:13:38+00:00",
-   "last_seen": "2026-11-15T10:17:49+00:00",
+   "last_seen": "2026-11-15T10:22:48+00:00",
    "title": "Due Diligence Landman \u2013 Powder River Basin [Remote]",
    "org": "Purple Land Management",
    "location": "United States"
   },
   "assistant general counsel|evio|united states": {
    "first_seen": "2026-11-15T10:13:38+00:00",
-   "last_seen": "2026-11-15T10:17:49+00:00",
+   "last_seen": "2026-11-15T10:22:48+00:00",
    "title": "Assistant General Counsel",
    "org": "Evio",
    "location": "United States"
   },
   "hr administrator|sybridge technologies|india, pakistan": {
    "first_seen": "2026-11-15T10:13:38+00:00",
-   "last_seen": "2026-11-15T10:17:49+00:00",
+   "last_seen": "2026-11-15T10:22:48+00:00",
    "title": "HR Administrator",
    "org": "SyBridge Technologies",
    "location": "India, Pakistan"
   },
   "qa engineer|kitu systems|united states": {
    "first_seen": "2026-11-15T10:13:38+00:00",
-   "last_seen": "2026-11-15T10:17:49+00:00",
+   "last_seen": "2026-11-15T10:22:48+00:00",
    "title": "QA Engineer",
    "org": "Kitu Systems",
    "location": "United States"
   },
   "ai conversation recording contributor - bosnian|rws group|bosnia and herzegovina": {
    "first_seen": "2026-11-15T10:13:38+00:00",
-   "last_seen": "2026-11-15T10:17:49+00:00",
+   "last_seen": "2026-11-15T10:22:48+00:00",
    "title": "AI Conversation Recording Contributor - Bosnian",
    "org": "RWS Group",
    "location": "Bosnia and Herzegovina"
   },
   "senior product manager, ai platform & ecosystem|wrike|albania, andorra, austria, belarus, belgium, bosnia and herzegovina, bulgaria, croatia, cyprus, czechia, denmark, estoni": {
    "first_seen": "2026-11-15T10:13:38+00:00",
-   "last_seen": "2026-11-15T10:17:49+00:00",
+   "last_seen": "2026-11-15T10:22:48+00:00",
    "title": "Senior Product Manager, AI Platform & Ecosystem",
    "org": "Wrike",
    "location": "Albania, Andorra, Austria, Belarus, Belgium, Bosnia and Herzegovina, Bulgaria, Croatia, Cyprus, Czechia, Denmark, Estonia, Faroe Islands, Finland, France, Germany, Gibraltar, Greece, Guernsey, Holy See (Vatican City State), Hungary, Iceland"
   },
   "sales director, mid-market|samsara|canada": {
    "first_seen": "2026-11-15T10:13:38+00:00",
-   "last_seen": "2026-11-15T10:17:49+00:00",
+   "last_seen": "2026-11-15T10:22:48+00:00",
    "title": "Sales Director, Mid-Market",
    "org": "Samsara",
    "location": "Canada"
   },
   "customer success manager|samsara|united states": {
    "first_seen": "2026-11-15T10:13:38+00:00",
-   "last_seen": "2026-11-15T10:17:49+00:00",
+   "last_seen": "2026-11-15T10:22:48+00:00",
    "title": "Customer Success Manager",
    "org": "Samsara",
    "location": "United States"
   },
   "mexico major ae|samsara|mexico": {
    "first_seen": "2026-11-15T10:13:38+00:00",
-   "last_seen": "2026-11-15T10:17:49+00:00",
+   "last_seen": "2026-11-15T10:22:48+00:00",
    "title": "Mexico Major AE",
    "org": "Samsara",
    "location": "Mexico"
   },
   "order management specialist i|jamf|united states": {
    "first_seen": "2026-11-15T10:13:38+00:00",
-   "last_seen": "2026-11-15T10:17:49+00:00",
+   "last_seen": "2026-11-15T10:22:48+00:00",
    "title": "Order Management Specialist I",
    "org": "Jamf",
    "location": "United States"
   },
   "senior software engineer \u2013 full stack|empower pharmacy|united states": {
    "first_seen": "2026-11-15T10:13:38+00:00",
-   "last_seen": "2026-11-15T10:17:49+00:00",
+   "last_seen": "2026-11-15T10:22:48+00:00",
    "title": "Senior Software Engineer \u2013 Full Stack",
    "org": "Empower Pharmacy",
    "location": "United States"
   },
   "advertising account executive|6sense insights, inc.|united states": {
    "first_seen": "2026-11-15T10:13:38+00:00",
-   "last_seen": "2026-11-15T10:17:49+00:00",
+   "last_seen": "2026-11-15T10:22:48+00:00",
    "title": "Advertising Account Executive",
    "org": "6sense Insights, Inc.",
    "location": "United States"
   },
   "consulting geologist, anadarko basin - contract - 26330|enverus|united states": {
    "first_seen": "2026-11-15T10:13:38+00:00",
-   "last_seen": "2026-11-15T10:17:49+00:00",
+   "last_seen": "2026-11-15T10:22:48+00:00",
    "title": "Consulting Geologist, Anadarko Basin - Contract - 26330",
    "org": "Enverus",
    "location": "United States"

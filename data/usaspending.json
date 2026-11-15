@@ -3,7 +3,7 @@
  "name": "Federal contracts \u2014 awards >$1M (last 3 days)",
  "category": "funding",
  "source": "https://www.usaspending.gov",
- "collected_at": "2026-11-15T10:17:52+00:00",
+ "collected_at": "2026-11-15T10:22:51+00:00",
  "jobs_on_board": 100,
  "new_this_run": 0,
  "total_tracked": 100,
@@ -819,705 +819,710 @@
    "at": "2026-11-15T10:17:52+00:00",
    "jobs": 100,
    "new": 0
+  },
+  {
+   "at": "2026-11-15T10:22:51+00:00",
+   "jobs": 100,
+   "new": 0
   }
  ],
  "jobs_seen": {
   "espc|noresco, llc|": {
    "first_seen": "2026-11-15T10:13:50+00:00",
-   "last_seen": "2026-11-15T10:17:52+00:00",
+   "last_seen": "2026-11-15T10:22:51+00:00",
    "title": "ESPC",
    "org": "NORESCO, LLC",
    "location": null
   },
   "igf::ot::igf variations in implementation of quality interventions|mdrc|": {
    "first_seen": "2026-11-15T10:13:50+00:00",
-   "last_seen": "2026-11-15T10:17:52+00:00",
+   "last_seen": "2026-11-15T10:22:51+00:00",
    "title": "IGF::OT::IGF VARIATIONS IN IMPLEMENTATION OF QUALITY INTERVENTIONS",
    "org": "MDRC",
    "location": null
   },
   "igf::cl::igf enterprise log management|red river technology llc|": {
    "first_seen": "2026-11-15T10:13:50+00:00",
-   "last_seen": "2026-11-15T10:17:52+00:00",
+   "last_seen": "2026-11-15T10:22:51+00:00",
    "title": "IGF::CL::IGF ENTERPRISE LOG MANAGEMENT",
    "org": "RED RIVER TECHNOLOGY LLC",
    "location": null
   },
   "igf::ot::igf youth health equity participatory model of practice|atlas research llc|": {
    "first_seen": "2026-11-15T10:13:50+00:00",
-   "last_seen": "2026-11-15T10:17:52+00:00",
+   "last_seen": "2026-11-15T10:22:51+00:00",
    "title": "IGF::OT::IGF YOUTH HEALTH EQUITY PARTICIPATORY MODEL OF PRACTICE",
    "org": "ATLAS RESEARCH LLC",
    "location": null
   },
   "igf::ct::igf office of head start (ohs) monitoring system|dlh, llc|": {
    "first_seen": "2026-11-15T10:13:50+00:00",
-   "last_seen": "2026-11-15T10:17:52+00:00",
+   "last_seen": "2026-11-15T10:22:51+00:00",
    "title": "IGF::CT::IGF OFFICE OF HEAD START (OHS) MONITORING SYSTEM",
    "org": "DLH, LLC",
    "location": null
   },
   "eds to#3, contractor owned, contractor operated hosted data center|peraton enterprise solutions llc|": {
    "first_seen": "2026-11-15T10:13:50+00:00",
-   "last_seen": "2026-11-15T10:17:52+00:00",
+   "last_seen": "2026-11-15T10:22:51+00:00",
    "title": "EDS TO#3, CONTRACTOR OWNED, CONTRACTOR OPERATED HOSTED DATA CENTER",
    "org": "PERATON ENTERPRISE SOLUTIONS LLC",
    "location": null
   },
   "research and development support to the wdi directorate igf::ot::igf|dynetics, inc.|": {
    "first_seen": "2026-11-15T10:13:50+00:00",
-   "last_seen": "2026-11-15T10:17:52+00:00",
+   "last_seen": "2026-11-15T10:22:51+00:00",
    "title": "RESEARCH AND DEVELOPMENT SUPPORT TO THE WDI DIRECTORATE IGF::OT::IGF",
    "org": "DYNETICS, INC.",
    "location": null
   },
   "recovery act award arra funded code: tas::47 4543::tas 1) contractor to provide architect-engineer design services for t|zimmer gunsul frasca architects llp|": {
    "first_seen": "2026-11-15T10:13:50+00:00",
-   "last_seen": "2026-11-15T10:17:52+00:00",
+   "last_seen": "2026-11-15T10:22:51+00:00",
    "title": "RECOVERY ACT AWARD ARRA FUNDED CODE: TAS::47 4543::TAS 1) CONTRACTOR TO PROVIDE ARCHITECT-ENGINEER DESIGN SERVICES FOR THE DEPARTMENT OF HOMELAND SECURITY (DHS) CONSOLIDATION PROJECT AT ST. ELIZABETH'S WEST CAMPUS IN WASHINGTON, DC PER THE ",
    "org": "ZIMMER GUNSUL FRASCA ARCHITECTS LLP",
    "location": null
   },
   "this work order f17cw10587 (wo-07) to open term id/iq contract f15cc10132 awarded for providing information technology (|infostructures, inc.|": {
    "first_seen": "2026-11-15T10:13:50+00:00",
-   "last_seen": "2026-11-15T10:17:52+00:00",
+   "last_seen": "2026-11-15T10:22:51+00:00",
    "title": "THIS WORK ORDER F17CW10587 (WO-07) TO OPEN TERM ID/IQ CONTRACT F15CC10132 AWARDED FOR PROVIDING INFORMATION TECHNOLOGY (IT) CUSTOMER DESK TOP REMEDIAL SUPPORT SERVICES FOR THE SMITHSONIAN INSTITUTION'S OFFICE OF THE CHIEF INFORMATION OFFICE",
    "org": "INFOSTRUCTURES, INC.",
    "location": null
   },
   "the emergency response branch has a need to supply ku-band satellite internet service, maintenance and voice over intern|knight sky llc|": {
    "first_seen": "2026-11-15T10:13:50+00:00",
-   "last_seen": "2026-11-15T10:17:52+00:00",
+   "last_seen": "2026-11-15T10:22:51+00:00",
    "title": "THE EMERGENCY RESPONSE BRANCH HAS A NEED TO SUPPLY KU-BAND SATELLITE INTERNET SERVICE, MAINTENANCE AND VOICE OVER INTERNET PROTOCOL (VOIP) SERVICE FOR ITS EXISTING 56 PORTABLE SATELLITE UNITS/MOBILE COMMAND POSTS (PSUS/MCPS). THE SATELLITE ",
    "org": "KNIGHT SKY LLC",
    "location": null
   },
   "debt management and collections system (dmcs) igf::ct::igf|maximus federal services, inc.|": {
    "first_seen": "2026-11-15T10:13:50+00:00",
-   "last_seen": "2026-11-15T10:17:52+00:00",
+   "last_seen": "2026-11-15T10:22:51+00:00",
    "title": "DEBT MANAGEMENT AND COLLECTIONS SYSTEM (DMCS) IGF::CT::IGF",
    "org": "MAXIMUS FEDERAL SERVICES, INC.",
    "location": null
   },
   "detention services - san diego|the geo group, inc.|": {
    "first_seen": "2026-11-15T10:13:50+00:00",
-   "last_seen": "2026-11-15T10:17:52+00:00",
+   "last_seen": "2026-11-15T10:22:51+00:00",
    "title": "DETENTION SERVICES - SAN DIEGO",
    "org": "THE GEO GROUP, INC.",
    "location": null
   },
   "igf::cl,ct::igf contract award de-na0003624 to the mission support and test services llc (msts) for the management and o|mission support & test services llc|": {
    "first_seen": "2026-11-15T10:13:50+00:00",
-   "last_seen": "2026-11-15T10:17:52+00:00",
+   "last_seen": "2026-11-15T10:22:51+00:00",
    "title": "IGF::CL,CT::IGF CONTRACT AWARD DE-NA0003624 TO THE MISSION SUPPORT AND TEST SERVICES LLC (MSTS) FOR THE MANAGEMENT AND OPERATION OF THE DEPARTMENT OF ENERGY NATIONAL NUCLEAR SECURITY ADMINISTRATION'S NEVADA NATIONAL SECURITY SITE.",
    "org": "MISSION SUPPORT & TEST SERVICES LLC",
    "location": null
   },
   "deac2701rv14136|bechtel national, inc.|": {
    "first_seen": "2026-11-15T10:13:50+00:00",
-   "last_seen": "2026-11-15T10:17:52+00:00",
+   "last_seen": "2026-11-15T10:22:51+00:00",
    "title": "DEAC2701RV14136",
    "org": "BECHTEL NATIONAL, INC.",
    "location": null
   },
   "contractor shall provide netapp refresh storage equipment and manage services in accordance to contract no. dcsc-24-ifb-|eplus technology, inc.|": {
    "first_seen": "2026-11-15T10:13:50+00:00",
-   "last_seen": "2026-11-15T10:17:52+00:00",
+   "last_seen": "2026-11-15T10:22:51+00:00",
    "title": "CONTRACTOR SHALL PROVIDE NETAPP REFRESH STORAGE EQUIPMENT AND MANAGE SERVICES IN ACCORDANCE TO CONTRACT NO. DCSC-24-IFB-287 WHICH IS HEREBY INCORPORATED AND MADE A PART OF THIS PURCHASE ORDER.",
    "org": "EPLUS TECHNOLOGY, INC.",
    "location": null
   },
   "dc court of appeals (dcca) court case management system (cms)|west publishing corporation|": {
    "first_seen": "2026-11-15T10:13:50+00:00",
-   "last_seen": "2026-11-15T10:17:52+00:00",
+   "last_seen": "2026-11-15T10:22:51+00:00",
    "title": "DC COURT OF APPEALS (DCCA) COURT CASE MANAGEMENT SYSTEM (CMS)",
    "org": "WEST PUBLISHING CORPORATION",
    "location": null
   },
   "omb circular a123 audit support services|kearney & company, p.c.|": {
    "first_seen": "2026-11-15T10:13:50+00:00",
-   "last_seen": "2026-11-15T10:17:52+00:00",
+   "last_seen": "2026-11-15T10:22:51+00:00",
    "title": "OMB CIRCULAR A123 AUDIT SUPPORT SERVICES",
    "org": "KEARNEY & COMPANY, P.C.",
    "location": null
   },
   "microsoft cloud office and power platform support services|golden it llc|": {
    "first_seen": "2026-11-15T10:13:50+00:00",
-   "last_seen": "2026-11-15T10:17:52+00:00",
+   "last_seen": "2026-11-15T10:22:51+00:00",
    "title": "MICROSOFT CLOUD OFFICE AND POWER PLATFORM SUPPORT SERVICES",
    "org": "GOLDEN IT LLC",
    "location": null
   },
   "g5 upgrade for websphere portal and linux components|optumserve technology services, inc.|": {
    "first_seen": "2026-11-15T10:13:50+00:00",
-   "last_seen": "2026-11-15T10:17:52+00:00",
+   "last_seen": "2026-11-15T10:22:51+00:00",
    "title": "G5 UPGRADE FOR WEBSPHERE PORTAL AND LINUX COMPONENTS",
    "org": "OPTUMSERVE TECHNOLOGY SERVICES, INC.",
    "location": null
   },
   "migrant student information exchange (msix) development, monitoring, and maintenance contract is to perform operations, |deloitte consulting llp|": {
    "first_seen": "2026-11-15T10:13:50+00:00",
-   "last_seen": "2026-11-15T10:17:52+00:00",
+   "last_seen": "2026-11-15T10:22:51+00:00",
    "title": "MIGRANT STUDENT INFORMATION EXCHANGE (MSIX) DEVELOPMENT, MONITORING, AND MAINTENANCE CONTRACT IS TO PERFORM OPERATIONS, DEVELOPMENT, AND MAINTENANCE EFFORTS TO SUPPORT THE MSIX OF TITLE I, PART C, MIGRANT EDUCATION PROGRAMS (MEP).",
    "org": "DELOITTE CONSULTING LLP",
    "location": null
   },
   "operations and maintenance (o&m) task order for student loan servicing in accordance with the requirements of the usds c|nelnet servicing llc|": {
    "first_seen": "2026-11-15T10:13:50+00:00",
-   "last_seen": "2026-11-15T10:17:52+00:00",
+   "last_seen": "2026-11-15T10:22:51+00:00",
    "title": "OPERATIONS AND MAINTENANCE (O&M) TASK ORDER FOR STUDENT LOAN SERVICING IN ACCORDANCE WITH THE REQUIREMENTS OF THE USDS CONTRACT. ALL WORK AND DELIVERABLES PROVIDED BY THE USDS SERVICER MUST BE IN ACCORDANCE WITH THE REQUIREMENTS OF THE CONT",
    "org": "NELNET SERVICING LLC",
    "location": null
   },
   "steady-state task order 2 awarded against f.h. cann's next gen (ng) business process operations (bpo) idiq contract for |f.h. cann & associates, inc.|": {
    "first_seen": "2026-11-15T10:13:50+00:00",
-   "last_seen": "2026-11-15T10:17:52+00:00",
+   "last_seen": "2026-11-15T10:22:51+00:00",
    "title": "STEADY-STATE TASK ORDER 2 AWARDED AGAINST F.H. CANN'S NEXT GEN (NG) BUSINESS PROCESS OPERATIONS (BPO) IDIQ CONTRACT FOR NON-SERVICING AND SPECIALTY PROGRAMS (SPS) CONTACT CENTER SUPPORT AND BACK-OFFICE PROCESSING.",
    "org": "F.H. CANN & ASSOCIATES, INC.",
    "location": null
   },
   "the purpose of dmcs is to manage the default loan portfolio, and store, manage, protect, and provide student loan debtor|maximus federal services, inc.|": {
    "first_seen": "2026-11-15T10:13:50+00:00",
-   "last_seen": "2026-11-15T10:17:52+00:00",
+   "last_seen": "2026-11-15T10:22:51+00:00",
    "title": "THE PURPOSE OF DMCS IS TO MANAGE THE DEFAULT LOAN PORTFOLIO, AND STORE, MANAGE, PROTECT, AND PROVIDE STUDENT LOAN DEBTORS IN DEFAULT AVAILABLE INFORMATION UNDER THE HEA. DMCS ENABLES BORROWERS, WHO SO CHOSE, TO MAKE PAYMENTS ON THEIR ACCOUN",
    "org": "MAXIMUS FEDERAL SERVICES, INC.",
    "location": null
   },
   "this award is for the savannah river integrated mission completion contract - task order 5 (saltstone disposal units 10-|savannah river mission completion, llc|": {
    "first_seen": "2026-11-15T10:13:50+00:00",
-   "last_seen": "2026-11-15T10:17:52+00:00",
+   "last_seen": "2026-11-15T10:22:51+00:00",
    "title": "THIS AWARD IS FOR THE SAVANNAH RIVER INTEGRATED MISSION COMPLETION CONTRACT - TASK ORDER 5 (SALTSTONE DISPOSAL UNITS 10-12).",
    "org": "SAVANNAH RIVER MISSION COMPLETION, LLC",
    "location": null
   },
   "environmental operations task order for nevada|navarro research and engineering, inc.|": {
    "first_seen": "2026-11-15T10:13:50+00:00",
-   "last_seen": "2026-11-15T10:17:52+00:00",
+   "last_seen": "2026-11-15T10:22:51+00:00",
    "title": "ENVIRONMENTAL OPERATIONS TASK ORDER FOR NEVADA",
    "org": "NAVARRO RESEARCH AND ENGINEERING, INC.",
    "location": null
   },
   "hanford central plateau cleanup contract (cpcc) task order 1 - transition|central plateau cleanup company, llc|": {
    "first_seen": "2026-11-15T10:13:50+00:00",
-   "last_seen": "2026-11-15T10:17:52+00:00",
+   "last_seen": "2026-11-15T10:22:51+00:00",
    "title": "HANFORD CENTRAL PLATEAU CLEANUP CONTRACT (CPCC) TASK ORDER 1 - TRANSITION",
    "org": "CENTRAL PLATEAU CLEANUP COMPANY, LLC",
    "location": null
   },
   "blanket purchase agreement (bpa) order for chief information officer (cio) business operations support services (cboss) |accenture federal services llc|": {
    "first_seen": "2026-11-15T10:13:50+00:00",
-   "last_seen": "2026-11-15T10:17:52+00:00",
+   "last_seen": "2026-11-15T10:22:51+00:00",
    "title": "BLANKET PURCHASE AGREEMENT (BPA) ORDER FOR CHIEF INFORMATION OFFICER (CIO) BUSINESS OPERATIONS SUPPORT SERVICES (CBOSS) 2.0. ORDER LEVEL MATERIALS (OLM)",
    "org": "ACCENTURE FEDERAL SERVICES LLC",
    "location": null
   },
   "the objective of delivery order (do) 89303024fim000170 is to establish a consolidated cboss task order to support missio|accenture federal services llc|": {
    "first_seen": "2026-11-15T10:13:50+00:00",
-   "last_seen": "2026-11-15T10:17:52+00:00",
+   "last_seen": "2026-11-15T10:22:51+00:00",
    "title": "THE OBJECTIVE OF DELIVERY ORDER (DO) 89303024FIM000170 IS TO ESTABLISH A CONSOLIDATED CBOSS TASK ORDER TO SUPPORT MISSION AREA AND PROGRAM OFFICE SPECIFIC IT REQUIREMENTS. (ADD INCREMENTAL FUNDING AND ESTABLISH CEILINGS)",
    "org": "ACCENTURE FEDERAL SERVICES LLC",
    "location": null
   },
   "provide digital support services for energy.gov and other projects|accenture federal services llc|": {
    "first_seen": "2026-11-15T10:13:50+00:00",
-   "last_seen": "2026-11-15T10:17:52+00:00",
+   "last_seen": "2026-11-15T10:22:51+00:00",
    "title": "PROVIDE DIGITAL SUPPORT SERVICES FOR ENERGY.GOV AND OTHER PROJECTS",
    "org": "ACCENTURE FEDERAL SERVICES LLC",
    "location": null
   },
   "8(a) direct award to alexton incorporated for administrative support services period of performance 03/16/2024 to 11/15/|alexton incorporated|": {
    "first_seen": "2026-11-15T10:13:50+00:00",
-   "last_seen": "2026-11-15T10:17:52+00:00",
+   "last_seen": "2026-11-15T10:22:51+00:00",
    "title": "8(A) DIRECT AWARD TO ALEXTON INCORPORATED FOR ADMINISTRATIVE SUPPORT SERVICES PERIOD OF PERFORMANCE 03/16/2024 TO 11/15/2027 REQ 24MA000 SUBJECT TO AVAILABILITY OF FUNDS",
    "org": "ALEXTON INCORPORATED",
    "location": null
   },
   "the purpose of this bpa call is for follow-on supply chain risk management (scrm) support services for ocio.|ernst & young llp|": {
    "first_seen": "2026-11-15T10:13:50+00:00",
-   "last_seen": "2026-11-15T10:17:52+00:00",
+   "last_seen": "2026-11-15T10:22:51+00:00",
    "title": "THE PURPOSE OF THIS BPA CALL IS FOR FOLLOW-ON SUPPLY CHAIN RISK MANAGEMENT (SCRM) SUPPORT SERVICES FOR OCIO.",
    "org": "ERNST & YOUNG LLP",
    "location": null
   },
   "labor program management/it support enterprise information technology support services to include software development a|bluewater federal solutions, inc.|": {
    "first_seen": "2026-11-15T10:13:50+00:00",
-   "last_seen": "2026-11-15T10:17:52+00:00",
+   "last_seen": "2026-11-15T10:22:51+00:00",
    "title": "LABOR PROGRAM MANAGEMENT/IT SUPPORT ENTERPRISE INFORMATION TECHNOLOGY SUPPORT SERVICES TO INCLUDE SOFTWARE DEVELOPMENT AND INTEGRATION, INFRASTRUCTURE ENGINEERING, SYSTEM MANAGEMENT AND HOSTING, DESKTOP SUPPORT, SERVICE DESK SUPPORT AND IT ",
    "org": "BLUEWATER FEDERAL SOLUTIONS, INC.",
    "location": null
   },
   "program management support|professional vets consulting group, llc|": {
    "first_seen": "2026-11-15T10:13:50+00:00",
-   "last_seen": "2026-11-15T10:17:52+00:00",
+   "last_seen": "2026-11-15T10:22:51+00:00",
    "title": "PROGRAM MANAGEMENT SUPPORT",
    "org": "PROFESSIONAL VETS CONSULTING GROUP, LLC",
    "location": null
   },
   "u.s. department of energy (doe), office of energy efficiency and renewable energy (eere), strategic engagement and outre|rack-wildner & reese, inc.|": {
    "first_seen": "2026-11-15T10:13:50+00:00",
-   "last_seen": "2026-11-15T10:17:52+00:00",
+   "last_seen": "2026-11-15T10:22:51+00:00",
    "title": "U.S. DEPARTMENT OF ENERGY (DOE), OFFICE OF ENERGY EFFICIENCY AND RENEWABLE ENERGY (EERE), STRATEGIC ENGAGEMENT AND OUTREACH SUPPORT SERVICES (SEOSS), EERE FRONT OFFICE",
    "org": "RACK-WILDNER & REESE, INC.",
    "location": null
   },
   "ira funding esnet upgrade project - science hpc nvidia|thundercat technology, llc|": {
    "first_seen": "2026-11-15T10:13:50+00:00",
-   "last_seen": "2026-11-15T10:17:52+00:00",
+   "last_seen": "2026-11-15T10:22:51+00:00",
    "title": "IRA FUNDING ESNET UPGRADE PROJECT - SCIENCE HPC NVIDIA",
    "org": "THUNDERCAT TECHNOLOGY, LLC",
    "location": null
   },
   "program information collection system ad support services (picsss) - under this task order contract, the contractor will|allegheny science & technology corporation|": {
    "first_seen": "2026-11-15T10:13:50+00:00",
-   "last_seen": "2026-11-15T10:17:52+00:00",
+   "last_seen": "2026-11-15T10:22:51+00:00",
    "title": "PROGRAM INFORMATION COLLECTION SYSTEM AD SUPPORT SERVICES (PICSSS) - UNDER THIS TASK ORDER CONTRACT, THE CONTRACTOR WILL PROVIDE EXPERTISE AND SERVICES TO IMPLEMENT INDUSTRY STANDARD PROGRAM MANAGEMENT AND CONTROL PRINCIPLES TO INCLUDE PROJ",
    "org": "ALLEGHENY SCIENCE & TECHNOLOGY CORPORATION",
    "location": null
   },
   "budget execution formulation analysis support tool (befast)|deloitte consulting llp|": {
    "first_seen": "2026-11-15T10:13:50+00:00",
-   "last_seen": "2026-11-15T10:17:52+00:00",
+   "last_seen": "2026-11-15T10:22:51+00:00",
    "title": "BUDGET EXECUTION FORMULATION ANALYSIS SUPPORT TOOL (BEFAST)",
    "org": "DELOITTE CONSULTING LLP",
    "location": null
   },
   "contract for quality assurance services firm fixed price|acato information management, llc|": {
    "first_seen": "2026-11-15T10:13:50+00:00",
-   "last_seen": "2026-11-15T10:17:52+00:00",
+   "last_seen": "2026-11-15T10:22:51+00:00",
    "title": "CONTRACT FOR QUALITY ASSURANCE SERVICES FIRM FIXED PRICE",
    "org": "ACATO INFORMATION MANAGEMENT, LLC",
    "location": null
   },
   "u.s. department of energy national nuclear security administration (doe/nnsa) office of defense nuclear security (na-70)|cogent security consulting llc|": {
    "first_seen": "2026-11-15T10:13:50+00:00",
-   "last_seen": "2026-11-15T10:17:52+00:00",
+   "last_seen": "2026-11-15T10:22:51+00:00",
    "title": "U.S. DEPARTMENT OF ENERGY NATIONAL NUCLEAR SECURITY ADMINISTRATION (DOE/NNSA) OFFICE OF DEFENSE NUCLEAR SECURITY (NA-70)OPERATIONAL/ADMINISTRATIVE BUSINESS SUPPORT SERVICES",
    "org": "COGENT SECURITY CONSULTING LLC",
    "location": null
   },
   "the objective of this contract is to maintain and improve upon a well-integrated program of medical direction, training |2srg inc|": {
    "first_seen": "2026-11-15T10:13:50+00:00",
-   "last_seen": "2026-11-15T10:17:52+00:00",
+   "last_seen": "2026-11-15T10:22:51+00:00",
    "title": "THE OBJECTIVE OF THIS CONTRACT IS TO MAINTAIN AND IMPROVE UPON A WELL-INTEGRATED PROGRAM OF MEDICAL DIRECTION, TRAINING AND MEDICAL SUPPORT SERVICES FOR THE OST.",
    "org": "2SRG INC",
    "location": null
   },
   "technical support services to maintain and improve the lanmas 4.0 program|wyant data systems, inc.|": {
    "first_seen": "2026-11-15T10:13:50+00:00",
-   "last_seen": "2026-11-15T10:17:52+00:00",
+   "last_seen": "2026-11-15T10:22:51+00:00",
    "title": "TECHNICAL SUPPORT SERVICES TO MAINTAIN AND IMPROVE THE LANMAS 4.0 PROGRAM",
    "org": "WYANT DATA SYSTEMS, INC.",
    "location": null
   },
   "research & development and fabrication of inertial confinement fusion (icf) targets for the office of rtd&e na-11, exper|general atomics|": {
    "first_seen": "2026-11-15T10:13:50+00:00",
-   "last_seen": "2026-11-15T10:17:52+00:00",
+   "last_seen": "2026-11-15T10:22:51+00:00",
    "title": "RESEARCH & DEVELOPMENT AND FABRICATION OF INERTIAL CONFINEMENT FUSION (ICF) TARGETS FOR THE OFFICE OF RTD&E NA-11, EXPERIMENTAL SCIENCES NA-113",
    "org": "GENERAL ATOMICS",
    "location": null
   },
   "aircraft maintenance, inflight and ground support, equipment maintenance, flight following, and administrative support o|yulista solutions, llc|": {
    "first_seen": "2026-11-15T10:13:50+00:00",
-   "last_seen": "2026-11-15T10:17:52+00:00",
+   "last_seen": "2026-11-15T10:22:51+00:00",
    "title": "AIRCRAFT MAINTENANCE, INFLIGHT AND GROUND SUPPORT, EQUIPMENT MAINTENANCE, FLIGHT FOLLOWING, AND ADMINISTRATIVE SUPPORT ON TWO (2) BOEING 737-400 COMBI AIRCRAFTS AND ONE (1) BOEING 737-700 FLEX-COMBI AIRCRAFTS FOR OFFICE OF SECURE TRANSPORTA",
    "org": "YULISTA SOLUTIONS, LLC",
    "location": null
   },
   "design/build (db) services for the y-12 national security complex(y-12) john m. googin technology development facility (|aleut remediation llc|": {
    "first_seen": "2026-11-15T10:13:50+00:00",
-   "last_seen": "2026-11-15T10:17:52+00:00",
+   "last_seen": "2026-11-15T10:22:51+00:00",
    "title": "DESIGN/BUILD (DB) SERVICES FOR THE Y-12 NATIONAL SECURITY COMPLEX(Y-12) JOHN M. GOOGIN TECHNOLOGY DEVELOPMENT FACILITY (GTDF) RENOVATION, LOCATED IN OAK RIDGE, TENNESSEE. INCLUDING DESIGN AND CONSTRUCTION SBA REQUIREMENT NUMBER IS OQ1669052",
    "org": "ALEUT REMEDIATION LLC",
    "location": null
   },
   "provide procurement/contract specialist support services through professional and administrative support services (pass)|the building people llc|": {
    "first_seen": "2026-11-15T10:13:50+00:00",
-   "last_seen": "2026-11-15T10:17:52+00:00",
+   "last_seen": "2026-11-15T10:22:51+00:00",
    "title": "PROVIDE PROCUREMENT/CONTRACT SPECIALIST SUPPORT SERVICES THROUGH PROFESSIONAL AND ADMINISTRATIVE SUPPORT SERVICES (PASS) BLANKET PURCHASE AGREEMENT",
    "org": "THE BUILDING PEOPLE LLC",
    "location": null
   },
   "igf:cl:igf u.s. department of energy, national nuclear security administration's (doe/nnsa) technical, engineering, and |navarro research and engineering, inc.|": {
    "first_seen": "2026-11-15T10:13:50+00:00",
-   "last_seen": "2026-11-15T10:17:52+00:00",
+   "last_seen": "2026-11-15T10:22:51+00:00",
    "title": "IGF:CL:IGF U.S. DEPARTMENT OF ENERGY, NATIONAL NUCLEAR SECURITY ADMINISTRATION'S (DOE/NNSA) TECHNICAL, ENGINEERING, AND PROGRAMMATIC SUPPORT SERVICES II (TEPS II) BLANKET PURCHASE AGREEMENT (BPA) HOLDERS-- TECHNICAL SUPPORT SERVICES FOR THE",
    "org": "NAVARRO RESEARCH AND ENGINEERING, INC.",
    "location": null
   },
   "this is a firm-fixed-price task order for parking garage repair at a2 facility for the pop: 9/15/2025 - 9/14/2026|grunley construction co., inc.|": {
    "first_seen": "2026-11-15T10:13:50+00:00",
-   "last_seen": "2026-11-15T10:17:52+00:00",
+   "last_seen": "2026-11-15T10:22:51+00:00",
    "title": "THIS IS A FIRM-FIXED-PRICE TASK ORDER FOR PARKING GARAGE REPAIR AT A2 FACILITY FOR THE POP: 9/15/2025 - 9/14/2026",
    "org": "GRUNLEY CONSTRUCTION CO., INC.",
    "location": null
   },
   "this is a firm-fixed-price task order for mechanical replacement phase 1 at a 2 facility for the pop: 9/1/2025 - 8/31/20|grunley construction co., inc.|": {
    "first_seen": "2026-11-15T10:13:50+00:00",
-   "last_seen": "2026-11-15T10:17:52+00:00",
+   "last_seen": "2026-11-15T10:22:51+00:00",
    "title": "THIS IS A FIRM-FIXED-PRICE TASK ORDER FOR MECHANICAL REPLACEMENT PHASE 1 AT A 2 FACILITY FOR THE POP: 9/1/2025 - 8/31/2026",
    "org": "GRUNLEY CONSTRUCTION CO., INC.",
    "location": null
   },
   "this task order provides security guards support services for the clinton library located in little rock, for the pop 9/|culpepper & associates security services inc|": {
    "first_seen": "2026-11-15T10:13:50+00:00",
-   "last_seen": "2026-11-15T10:17:52+00:00",
+   "last_seen": "2026-11-15T10:22:51+00:00",
    "title": "THIS TASK ORDER PROVIDES SECURITY GUARDS SUPPORT SERVICES FOR THE CLINTON LIBRARY LOCATED IN LITTLE ROCK, FOR THE POP 9/1/2025-8/31/2030",
    "org": "CULPEPPER & ASSOCIATES SECURITY SERVICES INC",
    "location": null
   },
   "this task order provides cfm services for the clinton library located in little rock, ar iaw the incorporated pws and ra|raven services corp|": {
    "first_seen": "2026-11-15T10:13:50+00:00",
-   "last_seen": "2026-11-15T10:17:52+00:00",
+   "last_seen": "2026-11-15T10:22:51+00:00",
    "title": "THIS TASK ORDER PROVIDES CFM SERVICES FOR THE CLINTON LIBRARY LOCATED IN LITTLE ROCK, AR IAW THE INCORPORATED PWS AND RAVEN SERVICES CORPORATION'S QUOTE DATED 7/16/2025 FOR THE POP 8/1/2025-7/31/2030",
    "org": "RAVEN SERVICES CORP",
    "location": null
   },
   "this is firm-fixed price contract for consolidated facilities management services (cfm) at the lyndon b. johnson preside|university of texas at austin|": {
    "first_seen": "2026-11-15T10:13:50+00:00",
-   "last_seen": "2026-11-15T10:17:52+00:00",
+   "last_seen": "2026-11-15T10:22:51+00:00",
    "title": "THIS IS FIRM-FIXED PRICE CONTRACT FOR CONSOLIDATED FACILITIES MANAGEMENT SERVICES (CFM) AT THE LYNDON B. JOHNSON PRESIDENTIAL LIBRARY AND MUSEUM FOR THE PERIOD OCTOBER 1, 2024 THROUGH SEPTEMBER 30, 2025 PLUS 4 OPTION YEARS.",
    "org": "UNIVERSITY OF TEXAS AT AUSTIN",
    "location": null
   },
   "new contract for cfm services at the john f. kennedy presidential library.|work inc|": {
    "first_seen": "2026-11-15T10:13:50+00:00",
-   "last_seen": "2026-11-15T10:17:52+00:00",
+   "last_seen": "2026-11-15T10:22:51+00:00",
    "title": "NEW CONTRACT FOR CFM SERVICES AT THE JOHN F. KENNEDY PRESIDENTIAL LIBRARY.",
    "org": "WORK INC",
    "location": null
   },
   "new task order for electric service at archives i. igf::ot::igf for other functions|potomac electric power co|": {
    "first_seen": "2026-11-15T10:13:50+00:00",
-   "last_seen": "2026-11-15T10:17:52+00:00",
+   "last_seen": "2026-11-15T10:22:51+00:00",
    "title": "NEW TASK ORDER FOR ELECTRIC SERVICE AT ARCHIVES I. IGF::OT::IGF FOR OTHER FUNCTIONS",
    "org": "POTOMAC ELECTRIC POWER CO",
    "location": null
   },
   "the department of housing and urban development (hud), office of the chief information officer (ocio) in support of the |peraton inc.|": {
    "first_seen": "2026-11-15T10:13:50+00:00",
-   "last_seen": "2026-11-15T10:17:52+00:00",
+   "last_seen": "2026-11-15T10:22:51+00:00",
    "title": "THE DEPARTMENT OF HOUSING AND URBAN DEVELOPMENT (HUD), OFFICE OF THE CHIEF INFORMATION OFFICER (OCIO) IN SUPPORT OF THE OFFICE OF FINANCE AND BUDGET (FAB), REQUIRES CONTRACTOR SUPPORT TO CONFIGURE AND IMPLEMENT AN AUTOMATED SOLUTION TO SUPP",
    "org": "PERATON INC.",
    "location": null
   },
   "nasa consolidated application and platform services (ncaps)|caci, inc. - federal|": {
    "first_seen": "2026-11-15T10:13:50+00:00",
-   "last_seen": "2026-11-15T10:17:52+00:00",
+   "last_seen": "2026-11-15T10:22:51+00:00",
    "title": "NASA CONSOLIDATED APPLICATION AND PLATFORM SERVICES (NCAPS)",
    "org": "CACI, INC. - FEDERAL",
    "location": null
   },
   "keck single aperture (ksa) operations 79-15015|california institute of technology|": {
    "first_seen": "2026-11-15T10:13:50+00:00",
-   "last_seen": "2026-11-15T10:17:52+00:00",
+   "last_seen": "2026-11-15T10:22:51+00:00",
    "title": "KECK SINGLE APERTURE (KSA) OPERATIONS 79-15015",
    "org": "CALIFORNIA INSTITUTE OF TECHNOLOGY",
    "location": null
   },
   "marshall space flight center pp&c ii task order|ares technical services corporation|": {
    "first_seen": "2026-11-15T10:13:50+00:00",
-   "last_seen": "2026-11-15T10:17:52+00:00",
+   "last_seen": "2026-11-15T10:22:51+00:00",
    "title": "MARSHALL SPACE FLIGHT CENTER PP&C II TASK ORDER",
    "org": "ARES TECHNICAL SERVICES CORPORATION",
    "location": null
   },
   "msfc logistics support services ii option period 1 non-operational support services|akima global logistics, llc|": {
    "first_seen": "2026-11-15T10:13:50+00:00",
-   "last_seen": "2026-11-15T10:17:52+00:00",
+   "last_seen": "2026-11-15T10:22:51+00:00",
    "title": "MSFC LOGISTICS SUPPORT SERVICES II OPTION PERIOD 1 NON-OPERATIONAL SUPPORT SERVICES",
    "org": "AKIMA GLOBAL LOGISTICS, LLC",
    "location": null
   },
   "lunar surface innovation initiative (lsii) under ardes ii 80msfc20d0004|the johns hopkins university applied physics laboratory llc|": {
    "first_seen": "2026-11-15T10:13:50+00:00",
-   "last_seen": "2026-11-15T10:17:52+00:00",
+   "last_seen": "2026-11-15T10:22:51+00:00",
    "title": "LUNAR SURFACE INNOVATION INITIATIVE (LSII) UNDER ARDES II 80MSFC20D0004",
    "org": "THE JOHNS HOPKINS UNIVERSITY APPLIED PHYSICS LABORATORY LLC",
    "location": null
   },
   "new horizons extended mission support|the johns hopkins university applied physics laboratory llc|": {
    "first_seen": "2026-11-15T10:13:50+00:00",
-   "last_seen": "2026-11-15T10:17:52+00:00",
+   "last_seen": "2026-11-15T10:22:51+00:00",
    "title": "NEW HORIZONS EXTENDED MISSION SUPPORT",
    "org": "THE JOHNS HOPKINS UNIVERSITY APPLIED PHYSICS LABORATORY LLC",
    "location": null
   },
   "nasa technical standard systems|allium us holding llc|": {
    "first_seen": "2026-11-15T10:13:50+00:00",
-   "last_seen": "2026-11-15T10:17:52+00:00",
+   "last_seen": "2026-11-15T10:22:51+00:00",
    "title": "NASA TECHNICAL STANDARD SYSTEMS",
    "org": "ALLIUM US HOLDING LLC",
    "location": null
   },
   "samplr: sample acquisition, morphology filtering, and probing of lunar regolith selected under the nasa research opportu|lanteris space llc|": {
    "first_seen": "2026-11-15T10:13:50+00:00",
-   "last_seen": "2026-11-15T10:17:52+00:00",
+   "last_seen": "2026-11-15T10:22:51+00:00",
    "title": "SAMPLR: SAMPLE ACQUISITION, MORPHOLOGY FILTERING, AND PROBING OF LUNAR REGOLITH SELECTED UNDER THE NASA RESEARCH OPPORTUNITIES IN SPACE AND EARTH SCIENCES (ROSES) LUNAR SURFACE INSTRUMENT AND TECHNOLOGY PAYLOADS (LSITP) (AO) NNH18ZDA001N",
    "org": "LANTERIS SPACE LLC",
    "location": null
   },
   "center maintenance, operation and engineering ii (cmoe-ii) support services.|amentum technology, inc.|": {
    "first_seen": "2026-11-15T10:13:50+00:00",
-   "last_seen": "2026-11-15T10:17:52+00:00",
+   "last_seen": "2026-11-15T10:22:51+00:00",
    "title": "CENTER MAINTENANCE, OPERATION AND ENGINEERING II (CMOE-II) SUPPORT SERVICES.",
    "org": "AMENTUM TECHNOLOGY, INC.",
    "location": null
   },
   "nasa langley research center environmental support services|bb&e, inc.|": {
    "first_seen": "2026-11-15T10:13:50+00:00",
-   "last_seen": "2026-11-15T10:17:52+00:00",
+   "last_seen": "2026-11-15T10:22:51+00:00",
    "title": "NASA LANGLEY RESEARCH CENTER ENVIRONMENTAL SUPPORT SERVICES",
    "org": "BB&E, INC.",
    "location": null
   },
   "exploration extravehicular activity services (xevas) delivery order 5 provides for production, testing, certification, d|axiom space inc|": {
    "first_seen": "2026-11-15T10:13:50+00:00",
-   "last_seen": "2026-11-15T10:17:52+00:00",
+   "last_seen": "2026-11-15T10:22:51+00:00",
    "title": "EXPLORATION EXTRAVEHICULAR ACTIVITY SERVICES (XEVAS) DELIVERY ORDER 5 PROVIDES FOR PRODUCTION, TESTING, CERTIFICATION, DELIVERY, SUSTAINMENT, REPAIR, REFURBISHMENT, AND ENHANCEMENT OF SORTIE SUIT HARDWARE FOR NASA EXPLORATION MISSIONS.",
    "org": "AXIOM SPACE INC",
    "location": null
   },
   "jsc security services|chenega global protection, llc|": {
    "first_seen": "2026-11-15T10:13:50+00:00",
-   "last_seen": "2026-11-15T10:17:52+00:00",
+   "last_seen": "2026-11-15T10:22:51+00:00",
    "title": "JSC SECURITY SERVICES",
    "org": "CHENEGA GLOBAL PROTECTION, LLC",
    "location": null
   },
   "natural gas (utilities) supply and related delivery services for nasa johnson space center (jsc), ellington field (ef) a|sage energy trading llc|": {
    "first_seen": "2026-11-15T10:13:50+00:00",
-   "last_seen": "2026-11-15T10:17:52+00:00",
+   "last_seen": "2026-11-15T10:22:51+00:00",
    "title": "NATURAL GAS (UTILITIES) SUPPLY AND RELATED DELIVERY SERVICES FOR NASA JOHNSON SPACE CENTER (JSC), ELLINGTON FIELD (EF) AND SONNY CARTER TRAINING FACILITY (SCTF).",
    "org": "SAGE ENERGY TRADING LLC",
    "location": null
   },
   "electricity supply & ancillary services for jsc (jsc, ef, sctf)|gexa energy, lp|": {
    "first_seen": "2026-11-15T10:13:50+00:00",
-   "last_seen": "2026-11-15T10:17:52+00:00",
+   "last_seen": "2026-11-15T10:22:51+00:00",
    "title": "ELECTRICITY SUPPLY & ANCILLARY SERVICES FOR JSC (JSC, EF, SCTF)",
    "org": "GEXA ENERGY, LP",
    "location": null
   },
   "water and sewage treatment utility contract|clear lake city water authority|": {
    "first_seen": "2026-11-15T10:13:50+00:00",
-   "last_seen": "2026-11-15T10:17:52+00:00",
+   "last_seen": "2026-11-15T10:22:51+00:00",
    "title": "WATER AND SEWAGE TREATMENT UTILITY CONTRACT",
    "org": "CLEAR LAKE CITY WATER AUTHORITY",
    "location": null
   },
   "systems and software engineering tools 2 (set 2) bridge contract provides specialized systems and software engineering s|tmc technologies of west virginia corp|": {
    "first_seen": "2026-11-15T10:13:50+00:00",
-   "last_seen": "2026-11-15T10:17:52+00:00",
+   "last_seen": "2026-11-15T10:22:51+00:00",
    "title": "SYSTEMS AND SOFTWARE ENGINEERING TOOLS 2 (SET 2) BRIDGE CONTRACT PROVIDES SPECIALIZED SYSTEMS AND SOFTWARE ENGINEERING SUPPORT FOR ONGOING SET 2 AWARDED PROJECTS UNTIL THE FOLLOW-ON CONTRACT IS AWARDED.",
    "org": "TMC TECHNOLOGIES OF WEST VIRGINIA CORP",
    "location": null
   },
   "the purpose of this contract is to acquire repairs, operations & maintenance, and engineering (rome) and related service|asrc federal facilities logistics llc|": {
    "first_seen": "2026-11-15T10:13:50+00:00",
-   "last_seen": "2026-11-15T10:17:52+00:00",
+   "last_seen": "2026-11-15T10:22:51+00:00",
    "title": "THE PURPOSE OF THIS CONTRACT IS TO ACQUIRE REPAIRS, OPERATIONS & MAINTENANCE, AND ENGINEERING (ROME) AND RELATED SERVICES FOR THE GODDARD SPACE FLIGHT CENTER (GREENBELT AND WALLOPS FLIGHT FACILITY).",
    "org": "ASRC FEDERAL FACILITIES LOGISTICS LLC",
    "location": null
   },
   "dragonfly mass spectrometer (drams), electronics modules (em)|regents of the university of michigan|": {
    "first_seen": "2026-11-15T10:13:50+00:00",
-   "last_seen": "2026-11-15T10:17:52+00:00",
+   "last_seen": "2026-11-15T10:22:51+00:00",
    "title": "DRAGONFLY MASS SPECTROMETER (DRAMS), ELECTRONICS MODULES (EM)",
    "org": "REGENTS OF THE UNIVERSITY OF MICHIGAN",
    "location": null
   },
   "the purpose of this contract is to acquire scientific research services that conceives, develops and applies space, fiel|science systems and applications, inc.|": {
    "first_seen": "2026-11-15T10:13:50+00:00",
-   "last_seen": "2026-11-15T10:17:52+00:00",
+   "last_seen": "2026-11-15T10:22:51+00:00",
    "title": "THE PURPOSE OF THIS CONTRACT IS TO ACQUIRE SCIENTIFIC RESEARCH SERVICES THAT CONCEIVES, DEVELOPS AND APPLIES SPACE, FIELD-DEPLOYED (I.E. AIRBORNE AND IN SITU) AND LABORATORY BASED TECHNOLOGIES AND OBSERVATIONS OF THE EARTH SYSTEMS.",
    "org": "SCIENCE SYSTEMS AND APPLICATIONS, INC.",
    "location": null
   },
   "under this contract, the contractor will provide the personnel, materials, equipment, and facilities necessary to produc|southwest research institute|": {
    "first_seen": "2026-11-15T10:13:50+00:00",
-   "last_seen": "2026-11-15T10:17:52+00:00",
+   "last_seen": "2026-11-15T10:22:51+00:00",
    "title": "UNDER THIS CONTRACT, THE CONTRACTOR WILL PROVIDE THE PERSONNEL, MATERIALS, EQUIPMENT, AND FACILITIES NECESSARY TO PRODUCE THE POLARIMETER TO UNIFY THE CORONA HELIOSPHERE (PUNCH) PHASE A CONCEPT STUDY. THE SCOPE OF THIS EFFORT INCLUDES, BUT ",
    "org": "SOUTHWEST RESEARCH INSTITUTE",
    "location": null
   },
   "the contractor shall design, fabricate, procure, test, verify, and document the reactor control box (rcb) hardware for t|aitech defense systems inc|": {
    "first_seen": "2026-11-15T10:13:50+00:00",
-   "last_seen": "2026-11-15T10:17:52+00:00",
+   "last_seen": "2026-11-15T10:22:51+00:00",
    "title": "THE CONTRACTOR SHALL DESIGN, FABRICATE, PROCURE, TEST, VERIFY, AND DOCUMENT THE REACTOR CONTROL BOX (RCB) HARDWARE FOR THE SR-1 FREEDOM MISSION IN ACCORDANCE WITH THE STATEMENT OF WORK AND OTHER CONTRACT ATTACHMENTS.",
    "org": "AITECH DEFENSE SYSTEMS INC",
    "location": null
   },
   "hvac and plumbing repairs|erie affiliates inc|": {
    "first_seen": "2026-11-15T10:13:50+00:00",
-   "last_seen": "2026-11-15T10:17:52+00:00",
+   "last_seen": "2026-11-15T10:22:51+00:00",
    "title": "HVAC AND PLUMBING REPAIRS",
    "org": "ERIE AFFILIATES INC",
    "location": null
   },
   "develop a minimum viable solution of a 5g new radio (5g-nr) user equipment (ue) and 5g network-in-a-box (nib) for subseq|modulate space corporation|": {
    "first_seen": "2026-11-15T10:13:50+00:00",
-   "last_seen": "2026-11-15T10:17:52+00:00",
+   "last_seen": "2026-11-15T10:22:51+00:00",
    "title": "DEVELOP A MINIMUM VIABLE SOLUTION OF A 5G NEW RADIO (5G-NR) USER EQUIPMENT (UE) AND 5G NETWORK-IN-A-BOX (NIB) FOR SUBSEQUENT LUNAR MISSIONS.",
    "org": "MODULATE SPACE CORPORATION",
    "location": null
   },
   "lf water utility service|northeast ohio regional sewer district|": {
    "first_seen": "2026-11-15T10:13:50+00:00",
-   "last_seen": "2026-11-15T10:17:52+00:00",
+   "last_seen": "2026-11-15T10:22:51+00:00",
    "title": "LF WATER UTILITY SERVICE",
    "org": "NORTHEAST OHIO REGIONAL SEWER DISTRICT",
    "location": null
   },
   "natural gas transport utility|the east ohio gas company|": {
    "first_seen": "2026-11-15T10:13:50+00:00",
-   "last_seen": "2026-11-15T10:17:52+00:00",
+   "last_seen": "2026-11-15T10:22:51+00:00",
    "title": "NATURAL GAS TRANSPORT UTILITY",
    "org": "THE EAST OHIO GAS COMPANY",
    "location": null
   },
   "electric utility service|ohio edison company|": {
    "first_seen": "2026-11-15T10:13:50+00:00",
-   "last_seen": "2026-11-15T10:17:52+00:00",
+   "last_seen": "2026-11-15T10:22:51+00:00",
    "title": "ELECTRIC UTILITY SERVICE",
    "org": "OHIO EDISON COMPANY",
    "location": null
   },
   "this task order provides support for various projects in the entry systems and technology division. this task includes r|analytical mechanics associates, inc.|": {
    "first_seen": "2026-11-15T10:13:50+00:00",
-   "last_seen": "2026-11-15T10:17:52+00:00",
+   "last_seen": "2026-11-15T10:22:51+00:00",
    "title": "THIS TASK ORDER PROVIDES SUPPORT FOR VARIOUS PROJECTS IN THE ENTRY SYSTEMS AND TECHNOLOGY DIVISION. THIS TASK INCLUDES REQUIREMENTS TO SUPPORT THERMAL PROTECTION SYSTEMS.",
    "org": "ANALYTICAL MECHANICS ASSOCIATES, INC.",
    "location": null
   },
   "hiring of 3 latam contractors as part of the global support contract (ocoo)|crossboundary llc|": {
    "first_seen": "2026-11-15T10:13:50+00:00",
-   "last_seen": "2026-11-15T10:17:52+00:00",
+   "last_seen": "2026-11-15T10:22:51+00:00",
    "title": "HIRING OF 3 LATAM CONTRACTORS AS PART OF THE GLOBAL SUPPORT CONTRACT (OCOO)",
    "org": "CROSSBOUNDARY LLC",
    "location": null
   },
   "ukraine project support consultant|crossboundary llc|": {
    "first_seen": "2026-11-15T10:13:50+00:00",
-   "last_seen": "2026-11-15T10:17:52+00:00",
+   "last_seen": "2026-11-15T10:22:51+00:00",
    "title": "UKRAINE PROJECT SUPPORT CONSULTANT",
    "org": "CROSSBOUNDARY LLC",
    "location": null
   },
   "electronic handbooks (ehbs) - domain one - development, modernization, and enhancements (dme) support services.|rei systems, inc.|": {
    "first_seen": "2026-11-15T10:13:50+00:00",
-   "last_seen": "2026-11-15T10:17:52+00:00",
+   "last_seen": "2026-11-15T10:22:51+00:00",
    "title": "ELECTRONIC HANDBOOKS (EHBS) - DOMAIN ONE - DEVELOPMENT, MODERNIZATION, AND ENHANCEMENTS (DME) SUPPORT SERVICES.",
    "org": "REI SYSTEMS, INC.",
    "location": null
   },
   "system enhancements, data migration, data engineering, operations and maintenance services support|sapient government services, inc.|": {
    "first_seen": "2026-11-15T10:13:50+00:00",
-   "last_seen": "2026-11-15T10:17:52+00:00",
+   "last_seen": "2026-11-15T10:22:51+00:00",
    "title": "SYSTEM ENHANCEMENTS, DATA MIGRATION, DATA ENGINEERING, OPERATIONS AND MAINTENANCE SERVICES SUPPORT",
    "org": "SAPIENT GOVERNMENT SERVICES, INC.",
    "location": null
   },
   "ofaam131 c 6457 acquisition support services|kaiva tech, llc|": {
    "first_seen": "2026-11-15T10:13:50+00:00",
-   "last_seen": "2026-11-15T10:17:52+00:00",
+   "last_seen": "2026-11-15T10:22:51+00:00",
    "title": "OFAAM131 C 6457 ACQUISITION SUPPORT SERVICES",
    "org": "KAIVA TECH, LLC",
    "location": null
   },
   "5600 fishers lane and south lot parking|5600 fishers lane llc|": {
    "first_seen": "2026-11-15T10:13:50+00:00",
-   "last_seen": "2026-11-15T10:17:52+00:00",
+   "last_seen": "2026-11-15T10:22:51+00:00",
    "title": "5600 FISHERS LANE AND SOUTH LOT PARKING",
    "org": "5600 FISHERS LANE LLC",
    "location": null
   },
   "data systems operation and maintenance services for the hhs/acl office of healthcare information and counseling (ohic).|booz allen hamilton inc|": {
    "first_seen": "2026-11-15T10:13:50+00:00",
-   "last_seen": "2026-11-15T10:17:52+00:00",
+   "last_seen": "2026-11-15T10:22:51+00:00",
    "title": "DATA SYSTEMS OPERATION AND MAINTENANCE SERVICES FOR THE HHS/ACL OFFICE OF HEALTHCARE INFORMATION AND COUNSELING (OHIC).",
    "org": "BOOZ ALLEN HAMILTON INC",
    "location": null
   },
   "acquisition and project management office (pmo) support for single audit and risk management shared solutio|mch consulting services llc|": {
    "first_seen": "2026-11-15T10:13:50+00:00",
-   "last_seen": "2026-11-15T10:17:52+00:00",
+   "last_seen": "2026-11-15T10:22:51+00:00",
    "title": "ACQUISITION AND PROJECT MANAGEMENT OFFICE (PMO) SUPPORT FOR SINGLE AUDIT AND RISK MANAGEMENT SHARED SOLUTIO",
    "org": "MCH CONSULTING SERVICES LLC",
    "location": null
   },
   "option year 2|career management international inc|": {
    "first_seen": "2026-11-15T10:13:50+00:00",
-   "last_seen": "2026-11-15T10:17:52+00:00",
+   "last_seen": "2026-11-15T10:22:51+00:00",
    "title": "OPTION YEAR 2",
    "org": "CAREER MANAGEMENT INTERNATIONAL INC",
    "location": null
   },
   "this performance work statement describes the requirement for flexible co-working space as a service for arpa-h in the n|hines gs properties llc|": {
    "first_seen": "2026-11-15T10:13:50+00:00",
-   "last_seen": "2026-11-15T10:17:52+00:00",
+   "last_seen": "2026-11-15T10:22:51+00:00",
    "title": "THIS PERFORMANCE WORK STATEMENT DESCRIBES THE REQUIREMENT FOR FLEXIBLE CO-WORKING SPACE AS A SERVICE FOR ARPA-H IN THE NATIONAL CAPITAL REGION. THE CONTRACTOR SHALL PROVIDE FLEXIBLE CO-WORKING SPACE AS A SERVICE FOR THE DURATION OF THE PERF",
    "org": "HINES GS PROPERTIES LLC",
    "location": null
   },
   "c201997-b10 roof replacement sects 5,6,33,34|doliveira systems llc|": {
    "first_seen": "2026-11-15T10:13:50+00:00",
-   "last_seen": "2026-11-15T10:17:52+00:00",
+   "last_seen": "2026-11-15T10:22:51+00:00",
    "title": "C201997-B10 ROOF REPLACEMENT SECTS 5,6,33,34",
    "org": "DOLIVEIRA SYSTEMS LLC",
    "location": null
   },
   "wssc (water) nih campus and lease invoicing (fy22) contract# 75n99022c00001|washington suburban sanitary commission|": {
    "first_seen": "2026-11-15T10:13:50+00:00",
-   "last_seen": "2026-11-15T10:17:52+00:00",
+   "last_seen": "2026-11-15T10:22:51+00:00",
    "title": "WSSC (WATER) NIH CAMPUS AND LEASE INVOICING (FY22) CONTRACT# 75N99022C00001",
    "org": "WASHINGTON SUBURBAN SANITARY COMMISSION",
    "location": null
   },
   "biolincc program - task area a|information management services, inc.|": {
    "first_seen": "2026-11-15T10:13:50+00:00",
-   "last_seen": "2026-11-15T10:17:52+00:00",
+   "last_seen": "2026-11-15T10:22:51+00:00",
    "title": "BIOLINCC PROGRAM - TASK AREA A",
    "org": "INFORMATION MANAGEMENT SERVICES, INC.",
    "location": null
   },
   "pca-od-06986; vertical conveyance system-elevator maintenance contract for nih bethesda (july 1, 2026 - june 30, 2027)|akima global logistics, llc|": {
    "first_seen": "2026-11-15T10:13:50+00:00",
-   "last_seen": "2026-11-15T10:17:52+00:00",
+   "last_seen": "2026-11-15T10:22:51+00:00",
    "title": "PCA-OD-06986; VERTICAL CONVEYANCE SYSTEM-ELEVATOR MAINTENANCE CONTRACT FOR NIH BETHESDA (JULY 1, 2026 - JUNE 30, 2027)",
    "org": "AKIMA GLOBAL LOGISTICS, LLC",
    "location": null
   },
   "cit emergency call center support|cfocus software incorporated|": {
    "first_seen": "2026-11-15T10:13:50+00:00",
-   "last_seen": "2026-11-15T10:17:52+00:00",
+   "last_seen": "2026-11-15T10:22:51+00:00",
    "title": "CIT EMERGENCY CALL CENTER SUPPORT",
    "org": "CFOCUS SOFTWARE INCORPORATED",
    "location": null
   },
   "defense civilian medical associates, llc:1354718 [26-002707]|defense civilian medical associates, llc|": {
    "first_seen": "2026-11-15T10:13:50+00:00",
-   "last_seen": "2026-11-15T10:17:52+00:00",
+   "last_seen": "2026-11-15T10:22:51+00:00",
    "title": "DEFENSE CIVILIAN MEDICAL ASSOCIATES, LLC:1354718 [26-002707]",
    "org": "DEFENSE CIVILIAN MEDICAL ASSOCIATES, LLC",
    "location": null
   },
   "support for clinical trials information|icf incorporated, l.l.c.|": {
    "first_seen": "2026-11-15T10:13:50+00:00",
-   "last_seen": "2026-11-15T10:17:52+00:00",
+   "last_seen": "2026-11-15T10:22:51+00:00",
    "title": "SUPPORT FOR CLINICAL TRIALS INFORMATION",
    "org": "ICF INCORPORATED, L.L.C.",
    "location": null
   },
   "niehs armed security services|hana technologies & systems, inc.|": {
    "first_seen": "2026-11-15T10:13:50+00:00",
-   "last_seen": "2026-11-15T10:17:52+00:00",
+   "last_seen": "2026-11-15T10:22:51+00:00",
    "title": "NIEHS ARMED SECURITY SERVICES",
    "org": "HANA TECHNOLOGIES & SYSTEMS, INC.",
    "location": null
   },
   "soar-d12-05135 kelly -- task order # 532|kelly services, inc.|": {
    "first_seen": "2026-11-15T10:13:50+00:00",
-   "last_seen": "2026-11-15T10:17:52+00:00",
+   "last_seen": "2026-11-15T10:22:51+00:00",
    "title": "SOAR-D12-05135 KELLY -- TASK ORDER # 532",
    "org": "KELLY SERVICES, INC.",
    "location": null
