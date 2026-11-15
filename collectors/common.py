@@ -21,6 +21,7 @@ BROWSER_UA = "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36
 BOT_UA = "PipeKeeperBot/0.1 (data pipeline; contact: nilesh)"
 CONTACT = "PipeKeeperBot/0.1 (pipeline demo; contact: nilesh)"
 MAX_SEEN = 5000  # bound jobs_seen growth per feed
+MAX_JOBS = 120   # records stored in the live "jobs" snapshot (all items still delta-tracked)
 
 ENTITIES = [("&amp;", "&"), ("&lt;", "<"), ("&gt;", ">"), ("&quot;", '"'),
             ("&#39;", "'"), ("&apos;", "'"), ("&nbsp;", " "), ("&#x27;", "'"), ("&#x2F;", "/")]
@@ -125,7 +126,7 @@ def collect(feed_id, display_name, category, source, items, min_items=1):
         "jobs_on_board": len(items),
         "new_this_run": new_count,
         "total_tracked": len(seen),
-        "jobs": items,
+        "jobs": items[:MAX_JOBS],
         "runs": (existing.get("runs", []) + [{"at": now, "jobs": len(items), "new": new_count}])[-50:],
         "jobs_seen": seen,
     }

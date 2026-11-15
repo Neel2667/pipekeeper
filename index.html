@@ -219,6 +219,30 @@ tbody tr:last-child td{border-bottom:none}
 .jlink{text-decoration:none;border-bottom:1px solid rgba(140,180,10,.4);transition:.15s}
 .jlink:hover{color:var(--acc-t);border-bottom-color:var(--acc-t)}
 
+/* system status strip */
+.sysstat{display:flex;align-items:center;justify-content:center;gap:12px;padding:12px 0;
+  border-bottom:1px solid var(--line);background:var(--bg2);
+  font:500 .74rem/1 var(--mono);color:var(--dim);letter-spacing:.04em}
+.sysstat .ss-dot{width:8px;height:8px;border-radius:50%;background:var(--acc);flex:none;animation:pulse 2.6s infinite}
+.sysstat .ss-dot.bad{background:#D6564E;animation:none}
+.sysstat b{color:var(--ink);font-weight:600}
+.sysstat .sep{color:var(--faint)}
+
+/* feed methodology */
+.fmethod{border-bottom:1px solid var(--line);background:rgba(190,225,45,.05)}
+.fmethod summary{cursor:pointer;padding:12px 26px;font:500 .72rem/1 var(--mono);
+  letter-spacing:.1em;text-transform:uppercase;color:var(--acc-t);list-style:none;display:flex;align-items:center;gap:8px}
+.fmethod summary::-webkit-details-marker{display:none}
+.fmethod summary::before{content:"+";font-family:var(--mono);color:var(--dim);transition:.2s}
+.fmethod[open] summary::before{content:"–"}
+.fmethod .fm-body{padding:4px 26px 18px;color:var(--dim);font-size:.86rem;line-height:1.7;max-width:78ch}
+.fmethod .fm-body b{color:var(--ink);font-weight:500}
+
+/* feed panel small buttons */
+.mini-btn{border:1px solid var(--line2);background:#fff;color:var(--dim);border-radius:9px;
+  padding:8px 13px;font:500 .74rem/1 var(--mono);cursor:pointer;transition:.2s;white-space:nowrap}
+.mini-btn:hover{color:var(--acc-t);border-color:rgba(140,180,10,.45)}
+
 /* offers */
 .offers{display:grid;grid-template-columns:1fr 1fr;gap:22px}
 @media(max-width:860px){.offers{grid-template-columns:1fr}}
@@ -340,6 +364,8 @@ footer a{color:var(--dim)}footer a:hover{color:var(--acc-t)}
   </div>
 </div>
 
+<div class="sysstat" id="sysstat"><span class="ss-dot" id="ss-dot"></span><span id="ss-text">checking fleet status…</span></div>
+
 <div class="stats">
   <div class="wrap stats-in">
     <div class="stat"><div class="n"><span data-count id="s-feeds">0</span></div><div class="l">feeds under management</div></div>
@@ -366,7 +392,12 @@ footer a{color:var(--dim)}footer a:hover{color:var(--acc-t)}
           <button class="on" data-f="all">All records</button>
           <button data-f="new">New only</button>
         </div>
+        <button class="mini-btn" id="copy-link" title="Copy a link to this feed">Copy link</button>
       </div>
+      <details class="fmethod" id="fmethod">
+        <summary>About this feed · methodology</summary>
+        <div class="fm-body" id="fmethod-body"></div>
+      </details>
       <div class="sparkbox">
         <div class="spark-meta">
           <div class="sv" id="spark-n">—</div>
@@ -382,6 +413,7 @@ footer a{color:var(--dim)}footer a:hover{color:var(--acc-t)}
       </div>
       <div class="feed-bot">
         <span id="fb-src"></span>
+        <span><a id="fb-csv" href="#" target="_blank" rel="noopener" style="color:var(--acc-t)">⬇ sample CSV</a> · <span id="fb-note" style="color:var(--faint)"></span></span>
         <span>last collected <b id="fb-last" style="color:var(--dim)">—</b></span>
       </div>
     </div>
@@ -538,6 +570,17 @@ function renderTicker(d){
   const half=`<span style="display:flex;gap:48px;align-items:center">${items}</span>`;
   document.getElementById("ticker").innerHTML=half+half;
 }
+const METHODOLOGY = {
+  "jobs": "Collected directly from the public job board. <b>Facts only</b> — titles, employers, locations and pay exactly as the source posts them (weekly vs hourly units preserved). Every record links to its source page.",
+  "hiring-signal": "Company hiring announcements collected from public sources. Each record links to the original post. <b>Facts only</b> — what was posted, where, when we first saw it.",
+  "funding": "US public-domain government data (SEC EDGAR / USAspending.gov). Fresh filings and awards only — company, amount as published, dates. Public domain: free to use commercially.",
+  "government": "US public-domain government data (ClinicalTrials.gov / openFDA / Federal Register). New and updated records only, with links to the primary source. Public domain: free to use commercially."
+};
+function renderMethod(d){
+  const cat = d.category || (FEEDS.find(f=>f.id===d.id)||{}).category || "jobs";
+  document.getElementById("fmethod-body").innerHTML =
+    `<b>${esc(d.name||d.id)}</b> — refreshed hourly · ${d.total_tracked||0} records tracked since launch · ${d.jobs_on_board||0} in the current snapshot.<br>${METHODOLOGY[cat]||METHODOLOGY.jobs}`;
+}
 function renderRows(d){
   const rows=(d.jobs||[]).filter(j=>FILTER==="all"||j.new_this_run);
   document.getElementById("rows").innerHTML=rows.length?rows.map(j=>`
@@ -550,6 +593,9 @@ function renderRows(d){
     </tr>`).join("")
     :`<tr><td colspan="5" style="color:var(--faint)">No new records this hour — everything already tracked.</td></tr>`;
   document.getElementById("fb-src").innerHTML=`source: <a href="${esc(d.source)}" target="_blank" rel="noopener">${esc(d.source)}</a> · facts &amp; metadata only`;
+  document.getElementById("fb-csv").href=RAW+"exports/"+d.id+".csv";
+  document.getElementById("fb-note").textContent=`showing latest ${Math.min(d.jobs.length,120)} of ${d.total_tracked||0} tracked`;
+  renderMethod(d);
 }
 function renderSpark(d){
   const runs=(d.runs||[]).slice(-48);
@@ -577,7 +623,9 @@ function buildFleet(){
     </div>`).join("");
 }
 async function selectFeed(id){
+  if(id===ACTIVE&&FEEDDATA)return;
   ACTIVE=id;
+  history.replaceState(null,"","#feed="+id);
   document.querySelectorAll(".fcard").forEach(c=>c.classList.toggle("active",c.dataset.f===id));
   document.getElementById("rows").innerHTML=`<tr><td colspan="5" style="color:var(--faint)">loading ${esc(id)}…</td></tr>`;
   try{
@@ -615,7 +663,31 @@ async function loadAll(){
   }catch(e){}
   if(FEEDDATA)renderStats(FEEDDATA);
   buildFleet();
+  applyHash();
+  refreshStatus();
 }
+function applyHash(){
+  const m=location.hash.match(/feed=([a-z0-9_]+)/i);
+  if(m&&m[1]!==ACTIVE&&document.querySelector(`[data-f="${m[1]}"]`))selectFeed(m[1]);
+}
+window.addEventListener("hashchange",applyHash);
+async function refreshStatus(){
+  try{
+    const h=await (await fetch(RAW+"health.json?t="+Date.now())).json();
+    const st=h.last_status||{};const ids=Object.keys(st);
+    const ok=ids.filter(k=>st[k]).length;
+    const dot=document.getElementById("ss-dot");
+    dot.classList.toggle("bad",ok<ids.length);
+    document.getElementById("ss-text").innerHTML=
+      `SYSTEM STATUS &nbsp;<b>${ok}/${ids.length} collectors green</b> <span class="sep">◆</span> last run ${ago(h.last_run)} <span class="sep">◆</span> next run on the hour`;
+  }catch(e){}
+}
+document.getElementById("copy-link").addEventListener("click",()=>{
+  const b=document.getElementById("copy-link");
+  history.replaceState(null,"","#feed="+ACTIVE);
+  navigator.clipboard.writeText(location.href).then(()=>{b.textContent="Copied ✓";
+    setTimeout(()=>b.textContent="Copy link",1600);});
+});
 document.getElementById("filter").addEventListener("click",e=>{
   if(!e.target.dataset.f)return;FILTER=e.target.dataset.f;
   document.querySelectorAll("#filter button").forEach(b=>b.classList.toggle("on",b===e.target));
@@ -625,6 +697,7 @@ document.getElementById("fleet").addEventListener("click",e=>{
   const card=e.target.closest(".fcard");if(card&&card.dataset.f!==ACTIVE)selectFeed(card.dataset.f);
 });
 setInterval(()=>{if(FEEDDATA){renderDash(FEEDDATA);}},30000);
+setInterval(refreshStatus,60000);
 loadAll();
 
 /* ---------- newsletter signup ---------- */

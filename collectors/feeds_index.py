@@ -45,6 +45,29 @@ for fp in sorted(DATA.glob("*.json")):
 
 (DATA / "feeds.json").write_text(json.dumps({"generated_at": now, "feeds": feeds}, indent=1))
 
+# ---- per-feed sample CSV exports (what a buyer actually receives) ----
+import csv
+exp = DATA / "exports"
+exp.mkdir(parents=True, exist_ok=True)
+for fp in sorted(DATA.glob("*.json")):
+    if fp.name in ("feeds.json", "health.json", "heartbeat.json"):
+        continue
+    try:
+        d = json.loads(fp.read_text())
+    except Exception:
+        continue
+    if "collected_at" not in d:
+        continue
+    fid = d.get("id") or fp.stem
+    with open(exp / f"{fid}.csv", "w", newline="", encoding="utf-8") as fh:
+        w = csv.writer(fh)
+        w.writerow(["title", "org", "location", "detail", "url", "new_this_run"])
+        for j in d.get("jobs", []):
+            w.writerow([j.get("title", ""), j.get("org") or "", j.get("location") or "",
+                        j.get("detail") or "", j.get("url") or "",
+                        "yes" if j.get("new_this_run") else ""])
+print(f"sample CSVs written to {exp}")
+
 # ---- health ----
 status = {}
 if len(sys.argv) > 1:
