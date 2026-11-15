@@ -22,6 +22,14 @@ for c in comments.get("hits", []):
     if not text:
         continue
     first = text.split("|")[0].split(". ")[0].strip()
+    low = text.lower()
+    # quality gate: drop replies, job-seeker posts, and one-liners
+    if len(text) < 25 or any(p in low for p in (
+            "wrong thread", "is not working", "not working yet", "seeking work",
+            "seeking freelance", "seeking remote", "seeking senior", "email:",
+            "portfolio:", "flagged", "deleted", "[dead]", "see you in", "who is hiring?",
+            "who wants to be hired")):
+        continue
     jobs.append({
         "title": first[:110] or "(company post)",
         "org": c.get("author"),

@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-15T10:22:53+00:00",
+ "generated_at": "2026-11-15T10:28:52+00:00",
  "feeds": [
   {
    "id": "clinicaltrials",
@@ -61,11 +61,11 @@
    "name": "Hacker News \u2014 Who is hiring? (companies recruiting now)",
    "category": "hiring-signal",
    "source": "https://news.ycombinator.com",
-   "collected_at": "2026-11-15T10:22:50+00:00",
-   "jobs_on_board": 250,
-   "new_this_run": 0,
-   "total_tracked": 247,
-   "runs": 3
+   "collected_at": "2026-11-15T10:28:52+00:00",
+   "jobs_on_board": 223,
+   "new_this_run": 223,
+   "total_tracked": 223,
+   "runs": 1
   },
   {
    "id": "hosthealthcare",
