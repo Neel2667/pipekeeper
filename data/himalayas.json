@@ -3,93 +3,37 @@
  "name": "Himalayas \u2014 remote jobs",
  "category": "jobs",
  "source": "https://himalayas.app/jobs/api",
- "collected_at": "2026-11-16T02:06:48+00:00",
+ "collected_at": "2026-11-16T05:55:21+00:00",
  "jobs_on_board": 20,
  "new_this_run": 20,
- "total_tracked": 99,
+ "total_tracked": 119,
  "jobs": [
   {
-   "title": "Platform Engineer (Backend Infrastructure)",
-   "org": "Focal Systems",
-   "location": "Albania, Andorra, Austria, Belarus, Belgium, Bosnia and Herzegovina, Bulgaria, Croatia, Cyprus, Czechia, Denmark, Estonia, Faroe Islands, Finland, France, Germany, Gibraltar, Greece, Guernsey, Holy See (Vatican City State), Hungary, Iceland",
-   "detail": "$102,000\u2013$117,500/a",
+   "title": "AI Agent \u4ea7\u54c1\u4e13\u5bb6\uff08C \u7aef\u91d1\u878d\uff09",
+   "org": "Gate",
+   "location": "China",
+   "detail": "Full Time",
    "url": null,
    "new_this_run": true
   },
   {
-   "title": "Senior Manager of Compliance",
-   "org": "Trend Micro",
+   "title": "Marketing Manager - US Retail",
+   "org": "WSAudiology",
    "location": "United States",
    "detail": "Full Time",
    "url": null,
    "new_this_run": true
   },
   {
-   "title": "E-Commerce Operations Manager | Philippines",
-   "org": "HireHawk",
-   "location": "Philippines",
-   "detail": "Full Time",
-   "url": null,
-   "new_this_run": true
-  },
-  {
-   "title": "UM RN - Behavioral Health",
-   "org": "HealthEdge",
+   "title": "Senior Product Manager, Agent Growth",
+   "org": "Lone Wolf Technologies",
    "location": "United States",
-   "detail": "$65,000\u2013$85,000/a",
+   "detail": "$140,000\u2013$165,000/a",
    "url": null,
    "new_this_run": true
   },
   {
-   "title": "Full Stack Developer",
-   "org": "Pavago",
-   "location": "United States",
-   "detail": "Full Time",
-   "url": null,
-   "new_this_run": true
-  },
-  {
-   "title": "Neurologist- Consultant",
-   "org": "Science 37",
-   "location": "United States",
-   "detail": "Full Time",
-   "url": null,
-   "new_this_run": true
-  },
-  {
-   "title": "Product Designer",
-   "org": "Panacea Financial",
-   "location": "United States",
-   "detail": "Full Time",
-   "url": null,
-   "new_this_run": true
-  },
-  {
-   "title": "(USA) Senior, Data Engineer",
-   "org": "Walmart - Internal",
-   "location": "United States",
-   "detail": "$90,000\u2013$234,000/a",
-   "url": null,
-   "new_this_run": true
-  },
-  {
-   "title": "Partner Success Analyst",
-   "org": "Guidehouse",
-   "location": "United States",
-   "detail": "$56,000\u2013$94,000/a",
-   "url": null,
-   "new_this_run": true
-  },
-  {
-   "title": "Cloud Specialist - Development (Chile - Argentina - Per\u00fa)",
-   "org": "Escala 24x7",
-   "location": "Chile",
-   "detail": "Contractor",
-   "url": null,
-   "new_this_run": true
-  },
-  {
-   "title": "Technical Account Engineer",
+   "title": "Full Stack Product Engineer, Merchant Platform",
    "org": "Bask Health",
    "location": "United States",
    "detail": "Full Time",
@@ -97,10 +41,66 @@
    "new_this_run": true
   },
   {
-   "title": "Principal Full Stack Engineer (Agentic Systems & Enablement)",
-   "org": "Modus Create",
-   "location": "Mexico",
+   "title": "Business Development Manager (Prolific Supply)",
+   "org": "Vireo Health",
+   "location": "United States",
    "detail": "Full Time",
+   "url": null,
+   "new_this_run": true
+  },
+  {
+   "title": "VP, Technology",
+   "org": "OnTrac",
+   "location": "United States",
+   "detail": "$228,000\u2013$342,000/a",
+   "url": null,
+   "new_this_run": true
+  },
+  {
+   "title": "Machine Learning Engineer, Personalization",
+   "org": "Bask Health",
+   "location": "United States",
+   "detail": "Full Time",
+   "url": null,
+   "new_this_run": true
+  },
+  {
+   "title": "Senior Design Engineer, WebGL & Three.js",
+   "org": "Bask Health",
+   "location": "United States",
+   "detail": "Full Time",
+   "url": null,
+   "new_this_run": true
+  },
+  {
+   "title": "ANALISTA DE SISTEMAS JR",
+   "org": "Seja Globalweb",
+   "location": "Brazil",
+   "detail": "Full Time",
+   "url": null,
+   "new_this_run": true
+  },
+  {
+   "title": "Music Producer - Fully Remote | Upto $13/hr",
+   "org": "mercor",
+   "location": "United States",
+   "detail": "$13\u2013$13/h",
+   "url": null,
+   "new_this_run": true
+  },
+  {
+   "title": "Databricks Architect (Remote, US)",
+   "org": "V4C.ai",
+   "location": "United States",
+   "detail": "Full Time",
+   "url": null,
+   "new_this_run": true
+  },
+  {
+   "title": "Network Vulnerability Remediation Engineer - Mid",
+   "org": "Leidos",
+   "location": "United States",
+   "detail": "$73,450\u2013$132,775/a",
    "url": null,
    "new_this_run": true
   }
@@ -138,6 +138,11 @@
   },
   {
    "at": "2026-11-16T02:06:48+00:00",
+   "jobs": 20,
+   "new": 20
+  },
+  {
+   "at": "2026-11-16T05:55:21+00:00",
    "jobs": 20,
    "new": 20
   }
@@ -835,6 +840,146 @@
    "title": "Software Engineer (Backend focus)",
    "org": "Virtuozzo",
    "location": "Albania, Andorra, Austria, Belarus, Belgium, Bosnia and Herzegovina, Bulgaria, Croatia, Cyprus, Czechia, Denmark, Estonia, Faroe Islands, Finland, France, Germany, Gibraltar, Greece, Guernsey, Holy See (Vatican City State), Hungary, Iceland"
+  },
+  "ai agent \u4ea7\u54c1\u4e13\u5bb6\uff08c \u7aef\u91d1\u878d\uff09|gate|china": {
+   "first_seen": "2026-11-16T05:55:21+00:00",
+   "last_seen": "2026-11-16T05:55:21+00:00",
+   "title": "AI Agent \u4ea7\u54c1\u4e13\u5bb6\uff08C \u7aef\u91d1\u878d\uff09",
+   "org": "Gate",
+   "location": "China"
+  },
+  "marketing manager - us retail|wsaudiology|united states": {
+   "first_seen": "2026-11-16T05:55:21+00:00",
+   "last_seen": "2026-11-16T05:55:21+00:00",
+   "title": "Marketing Manager - US Retail",
+   "org": "WSAudiology",
+   "location": "United States"
+  },
+  "senior product manager, agent growth|lone wolf technologies|united states": {
+   "first_seen": "2026-11-16T05:55:21+00:00",
+   "last_seen": "2026-11-16T05:55:21+00:00",
+   "title": "Senior Product Manager, Agent Growth",
+   "org": "Lone Wolf Technologies",
+   "location": "United States"
+  },
+  "full stack product engineer, merchant platform|bask health|united states": {
+   "first_seen": "2026-11-16T05:55:21+00:00",
+   "last_seen": "2026-11-16T05:55:21+00:00",
+   "title": "Full Stack Product Engineer, Merchant Platform",
+   "org": "Bask Health",
+   "location": "United States"
+  },
+  "business development manager (prolific supply)|vireo health|united states": {
+   "first_seen": "2026-11-16T05:55:21+00:00",
+   "last_seen": "2026-11-16T05:55:21+00:00",
+   "title": "Business Development Manager (Prolific Supply)",
+   "org": "Vireo Health",
+   "location": "United States"
+  },
+  "vp, technology|ontrac|united states": {
+   "first_seen": "2026-11-16T05:55:21+00:00",
+   "last_seen": "2026-11-16T05:55:21+00:00",
+   "title": "VP, Technology",
+   "org": "OnTrac",
+   "location": "United States"
+  },
+  "machine learning engineer, personalization|bask health|united states": {
+   "first_seen": "2026-11-16T05:55:21+00:00",
+   "last_seen": "2026-11-16T05:55:21+00:00",
+   "title": "Machine Learning Engineer, Personalization",
+   "org": "Bask Health",
+   "location": "United States"
+  },
+  "senior design engineer, webgl & three.js|bask health|united states": {
+   "first_seen": "2026-11-16T05:55:21+00:00",
+   "last_seen": "2026-11-16T05:55:21+00:00",
+   "title": "Senior Design Engineer, WebGL & Three.js",
+   "org": "Bask Health",
+   "location": "United States"
+  },
+  "analista de sistemas jr|seja globalweb|brazil": {
+   "first_seen": "2026-11-16T05:55:21+00:00",
+   "last_seen": "2026-11-16T05:55:21+00:00",
+   "title": "ANALISTA DE SISTEMAS JR",
+   "org": "Seja Globalweb",
+   "location": "Brazil"
+  },
+  "music producer - fully remote | upto $13/hr|mercor|united states": {
+   "first_seen": "2026-11-16T05:55:21+00:00",
+   "last_seen": "2026-11-16T05:55:21+00:00",
+   "title": "Music Producer - Fully Remote | Upto $13/hr",
+   "org": "mercor",
+   "location": "United States"
+  },
+  "databricks architect (remote, us)|v4c.ai|united states": {
+   "first_seen": "2026-11-16T05:55:21+00:00",
+   "last_seen": "2026-11-16T05:55:21+00:00",
+   "title": "Databricks Architect (Remote, US)",
+   "org": "V4C.ai",
+   "location": "United States"
+  },
+  "network vulnerability remediation engineer - mid|leidos|united states": {
+   "first_seen": "2026-11-16T05:55:21+00:00",
+   "last_seen": "2026-11-16T05:55:21+00:00",
+   "title": "Network Vulnerability Remediation Engineer - Mid",
+   "org": "Leidos",
+   "location": "United States"
+  },
+  "analista de seguran\u00e7a da informa\u00e7\u00e3o sr (pentest/red team) - segmento tecnologia|db | crescer com prop\u00f3sito!|brazil": {
+   "first_seen": "2026-11-16T05:55:21+00:00",
+   "last_seen": "2026-11-16T05:55:21+00:00",
+   "title": "Analista de Seguran\u00e7a da Informa\u00e7\u00e3o Sr (Pentest/Red Team) - Segmento Tecnologia",
+   "org": "DB | CRESCER com prop\u00f3sito!",
+   "location": "Brazil"
+  },
+  "independent sales representative|conexwest|brazil": {
+   "first_seen": "2026-11-16T05:55:21+00:00",
+   "last_seen": "2026-11-16T05:55:21+00:00",
+   "title": "Independent Sales Representative",
+   "org": "Conexwest",
+   "location": "Brazil"
+  },
+  "full-stack developer - next.js & python|pavago|pakistan": {
+   "first_seen": "2026-11-16T05:55:21+00:00",
+   "last_seen": "2026-11-16T05:55:21+00:00",
+   "title": "Full-Stack Developer - Next.js & Python",
+   "org": "Pavago",
+   "location": "Pakistan"
+  },
+  "senior manager, software engineering - ai developer productivity (dev agents and|samsara|united states": {
+   "first_seen": "2026-11-16T05:55:21+00:00",
+   "last_seen": "2026-11-16T05:55:21+00:00",
+   "title": "Senior Manager, Software Engineering - AI Developer Productivity (Dev Agents and",
+   "org": "Samsara",
+   "location": "United States"
+  },
+  "implementation support specialist|evidence based associates|united states": {
+   "first_seen": "2026-11-16T05:55:21+00:00",
+   "last_seen": "2026-11-16T05:55:21+00:00",
+   "title": "Implementation Support Specialist",
+   "org": "Evidence Based Associates",
+   "location": "United States"
+  },
+  "senior google ads buyer, dtc ecommerce|sweat pants agency|canada": {
+   "first_seen": "2026-11-16T05:55:21+00:00",
+   "last_seen": "2026-11-16T05:55:21+00:00",
+   "title": "Senior Google Ads Buyer, DTC eCommerce",
+   "org": "Sweat Pants Agency",
+   "location": "Canada"
+  },
+  "director of mep project management|everon data center services|united states": {
+   "first_seen": "2026-11-16T05:55:21+00:00",
+   "last_seen": "2026-11-16T05:55:21+00:00",
+   "title": "Director of MEP Project Management",
+   "org": "EverOn Data Center Services",
+   "location": "United States"
+  },
+  "project manager|harris|canada, united states": {
+   "first_seen": "2026-11-16T05:55:21+00:00",
+   "last_seen": "2026-11-16T05:55:21+00:00",
+   "title": "Project Manager",
+   "org": "Harris",
+   "location": "Canada, United States"
   }
  }
 }

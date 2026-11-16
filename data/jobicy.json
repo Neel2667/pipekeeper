@@ -3,7 +3,7 @@
  "name": "Jobicy \u2014 remote jobs",
  "category": "jobs",
  "source": "https://jobicy.com/api/v2/remote-jobs",
- "collected_at": "2026-11-16T02:06:48+00:00",
+ "collected_at": "2026-11-16T05:55:21+00:00",
  "jobs_on_board": 50,
  "new_this_run": 0,
  "total_tracked": 100,
@@ -138,6 +138,11 @@
   },
   {
    "at": "2026-11-16T02:06:48+00:00",
+   "jobs": 50,
+   "new": 0
+  },
+  {
+   "at": "2026-11-16T05:55:21+00:00",
    "jobs": 50,
    "new": 0
   }
@@ -495,350 +500,350 @@
   },
   "senior account executive, new logo|temporal technologies|germany": {
    "first_seen": "2026-11-15T17:10:38+00:00",
-   "last_seen": "2026-11-16T02:06:48+00:00",
+   "last_seen": "2026-11-16T05:55:21+00:00",
    "title": "Senior Account Executive, New Logo",
    "org": "Temporal Technologies",
    "location": "Germany"
   },
   "senior account executive, new logo (france)|temporal technologies|france, uk": {
    "first_seen": "2026-11-15T17:10:38+00:00",
-   "last_seen": "2026-11-16T02:06:48+00:00",
+   "last_seen": "2026-11-16T05:55:21+00:00",
    "title": "Senior Account Executive, New Logo (France)",
    "org": "Temporal Technologies",
    "location": "France, UK"
   },
   "senior platform architect - uk|temporal technologies|uk": {
    "first_seen": "2026-11-15T17:10:38+00:00",
-   "last_seen": "2026-11-16T02:06:48+00:00",
+   "last_seen": "2026-11-16T05:55:21+00:00",
    "title": "Senior Platform Architect - UK",
    "org": "Temporal Technologies",
    "location": "UK"
   },
   "staff developer advocate, enterprise - emea|temporal technologies|germany": {
    "first_seen": "2026-11-15T17:10:38+00:00",
-   "last_seen": "2026-11-16T02:06:48+00:00",
+   "last_seen": "2026-11-16T05:55:21+00:00",
    "title": "Staff Developer Advocate, Enterprise - EMEA",
    "org": "Temporal Technologies",
    "location": "Germany"
   },
   "business development representative, emea|temporal technologies|uk": {
    "first_seen": "2026-11-15T17:10:38+00:00",
-   "last_seen": "2026-11-16T02:06:48+00:00",
+   "last_seen": "2026-11-16T05:55:21+00:00",
    "title": "Business Development Representative, EMEA",
    "org": "Temporal Technologies",
    "location": "UK"
   },
   "sales engineer - spain|zscaler|spain": {
    "first_seen": "2026-11-15T17:10:38+00:00",
-   "last_seen": "2026-11-16T02:06:48+00:00",
+   "last_seen": "2026-11-16T05:55:21+00:00",
    "title": "Sales Engineer - Spain",
    "org": "Zscaler",
    "location": "Spain"
   },
   "sales account executive 3 - enterprise|zscaler|poland": {
    "first_seen": "2026-11-15T17:10:38+00:00",
-   "last_seen": "2026-11-16T02:06:48+00:00",
+   "last_seen": "2026-11-16T05:55:21+00:00",
    "title": "Sales Account Executive 3 - Enterprise",
    "org": "Zscaler",
    "location": "Poland"
   },
   "commercial account executive|zscaler|norway": {
    "first_seen": "2026-11-15T17:10:38+00:00",
-   "last_seen": "2026-11-16T02:06:48+00:00",
+   "last_seen": "2026-11-16T05:55:21+00:00",
    "title": "Commercial Account Executive",
    "org": "Zscaler",
    "location": "Norway"
   },
   "account executive, enterprise|zscaler|austria": {
    "first_seen": "2026-11-15T17:10:38+00:00",
-   "last_seen": "2026-11-16T02:06:48+00:00",
+   "last_seen": "2026-11-16T05:55:21+00:00",
    "title": "Account Executive, Enterprise",
    "org": "Zscaler",
    "location": "Austria"
   },
   "senior solutions engineer | switzerland | remote|grafana labs|switzerland": {
    "first_seen": "2026-11-15T17:10:38+00:00",
-   "last_seen": "2026-11-16T02:06:48+00:00",
+   "last_seen": "2026-11-16T05:55:21+00:00",
    "title": "Senior Solutions Engineer | Switzerland | Remote",
    "org": "Grafana Labs",
    "location": "Switzerland"
   },
   "senior manager, contracts - data center|sb energy|usa": {
    "first_seen": "2026-11-15T17:10:38+00:00",
-   "last_seen": "2026-11-16T02:06:48+00:00",
+   "last_seen": "2026-11-16T05:55:21+00:00",
    "title": "Senior Manager, Contracts - Data Center",
    "org": "SB Energy",
    "location": "USA"
   },
   "esi director, suitability|national life insurance company|usa": {
    "first_seen": "2026-11-15T17:10:38+00:00",
-   "last_seen": "2026-11-16T02:06:48+00:00",
+   "last_seen": "2026-11-16T05:55:21+00:00",
    "title": "ESI Director, Suitability",
    "org": "National Life Insurance Company",
    "location": "USA"
   },
   "director, gtm operations|zapier|canada, usa": {
    "first_seen": "2026-11-15T17:10:38+00:00",
-   "last_seen": "2026-11-16T02:06:48+00:00",
+   "last_seen": "2026-11-16T05:55:21+00:00",
    "title": "Director, GTM Operations",
    "org": "Zapier",
    "location": "Canada, USA"
   },
   "senior associate, client success|maven clinic|usa": {
    "first_seen": "2026-11-15T17:10:38+00:00",
-   "last_seen": "2026-11-16T02:06:48+00:00",
+   "last_seen": "2026-11-16T05:55:21+00:00",
    "title": "Senior Associate, Client Success",
    "org": "Maven Clinic",
    "location": "USA"
   },
   "clinical growth sdr|prosper health|usa": {
    "first_seen": "2026-11-15T17:10:38+00:00",
-   "last_seen": "2026-11-16T02:06:48+00:00",
+   "last_seen": "2026-11-16T05:55:21+00:00",
    "title": "Clinical Growth SDR",
    "org": "Prosper Health",
    "location": "USA"
   },
   "solution consultant|smartling|usa": {
    "first_seen": "2026-11-15T17:10:38+00:00",
-   "last_seen": "2026-11-16T02:06:48+00:00",
+   "last_seen": "2026-11-16T05:55:21+00:00",
    "title": "Solution Consultant",
    "org": "Smartling",
    "location": "USA"
   },
   "esi associate vice president, suitability review|national life insurance company|usa": {
    "first_seen": "2026-11-15T17:10:38+00:00",
-   "last_seen": "2026-11-16T02:06:48+00:00",
+   "last_seen": "2026-11-16T05:55:21+00:00",
    "title": "ESI Associate Vice President, Suitability Review",
    "org": "National Life Insurance Company",
    "location": "USA"
   },
   "business intelligence analytics engineer|carrot|usa": {
    "first_seen": "2026-11-15T17:10:38+00:00",
-   "last_seen": "2026-11-16T02:06:48+00:00",
+   "last_seen": "2026-11-16T05:55:21+00:00",
    "title": "Business Intelligence Analytics Engineer",
    "org": "Carrot",
    "location": "USA"
   },
   "junior sales development representative (early career)|eventbrite|usa": {
    "first_seen": "2026-11-15T17:10:38+00:00",
-   "last_seen": "2026-11-16T02:06:48+00:00",
+   "last_seen": "2026-11-16T05:55:21+00:00",
    "title": "Junior Sales Development Representative (Early Career)",
    "org": "Eventbrite",
    "location": "USA"
   },
   "demand generation manager|documo inc.|usa": {
    "first_seen": "2026-11-15T17:10:38+00:00",
-   "last_seen": "2026-11-16T02:06:48+00:00",
+   "last_seen": "2026-11-16T05:55:21+00:00",
    "title": "Demand Generation Manager",
    "org": "Documo Inc.",
    "location": "USA"
   },
   "senior actuary, outcomes|maven clinic|usa": {
    "first_seen": "2026-11-15T17:10:38+00:00",
-   "last_seen": "2026-11-16T02:06:48+00:00",
+   "last_seen": "2026-11-16T05:55:21+00:00",
    "title": "Senior Actuary, Outcomes",
    "org": "Maven Clinic",
    "location": "USA"
   },
   "senior paid search manager, make & manage money|launch potato|usa": {
    "first_seen": "2026-11-15T17:10:38+00:00",
-   "last_seen": "2026-11-16T02:06:48+00:00",
+   "last_seen": "2026-11-16T05:55:21+00:00",
    "title": "Senior Paid Search Manager, Make & Manage Money",
    "org": "Launch Potato",
    "location": "USA"
   },
   "coordinator, legal support (intern)|cogstate|australia": {
    "first_seen": "2026-11-15T17:10:38+00:00",
-   "last_seen": "2026-11-16T02:06:48+00:00",
+   "last_seen": "2026-11-16T05:55:21+00:00",
    "title": "Coordinator, Legal Support (Intern)",
    "org": "Cogstate",
    "location": "Australia"
   },
   "senior account executive|6sense|usa": {
    "first_seen": "2026-11-15T17:10:38+00:00",
-   "last_seen": "2026-11-16T02:06:48+00:00",
+   "last_seen": "2026-11-16T05:55:21+00:00",
    "title": "Senior Account Executive",
    "org": "6sense",
    "location": "USA"
   },
   "regional vice president, taft-hartley & labor|maven clinic|usa": {
    "first_seen": "2026-11-15T17:10:38+00:00",
-   "last_seen": "2026-11-16T02:06:48+00:00",
+   "last_seen": "2026-11-16T05:55:21+00:00",
    "title": "Regional Vice President, Taft-Hartley & Labor",
    "org": "Maven Clinic",
    "location": "USA"
   },
   "lead, paid marketing, make & manage money|launch potato|usa": {
    "first_seen": "2026-11-15T17:10:38+00:00",
-   "last_seen": "2026-11-16T02:06:48+00:00",
+   "last_seen": "2026-11-16T05:55:21+00:00",
    "title": "Lead, Paid Marketing, Make & Manage Money",
    "org": "Launch Potato",
    "location": "USA"
   },
   "virtual lab manager|quartzy|usa": {
    "first_seen": "2026-11-15T17:10:38+00:00",
-   "last_seen": "2026-11-16T02:06:48+00:00",
+   "last_seen": "2026-11-16T05:55:21+00:00",
    "title": "Virtual Lab Manager",
    "org": "Quartzy",
    "location": "USA"
   },
   "clinical trial associate (associate, rater services)|cogstate|usa": {
    "first_seen": "2026-11-15T17:10:38+00:00",
-   "last_seen": "2026-11-16T02:06:48+00:00",
+   "last_seen": "2026-11-16T05:55:21+00:00",
    "title": "Clinical Trial Associate (Associate, Rater Services)",
    "org": "Cogstate",
    "location": "USA"
   },
   "advertising account executive|6sense|usa": {
    "first_seen": "2026-11-15T17:10:38+00:00",
-   "last_seen": "2026-11-16T02:06:48+00:00",
+   "last_seen": "2026-11-16T05:55:21+00:00",
    "title": "Advertising Account Executive",
    "org": "6sense",
    "location": "USA"
   },
   "product manager, care delivery|maven clinic|usa": {
    "first_seen": "2026-11-15T17:10:38+00:00",
-   "last_seen": "2026-11-16T02:06:48+00:00",
+   "last_seen": "2026-11-16T05:55:21+00:00",
    "title": "Product Manager, Care Delivery",
    "org": "Maven Clinic",
    "location": "USA"
   },
   "senior full stack engineer | experimentation - product analytics | uk | remote|grafana labs|germany, ireland, spain, sweden, uk": {
    "first_seen": "2026-11-15T17:10:38+00:00",
-   "last_seen": "2026-11-16T02:06:48+00:00",
+   "last_seen": "2026-11-16T05:55:21+00:00",
    "title": "Senior Full Stack Engineer | Experimentation - Product Analytics | UK | Remote",
    "org": "Grafana Labs",
    "location": "Germany, Ireland, Spain, Sweden, UK"
   },
   "junior performance marketer (remote - romania)|everai|romania": {
    "first_seen": "2026-11-15T17:10:38+00:00",
-   "last_seen": "2026-11-16T02:06:48+00:00",
+   "last_seen": "2026-11-16T05:55:21+00:00",
    "title": "Junior Performance Marketer (Remote - Romania)",
    "org": "EverAI",
    "location": "Romania"
   },
   "senior full stack engineer | experimentation - product analytics | sweden | remote|grafana labs|germany, ireland, spain, sweden, uk": {
    "first_seen": "2026-11-15T17:10:38+00:00",
-   "last_seen": "2026-11-16T02:06:48+00:00",
+   "last_seen": "2026-11-16T05:55:21+00:00",
    "title": "Senior Full Stack Engineer | Experimentation - Product Analytics | Sweden | Remote",
    "org": "Grafana Labs",
    "location": "Germany, Ireland, Spain, Sweden, UK"
   },
   "junior performance marketer (remote - turkey)|everai|t\u00fcrkiye": {
    "first_seen": "2026-11-15T17:10:38+00:00",
-   "last_seen": "2026-11-16T02:06:48+00:00",
+   "last_seen": "2026-11-16T05:55:21+00:00",
    "title": "Junior Performance Marketer (Remote - Turkey)",
    "org": "EverAI",
    "location": "T\u00fcrkiye"
   },
   "senior full stack engineer | experimentation - product analytics | spain | remote|grafana labs|germany, ireland, spain, sweden, uk": {
    "first_seen": "2026-11-15T17:10:38+00:00",
-   "last_seen": "2026-11-16T02:06:48+00:00",
+   "last_seen": "2026-11-16T05:55:21+00:00",
    "title": "Senior Full Stack Engineer | Experimentation - Product Analytics | Spain | Remote",
    "org": "Grafana Labs",
    "location": "Germany, Ireland, Spain, Sweden, UK"
   },
   "junior performance marketer (remote - poland)|everai|poland": {
    "first_seen": "2026-11-15T17:10:38+00:00",
-   "last_seen": "2026-11-16T02:06:48+00:00",
+   "last_seen": "2026-11-16T05:55:21+00:00",
    "title": "Junior Performance Marketer (Remote - Poland)",
    "org": "EverAI",
    "location": "Poland"
   },
   "senior full stack engineer | experimentation - product analytics | ireland | remote|grafana labs|germany, ireland, spain, sweden, uk": {
    "first_seen": "2026-11-15T17:10:38+00:00",
-   "last_seen": "2026-11-16T02:06:48+00:00",
+   "last_seen": "2026-11-16T05:55:21+00:00",
    "title": "Senior Full Stack Engineer | Experimentation - Product Analytics | Ireland | Remote",
    "org": "Grafana Labs",
    "location": "Germany, Ireland, Spain, Sweden, UK"
   },
   "junior performance marketer (remote - ukraine)|everai|ukraine": {
    "first_seen": "2026-11-15T17:10:38+00:00",
-   "last_seen": "2026-11-16T02:06:48+00:00",
+   "last_seen": "2026-11-16T05:55:21+00:00",
    "title": "Junior Performance Marketer (Remote - Ukraine)",
    "org": "EverAI",
    "location": "Ukraine"
   },
   "senior full stack engineer | experimentation - product analytics | germany | remote|grafana labs|germany, ireland, spain, sweden, uk": {
    "first_seen": "2026-11-15T17:10:38+00:00",
-   "last_seen": "2026-11-16T02:06:48+00:00",
+   "last_seen": "2026-11-16T05:55:21+00:00",
    "title": "Senior Full Stack Engineer | Experimentation - Product Analytics | Germany | Remote",
    "org": "Grafana Labs",
    "location": "Germany, Ireland, Spain, Sweden, UK"
   },
   "senior sales engineer, nordics|horizon3.ai|sweden": {
    "first_seen": "2026-11-15T17:10:38+00:00",
-   "last_seen": "2026-11-16T02:06:48+00:00",
+   "last_seen": "2026-11-16T05:55:21+00:00",
    "title": "Senior Sales Engineer, Nordics",
    "org": "Horizon3.ai",
    "location": "Sweden"
   },
   "talent acquisition specialist (1year limited term)|alimentiv|brazil": {
    "first_seen": "2026-11-15T17:10:38+00:00",
-   "last_seen": "2026-11-16T02:06:48+00:00",
+   "last_seen": "2026-11-16T05:55:21+00:00",
    "title": "Talent Acquisition Specialist (1year Limited Term)",
    "org": "Alimentiv",
    "location": "Brazil"
   },
   "web automation test engineer|caylent|brazil": {
    "first_seen": "2026-11-15T17:10:38+00:00",
-   "last_seen": "2026-11-16T02:06:48+00:00",
+   "last_seen": "2026-11-16T05:55:21+00:00",
    "title": "Web Automation Test Engineer",
    "org": "Caylent",
    "location": "Brazil"
   },
   "senior backend engineer (f/m/x)|caronsale|brazil": {
    "first_seen": "2026-11-15T17:10:38+00:00",
-   "last_seen": "2026-11-16T02:06:48+00:00",
+   "last_seen": "2026-11-16T05:55:21+00:00",
    "title": "Senior Backend Engineer (f/m/x)",
    "org": "CarOnSale",
    "location": "Brazil"
   },
   "senior site reliability engineer|monks|costa rica": {
    "first_seen": "2026-11-15T17:10:38+00:00",
-   "last_seen": "2026-11-16T02:06:48+00:00",
+   "last_seen": "2026-11-16T05:55:21+00:00",
    "title": "Senior Site Reliability Engineer",
    "org": "Monks",
    "location": "Costa Rica"
   },
   "human resources generalist|alimentiv|brazil": {
    "first_seen": "2026-11-15T17:10:38+00:00",
-   "last_seen": "2026-11-16T02:06:48+00:00",
+   "last_seen": "2026-11-16T05:55:21+00:00",
    "title": "Human Resources Generalist",
    "org": "Alimentiv",
    "location": "Brazil"
   },
   "senior security engineer|caylent|brazil": {
    "first_seen": "2026-11-15T17:10:38+00:00",
-   "last_seen": "2026-11-16T02:06:48+00:00",
+   "last_seen": "2026-11-16T05:55:21+00:00",
    "title": "Senior Security Engineer",
    "org": "Caylent",
    "location": "Brazil"
   },
   "paid search specialist (ppc) - brazil|brafton|brazil": {
    "first_seen": "2026-11-15T17:10:38+00:00",
-   "last_seen": "2026-11-16T02:06:48+00:00",
+   "last_seen": "2026-11-16T05:55:21+00:00",
    "title": "Paid Search Specialist (PPC) - Brazil",
    "org": "Brafton",
    "location": "Brazil"
   },
   "sr. software engineer - pat assist|qventus|latam": {
    "first_seen": "2026-11-15T17:10:38+00:00",
-   "last_seen": "2026-11-16T02:06:48+00:00",
+   "last_seen": "2026-11-16T05:55:21+00:00",
    "title": "Sr. Software Engineer - PAT Assist",
    "org": "Qventus",
    "location": "LATAM"
   },
   "senior software engineer (full stack | node.js & react | ai focus)|oowlish technology|argentina, brazil, mexico": {
    "first_seen": "2026-11-15T17:10:38+00:00",
-   "last_seen": "2026-11-16T02:06:48+00:00",
+   "last_seen": "2026-11-16T05:55:21+00:00",
    "title": "Senior Software Engineer (Full Stack | Node.js & React | AI Focus)",
    "org": "Oowlish Technology",
    "location": "Argentina, Brazil, Mexico"
   },
   "salesforce developer (f/m/x)|caronsale|brazil": {
    "first_seen": "2026-11-15T17:10:38+00:00",
-   "last_seen": "2026-11-16T02:06:48+00:00",
+   "last_seen": "2026-11-16T05:55:21+00:00",
    "title": "Salesforce Developer (f/m/x)",
    "org": "CarOnSale",
    "location": "Brazil"
