@@ -3,104 +3,104 @@
  "name": "Himalayas \u2014 remote jobs",
  "category": "jobs",
  "source": "https://himalayas.app/jobs/api",
- "collected_at": "2026-11-16T05:55:21+00:00",
+ "collected_at": "2026-11-16T09:42:20+00:00",
  "jobs_on_board": 20,
  "new_this_run": 20,
- "total_tracked": 119,
+ "total_tracked": 139,
  "jobs": [
   {
-   "title": "AI Agent \u4ea7\u54c1\u4e13\u5bb6\uff08C \u7aef\u91d1\u878d\uff09",
-   "org": "Gate",
-   "location": "China",
+   "title": "Bilingual Logistics Coordinator (Job ID: FRAPAM2R)",
+   "org": "InsideOutVAS",
+   "location": "Anguilla, Antigua and Barbuda, Argentina, Aruba, Bahamas, Barbados, Belize, Bermuda, Bolivia, Bonaire, Sint Eustatius and Saba, Brazil, Cayman Islands, Chile, Colombia, Costa Rica, Cuba, Dominica, Dominican Republic, Ecuador, El Salvador, F",
+   "detail": "$1,500\u2013$1,500/m",
+   "url": null,
+   "new_this_run": true
+  },
+  {
+   "title": "Project Manager, Global Policy & Impact",
+   "org": "SPUN",
+   "location": "Albania, Andorra, Austria, Belarus, Belgium, Bosnia and Herzegovina, Bulgaria, Croatia, Cyprus, Czechia, Denmark, Estonia, Faroe Islands, Finland, France, Germany, Gibraltar, Greece, Guernsey, Holy See (Vatican City State), Hungary, Iceland",
    "detail": "Full Time",
    "url": null,
    "new_this_run": true
   },
   {
-   "title": "Marketing Manager - US Retail",
-   "org": "WSAudiology",
+   "title": "Marketing and Sales Assistant (Part-Time) (0010-1488)",
+   "org": "Hunt St",
+   "location": "Philippines",
+   "detail": "$1,100\u2013$1,500/m",
+   "url": null,
+   "new_this_run": true
+  },
+  {
+   "title": "Product Manager - Patient Experience (USA-based)",
+   "org": "Collectly",
    "location": "United States",
+   "detail": "$160,000\u2013$210,000/a",
+   "url": null,
+   "new_this_run": true
+  },
+  {
+   "title": "Account Executive, Hunter, Benelux",
+   "org": "Copeland",
+   "location": "Belgium",
    "detail": "Full Time",
    "url": null,
    "new_this_run": true
   },
   {
-   "title": "Senior Product Manager, Agent Growth",
-   "org": "Lone Wolf Technologies",
-   "location": "United States",
-   "detail": "$140,000\u2013$165,000/a",
-   "url": null,
-   "new_this_run": true
-  },
-  {
-   "title": "Full Stack Product Engineer, Merchant Platform",
-   "org": "Bask Health",
-   "location": "United States",
+   "title": "T\u00e9cnico de soporte CI/CD",
+   "org": "TECDATA ENGINEERING",
+   "location": "Spain",
    "detail": "Full Time",
    "url": null,
    "new_this_run": true
   },
   {
-   "title": "Business Development Manager (Prolific Supply)",
-   "org": "Vireo Health",
-   "location": "United States",
+   "title": "Business Central Consultant Sr",
+   "org": "Axxon Consulting",
+   "location": "Argentina",
    "detail": "Full Time",
    "url": null,
    "new_this_run": true
   },
   {
-   "title": "VP, Technology",
-   "org": "OnTrac",
+   "title": "DevOps Engineer",
+   "org": "HealthEdge",
    "location": "United States",
-   "detail": "$228,000\u2013$342,000/a",
+   "detail": "$101,000\u2013$115,000/a",
    "url": null,
    "new_this_run": true
   },
   {
-   "title": "Machine Learning Engineer, Personalization",
-   "org": "Bask Health",
-   "location": "United States",
-   "detail": "Full Time",
-   "url": null,
-   "new_this_run": true
-  },
-  {
-   "title": "Senior Design Engineer, WebGL & Three.js",
-   "org": "Bask Health",
-   "location": "United States",
-   "detail": "Full Time",
-   "url": null,
-   "new_this_run": true
-  },
-  {
-   "title": "ANALISTA DE SISTEMAS JR",
-   "org": "Seja Globalweb",
+   "title": "DESENVOLVEDOR BAIXA PLATAFORMA - JAVA",
+   "org": "Certsys",
    "location": "Brazil",
    "detail": "Full Time",
    "url": null,
    "new_this_run": true
   },
   {
-   "title": "Music Producer - Fully Remote | Upto $13/hr",
-   "org": "mercor",
-   "location": "United States",
-   "detail": "$13\u2013$13/h",
+   "title": "Technical Account Manager",
+   "org": "D2L",
+   "location": "Canada",
+   "detail": "$65,000\u2013$90,000/a",
    "url": null,
    "new_this_run": true
   },
   {
-   "title": "Databricks Architect (Remote, US)",
-   "org": "V4C.ai",
-   "location": "United States",
+   "title": "English Language Expert (Australia & New Zealand) - Remote",
+   "org": "YO AI Labs",
+   "location": "Australia, New Zealand",
+   "detail": "$20\u2013$50/h",
+   "url": null,
+   "new_this_run": true
+  },
+  {
+   "title": "Team Lead",
+   "org": "Boldr",
+   "location": "Mexico",
    "detail": "Full Time",
-   "url": null,
-   "new_this_run": true
-  },
-  {
-   "title": "Network Vulnerability Remediation Engineer - Mid",
-   "org": "Leidos",
-   "location": "United States",
-   "detail": "$73,450\u2013$132,775/a",
    "url": null,
    "new_this_run": true
   }
@@ -143,6 +143,11 @@
   },
   {
    "at": "2026-11-16T05:55:21+00:00",
+   "jobs": 20,
+   "new": 20
+  },
+  {
+   "at": "2026-11-16T09:42:20+00:00",
    "jobs": 20,
    "new": 20
   }
@@ -980,6 +985,146 @@
    "title": "Project Manager",
    "org": "Harris",
    "location": "Canada, United States"
+  },
+  "bilingual logistics coordinator (job id: frapam2r)|insideoutvas|anguilla, antigua and barbuda, argentina, aruba, bahamas, barbados, belize, bermuda, bolivia, bonaire, sint eustatius an": {
+   "first_seen": "2026-11-16T09:42:20+00:00",
+   "last_seen": "2026-11-16T09:42:20+00:00",
+   "title": "Bilingual Logistics Coordinator (Job ID: FRAPAM2R)",
+   "org": "InsideOutVAS",
+   "location": "Anguilla, Antigua and Barbuda, Argentina, Aruba, Bahamas, Barbados, Belize, Bermuda, Bolivia, Bonaire, Sint Eustatius and Saba, Brazil, Cayman Islands, Chile, Colombia, Costa Rica, Cuba, Dominica, Dominican Republic, Ecuador, El Salvador, F"
+  },
+  "project manager, global policy & impact|spun|albania, andorra, austria, belarus, belgium, bosnia and herzegovina, bulgaria, croatia, cyprus, czechia, denmark, estoni": {
+   "first_seen": "2026-11-16T09:42:20+00:00",
+   "last_seen": "2026-11-16T09:42:20+00:00",
+   "title": "Project Manager, Global Policy & Impact",
+   "org": "SPUN",
+   "location": "Albania, Andorra, Austria, Belarus, Belgium, Bosnia and Herzegovina, Bulgaria, Croatia, Cyprus, Czechia, Denmark, Estonia, Faroe Islands, Finland, France, Germany, Gibraltar, Greece, Guernsey, Holy See (Vatican City State), Hungary, Iceland"
+  },
+  "marketing and sales assistant (part-time) (0010-1488)|hunt st|philippines": {
+   "first_seen": "2026-11-16T09:42:20+00:00",
+   "last_seen": "2026-11-16T09:42:20+00:00",
+   "title": "Marketing and Sales Assistant (Part-Time) (0010-1488)",
+   "org": "Hunt St",
+   "location": "Philippines"
+  },
+  "product manager - patient experience (usa-based)|collectly|united states": {
+   "first_seen": "2026-11-16T09:42:20+00:00",
+   "last_seen": "2026-11-16T09:42:20+00:00",
+   "title": "Product Manager - Patient Experience (USA-based)",
+   "org": "Collectly",
+   "location": "United States"
+  },
+  "account executive, hunter, benelux|copeland|belgium": {
+   "first_seen": "2026-11-16T09:42:20+00:00",
+   "last_seen": "2026-11-16T09:42:20+00:00",
+   "title": "Account Executive, Hunter, Benelux",
+   "org": "Copeland",
+   "location": "Belgium"
+  },
+  "t\u00e9cnico de soporte ci/cd|tecdata engineering|spain": {
+   "first_seen": "2026-11-16T09:42:20+00:00",
+   "last_seen": "2026-11-16T09:42:20+00:00",
+   "title": "T\u00e9cnico de soporte CI/CD",
+   "org": "TECDATA ENGINEERING",
+   "location": "Spain"
+  },
+  "business central consultant sr|axxon consulting|argentina": {
+   "first_seen": "2026-11-16T09:42:20+00:00",
+   "last_seen": "2026-11-16T09:42:20+00:00",
+   "title": "Business Central Consultant Sr",
+   "org": "Axxon Consulting",
+   "location": "Argentina"
+  },
+  "devops engineer|healthedge|united states": {
+   "first_seen": "2026-11-16T09:42:20+00:00",
+   "last_seen": "2026-11-16T09:42:20+00:00",
+   "title": "DevOps Engineer",
+   "org": "HealthEdge",
+   "location": "United States"
+  },
+  "desenvolvedor baixa plataforma - java|certsys|brazil": {
+   "first_seen": "2026-11-16T09:42:20+00:00",
+   "last_seen": "2026-11-16T09:42:20+00:00",
+   "title": "DESENVOLVEDOR BAIXA PLATAFORMA - JAVA",
+   "org": "Certsys",
+   "location": "Brazil"
+  },
+  "technical account manager|d2l|canada": {
+   "first_seen": "2026-11-16T09:42:20+00:00",
+   "last_seen": "2026-11-16T09:42:20+00:00",
+   "title": "Technical Account Manager",
+   "org": "D2L",
+   "location": "Canada"
+  },
+  "english language expert (australia & new zealand) - remote|yo ai labs|australia, new zealand": {
+   "first_seen": "2026-11-16T09:42:20+00:00",
+   "last_seen": "2026-11-16T09:42:20+00:00",
+   "title": "English Language Expert (Australia & New Zealand) - Remote",
+   "org": "YO AI Labs",
+   "location": "Australia, New Zealand"
+  },
+  "team lead|boldr|mexico": {
+   "first_seen": "2026-11-16T09:42:20+00:00",
+   "last_seen": "2026-11-16T09:42:20+00:00",
+   "title": "Team Lead",
+   "org": "Boldr",
+   "location": "Mexico"
+  },
+  "part-time program analyst-fully remote|cherokee federal|united states": {
+   "first_seen": "2026-11-16T09:42:20+00:00",
+   "last_seen": "2026-11-16T09:42:20+00:00",
+   "title": "Part-time Program Analyst-Fully Remote",
+   "org": "Cherokee Federal",
+   "location": "United States"
+  },
+  "account executive (es, spain, virtual, europe)|bcd travel|spain": {
+   "first_seen": "2026-11-16T09:42:20+00:00",
+   "last_seen": "2026-11-16T09:42:20+00:00",
+   "title": "Account Executive (ES, Spain, Virtual, EUROPE)",
+   "org": "BCD Travel",
+   "location": "Spain"
+  },
+  "mortality medical coder / icd-10 cause-of-death coding specialist|cetechs|united states": {
+   "first_seen": "2026-11-16T09:42:20+00:00",
+   "last_seen": "2026-11-16T09:42:20+00:00",
+   "title": "Mortality Medical Coder / ICD-10 Cause-of-Death Coding Specialist",
+   "org": "Cetechs",
+   "location": "United States"
+  },
+  "software engineer, profile & community, android|airbnb|united states": {
+   "first_seen": "2026-11-16T09:42:20+00:00",
+   "last_seen": "2026-11-16T09:42:20+00:00",
+   "title": "Software Engineer, Profile & Community, Android",
+   "org": "Airbnb",
+   "location": "United States"
+  },
+  "senior product marketing manager, monetization|bask health|united states": {
+   "first_seen": "2026-11-16T09:42:20+00:00",
+   "last_seen": "2026-11-16T09:42:20+00:00",
+   "title": "Senior Product Marketing Manager, Monetization",
+   "org": "Bask Health",
+   "location": "United States"
+  },
+  "contracts administrator|pavago|south africa": {
+   "first_seen": "2026-11-16T09:42:20+00:00",
+   "last_seen": "2026-11-16T09:42:20+00:00",
+   "title": "Contracts Administrator",
+   "org": "Pavago",
+   "location": "South Africa"
+  },
+  "qa automation engineer|consultec-ti|venezuela": {
+   "first_seen": "2026-11-16T09:42:20+00:00",
+   "last_seen": "2026-11-16T09:42:20+00:00",
+   "title": "QA Automation Engineer",
+   "org": "Consultec-TI",
+   "location": "Venezuela"
+  },
+  "retail & cpg (aws) sales lead|tiger analytics|united states": {
+   "first_seen": "2026-11-16T09:42:20+00:00",
+   "last_seen": "2026-11-16T09:42:20+00:00",
+   "title": "Retail & CPG (AWS) Sales Lead",
+   "org": "Tiger Analytics",
+   "location": "United States"
   }
  }
 }
