@@ -1,170 +1,170 @@
 {
- "generated_at": "2026-11-16T09:42:24+00:00",
+ "generated_at": "2026-11-16T20:29:29+00:00",
  "feeds": [
   {
    "id": "clinicaltrials",
    "name": "ClinicalTrials.gov \u2014 freshly updated studies",
    "category": "government",
    "source": "https://clinicaltrials.gov",
-   "collected_at": "2026-11-16T09:42:23+00:00",
+   "collected_at": "2026-11-16T20:29:27+00:00",
    "jobs_on_board": 100,
-   "new_this_run": 0,
-   "total_tracked": 100,
-   "runs": 9
+   "new_this_run": 100,
+   "total_tracked": 200,
+   "runs": 10
   },
   {
    "id": "edgarformd",
    "name": "SEC EDGAR \u2014 new private funding rounds (Form D, 7 days)",
    "category": "funding",
    "source": "https://efts.sec.gov/LATEST/search-index",
-   "collected_at": "2026-11-16T09:42:22+00:00",
-   "jobs_on_board": 11,
-   "new_this_run": 0,
-   "total_tracked": 11,
-   "runs": 9
+   "collected_at": "2026-11-16T20:29:26+00:00",
+   "jobs_on_board": 12,
+   "new_this_run": 1,
+   "total_tracked": 12,
+   "runs": 10
   },
   {
    "id": "federalregister",
    "name": "Federal Register \u2014 newest federal documents",
    "category": "government",
    "source": "https://www.federalregister.gov",
-   "collected_at": "2026-11-16T09:42:24+00:00",
+   "collected_at": "2026-11-16T20:29:29+00:00",
    "jobs_on_board": 100,
    "new_this_run": 0,
    "total_tracked": 99,
-   "runs": 9
+   "runs": 10
   },
   {
    "id": "greenhouse",
    "name": "Hiring tracker \u2014 Anthropic \u00b7 Stripe \u00b7 Databricks",
    "category": "hiring-signal",
    "source": "https://boards.greenhouse.io",
-   "collected_at": "2026-11-16T09:42:20+00:00",
-   "jobs_on_board": 2342,
-   "new_this_run": 3,
-   "total_tracked": 2333,
-   "runs": 10
+   "collected_at": "2026-11-16T20:29:24+00:00",
+   "jobs_on_board": 2341,
+   "new_this_run": 25,
+   "total_tracked": 2358,
+   "runs": 11
   },
   {
    "id": "himalayas",
    "name": "Himalayas \u2014 remote jobs",
    "category": "jobs",
    "source": "https://himalayas.app/jobs/api",
-   "collected_at": "2026-11-16T09:42:20+00:00",
+   "collected_at": "2026-11-16T20:29:24+00:00",
    "jobs_on_board": 20,
    "new_this_run": 20,
-   "total_tracked": 139,
-   "runs": 9
+   "total_tracked": 159,
+   "runs": 10
   },
   {
    "id": "hnhiring",
    "name": "Hacker News \u2014 Who is hiring? (companies recruiting now)",
    "category": "hiring-signal",
    "source": "https://news.ycombinator.com",
-   "collected_at": "2026-11-16T09:42:21+00:00",
-   "jobs_on_board": 136,
-   "new_this_run": 0,
-   "total_tracked": 141,
-   "runs": 7
+   "collected_at": "2026-11-16T20:29:25+00:00",
+   "jobs_on_board": 134,
+   "new_this_run": 1,
+   "total_tracked": 142,
+   "runs": 8
   },
   {
    "id": "hosthealthcare",
    "name": "Host Healthcare \u2014 travel healthcare jobs",
    "category": "jobs",
    "source": "https://www.hosthealthcare.com/jobs/",
-   "collected_at": "2026-11-16T09:42:18+00:00",
+   "collected_at": "2026-11-16T20:29:21+00:00",
    "jobs_on_board": 15,
-   "new_this_run": 0,
-   "total_tracked": 11,
-   "runs": 15
+   "new_this_run": 1,
+   "total_tracked": 12,
+   "runs": 16
   },
   {
    "id": "jobicy",
    "name": "Jobicy \u2014 remote jobs",
    "category": "jobs",
    "source": "https://jobicy.com/api/v2/remote-jobs",
-   "collected_at": "2026-11-16T09:42:19+00:00",
+   "collected_at": "2026-11-16T20:29:23+00:00",
    "jobs_on_board": 50,
    "new_this_run": 50,
-   "total_tracked": 150,
-   "runs": 9
+   "total_tracked": 200,
+   "runs": 10
   },
   {
    "id": "openfda510k",
    "name": "openFDA \u2014 newest device clearances (510k)",
    "category": "government",
    "source": "https://open.fda.gov/apis/device/510k/",
-   "collected_at": "2026-11-16T09:42:23+00:00",
+   "collected_at": "2026-11-16T20:29:28+00:00",
    "jobs_on_board": 100,
    "new_this_run": 0,
    "total_tracked": 99,
-   "runs": 9
+   "runs": 10
   },
   {
    "id": "openfdaenforcement",
    "name": "openFDA \u2014 newest recalls & enforcement actions",
    "category": "government",
    "source": "https://open.fda.gov/apis/food/enforcement/",
-   "collected_at": "2026-11-16T09:42:24+00:00",
+   "collected_at": "2026-11-16T20:29:29+00:00",
    "jobs_on_board": 100,
    "new_this_run": 0,
    "total_tracked": 100,
-   "runs": 8
+   "runs": 9
   },
   {
    "id": "remoteok",
    "name": "RemoteOK \u2014 remote tech jobs",
    "category": "jobs",
    "source": "https://remoteok.com/api",
-   "collected_at": "2026-11-16T09:42:18+00:00",
+   "collected_at": "2026-11-16T20:29:22+00:00",
    "jobs_on_board": 97,
-   "new_this_run": 0,
-   "total_tracked": 99,
-   "runs": 9
+   "new_this_run": 1,
+   "total_tracked": 100,
+   "runs": 10
   },
   {
    "id": "remotive",
    "name": "Remotive \u2014 remote jobs",
    "category": "jobs",
    "source": "https://remotive.com/api/remote-jobs",
-   "collected_at": "2026-11-16T09:42:19+00:00",
-   "jobs_on_board": 16,
+   "collected_at": "2026-11-16T20:29:22+00:00",
+   "jobs_on_board": 17,
    "new_this_run": 0,
    "total_tracked": 17,
-   "runs": 9
+   "runs": 10
   },
   {
    "id": "usaspending",
    "name": "Federal contracts \u2014 awards >$1M (last 3 days)",
    "category": "funding",
    "source": "https://www.usaspending.gov",
-   "collected_at": "2026-11-16T09:42:22+00:00",
+   "collected_at": "2026-11-16T20:29:27+00:00",
    "jobs_on_board": 100,
    "new_this_run": 0,
    "total_tracked": 173,
-   "runs": 9
+   "runs": 10
   },
   {
    "id": "weworkremotely",
    "name": "We Work Remotely \u2014 programming jobs",
    "category": "jobs",
    "source": "https://weworkremotely.com/categories/remote-programming-jobs.rss",
-   "collected_at": "2026-11-16T09:42:19+00:00",
+   "collected_at": "2026-11-16T20:29:23+00:00",
    "jobs_on_board": 25,
-   "new_this_run": 2,
-   "total_tracked": 28,
-   "runs": 9
+   "new_this_run": 1,
+   "total_tracked": 29,
+   "runs": 10
   },
   {
    "id": "workingnomads",
    "name": "Working Nomads \u2014 remote jobs",
    "category": "jobs",
    "source": "https://www.workingnomads.com/api/exposed_jobs/",
-   "collected_at": "2026-11-16T09:42:19+00:00",
-   "jobs_on_board": 34,
-   "new_this_run": 0,
-   "total_tracked": 34,
-   "runs": 9
+   "collected_at": "2026-11-16T20:29:23+00:00",
+   "jobs_on_board": 35,
+   "new_this_run": 1,
+   "total_tracked": 35,
+   "runs": 10
   }
  ]
 }

@@ -3,103 +3,103 @@
  "name": "Himalayas \u2014 remote jobs",
  "category": "jobs",
  "source": "https://himalayas.app/jobs/api",
- "collected_at": "2026-11-16T09:42:20+00:00",
+ "collected_at": "2026-11-16T20:29:24+00:00",
  "jobs_on_board": 20,
  "new_this_run": 20,
- "total_tracked": 139,
+ "total_tracked": 159,
  "jobs": [
   {
-   "title": "Bilingual Logistics Coordinator (Job ID: FRAPAM2R)",
-   "org": "InsideOutVAS",
-   "location": "Anguilla, Antigua and Barbuda, Argentina, Aruba, Bahamas, Barbados, Belize, Bermuda, Bolivia, Bonaire, Sint Eustatius and Saba, Brazil, Cayman Islands, Chile, Colombia, Costa Rica, Cuba, Dominica, Dominican Republic, Ecuador, El Salvador, F",
-   "detail": "$1,500\u2013$1,500/m",
+   "title": "Midwife in Ireland- Telehealth",
+   "org": "Abi global Health",
+   "location": "Ireland",
+   "detail": "Part Time",
    "url": null,
    "new_this_run": true
   },
   {
-   "title": "Project Manager, Global Policy & Impact",
-   "org": "SPUN",
-   "location": "Albania, Andorra, Austria, Belarus, Belgium, Bosnia and Herzegovina, Bulgaria, Croatia, Cyprus, Czechia, Denmark, Estonia, Faroe Islands, Finland, France, Germany, Gibraltar, Greece, Guernsey, Holy See (Vatican City State), Hungary, Iceland",
-   "detail": "Full Time",
-   "url": null,
-   "new_this_run": true
-  },
-  {
-   "title": "Marketing and Sales Assistant (Part-Time) (0010-1488)",
-   "org": "Hunt St",
-   "location": "Philippines",
-   "detail": "$1,100\u2013$1,500/m",
-   "url": null,
-   "new_this_run": true
-  },
-  {
-   "title": "Product Manager - Patient Experience (USA-based)",
-   "org": "Collectly",
+   "title": "Senior Support Analyst-Dental Prepay",
+   "org": "Cotiviti",
    "location": "United States",
-   "detail": "$160,000\u2013$210,000/a",
+   "detail": "$70,000\u2013$92,000/a",
    "url": null,
    "new_this_run": true
   },
   {
-   "title": "Account Executive, Hunter, Benelux",
-   "org": "Copeland",
-   "location": "Belgium",
-   "detail": "Full Time",
-   "url": null,
-   "new_this_run": true
-  },
-  {
-   "title": "T\u00e9cnico de soporte CI/CD",
-   "org": "TECDATA ENGINEERING",
-   "location": "Spain",
-   "detail": "Full Time",
-   "url": null,
-   "new_this_run": true
-  },
-  {
-   "title": "Business Central Consultant Sr",
-   "org": "Axxon Consulting",
-   "location": "Argentina",
-   "detail": "Full Time",
-   "url": null,
-   "new_this_run": true
-  },
-  {
-   "title": "DevOps Engineer",
-   "org": "HealthEdge",
+   "title": "Sr. Solutions Consultant - SDDC",
+   "org": "SHI International Corp.",
    "location": "United States",
-   "detail": "$101,000\u2013$115,000/a",
+   "detail": "$150,000\u2013$180,000/a",
    "url": null,
    "new_this_run": true
   },
   {
-   "title": "DESENVOLVEDOR BAIXA PLATAFORMA - JAVA",
-   "org": "Certsys",
-   "location": "Brazil",
-   "detail": "Full Time",
-   "url": null,
-   "new_this_run": true
-  },
-  {
-   "title": "Technical Account Manager",
-   "org": "D2L",
+   "title": "Senior Project Manager / Gestionnaire senior de projets",
+   "org": "Digital Moment",
    "location": "Canada",
-   "detail": "$65,000\u2013$90,000/a",
+   "detail": "Full Time",
    "url": null,
    "new_this_run": true
   },
   {
-   "title": "English Language Expert (Australia & New Zealand) - Remote",
-   "org": "YO AI Labs",
-   "location": "Australia, New Zealand",
-   "detail": "$20\u2013$50/h",
+   "title": "Paid Media Strategist",
+   "org": "QRY",
+   "location": "United States",
+   "detail": "$70,000\u2013$80,000/a",
    "url": null,
    "new_this_run": true
   },
   {
-   "title": "Team Lead",
-   "org": "Boldr",
-   "location": "Mexico",
+   "title": "Chief of Staff VP Operations Marketing Advertising eCommerce",
+   "org": "BluZinc",
+   "location": "Canada, United States",
+   "detail": "Full Time",
+   "url": null,
+   "new_this_run": true
+  },
+  {
+   "title": "Paid Search Strategist",
+   "org": "QRY",
+   "location": "United States",
+   "detail": "$70,000\u2013$80,000/a",
+   "url": null,
+   "new_this_run": true
+  },
+  {
+   "title": "Channel Account Manager, Taiwan",
+   "org": "AVEVA",
+   "location": "Taiwan",
+   "detail": "Full Time",
+   "url": null,
+   "new_this_run": true
+  },
+  {
+   "title": "Corporate Sales Executive",
+   "org": "Envita Solutions, LLC",
+   "location": "United States",
+   "detail": "Full Time",
+   "url": null,
+   "new_this_run": true
+  },
+  {
+   "title": "Director, Agency Partnerships Ad Sales - Capital One Ad Solutions",
+   "org": "Capital One",
+   "location": "United States",
+   "detail": "$187,300\u2013$213,700/a",
+   "url": null,
+   "new_this_run": true
+  },
+  {
+   "title": "Sr. Marketing Technology Strategist",
+   "org": "Tandem Diabetes Care",
+   "location": "United States",
+   "detail": "$89,900\u2013$112,250/a",
+   "url": null,
+   "new_this_run": true
+  },
+  {
+   "title": "Travel Agent (Amadeus)",
+   "org": "Exoticca",
+   "location": "Spain",
    "detail": "Full Time",
    "url": null,
    "new_this_run": true
@@ -148,6 +148,11 @@
   },
   {
    "at": "2026-11-16T09:42:20+00:00",
+   "jobs": 20,
+   "new": 20
+  },
+  {
+   "at": "2026-11-16T20:29:24+00:00",
    "jobs": 20,
    "new": 20
   }
@@ -1125,6 +1130,146 @@
    "title": "Retail & CPG (AWS) Sales Lead",
    "org": "Tiger Analytics",
    "location": "United States"
+  },
+  "midwife in ireland- telehealth|abi global health|ireland": {
+   "first_seen": "2026-11-16T20:29:24+00:00",
+   "last_seen": "2026-11-16T20:29:24+00:00",
+   "title": "Midwife in Ireland- Telehealth",
+   "org": "Abi global Health",
+   "location": "Ireland"
+  },
+  "senior support analyst-dental prepay|cotiviti|united states": {
+   "first_seen": "2026-11-16T20:29:24+00:00",
+   "last_seen": "2026-11-16T20:29:24+00:00",
+   "title": "Senior Support Analyst-Dental Prepay",
+   "org": "Cotiviti",
+   "location": "United States"
+  },
+  "sr. solutions consultant - sddc|shi international corp.|united states": {
+   "first_seen": "2026-11-16T20:29:24+00:00",
+   "last_seen": "2026-11-16T20:29:24+00:00",
+   "title": "Sr. Solutions Consultant - SDDC",
+   "org": "SHI International Corp.",
+   "location": "United States"
+  },
+  "senior project manager / gestionnaire senior de projets|digital moment|canada": {
+   "first_seen": "2026-11-16T20:29:24+00:00",
+   "last_seen": "2026-11-16T20:29:24+00:00",
+   "title": "Senior Project Manager / Gestionnaire senior de projets",
+   "org": "Digital Moment",
+   "location": "Canada"
+  },
+  "paid media strategist|qry|united states": {
+   "first_seen": "2026-11-16T20:29:24+00:00",
+   "last_seen": "2026-11-16T20:29:24+00:00",
+   "title": "Paid Media Strategist",
+   "org": "QRY",
+   "location": "United States"
+  },
+  "chief of staff vp operations marketing advertising ecommerce|bluzinc|canada, united states": {
+   "first_seen": "2026-11-16T20:29:24+00:00",
+   "last_seen": "2026-11-16T20:29:24+00:00",
+   "title": "Chief of Staff VP Operations Marketing Advertising eCommerce",
+   "org": "BluZinc",
+   "location": "Canada, United States"
+  },
+  "paid search strategist|qry|united states": {
+   "first_seen": "2026-11-16T20:29:24+00:00",
+   "last_seen": "2026-11-16T20:29:24+00:00",
+   "title": "Paid Search Strategist",
+   "org": "QRY",
+   "location": "United States"
+  },
+  "channel account manager, taiwan|aveva|taiwan": {
+   "first_seen": "2026-11-16T20:29:24+00:00",
+   "last_seen": "2026-11-16T20:29:24+00:00",
+   "title": "Channel Account Manager, Taiwan",
+   "org": "AVEVA",
+   "location": "Taiwan"
+  },
+  "corporate sales executive|envita solutions, llc|united states": {
+   "first_seen": "2026-11-16T20:29:24+00:00",
+   "last_seen": "2026-11-16T20:29:24+00:00",
+   "title": "Corporate Sales Executive",
+   "org": "Envita Solutions, LLC",
+   "location": "United States"
+  },
+  "director, agency partnerships ad sales - capital one ad solutions|capital one|united states": {
+   "first_seen": "2026-11-16T20:29:24+00:00",
+   "last_seen": "2026-11-16T20:29:24+00:00",
+   "title": "Director, Agency Partnerships Ad Sales - Capital One Ad Solutions",
+   "org": "Capital One",
+   "location": "United States"
+  },
+  "sr. marketing technology strategist|tandem diabetes care|united states": {
+   "first_seen": "2026-11-16T20:29:24+00:00",
+   "last_seen": "2026-11-16T20:29:24+00:00",
+   "title": "Sr. Marketing Technology Strategist",
+   "org": "Tandem Diabetes Care",
+   "location": "United States"
+  },
+  "travel agent (amadeus)|exoticca|spain": {
+   "first_seen": "2026-11-16T20:29:24+00:00",
+   "last_seen": "2026-11-16T20:29:24+00:00",
+   "title": "Travel Agent (Amadeus)",
+   "org": "Exoticca",
+   "location": "Spain"
+  },
+  "dsp designer|fidus systems|united states": {
+   "first_seen": "2026-11-16T20:29:24+00:00",
+   "last_seen": "2026-11-16T20:29:24+00:00",
+   "title": "DSP Designer",
+   "org": "Fidus Systems",
+   "location": "United States"
+  },
+  "seo team lead / assistant manager - seo|gtech information technology llc|india": {
+   "first_seen": "2026-11-16T20:29:24+00:00",
+   "last_seen": "2026-11-16T20:29:24+00:00",
+   "title": "SEO Team Lead / Assistant Manager - SEO",
+   "org": "GTECH Information Technology LLC",
+   "location": "India"
+  },
+  "signal integrity and power integrity designer|fidus systems|canada, united states": {
+   "first_seen": "2026-11-16T20:29:24+00:00",
+   "last_seen": "2026-11-16T20:29:24+00:00",
+   "title": "Signal Integrity and Power Integrity Designer",
+   "org": "Fidus Systems",
+   "location": "Canada, United States"
+  },
+  "advanced- cooling technical support specialist|schneider electric|united states": {
+   "first_seen": "2026-11-16T20:29:24+00:00",
+   "last_seen": "2026-11-16T20:29:24+00:00",
+   "title": "Advanced- Cooling Technical Support Specialist",
+   "org": "Schneider Electric",
+   "location": "United States"
+  },
+  "redwood automation solution designer (runmyjobs / sap bpa), sap finance close, i|yadimen consulting limited|iceland": {
+   "first_seen": "2026-11-16T20:29:24+00:00",
+   "last_seen": "2026-11-16T20:29:24+00:00",
+   "title": "Redwood Automation Solution Designer (RunMyJobs / SAP BPA), SAP Finance Close, I",
+   "org": "Yadimen Consulting Limited",
+   "location": "Iceland"
+  },
+  "fractional chief financial officer|recruitmymom|united states": {
+   "first_seen": "2026-11-16T20:29:24+00:00",
+   "last_seen": "2026-11-16T20:29:24+00:00",
+   "title": "Fractional Chief Financial Officer",
+   "org": "RecruitMyMom",
+   "location": "United States"
+  },
+  "experienced clinical research associate - sponsor dedicated|syneos health india private limited|canada, united states": {
+   "first_seen": "2026-11-16T20:29:24+00:00",
+   "last_seen": "2026-11-16T20:29:24+00:00",
+   "title": "Experienced Clinical Research Associate - Sponsor Dedicated",
+   "org": "Syneos Health India Private Limited",
+   "location": "Canada, United States"
+  },
+  "project data manager|syneos health india private limited|argentina": {
+   "first_seen": "2026-11-16T20:29:24+00:00",
+   "last_seen": "2026-11-16T20:29:24+00:00",
+   "title": "Project Data Manager",
+   "org": "Syneos Health India Private Limited",
+   "location": "Argentina"
   }
  }
 }
