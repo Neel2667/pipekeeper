@@ -3,10 +3,10 @@
  "name": "Federal contracts \u2014 awards >$1M (last 3 days)",
  "category": "funding",
  "source": "https://www.usaspending.gov",
- "collected_at": "2026-11-15T21:49:47+00:00",
+ "collected_at": "2026-11-16T02:06:51+00:00",
  "jobs_on_board": 100,
- "new_this_run": 0,
- "total_tracked": 100,
+ "new_this_run": 71,
+ "total_tracked": 171,
  "jobs": [
   {
    "title": "ESPC",
@@ -14,38 +14,6 @@
    "location": null,
    "detail": "$34,834,106 \u00b7 Department of Homeland Security \u00b7 start 2011-12-28",
    "url": "https://www.usaspending.gov/award/CONT_AWD_HSFLGL12F00020_7015_DEAM3609GO29039_8900",
-   "new_this_run": false
-  },
-  {
-   "title": "IGF::OT::IGF VARIATIONS IN IMPLEMENTATION OF QUALITY INTERVENTIONS",
-   "org": "MDRC",
-   "location": null,
-   "detail": "$30,611,540 \u00b7 Department of Health and Human Services \u00b7 start 2016-09-30",
-   "url": "https://www.usaspending.gov/award/CONT_AWD_HHSP23337002T_7570_HHSP233201500059I_7555",
-   "new_this_run": false
-  },
-  {
-   "title": "IGF::CL::IGF ENTERPRISE LOG MANAGEMENT",
-   "org": "RED RIVER TECHNOLOGY LLC",
-   "location": null,
-   "detail": "$19,599,426 \u00b7 Department of Health and Human Services \u00b7 start 2016-06-02",
-   "url": "https://www.usaspending.gov/award/CONT_AWD_HHSP233201600135W_7570_HHSN316201500065W_7529",
-   "new_this_run": false
-  },
-  {
-   "title": "IGF::OT::IGF YOUTH HEALTH EQUITY PARTICIPATORY MODEL OF PRACTICE",
-   "org": "ATLAS RESEARCH LLC",
-   "location": null,
-   "detail": "$2,050,792 \u00b7 Department of Health and Human Services \u00b7 start 2015-09-04",
-   "url": "https://www.usaspending.gov/award/CONT_AWD_HHSP233201500377G_7555_GS10F203AA_4732",
-   "new_this_run": false
-  },
-  {
-   "title": "IGF::CT::IGF OFFICE OF HEAD START (OHS) MONITORING SYSTEM",
-   "org": "DLH, LLC",
-   "location": null,
-   "detail": "$198,221,173 \u00b7 Department of Health and Human Services \u00b7 start 2015-05-01",
-   "url": "https://www.usaspending.gov/award/CONT_AWD_HHSP233201500144G_7555_GS00F062CA_4732",
    "new_this_run": false
   },
   {
@@ -57,14 +25,6 @@
    "new_this_run": false
   },
   {
-   "title": "RESEARCH AND DEVELOPMENT SUPPORT TO THE WDI DIRECTORATE IGF::OT::IGF",
-   "org": "DYNETICS, INC.",
-   "location": null,
-   "detail": "$161,628,558 \u00b7 General Services Administration \u00b7 start 2017-09-06",
-   "url": "https://www.usaspending.gov/award/CONT_AWD_GSQ0417DB0102_4732_GS00Q14OADU412_4732",
-   "new_this_run": false
-  },
-  {
    "title": "RECOVERY ACT AWARD ARRA FUNDED CODE: TAS::47 4543::TAS 1) CONTRACTOR TO PROVIDE ARCHITECT-ENGINEER DESIGN SERVICES FOR THE DEPARTMENT OF HOMELAND SECURITY (DHS) CONSOLIDATION PROJECT AT ST. ELIZABETH'S WEST CAMPUS IN WASHINGTON, DC PER THE ",
    "org": "ZIMMER GUNSUL FRASCA ARCHITECTS LLP",
    "location": null,
@@ -73,27 +33,11 @@
    "new_this_run": false
   },
   {
-   "title": "THIS WORK ORDER F17CW10587 (WO-07) TO OPEN TERM ID/IQ CONTRACT F15CC10132 AWARDED FOR PROVIDING INFORMATION TECHNOLOGY (IT) CUSTOMER DESK TOP REMEDIAL SUPPORT SERVICES FOR THE SMITHSONIAN INSTITUTION'S OFFICE OF THE CHIEF INFORMATION OFFICE",
-   "org": "INFOSTRUCTURES, INC.",
-   "location": null,
-   "detail": "$8,416,352 \u00b7 Smithsonian Institution \u00b7 start 2017-09-21",
-   "url": "https://www.usaspending.gov/award/CONT_AWD_F17CW10587_3300_F15CC10132_3300",
-   "new_this_run": false
-  },
-  {
    "title": "THE EMERGENCY RESPONSE BRANCH HAS A NEED TO SUPPLY KU-BAND SATELLITE INTERNET SERVICE, MAINTENANCE AND VOICE OVER INTERNET PROTOCOL (VOIP) SERVICE FOR ITS EXISTING 56 PORTABLE SATELLITE UNITS/MOBILE COMMAND POSTS (PSUS/MCPS). THE SATELLITE ",
    "org": "KNIGHT SKY LLC",
    "location": null,
    "detail": "$2,128,302 \u00b7 Environmental Protection Agency \u00b7 start 2017-11-14",
    "url": "https://www.usaspending.gov/award/CONT_AWD_EPW18001_6800_-NONE-_-NONE-",
-   "new_this_run": false
-  },
-  {
-   "title": "DEBT MANAGEMENT AND COLLECTIONS SYSTEM (DMCS) IGF::CT::IGF",
-   "org": "MAXIMUS FEDERAL SERVICES, INC.",
-   "location": null,
-   "detail": "$892,722,487 \u00b7 Department of Education \u00b7 start 2013-09-27",
-   "url": "https://www.usaspending.gov/award/CONT_AWD_EDFSA13C0021_9100_-NONE-_-NONE-",
    "new_this_run": false
   },
   {
@@ -113,43 +57,11 @@
    "new_this_run": false
   },
   {
-   "title": "DEAC2701RV14136",
-   "org": "BECHTEL NATIONAL, INC.",
-   "location": null,
-   "detail": "$17,956,041,439 \u00b7 Department of Energy \u00b7 start 2000-12-15",
-   "url": "https://www.usaspending.gov/award/CONT_AWD_DEAC2701RV14136_8900_-NONE-_-NONE-",
-   "new_this_run": false
-  },
-  {
-   "title": "CONTRACTOR SHALL PROVIDE NETAPP REFRESH STORAGE EQUIPMENT AND MANAGE SERVICES IN ACCORDANCE TO CONTRACT NO. DCSC-24-IFB-287 WHICH IS HEREBY INCORPORATED AND MADE A PART OF THIS PURCHASE ORDER.",
-   "org": "EPLUS TECHNOLOGY, INC.",
-   "location": null,
-   "detail": "$1,719,982 \u00b7 District of Columbia Courts \u00b7 start 2024-09-30",
-   "url": "https://www.usaspending.gov/award/CONT_AWD_95C67824P0444_9534_-NONE-_-NONE-",
-   "new_this_run": false
-  },
-  {
-   "title": "DC COURT OF APPEALS (DCCA) COURT CASE MANAGEMENT SYSTEM (CMS)",
-   "org": "WEST PUBLISHING CORPORATION",
-   "location": null,
-   "detail": "$4,028,464 \u00b7 District of Columbia Courts \u00b7 start 2024-09-26",
-   "url": "https://www.usaspending.gov/award/CONT_AWD_95C67824P0439_9534_-NONE-_-NONE-",
-   "new_this_run": false
-  },
-  {
    "title": "OMB CIRCULAR A123 AUDIT SUPPORT SERVICES",
    "org": "KEARNEY & COMPANY, P.C.",
    "location": null,
    "detail": "$1,554,564 \u00b7 Millennium Challenge Corporation \u00b7 start 2025-01-27",
    "url": "https://www.usaspending.gov/award/CONT_AWD_95332425F0029_9543_GS00F031DA_4732",
-   "new_this_run": false
-  },
-  {
-   "title": "MICROSOFT CLOUD OFFICE AND POWER PLATFORM SUPPORT SERVICES",
-   "org": "GOLDEN IT LLC",
-   "location": null,
-   "detail": "$6,852,030 \u00b7 Consumer Financial Protection Bureau \u00b7 start 2024-10-16",
-   "url": "https://www.usaspending.gov/award/CONT_AWD_9531CB25F0001_955F_47QTCB21D0090_4732",
    "new_this_run": false
   },
   {
@@ -161,83 +73,11 @@
    "new_this_run": false
   },
   {
-   "title": "MIGRANT STUDENT INFORMATION EXCHANGE (MSIX) DEVELOPMENT, MONITORING, AND MAINTENANCE CONTRACT IS TO PERFORM OPERATIONS, DEVELOPMENT, AND MAINTENANCE EFFORTS TO SUPPORT THE MSIX OF TITLE I, PART C, MIGRANT EDUCATION PROGRAMS (MEP).",
-   "org": "DELOITTE CONSULTING LLP",
-   "location": null,
-   "detail": "$20,023,153 \u00b7 Department of Education \u00b7 start 2022-12-15",
-   "url": "https://www.usaspending.gov/award/CONT_AWD_91990023C0007_9100_-NONE-_-NONE-",
-   "new_this_run": false
-  },
-  {
    "title": "OPERATIONS AND MAINTENANCE (O&M) TASK ORDER FOR STUDENT LOAN SERVICING IN ACCORDANCE WITH THE REQUIREMENTS OF THE USDS CONTRACT. ALL WORK AND DELIVERABLES PROVIDED BY THE USDS SERVICER MUST BE IN ACCORDANCE WITH THE REQUIREMENTS OF THE CONT",
    "org": "NELNET SERVICING LLC",
    "location": null,
    "detail": "$210,650,842 \u00b7 Department of Education \u00b7 start 2026-04-01",
    "url": "https://www.usaspending.gov/award/CONT_AWD_91003126F0022_9100_91003123D0005_9100",
-   "new_this_run": false
-  },
-  {
-   "title": "STEADY-STATE TASK ORDER 2 AWARDED AGAINST F.H. CANN'S NEXT GEN (NG) BUSINESS PROCESS OPERATIONS (BPO) IDIQ CONTRACT FOR NON-SERVICING AND SPECIALTY PROGRAMS (SPS) CONTACT CENTER SUPPORT AND BACK-OFFICE PROCESSING.",
-   "org": "F.H. CANN & ASSOCIATES, INC.",
-   "location": null,
-   "detail": "$94,698,838 \u00b7 Department of Education \u00b7 start 2024-11-01",
-   "url": "https://www.usaspending.gov/award/CONT_AWD_91003125F0304_9100_91003120D0008_9100",
-   "new_this_run": false
-  },
-  {
-   "title": "THE PURPOSE OF DMCS IS TO MANAGE THE DEFAULT LOAN PORTFOLIO, AND STORE, MANAGE, PROTECT, AND PROVIDE STUDENT LOAN DEBTORS IN DEFAULT AVAILABLE INFORMATION UNDER THE HEA. DMCS ENABLES BORROWERS, WHO SO CHOSE, TO MAKE PAYMENTS ON THEIR ACCOUN",
-   "org": "MAXIMUS FEDERAL SERVICES, INC.",
-   "location": null,
-   "detail": "$327,711,284 \u00b7 Department of Education \u00b7 start 2025-02-01",
-   "url": "https://www.usaspending.gov/award/CONT_AWD_91003125C0011_9100_-NONE-_-NONE-",
-   "new_this_run": false
-  },
-  {
-   "title": "THIS AWARD IS FOR THE SAVANNAH RIVER INTEGRATED MISSION COMPLETION CONTRACT - TASK ORDER 5 (SALTSTONE DISPOSAL UNITS 10-12).",
-   "org": "SAVANNAH RIVER MISSION COMPLETION, LLC",
-   "location": null,
-   "detail": "$318,848,618 \u00b7 Department of Energy \u00b7 start 2022-06-27",
-   "url": "https://www.usaspending.gov/award/CONT_AWD_89303722FEM400210_8900_89303322DEM000068_8900",
-   "new_this_run": false
-  },
-  {
-   "title": "ENVIRONMENTAL OPERATIONS TASK ORDER FOR NEVADA",
-   "org": "NAVARRO RESEARCH AND ENGINEERING, INC.",
-   "location": null,
-   "detail": "$146,718,265 \u00b7 Department of Energy \u00b7 start 2020-11-30",
-   "url": "https://www.usaspending.gov/award/CONT_AWD_89303321FEM400190_8900_89303320DEM000037_8900",
-   "new_this_run": false
-  },
-  {
-   "title": "HANFORD CENTRAL PLATEAU CLEANUP CONTRACT (CPCC) TASK ORDER 1 - TRANSITION",
-   "org": "CENTRAL PLATEAU CLEANUP COMPANY, LLC",
-   "location": null,
-   "detail": "$5,380,112 \u00b7 Department of Energy \u00b7 start 2019-12-13",
-   "url": "https://www.usaspending.gov/award/CONT_AWD_89303320FEM400139_8900_89303320DEM000030_8900",
-   "new_this_run": false
-  },
-  {
-   "title": "BLANKET PURCHASE AGREEMENT (BPA) ORDER FOR CHIEF INFORMATION OFFICER (CIO) BUSINESS OPERATIONS SUPPORT SERVICES (CBOSS) 2.0. ORDER LEVEL MATERIALS (OLM)",
-   "org": "ACCENTURE FEDERAL SERVICES LLC",
-   "location": null,
-   "detail": "$92,285,190 \u00b7 Department of Energy \u00b7 start 2025-12-18",
-   "url": "https://www.usaspending.gov/award/CONT_AWD_89303026FIM000188_8900_89303025AIM000023_8900",
-   "new_this_run": false
-  },
-  {
-   "title": "THE OBJECTIVE OF DELIVERY ORDER (DO) 89303024FIM000170 IS TO ESTABLISH A CONSOLIDATED CBOSS TASK ORDER TO SUPPORT MISSION AREA AND PROGRAM OFFICE SPECIFIC IT REQUIREMENTS. (ADD INCREMENTAL FUNDING AND ESTABLISH CEILINGS)",
-   "org": "ACCENTURE FEDERAL SERVICES LLC",
-   "location": null,
-   "detail": "$9,110,012 \u00b7 Department of Energy \u00b7 start 2025-08-28",
-   "url": "https://www.usaspending.gov/award/CONT_AWD_89303025FIM000170_8900_89303019AIM000005_8900",
-   "new_this_run": false
-  },
-  {
-   "title": "PROVIDE DIGITAL SUPPORT SERVICES FOR ENERGY.GOV AND OTHER PROJECTS",
-   "org": "ACCENTURE FEDERAL SERVICES LLC",
-   "location": null,
-   "detail": "$10,488,650 \u00b7 Department of Energy \u00b7 start 2024-05-29",
-   "url": "https://www.usaspending.gov/award/CONT_AWD_89303024FIM000152_8900_89303019AIM000005_8900",
    "new_this_run": false
   },
   {
@@ -249,27 +89,11 @@
    "new_this_run": false
   },
   {
-   "title": "THE PURPOSE OF THIS BPA CALL IS FOR FOLLOW-ON SUPPLY CHAIN RISK MANAGEMENT (SCRM) SUPPORT SERVICES FOR OCIO.",
-   "org": "ERNST & YOUNG LLP",
-   "location": null,
-   "detail": "$21,498,534 \u00b7 Department of Energy \u00b7 start 2022-07-19",
-   "url": "https://www.usaspending.gov/award/CONT_AWD_89303022FIM000087_8900_89303018ACF000005_8900",
-   "new_this_run": false
-  },
-  {
    "title": "LABOR PROGRAM MANAGEMENT/IT SUPPORT ENTERPRISE INFORMATION TECHNOLOGY SUPPORT SERVICES TO INCLUDE SOFTWARE DEVELOPMENT AND INTEGRATION, INFRASTRUCTURE ENGINEERING, SYSTEM MANAGEMENT AND HOSTING, DESKTOP SUPPORT, SERVICE DESK SUPPORT AND IT ",
    "org": "BLUEWATER FEDERAL SOLUTIONS, INC.",
    "location": null,
    "detail": "$85,763,311 \u00b7 Department of Energy \u00b7 start 2019-09-17",
    "url": "https://www.usaspending.gov/award/CONT_AWD_89303019FET400015_8900_GS00Q14OADS108_4732",
-   "new_this_run": false
-  },
-  {
-   "title": "PROGRAM MANAGEMENT SUPPORT",
-   "org": "PROFESSIONAL VETS CONSULTING GROUP, LLC",
-   "location": null,
-   "detail": "$2,204,034 \u00b7 Department of Energy \u00b7 start 2025-06-27",
-   "url": "https://www.usaspending.gov/award/CONT_AWD_89243625FCD000014_8900_47QRAA21D003Y_4732",
    "new_this_run": false
   },
   {
@@ -289,54 +113,6 @@
    "new_this_run": false
   },
   {
-   "title": "PROGRAM INFORMATION COLLECTION SYSTEM AD SUPPORT SERVICES (PICSSS) - UNDER THIS TASK ORDER CONTRACT, THE CONTRACTOR WILL PROVIDE EXPERTISE AND SERVICES TO IMPLEMENT INDUSTRY STANDARD PROGRAM MANAGEMENT AND CONTROL PRINCIPLES TO INCLUDE PROJ",
-   "org": "ALLEGHENY SCIENCE & TECHNOLOGY CORPORATION",
-   "location": null,
-   "detail": "$51,463,513 \u00b7 Department of Energy \u00b7 start 2023-05-01",
-   "url": "https://www.usaspending.gov/award/CONT_AWD_89243223FNE400097_8900_GS10F053AA_4732",
-   "new_this_run": false
-  },
-  {
-   "title": "BUDGET EXECUTION FORMULATION ANALYSIS SUPPORT TOOL (BEFAST)",
-   "org": "DELOITTE CONSULTING LLP",
-   "location": null,
-   "detail": "$13,182,598 \u00b7 Department of Energy \u00b7 start 2021-10-22",
-   "url": "https://www.usaspending.gov/award/CONT_AWD_89243122FSC400370_8900_GS35F0617Y_4732",
-   "new_this_run": false
-  },
-  {
-   "title": "CONTRACT FOR QUALITY ASSURANCE SERVICES FIRM FIXED PRICE",
-   "org": "ACATO INFORMATION MANAGEMENT, LLC",
-   "location": null,
-   "detail": "$3,828,457 \u00b7 Department of Energy \u00b7 start 2026-05-14",
-   "url": "https://www.usaspending.gov/award/CONT_AWD_89233126CNA000447_8900_-NONE-_-NONE-",
-   "new_this_run": false
-  },
-  {
-   "title": "U.S. DEPARTMENT OF ENERGY NATIONAL NUCLEAR SECURITY ADMINISTRATION (DOE/NNSA) OFFICE OF DEFENSE NUCLEAR SECURITY (NA-70)OPERATIONAL/ADMINISTRATIVE BUSINESS SUPPORT SERVICES",
-   "org": "COGENT SECURITY CONSULTING LLC",
-   "location": null,
-   "detail": "$1,195,882 \u00b7 Department of Energy \u00b7 start 2025-01-02",
-   "url": "https://www.usaspending.gov/award/CONT_AWD_89233125FNA400660_8900_GS00F301DA_4732",
-   "new_this_run": false
-  },
-  {
-   "title": "THE OBJECTIVE OF THIS CONTRACT IS TO MAINTAIN AND IMPROVE UPON A WELL-INTEGRATED PROGRAM OF MEDICAL DIRECTION, TRAINING AND MEDICAL SUPPORT SERVICES FOR THE OST.",
-   "org": "2SRG INC",
-   "location": null,
-   "detail": "$1,922,967 \u00b7 Department of Energy \u00b7 start 2025-02-28",
-   "url": "https://www.usaspending.gov/award/CONT_AWD_89233125CNA000391_8900_-NONE-_-NONE-",
-   "new_this_run": false
-  },
-  {
-   "title": "TECHNICAL SUPPORT SERVICES TO MAINTAIN AND IMPROVE THE LANMAS 4.0 PROGRAM",
-   "org": "WYANT DATA SYSTEMS, INC.",
-   "location": null,
-   "detail": "$3,892,004 \u00b7 Department of Energy \u00b7 start 2024-09-28",
-   "url": "https://www.usaspending.gov/award/CONT_AWD_89233124FNA400640_8900_47QTCA20D00BT_4732",
-   "new_this_run": false
-  },
-  {
    "title": "RESEARCH & DEVELOPMENT AND FABRICATION OF INERTIAL CONFINEMENT FUSION (ICF) TARGETS FOR THE OFFICE OF RTD&E NA-11, EXPERIMENTAL SCIENCES NA-113",
    "org": "GENERAL ATOMICS",
    "location": null,
@@ -353,43 +129,11 @@
    "new_this_run": false
   },
   {
-   "title": "DESIGN/BUILD (DB) SERVICES FOR THE Y-12 NATIONAL SECURITY COMPLEX(Y-12) JOHN M. GOOGIN TECHNOLOGY DEVELOPMENT FACILITY (GTDF) RENOVATION, LOCATED IN OAK RIDGE, TENNESSEE. INCLUDING DESIGN AND CONSTRUCTION SBA REQUIREMENT NUMBER IS OQ1669052",
-   "org": "ALEUT REMEDIATION LLC",
-   "location": null,
-   "detail": "$12,687,555 \u00b7 Department of Energy \u00b7 start 2023-09-15",
-   "url": "https://www.usaspending.gov/award/CONT_AWD_89233123CNA000326_8900_-NONE-_-NONE-",
-   "new_this_run": false
-  },
-  {
-   "title": "PROVIDE PROCUREMENT/CONTRACT SPECIALIST SUPPORT SERVICES THROUGH PROFESSIONAL AND ADMINISTRATIVE SUPPORT SERVICES (PASS) BLANKET PURCHASE AGREEMENT",
-   "org": "THE BUILDING PEOPLE LLC",
-   "location": null,
-   "detail": "$10,969,651 \u00b7 Department of Energy \u00b7 start 2022-07-07",
-   "url": "https://www.usaspending.gov/award/CONT_AWD_89233122FNA000102_8900_89303020AMA000016_8900",
-   "new_this_run": false
-  },
-  {
    "title": "IGF:CL:IGF U.S. DEPARTMENT OF ENERGY, NATIONAL NUCLEAR SECURITY ADMINISTRATION'S (DOE/NNSA) TECHNICAL, ENGINEERING, AND PROGRAMMATIC SUPPORT SERVICES II (TEPS II) BLANKET PURCHASE AGREEMENT (BPA) HOLDERS-- TECHNICAL SUPPORT SERVICES FOR THE",
    "org": "NAVARRO RESEARCH AND ENGINEERING, INC.",
    "location": null,
    "detail": "$2,212,792 \u00b7 Department of Energy \u00b7 start 2021-09-30",
    "url": "https://www.usaspending.gov/award/CONT_AWD_89233121FNA400384_8900_GS00F0092N_4730",
-   "new_this_run": false
-  },
-  {
-   "title": "THIS IS A FIRM-FIXED-PRICE TASK ORDER FOR PARKING GARAGE REPAIR AT A2 FACILITY FOR THE POP: 9/15/2025 - 9/14/2026",
-   "org": "GRUNLEY CONSTRUCTION CO., INC.",
-   "location": null,
-   "detail": "$2,471,691 \u00b7 National Archives and Records Administration \u00b7 start 2025-09-15",
-   "url": "https://www.usaspending.gov/award/CONT_AWD_88310325F00266_8800_88310320D00010_8800",
-   "new_this_run": false
-  },
-  {
-   "title": "THIS IS A FIRM-FIXED-PRICE TASK ORDER FOR MECHANICAL REPLACEMENT PHASE 1 AT A 2 FACILITY FOR THE POP: 9/1/2025 - 8/31/2026",
-   "org": "GRUNLEY CONSTRUCTION CO., INC.",
-   "location": null,
-   "detail": "$1,258,265 \u00b7 National Archives and Records Administration \u00b7 start 2025-09-09",
-   "url": "https://www.usaspending.gov/award/CONT_AWD_88310325F00241_8800_88310320D00010_8800",
    "new_this_run": false
   },
   {
@@ -401,35 +145,11 @@
    "new_this_run": false
   },
   {
-   "title": "THIS TASK ORDER PROVIDES CFM SERVICES FOR THE CLINTON LIBRARY LOCATED IN LITTLE ROCK, AR IAW THE INCORPORATED PWS AND RAVEN SERVICES CORPORATION'S QUOTE DATED 7/16/2025 FOR THE POP 8/1/2025-7/31/2030",
-   "org": "RAVEN SERVICES CORP",
-   "location": null,
-   "detail": "$2,105,221 \u00b7 National Archives and Records Administration \u00b7 start 2025-08-01",
-   "url": "https://www.usaspending.gov/award/CONT_AWD_88310325F00201_8800_47QSHA19D001X_4732",
-   "new_this_run": false
-  },
-  {
-   "title": "THIS IS FIRM-FIXED PRICE CONTRACT FOR CONSOLIDATED FACILITIES MANAGEMENT SERVICES (CFM) AT THE LYNDON B. JOHNSON PRESIDENTIAL LIBRARY AND MUSEUM FOR THE PERIOD OCTOBER 1, 2024 THROUGH SEPTEMBER 30, 2025 PLUS 4 OPTION YEARS.",
-   "org": "UNIVERSITY OF TEXAS AT AUSTIN",
-   "location": null,
-   "detail": "$4,356,756 \u00b7 National Archives and Records Administration \u00b7 start 2024-10-01",
-   "url": "https://www.usaspending.gov/award/CONT_AWD_88310325C00004_8800_-NONE-_-NONE-",
-   "new_this_run": false
-  },
-  {
    "title": "NEW CONTRACT FOR CFM SERVICES AT THE JOHN F. KENNEDY PRESIDENTIAL LIBRARY.",
    "org": "WORK INC",
    "location": null,
    "detail": "$10,979,591 \u00b7 National Archives and Records Administration \u00b7 start 2023-04-01",
    "url": "https://www.usaspending.gov/award/CONT_AWD_88310323C00003_8800_-NONE-_-NONE-",
-   "new_this_run": false
-  },
-  {
-   "title": "NEW TASK ORDER FOR ELECTRIC SERVICE AT ARCHIVES I. IGF::OT::IGF FOR OTHER FUNCTIONS",
-   "org": "POTOMAC ELECTRIC POWER CO",
-   "location": null,
-   "detail": "$13,697,103 \u00b7 National Archives and Records Administration \u00b7 start 2017-10-01",
-   "url": "https://www.usaspending.gov/award/CONT_AWD_88310318F00002_8800_GS00P10BSD0725_4740",
    "new_this_run": false
   },
   {
@@ -441,67 +161,11 @@
    "new_this_run": false
   },
   {
-   "title": "NASA CONSOLIDATED APPLICATION AND PLATFORM SERVICES (NCAPS)",
-   "org": "CACI, INC. - FEDERAL",
-   "location": null,
-   "detail": "$312,765,701 \u00b7 National Aeronautics and Space Administration \u00b7 start 2024-07-03",
-   "url": "https://www.usaspending.gov/award/CONT_AWD_80TECH24CA002_8000_-NONE-_-NONE-",
-   "new_this_run": false
-  },
-  {
    "title": "KECK SINGLE APERTURE (KSA) OPERATIONS 79-15015",
    "org": "CALIFORNIA INSTITUTE OF TECHNOLOGY",
    "location": null,
    "detail": "$21,663,853 \u00b7 National Aeronautics and Space Administration \u00b7 start 2018-10-01",
    "url": "https://www.usaspending.gov/award/CONT_AWD_80NM0018F0708_8000_80NM0018D0004_8000",
-   "new_this_run": false
-  },
-  {
-   "title": "MARSHALL SPACE FLIGHT CENTER PP&C II TASK ORDER",
-   "org": "ARES TECHNICAL SERVICES CORPORATION",
-   "location": null,
-   "detail": "$12,396,464 \u00b7 National Aeronautics and Space Administration \u00b7 start 2026-09-01",
-   "url": "https://www.usaspending.gov/award/CONT_AWD_80MSFC26F0030_8000_80MSFC26D0002_8000",
-   "new_this_run": false
-  },
-  {
-   "title": "MSFC LOGISTICS SUPPORT SERVICES II OPTION PERIOD 1 NON-OPERATIONAL SUPPORT SERVICES",
-   "org": "AKIMA GLOBAL LOGISTICS, LLC",
-   "location": null,
-   "detail": "$4,409,909 \u00b7 National Aeronautics and Space Administration \u00b7 start 2025-09-04",
-   "url": "https://www.usaspending.gov/award/CONT_AWD_80MSFC25FA087_8000_80MSFC24DA025_8000",
-   "new_this_run": false
-  },
-  {
-   "title": "LUNAR SURFACE INNOVATION INITIATIVE (LSII) UNDER ARDES II 80MSFC20D0004",
-   "org": "THE JOHNS HOPKINS UNIVERSITY APPLIED PHYSICS LABORATORY LLC",
-   "location": null,
-   "detail": "$17,637,112 \u00b7 National Aeronautics and Space Administration \u00b7 start 2025-01-11",
-   "url": "https://www.usaspending.gov/award/CONT_AWD_80MSFC25F7006_8000_80MSFC20D0004_8000",
-   "new_this_run": false
-  },
-  {
-   "title": "NEW HORIZONS EXTENDED MISSION SUPPORT",
-   "org": "THE JOHNS HOPKINS UNIVERSITY APPLIED PHYSICS LABORATORY LLC",
-   "location": null,
-   "detail": "$12,915,688 \u00b7 National Aeronautics and Space Administration \u00b7 start 2024-11-11",
-   "url": "https://www.usaspending.gov/award/CONT_AWD_80MSFC25F7001_8000_80MSFC20D0004_8000",
-   "new_this_run": false
-  },
-  {
-   "title": "NASA TECHNICAL STANDARD SYSTEMS",
-   "org": "ALLIUM US HOLDING LLC",
-   "location": null,
-   "detail": "$6,556,032 \u00b7 National Aeronautics and Space Administration \u00b7 start 2024-08-16",
-   "url": "https://www.usaspending.gov/award/CONT_AWD_80MSFC24CA005_8000_-NONE-_-NONE-",
-   "new_this_run": false
-  },
-  {
-   "title": "SAMPLR: SAMPLE ACQUISITION, MORPHOLOGY FILTERING, AND PROBING OF LUNAR REGOLITH SELECTED UNDER THE NASA RESEARCH OPPORTUNITIES IN SPACE AND EARTH SCIENCES (ROSES) LUNAR SURFACE INSTRUMENT AND TECHNOLOGY PAYLOADS (LSITP) (AO) NNH18ZDA001N",
-   "org": "LANTERIS SPACE LLC",
-   "location": null,
-   "detail": "$8,262,969 \u00b7 National Aeronautics and Space Administration \u00b7 start 2020-01-10",
-   "url": "https://www.usaspending.gov/award/CONT_AWD_80MSFC20C0026_8000_-NONE-_-NONE-",
    "new_this_run": false
   },
   {
@@ -513,14 +177,6 @@
    "new_this_run": false
   },
   {
-   "title": "NASA LANGLEY RESEARCH CENTER ENVIRONMENTAL SUPPORT SERVICES",
-   "org": "BB&E, INC.",
-   "location": null,
-   "detail": "$2,352,632 \u00b7 National Aeronautics and Space Administration \u00b7 start 2025-09-08",
-   "url": "https://www.usaspending.gov/award/CONT_AWD_80LARC25F0004_8000_80KSC025A0002_8000",
-   "new_this_run": false
-  },
-  {
    "title": "EXPLORATION EXTRAVEHICULAR ACTIVITY SERVICES (XEVAS) DELIVERY ORDER 5 PROVIDES FOR PRODUCTION, TESTING, CERTIFICATION, DELIVERY, SUSTAINMENT, REPAIR, REFURBISHMENT, AND ENHANCEMENT OF SORTIE SUIT HARDWARE FOR NASA EXPLORATION MISSIONS.",
    "org": "AXIOM SPACE INC",
    "location": null,
@@ -529,147 +185,11 @@
    "new_this_run": false
   },
   {
-   "title": "JSC SECURITY SERVICES",
-   "org": "CHENEGA GLOBAL PROTECTION, LLC",
-   "location": null,
-   "detail": "$6,683,362 \u00b7 National Aeronautics and Space Administration \u00b7 start 2026-10-01",
-   "url": "https://www.usaspending.gov/award/CONT_AWD_80JSC026FA142_8000_80KSC022DA001_8000",
-   "new_this_run": false
-  },
-  {
-   "title": "NATURAL GAS (UTILITIES) SUPPLY AND RELATED DELIVERY SERVICES FOR NASA JOHNSON SPACE CENTER (JSC), ELLINGTON FIELD (EF) AND SONNY CARTER TRAINING FACILITY (SCTF).",
-   "org": "SAGE ENERGY TRADING LLC",
-   "location": null,
-   "detail": "$8,189,273 \u00b7 National Aeronautics and Space Administration \u00b7 start 2025-11-01",
-   "url": "https://www.usaspending.gov/award/CONT_AWD_80JSC025FA190_8000_47PA0825D0036_4740",
-   "new_this_run": false
-  },
-  {
-   "title": "ELECTRICITY SUPPLY & ANCILLARY SERVICES FOR JSC (JSC, EF, SCTF)",
-   "org": "GEXA ENERGY, LP",
-   "location": null,
-   "detail": "$17,138,321 \u00b7 National Aeronautics and Space Administration \u00b7 start 2024-01-01",
-   "url": "https://www.usaspending.gov/award/CONT_AWD_80JSC024FA048_8000_SPE60424D8002_9700",
-   "new_this_run": false
-  },
-  {
-   "title": "WATER AND SEWAGE TREATMENT UTILITY CONTRACT",
-   "org": "CLEAR LAKE CITY WATER AUTHORITY",
-   "location": null,
-   "detail": "$15,172,994 \u00b7 National Aeronautics and Space Administration \u00b7 start 2021-09-15",
-   "url": "https://www.usaspending.gov/award/CONT_AWD_80JSC021CA004_8000_-NONE-_-NONE-",
-   "new_this_run": false
-  },
-  {
-   "title": "SYSTEMS AND SOFTWARE ENGINEERING TOOLS 2 (SET 2) BRIDGE CONTRACT PROVIDES SPECIALIZED SYSTEMS AND SOFTWARE ENGINEERING SUPPORT FOR ONGOING SET 2 AWARDED PROJECTS UNTIL THE FOLLOW-ON CONTRACT IS AWARDED.",
-   "org": "TMC TECHNOLOGIES OF WEST VIRGINIA CORP",
-   "location": null,
-   "detail": "$3,132,622 \u00b7 National Aeronautics and Space Administration \u00b7 start 2026-06-01",
-   "url": "https://www.usaspending.gov/award/CONT_AWD_80GSFC26F0014_8000_47QTCA24D0055_4732",
-   "new_this_run": false
-  },
-  {
-   "title": "THE PURPOSE OF THIS CONTRACT IS TO ACQUIRE REPAIRS, OPERATIONS & MAINTENANCE, AND ENGINEERING (ROME) AND RELATED SERVICES FOR THE GODDARD SPACE FLIGHT CENTER (GREENBELT AND WALLOPS FLIGHT FACILITY).",
-   "org": "ASRC FEDERAL FACILITIES LOGISTICS LLC",
-   "location": null,
-   "detail": "$261,005,811 \u00b7 National Aeronautics and Space Administration \u00b7 start 2023-09-15",
-   "url": "https://www.usaspending.gov/award/CONT_AWD_80GSFC23CA052_8000_-NONE-_-NONE-",
-   "new_this_run": false
-  },
-  {
-   "title": "DRAGONFLY MASS SPECTROMETER (DRAMS), ELECTRONICS MODULES (EM)",
-   "org": "REGENTS OF THE UNIVERSITY OF MICHIGAN",
-   "location": null,
-   "detail": "$10,085,716 \u00b7 National Aeronautics and Space Administration \u00b7 start 2021-03-25",
-   "url": "https://www.usaspending.gov/award/CONT_AWD_80GSFC21C0037_8000_-NONE-_-NONE-",
-   "new_this_run": false
-  },
-  {
-   "title": "THE PURPOSE OF THIS CONTRACT IS TO ACQUIRE SCIENTIFIC RESEARCH SERVICES THAT CONCEIVES, DEVELOPS AND APPLIES SPACE, FIELD-DEPLOYED (I.E. AIRBORNE AND IN SITU) AND LABORATORY BASED TECHNOLOGIES AND OBSERVATIONS OF THE EARTH SYSTEMS.",
-   "org": "SCIENCE SYSTEMS AND APPLICATIONS, INC.",
-   "location": null,
-   "detail": "$497,006,715 \u00b7 National Aeronautics and Space Administration \u00b7 start 2020-04-01",
-   "url": "https://www.usaspending.gov/award/CONT_AWD_80GSFC20C0044_8000_-NONE-_-NONE-",
-   "new_this_run": false
-  },
-  {
-   "title": "UNDER THIS CONTRACT, THE CONTRACTOR WILL PROVIDE THE PERSONNEL, MATERIALS, EQUIPMENT, AND FACILITIES NECESSARY TO PRODUCE THE POLARIMETER TO UNIFY THE CORONA HELIOSPHERE (PUNCH) PHASE A CONCEPT STUDY. THE SCOPE OF THIS EFFORT INCLUDES, BUT ",
-   "org": "SOUTHWEST RESEARCH INSTITUTE",
-   "location": null,
-   "detail": "$143,551,157 \u00b7 National Aeronautics and Space Administration \u00b7 start 2017-11-22",
-   "url": "https://www.usaspending.gov/award/CONT_AWD_80GSFC18C0014_8000_-NONE-_-NONE-",
-   "new_this_run": false
-  },
-  {
    "title": "THE CONTRACTOR SHALL DESIGN, FABRICATE, PROCURE, TEST, VERIFY, AND DOCUMENT THE REACTOR CONTROL BOX (RCB) HARDWARE FOR THE SR-1 FREEDOM MISSION IN ACCORDANCE WITH THE STATEMENT OF WORK AND OTHER CONTRACT ATTACHMENTS.",
    "org": "AITECH DEFENSE SYSTEMS INC",
    "location": null,
    "detail": "$15,381,506 \u00b7 National Aeronautics and Space Administration \u00b7 start 2026-11-13",
    "url": "https://www.usaspending.gov/award/CONT_AWD_80GRC027C0003_8000_-NONE-_-NONE-",
-   "new_this_run": false
-  },
-  {
-   "title": "HVAC AND PLUMBING REPAIRS",
-   "org": "ERIE AFFILIATES INC",
-   "location": null,
-   "detail": "$1,678,697 \u00b7 National Aeronautics and Space Administration \u00b7 start 2026-05-29",
-   "url": "https://www.usaspending.gov/award/CONT_AWD_80GRC026F7034_8000_80GRC020D0009_8000",
-   "new_this_run": false
-  },
-  {
-   "title": "DEVELOP A MINIMUM VIABLE SOLUTION OF A 5G NEW RADIO (5G-NR) USER EQUIPMENT (UE) AND 5G NETWORK-IN-A-BOX (NIB) FOR SUBSEQUENT LUNAR MISSIONS.",
-   "org": "MODULATE SPACE CORPORATION",
-   "location": null,
-   "detail": "$22,998,442 \u00b7 National Aeronautics and Space Administration \u00b7 start 2026-10-01",
-   "url": "https://www.usaspending.gov/award/CONT_AWD_80GRC026C0017_8000_-NONE-_-NONE-",
-   "new_this_run": false
-  },
-  {
-   "title": "LF WATER UTILITY SERVICE",
-   "org": "NORTHEAST OHIO REGIONAL SEWER DISTRICT",
-   "location": null,
-   "detail": "$4,471,939 \u00b7 National Aeronautics and Space Administration \u00b7 start 2020-12-01",
-   "url": "https://www.usaspending.gov/award/CONT_AWD_80GRC021C0023_8000_-NONE-_-NONE-",
-   "new_this_run": false
-  },
-  {
-   "title": "NATURAL GAS TRANSPORT UTILITY",
-   "org": "THE EAST OHIO GAS COMPANY",
-   "location": null,
-   "detail": "$2,109,264 \u00b7 National Aeronautics and Space Administration \u00b7 start 2020-04-01",
-   "url": "https://www.usaspending.gov/award/CONT_AWD_80GRC020F0101_8000_47PA0419D0006_4740",
-   "new_this_run": false
-  },
-  {
-   "title": "ELECTRIC UTILITY SERVICE",
-   "org": "OHIO EDISON COMPANY",
-   "location": null,
-   "detail": "$6,302,123 \u00b7 National Aeronautics and Space Administration \u00b7 start 2020-04-01",
-   "url": "https://www.usaspending.gov/award/CONT_AWD_80GRC020F0100_8000_47PA0420D0010_4740",
-   "new_this_run": false
-  },
-  {
-   "title": "THIS TASK ORDER PROVIDES SUPPORT FOR VARIOUS PROJECTS IN THE ENTRY SYSTEMS AND TECHNOLOGY DIVISION. THIS TASK INCLUDES REQUIREMENTS TO SUPPORT THERMAL PROTECTION SYSTEMS.",
-   "org": "ANALYTICAL MECHANICS ASSOCIATES, INC.",
-   "location": null,
-   "detail": "$11,691,997 \u00b7 National Aeronautics and Space Administration \u00b7 start 2026-04-01",
-   "url": "https://www.usaspending.gov/award/CONT_AWD_80ARC026F0012_8000_80ARC025D0003_8000",
-   "new_this_run": false
-  },
-  {
-   "title": "HIRING OF 3 LATAM CONTRACTORS AS PART OF THE GLOBAL SUPPORT CONTRACT (OCOO)",
-   "org": "CROSSBOUNDARY LLC",
-   "location": null,
-   "detail": "$4,665,180 \u00b7 U.S. International Development Finance Corporation \u00b7 start 2024-05-06",
-   "url": "https://www.usaspending.gov/award/CONT_AWD_77344424F0066_7700_77344423D0025_7700",
-   "new_this_run": false
-  },
-  {
-   "title": "UKRAINE PROJECT SUPPORT CONSULTANT",
-   "org": "CROSSBOUNDARY LLC",
-   "location": null,
-   "detail": "$1,430,200 \u00b7 U.S. International Development Finance Corporation \u00b7 start 2024-04-03",
-   "url": "https://www.usaspending.gov/award/CONT_AWD_77344424F0042_7700_77344423D0025_7700",
    "new_this_run": false
   },
   {
@@ -689,67 +209,11 @@
    "new_this_run": false
   },
   {
-   "title": "OFAAM131 C 6457 ACQUISITION SUPPORT SERVICES",
-   "org": "KAIVA TECH, LLC",
-   "location": null,
-   "detail": "$2,191,910 \u00b7 Department of Health and Human Services \u00b7 start 2026-05-14",
-   "url": "https://www.usaspending.gov/award/CONT_AWD_75R60226F34001_7526_75R60226D00001_7526",
-   "new_this_run": false
-  },
-  {
-   "title": "5600 FISHERS LANE AND SOUTH LOT PARKING",
-   "org": "5600 FISHERS LANE LLC",
-   "location": null,
-   "detail": "$21,603,189 \u00b7 Department of Health and Human Services \u00b7 start 2020-02-23",
-   "url": "https://www.usaspending.gov/award/CONT_AWD_75P00120C00014_7570_-NONE-_-NONE-",
-   "new_this_run": false
-  },
-  {
-   "title": "DATA SYSTEMS OPERATION AND MAINTENANCE SERVICES FOR THE HHS/ACL OFFICE OF HEALTHCARE INFORMATION AND COUNSELING (OHIC).",
-   "org": "BOOZ ALLEN HAMILTON INC",
-   "location": null,
-   "detail": "$10,397,455 \u00b7 Department of Health and Human Services \u00b7 start 2019-09-01",
-   "url": "https://www.usaspending.gov/award/CONT_AWD_75P00119F80170_7570_HHSN316201200008W_7529",
-   "new_this_run": false
-  },
-  {
-   "title": "ACQUISITION AND PROJECT MANAGEMENT OFFICE (PMO) SUPPORT FOR SINGLE AUDIT AND RISK MANAGEMENT SHARED SOLUTIO",
-   "org": "MCH CONSULTING SERVICES LLC",
-   "location": null,
-   "detail": "$1,033,959 \u00b7 Department of Health and Human Services \u00b7 start 2019-09-10",
-   "url": "https://www.usaspending.gov/award/CONT_AWD_75P00119C00074_7570_-NONE-_-NONE-",
-   "new_this_run": false
-  },
-  {
-   "title": "OPTION YEAR 2",
-   "org": "CAREER MANAGEMENT INTERNATIONAL INC",
-   "location": null,
-   "detail": "$2,065,376 \u00b7 Department of Health and Human Services \u00b7 start 2026-10-01",
-   "url": "https://www.usaspending.gov/award/CONT_AWD_75N99227F00001_7529_75N99224D00006_7529",
-   "new_this_run": false
-  },
-  {
    "title": "THIS PERFORMANCE WORK STATEMENT DESCRIBES THE REQUIREMENT FOR FLEXIBLE CO-WORKING SPACE AS A SERVICE FOR ARPA-H IN THE NATIONAL CAPITAL REGION. THE CONTRACTOR SHALL PROVIDE FLEXIBLE CO-WORKING SPACE AS A SERVICE FOR THE DURATION OF THE PERF",
    "org": "HINES GS PROPERTIES LLC",
    "location": null,
    "detail": "$11,358,845 \u00b7 Department of Health and Human Services \u00b7 start 2023-11-16",
    "url": "https://www.usaspending.gov/award/CONT_AWD_75N99224C00001_7529_-NONE-_-NONE-",
-   "new_this_run": false
-  },
-  {
-   "title": "C201997-B10 ROOF REPLACEMENT SECTS 5,6,33,34",
-   "org": "DOLIVEIRA SYSTEMS LLC",
-   "location": null,
-   "detail": "$2,714,362 \u00b7 Department of Health and Human Services \u00b7 start 2026-09-21",
-   "url": "https://www.usaspending.gov/award/CONT_AWD_75N99026C00034_7529_-NONE-_-NONE-",
-   "new_this_run": false
-  },
-  {
-   "title": "WSSC (WATER) NIH CAMPUS AND LEASE INVOICING (FY22) CONTRACT# 75N99022C00001",
-   "org": "WASHINGTON SUBURBAN SANITARY COMMISSION",
-   "location": null,
-   "detail": "$82,759,869 \u00b7 Department of Health and Human Services \u00b7 start 2021-11-10",
-   "url": "https://www.usaspending.gov/award/CONT_AWD_75N99022C00001_7529_-NONE-_-NONE-",
    "new_this_run": false
   },
   {
@@ -761,35 +225,11 @@
    "new_this_run": false
   },
   {
-   "title": "PCA-OD-06986; VERTICAL CONVEYANCE SYSTEM-ELEVATOR MAINTENANCE CONTRACT FOR NIH BETHESDA (JULY 1, 2026 - JUNE 30, 2027)",
-   "org": "AKIMA GLOBAL LOGISTICS, LLC",
-   "location": null,
-   "detail": "$7,828,135 \u00b7 Department of Health and Human Services \u00b7 start 2026-07-01",
-   "url": "https://www.usaspending.gov/award/CONT_AWD_75N98026F00224_7529_47QRCA25DA055_4732",
-   "new_this_run": false
-  },
-  {
-   "title": "CIT EMERGENCY CALL CENTER SUPPORT",
-   "org": "CFOCUS SOFTWARE INCORPORATED",
-   "location": null,
-   "detail": "$2,511,024 \u00b7 Department of Health and Human Services \u00b7 start 2026-05-18",
-   "url": "https://www.usaspending.gov/award/CONT_AWD_75N98026F00124_7529_GS35F499AA_4732",
-   "new_this_run": false
-  },
-  {
    "title": "DEFENSE CIVILIAN MEDICAL ASSOCIATES, LLC:1354718 [26-002707]",
    "org": "DEFENSE CIVILIAN MEDICAL ASSOCIATES, LLC",
    "location": null,
    "detail": "$1,411,162 \u00b7 Department of Health and Human Services \u00b7 start 2026-03-01",
    "url": "https://www.usaspending.gov/award/CONT_AWD_75N98026F00001_7529_75N90022A00002_7529",
-   "new_this_run": false
-  },
-  {
-   "title": "SUPPORT FOR CLINICAL TRIALS INFORMATION",
-   "org": "ICF INCORPORATED, L.L.C.",
-   "location": null,
-   "detail": "$29,433,052 \u00b7 Department of Health and Human Services \u00b7 start 2020-09-30",
-   "url": "https://www.usaspending.gov/award/CONT_AWD_75N97020F00002_7529_75N97020A00019_7529",
    "new_this_run": false
   },
   {
@@ -801,12 +241,572 @@
    "new_this_run": false
   },
   {
-   "title": "SOAR-D12-05135 KELLY -- TASK ORDER # 532",
+   "title": "SOAR-D12-04876 KELLY -- TASK ORDER # 496",
    "org": "KELLY SERVICES, INC.",
    "location": null,
-   "detail": "$3,113,846 \u00b7 Department of Health and Human Services \u00b7 start 2021-07-07",
-   "url": "https://www.usaspending.gov/award/CONT_AWD_75N95025F00053_7529_75N95021D00012_7529",
-   "new_this_run": false
+   "detail": "$8,897,908 \u00b7 Department of Health and Human Services \u00b7 start 2021-07-07",
+   "url": "https://www.usaspending.gov/award/CONT_AWD_75N95025F00018_7529_75N95021D00012_7529",
+   "new_this_run": true
+  },
+  {
+   "title": "SOAR-D12-04823 KELLY -- TASK ORDER # 492",
+   "org": "KELLY SERVICES, INC.",
+   "location": null,
+   "detail": "$3,660,056 \u00b7 Department of Health and Human Services \u00b7 start 2021-07-07",
+   "url": "https://www.usaspending.gov/award/CONT_AWD_75N95025F00013_7529_75N95021D00012_7529",
+   "new_this_run": true
+  },
+  {
+   "title": "SOAR - TO332_75N95025F00010",
+   "org": "GAP SOLUTIONS, INC.",
+   "location": null,
+   "detail": "$1,179,066 \u00b7 Department of Health and Human Services \u00b7 start 2021-07-08",
+   "url": "https://www.usaspending.gov/award/CONT_AWD_75N95025F00010_7529_75N95021D00011_7529",
+   "new_this_run": true
+  },
+  {
+   "title": "SOAR-D10-01264 AXLE -- TASK ORDER # 357",
+   "org": "AXLE INFORMATICS, LLC",
+   "location": null,
+   "detail": "$2,524,337 \u00b7 Department of Health and Human Services \u00b7 start 2021-07-08",
+   "url": "https://www.usaspending.gov/award/CONT_AWD_75N95025F00007_7529_75N95021D00010_7529",
+   "new_this_run": true
+  },
+  {
+   "title": "SOAR-D19-00442 22ND -- TASK ORDER # 235",
+   "org": "22ND CENTURY TECHNOLOGIES, INC.",
+   "location": null,
+   "detail": "$2,407,489 \u00b7 Department of Health and Human Services \u00b7 start 2021-07-08",
+   "url": "https://www.usaspending.gov/award/CONT_AWD_75N95025F00002_7529_75N95021D00019_7529",
+   "new_this_run": true
+  },
+  {
+   "title": "SOAR-D10-01110 AXLE -- TASK ORDER # 327",
+   "org": "AXLE INFORMATICS, LLC",
+   "location": null,
+   "detail": "$3,857,660 \u00b7 Department of Health and Human Services \u00b7 start 2021-07-08",
+   "url": "https://www.usaspending.gov/award/CONT_AWD_75N95024F00093_7529_75N95021D00010_7529",
+   "new_this_run": true
+  },
+  {
+   "title": "SOAR-D12-03990 KELLY -- TASK ORDER # 407 SCIENTIFIC, OPERATIONS, AND ADMINISTRATIVE RESOURCES (SOAR) TO THE NIH",
+   "org": "KELLY SERVICES, INC.",
+   "location": null,
+   "detail": "$2,044,938 \u00b7 Department of Health and Human Services \u00b7 start 2021-07-07",
+   "url": "https://www.usaspending.gov/award/CONT_AWD_75N95024F00073_7529_75N95021D00012_7529",
+   "new_this_run": true
+  },
+  {
+   "title": "PROVIDE MEETING LOGISTICAL SUPPORT FOR IC WIDE MEETINGS/CONFERENCES.",
+   "org": "MIAMI ENVIRONMENTAL & ENERGY SOLUTIONS LLC",
+   "location": null,
+   "detail": "$5,015,513 \u00b7 Department of Health and Human Services \u00b7 start 2023-12-04",
+   "url": "https://www.usaspending.gov/award/CONT_AWD_75N95024C00002_7529_-NONE-_-NONE-",
+   "new_this_run": true
+  },
+  {
+   "title": "HHSN275201400003I/HHSN27500037 - STORAGE OF NUMOM2B SPECIMENS FOR THE PREGNANCY AND PERINATOLOGY BRANCH OF NICHD - FISHER BIOSERVICES - CAN 8014735",
+   "org": "FISHER BIOSERVICES INC",
+   "location": null,
+   "detail": "$1,609,775 \u00b7 Department of Health and Human Services \u00b7 start 2018-09-25",
+   "url": "https://www.usaspending.gov/award/CONT_AWD_75N94018F00037_7529_HHSN275201400003I_7529",
+   "new_this_run": true
+  },
+  {
+   "title": "BASE AWARD",
+   "org": "UNIVERSITY OF MARYLAND, BALTIMORE",
+   "location": null,
+   "detail": "$11,194,341 \u00b7 Department of Health and Human Services \u00b7 start 2023-09-30",
+   "url": "https://www.usaspending.gov/award/CONT_AWD_75N93023C00046_7529_-NONE-_-NONE-",
+   "new_this_run": true
+  },
+  {
+   "title": "THE ATHEROSCLEROSIS RISK IN COMMUNITIES (ARIC) STUDY - FIELD CENTER - TASK ORDER 01, TASK AREA A",
+   "org": "WAKE FOREST UNIVERSITY HEALTH SCIENCES",
+   "location": null,
+   "detail": "$5,823,755 \u00b7 Department of Health and Human Services \u00b7 start 2021-11-15",
+   "url": "https://www.usaspending.gov/award/CONT_AWD_75N92022F00001_7529_75N92022D00005_7529",
+   "new_this_run": true
+  },
+  {
+   "title": "THE ATHEROSCLEROSIS RISK IN COMMUNITIES (ARIC) STUDY - COORDINATING CENTER - CORE STUDY OPERATIONS- TASK ORDER 01, TASK AREA A",
+   "org": "UNIVERSITY OF NORTH CAROLINA AT CHAPEL HILL",
+   "location": null,
+   "detail": "$16,528,150 \u00b7 Department of Health and Human Services \u00b7 start 2021-11-15",
+   "url": "https://www.usaspending.gov/award/CONT_AWD_75N92022F00001_7529_75N92022D00001_7529",
+   "new_this_run": true
+  },
+  {
+   "title": "PRIME VENDOR PHARMACEUTICALS - CRSU",
+   "org": "MCKESSON CORPORATION",
+   "location": null,
+   "detail": "$1,597,698 \u00b7 Department of Health and Human Services \u00b7 start 2022-04-28",
+   "url": "https://www.usaspending.gov/award/CONT_AWD_75H71222F80098_7527_36W79720D0001_3600",
+   "new_this_run": true
+  },
+  {
+   "title": "MCKESSON PRIME VENDOR - CRSU",
+   "org": "MCKESSON CORPORATION",
+   "location": null,
+   "detail": "$1,521,780 \u00b7 Department of Health and Human Services \u00b7 start 2021-12-30",
+   "url": "https://www.usaspending.gov/award/CONT_AWD_75H71222F80043_7527_36W79720D0001_3600",
+   "new_this_run": true
+  },
+  {
+   "title": "LAWTON ER PHYSICIAN SERVICES",
+   "org": "CHENEGA GOVERNMENT MISSION SOLUTIONS, LLC",
+   "location": null,
+   "detail": "$6,786,646 \u00b7 Department of Health and Human Services \u00b7 start 2025-09-17",
+   "url": "https://www.usaspending.gov/award/CONT_AWD_75H71125C00016_7527_-NONE-_-NONE-",
+   "new_this_run": true
+  },
+  {
+   "title": "CERTIFIED NURSE MIDWIFE (CNM) SERVICES FOR IHS PINE RIDGE SERVICE UNIT",
+   "org": "SHARESTAFF LLC",
+   "location": null,
+   "detail": "$1,323,952 \u00b7 Department of Health and Human Services \u00b7 start 2026-05-29",
+   "url": "https://www.usaspending.gov/award/CONT_AWD_75H70626F03032_7527_75H70623D00012_7527",
+   "new_this_run": true
+  },
+  {
+   "title": "TEMPORARY OB SERVICES FOR BELCOURT 9/17/2025 TO 9/14/2028",
+   "org": "PRAIRIE BAND HEALTH SERVICES INC",
+   "location": null,
+   "detail": "$2,277,500 \u00b7 Department of Health and Human Services \u00b7 start 2025-09-17",
+   "url": "https://www.usaspending.gov/award/CONT_AWD_75H70625P00387_7527_-NONE-_-NONE-",
+   "new_this_run": true
+  },
+  {
+   "title": "THIS IS A PURCHASE ORDER FOR COMMERCIAL ITEMS PREPARED IN ACCORDANCE WITH FEDERAL ACQUISITION REGULATION (FAR) SUBPART 12.6, AS SUPPLEMENTED WITH ADDITIONAL INFORMATION INCLUDED IN THIS NOTICE. THIS IS A FIRM FIXED PRICE (FFP) PURCHASE ORDE",
+   "org": "PURPLE ROPE ENTERTAINMENT",
+   "location": null,
+   "detail": "$1,000,071 \u00b7 Department of Health and Human Services \u00b7 start 2024-07-29",
+   "url": "https://www.usaspending.gov/award/CONT_AWD_75H70424P00033_7527_-NONE-_-NONE-",
+   "new_this_run": true
+  },
+  {
+   "title": "THE ARCHITECT / ENGINEER (A/E) CONSULTANT (REFERRED TO AS ?A/E? OR ?CONSULTANT? THROUGHOUT) SHALL COMPLETE PRE-DESIGN AND DESIGN ARCHITECTURE AND ENGINEERING ACTIVITIES FOR THE INDIAN HEALTH SERVICE (IHS) CHEMAWA SCHOOL-BASED HEALTH CENTER ",
+   "org": "JOHNSON, SMITTHIPONG & ROSAMOND ASSOCIATES, INC.",
+   "location": null,
+   "detail": "$1,150,500 \u00b7 Department of Health and Human Services \u00b7 start 2023-02-01",
+   "url": "https://www.usaspending.gov/award/CONT_AWD_75H70123F30018_7527_75H70118D00007_7527",
+   "new_this_run": true
+  },
+  {
+   "title": "GIMC ED RENOVATION DESIGN",
+   "org": "JOHNSON, SMITTHIPONG & ROSAMOND ASSOCIATES, INC.",
+   "location": null,
+   "detail": "$1,519,923 \u00b7 Department of Health and Human Services \u00b7 start 2021-09-10",
+   "url": "https://www.usaspending.gov/award/CONT_AWD_75H70121F30014_7527_75H70118D00007_7527",
+   "new_this_run": true
+  },
+  {
+   "title": "CMS WILL UTILIZE THIS TASK ORDER AS A PART OF THE OVERALL PROVIDER ENROLLMENT AND OVERSIGHT, INDEFINITE DELIVERY, INDEFINITE QUANTITY CONTRACT (PEO-IDIQ) TO DETECT, PREVENT, AND PROACTIVELY DETER FRAUD, WASTE AND ABUSE IN THE MEDICARE AND/O",
+   "org": "THE SIGNATURE CONSULTING GROUP, LLC",
+   "location": null,
+   "detail": "$10,698,974 \u00b7 Department of Health and Human Services \u00b7 start 2025-11-15",
+   "url": "https://www.usaspending.gov/award/CONT_AWD_75FCMC26F0019_7530_75FCMC20D0015_7530",
+   "new_this_run": true
+  },
+  {
+   "title": "CMS WILL UTILIZE THIS TASK ORDER AS A PART OF THE OVERALL PROVIDER ENROLLMENT AND OVERSIGHT, INDEFINITE DELIVERY, INDEFINITE QUANTITY CONTRACT (PEO-IDIQ) TO DETECT, PREVENT, AND PROACTIVELY DETER FRAUD, WASTE AND ABUSE IN THE MEDICARE AND/O",
+   "org": "ARCH SYSTEMS LLC",
+   "location": null,
+   "detail": "$8,851,427 \u00b7 Department of Health and Human Services \u00b7 start 2025-11-15",
+   "url": "https://www.usaspending.gov/award/CONT_AWD_75FCMC26F0018_7530_75FCMC21D0001_7530",
+   "new_this_run": true
+  },
+  {
+   "title": "QUALIFIED INDEPENDENT CONTRACTOR (QIC) IDIQ CONTRACT - C2C INNOVATIVE SOLUTIONS",
+   "org": "C2C INNOVATIVE SOLUTIONS, INC.",
+   "location": null,
+   "detail": "$19,695,489 \u00b7 Department of Health and Human Services \u00b7 start 2025-09-18",
+   "url": "https://www.usaspending.gov/award/CONT_AWD_75FCMC25FJ133_7530_HHSM500200400005I_7530",
+   "new_this_run": true
+  },
+  {
+   "title": "THE RESEARCH DATA DEVELOPMENT GROUP (RDDG) WITHIN THE OFFICE OF ENTERPRISE DATA AND ANALYTICS (OEDA) SUPPORTS THE AGENCY'S MISSION BY OPERATING AND MAINTAINING THE CHRONIC CONDITIONS WAREHOUSE (CCW) AND VIRTUAL RESEARCH DATA CENTER (VRDC). ",
+   "org": "SKYWARD DYNAMICS INFORMATION TECHNOLOGY, LLC",
+   "location": null,
+   "detail": "$82,340,056 \u00b7 Department of Health and Human Services \u00b7 start 2024-12-19",
+   "url": "https://www.usaspending.gov/award/CONT_AWD_75FCMC25FJ013_7530_47QRAA24D009Z_4732",
+   "new_this_run": true
+  },
+  {
+   "title": "PPG INTEGRATED FINANCIAL AND ACTUARIAL CONTRACT RECOMPETE BASE YEAR",
+   "org": "DELOITTE CONSULTING LLP",
+   "location": null,
+   "detail": "$30,884,352 \u00b7 Department of Health and Human Services \u00b7 start 2024-09-27",
+   "url": "https://www.usaspending.gov/award/CONT_AWD_75FCMC24F0207_7530_47QRAA18D001P_4732",
+   "new_this_run": true
+  },
+  {
+   "title": "MASTER DATA MANAGEMENT (MDM) AND ENTERPRISE DATA LAKE (EDL)",
+   "org": "NEXT PHASE SOLUTIONS AND SERVICES, INC.",
+   "location": null,
+   "detail": "$36,487,391 \u00b7 Department of Health and Human Services \u00b7 start 2023-02-27",
+   "url": "https://www.usaspending.gov/award/CONT_AWD_75FCMC23F0001_7530_HHSM500201700042I_7530",
+   "new_this_run": true
+  },
+  {
+   "title": "NITAAC CIO-SP3 SMALL BUSINESS TASK ORDER OF RE-COMPETED WMS REQUIREMENT",
+   "org": "A SQUARE GROUP LLC",
+   "location": null,
+   "detail": "$208,572,279 \u00b7 Department of Health and Human Services \u00b7 start 2022-02-15",
+   "url": "https://www.usaspending.gov/award/CONT_AWD_75FCMC22F0024_7530_75N98120D00007_7529",
+   "new_this_run": true
+  },
+  {
+   "title": "DATA SERVICES HUB (DSH)",
+   "org": "SPARKSOFT CORPORATION",
+   "location": null,
+   "detail": "$135,732,249 \u00b7 Department of Health and Human Services \u00b7 start 2019-12-23",
+   "url": "https://www.usaspending.gov/award/CONT_AWD_75FCMC20F0001_7530_HHSM500201700047I_7530",
+   "new_this_run": true
+  },
+  {
+   "title": "NCTR ON-SITE ANIMAL CARE AND TECHNICAL PROCEDURES IN ACCORDANCE WITH PWS AND APPENDICES",
+   "org": "THE BIONETICS CORP",
+   "location": null,
+   "detail": "$15,305,870 \u00b7 Department of Health and Human Services \u00b7 start 2023-08-24",
+   "url": "https://www.usaspending.gov/award/CONT_AWD_75F40123C00099_7524_-NONE-_-NONE-",
+   "new_this_run": true
+  },
+  {
+   "title": "HELP DESK BRIDGE CONTRACT",
+   "org": "HUMANTOUCH LLC",
+   "location": null,
+   "detail": "$78,472,517 \u00b7 Department of Health and Human Services \u00b7 start 2022-08-31",
+   "url": "https://www.usaspending.gov/award/CONT_AWD_75F40122F80332_7524_47QTCA19D00HJ_4732",
+   "new_this_run": true
+  },
+  {
+   "title": "PREVENTATIVE MAINTENANCE AND REPAIR FOR WATERS INSTRUMENTS - ALLIANCE HPLC, ACQUITY UPLC, AND PREP-LC SYSTEMS",
+   "org": "WATERS TECHNOLOGIES CORPORATION",
+   "location": null,
+   "detail": "$1,061,808 \u00b7 Department of Health and Human Services \u00b7 start 2020-11-30",
+   "url": "https://www.usaspending.gov/award/CONT_AWD_75F40121F80010_7524_GS07F0559X_4732",
+   "new_this_run": true
+  },
+  {
+   "title": "NCIRD TECHNICAL BUSINESS ANALYTICS SERVICES FOR SAP-BASED SOLUTIONS",
+   "org": "GOLDBELT PROFESSIONAL SERVICES, LLC",
+   "location": null,
+   "detail": "$5,724,573 \u00b7 Department of Health and Human Services \u00b7 start 2024-12-19",
+   "url": "https://www.usaspending.gov/award/CONT_AWD_75D30125C20349_7523_-NONE-_-NONE-",
+   "new_this_run": true
+  },
+  {
+   "title": "FORMATIVE RESEARCH",
+   "org": "RESEARCH TRIANGLE INSTITUTE",
+   "location": null,
+   "detail": "$1,140,961 \u00b7 Department of Health and Human Services \u00b7 start 2023-09-15",
+   "url": "https://www.usaspending.gov/award/CONT_AWD_75D30123F17784_7523_GS00Q14OADU217_4732",
+   "new_this_run": true
+  },
+  {
+   "title": "FOOD AND DRUG ADMINISTRATION (FDA) OFFICE OF OPERATIONS (OO), OFFICE OF TALENT SOLUTIONS (OTS), OFFICE OF HUMAN CAPITAL MANAGEMENT (OHCM) SUPPORT SERVICES",
+   "org": "OBAN CORPORATION",
+   "location": null,
+   "detail": "$1,861,862 \u00b7 Department of Health and Human Services \u00b7 start 2026-09-30",
+   "url": "https://www.usaspending.gov/award/CONT_AWD_7571PS26F68004_7571_75F40124D00001_7524",
+   "new_this_run": true
+  },
+  {
+   "title": "ENGINE EQUIPMENT",
+   "org": "FAIRBANKS MORSE, LLC",
+   "location": null,
+   "detail": "$1,335,876 \u00b7 Department of Homeland Security \u00b7 start 2026-11-13",
+   "url": "https://www.usaspending.gov/award/CONT_AWD_70ZU0227F40001B00_7008_70Z08522D42114B00_7008",
+   "new_this_run": true
+  },
+  {
+   "title": "DESIGN BUILD CONSTRUCTION FOR HC-130J FLIGHT SIMULATOR FACILITY AT U.S. COAST GUARD BASE ELIZABETH CITY, NC",
+   "org": "BRISTOL DESIGN BUILD SERVICES, LLC",
+   "location": null,
+   "detail": "$16,146,091 \u00b7 Department of Homeland Security \u00b7 start 2026-11-13",
+   "url": "https://www.usaspending.gov/award/CONT_AWD_70ZS0727FPCNI0001_7008_70Z04724DPCNI0014_7008",
+   "new_this_run": true
+  },
+  {
+   "title": "REPLACE MOORING HARDWARE AT U.S. COAST GUARD SECTOR GUAM, SANTA RITA, GUAM",
+   "org": "TRIDON CORPORATION",
+   "location": null,
+   "detail": "$1,337,021 \u00b7 Department of Homeland Security \u00b7 start 2025-09-16",
+   "url": "https://www.usaspending.gov/award/CONT_AWD_70Z08625CHONO0006_7008_-NONE-_-NONE-",
+   "new_this_run": true
+  },
+  {
+   "title": "THE PURPOSE OF THIS TASK ORDER IS TO CONDUCT THE MPDE 16K OVERHAUL FOR THE CGC MUNRO.",
+   "org": "ROLLS-ROYCE SOLUTIONS AMERICA INC",
+   "location": null,
+   "detail": "$3,202,479 \u00b7 Department of Homeland Security \u00b7 start 2026-10-27",
+   "url": "https://www.usaspending.gov/award/CONT_AWD_70Z08526FLREP0115_7008_70Z08526DLREP0003_7008",
+   "new_this_run": true
+  },
+  {
+   "title": "USCGC JOHN MCCORMICK DS",
+   "org": "JAG KETCHIKAN, LLC",
+   "location": null,
+   "detail": "$1,564,479 \u00b7 Department of Homeland Security \u00b7 start 2026-06-08",
+   "url": "https://www.usaspending.gov/award/CONT_AWD_70Z08026CPBPL0038_7008_-NONE-_-NONE-",
+   "new_this_run": true
+  },
+  {
+   "title": "TASK ORDER IS FOR THE PURCHASE A SYSTEM UPGRADE AGREEMENT II/SYSTEM UPGRADE MANAGER TO PROVIDE LIFECYCLE SUPPORT FOR THE REMOTE RADIO CONTROL SYSTEM (RRCS), A RESCUE 21 ALASKA SUPPORTIVE SYSTEM.",
+   "org": "MOTOROLA SOLUTIONS, INC.",
+   "location": null,
+   "detail": "$6,395,375 \u00b7 Department of Homeland Security \u00b7 start 2024-04-30",
+   "url": "https://www.usaspending.gov/award/CONT_AWD_70Z04424FCMPL0003_7008_70B04C19D00000035_7014",
+   "new_this_run": true
+  },
+  {
+   "title": "THE LOGISTICS SUPPORT SERVICES REQUIREMENT CONSISTS OF 10 FULL-TIME POSITIONS IN BALTIMORE, MD. SUPPLY TECHNICIAN, LOGISTICIAN MANAGEMENT SPECIALIST, EQUIPMENT SPECIALIST, FREIGHT RATE ASSISTANT, AND CONFIGURATION MANAGEMENT SPECIALIST.",
+   "org": "CHIMES DISTRICT OF COLUMBIA INC",
+   "location": null,
+   "detail": "$4,953,948 \u00b7 Department of Homeland Security \u00b7 start 2023-09-28",
+   "url": "https://www.usaspending.gov/award/CONT_AWD_70Z04023CSSDV0002_7008_-NONE-_-NONE-",
+   "new_this_run": true
+  },
+  {
+   "title": "PROGRAM DEPOT MAINTENANCE SUPPORT SERVICES - OPTION PERIOD ONE",
+   "org": "INNOVATIVE CONSULTING & MANAGEMENT SERVICES, LLC",
+   "location": null,
+   "detail": "$5,561,840 \u00b7 Department of Homeland Security \u00b7 start 2025-12-19",
+   "url": "https://www.usaspending.gov/award/CONT_AWD_70Z03826FL0000003_7008_70Z03825DL0000001_7008",
+   "new_this_run": true
+  },
+  {
+   "title": "CONTRACTOR SUPPORT FOR USCG OFFICE OF PROCUREMENT POLICY & OVERSIGHT (CG-913) TO PROVIDE TRAINING, GUIDANCE, AND OVERSIGHT OF THE CONTRACTING OFFICER REPRESENTATIVE (COR) PROGRAM.",
+   "org": "EAGLE HARBOR, LLC",
+   "location": null,
+   "detail": "$6,419,114 \u00b7 Department of Homeland Security \u00b7 start 2023-09-28",
+   "url": "https://www.usaspending.gov/award/CONT_AWD_70Z02323F91300001_7008_47QRAD20D8111_4732",
+   "new_this_run": true
+  },
+  {
+   "title": "PURCUREMENT,DELIVERY, REACTIVATION AND TRAINING OF TWO (2) 65-FOOT RESPONSE BOATS WITH CRADLES, SPARE PARTS, AND SUPPORT MATERIALS. DJIBOUTI FMS LOA DB-P-LCA",
+   "org": "SAFE BOATS INTERNATIONAL LLC",
+   "location": null,
+   "detail": "$6,973,653 \u00b7 Department of Homeland Security \u00b7 start 2021-04-12",
+   "url": "https://www.usaspending.gov/award/CONT_AWD_70Z02321FP6LC0100_7008_47QSWA18D005J_4732",
+   "new_this_run": true
+  },
+  {
+   "title": "USSS EIS TO1 DATA & VOICE SERVICES",
+   "org": "AT&T ENTERPRISES, LLC",
+   "location": null,
+   "detail": "$35,535,231 \u00b7 Department of Homeland Security \u00b7 start 2023-12-22",
+   "url": "https://www.usaspending.gov/award/CONT_AWD_70US0924F2GSA2251_7009_GS00Q17NSD3000_4732",
+   "new_this_run": true
+  },
+  {
+   "title": "HCATS FOLLOW ON TASK ORDERS",
+   "org": "DELOITTE CONSULTING LLP",
+   "location": null,
+   "detail": "$9,768,669 \u00b7 Department of Homeland Security \u00b7 start 2024-09-13",
+   "url": "https://www.usaspending.gov/award/CONT_AWD_70US0924F2GSA2016_7009_GS02Q16DCR0046_4732",
+   "new_this_run": true
+  },
+  {
+   "title": "DEVELOPMENT OF ON PERSON SCREENING CAPABILITIES FOR OPEN ARCHITECTURE AND HIGH-DEFINITION ADVANCED IMAGING TECHNOLOGY WIDEBAND UPGRADE KIT.",
+   "org": "LIBERTY DEFENSE TECHNOLOGIES, INC.",
+   "location": null,
+   "detail": "$2,054,703 \u00b7 Department of Homeland Security \u00b7 start 2023-09-29",
+   "url": "https://www.usaspending.gov/award/CONT_AWD_70T04023C7573N006_7013_-NONE-_-NONE-",
+   "new_this_run": true
+  },
+  {
+   "title": "CISCO EA - CISCO HARDWARE AND SOFTWARE PROVIDES FOR SYSTEM UPGRADES, SERVICE CALLS AND ACCESS TO THE TECHNICAL SUPPORT FOR TROUBLESHOOTING AS WELL AS PROVIDING USCIS WITH ACCESS TO AN ONLINE KNOWLEDGE BASE. POP 2/19/25 TO 2/13/26.",
+   "org": "ANACAPA MICRO PRODUCTS, INC.",
+   "location": null,
+   "detail": "$23,130,891 \u00b7 Department of Homeland Security \u00b7 start 2025-02-19",
+   "url": "https://www.usaspending.gov/award/CONT_AWD_70SBUR25F00000040_7003_NNG15SD08B_8000",
+   "new_this_run": true
+  },
+  {
+   "title": "TO PROVIDES EFFECTIVE OPERATIONAL AND MANAGEMENT SOLUTIONS TO FACILITATE THE SUSTAINABILITY AND ADMINISTRATION OF THE INFORMATION TECHNOLOGY (IT) SYSTEMS IN SUPPORT OF THE DHS HEADQUARTERS (HQ) MGMT DIRECTORATE AND COMPONENT MISSION REQUIRE",
+   "org": "CACI NSS, LLC",
+   "location": null,
+   "detail": "$22,566,837 \u00b7 Department of Homeland Security \u00b7 start 2026-07-16",
+   "url": "https://www.usaspending.gov/award/CONT_AWD_70RTAC26FC0000021_7001_70RTAC25A00000015_7001",
+   "new_this_run": true
+  },
+  {
+   "title": "DESIGN THE OFFICE OF THE CHIEF DATA OFFICER AT DHS",
+   "org": "THE MITRE CORPORATION",
+   "location": null,
+   "detail": "$2,675,422 \u00b7 Department of Homeland Security \u00b7 start 2019-09-29",
+   "url": "https://www.usaspending.gov/award/CONT_AWD_70RTAC19FR0000164_7001_HSHQDC14D00006_7001",
+   "new_this_run": true
+  },
+  {
+   "title": "CBTS AT TEXAS A&M UNIVERSITY (TAMU) SYSTEM TO PERFORM RESEARCH/SCIENTIFIC SERVICES THAT ARE WITHIN SCOPE UNDER THE BOA 70RSAT21G00000001.",
+   "org": "TEXAS A & M UNIVERSITY",
+   "location": null,
+   "detail": "$1,209,771 \u00b7 Department of Homeland Security \u00b7 start 2024-09-30",
+   "url": "https://www.usaspending.gov/award/CONT_AWD_70RSAT24FR0000111_7001_70RSAT21G00000001_7001",
+   "new_this_run": true
+  },
+  {
+   "title": "CONTRACT AWARD FOR THE PLUM ISLAND ANIMAL DISEASE CENTER (PIADC) PLUM ISLAND CLOSURE AND SUPPORT (PICS) PROGRAM SCIENTIFIC, TECHNICAL AND ENGINEERING SUPPORT (STENS) PROJECT.",
+   "org": "MERRICK & COMPANY",
+   "location": null,
+   "detail": "$14,924,331 \u00b7 Department of Homeland Security \u00b7 start 2024-01-08",
+   "url": "https://www.usaspending.gov/award/CONT_AWD_70RSAT24C00000001_7001_-NONE-_-NONE-",
+   "new_this_run": true
+  },
+  {
+   "title": "CONTINUOUS VETTING ANALYTICS SUPPORT SERVICES (CVAS) AND ENTERPRISE SECURITY FORMS SYSTEM (ESFS).",
+   "org": "GOVERNMENT ACQUISITIONS LLC",
+   "location": null,
+   "detail": "$6,225,067 \u00b7 Department of Homeland Security \u00b7 start 2025-09-03",
+   "url": "https://www.usaspending.gov/award/CONT_AWD_70RDA125FR0000025_7001_NNG15SC78B_8000",
+   "new_this_run": true
+  },
+  {
+   "title": "CB ENGINEERING AND LAB SUPPORT SERVICES",
+   "org": "THE MITRE CORPORATION",
+   "location": null,
+   "detail": "$13,526,305 \u00b7 Department of Homeland Security \u00b7 start 2026-09-26",
+   "url": "https://www.usaspending.gov/award/CONT_AWD_70RCSJ26FR0000038_7001_70RSAT26D00000001_7001",
+   "new_this_run": true
+  },
+  {
+   "title": "OUTDOOR RANGE ROOFS REPAIR AND REPLACEMENT FOR BUILDINGS 157, 159, 161, 163, 165, 167, 125, AND 127. FY25 EXCLUSION SECTION 2(D).",
+   "org": "BRISTOL DESIGN BUILD SERVICES, LLC",
+   "location": null,
+   "detail": "$9,332,980 \u00b7 Department of Homeland Security \u00b7 start 2025-05-14",
+   "url": "https://www.usaspending.gov/award/CONT_AWD_70LGLY25FSSB00053_7015_70Z04724DPCNI0014_7008",
+   "new_this_run": true
+  },
+  {
+   "title": "FIELD SERVICES CONTRACT FOR 5,000 DAMAGE ASSESSMENTS TASK ORDER IN SUPPORT OF DISASTER NUMBER 4946 FOR GUAM.",
+   "org": "VANGUARD INSPECTION SERVICES",
+   "location": null,
+   "detail": "$1,661,373 \u00b7 Department of Homeland Security \u00b7 start 2026-10-20",
+   "url": "https://www.usaspending.gov/award/CONT_AWD_70FBR927F00000001_7022_70FB8025D00000015_7022",
+   "new_this_run": true
+  },
+  {
+   "title": "THE PURPOSE OF THIS ORDER IS TO PROVIDE 18,000 HOUSING INSPECTION SERVICES IN SUPPORT OF THE PRESIDENTIAL INDIVIDUAL ASSISTANCE DECLARATION FOR DISASTER 4955 FLORIDA.",
+   "org": "WSP USA SERVICES INC.",
+   "location": null,
+   "detail": "$3,814,516 \u00b7 Department of Homeland Security \u00b7 start 2026-10-31",
+   "url": "https://www.usaspending.gov/award/CONT_AWD_70FBR427F00000003_7022_70FB8025D00000014_7022",
+   "new_this_run": true
+  },
+  {
+   "title": "FEDERAL EMERGENCY MANAGEMENT AGENCY QUALIFICATION SYSTEM CURRICULUM DEVELOPMENT.",
+   "org": "BLOOMSBURIE LLC",
+   "location": null,
+   "detail": "$1,670,197 \u00b7 Department of Homeland Security \u00b7 start 2026-05-31",
+   "url": "https://www.usaspending.gov/award/CONT_AWD_70FB8026F00000032_7022_47QREA21D000N_4732",
+   "new_this_run": true
+  },
+  {
+   "title": "THE PURPOSE OF THIS AWARD IS TO ESTABLISH A SINGLE AWARD HYBRID CONTRACT WITH FIRM-FIXED PRICE AND COST REIMBURSEMENT CONTRACT LINE ITEMS (CLINS). THE CONTRACTOR SHALL PROVIDE ALL PERSONNEL, EQUIPMENT, MATERIAL, AND SUPPLIES (EXCEPT AS EXPR",
+   "org": "INTERNATIONAL SERVICE CONTRACTORS LLC",
+   "location": null,
+   "detail": "$15,702,802 \u00b7 Department of Homeland Security \u00b7 start 2023-11-14",
+   "url": "https://www.usaspending.gov/award/CONT_AWD_70FB7024C00000001_7022_-NONE-_-NONE-",
+   "new_this_run": true
+  },
+  {
+   "title": "THE PURPOSE OF THIS AWARD IS TO PROVIDE THE OFFICE OF INFORMATION GOVERNANCE AND PRIVACY (OIGP) WITH EXPERT INDUSTRY RESEARCH, DATA, AND STRATEGIC GUIDANCE TOWARDS INFORMATION TECHNOLOGY INITIATIVES.",
+   "org": "GARTNER, INC.",
+   "location": null,
+   "detail": "$1,023,438 \u00b7 Department of Homeland Security \u00b7 start 2026-11-01",
+   "url": "https://www.usaspending.gov/award/CONT_AWD_70CTD027FR0000003_7012_03310324D0001_0300",
+   "new_this_run": true
+  },
+  {
+   "title": "THE SCOPE OF THIS ORDER IS TO PROVIDE HOMELAND SECURITY INVESTIGATIONS (HSI) COLLABORATIVE SERVICES SUPPORT FOR THE BLUE LINE BRIDGE (BLB) COLLABORATION PLATFORM LANDING PAGE TO COORDINATE OPERATIONS BETWEEN LOCAL BUSINESSES AND THE HSI TAS",
+   "org": "PROCENTRIX, LLC",
+   "location": null,
+   "detail": "$1,198,344 \u00b7 Department of Homeland Security \u00b7 start 2026-05-13",
+   "url": "https://www.usaspending.gov/award/CONT_AWD_70CTD026FR0000024_7012_70CTD022D00000011_7012",
+   "new_this_run": true
+  },
+  {
+   "title": "EDISCOVERY ICE SOFTWARE AS A SOLUTION (EDSICE SAAS)",
+   "org": "CASEPOINT, LLC",
+   "location": null,
+   "detail": "$9,714,364 \u00b7 Department of Homeland Security \u00b7 start 2023-09-30",
+   "url": "https://www.usaspending.gov/award/CONT_AWD_70CTD023FR0000095_7012_47QTCA18D00BZ_4732",
+   "new_this_run": true
+  },
+  {
+   "title": "COLLABORATIVE SERVICES FOR THE ENTERPRISE PLATFORM SERVICES BRANCH (EPSB) PROJECTS TO INCLUDE OPLA CASE MANAGEMENT SYSTEM (OCMS), STUDENT AND EXCHANGE VISITOR PROGRAM AUTOMATED MANAGEMENT SYSTEM (SEVPAMS), ICE CORRESPONDENCE AND TASK TRACKI",
+   "org": "PROCENTRIX, LLC",
+   "location": null,
+   "detail": "$34,858,525 \u00b7 Department of Homeland Security \u00b7 start 2023-04-01",
+   "url": "https://www.usaspending.gov/award/CONT_AWD_70CTD023FR0000013_7012_70CTD022D00000011_7012",
+   "new_this_run": true
+  },
+  {
+   "title": "THIS AWARD PROVIDES ICE HOMELAND SECURITY INVESTIGATIONS OFFICE OF INTELLIGENCE WITH TIP LINE CALL CENTER SUPPORT SERVICES IN SUPPORT OF ONGOING LAW ENFORCEMENT INVESTIGATIONS.",
+   "org": "TECHOP SOLUTIONS INTERNATIONAL, INC.",
+   "location": null,
+   "detail": "$7,103,923 \u00b7 Department of Homeland Security \u00b7 start 2026-01-05",
+   "url": "https://www.usaspending.gov/award/CONT_AWD_70CMSD26FR0000002_7012_GS10F030CA_4732",
+   "new_this_run": true
+  },
+  {
+   "title": "THIS CONTRACT PROVIDES DETENTION AND DETENTION RELATED SERVICES AT THE BIG HORN DETENTION FACILITY IN HUDSON, COLORADO. THIS TASK ORDER PROVIDES ESTABLISHES THE BASE PERIOD CLINS AND PROVIDES FUNDING FOR THE TRANSITION PERIOD.",
+   "org": "THE GEO GROUP, INC.",
+   "location": null,
+   "detail": "$58,653,712 \u00b7 Department of Homeland Security \u00b7 start 2026-07-09",
+   "url": "https://www.usaspending.gov/award/CONT_AWD_70CDCR26FR0000101_7012_70CDCR26D00000049_7012",
+   "new_this_run": true
+  },
+  {
+   "title": "NEW PURCHASE ORDER FOR HOUSTON FIRING RANGE PERIOD OF PERFORMANCE: 01AUG2022 - 31JUL2023 NEW TASK ORDER NUMBER: TO BE ISSUSED BY OAQ",
+   "org": "GO & ZALEZ INC",
+   "location": null,
+   "detail": "$1,529,257 \u00b7 Department of Homeland Security \u00b7 start 2022-08-01",
+   "url": "https://www.usaspending.gov/award/CONT_AWD_70CDCR22P00000024_7012_-NONE-_-NONE-",
+   "new_this_run": true
+  },
+  {
+   "title": "DINING FACILITIES SERVICES.",
+   "org": "WEST VIRGINIA DIVISION OF REHABILITATION SERVICES",
+   "location": null,
+   "detail": "$1,969,071 \u00b7 Department of Homeland Security \u00b7 start 2026-08-01",
+   "url": "https://www.usaspending.gov/award/CONT_AWD_70B06C26F00000535_7014_70B06C23D00000015_7014",
+   "new_this_run": true
+  },
+  {
+   "title": "THIS IS A TASK ORDER FOR SUPPORT SERVICES TO THE SGO OFFICE OF THE CBP COMMISSIONER'S OFFICE.",
+   "org": "DELOITTE CONSULTING LLP",
+   "location": null,
+   "detail": "$3,957,717 \u00b7 Department of Homeland Security \u00b7 start 2024-07-01",
+   "url": "https://www.usaspending.gov/award/CONT_AWD_70B06C24F00000358_7014_GS02Q16DCR0046_4732",
+   "new_this_run": true
+  },
+  {
+   "title": "CBP'S DATA CENTER SUPPORT SERVICES (DCSS).",
+   "org": "ACCENTURE FEDERAL SERVICES LLC",
+   "location": null,
+   "detail": "$287,757,783 \u00b7 Department of Homeland Security \u00b7 start 2023-01-25",
+   "url": "https://www.usaspending.gov/award/CONT_AWD_70B04C23F00000074_7014_47QTCK18D0036_4732",
+   "new_this_run": true
+  },
+  {
+   "title": "SBIR PHASE III TIS3 INTERNET OF THINGS",
+   "org": "TIS3 LLC",
+   "location": null,
+   "detail": "$7,684,445 \u00b7 Department of Homeland Security \u00b7 start 2025-09-24",
+   "url": "https://www.usaspending.gov/award/CONT_AWD_70B02C25C00000173_7014_-NONE-_-NONE-",
+   "new_this_run": true
+  },
+  {
+   "title": "ACQUIRING SERVICES FROM THE A/E FIRM TO DESIGN THE NEW AIRPORT TRAFFIC CONTROL TOWER (ATCT) WITH ADMINISTRATIVE BASE BUILDING AND NEW REMOTE TRANSMITTER RECEIVER (RTR) FACILITY AT MIAMI EXECUTIVE (TMB).",
+   "org": "WILEY & WILSON, INC.",
+   "location": null,
+   "detail": "$2,049,820 \u00b7 Department of Transportation \u00b7 start 2024-09-09",
+   "url": "https://www.usaspending.gov/award/CONT_AWD_697DCK24C00337_6920_-NONE-_-NONE-",
+   "new_this_run": true
   }
  ],
  "runs": [
@@ -839,12 +839,17 @@
    "at": "2026-11-15T21:49:47+00:00",
    "jobs": 100,
    "new": 0
+  },
+  {
+   "at": "2026-11-16T02:06:51+00:00",
+   "jobs": 100,
+   "new": 71
   }
  ],
  "jobs_seen": {
   "espc|noresco, llc|": {
    "first_seen": "2026-11-15T10:13:50+00:00",
-   "last_seen": "2026-11-15T21:49:47+00:00",
+   "last_seen": "2026-11-16T02:06:51+00:00",
    "title": "ESPC",
    "org": "NORESCO, LLC",
    "location": null
@@ -879,7 +884,7 @@
   },
   "eds to#3, contractor owned, contractor operated hosted data center|peraton enterprise solutions llc|": {
    "first_seen": "2026-11-15T10:13:50+00:00",
-   "last_seen": "2026-11-15T21:49:47+00:00",
+   "last_seen": "2026-11-16T02:06:51+00:00",
    "title": "EDS TO#3, CONTRACTOR OWNED, CONTRACTOR OPERATED HOSTED DATA CENTER",
    "org": "PERATON ENTERPRISE SOLUTIONS LLC",
    "location": null
@@ -893,7 +898,7 @@
   },
   "recovery act award arra funded code: tas::47 4543::tas 1) contractor to provide architect-engineer design services for t|zimmer gunsul frasca architects llp|": {
    "first_seen": "2026-11-15T10:13:50+00:00",
-   "last_seen": "2026-11-15T21:49:47+00:00",
+   "last_seen": "2026-11-16T02:06:51+00:00",
    "title": "RECOVERY ACT AWARD ARRA FUNDED CODE: TAS::47 4543::TAS 1) CONTRACTOR TO PROVIDE ARCHITECT-ENGINEER DESIGN SERVICES FOR THE DEPARTMENT OF HOMELAND SECURITY (DHS) CONSOLIDATION PROJECT AT ST. ELIZABETH'S WEST CAMPUS IN WASHINGTON, DC PER THE ",
    "org": "ZIMMER GUNSUL FRASCA ARCHITECTS LLP",
    "location": null
@@ -907,7 +912,7 @@
   },
   "the emergency response branch has a need to supply ku-band satellite internet service, maintenance and voice over intern|knight sky llc|": {
    "first_seen": "2026-11-15T10:13:50+00:00",
-   "last_seen": "2026-11-15T21:49:47+00:00",
+   "last_seen": "2026-11-16T02:06:51+00:00",
    "title": "THE EMERGENCY RESPONSE BRANCH HAS A NEED TO SUPPLY KU-BAND SATELLITE INTERNET SERVICE, MAINTENANCE AND VOICE OVER INTERNET PROTOCOL (VOIP) SERVICE FOR ITS EXISTING 56 PORTABLE SATELLITE UNITS/MOBILE COMMAND POSTS (PSUS/MCPS). THE SATELLITE ",
    "org": "KNIGHT SKY LLC",
    "location": null
@@ -921,14 +926,14 @@
   },
   "detention services - san diego|the geo group, inc.|": {
    "first_seen": "2026-11-15T10:13:50+00:00",
-   "last_seen": "2026-11-15T21:49:47+00:00",
+   "last_seen": "2026-11-16T02:06:51+00:00",
    "title": "DETENTION SERVICES - SAN DIEGO",
    "org": "THE GEO GROUP, INC.",
    "location": null
   },
   "igf::cl,ct::igf contract award de-na0003624 to the mission support and test services llc (msts) for the management and o|mission support & test services llc|": {
    "first_seen": "2026-11-15T10:13:50+00:00",
-   "last_seen": "2026-11-15T21:49:47+00:00",
+   "last_seen": "2026-11-16T02:06:51+00:00",
    "title": "IGF::CL,CT::IGF CONTRACT AWARD DE-NA0003624 TO THE MISSION SUPPORT AND TEST SERVICES LLC (MSTS) FOR THE MANAGEMENT AND OPERATION OF THE DEPARTMENT OF ENERGY NATIONAL NUCLEAR SECURITY ADMINISTRATION'S NEVADA NATIONAL SECURITY SITE.",
    "org": "MISSION SUPPORT & TEST SERVICES LLC",
    "location": null
@@ -956,7 +961,7 @@
   },
   "omb circular a123 audit support services|kearney & company, p.c.|": {
    "first_seen": "2026-11-15T10:13:50+00:00",
-   "last_seen": "2026-11-15T21:49:47+00:00",
+   "last_seen": "2026-11-16T02:06:51+00:00",
    "title": "OMB CIRCULAR A123 AUDIT SUPPORT SERVICES",
    "org": "KEARNEY & COMPANY, P.C.",
    "location": null
@@ -970,7 +975,7 @@
   },
   "g5 upgrade for websphere portal and linux components|optumserve technology services, inc.|": {
    "first_seen": "2026-11-15T10:13:50+00:00",
-   "last_seen": "2026-11-15T21:49:47+00:00",
+   "last_seen": "2026-11-16T02:06:51+00:00",
    "title": "G5 UPGRADE FOR WEBSPHERE PORTAL AND LINUX COMPONENTS",
    "org": "OPTUMSERVE TECHNOLOGY SERVICES, INC.",
    "location": null
@@ -984,7 +989,7 @@
   },
   "operations and maintenance (o&m) task order for student loan servicing in accordance with the requirements of the usds c|nelnet servicing llc|": {
    "first_seen": "2026-11-15T10:13:50+00:00",
-   "last_seen": "2026-11-15T21:49:47+00:00",
+   "last_seen": "2026-11-16T02:06:51+00:00",
    "title": "OPERATIONS AND MAINTENANCE (O&M) TASK ORDER FOR STUDENT LOAN SERVICING IN ACCORDANCE WITH THE REQUIREMENTS OF THE USDS CONTRACT. ALL WORK AND DELIVERABLES PROVIDED BY THE USDS SERVICER MUST BE IN ACCORDANCE WITH THE REQUIREMENTS OF THE CONT",
    "org": "NELNET SERVICING LLC",
    "location": null
@@ -1047,7 +1052,7 @@
   },
   "8(a) direct award to alexton incorporated for administrative support services period of performance 03/16/2024 to 11/15/|alexton incorporated|": {
    "first_seen": "2026-11-15T10:13:50+00:00",
-   "last_seen": "2026-11-15T21:49:47+00:00",
+   "last_seen": "2026-11-16T02:06:51+00:00",
    "title": "8(A) DIRECT AWARD TO ALEXTON INCORPORATED FOR ADMINISTRATIVE SUPPORT SERVICES PERIOD OF PERFORMANCE 03/16/2024 TO 11/15/2027 REQ 24MA000 SUBJECT TO AVAILABILITY OF FUNDS",
    "org": "ALEXTON INCORPORATED",
    "location": null
@@ -1061,7 +1066,7 @@
   },
   "labor program management/it support enterprise information technology support services to include software development a|bluewater federal solutions, inc.|": {
    "first_seen": "2026-11-15T10:13:50+00:00",
-   "last_seen": "2026-11-15T21:49:47+00:00",
+   "last_seen": "2026-11-16T02:06:51+00:00",
    "title": "LABOR PROGRAM MANAGEMENT/IT SUPPORT ENTERPRISE INFORMATION TECHNOLOGY SUPPORT SERVICES TO INCLUDE SOFTWARE DEVELOPMENT AND INTEGRATION, INFRASTRUCTURE ENGINEERING, SYSTEM MANAGEMENT AND HOSTING, DESKTOP SUPPORT, SERVICE DESK SUPPORT AND IT ",
    "org": "BLUEWATER FEDERAL SOLUTIONS, INC.",
    "location": null
@@ -1075,14 +1080,14 @@
   },
   "u.s. department of energy (doe), office of energy efficiency and renewable energy (eere), strategic engagement and outre|rack-wildner & reese, inc.|": {
    "first_seen": "2026-11-15T10:13:50+00:00",
-   "last_seen": "2026-11-15T21:49:47+00:00",
+   "last_seen": "2026-11-16T02:06:51+00:00",
    "title": "U.S. DEPARTMENT OF ENERGY (DOE), OFFICE OF ENERGY EFFICIENCY AND RENEWABLE ENERGY (EERE), STRATEGIC ENGAGEMENT AND OUTREACH SUPPORT SERVICES (SEOSS), EERE FRONT OFFICE",
    "org": "RACK-WILDNER & REESE, INC.",
    "location": null
   },
   "ira funding esnet upgrade project - science hpc nvidia|thundercat technology, llc|": {
    "first_seen": "2026-11-15T10:13:50+00:00",
-   "last_seen": "2026-11-15T21:49:47+00:00",
+   "last_seen": "2026-11-16T02:06:51+00:00",
    "title": "IRA FUNDING ESNET UPGRADE PROJECT - SCIENCE HPC NVIDIA",
    "org": "THUNDERCAT TECHNOLOGY, LLC",
    "location": null
@@ -1131,14 +1136,14 @@
   },
   "research & development and fabrication of inertial confinement fusion (icf) targets for the office of rtd&e na-11, exper|general atomics|": {
    "first_seen": "2026-11-15T10:13:50+00:00",
-   "last_seen": "2026-11-15T21:49:47+00:00",
+   "last_seen": "2026-11-16T02:06:51+00:00",
    "title": "RESEARCH & DEVELOPMENT AND FABRICATION OF INERTIAL CONFINEMENT FUSION (ICF) TARGETS FOR THE OFFICE OF RTD&E NA-11, EXPERIMENTAL SCIENCES NA-113",
    "org": "GENERAL ATOMICS",
    "location": null
   },
   "aircraft maintenance, inflight and ground support, equipment maintenance, flight following, and administrative support o|yulista solutions, llc|": {
    "first_seen": "2026-11-15T10:13:50+00:00",
-   "last_seen": "2026-11-15T21:49:47+00:00",
+   "last_seen": "2026-11-16T02:06:51+00:00",
    "title": "AIRCRAFT MAINTENANCE, INFLIGHT AND GROUND SUPPORT, EQUIPMENT MAINTENANCE, FLIGHT FOLLOWING, AND ADMINISTRATIVE SUPPORT ON TWO (2) BOEING 737-400 COMBI AIRCRAFTS AND ONE (1) BOEING 737-700 FLEX-COMBI AIRCRAFTS FOR OFFICE OF SECURE TRANSPORTA",
    "org": "YULISTA SOLUTIONS, LLC",
    "location": null
@@ -1159,7 +1164,7 @@
   },
   "igf:cl:igf u.s. department of energy, national nuclear security administration's (doe/nnsa) technical, engineering, and |navarro research and engineering, inc.|": {
    "first_seen": "2026-11-15T10:13:50+00:00",
-   "last_seen": "2026-11-15T21:49:47+00:00",
+   "last_seen": "2026-11-16T02:06:51+00:00",
    "title": "IGF:CL:IGF U.S. DEPARTMENT OF ENERGY, NATIONAL NUCLEAR SECURITY ADMINISTRATION'S (DOE/NNSA) TECHNICAL, ENGINEERING, AND PROGRAMMATIC SUPPORT SERVICES II (TEPS II) BLANKET PURCHASE AGREEMENT (BPA) HOLDERS-- TECHNICAL SUPPORT SERVICES FOR THE",
    "org": "NAVARRO RESEARCH AND ENGINEERING, INC.",
    "location": null
@@ -1180,7 +1185,7 @@
   },
   "this task order provides security guards support services for the clinton library located in little rock, for the pop 9/|culpepper & associates security services inc|": {
    "first_seen": "2026-11-15T10:13:50+00:00",
-   "last_seen": "2026-11-15T21:49:47+00:00",
+   "last_seen": "2026-11-16T02:06:51+00:00",
    "title": "THIS TASK ORDER PROVIDES SECURITY GUARDS SUPPORT SERVICES FOR THE CLINTON LIBRARY LOCATED IN LITTLE ROCK, FOR THE POP 9/1/2025-8/31/2030",
    "org": "CULPEPPER & ASSOCIATES SECURITY SERVICES INC",
    "location": null
@@ -1201,7 +1206,7 @@
   },
   "new contract for cfm services at the john f. kennedy presidential library.|work inc|": {
    "first_seen": "2026-11-15T10:13:50+00:00",
-   "last_seen": "2026-11-15T21:49:47+00:00",
+   "last_seen": "2026-11-16T02:06:51+00:00",
    "title": "NEW CONTRACT FOR CFM SERVICES AT THE JOHN F. KENNEDY PRESIDENTIAL LIBRARY.",
    "org": "WORK INC",
    "location": null
@@ -1215,7 +1220,7 @@
   },
   "the department of housing and urban development (hud), office of the chief information officer (ocio) in support of the |peraton inc.|": {
    "first_seen": "2026-11-15T10:13:50+00:00",
-   "last_seen": "2026-11-15T21:49:47+00:00",
+   "last_seen": "2026-11-16T02:06:51+00:00",
    "title": "THE DEPARTMENT OF HOUSING AND URBAN DEVELOPMENT (HUD), OFFICE OF THE CHIEF INFORMATION OFFICER (OCIO) IN SUPPORT OF THE OFFICE OF FINANCE AND BUDGET (FAB), REQUIRES CONTRACTOR SUPPORT TO CONFIGURE AND IMPLEMENT AN AUTOMATED SOLUTION TO SUPP",
    "org": "PERATON INC.",
    "location": null
@@ -1229,7 +1234,7 @@
   },
   "keck single aperture (ksa) operations 79-15015|california institute of technology|": {
    "first_seen": "2026-11-15T10:13:50+00:00",
-   "last_seen": "2026-11-15T21:49:47+00:00",
+   "last_seen": "2026-11-16T02:06:51+00:00",
    "title": "KECK SINGLE APERTURE (KSA) OPERATIONS 79-15015",
    "org": "CALIFORNIA INSTITUTE OF TECHNOLOGY",
    "location": null
@@ -1278,7 +1283,7 @@
   },
   "center maintenance, operation and engineering ii (cmoe-ii) support services.|amentum technology, inc.|": {
    "first_seen": "2026-11-15T10:13:50+00:00",
-   "last_seen": "2026-11-15T21:49:47+00:00",
+   "last_seen": "2026-11-16T02:06:51+00:00",
    "title": "CENTER MAINTENANCE, OPERATION AND ENGINEERING II (CMOE-II) SUPPORT SERVICES.",
    "org": "AMENTUM TECHNOLOGY, INC.",
    "location": null
@@ -1292,7 +1297,7 @@
   },
   "exploration extravehicular activity services (xevas) delivery order 5 provides for production, testing, certification, d|axiom space inc|": {
    "first_seen": "2026-11-15T10:13:50+00:00",
-   "last_seen": "2026-11-15T21:49:47+00:00",
+   "last_seen": "2026-11-16T02:06:51+00:00",
    "title": "EXPLORATION EXTRAVEHICULAR ACTIVITY SERVICES (XEVAS) DELIVERY ORDER 5 PROVIDES FOR PRODUCTION, TESTING, CERTIFICATION, DELIVERY, SUSTAINMENT, REPAIR, REFURBISHMENT, AND ENHANCEMENT OF SORTIE SUIT HARDWARE FOR NASA EXPLORATION MISSIONS.",
    "org": "AXIOM SPACE INC",
    "location": null
@@ -1362,7 +1367,7 @@
   },
   "the contractor shall design, fabricate, procure, test, verify, and document the reactor control box (rcb) hardware for t|aitech defense systems inc|": {
    "first_seen": "2026-11-15T10:13:50+00:00",
-   "last_seen": "2026-11-15T21:49:47+00:00",
+   "last_seen": "2026-11-16T02:06:51+00:00",
    "title": "THE CONTRACTOR SHALL DESIGN, FABRICATE, PROCURE, TEST, VERIFY, AND DOCUMENT THE REACTOR CONTROL BOX (RCB) HARDWARE FOR THE SR-1 FREEDOM MISSION IN ACCORDANCE WITH THE STATEMENT OF WORK AND OTHER CONTRACT ATTACHMENTS.",
    "org": "AITECH DEFENSE SYSTEMS INC",
    "location": null
@@ -1425,14 +1430,14 @@
   },
   "electronic handbooks (ehbs) - domain one - development, modernization, and enhancements (dme) support services.|rei systems, inc.|": {
    "first_seen": "2026-11-15T10:13:50+00:00",
-   "last_seen": "2026-11-15T21:49:47+00:00",
+   "last_seen": "2026-11-16T02:06:51+00:00",
    "title": "ELECTRONIC HANDBOOKS (EHBS) - DOMAIN ONE - DEVELOPMENT, MODERNIZATION, AND ENHANCEMENTS (DME) SUPPORT SERVICES.",
    "org": "REI SYSTEMS, INC.",
    "location": null
   },
   "system enhancements, data migration, data engineering, operations and maintenance services support|sapient government services, inc.|": {
    "first_seen": "2026-11-15T10:13:50+00:00",
-   "last_seen": "2026-11-15T21:49:47+00:00",
+   "last_seen": "2026-11-16T02:06:51+00:00",
    "title": "SYSTEM ENHANCEMENTS, DATA MIGRATION, DATA ENGINEERING, OPERATIONS AND MAINTENANCE SERVICES SUPPORT",
    "org": "SAPIENT GOVERNMENT SERVICES, INC.",
    "location": null
@@ -1474,7 +1479,7 @@
   },
   "this performance work statement describes the requirement for flexible co-working space as a service for arpa-h in the n|hines gs properties llc|": {
    "first_seen": "2026-11-15T10:13:50+00:00",
-   "last_seen": "2026-11-15T21:49:47+00:00",
+   "last_seen": "2026-11-16T02:06:51+00:00",
    "title": "THIS PERFORMANCE WORK STATEMENT DESCRIBES THE REQUIREMENT FOR FLEXIBLE CO-WORKING SPACE AS A SERVICE FOR ARPA-H IN THE NATIONAL CAPITAL REGION. THE CONTRACTOR SHALL PROVIDE FLEXIBLE CO-WORKING SPACE AS A SERVICE FOR THE DURATION OF THE PERF",
    "org": "HINES GS PROPERTIES LLC",
    "location": null
@@ -1495,7 +1500,7 @@
   },
   "biolincc program - task area a|information management services, inc.|": {
    "first_seen": "2026-11-15T10:13:50+00:00",
-   "last_seen": "2026-11-15T21:49:47+00:00",
+   "last_seen": "2026-11-16T02:06:51+00:00",
    "title": "BIOLINCC PROGRAM - TASK AREA A",
    "org": "INFORMATION MANAGEMENT SERVICES, INC.",
    "location": null
@@ -1516,7 +1521,7 @@
   },
   "defense civilian medical associates, llc:1354718 [26-002707]|defense civilian medical associates, llc|": {
    "first_seen": "2026-11-15T10:13:50+00:00",
-   "last_seen": "2026-11-15T21:49:47+00:00",
+   "last_seen": "2026-11-16T02:06:51+00:00",
    "title": "DEFENSE CIVILIAN MEDICAL ASSOCIATES, LLC:1354718 [26-002707]",
    "org": "DEFENSE CIVILIAN MEDICAL ASSOCIATES, LLC",
    "location": null
@@ -1530,7 +1535,7 @@
   },
   "niehs armed security services|hana technologies & systems, inc.|": {
    "first_seen": "2026-11-15T10:13:50+00:00",
-   "last_seen": "2026-11-15T21:49:47+00:00",
+   "last_seen": "2026-11-16T02:06:51+00:00",
    "title": "NIEHS ARMED SECURITY SERVICES",
    "org": "HANA TECHNOLOGIES & SYSTEMS, INC.",
    "location": null
@@ -1540,6 +1545,503 @@
    "last_seen": "2026-11-15T21:49:47+00:00",
    "title": "SOAR-D12-05135 KELLY -- TASK ORDER # 532",
    "org": "KELLY SERVICES, INC.",
+   "location": null
+  },
+  "soar-d12-04876 kelly -- task order # 496|kelly services, inc.|": {
+   "first_seen": "2026-11-16T02:06:51+00:00",
+   "last_seen": "2026-11-16T02:06:51+00:00",
+   "title": "SOAR-D12-04876 KELLY -- TASK ORDER # 496",
+   "org": "KELLY SERVICES, INC.",
+   "location": null
+  },
+  "soar-d12-04823 kelly -- task order # 492|kelly services, inc.|": {
+   "first_seen": "2026-11-16T02:06:51+00:00",
+   "last_seen": "2026-11-16T02:06:51+00:00",
+   "title": "SOAR-D12-04823 KELLY -- TASK ORDER # 492",
+   "org": "KELLY SERVICES, INC.",
+   "location": null
+  },
+  "soar - to332_75n95025f00010|gap solutions, inc.|": {
+   "first_seen": "2026-11-16T02:06:51+00:00",
+   "last_seen": "2026-11-16T02:06:51+00:00",
+   "title": "SOAR - TO332_75N95025F00010",
+   "org": "GAP SOLUTIONS, INC.",
+   "location": null
+  },
+  "soar-d10-01264 axle -- task order # 357|axle informatics, llc|": {
+   "first_seen": "2026-11-16T02:06:51+00:00",
+   "last_seen": "2026-11-16T02:06:51+00:00",
+   "title": "SOAR-D10-01264 AXLE -- TASK ORDER # 357",
+   "org": "AXLE INFORMATICS, LLC",
+   "location": null
+  },
+  "soar-d19-00442 22nd -- task order # 235|22nd century technologies, inc.|": {
+   "first_seen": "2026-11-16T02:06:51+00:00",
+   "last_seen": "2026-11-16T02:06:51+00:00",
+   "title": "SOAR-D19-00442 22ND -- TASK ORDER # 235",
+   "org": "22ND CENTURY TECHNOLOGIES, INC.",
+   "location": null
+  },
+  "soar-d10-01110 axle -- task order # 327|axle informatics, llc|": {
+   "first_seen": "2026-11-16T02:06:51+00:00",
+   "last_seen": "2026-11-16T02:06:51+00:00",
+   "title": "SOAR-D10-01110 AXLE -- TASK ORDER # 327",
+   "org": "AXLE INFORMATICS, LLC",
+   "location": null
+  },
+  "soar-d12-03990 kelly -- task order # 407 scientific, operations, and administrative resources (soar) to the nih|kelly services, inc.|": {
+   "first_seen": "2026-11-16T02:06:51+00:00",
+   "last_seen": "2026-11-16T02:06:51+00:00",
+   "title": "SOAR-D12-03990 KELLY -- TASK ORDER # 407 SCIENTIFIC, OPERATIONS, AND ADMINISTRATIVE RESOURCES (SOAR) TO THE NIH",
+   "org": "KELLY SERVICES, INC.",
+   "location": null
+  },
+  "provide meeting logistical support for ic wide meetings/conferences.|miami environmental & energy solutions llc|": {
+   "first_seen": "2026-11-16T02:06:51+00:00",
+   "last_seen": "2026-11-16T02:06:51+00:00",
+   "title": "PROVIDE MEETING LOGISTICAL SUPPORT FOR IC WIDE MEETINGS/CONFERENCES.",
+   "org": "MIAMI ENVIRONMENTAL & ENERGY SOLUTIONS LLC",
+   "location": null
+  },
+  "hhsn275201400003i/hhsn27500037 - storage of numom2b specimens for the pregnancy and perinatology branch of nichd - fishe|fisher bioservices inc|": {
+   "first_seen": "2026-11-16T02:06:51+00:00",
+   "last_seen": "2026-11-16T02:06:51+00:00",
+   "title": "HHSN275201400003I/HHSN27500037 - STORAGE OF NUMOM2B SPECIMENS FOR THE PREGNANCY AND PERINATOLOGY BRANCH OF NICHD - FISHER BIOSERVICES - CAN 8014735",
+   "org": "FISHER BIOSERVICES INC",
+   "location": null
+  },
+  "base award|university of maryland, baltimore|": {
+   "first_seen": "2026-11-16T02:06:51+00:00",
+   "last_seen": "2026-11-16T02:06:51+00:00",
+   "title": "BASE AWARD",
+   "org": "UNIVERSITY OF MARYLAND, BALTIMORE",
+   "location": null
+  },
+  "the atherosclerosis risk in communities (aric) study - field center - task order 01, task area a|wake forest university health sciences|": {
+   "first_seen": "2026-11-16T02:06:51+00:00",
+   "last_seen": "2026-11-16T02:06:51+00:00",
+   "title": "THE ATHEROSCLEROSIS RISK IN COMMUNITIES (ARIC) STUDY - FIELD CENTER - TASK ORDER 01, TASK AREA A",
+   "org": "WAKE FOREST UNIVERSITY HEALTH SCIENCES",
+   "location": null
+  },
+  "the atherosclerosis risk in communities (aric) study - coordinating center - core study operations- task order 01, task |university of north carolina at chapel hill|": {
+   "first_seen": "2026-11-16T02:06:51+00:00",
+   "last_seen": "2026-11-16T02:06:51+00:00",
+   "title": "THE ATHEROSCLEROSIS RISK IN COMMUNITIES (ARIC) STUDY - COORDINATING CENTER - CORE STUDY OPERATIONS- TASK ORDER 01, TASK AREA A",
+   "org": "UNIVERSITY OF NORTH CAROLINA AT CHAPEL HILL",
+   "location": null
+  },
+  "prime vendor pharmaceuticals - crsu|mckesson corporation|": {
+   "first_seen": "2026-11-16T02:06:51+00:00",
+   "last_seen": "2026-11-16T02:06:51+00:00",
+   "title": "PRIME VENDOR PHARMACEUTICALS - CRSU",
+   "org": "MCKESSON CORPORATION",
+   "location": null
+  },
+  "mckesson prime vendor - crsu|mckesson corporation|": {
+   "first_seen": "2026-11-16T02:06:51+00:00",
+   "last_seen": "2026-11-16T02:06:51+00:00",
+   "title": "MCKESSON PRIME VENDOR - CRSU",
+   "org": "MCKESSON CORPORATION",
+   "location": null
+  },
+  "lawton er physician services|chenega government mission solutions, llc|": {
+   "first_seen": "2026-11-16T02:06:51+00:00",
+   "last_seen": "2026-11-16T02:06:51+00:00",
+   "title": "LAWTON ER PHYSICIAN SERVICES",
+   "org": "CHENEGA GOVERNMENT MISSION SOLUTIONS, LLC",
+   "location": null
+  },
+  "certified nurse midwife (cnm) services for ihs pine ridge service unit|sharestaff llc|": {
+   "first_seen": "2026-11-16T02:06:51+00:00",
+   "last_seen": "2026-11-16T02:06:51+00:00",
+   "title": "CERTIFIED NURSE MIDWIFE (CNM) SERVICES FOR IHS PINE RIDGE SERVICE UNIT",
+   "org": "SHARESTAFF LLC",
+   "location": null
+  },
+  "temporary ob services for belcourt 9/17/2025 to 9/14/2028|prairie band health services inc|": {
+   "first_seen": "2026-11-16T02:06:51+00:00",
+   "last_seen": "2026-11-16T02:06:51+00:00",
+   "title": "TEMPORARY OB SERVICES FOR BELCOURT 9/17/2025 TO 9/14/2028",
+   "org": "PRAIRIE BAND HEALTH SERVICES INC",
+   "location": null
+  },
+  "this is a purchase order for commercial items prepared in accordance with federal acquisition regulation (far) subpart 1|purple rope entertainment|": {
+   "first_seen": "2026-11-16T02:06:51+00:00",
+   "last_seen": "2026-11-16T02:06:51+00:00",
+   "title": "THIS IS A PURCHASE ORDER FOR COMMERCIAL ITEMS PREPARED IN ACCORDANCE WITH FEDERAL ACQUISITION REGULATION (FAR) SUBPART 12.6, AS SUPPLEMENTED WITH ADDITIONAL INFORMATION INCLUDED IN THIS NOTICE. THIS IS A FIRM FIXED PRICE (FFP) PURCHASE ORDE",
+   "org": "PURPLE ROPE ENTERTAINMENT",
+   "location": null
+  },
+  "the architect / engineer (a/e) consultant (referred to as ?a/e? or ?consultant? throughout) shall complete pre-design an|johnson, smitthipong & rosamond associates, inc.|": {
+   "first_seen": "2026-11-16T02:06:51+00:00",
+   "last_seen": "2026-11-16T02:06:51+00:00",
+   "title": "THE ARCHITECT / ENGINEER (A/E) CONSULTANT (REFERRED TO AS ?A/E? OR ?CONSULTANT? THROUGHOUT) SHALL COMPLETE PRE-DESIGN AND DESIGN ARCHITECTURE AND ENGINEERING ACTIVITIES FOR THE INDIAN HEALTH SERVICE (IHS) CHEMAWA SCHOOL-BASED HEALTH CENTER ",
+   "org": "JOHNSON, SMITTHIPONG & ROSAMOND ASSOCIATES, INC.",
+   "location": null
+  },
+  "gimc ed renovation design|johnson, smitthipong & rosamond associates, inc.|": {
+   "first_seen": "2026-11-16T02:06:51+00:00",
+   "last_seen": "2026-11-16T02:06:51+00:00",
+   "title": "GIMC ED RENOVATION DESIGN",
+   "org": "JOHNSON, SMITTHIPONG & ROSAMOND ASSOCIATES, INC.",
+   "location": null
+  },
+  "cms will utilize this task order as a part of the overall provider enrollment and oversight, indefinite delivery, indefi|the signature consulting group, llc|": {
+   "first_seen": "2026-11-16T02:06:51+00:00",
+   "last_seen": "2026-11-16T02:06:51+00:00",
+   "title": "CMS WILL UTILIZE THIS TASK ORDER AS A PART OF THE OVERALL PROVIDER ENROLLMENT AND OVERSIGHT, INDEFINITE DELIVERY, INDEFINITE QUANTITY CONTRACT (PEO-IDIQ) TO DETECT, PREVENT, AND PROACTIVELY DETER FRAUD, WASTE AND ABUSE IN THE MEDICARE AND/O",
+   "org": "THE SIGNATURE CONSULTING GROUP, LLC",
+   "location": null
+  },
+  "cms will utilize this task order as a part of the overall provider enrollment and oversight, indefinite delivery, indefi|arch systems llc|": {
+   "first_seen": "2026-11-16T02:06:51+00:00",
+   "last_seen": "2026-11-16T02:06:51+00:00",
+   "title": "CMS WILL UTILIZE THIS TASK ORDER AS A PART OF THE OVERALL PROVIDER ENROLLMENT AND OVERSIGHT, INDEFINITE DELIVERY, INDEFINITE QUANTITY CONTRACT (PEO-IDIQ) TO DETECT, PREVENT, AND PROACTIVELY DETER FRAUD, WASTE AND ABUSE IN THE MEDICARE AND/O",
+   "org": "ARCH SYSTEMS LLC",
+   "location": null
+  },
+  "qualified independent contractor (qic) idiq contract - c2c innovative solutions|c2c innovative solutions, inc.|": {
+   "first_seen": "2026-11-16T02:06:51+00:00",
+   "last_seen": "2026-11-16T02:06:51+00:00",
+   "title": "QUALIFIED INDEPENDENT CONTRACTOR (QIC) IDIQ CONTRACT - C2C INNOVATIVE SOLUTIONS",
+   "org": "C2C INNOVATIVE SOLUTIONS, INC.",
+   "location": null
+  },
+  "the research data development group (rddg) within the office of enterprise data and analytics (oeda) supports the agency|skyward dynamics information technology, llc|": {
+   "first_seen": "2026-11-16T02:06:51+00:00",
+   "last_seen": "2026-11-16T02:06:51+00:00",
+   "title": "THE RESEARCH DATA DEVELOPMENT GROUP (RDDG) WITHIN THE OFFICE OF ENTERPRISE DATA AND ANALYTICS (OEDA) SUPPORTS THE AGENCY'S MISSION BY OPERATING AND MAINTAINING THE CHRONIC CONDITIONS WAREHOUSE (CCW) AND VIRTUAL RESEARCH DATA CENTER (VRDC). ",
+   "org": "SKYWARD DYNAMICS INFORMATION TECHNOLOGY, LLC",
+   "location": null
+  },
+  "ppg integrated financial and actuarial contract recompete base year|deloitte consulting llp|": {
+   "first_seen": "2026-11-16T02:06:51+00:00",
+   "last_seen": "2026-11-16T02:06:51+00:00",
+   "title": "PPG INTEGRATED FINANCIAL AND ACTUARIAL CONTRACT RECOMPETE BASE YEAR",
+   "org": "DELOITTE CONSULTING LLP",
+   "location": null
+  },
+  "master data management (mdm) and enterprise data lake (edl)|next phase solutions and services, inc.|": {
+   "first_seen": "2026-11-16T02:06:51+00:00",
+   "last_seen": "2026-11-16T02:06:51+00:00",
+   "title": "MASTER DATA MANAGEMENT (MDM) AND ENTERPRISE DATA LAKE (EDL)",
+   "org": "NEXT PHASE SOLUTIONS AND SERVICES, INC.",
+   "location": null
+  },
+  "nitaac cio-sp3 small business task order of re-competed wms requirement|a square group llc|": {
+   "first_seen": "2026-11-16T02:06:51+00:00",
+   "last_seen": "2026-11-16T02:06:51+00:00",
+   "title": "NITAAC CIO-SP3 SMALL BUSINESS TASK ORDER OF RE-COMPETED WMS REQUIREMENT",
+   "org": "A SQUARE GROUP LLC",
+   "location": null
+  },
+  "data services hub (dsh)|sparksoft corporation|": {
+   "first_seen": "2026-11-16T02:06:51+00:00",
+   "last_seen": "2026-11-16T02:06:51+00:00",
+   "title": "DATA SERVICES HUB (DSH)",
+   "org": "SPARKSOFT CORPORATION",
+   "location": null
+  },
+  "nctr on-site animal care and technical procedures in accordance with pws and appendices|the bionetics corp|": {
+   "first_seen": "2026-11-16T02:06:51+00:00",
+   "last_seen": "2026-11-16T02:06:51+00:00",
+   "title": "NCTR ON-SITE ANIMAL CARE AND TECHNICAL PROCEDURES IN ACCORDANCE WITH PWS AND APPENDICES",
+   "org": "THE BIONETICS CORP",
+   "location": null
+  },
+  "help desk bridge contract|humantouch llc|": {
+   "first_seen": "2026-11-16T02:06:51+00:00",
+   "last_seen": "2026-11-16T02:06:51+00:00",
+   "title": "HELP DESK BRIDGE CONTRACT",
+   "org": "HUMANTOUCH LLC",
+   "location": null
+  },
+  "preventative maintenance and repair for waters instruments - alliance hplc, acquity uplc, and prep-lc systems|waters technologies corporation|": {
+   "first_seen": "2026-11-16T02:06:51+00:00",
+   "last_seen": "2026-11-16T02:06:51+00:00",
+   "title": "PREVENTATIVE MAINTENANCE AND REPAIR FOR WATERS INSTRUMENTS - ALLIANCE HPLC, ACQUITY UPLC, AND PREP-LC SYSTEMS",
+   "org": "WATERS TECHNOLOGIES CORPORATION",
+   "location": null
+  },
+  "ncird technical business analytics services for sap-based solutions|goldbelt professional services, llc|": {
+   "first_seen": "2026-11-16T02:06:51+00:00",
+   "last_seen": "2026-11-16T02:06:51+00:00",
+   "title": "NCIRD TECHNICAL BUSINESS ANALYTICS SERVICES FOR SAP-BASED SOLUTIONS",
+   "org": "GOLDBELT PROFESSIONAL SERVICES, LLC",
+   "location": null
+  },
+  "formative research|research triangle institute|": {
+   "first_seen": "2026-11-16T02:06:51+00:00",
+   "last_seen": "2026-11-16T02:06:51+00:00",
+   "title": "FORMATIVE RESEARCH",
+   "org": "RESEARCH TRIANGLE INSTITUTE",
+   "location": null
+  },
+  "food and drug administration (fda) office of operations (oo), office of talent solutions (ots), office of human capital |oban corporation|": {
+   "first_seen": "2026-11-16T02:06:51+00:00",
+   "last_seen": "2026-11-16T02:06:51+00:00",
+   "title": "FOOD AND DRUG ADMINISTRATION (FDA) OFFICE OF OPERATIONS (OO), OFFICE OF TALENT SOLUTIONS (OTS), OFFICE OF HUMAN CAPITAL MANAGEMENT (OHCM) SUPPORT SERVICES",
+   "org": "OBAN CORPORATION",
+   "location": null
+  },
+  "engine equipment|fairbanks morse, llc|": {
+   "first_seen": "2026-11-16T02:06:51+00:00",
+   "last_seen": "2026-11-16T02:06:51+00:00",
+   "title": "ENGINE EQUIPMENT",
+   "org": "FAIRBANKS MORSE, LLC",
+   "location": null
+  },
+  "design build construction for hc-130j flight simulator facility at u.s. coast guard base elizabeth city, nc|bristol design build services, llc|": {
+   "first_seen": "2026-11-16T02:06:51+00:00",
+   "last_seen": "2026-11-16T02:06:51+00:00",
+   "title": "DESIGN BUILD CONSTRUCTION FOR HC-130J FLIGHT SIMULATOR FACILITY AT U.S. COAST GUARD BASE ELIZABETH CITY, NC",
+   "org": "BRISTOL DESIGN BUILD SERVICES, LLC",
+   "location": null
+  },
+  "replace mooring hardware at u.s. coast guard sector guam, santa rita, guam|tridon corporation|": {
+   "first_seen": "2026-11-16T02:06:51+00:00",
+   "last_seen": "2026-11-16T02:06:51+00:00",
+   "title": "REPLACE MOORING HARDWARE AT U.S. COAST GUARD SECTOR GUAM, SANTA RITA, GUAM",
+   "org": "TRIDON CORPORATION",
+   "location": null
+  },
+  "the purpose of this task order is to conduct the mpde 16k overhaul for the cgc munro.|rolls-royce solutions america inc|": {
+   "first_seen": "2026-11-16T02:06:51+00:00",
+   "last_seen": "2026-11-16T02:06:51+00:00",
+   "title": "THE PURPOSE OF THIS TASK ORDER IS TO CONDUCT THE MPDE 16K OVERHAUL FOR THE CGC MUNRO.",
+   "org": "ROLLS-ROYCE SOLUTIONS AMERICA INC",
+   "location": null
+  },
+  "uscgc john mccormick ds|jag ketchikan, llc|": {
+   "first_seen": "2026-11-16T02:06:51+00:00",
+   "last_seen": "2026-11-16T02:06:51+00:00",
+   "title": "USCGC JOHN MCCORMICK DS",
+   "org": "JAG KETCHIKAN, LLC",
+   "location": null
+  },
+  "task order is for the purchase a system upgrade agreement ii/system upgrade manager to provide lifecycle support for the|motorola solutions, inc.|": {
+   "first_seen": "2026-11-16T02:06:51+00:00",
+   "last_seen": "2026-11-16T02:06:51+00:00",
+   "title": "TASK ORDER IS FOR THE PURCHASE A SYSTEM UPGRADE AGREEMENT II/SYSTEM UPGRADE MANAGER TO PROVIDE LIFECYCLE SUPPORT FOR THE REMOTE RADIO CONTROL SYSTEM (RRCS), A RESCUE 21 ALASKA SUPPORTIVE SYSTEM.",
+   "org": "MOTOROLA SOLUTIONS, INC.",
+   "location": null
+  },
+  "the logistics support services requirement consists of 10 full-time positions in baltimore, md. supply technician, logis|chimes district of columbia inc|": {
+   "first_seen": "2026-11-16T02:06:51+00:00",
+   "last_seen": "2026-11-16T02:06:51+00:00",
+   "title": "THE LOGISTICS SUPPORT SERVICES REQUIREMENT CONSISTS OF 10 FULL-TIME POSITIONS IN BALTIMORE, MD. SUPPLY TECHNICIAN, LOGISTICIAN MANAGEMENT SPECIALIST, EQUIPMENT SPECIALIST, FREIGHT RATE ASSISTANT, AND CONFIGURATION MANAGEMENT SPECIALIST.",
+   "org": "CHIMES DISTRICT OF COLUMBIA INC",
+   "location": null
+  },
+  "program depot maintenance support services - option period one|innovative consulting & management services, llc|": {
+   "first_seen": "2026-11-16T02:06:51+00:00",
+   "last_seen": "2026-11-16T02:06:51+00:00",
+   "title": "PROGRAM DEPOT MAINTENANCE SUPPORT SERVICES - OPTION PERIOD ONE",
+   "org": "INNOVATIVE CONSULTING & MANAGEMENT SERVICES, LLC",
+   "location": null
+  },
+  "contractor support for uscg office of procurement policy & oversight (cg-913) to provide training, guidance, and oversig|eagle harbor, llc|": {
+   "first_seen": "2026-11-16T02:06:51+00:00",
+   "last_seen": "2026-11-16T02:06:51+00:00",
+   "title": "CONTRACTOR SUPPORT FOR USCG OFFICE OF PROCUREMENT POLICY & OVERSIGHT (CG-913) TO PROVIDE TRAINING, GUIDANCE, AND OVERSIGHT OF THE CONTRACTING OFFICER REPRESENTATIVE (COR) PROGRAM.",
+   "org": "EAGLE HARBOR, LLC",
+   "location": null
+  },
+  "purcurement,delivery, reactivation and training of two (2) 65-foot response boats with cradles, spare parts, and support|safe boats international llc|": {
+   "first_seen": "2026-11-16T02:06:51+00:00",
+   "last_seen": "2026-11-16T02:06:51+00:00",
+   "title": "PURCUREMENT,DELIVERY, REACTIVATION AND TRAINING OF TWO (2) 65-FOOT RESPONSE BOATS WITH CRADLES, SPARE PARTS, AND SUPPORT MATERIALS. DJIBOUTI FMS LOA DB-P-LCA",
+   "org": "SAFE BOATS INTERNATIONAL LLC",
+   "location": null
+  },
+  "usss eis to1 data & voice services|at&t enterprises, llc|": {
+   "first_seen": "2026-11-16T02:06:51+00:00",
+   "last_seen": "2026-11-16T02:06:51+00:00",
+   "title": "USSS EIS TO1 DATA & VOICE SERVICES",
+   "org": "AT&T ENTERPRISES, LLC",
+   "location": null
+  },
+  "hcats follow on task orders|deloitte consulting llp|": {
+   "first_seen": "2026-11-16T02:06:51+00:00",
+   "last_seen": "2026-11-16T02:06:51+00:00",
+   "title": "HCATS FOLLOW ON TASK ORDERS",
+   "org": "DELOITTE CONSULTING LLP",
+   "location": null
+  },
+  "development of on person screening capabilities for open architecture and high-definition advanced imaging technology wi|liberty defense technologies, inc.|": {
+   "first_seen": "2026-11-16T02:06:51+00:00",
+   "last_seen": "2026-11-16T02:06:51+00:00",
+   "title": "DEVELOPMENT OF ON PERSON SCREENING CAPABILITIES FOR OPEN ARCHITECTURE AND HIGH-DEFINITION ADVANCED IMAGING TECHNOLOGY WIDEBAND UPGRADE KIT.",
+   "org": "LIBERTY DEFENSE TECHNOLOGIES, INC.",
+   "location": null
+  },
+  "cisco ea - cisco hardware and software provides for system upgrades, service calls and access to the technical support f|anacapa micro products, inc.|": {
+   "first_seen": "2026-11-16T02:06:51+00:00",
+   "last_seen": "2026-11-16T02:06:51+00:00",
+   "title": "CISCO EA - CISCO HARDWARE AND SOFTWARE PROVIDES FOR SYSTEM UPGRADES, SERVICE CALLS AND ACCESS TO THE TECHNICAL SUPPORT FOR TROUBLESHOOTING AS WELL AS PROVIDING USCIS WITH ACCESS TO AN ONLINE KNOWLEDGE BASE. POP 2/19/25 TO 2/13/26.",
+   "org": "ANACAPA MICRO PRODUCTS, INC.",
+   "location": null
+  },
+  "to provides effective operational and management solutions to facilitate the sustainability and administration of the in|caci nss, llc|": {
+   "first_seen": "2026-11-16T02:06:51+00:00",
+   "last_seen": "2026-11-16T02:06:51+00:00",
+   "title": "TO PROVIDES EFFECTIVE OPERATIONAL AND MANAGEMENT SOLUTIONS TO FACILITATE THE SUSTAINABILITY AND ADMINISTRATION OF THE INFORMATION TECHNOLOGY (IT) SYSTEMS IN SUPPORT OF THE DHS HEADQUARTERS (HQ) MGMT DIRECTORATE AND COMPONENT MISSION REQUIRE",
+   "org": "CACI NSS, LLC",
+   "location": null
+  },
+  "design the office of the chief data officer at dhs|the mitre corporation|": {
+   "first_seen": "2026-11-16T02:06:51+00:00",
+   "last_seen": "2026-11-16T02:06:51+00:00",
+   "title": "DESIGN THE OFFICE OF THE CHIEF DATA OFFICER AT DHS",
+   "org": "THE MITRE CORPORATION",
+   "location": null
+  },
+  "cbts at texas a&m university (tamu) system to perform research/scientific services that are within scope under the boa 7|texas a & m university|": {
+   "first_seen": "2026-11-16T02:06:51+00:00",
+   "last_seen": "2026-11-16T02:06:51+00:00",
+   "title": "CBTS AT TEXAS A&M UNIVERSITY (TAMU) SYSTEM TO PERFORM RESEARCH/SCIENTIFIC SERVICES THAT ARE WITHIN SCOPE UNDER THE BOA 70RSAT21G00000001.",
+   "org": "TEXAS A & M UNIVERSITY",
+   "location": null
+  },
+  "contract award for the plum island animal disease center (piadc) plum island closure and support (pics) program scientif|merrick & company|": {
+   "first_seen": "2026-11-16T02:06:51+00:00",
+   "last_seen": "2026-11-16T02:06:51+00:00",
+   "title": "CONTRACT AWARD FOR THE PLUM ISLAND ANIMAL DISEASE CENTER (PIADC) PLUM ISLAND CLOSURE AND SUPPORT (PICS) PROGRAM SCIENTIFIC, TECHNICAL AND ENGINEERING SUPPORT (STENS) PROJECT.",
+   "org": "MERRICK & COMPANY",
+   "location": null
+  },
+  "continuous vetting analytics support services (cvas) and enterprise security forms system (esfs).|government acquisitions llc|": {
+   "first_seen": "2026-11-16T02:06:51+00:00",
+   "last_seen": "2026-11-16T02:06:51+00:00",
+   "title": "CONTINUOUS VETTING ANALYTICS SUPPORT SERVICES (CVAS) AND ENTERPRISE SECURITY FORMS SYSTEM (ESFS).",
+   "org": "GOVERNMENT ACQUISITIONS LLC",
+   "location": null
+  },
+  "cb engineering and lab support services|the mitre corporation|": {
+   "first_seen": "2026-11-16T02:06:51+00:00",
+   "last_seen": "2026-11-16T02:06:51+00:00",
+   "title": "CB ENGINEERING AND LAB SUPPORT SERVICES",
+   "org": "THE MITRE CORPORATION",
+   "location": null
+  },
+  "outdoor range roofs repair and replacement for buildings 157, 159, 161, 163, 165, 167, 125, and 127. fy25 exclusion sect|bristol design build services, llc|": {
+   "first_seen": "2026-11-16T02:06:51+00:00",
+   "last_seen": "2026-11-16T02:06:51+00:00",
+   "title": "OUTDOOR RANGE ROOFS REPAIR AND REPLACEMENT FOR BUILDINGS 157, 159, 161, 163, 165, 167, 125, AND 127. FY25 EXCLUSION SECTION 2(D).",
+   "org": "BRISTOL DESIGN BUILD SERVICES, LLC",
+   "location": null
+  },
+  "field services contract for 5,000 damage assessments task order in support of disaster number 4946 for guam.|vanguard inspection services|": {
+   "first_seen": "2026-11-16T02:06:51+00:00",
+   "last_seen": "2026-11-16T02:06:51+00:00",
+   "title": "FIELD SERVICES CONTRACT FOR 5,000 DAMAGE ASSESSMENTS TASK ORDER IN SUPPORT OF DISASTER NUMBER 4946 FOR GUAM.",
+   "org": "VANGUARD INSPECTION SERVICES",
+   "location": null
+  },
+  "the purpose of this order is to provide 18,000 housing inspection services in support of the presidential individual ass|wsp usa services inc.|": {
+   "first_seen": "2026-11-16T02:06:51+00:00",
+   "last_seen": "2026-11-16T02:06:51+00:00",
+   "title": "THE PURPOSE OF THIS ORDER IS TO PROVIDE 18,000 HOUSING INSPECTION SERVICES IN SUPPORT OF THE PRESIDENTIAL INDIVIDUAL ASSISTANCE DECLARATION FOR DISASTER 4955 FLORIDA.",
+   "org": "WSP USA SERVICES INC.",
+   "location": null
+  },
+  "federal emergency management agency qualification system curriculum development.|bloomsburie llc|": {
+   "first_seen": "2026-11-16T02:06:51+00:00",
+   "last_seen": "2026-11-16T02:06:51+00:00",
+   "title": "FEDERAL EMERGENCY MANAGEMENT AGENCY QUALIFICATION SYSTEM CURRICULUM DEVELOPMENT.",
+   "org": "BLOOMSBURIE LLC",
+   "location": null
+  },
+  "the purpose of this award is to establish a single award hybrid contract with firm-fixed price and cost reimbursement co|international service contractors llc|": {
+   "first_seen": "2026-11-16T02:06:51+00:00",
+   "last_seen": "2026-11-16T02:06:51+00:00",
+   "title": "THE PURPOSE OF THIS AWARD IS TO ESTABLISH A SINGLE AWARD HYBRID CONTRACT WITH FIRM-FIXED PRICE AND COST REIMBURSEMENT CONTRACT LINE ITEMS (CLINS). THE CONTRACTOR SHALL PROVIDE ALL PERSONNEL, EQUIPMENT, MATERIAL, AND SUPPLIES (EXCEPT AS EXPR",
+   "org": "INTERNATIONAL SERVICE CONTRACTORS LLC",
+   "location": null
+  },
+  "the purpose of this award is to provide the office of information governance and privacy (oigp) with expert industry res|gartner, inc.|": {
+   "first_seen": "2026-11-16T02:06:51+00:00",
+   "last_seen": "2026-11-16T02:06:51+00:00",
+   "title": "THE PURPOSE OF THIS AWARD IS TO PROVIDE THE OFFICE OF INFORMATION GOVERNANCE AND PRIVACY (OIGP) WITH EXPERT INDUSTRY RESEARCH, DATA, AND STRATEGIC GUIDANCE TOWARDS INFORMATION TECHNOLOGY INITIATIVES.",
+   "org": "GARTNER, INC.",
+   "location": null
+  },
+  "the scope of this order is to provide homeland security investigations (hsi) collaborative services support for the blue|procentrix, llc|": {
+   "first_seen": "2026-11-16T02:06:51+00:00",
+   "last_seen": "2026-11-16T02:06:51+00:00",
+   "title": "THE SCOPE OF THIS ORDER IS TO PROVIDE HOMELAND SECURITY INVESTIGATIONS (HSI) COLLABORATIVE SERVICES SUPPORT FOR THE BLUE LINE BRIDGE (BLB) COLLABORATION PLATFORM LANDING PAGE TO COORDINATE OPERATIONS BETWEEN LOCAL BUSINESSES AND THE HSI TAS",
+   "org": "PROCENTRIX, LLC",
+   "location": null
+  },
+  "ediscovery ice software as a solution (edsice saas)|casepoint, llc|": {
+   "first_seen": "2026-11-16T02:06:51+00:00",
+   "last_seen": "2026-11-16T02:06:51+00:00",
+   "title": "EDISCOVERY ICE SOFTWARE AS A SOLUTION (EDSICE SAAS)",
+   "org": "CASEPOINT, LLC",
+   "location": null
+  },
+  "collaborative services for the enterprise platform services branch (epsb) projects to include opla case management syste|procentrix, llc|": {
+   "first_seen": "2026-11-16T02:06:51+00:00",
+   "last_seen": "2026-11-16T02:06:51+00:00",
+   "title": "COLLABORATIVE SERVICES FOR THE ENTERPRISE PLATFORM SERVICES BRANCH (EPSB) PROJECTS TO INCLUDE OPLA CASE MANAGEMENT SYSTEM (OCMS), STUDENT AND EXCHANGE VISITOR PROGRAM AUTOMATED MANAGEMENT SYSTEM (SEVPAMS), ICE CORRESPONDENCE AND TASK TRACKI",
+   "org": "PROCENTRIX, LLC",
+   "location": null
+  },
+  "this award provides ice homeland security investigations office of intelligence with tip line call center support servic|techop solutions international, inc.|": {
+   "first_seen": "2026-11-16T02:06:51+00:00",
+   "last_seen": "2026-11-16T02:06:51+00:00",
+   "title": "THIS AWARD PROVIDES ICE HOMELAND SECURITY INVESTIGATIONS OFFICE OF INTELLIGENCE WITH TIP LINE CALL CENTER SUPPORT SERVICES IN SUPPORT OF ONGOING LAW ENFORCEMENT INVESTIGATIONS.",
+   "org": "TECHOP SOLUTIONS INTERNATIONAL, INC.",
+   "location": null
+  },
+  "this contract provides detention and detention related services at the big horn detention facility in hudson, colorado. |the geo group, inc.|": {
+   "first_seen": "2026-11-16T02:06:51+00:00",
+   "last_seen": "2026-11-16T02:06:51+00:00",
+   "title": "THIS CONTRACT PROVIDES DETENTION AND DETENTION RELATED SERVICES AT THE BIG HORN DETENTION FACILITY IN HUDSON, COLORADO. THIS TASK ORDER PROVIDES ESTABLISHES THE BASE PERIOD CLINS AND PROVIDES FUNDING FOR THE TRANSITION PERIOD.",
+   "org": "THE GEO GROUP, INC.",
+   "location": null
+  },
+  "new purchase order for houston firing range period of performance: 01aug2022 - 31jul2023 new task order number: to be is|go & zalez inc|": {
+   "first_seen": "2026-11-16T02:06:51+00:00",
+   "last_seen": "2026-11-16T02:06:51+00:00",
+   "title": "NEW PURCHASE ORDER FOR HOUSTON FIRING RANGE PERIOD OF PERFORMANCE: 01AUG2022 - 31JUL2023 NEW TASK ORDER NUMBER: TO BE ISSUSED BY OAQ",
+   "org": "GO & ZALEZ INC",
+   "location": null
+  },
+  "dining facilities services.|west virginia division of rehabilitation services|": {
+   "first_seen": "2026-11-16T02:06:51+00:00",
+   "last_seen": "2026-11-16T02:06:51+00:00",
+   "title": "DINING FACILITIES SERVICES.",
+   "org": "WEST VIRGINIA DIVISION OF REHABILITATION SERVICES",
+   "location": null
+  },
+  "this is a task order for support services to the sgo office of the cbp commissioner's office.|deloitte consulting llp|": {
+   "first_seen": "2026-11-16T02:06:51+00:00",
+   "last_seen": "2026-11-16T02:06:51+00:00",
+   "title": "THIS IS A TASK ORDER FOR SUPPORT SERVICES TO THE SGO OFFICE OF THE CBP COMMISSIONER'S OFFICE.",
+   "org": "DELOITTE CONSULTING LLP",
+   "location": null
+  },
+  "cbp's data center support services (dcss).|accenture federal services llc|": {
+   "first_seen": "2026-11-16T02:06:51+00:00",
+   "last_seen": "2026-11-16T02:06:51+00:00",
+   "title": "CBP'S DATA CENTER SUPPORT SERVICES (DCSS).",
+   "org": "ACCENTURE FEDERAL SERVICES LLC",
+   "location": null
+  },
+  "sbir phase iii tis3 internet of things|tis3 llc|": {
+   "first_seen": "2026-11-16T02:06:51+00:00",
+   "last_seen": "2026-11-16T02:06:51+00:00",
+   "title": "SBIR PHASE III TIS3 INTERNET OF THINGS",
+   "org": "TIS3 LLC",
+   "location": null
+  },
+  "acquiring services from the a/e firm to design the new airport traffic control tower (atct) with administrative base bui|wiley & wilson, inc.|": {
+   "first_seen": "2026-11-16T02:06:51+00:00",
+   "last_seen": "2026-11-16T02:06:51+00:00",
+   "title": "ACQUIRING SERVICES FROM THE A/E FIRM TO DESIGN THE NEW AIRPORT TRAFFIC CONTROL TOWER (ATCT) WITH ADMINISTRATIVE BASE BUILDING AND NEW REMOTE TRANSMITTER RECEIVER (RTR) FACILITY AT MIAMI EXECUTIVE (TMB).",
+   "org": "WILEY & WILSON, INC.",
    "location": null
   }
  }

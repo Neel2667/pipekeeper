@@ -3,21 +3,45 @@
  "name": "Himalayas \u2014 remote jobs",
  "category": "jobs",
  "source": "https://himalayas.app/jobs/api",
- "collected_at": "2026-11-15T21:49:45+00:00",
+ "collected_at": "2026-11-16T02:06:48+00:00",
  "jobs_on_board": 20,
  "new_this_run": 20,
- "total_tracked": 79,
+ "total_tracked": 99,
  "jobs": [
   {
-   "title": "Executive Concierge - PST",
-   "org": "PwC",
-   "location": "United States",
-   "detail": "$35,500\u2013$109,120/a",
+   "title": "Platform Engineer (Backend Infrastructure)",
+   "org": "Focal Systems",
+   "location": "Albania, Andorra, Austria, Belarus, Belgium, Bosnia and Herzegovina, Bulgaria, Croatia, Cyprus, Czechia, Denmark, Estonia, Faroe Islands, Finland, France, Germany, Gibraltar, Greece, Guernsey, Holy See (Vatican City State), Hungary, Iceland",
+   "detail": "$102,000\u2013$117,500/a",
    "url": null,
    "new_this_run": true
   },
   {
-   "title": "Head of Sales & Distribution - WealthTech & Investment Technology",
+   "title": "Senior Manager of Compliance",
+   "org": "Trend Micro",
+   "location": "United States",
+   "detail": "Full Time",
+   "url": null,
+   "new_this_run": true
+  },
+  {
+   "title": "E-Commerce Operations Manager | Philippines",
+   "org": "HireHawk",
+   "location": "Philippines",
+   "detail": "Full Time",
+   "url": null,
+   "new_this_run": true
+  },
+  {
+   "title": "UM RN - Behavioral Health",
+   "org": "HealthEdge",
+   "location": "United States",
+   "detail": "$65,000\u2013$85,000/a",
+   "url": null,
+   "new_this_run": true
+  },
+  {
+   "title": "Full Stack Developer",
    "org": "Pavago",
    "location": "United States",
    "detail": "Full Time",
@@ -25,31 +49,47 @@
    "new_this_run": true
   },
   {
-   "title": "Sr. Manager, Project Management (Capital Projects, Automation, Medical Device/Ph",
-   "org": "Danaher",
-   "location": "United States",
-   "detail": "$155,000\u2013$165,000/a",
-   "url": null,
-   "new_this_run": true
-  },
-  {
-   "title": "Incident Response Lead",
-   "org": "CyberOne",
-   "location": "Philippines",
-   "detail": "Full Time",
-   "url": null,
-   "new_this_run": true
-  },
-  {
-   "title": "Enterprise Customer Success Manager",
-   "org": "Covalent",
+   "title": "Neurologist- Consultant",
+   "org": "Science 37",
    "location": "United States",
    "detail": "Full Time",
    "url": null,
    "new_this_run": true
   },
   {
-   "title": "User Researcher, Merchant Operations",
+   "title": "Product Designer",
+   "org": "Panacea Financial",
+   "location": "United States",
+   "detail": "Full Time",
+   "url": null,
+   "new_this_run": true
+  },
+  {
+   "title": "(USA) Senior, Data Engineer",
+   "org": "Walmart - Internal",
+   "location": "United States",
+   "detail": "$90,000\u2013$234,000/a",
+   "url": null,
+   "new_this_run": true
+  },
+  {
+   "title": "Partner Success Analyst",
+   "org": "Guidehouse",
+   "location": "United States",
+   "detail": "$56,000\u2013$94,000/a",
+   "url": null,
+   "new_this_run": true
+  },
+  {
+   "title": "Cloud Specialist - Development (Chile - Argentina - Per\u00fa)",
+   "org": "Escala 24x7",
+   "location": "Chile",
+   "detail": "Contractor",
+   "url": null,
+   "new_this_run": true
+  },
+  {
+   "title": "Technical Account Engineer",
    "org": "Bask Health",
    "location": "United States",
    "detail": "Full Time",
@@ -57,114 +97,74 @@
    "new_this_run": true
   },
   {
-   "title": "Senior Executive Assistant",
-   "org": "New Left Accelerator and The Capacity Shop",
-   "location": "United States",
-   "detail": "$94,000\u2013$124,000/a",
-   "url": null,
-   "new_this_run": true
-  },
-  {
-   "title": "Director, Corporate Content",
-   "org": "IonQ",
-   "location": "United States",
-   "detail": "$148,000\u2013$185,000/a",
-   "url": null,
-   "new_this_run": true
-  },
-  {
-   "title": "Google Ads Strategist",
-   "org": "Sweat Pants Agency",
-   "location": "Czechia",
+   "title": "Principal Full Stack Engineer (Agentic Systems & Enablement)",
+   "org": "Modus Create",
+   "location": "Mexico",
    "detail": "Full Time",
    "url": null,
    "new_this_run": true
   },
   {
-   "title": "Customer Service (Call Center) Expert",
-   "org": "Xperteez Technology",
-   "location": "Canada, United States",
-   "detail": "$30\u2013$30/h",
-   "url": null,
-   "new_this_run": true
-  },
-  {
-   "title": "Solutions Architect",
-   "org": "Atreides",
-   "location": "Denmark",
-   "detail": "Full Time",
-   "url": null,
-   "new_this_run": true
-  },
-  {
-   "title": "Senior Google Ads Buyer, DTC eCommerce",
-   "org": "Sweat Pants Agency",
-   "location": "Serbia",
-   "detail": "Full Time",
-   "url": null,
-   "new_this_run": true
-  },
-  {
-   "title": "VRI Laotian Remote Interpreter",
-   "org": "Organica Interpreting Corp",
-   "location": "Lao People's Democratic Republic",
-   "detail": "$14\u2013$14/h",
-   "url": null,
-   "new_this_run": true
-  },
-  {
-   "title": "UX/UI Designer",
-   "org": "Pavago",
-   "location": "Philippines",
-   "detail": "Full Time",
-   "url": null,
-   "new_this_run": true
-  },
-  {
-   "title": "Technical Account Manager (m/f/d)",
-   "org": "Ververica GmbH",
-   "location": "Argentina, Bermuda, Bolivia, Brazil, Canada, Chile, Colombia, Ecuador, Falkland Islands (Malvinas), French Guiana, Greenland, Guyana, Mexico, Paraguay, Peru, Saint Pierre and Miquelon, Suriname, United States, United States Minor Outlying I",
-   "detail": "Full Time",
-   "url": null,
-   "new_this_run": true
-  },
-  {
-   "title": "Phone Auditor",
-   "org": "ARMStrong Receivable Management",
+   "title": "IT Analyst",
+   "org": "TCS Education",
    "location": "United States",
-   "detail": "$17\u2013$18/h",
-   "url": null,
-   "new_this_run": true
-  },
-  {
-   "title": "IT (Data Center) Business Development Executive",
-   "org": "Virtual Technologies Group",
-   "location": "United States",
-   "detail": "$120,000\u2013$320,000/a",
-   "url": null,
-   "new_this_run": true
-  },
-  {
-   "title": "Capital Markets Compliance Lead",
-   "org": "Collectors",
-   "location": "United States",
-   "detail": "$157,000\u2013$200,000/a",
-   "url": null,
-   "new_this_run": true
-  },
-  {
-   "title": "Remote Bilingual Mandarin Customer Experience Specialist",
-   "org": "Alignment Health",
-   "location": "United States",
-   "detail": "$41,600\u2013$57,600/a",
-   "url": null,
-   "new_this_run": true
-  },
-  {
-   "title": "Valuation Quality Control/Review Appraiser",
-   "org": "World Business Lenders",
-   "location": "Argentina, Brazil, Colombia, Costa Rica, Guatemala, Pakistan",
    "detail": "Full Time",
+   "url": null,
+   "new_this_run": true
+  },
+  {
+   "title": "Staff Software Engineer",
+   "org": "LemonEdge",
+   "location": "United States",
+   "detail": "Full Time",
+   "url": null,
+   "new_this_run": true
+  },
+  {
+   "title": "Redwood Automation Engineer (RunMyJobs / SAP BPA), SAP Finance, Finland",
+   "org": "Yadimen Consulting Limited",
+   "location": "Finland",
+   "detail": "Contractor",
+   "url": null,
+   "new_this_run": true
+  },
+  {
+   "title": "Senior Client Success & Account Manager - Hong Kong",
+   "org": "Abi global Health",
+   "location": "Hong Kong",
+   "detail": "$450,000\u2013$550,000/a",
+   "url": null,
+   "new_this_run": true
+  },
+  {
+   "title": "Microsoft Dynamics 365 Solution Architect",
+   "org": "Bright Vision Technologies",
+   "location": "United States",
+   "detail": "$115,000\u2013$165,000/a",
+   "url": null,
+   "new_this_run": true
+  },
+  {
+   "title": "Medical Risk Process Improvement & Training Consultant",
+   "org": "Symetra",
+   "location": "United States",
+   "detail": "$96,700\u2013$161,200/a",
+   "url": null,
+   "new_this_run": true
+  },
+  {
+   "title": "Auditing and Coding Analyst \u2013 Inpatient",
+   "org": "Compass Health Network",
+   "location": "United States",
+   "detail": "$25\u2013$25/h",
+   "url": null,
+   "new_this_run": true
+  },
+  {
+   "title": "Software Engineer (Backend focus)",
+   "org": "Virtuozzo",
+   "location": "Albania, Andorra, Austria, Belarus, Belgium, Bosnia and Herzegovina, Bulgaria, Croatia, Cyprus, Czechia, Denmark, Estonia, Faroe Islands, Finland, France, Germany, Gibraltar, Greece, Guernsey, Holy See (Vatican City State), Hungary, Iceland",
+   "detail": "Contractor",
    "url": null,
    "new_this_run": true
   }
@@ -197,6 +197,11 @@
   },
   {
    "at": "2026-11-15T21:49:45+00:00",
+   "jobs": 20,
+   "new": 20
+  },
+  {
+   "at": "2026-11-16T02:06:48+00:00",
    "jobs": 20,
    "new": 20
   }
@@ -754,6 +759,146 @@
    "title": "Valuation Quality Control/Review Appraiser",
    "org": "World Business Lenders",
    "location": "Argentina, Brazil, Colombia, Costa Rica, Guatemala, Pakistan"
+  },
+  "platform engineer (backend infrastructure)|focal systems|albania, andorra, austria, belarus, belgium, bosnia and herzegovina, bulgaria, croatia, cyprus, czechia, denmark, estoni": {
+   "first_seen": "2026-11-16T02:06:48+00:00",
+   "last_seen": "2026-11-16T02:06:48+00:00",
+   "title": "Platform Engineer (Backend Infrastructure)",
+   "org": "Focal Systems",
+   "location": "Albania, Andorra, Austria, Belarus, Belgium, Bosnia and Herzegovina, Bulgaria, Croatia, Cyprus, Czechia, Denmark, Estonia, Faroe Islands, Finland, France, Germany, Gibraltar, Greece, Guernsey, Holy See (Vatican City State), Hungary, Iceland"
+  },
+  "senior manager of compliance|trend micro|united states": {
+   "first_seen": "2026-11-16T02:06:48+00:00",
+   "last_seen": "2026-11-16T02:06:48+00:00",
+   "title": "Senior Manager of Compliance",
+   "org": "Trend Micro",
+   "location": "United States"
+  },
+  "e-commerce operations manager | philippines|hirehawk|philippines": {
+   "first_seen": "2026-11-16T02:06:48+00:00",
+   "last_seen": "2026-11-16T02:06:48+00:00",
+   "title": "E-Commerce Operations Manager | Philippines",
+   "org": "HireHawk",
+   "location": "Philippines"
+  },
+  "um rn - behavioral health|healthedge|united states": {
+   "first_seen": "2026-11-16T02:06:48+00:00",
+   "last_seen": "2026-11-16T02:06:48+00:00",
+   "title": "UM RN - Behavioral Health",
+   "org": "HealthEdge",
+   "location": "United States"
+  },
+  "full stack developer|pavago|united states": {
+   "first_seen": "2026-11-16T02:06:48+00:00",
+   "last_seen": "2026-11-16T02:06:48+00:00",
+   "title": "Full Stack Developer",
+   "org": "Pavago",
+   "location": "United States"
+  },
+  "neurologist- consultant|science 37|united states": {
+   "first_seen": "2026-11-16T02:06:48+00:00",
+   "last_seen": "2026-11-16T02:06:48+00:00",
+   "title": "Neurologist- Consultant",
+   "org": "Science 37",
+   "location": "United States"
+  },
+  "product designer|panacea financial|united states": {
+   "first_seen": "2026-11-16T02:06:48+00:00",
+   "last_seen": "2026-11-16T02:06:48+00:00",
+   "title": "Product Designer",
+   "org": "Panacea Financial",
+   "location": "United States"
+  },
+  "(usa) senior, data engineer|walmart - internal|united states": {
+   "first_seen": "2026-11-16T02:06:48+00:00",
+   "last_seen": "2026-11-16T02:06:48+00:00",
+   "title": "(USA) Senior, Data Engineer",
+   "org": "Walmart - Internal",
+   "location": "United States"
+  },
+  "partner success analyst|guidehouse|united states": {
+   "first_seen": "2026-11-16T02:06:48+00:00",
+   "last_seen": "2026-11-16T02:06:48+00:00",
+   "title": "Partner Success Analyst",
+   "org": "Guidehouse",
+   "location": "United States"
+  },
+  "cloud specialist - development (chile - argentina - per\u00fa)|escala 24x7|chile": {
+   "first_seen": "2026-11-16T02:06:48+00:00",
+   "last_seen": "2026-11-16T02:06:48+00:00",
+   "title": "Cloud Specialist - Development (Chile - Argentina - Per\u00fa)",
+   "org": "Escala 24x7",
+   "location": "Chile"
+  },
+  "technical account engineer|bask health|united states": {
+   "first_seen": "2026-11-16T02:06:48+00:00",
+   "last_seen": "2026-11-16T02:06:48+00:00",
+   "title": "Technical Account Engineer",
+   "org": "Bask Health",
+   "location": "United States"
+  },
+  "principal full stack engineer (agentic systems & enablement)|modus create|mexico": {
+   "first_seen": "2026-11-16T02:06:48+00:00",
+   "last_seen": "2026-11-16T02:06:48+00:00",
+   "title": "Principal Full Stack Engineer (Agentic Systems & Enablement)",
+   "org": "Modus Create",
+   "location": "Mexico"
+  },
+  "it analyst|tcs education|united states": {
+   "first_seen": "2026-11-16T02:06:48+00:00",
+   "last_seen": "2026-11-16T02:06:48+00:00",
+   "title": "IT Analyst",
+   "org": "TCS Education",
+   "location": "United States"
+  },
+  "staff software engineer|lemonedge|united states": {
+   "first_seen": "2026-11-16T02:06:48+00:00",
+   "last_seen": "2026-11-16T02:06:48+00:00",
+   "title": "Staff Software Engineer",
+   "org": "LemonEdge",
+   "location": "United States"
+  },
+  "redwood automation engineer (runmyjobs / sap bpa), sap finance, finland|yadimen consulting limited|finland": {
+   "first_seen": "2026-11-16T02:06:48+00:00",
+   "last_seen": "2026-11-16T02:06:48+00:00",
+   "title": "Redwood Automation Engineer (RunMyJobs / SAP BPA), SAP Finance, Finland",
+   "org": "Yadimen Consulting Limited",
+   "location": "Finland"
+  },
+  "senior client success & account manager - hong kong|abi global health|hong kong": {
+   "first_seen": "2026-11-16T02:06:48+00:00",
+   "last_seen": "2026-11-16T02:06:48+00:00",
+   "title": "Senior Client Success & Account Manager - Hong Kong",
+   "org": "Abi global Health",
+   "location": "Hong Kong"
+  },
+  "microsoft dynamics 365 solution architect|bright vision technologies|united states": {
+   "first_seen": "2026-11-16T02:06:48+00:00",
+   "last_seen": "2026-11-16T02:06:48+00:00",
+   "title": "Microsoft Dynamics 365 Solution Architect",
+   "org": "Bright Vision Technologies",
+   "location": "United States"
+  },
+  "medical risk process improvement & training consultant|symetra|united states": {
+   "first_seen": "2026-11-16T02:06:48+00:00",
+   "last_seen": "2026-11-16T02:06:48+00:00",
+   "title": "Medical Risk Process Improvement & Training Consultant",
+   "org": "Symetra",
+   "location": "United States"
+  },
+  "auditing and coding analyst \u2013 inpatient|compass health network|united states": {
+   "first_seen": "2026-11-16T02:06:48+00:00",
+   "last_seen": "2026-11-16T02:06:48+00:00",
+   "title": "Auditing and Coding Analyst \u2013 Inpatient",
+   "org": "Compass Health Network",
+   "location": "United States"
+  },
+  "software engineer (backend focus)|virtuozzo|albania, andorra, austria, belarus, belgium, bosnia and herzegovina, bulgaria, croatia, cyprus, czechia, denmark, estoni": {
+   "first_seen": "2026-11-16T02:06:48+00:00",
+   "last_seen": "2026-11-16T02:06:48+00:00",
+   "title": "Software Engineer (Backend focus)",
+   "org": "Virtuozzo",
+   "location": "Albania, Andorra, Austria, Belarus, Belgium, Bosnia and Herzegovina, Bulgaria, Croatia, Cyprus, Czechia, Denmark, Estonia, Faroe Islands, Finland, France, Germany, Gibraltar, Greece, Guernsey, Holy See (Vatican City State), Hungary, Iceland"
   }
  }
 }
