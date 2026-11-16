@@ -45,8 +45,9 @@ for fp in sorted(DATA.glob("*.json")):
 
 (DATA / "feeds.json").write_text(json.dumps({"generated_at": now, "feeds": feeds}, indent=1))
 
-# ---- per-feed sample CSV exports (what a buyer actually receives) ----
+# ---- per-feed SAMPLE CSV exports (teaser only — full delivery is the paid product) ----
 import csv
+SAMPLE_ROWS = 10
 exp = DATA / "exports"
 exp.mkdir(parents=True, exist_ok=True)
 for fp in sorted(DATA.glob("*.json")):
@@ -62,7 +63,7 @@ for fp in sorted(DATA.glob("*.json")):
     with open(exp / f"{fid}.csv", "w", newline="", encoding="utf-8") as fh:
         w = csv.writer(fh)
         w.writerow(["title", "org", "location", "detail", "url", "new_this_run"])
-        for j in d.get("jobs", []):
+        for j in d.get("jobs", [])[:SAMPLE_ROWS]:
             w.writerow([j.get("title", ""), j.get("org") or "", j.get("location") or "",
                         j.get("detail") or "", j.get("url") or "",
                         "yes" if j.get("new_this_run") else ""])

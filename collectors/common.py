@@ -21,7 +21,7 @@ BROWSER_UA = "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36
 BOT_UA = "PipeKeeperBot/0.1 (data pipeline; contact: nilesh)"
 CONTACT = "PipeKeeperBot/0.1 (pipeline demo; contact: nilesh)"
 MAX_SEEN = 5000  # bound jobs_seen growth per feed
-MAX_JOBS = 120   # records stored in the live "jobs" snapshot (all items still delta-tracked)
+MAX_JOBS = 12    # public snapshot per feed — SAMPLE ONLY (paid product = full delivery, deltas, archive)
 
 ENTITIES = [("&amp;", "&"), ("&lt;", "<"), ("&gt;", ">"), ("&quot;", '"'),
             ("&#39;", "'"), ("&apos;", "'"), ("&nbsp;", " "), ("&#x27;", "'"), ("&#x2F;", "/")]

@@ -112,33 +112,6 @@
    "weeks": 8,
    "kind": "travel",
    "new_this_run": false
-  },
-  {
-   "title": "RN - PICU",
-   "location": "Columbus, OH",
-   "pay_amount": "4,089.6",
-   "pay_unit": "week",
-   "weeks": 8,
-   "kind": "travel",
-   "new_this_run": false
-  },
-  {
-   "title": "RN - NICU",
-   "location": "Columbus, OH",
-   "pay_amount": "4,089.6",
-   "pay_unit": "week",
-   "weeks": 8,
-   "kind": "travel",
-   "new_this_run": false
-  },
-  {
-   "title": "RN - Nurse Manager",
-   "location": "Bronx, NY",
-   "pay_amount": "95.0",
-   "pay_unit": "hour",
-   "weeks": 13,
-   "kind": "local",
-   "new_this_run": false
   }
  ],
  "runs": [
