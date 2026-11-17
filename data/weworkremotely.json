@@ -3,9 +3,9 @@
  "name": "We Work Remotely \u2014 programming jobs",
  "category": "jobs",
  "source": "https://weworkremotely.com/categories/remote-programming-jobs.rss",
- "collected_at": "2026-11-17T13:26:08+00:00",
+ "collected_at": "2026-11-17T22:24:00+00:00",
  "jobs_on_board": 25,
- "new_this_run": 6,
+ "new_this_run": 0,
  "total_tracked": 35,
  "jobs": [
   {
@@ -14,7 +14,7 @@
    "location": null,
    "detail": "Front-End Programming",
    "url": "https://weworkremotely.com/remote-jobs/bybit-blockchain-risk-control-lead",
-   "new_this_run": true
+   "new_this_run": false
   },
   {
    "title": "Animator Intern",
@@ -22,7 +22,7 @@
    "location": null,
    "detail": "Front-End Programming",
    "url": "https://weworkremotely.com/remote-jobs/bybit-animator-intern",
-   "new_this_run": true
+   "new_this_run": false
   },
   {
    "title": "Senior Deployment Engineer with LLM and GPU Infrastructure experience",
@@ -30,7 +30,7 @@
    "location": null,
    "detail": "Full-Stack Programming",
    "url": "https://weworkremotely.com/remote-jobs/toptal-senior-deployment-engineer-with-llm-and-gpu-infrastructure-experience",
-   "new_this_run": true
+   "new_this_run": false
   },
   {
    "title": "AI Engineer - Agentic Systems",
@@ -38,7 +38,7 @@
    "location": null,
    "detail": "Full-Stack Programming",
    "url": "https://weworkremotely.com/remote-jobs/toptal-ai-engineer-agentic-systems",
-   "new_this_run": true
+   "new_this_run": false
   },
   {
    "title": "Analytics Engineer II, Full Stack (Revenue Analytics)",
@@ -46,7 +46,7 @@
    "location": null,
    "detail": "Full-Stack Programming",
    "url": "https://weworkremotely.com/remote-jobs/affirm-analytics-engineer-ii-full-stack-revenue-analytics",
-   "new_this_run": true
+   "new_this_run": false
   },
   {
    "title": "Senior Staff Data Scientist",
@@ -54,7 +54,7 @@
    "location": null,
    "detail": "Full-Stack Programming",
    "url": "https://weworkremotely.com/remote-jobs/netlify-senior-staff-data-scientist",
-   "new_this_run": true
+   "new_this_run": false
   },
   {
    "title": "Business Continuity Management Lead",
@@ -165,103 +165,108 @@
    "at": "2026-11-17T13:26:08+00:00",
    "jobs": 25,
    "new": 6
+  },
+  {
+   "at": "2026-11-17T22:24:00+00:00",
+   "jobs": 25,
+   "new": 0
   }
  ],
  "jobs_seen": {
   "senior data engineer - capital markets (r13923)|oportun|": {
    "first_seen": "2026-11-15T10:13:27+00:00",
-   "last_seen": "2026-11-17T13:26:08+00:00",
+   "last_seen": "2026-11-17T22:24:00+00:00",
    "title": "Senior Data Engineer - Capital Markets (R13923)",
    "org": "Oportun",
    "location": null
   },
   "senior analytics engineer / bi lead \u2014 channel insights (ix360)|toptal|": {
    "first_seen": "2026-11-15T10:13:27+00:00",
-   "last_seen": "2026-11-17T13:26:08+00:00",
+   "last_seen": "2026-11-17T22:24:00+00:00",
    "title": "Senior Analytics Engineer / BI Lead \u2014 Channel Insights (iX360)",
    "org": "Toptal",
    "location": null
   },
   "salesforce developer for org ownership and ongoing platform development|toptal|": {
    "first_seen": "2026-11-15T10:13:27+00:00",
-   "last_seen": "2026-11-17T13:26:08+00:00",
+   "last_seen": "2026-11-17T22:24:00+00:00",
    "title": "Salesforce Developer for Org Ownership and Ongoing Platform Development",
    "org": "Toptal",
    "location": null
   },
   "distribution engineer|vertex marketing group|": {
    "first_seen": "2026-11-15T10:13:27+00:00",
-   "last_seen": "2026-11-17T13:26:08+00:00",
+   "last_seen": "2026-11-17T22:24:00+00:00",
    "title": "Distribution Engineer",
    "org": "Vertex Marketing Group",
    "location": null
   },
   "client value partner (cvp) - utilities & energy industry|celonis|": {
    "first_seen": "2026-11-15T10:13:27+00:00",
-   "last_seen": "2026-11-17T13:26:08+00:00",
+   "last_seen": "2026-11-17T22:24:00+00:00",
    "title": "Client Value Partner (CVP) - Utilities & Energy Industry",
    "org": "Celonis",
    "location": null
   },
   "client value partner (cvp) - oil & gas industry|celonis|": {
    "first_seen": "2026-11-15T10:13:27+00:00",
-   "last_seen": "2026-11-17T13:26:08+00:00",
+   "last_seen": "2026-11-17T22:24:00+00:00",
    "title": "Client Value Partner (CVP) - Oil & Gas Industry",
    "org": "Celonis",
    "location": null
   },
   "analytics engineer|reddit|": {
    "first_seen": "2026-11-15T10:13:27+00:00",
-   "last_seen": "2026-11-17T13:26:08+00:00",
+   "last_seen": "2026-11-17T22:24:00+00:00",
    "title": "Analytics Engineer",
    "org": "Reddit",
    "location": null
   },
   "senior data engineer|growth minded|": {
    "first_seen": "2026-11-15T10:13:27+00:00",
-   "last_seen": "2026-11-17T13:26:08+00:00",
+   "last_seen": "2026-11-17T22:24:00+00:00",
    "title": "Senior Data Engineer",
    "org": "Growth Minded",
    "location": null
   },
   "sap berater fi/co (m/w/d)|bdf experts|": {
    "first_seen": "2026-11-15T10:13:27+00:00",
-   "last_seen": "2026-11-17T13:26:08+00:00",
+   "last_seen": "2026-11-17T22:24:00+00:00",
    "title": "SAP Berater FI/CO (M/W/D)",
    "org": "BDF EXPERTS",
    "location": null
   },
   "senior fullstack developer (react.js / node.js)|proxify ab|": {
    "first_seen": "2026-11-15T10:13:27+00:00",
-   "last_seen": "2026-11-17T13:26:08+00:00",
+   "last_seen": "2026-11-17T22:24:00+00:00",
    "title": "Senior Fullstack Developer (React.js / Node.js)",
    "org": "Proxify AB",
    "location": null
   },
   "senior backend developer (python)|proxify ab|": {
    "first_seen": "2026-11-15T10:13:27+00:00",
-   "last_seen": "2026-11-17T13:26:08+00:00",
+   "last_seen": "2026-11-17T22:24:00+00:00",
    "title": "Senior Backend Developer (Python)",
    "org": "Proxify AB",
    "location": null
   },
   "senior backend developer (node.js / nest.js)|proxify ab|": {
    "first_seen": "2026-11-15T10:13:27+00:00",
-   "last_seen": "2026-11-17T13:26:08+00:00",
+   "last_seen": "2026-11-17T22:24:00+00:00",
    "title": "Senior Backend Developer (Node.js / Nest.js)",
    "org": "Proxify AB",
    "location": null
   },
   "freelance marketo email engineer|current|": {
    "first_seen": "2026-11-15T10:13:27+00:00",
-   "last_seen": "2026-11-17T13:26:08+00:00",
+   "last_seen": "2026-11-17T22:24:00+00:00",
    "title": "Freelance Marketo Email Engineer",
    "org": "Current",
    "location": null
   },
   "director, ai-enabled fraud prevention & investigations|clover health|": {
    "first_seen": "2026-11-15T10:13:27+00:00",
-   "last_seen": "2026-11-17T13:26:08+00:00",
+   "last_seen": "2026-11-17T22:24:00+00:00",
    "title": "Director, AI-Enabled Fraud Prevention & Investigations",
    "org": "Clover Health",
    "location": null
@@ -338,77 +343,77 @@
   },
   "senior vue developer|lemon.io|": {
    "first_seen": "2026-11-15T17:10:37+00:00",
-   "last_seen": "2026-11-17T13:26:08+00:00",
+   "last_seen": "2026-11-17T22:24:00+00:00",
    "title": "Senior Vue Developer",
    "org": "Lemon.io",
    "location": null
   },
   "core protocol engineer|ritual|": {
    "first_seen": "2026-11-15T17:10:37+00:00",
-   "last_seen": "2026-11-17T13:26:08+00:00",
+   "last_seen": "2026-11-17T22:24:00+00:00",
    "title": "Core Protocol Engineer",
    "org": "Ritual",
    "location": null
   },
   "software development engineer ii (remote @ colombia)|offerup|": {
    "first_seen": "2026-11-16T09:42:19+00:00",
-   "last_seen": "2026-11-17T13:26:08+00:00",
+   "last_seen": "2026-11-17T22:24:00+00:00",
    "title": "Software Development Engineer II (Remote @ Colombia)",
    "org": "OfferUp",
    "location": null
   },
   "head of member growth (b2b2c)|maven clinic|": {
    "first_seen": "2026-11-16T09:42:19+00:00",
-   "last_seen": "2026-11-17T13:26:08+00:00",
+   "last_seen": "2026-11-17T22:24:00+00:00",
    "title": "Head of Member Growth (B2B2C)",
    "org": "Maven Clinic",
    "location": null
   },
   "business continuity management lead|mercury|": {
    "first_seen": "2026-11-16T20:29:23+00:00",
-   "last_seen": "2026-11-17T13:26:08+00:00",
+   "last_seen": "2026-11-17T22:24:00+00:00",
    "title": "Business Continuity Management Lead",
    "org": "Mercury",
    "location": null
   },
   "blockchain risk control lead|bybit|": {
    "first_seen": "2026-11-17T13:26:08+00:00",
-   "last_seen": "2026-11-17T13:26:08+00:00",
+   "last_seen": "2026-11-17T22:24:00+00:00",
    "title": "Blockchain Risk Control Lead",
    "org": "Bybit",
    "location": null
   },
   "animator intern|bybit|": {
    "first_seen": "2026-11-17T13:26:08+00:00",
-   "last_seen": "2026-11-17T13:26:08+00:00",
+   "last_seen": "2026-11-17T22:24:00+00:00",
    "title": "Animator Intern",
    "org": "Bybit",
    "location": null
   },
   "senior deployment engineer with llm and gpu infrastructure experience|toptal|": {
    "first_seen": "2026-11-17T13:26:08+00:00",
-   "last_seen": "2026-11-17T13:26:08+00:00",
+   "last_seen": "2026-11-17T22:24:00+00:00",
    "title": "Senior Deployment Engineer with LLM and GPU Infrastructure experience",
    "org": "Toptal",
    "location": null
   },
   "ai engineer - agentic systems|toptal|": {
    "first_seen": "2026-11-17T13:26:08+00:00",
-   "last_seen": "2026-11-17T13:26:08+00:00",
+   "last_seen": "2026-11-17T22:24:00+00:00",
    "title": "AI Engineer - Agentic Systems",
    "org": "Toptal",
    "location": null
   },
   "analytics engineer ii, full stack (revenue analytics)|affirm|": {
    "first_seen": "2026-11-17T13:26:08+00:00",
-   "last_seen": "2026-11-17T13:26:08+00:00",
+   "last_seen": "2026-11-17T22:24:00+00:00",
    "title": "Analytics Engineer II, Full Stack (Revenue Analytics)",
    "org": "Affirm",
    "location": null
   },
   "senior staff data scientist|netlify|": {
    "first_seen": "2026-11-17T13:26:08+00:00",
-   "last_seen": "2026-11-17T13:26:08+00:00",
+   "last_seen": "2026-11-17T22:24:00+00:00",
    "title": "Senior Staff Data Scientist",
    "org": "Netlify",
    "location": null

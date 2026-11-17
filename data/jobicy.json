@@ -3,105 +3,105 @@
  "name": "Jobicy \u2014 remote jobs",
  "category": "jobs",
  "source": "https://jobicy.com/api/v2/remote-jobs",
- "collected_at": "2026-11-17T13:26:09+00:00",
+ "collected_at": "2026-11-17T22:24:01+00:00",
  "jobs_on_board": 50,
  "new_this_run": 50,
- "total_tracked": 250,
+ "total_tracked": 300,
  "jobs": [
   {
-   "title": "Partner Technical Manager",
-   "org": "Axon",
-   "location": "Poland",
-   "detail": "Director",
-   "url": "https://jobicy.com/jobs/162792-partner-technical-manager",
+   "title": "Senior Salesforce Engineer | Resellers Team",
+   "org": "Wellhub",
+   "location": "Brazil",
+   "detail": "Senior",
+   "url": "https://jobicy.com/jobs/163048-senior-salesforce-engineer-resellers-team",
    "new_this_run": true
   },
   {
-   "title": "Field Deployment Engineer, Northern Europe",
-   "org": "Axon",
-   "location": "Netherlands",
+   "title": "Senior MLOps Engineer",
+   "org": "Wellhub",
+   "location": "Brazil",
+   "detail": "Senior",
+   "url": "https://jobicy.com/jobs/163047-senior-mlops-engineer-2",
+   "new_this_run": true
+  },
+  {
+   "title": "Senior Project Manager",
+   "org": "Welo Global",
+   "location": "Argentina, Mexico",
+   "detail": "Senior",
+   "url": "https://jobicy.com/jobs/163046-senior-project-manager",
+   "new_this_run": true
+  },
+  {
+   "title": "Senior Localization Project Manager",
+   "org": "Welo Global",
+   "location": "Argentina, Mexico",
+   "detail": "Senior",
+   "url": "https://jobicy.com/jobs/163045-senior-localization-project-manager",
+   "new_this_run": true
+  },
+  {
+   "title": "Senior Data Analyst",
+   "org": "Welo Global",
+   "location": "Mexico",
+   "detail": "Director",
+   "url": "https://jobicy.com/jobs/163044-senior-data-analyst-5",
+   "new_this_run": true
+  },
+  {
+   "title": "Hydrus - Voice Contributor - Spanish (Mexico)",
+   "org": "Welo Global",
+   "location": "Mexico",
+   "detail": "Director",
+   "url": "https://jobicy.com/jobs/163043-hydrus-voice-contributor-spanish-mexico",
+   "new_this_run": true
+  },
+  {
+   "title": "Hydrus - Voice Contributor - Spanish (Latin America) - Argentina",
+   "org": "Welo Global",
+   "location": "Argentina",
+   "detail": "Director",
+   "url": "https://jobicy.com/jobs/163042-hydrus-voice-contributor-spanish-latin-america-argentina",
+   "new_this_run": true
+  },
+  {
+   "title": "Staff Accountant",
+   "org": "Enumerate",
+   "location": "LATAM",
+   "detail": "Senior",
+   "url": "https://jobicy.com/jobs/163040-staff-accountant-4",
+   "new_this_run": true
+  },
+  {
+   "title": "Product Owner, AI Pod",
+   "org": "Enumerate",
+   "location": "LATAM",
+   "detail": "Director",
+   "url": "https://jobicy.com/jobs/163037-product-owner-ai-pod",
+   "new_this_run": true
+  },
+  {
+   "title": "English to Spanish (ESMX native) Linguist for Life Sciences",
+   "org": "Welo Global",
+   "location": "Mexico",
    "detail": "Any",
-   "url": "https://jobicy.com/jobs/162787-field-deployment-engineer-northern-europe",
+   "url": "https://jobicy.com/jobs/163035-english-to-spanish-esmx-native-linguist-for-life-sciences",
    "new_this_run": true
   },
   {
-   "title": "Sr. Audit Associate (Remote, USA-Based)",
-   "org": "Manay CPA Inc.",
-   "location": "T\u00fcrkiye, USA",
+   "title": "Sr Genomics Specialist",
+   "org": "Veracyte",
+   "location": "USA",
    "detail": "Senior",
-   "url": "https://jobicy.com/jobs/162784-sr-audit-associate-remote-usa-based",
+   "url": "https://jobicy.com/jobs/163033-sr-genomics-specialist",
    "new_this_run": true
   },
   {
-   "title": "Account Executive, UK Public Sector",
-   "org": "Axon",
-   "location": "UK",
-   "detail": "Director",
-   "url": "https://jobicy.com/jobs/162782-account-executive-uk-public-sector",
-   "new_this_run": true
-  },
-  {
-   "title": "Sr Clinical Research Associate (Spain)",
-   "org": "Alimentiv",
-   "location": "Spain",
-   "detail": "Senior",
-   "url": "https://jobicy.com/jobs/162779-sr-clinical-research-associate-spain",
-   "new_this_run": true
-  },
-  {
-   "title": "Regulatory Coordinator",
-   "org": "Alimentiv",
-   "location": "Germany, Hungary, Poland, Romania, UK",
-   "detail": "Senior",
-   "url": "https://jobicy.com/jobs/162777-regulatory-coordinator",
-   "new_this_run": true
-  },
-  {
-   "title": "Product Manager, Technical",
-   "org": "Rithum",
-   "location": "UK",
-   "detail": "Senior",
-   "url": "https://jobicy.com/jobs/162774-product-manager-technical-2",
-   "new_this_run": true
-  },
-  {
-   "title": "Regulatory Affairs Specialist",
-   "org": "Alimentiv",
-   "location": "Germany, Hungary, Poland, Romania, UK",
-   "detail": "Senior",
-   "url": "https://jobicy.com/jobs/162773-regulatory-affairs-specialist",
-   "new_this_run": true
-  },
-  {
-   "title": "Technical Architect",
-   "org": "Dropbox",
-   "location": "Ireland",
-   "detail": "Director",
-   "url": "https://jobicy.com/jobs/162772-technical-architect",
-   "new_this_run": true
-  },
-  {
-   "title": "Talent Operations Specialist",
-   "org": "Dataiku",
-   "location": "Netherlands",
-   "detail": "Director",
-   "url": "https://jobicy.com/jobs/162771-talent-operations-specialist",
-   "new_this_run": true
-  },
-  {
-   "title": "Regional Sales Director - Richmond",
-   "org": "Mineralys Therapeutics",
+   "title": "Principal Engineer Cryptography",
+   "org": "GoDaddy",
    "location": "USA",
    "detail": "Director",
-   "url": "https://jobicy.com/jobs/162770-regional-sales-director-richmond",
-   "new_this_run": true
-  },
-  {
-   "title": "Regional Sales Director - Oklahoma City",
-   "org": "Mineralys Therapeutics",
-   "location": "USA",
-   "detail": "Director",
-   "url": "https://jobicy.com/jobs/162769-regional-sales-director-oklahoma-city",
+   "url": "https://jobicy.com/jobs/163031-principal-engineer-cryptography",
    "new_this_run": true
   }
  ],
@@ -163,6 +163,11 @@
   },
   {
    "at": "2026-11-17T13:26:09+00:00",
+   "jobs": 50,
+   "new": 50
+  },
+  {
+   "at": "2026-11-17T22:24:01+00:00",
    "jobs": 50,
    "new": 50
   }
@@ -1917,6 +1922,356 @@
    "title": "Director of Product Design",
    "org": "Monzo",
    "location": "UK"
+  },
+  "senior salesforce engineer | resellers team|wellhub|brazil": {
+   "first_seen": "2026-11-17T22:24:01+00:00",
+   "last_seen": "2026-11-17T22:24:01+00:00",
+   "title": "Senior Salesforce Engineer | Resellers Team",
+   "org": "Wellhub",
+   "location": "Brazil"
+  },
+  "senior mlops engineer|wellhub|brazil": {
+   "first_seen": "2026-11-17T22:24:01+00:00",
+   "last_seen": "2026-11-17T22:24:01+00:00",
+   "title": "Senior MLOps Engineer",
+   "org": "Wellhub",
+   "location": "Brazil"
+  },
+  "senior project manager|welo global|argentina, mexico": {
+   "first_seen": "2026-11-17T22:24:01+00:00",
+   "last_seen": "2026-11-17T22:24:01+00:00",
+   "title": "Senior Project Manager",
+   "org": "Welo Global",
+   "location": "Argentina, Mexico"
+  },
+  "senior localization project manager|welo global|argentina, mexico": {
+   "first_seen": "2026-11-17T22:24:01+00:00",
+   "last_seen": "2026-11-17T22:24:01+00:00",
+   "title": "Senior Localization Project Manager",
+   "org": "Welo Global",
+   "location": "Argentina, Mexico"
+  },
+  "senior data analyst|welo global|mexico": {
+   "first_seen": "2026-11-17T22:24:01+00:00",
+   "last_seen": "2026-11-17T22:24:01+00:00",
+   "title": "Senior Data Analyst",
+   "org": "Welo Global",
+   "location": "Mexico"
+  },
+  "hydrus - voice contributor - spanish (mexico)|welo global|mexico": {
+   "first_seen": "2026-11-17T22:24:01+00:00",
+   "last_seen": "2026-11-17T22:24:01+00:00",
+   "title": "Hydrus - Voice Contributor - Spanish (Mexico)",
+   "org": "Welo Global",
+   "location": "Mexico"
+  },
+  "hydrus - voice contributor - spanish (latin america) - argentina|welo global|argentina": {
+   "first_seen": "2026-11-17T22:24:01+00:00",
+   "last_seen": "2026-11-17T22:24:01+00:00",
+   "title": "Hydrus - Voice Contributor - Spanish (Latin America) - Argentina",
+   "org": "Welo Global",
+   "location": "Argentina"
+  },
+  "staff accountant|enumerate|latam": {
+   "first_seen": "2026-11-17T22:24:01+00:00",
+   "last_seen": "2026-11-17T22:24:01+00:00",
+   "title": "Staff Accountant",
+   "org": "Enumerate",
+   "location": "LATAM"
+  },
+  "product owner, ai pod|enumerate|latam": {
+   "first_seen": "2026-11-17T22:24:01+00:00",
+   "last_seen": "2026-11-17T22:24:01+00:00",
+   "title": "Product Owner, AI Pod",
+   "org": "Enumerate",
+   "location": "LATAM"
+  },
+  "english to spanish (esmx native) linguist for life sciences|welo global|mexico": {
+   "first_seen": "2026-11-17T22:24:01+00:00",
+   "last_seen": "2026-11-17T22:24:01+00:00",
+   "title": "English to Spanish (ESMX native) Linguist for Life Sciences",
+   "org": "Welo Global",
+   "location": "Mexico"
+  },
+  "sr genomics specialist|veracyte|usa": {
+   "first_seen": "2026-11-17T22:24:01+00:00",
+   "last_seen": "2026-11-17T22:24:01+00:00",
+   "title": "Sr Genomics Specialist",
+   "org": "Veracyte",
+   "location": "USA"
+  },
+  "principal engineer cryptography|godaddy|usa": {
+   "first_seen": "2026-11-17T22:24:01+00:00",
+   "last_seen": "2026-11-17T22:24:01+00:00",
+   "title": "Principal Engineer Cryptography",
+   "org": "GoDaddy",
+   "location": "USA"
+  },
+  "sr. genomic specialist, phoenix|veracyte|usa": {
+   "first_seen": "2026-11-17T22:24:01+00:00",
+   "last_seen": "2026-11-17T22:24:01+00:00",
+   "title": "Sr. Genomic Specialist, Phoenix",
+   "org": "Veracyte",
+   "location": "USA"
+  },
+  "senior director of product|tekmetric|usa": {
+   "first_seen": "2026-11-17T22:24:01+00:00",
+   "last_seen": "2026-11-17T22:24:01+00:00",
+   "title": "Senior Director of Product",
+   "org": "Tekmetric",
+   "location": "USA"
+  },
+  "sleep medicine physician|dreem health|usa": {
+   "first_seen": "2026-11-17T22:24:01+00:00",
+   "last_seen": "2026-11-17T22:24:01+00:00",
+   "title": "Sleep Medicine Physician",
+   "org": "Dreem Health",
+   "location": "USA"
+  },
+  "sr. genomic specialist, cincinnati|veracyte|usa": {
+   "first_seen": "2026-11-17T22:24:01+00:00",
+   "last_seen": "2026-11-17T22:24:01+00:00",
+   "title": "Sr. Genomic Specialist, Cincinnati",
+   "org": "Veracyte",
+   "location": "USA"
+  },
+  "consolidations & financial reporting manager|wellhub|usa": {
+   "first_seen": "2026-11-17T22:24:01+00:00",
+   "last_seen": "2026-11-17T22:24:01+00:00",
+   "title": "Consolidations & Financial Reporting Manager",
+   "org": "Wellhub",
+   "location": "USA"
+  },
+  "referral coordinator|dreem health|usa": {
+   "first_seen": "2026-11-17T22:24:01+00:00",
+   "last_seen": "2026-11-17T22:24:01+00:00",
+   "title": "Referral Coordinator",
+   "org": "Dreem Health",
+   "location": "USA"
+  },
+  "sales development representative|tekmetric|usa": {
+   "first_seen": "2026-11-17T22:24:01+00:00",
+   "last_seen": "2026-11-17T22:24:01+00:00",
+   "title": "Sales Development Representative",
+   "org": "Tekmetric",
+   "location": "USA"
+  },
+  "client sales enterprise account executive|wellhub|usa": {
+   "first_seen": "2026-11-17T22:24:01+00:00",
+   "last_seen": "2026-11-17T22:24:01+00:00",
+   "title": "Client Sales Enterprise Account Executive",
+   "org": "Wellhub",
+   "location": "USA"
+  },
+  "patient financial counselor|dreem health|usa": {
+   "first_seen": "2026-11-17T22:24:01+00:00",
+   "last_seen": "2026-11-17T22:24:01+00:00",
+   "title": "Patient Financial Counselor",
+   "org": "Dreem Health",
+   "location": "USA"
+  },
+  "market access manager|veracyte|usa": {
+   "first_seen": "2026-11-17T22:24:01+00:00",
+   "last_seen": "2026-11-17T22:24:01+00:00",
+   "title": "Market Access Manager",
+   "org": "Veracyte",
+   "location": "USA"
+  },
+  "product support specialist - east coast|tekmetric|usa": {
+   "first_seen": "2026-11-17T22:24:01+00:00",
+   "last_seen": "2026-11-17T22:24:01+00:00",
+   "title": "Product Support Specialist - East Coast",
+   "org": "Tekmetric",
+   "location": "USA"
+  },
+  "senior software engineer ii, cloud security|qualia|usa": {
+   "first_seen": "2026-11-17T22:24:01+00:00",
+   "last_seen": "2026-11-17T22:24:01+00:00",
+   "title": "Senior Software Engineer II, Cloud Security",
+   "org": "Qualia",
+   "location": "USA"
+  },
+  "director corporate development|godaddy|usa": {
+   "first_seen": "2026-11-17T22:24:01+00:00",
+   "last_seen": "2026-11-17T22:24:01+00:00",
+   "title": "Director Corporate Development",
+   "org": "GoDaddy",
+   "location": "USA"
+  },
+  "canada - client sales account director|wellhub|canada": {
+   "first_seen": "2026-11-17T22:24:01+00:00",
+   "last_seen": "2026-11-17T22:24:01+00:00",
+   "title": "Canada - Client Sales Account Director",
+   "org": "Wellhub",
+   "location": "Canada"
+  },
+  "nurse practitioner|dreem health|usa": {
+   "first_seen": "2026-11-17T22:24:01+00:00",
+   "last_seen": "2026-11-17T22:24:01+00:00",
+   "title": "Nurse Practitioner",
+   "org": "Dreem Health",
+   "location": "USA"
+  },
+  "information security engineer|qualia|usa": {
+   "first_seen": "2026-11-17T22:24:01+00:00",
+   "last_seen": "2026-11-17T22:24:01+00:00",
+   "title": "Information Security Engineer",
+   "org": "Qualia",
+   "location": "USA"
+  },
+  "security advocate|maze|usa": {
+   "first_seen": "2026-11-17T22:24:01+00:00",
+   "last_seen": "2026-11-17T22:24:01+00:00",
+   "title": "Security Advocate",
+   "org": "Maze",
+   "location": "USA"
+  },
+  "support operations lead|zip|usa": {
+   "first_seen": "2026-11-17T22:24:01+00:00",
+   "last_seen": "2026-11-17T22:24:01+00:00",
+   "title": "Support Operations Lead",
+   "org": "Zip",
+   "location": "USA"
+  },
+  "enterprise account director, west|yubico|usa": {
+   "first_seen": "2026-11-17T22:24:01+00:00",
+   "last_seen": "2026-11-17T22:24:01+00:00",
+   "title": "Enterprise Account Director, West",
+   "org": "Yubico",
+   "location": "USA"
+  },
+  "charge analysis associate|dreem health|usa": {
+   "first_seen": "2026-11-17T22:24:01+00:00",
+   "last_seen": "2026-11-17T22:24:01+00:00",
+   "title": "Charge Analysis Associate",
+   "org": "Dreem Health",
+   "location": "USA"
+  },
+  "bioinformatics scientist ii|veracyte|usa": {
+   "first_seen": "2026-11-17T22:24:01+00:00",
+   "last_seen": "2026-11-17T22:24:01+00:00",
+   "title": "Bioinformatics Scientist II",
+   "org": "Veracyte",
+   "location": "USA"
+  },
+  "growth marketing manager|maze|usa": {
+   "first_seen": "2026-11-17T22:24:01+00:00",
+   "last_seen": "2026-11-17T22:24:01+00:00",
+   "title": "Growth Marketing Manager",
+   "org": "Maze",
+   "location": "USA"
+  },
+  "enterprise architect (pre-sales)|zip|canada": {
+   "first_seen": "2026-11-17T22:24:01+00:00",
+   "last_seen": "2026-11-17T22:24:01+00:00",
+   "title": "Enterprise Architect (Pre-Sales)",
+   "org": "Zip",
+   "location": "Canada"
+  },
+  "senior tax accountant|articulate|usa": {
+   "first_seen": "2026-11-17T22:24:01+00:00",
+   "last_seen": "2026-11-17T22:24:01+00:00",
+   "title": "Senior Tax Accountant",
+   "org": "Articulate",
+   "location": "USA"
+  },
+  "engineering manager ii, cloud security|qualia|usa": {
+   "first_seen": "2026-11-17T22:24:01+00:00",
+   "last_seen": "2026-11-17T22:24:01+00:00",
+   "title": "Engineering Manager II, Cloud Security",
+   "org": "Qualia",
+   "location": "USA"
+  },
+  "principal consultant (devops)|xebia|usa": {
+   "first_seen": "2026-11-17T22:24:01+00:00",
+   "last_seen": "2026-11-17T22:24:01+00:00",
+   "title": "Principal Consultant (DevOps)",
+   "org": "Xebia",
+   "location": "USA"
+  },
+  "channel account manager|yubico|usa": {
+   "first_seen": "2026-11-17T22:24:01+00:00",
+   "last_seen": "2026-11-17T22:24:01+00:00",
+   "title": "Channel Account Manager",
+   "org": "Yubico",
+   "location": "USA"
+  },
+  "analytics engineer (ai) | martech|wellhub|brazil": {
+   "first_seen": "2026-11-17T22:24:01+00:00",
+   "last_seen": "2026-11-17T22:24:01+00:00",
+   "title": "Analytics Engineer (AI) | Martech",
+   "org": "Wellhub",
+   "location": "Brazil"
+  },
+  "staff machine learning engineer, ads foundational representations|reddit|netherlands, uk": {
+   "first_seen": "2026-11-17T22:24:01+00:00",
+   "last_seen": "2026-11-17T22:24:01+00:00",
+   "title": "Staff Machine Learning Engineer, Ads Foundational Representations",
+   "org": "Reddit",
+   "location": "Netherlands, UK"
+  },
+  "senior fullstack engineer|nebius|europe, israel": {
+   "first_seen": "2026-11-17T22:24:01+00:00",
+   "last_seen": "2026-11-17T22:24:01+00:00",
+   "title": "Senior Fullstack Engineer",
+   "org": "Nebius",
+   "location": "Europe, Israel"
+  },
+  "corporate & integration operations associate|3y health|greece": {
+   "first_seen": "2026-11-17T22:24:01+00:00",
+   "last_seen": "2026-11-17T22:24:01+00:00",
+   "title": "Corporate & Integration Operations Associate",
+   "org": "3Y Health",
+   "location": "Greece"
+  },
+  "senior growth manager (contract)|reddit|uk, usa": {
+   "first_seen": "2026-11-17T22:24:01+00:00",
+   "last_seen": "2026-11-17T22:24:01+00:00",
+   "title": "Senior Growth Manager (Contract)",
+   "org": "Reddit",
+   "location": "UK, USA"
+  },
+  "lead solutions engineer|veriff|estonia, spain": {
+   "first_seen": "2026-11-17T22:24:01+00:00",
+   "last_seen": "2026-11-17T22:24:01+00:00",
+   "title": "Lead Solutions Engineer",
+   "org": "Veriff",
+   "location": "Estonia, Spain"
+  },
+  "senior central monitor|precision medicine group|serbia": {
+   "first_seen": "2026-11-17T22:24:01+00:00",
+   "last_seen": "2026-11-17T22:24:01+00:00",
+   "title": "Senior Central Monitor",
+   "org": "Precision Medicine Group",
+   "location": "Serbia"
+  },
+  "senior ai engineer|inato|france": {
+   "first_seen": "2026-11-17T22:24:01+00:00",
+   "last_seen": "2026-11-17T22:24:01+00:00",
+   "title": "Senior AI Engineer",
+   "org": "Inato",
+   "location": "France"
+  },
+  "product engineer|inato|france": {
+   "first_seen": "2026-11-17T22:24:01+00:00",
+   "last_seen": "2026-11-17T22:24:01+00:00",
+   "title": "Product Engineer",
+   "org": "Inato",
+   "location": "France"
+  },
+  "senior cloud infrastructure engineer|inato|france": {
+   "first_seen": "2026-11-17T22:24:01+00:00",
+   "last_seen": "2026-11-17T22:24:01+00:00",
+   "title": "Senior Cloud Infrastructure Engineer",
+   "org": "Inato",
+   "location": "France"
+  },
+  "mid-market customer success manager - emea (german speaking)|ashby|europe": {
+   "first_seen": "2026-11-17T22:24:01+00:00",
+   "last_seen": "2026-11-17T22:24:01+00:00",
+   "title": "Mid-Market Customer Success Manager - EMEA (German speaking)",
+   "org": "Ashby",
+   "location": "Europe"
   }
  }
 }

@@ -3,104 +3,104 @@
  "name": "Himalayas \u2014 remote jobs",
  "category": "jobs",
  "source": "https://himalayas.app/jobs/api",
- "collected_at": "2026-11-17T13:26:09+00:00",
+ "collected_at": "2026-11-17T22:24:01+00:00",
  "jobs_on_board": 20,
  "new_this_run": 20,
- "total_tracked": 199,
+ "total_tracked": 219,
  "jobs": [
   {
-   "title": "Principal Product Manager",
-   "org": "Insights Learning & Development Ltd",
-   "location": "United Kingdom",
+   "title": "Senior Product Designer, Design Systems",
+   "org": "Nitrogen",
+   "location": "United States",
+   "detail": "$140,000\u2013$150,000/a",
+   "url": null,
+   "new_this_run": true
+  },
+  {
+   "title": "Application Security Engineer - Fully Remote",
+   "org": "CoverGo",
+   "location": "Romania",
    "detail": "Full Time",
    "url": null,
    "new_this_run": true
   },
   {
-   "title": "Account Manager, Senior",
-   "org": "Infor",
-   "location": "Poland",
+   "title": "Strategic Enterprise Account Executive (Sydney or Melbourne)",
+   "org": "GitLab",
+   "location": "Australia",
    "detail": "Full Time",
    "url": null,
    "new_this_run": true
   },
   {
-   "title": "Key Account Specialist",
-   "org": "SGS",
-   "location": "Canada",
-   "detail": "$58,100\u2013$77,500/a",
+   "title": "Finanance Administrator",
+   "org": "Volcanix Automation Inc.",
+   "location": "Mexico",
+   "detail": "$20,000\u2013$35,000/a",
    "url": null,
    "new_this_run": true
   },
   {
-   "title": "AI Voice Recording Contributor - Mandarin Chinese (Taiwan)",
-   "org": "RWS Group",
+   "title": "FCM - Corporate Travel Consultant (Warwick Team) - USA",
+   "org": "Flight Centre Travel Group",
    "location": "United States",
-   "detail": "$18\u2013$18/h",
-   "url": null,
-   "new_this_run": true
-  },
-  {
-   "title": "Security Engineer, Workspace (SOLA Region)",
-   "org": "Check Point Software",
-   "location": "Paraguay",
    "detail": "Full Time",
    "url": null,
    "new_this_run": true
   },
   {
-   "title": "Program Manager",
-   "org": "Women Donors Network",
+   "title": "FCM - Corporate Travel Consultant (Marlboro Team) - USA",
+   "org": "Flight Centre Travel Group",
    "location": "United States",
-   "detail": "$110,000\u2013$110,000/a",
+   "detail": "$60,000\u2013$67,000/a",
    "url": null,
    "new_this_run": true
   },
   {
-   "title": "Inventory Records Assistant",
-   "org": "Turf Casa",
+   "title": "Corporate Traveler Stage & Screen - After Hours Travel Consultant - Remote, USA",
+   "org": "Flight Centre Travel Group",
    "location": "United States",
-   "detail": "$19\u2013$22/h",
-   "url": null,
-   "new_this_run": true
-  },
-  {
-   "title": "Senior Customer Success Manager - bilingual EN/FR",
-   "org": "CoderPad",
-   "location": "Ireland",
-   "detail": "$80,000\u2013$90,000/a",
-   "url": null,
-   "new_this_run": true
-  },
-  {
-   "title": "Senior Java Engineer (gn)",
-   "org": "The Quality Group GmbH",
-   "location": "Germany",
-   "detail": "Contractor",
-   "url": null,
-   "new_this_run": true
-  },
-  {
-   "title": "Customer Success Associate",
-   "org": "SE Ranking",
-   "location": "Albania, Andorra, Austria, Belarus, Belgium, Bosnia and Herzegovina, Bulgaria, Croatia, Cyprus, Czechia, Denmark, Estonia, Faroe Islands, Finland, France, Germany, Gibraltar, Greece, Guernsey, Holy See (Vatican City State), Hungary, Iceland",
    "detail": "Full Time",
    "url": null,
    "new_this_run": true
   },
   {
-   "title": ".Net Solutions Architect",
-   "org": "Concentrix",
+   "title": "Business Systems Analyst I/II/III",
+   "org": "Mutual Of Omaha",
    "location": "United States",
-   "detail": "$106,087\u2013$120,000/a",
+   "detail": "$59,800\u2013$87,500/a",
    "url": null,
    "new_this_run": true
   },
   {
-   "title": "Manager, Field Service Operations; Austin TX Remote",
-   "org": "Connection",
+   "title": "Business Systems Consultant I/II/III",
+   "org": "Mutual Of Omaha",
    "location": "United States",
-   "detail": "Contractor",
+   "detail": "$75,500\u2013$133,500/a",
+   "url": null,
+   "new_this_run": true
+  },
+  {
+   "title": "FCM - VIP After-Hours Emergency Corporate Travel Consultant - Remote, USA",
+   "org": "Flight Centre Travel Group",
+   "location": "United States",
+   "detail": "Full Time",
+   "url": null,
+   "new_this_run": true
+  },
+  {
+   "title": "FCM - Corporate Travel Consultant (Truist Team) - Remote, USA",
+   "org": "Flight Centre Travel Group",
+   "location": "United States",
+   "detail": "Full Time",
+   "url": null,
+   "new_this_run": true
+  },
+  {
+   "title": "FCM - Corporate Travel Consultant (Sandia) - Remote, USA",
+   "org": "Flight Centre Travel Group",
+   "location": "United States",
+   "detail": "Full Time",
    "url": null,
    "new_this_run": true
   }
@@ -163,6 +163,11 @@
   },
   {
    "at": "2026-11-17T13:26:09+00:00",
+   "jobs": 20,
+   "new": 20
+  },
+  {
+   "at": "2026-11-17T22:24:01+00:00",
    "jobs": 20,
    "new": 20
   }
@@ -1559,6 +1564,146 @@
    "last_seen": "2026-11-17T13:26:09+00:00",
    "title": "Product Manager - Cisco Partner Experience Platform",
    "org": "Cisco",
+   "location": "United States"
+  },
+  "senior product designer, design systems|nitrogen|united states": {
+   "first_seen": "2026-11-17T22:24:01+00:00",
+   "last_seen": "2026-11-17T22:24:01+00:00",
+   "title": "Senior Product Designer, Design Systems",
+   "org": "Nitrogen",
+   "location": "United States"
+  },
+  "application security engineer - fully remote|covergo|romania": {
+   "first_seen": "2026-11-17T22:24:01+00:00",
+   "last_seen": "2026-11-17T22:24:01+00:00",
+   "title": "Application Security Engineer - Fully Remote",
+   "org": "CoverGo",
+   "location": "Romania"
+  },
+  "strategic enterprise account executive (sydney or melbourne)|gitlab|australia": {
+   "first_seen": "2026-11-17T22:24:01+00:00",
+   "last_seen": "2026-11-17T22:24:01+00:00",
+   "title": "Strategic Enterprise Account Executive (Sydney or Melbourne)",
+   "org": "GitLab",
+   "location": "Australia"
+  },
+  "finanance administrator|volcanix automation inc.|mexico": {
+   "first_seen": "2026-11-17T22:24:01+00:00",
+   "last_seen": "2026-11-17T22:24:01+00:00",
+   "title": "Finanance Administrator",
+   "org": "Volcanix Automation Inc.",
+   "location": "Mexico"
+  },
+  "fcm - corporate travel consultant (warwick team) - usa|flight centre travel group|united states": {
+   "first_seen": "2026-11-17T22:24:01+00:00",
+   "last_seen": "2026-11-17T22:24:01+00:00",
+   "title": "FCM - Corporate Travel Consultant (Warwick Team) - USA",
+   "org": "Flight Centre Travel Group",
+   "location": "United States"
+  },
+  "fcm - corporate travel consultant (marlboro team) - usa|flight centre travel group|united states": {
+   "first_seen": "2026-11-17T22:24:01+00:00",
+   "last_seen": "2026-11-17T22:24:01+00:00",
+   "title": "FCM - Corporate Travel Consultant (Marlboro Team) - USA",
+   "org": "Flight Centre Travel Group",
+   "location": "United States"
+  },
+  "corporate traveler stage & screen - after hours travel consultant - remote, usa|flight centre travel group|united states": {
+   "first_seen": "2026-11-17T22:24:01+00:00",
+   "last_seen": "2026-11-17T22:24:01+00:00",
+   "title": "Corporate Traveler Stage & Screen - After Hours Travel Consultant - Remote, USA",
+   "org": "Flight Centre Travel Group",
+   "location": "United States"
+  },
+  "business systems analyst i/ii/iii|mutual of omaha|united states": {
+   "first_seen": "2026-11-17T22:24:01+00:00",
+   "last_seen": "2026-11-17T22:24:01+00:00",
+   "title": "Business Systems Analyst I/II/III",
+   "org": "Mutual Of Omaha",
+   "location": "United States"
+  },
+  "business systems consultant i/ii/iii|mutual of omaha|united states": {
+   "first_seen": "2026-11-17T22:24:01+00:00",
+   "last_seen": "2026-11-17T22:24:01+00:00",
+   "title": "Business Systems Consultant I/II/III",
+   "org": "Mutual Of Omaha",
+   "location": "United States"
+  },
+  "fcm - vip after-hours emergency corporate travel consultant - remote, usa|flight centre travel group|united states": {
+   "first_seen": "2026-11-17T22:24:01+00:00",
+   "last_seen": "2026-11-17T22:24:01+00:00",
+   "title": "FCM - VIP After-Hours Emergency Corporate Travel Consultant - Remote, USA",
+   "org": "Flight Centre Travel Group",
+   "location": "United States"
+  },
+  "fcm - corporate travel consultant (truist team) - remote, usa|flight centre travel group|united states": {
+   "first_seen": "2026-11-17T22:24:01+00:00",
+   "last_seen": "2026-11-17T22:24:01+00:00",
+   "title": "FCM - Corporate Travel Consultant (Truist Team) - Remote, USA",
+   "org": "Flight Centre Travel Group",
+   "location": "United States"
+  },
+  "fcm - corporate travel consultant (sandia) - remote, usa|flight centre travel group|united states": {
+   "first_seen": "2026-11-17T22:24:01+00:00",
+   "last_seen": "2026-11-17T22:24:01+00:00",
+   "title": "FCM - Corporate Travel Consultant (Sandia) - Remote, USA",
+   "org": "Flight Centre Travel Group",
+   "location": "United States"
+  },
+  "fcm - corporate travel consultant (parexel team) - remote, usa|flight centre travel group|united states": {
+   "first_seen": "2026-11-17T22:24:01+00:00",
+   "last_seen": "2026-11-17T22:24:01+00:00",
+   "title": "FCM - Corporate Travel Consultant (Parexel Team) - Remote, USA",
+   "org": "Flight Centre Travel Group",
+   "location": "United States"
+  },
+  "data analyst \u2013 ai research systems support|aptive|united states": {
+   "first_seen": "2026-11-17T22:24:01+00:00",
+   "last_seen": "2026-11-17T22:24:01+00:00",
+   "title": "Data Analyst \u2013 AI Research Systems Support",
+   "org": "Aptive",
+   "location": "United States"
+  },
+  "customer care advisor|sedgwick|ireland": {
+   "first_seen": "2026-11-17T22:24:01+00:00",
+   "last_seen": "2026-11-17T22:24:01+00:00",
+   "title": "Customer Care Advisor",
+   "org": "Sedgwick",
+   "location": "Ireland"
+  },
+  "pa, med refills & scheduling- pain management, orthopedic and spine clinic|staffing for doctors|philippines": {
+   "first_seen": "2026-11-17T22:24:01+00:00",
+   "last_seen": "2026-11-17T22:24:01+00:00",
+   "title": "PA, Med Refills & Scheduling- Pain management, Orthopedic and Spine Clinic",
+   "org": "Staffing for Doctors",
+   "location": "Philippines"
+  },
+  "regional operations manager emea - pharma meetings & events (es, spain, virtual,|bcd travel|albania, andorra, austria, belarus, belgium, bosnia and herzegovina, bulgaria, croatia, cyprus, czechia, denmark, estoni": {
+   "first_seen": "2026-11-17T22:24:01+00:00",
+   "last_seen": "2026-11-17T22:24:01+00:00",
+   "title": "Regional Operations Manager EMEA - Pharma Meetings & Events (ES, Spain, Virtual,",
+   "org": "BCD Travel",
+   "location": "Albania, Andorra, Austria, Belarus, Belgium, Bosnia and Herzegovina, Bulgaria, Croatia, Cyprus, Czechia, Denmark, Estonia, Faroe Islands, Finland, France, Germany, Gibraltar, Greece, Guernsey, Holy See (Vatican City State), Hungary, Iceland"
+  },
+  "head of talent acquisition strategy \ud83d\ude80 remoto!|ethikos|spain": {
+   "first_seen": "2026-11-17T22:24:01+00:00",
+   "last_seen": "2026-11-17T22:24:01+00:00",
+   "title": "Head of Talent Acquisition strategy \ud83d\ude80 Remoto!",
+   "org": "Ethikos",
+   "location": "Spain"
+  },
+  "business systems consult i/ii/iii|mutual of omaha|puerto rico, united states": {
+   "first_seen": "2026-11-17T22:24:01+00:00",
+   "last_seen": "2026-11-17T22:24:01+00:00",
+   "title": "Business Systems Consult I/II/III",
+   "org": "Mutual Of Omaha",
+   "location": "Puerto Rico, United States"
+  },
+  "senior product manager - contract|isi enterprises|united states": {
+   "first_seen": "2026-11-17T22:24:01+00:00",
+   "last_seen": "2026-11-17T22:24:01+00:00",
+   "title": "Senior Product Manager - Contract",
+   "org": "ISI Enterprises",
    "location": "United States"
   }
  }
