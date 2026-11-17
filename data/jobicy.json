@@ -3,106 +3,106 @@
  "name": "Jobicy \u2014 remote jobs",
  "category": "jobs",
  "source": "https://jobicy.com/api/v2/remote-jobs",
- "collected_at": "2026-11-17T03:53:06+00:00",
+ "collected_at": "2026-11-17T13:26:09+00:00",
  "jobs_on_board": 50,
- "new_this_run": 0,
- "total_tracked": 200,
+ "new_this_run": 50,
+ "total_tracked": 250,
  "jobs": [
   {
-   "title": "CLX Property Advocate, UK",
-   "org": "Lemonade",
-   "location": "UK",
-   "detail": "Any",
-   "url": "https://jobicy.com/jobs/162720-clx-property-advocate-uk",
-   "new_this_run": false
-  },
-  {
-   "title": "Junior Performance Marketer (Remote - Bulgaria)",
-   "org": "EverAI",
-   "location": "Bulgaria",
-   "detail": "Director",
-   "url": "https://jobicy.com/jobs/162719-junior-performance-marketer-remote-bulgaria",
-   "new_this_run": false
-  },
-  {
-   "title": "Actuarial Associate, UK",
-   "org": "Lemonade",
-   "location": "UK",
-   "detail": "Any",
-   "url": "https://jobicy.com/jobs/162718-actuarial-associate-uk",
-   "new_this_run": false
-  },
-  {
-   "title": "Commercial Manager - Europe",
-   "org": "Lyra Health",
-   "location": "Ireland, UK",
-   "detail": "Director",
-   "url": "https://jobicy.com/jobs/162716-commercial-manager-europe",
-   "new_this_run": false
-  },
-  {
-   "title": "VP, Sales EMEA",
-   "org": "StackAdapt",
-   "location": "Europe",
-   "detail": "Director",
-   "url": "https://jobicy.com/jobs/162715-vp-sales-emea",
-   "new_this_run": false
-  },
-  {
-   "title": "Senior Manager, Partnerships EMEA",
-   "org": "Temporal Technologies",
-   "location": "France, Germany, UK",
-   "detail": "Director",
-   "url": "https://jobicy.com/jobs/162711-senior-manager-partnerships-emea",
-   "new_this_run": false
-  },
-  {
-   "title": "Manager, Developer Advocacy (EMEA)",
-   "org": "Temporal Technologies",
-   "location": "UK",
-   "detail": "Senior",
-   "url": "https://jobicy.com/jobs/162709-manager-developer-advocacy-emea",
-   "new_this_run": false
-  },
-  {
-   "title": "Senior Software Engineer, Agentic Customer Platform (Poland, Remote, B2B)",
-   "org": "Samsara",
+   "title": "Partner Technical Manager",
+   "org": "Axon",
    "location": "Poland",
-   "detail": "Senior",
-   "url": "https://jobicy.com/jobs/162707-senior-software-engineer-agentic-customer-platform-poland-remote-b2b-2",
-   "new_this_run": false
+   "detail": "Director",
+   "url": "https://jobicy.com/jobs/162792-partner-technical-manager",
+   "new_this_run": true
   },
   {
-   "title": "Sales Director, Commercial",
-   "org": "Temporal Technologies",
+   "title": "Field Deployment Engineer, Northern Europe",
+   "org": "Axon",
+   "location": "Netherlands",
+   "detail": "Any",
+   "url": "https://jobicy.com/jobs/162787-field-deployment-engineer-northern-europe",
+   "new_this_run": true
+  },
+  {
+   "title": "Sr. Audit Associate (Remote, USA-Based)",
+   "org": "Manay CPA Inc.",
+   "location": "T\u00fcrkiye, USA",
+   "detail": "Senior",
+   "url": "https://jobicy.com/jobs/162784-sr-audit-associate-remote-usa-based",
+   "new_this_run": true
+  },
+  {
+   "title": "Account Executive, UK Public Sector",
+   "org": "Axon",
    "location": "UK",
    "detail": "Director",
-   "url": "https://jobicy.com/jobs/162706-sales-director-commercial",
-   "new_this_run": false
+   "url": "https://jobicy.com/jobs/162782-account-executive-uk-public-sector",
+   "new_this_run": true
   },
   {
-   "title": "Senior Security Operations Engineer",
-   "org": "Samsara",
+   "title": "Sr Clinical Research Associate (Spain)",
+   "org": "Alimentiv",
+   "location": "Spain",
+   "detail": "Senior",
+   "url": "https://jobicy.com/jobs/162779-sr-clinical-research-associate-spain",
+   "new_this_run": true
+  },
+  {
+   "title": "Regulatory Coordinator",
+   "org": "Alimentiv",
+   "location": "Germany, Hungary, Poland, Romania, UK",
+   "detail": "Senior",
+   "url": "https://jobicy.com/jobs/162777-regulatory-coordinator",
+   "new_this_run": true
+  },
+  {
+   "title": "Product Manager, Technical",
+   "org": "Rithum",
+   "location": "UK",
+   "detail": "Senior",
+   "url": "https://jobicy.com/jobs/162774-product-manager-technical-2",
+   "new_this_run": true
+  },
+  {
+   "title": "Regulatory Affairs Specialist",
+   "org": "Alimentiv",
+   "location": "Germany, Hungary, Poland, Romania, UK",
+   "detail": "Senior",
+   "url": "https://jobicy.com/jobs/162773-regulatory-affairs-specialist",
+   "new_this_run": true
+  },
+  {
+   "title": "Technical Architect",
+   "org": "Dropbox",
+   "location": "Ireland",
+   "detail": "Director",
+   "url": "https://jobicy.com/jobs/162772-technical-architect",
+   "new_this_run": true
+  },
+  {
+   "title": "Talent Operations Specialist",
+   "org": "Dataiku",
    "location": "Netherlands",
    "detail": "Director",
-   "url": "https://jobicy.com/jobs/162704-senior-security-operations-engineer-6",
-   "new_this_run": false
+   "url": "https://jobicy.com/jobs/162771-talent-operations-specialist",
+   "new_this_run": true
   },
   {
-   "title": "Enterprise Account Executive, New Logo",
-   "org": "Temporal Technologies",
-   "location": "UK",
+   "title": "Regional Sales Director - Richmond",
+   "org": "Mineralys Therapeutics",
+   "location": "USA",
    "detail": "Director",
-   "url": "https://jobicy.com/jobs/162703-enterprise-account-executive-new-logo",
-   "new_this_run": false
+   "url": "https://jobicy.com/jobs/162770-regional-sales-director-richmond",
+   "new_this_run": true
   },
   {
-   "title": "Senior Sales Engineer, France",
-   "org": "Samsara",
-   "location": "France",
-   "detail": "Senior",
-   "url": "https://jobicy.com/jobs/162701-senior-sales-engineer-france-2",
-   "new_this_run": false
+   "title": "Regional Sales Director - Oklahoma City",
+   "org": "Mineralys Therapeutics",
+   "location": "USA",
+   "detail": "Director",
+   "url": "https://jobicy.com/jobs/162769-regional-sales-director-oklahoma-city",
+   "new_this_run": true
   }
  ],
  "runs": [
@@ -160,6 +160,11 @@
    "at": "2026-11-17T03:53:06+00:00",
    "jobs": 50,
    "new": 0
+  },
+  {
+   "at": "2026-11-17T13:26:09+00:00",
+   "jobs": 50,
+   "new": 50
   }
  ],
  "jobs_seen": {
@@ -1562,6 +1567,356 @@
    "title": "Manager, Sales",
    "org": "Cision",
    "location": "USA"
+  },
+  "partner technical manager|axon|poland": {
+   "first_seen": "2026-11-17T13:26:09+00:00",
+   "last_seen": "2026-11-17T13:26:09+00:00",
+   "title": "Partner Technical Manager",
+   "org": "Axon",
+   "location": "Poland"
+  },
+  "field deployment engineer, northern europe|axon|netherlands": {
+   "first_seen": "2026-11-17T13:26:09+00:00",
+   "last_seen": "2026-11-17T13:26:09+00:00",
+   "title": "Field Deployment Engineer, Northern Europe",
+   "org": "Axon",
+   "location": "Netherlands"
+  },
+  "sr. audit associate (remote, usa-based)|manay cpa inc.|t\u00fcrkiye, usa": {
+   "first_seen": "2026-11-17T13:26:09+00:00",
+   "last_seen": "2026-11-17T13:26:09+00:00",
+   "title": "Sr. Audit Associate (Remote, USA-Based)",
+   "org": "Manay CPA Inc.",
+   "location": "T\u00fcrkiye, USA"
+  },
+  "account executive, uk public sector|axon|uk": {
+   "first_seen": "2026-11-17T13:26:09+00:00",
+   "last_seen": "2026-11-17T13:26:09+00:00",
+   "title": "Account Executive, UK Public Sector",
+   "org": "Axon",
+   "location": "UK"
+  },
+  "sr clinical research associate (spain)|alimentiv|spain": {
+   "first_seen": "2026-11-17T13:26:09+00:00",
+   "last_seen": "2026-11-17T13:26:09+00:00",
+   "title": "Sr Clinical Research Associate (Spain)",
+   "org": "Alimentiv",
+   "location": "Spain"
+  },
+  "regulatory coordinator|alimentiv|germany, hungary, poland, romania, uk": {
+   "first_seen": "2026-11-17T13:26:09+00:00",
+   "last_seen": "2026-11-17T13:26:09+00:00",
+   "title": "Regulatory Coordinator",
+   "org": "Alimentiv",
+   "location": "Germany, Hungary, Poland, Romania, UK"
+  },
+  "product manager, technical|rithum|uk": {
+   "first_seen": "2026-11-17T13:26:09+00:00",
+   "last_seen": "2026-11-17T13:26:09+00:00",
+   "title": "Product Manager, Technical",
+   "org": "Rithum",
+   "location": "UK"
+  },
+  "regulatory affairs specialist|alimentiv|germany, hungary, poland, romania, uk": {
+   "first_seen": "2026-11-17T13:26:09+00:00",
+   "last_seen": "2026-11-17T13:26:09+00:00",
+   "title": "Regulatory Affairs Specialist",
+   "org": "Alimentiv",
+   "location": "Germany, Hungary, Poland, Romania, UK"
+  },
+  "technical architect|dropbox|ireland": {
+   "first_seen": "2026-11-17T13:26:09+00:00",
+   "last_seen": "2026-11-17T13:26:09+00:00",
+   "title": "Technical Architect",
+   "org": "Dropbox",
+   "location": "Ireland"
+  },
+  "talent operations specialist|dataiku|netherlands": {
+   "first_seen": "2026-11-17T13:26:09+00:00",
+   "last_seen": "2026-11-17T13:26:09+00:00",
+   "title": "Talent Operations Specialist",
+   "org": "Dataiku",
+   "location": "Netherlands"
+  },
+  "regional sales director - richmond|mineralys therapeutics|usa": {
+   "first_seen": "2026-11-17T13:26:09+00:00",
+   "last_seen": "2026-11-17T13:26:09+00:00",
+   "title": "Regional Sales Director - Richmond",
+   "org": "Mineralys Therapeutics",
+   "location": "USA"
+  },
+  "regional sales director - oklahoma city|mineralys therapeutics|usa": {
+   "first_seen": "2026-11-17T13:26:09+00:00",
+   "last_seen": "2026-11-17T13:26:09+00:00",
+   "title": "Regional Sales Director - Oklahoma City",
+   "org": "Mineralys Therapeutics",
+   "location": "USA"
+  },
+  "regional sales director - long island|mineralys therapeutics|usa": {
+   "first_seen": "2026-11-17T13:26:09+00:00",
+   "last_seen": "2026-11-17T13:26:09+00:00",
+   "title": "Regional Sales Director - Long Island",
+   "org": "Mineralys Therapeutics",
+   "location": "USA"
+  },
+  "regional sales director - detroit|mineralys therapeutics|usa": {
+   "first_seen": "2026-11-17T13:26:09+00:00",
+   "last_seen": "2026-11-17T13:26:09+00:00",
+   "title": "Regional Sales Director - Detroit",
+   "org": "Mineralys Therapeutics",
+   "location": "USA"
+  },
+  "regional sales director - charlotte|mineralys therapeutics|usa": {
+   "first_seen": "2026-11-17T13:26:09+00:00",
+   "last_seen": "2026-11-17T13:26:09+00:00",
+   "title": "Regional Sales Director - Charlotte",
+   "org": "Mineralys Therapeutics",
+   "location": "USA"
+  },
+  "hr technology & analytics specialist|mineralys therapeutics|usa": {
+   "first_seen": "2026-11-17T13:26:09+00:00",
+   "last_seen": "2026-11-17T13:26:09+00:00",
+   "title": "HR Technology & Analytics Specialist",
+   "org": "Mineralys Therapeutics",
+   "location": "USA"
+  },
+  "director of us government engagement|q-ctrl|usa": {
+   "first_seen": "2026-11-17T13:26:09+00:00",
+   "last_seen": "2026-11-17T13:26:09+00:00",
+   "title": "Director of US Government Engagement",
+   "org": "Q-CTRL",
+   "location": "USA"
+  },
+  "executive director, clinical development|mineralys therapeutics|usa": {
+   "first_seen": "2026-11-17T13:26:09+00:00",
+   "last_seen": "2026-11-17T13:26:09+00:00",
+   "title": "Executive Director, Clinical Development",
+   "org": "Mineralys Therapeutics",
+   "location": "USA"
+  },
+  "program manager, life sciences|smartling|usa": {
+   "first_seen": "2026-11-17T13:26:09+00:00",
+   "last_seen": "2026-11-17T13:26:09+00:00",
+   "title": "Program Manager, Life Sciences",
+   "org": "Smartling",
+   "location": "USA"
+  },
+  "business development representative|help scout|usa": {
+   "first_seen": "2026-11-17T13:26:09+00:00",
+   "last_seen": "2026-11-17T13:26:09+00:00",
+   "title": "Business Development Representative",
+   "org": "Help Scout",
+   "location": "USA"
+  },
+  "staff application security engineer|apollo.io|usa": {
+   "first_seen": "2026-11-17T13:26:09+00:00",
+   "last_seen": "2026-11-17T13:26:09+00:00",
+   "title": "Staff Application Security Engineer",
+   "org": "Apollo.io",
+   "location": "USA"
+  },
+  "senior financial analyst, business finance|thumbtack|usa": {
+   "first_seen": "2026-11-17T13:26:09+00:00",
+   "last_seen": "2026-11-17T13:26:09+00:00",
+   "title": "Senior Financial Analyst, Business Finance",
+   "org": "Thumbtack",
+   "location": "USA"
+  },
+  "siu investigator, auto claims|lemonade|usa": {
+   "first_seen": "2026-11-17T13:26:09+00:00",
+   "last_seen": "2026-11-17T13:26:09+00:00",
+   "title": "SIU Investigator, Auto Claims",
+   "org": "Lemonade",
+   "location": "USA"
+  },
+  "sourcer, business recruiting|apollo.io|usa": {
+   "first_seen": "2026-11-17T13:26:09+00:00",
+   "last_seen": "2026-11-17T13:26:09+00:00",
+   "title": "Sourcer, Business Recruiting",
+   "org": "Apollo.io",
+   "location": "USA"
+  },
+  "senior software engineer, developer experience|thumbtack|usa": {
+   "first_seen": "2026-11-17T13:26:09+00:00",
+   "last_seen": "2026-11-17T13:26:09+00:00",
+   "title": "Senior Software Engineer, Developer Experience",
+   "org": "Thumbtack",
+   "location": "USA"
+  },
+  "sr. compliance analyst|lemonade|usa": {
+   "first_seen": "2026-11-17T13:26:09+00:00",
+   "last_seen": "2026-11-17T13:26:09+00:00",
+   "title": "Sr. Compliance Analyst",
+   "org": "Lemonade",
+   "location": "USA"
+  },
+  "senior software engineer, builder studio|apollo.io|canada, usa": {
+   "first_seen": "2026-11-17T13:26:09+00:00",
+   "last_seen": "2026-11-17T13:26:09+00:00",
+   "title": "Senior Software Engineer, Builder Studio",
+   "org": "Apollo.io",
+   "location": "Canada, USA"
+  },
+  "strategic project lead - physical engineering|appen|usa": {
+   "first_seen": "2026-11-17T13:26:09+00:00",
+   "last_seen": "2026-11-17T13:26:09+00:00",
+   "title": "Strategic Project Lead - Physical Engineering",
+   "org": "Appen",
+   "location": "USA"
+  },
+  "data scientist ii, marketing|thumbtack|usa": {
+   "first_seen": "2026-11-17T13:26:09+00:00",
+   "last_seen": "2026-11-17T13:26:09+00:00",
+   "title": "Data Scientist II, Marketing",
+   "org": "Thumbtack",
+   "location": "USA"
+  },
+  "insurance product manager, car|lemonade|usa": {
+   "first_seen": "2026-11-17T13:26:09+00:00",
+   "last_seen": "2026-11-17T13:26:09+00:00",
+   "title": "Insurance Product Manager, Car",
+   "org": "Lemonade",
+   "location": "USA"
+  },
+  "systems engineer \u2013 nuclear i&c / bwr|quest defense systems &#038; solutions, inc.|usa": {
+   "first_seen": "2026-11-17T13:26:09+00:00",
+   "last_seen": "2026-11-17T13:26:09+00:00",
+   "title": "Systems Engineer \u2013 Nuclear I&C / BWR",
+   "org": "Quest Defense Systems &#038; Solutions, Inc.",
+   "location": "USA"
+  },
+  "compiler engineer - algorithmic workloads compilation|mythic|canada, usa": {
+   "first_seen": "2026-11-17T13:26:09+00:00",
+   "last_seen": "2026-11-17T13:26:09+00:00",
+   "title": "Compiler Engineer - Algorithmic Workloads Compilation",
+   "org": "Mythic",
+   "location": "Canada, USA"
+  },
+  "principal, key accounts|elation health|usa": {
+   "first_seen": "2026-11-17T13:26:09+00:00",
+   "last_seen": "2026-11-17T13:26:09+00:00",
+   "title": "Principal, Key Accounts",
+   "org": "Elation Health",
+   "location": "USA"
+  },
+  "sr. systems engineer \u2013 flight management system (fms)|quest defense systems &#038; solutions, inc.|usa": {
+   "first_seen": "2026-11-17T13:26:09+00:00",
+   "last_seen": "2026-11-17T13:26:09+00:00",
+   "title": "Sr. Systems Engineer \u2013 Flight Management System (FMS)",
+   "org": "Quest Defense Systems &#038; Solutions, Inc.",
+   "location": "USA"
+  },
+  "mid market accounting support specialist|cloudbeds|canada, europe": {
+   "first_seen": "2026-11-17T13:26:09+00:00",
+   "last_seen": "2026-11-17T13:26:09+00:00",
+   "title": "Mid Market Accounting Support Specialist",
+   "org": "Cloudbeds",
+   "location": "Canada, Europe"
+  },
+  "software verification engineer|quest defense systems &#038; solutions, inc.|usa": {
+   "first_seen": "2026-11-17T13:26:09+00:00",
+   "last_seen": "2026-11-17T13:26:09+00:00",
+   "title": "Software Verification Engineer",
+   "org": "Quest Defense Systems &#038; Solutions, Inc.",
+   "location": "USA"
+  },
+  "ai algorithms/software engineer|mythic|usa": {
+   "first_seen": "2026-11-17T13:26:09+00:00",
+   "last_seen": "2026-11-17T13:26:09+00:00",
+   "title": "AI Algorithms/Software Engineer",
+   "org": "Mythic",
+   "location": "USA"
+  },
+  "head of design|elation health|usa": {
+   "first_seen": "2026-11-17T13:26:09+00:00",
+   "last_seen": "2026-11-17T13:26:09+00:00",
+   "title": "Head of Design",
+   "org": "Elation Health",
+   "location": "USA"
+  },
+  "accounting coordinator|fandom|poland": {
+   "first_seen": "2026-11-17T13:26:09+00:00",
+   "last_seen": "2026-11-17T13:26:09+00:00",
+   "title": "Accounting Coordinator",
+   "org": "Fandom",
+   "location": "Poland"
+  },
+  "customer support coach - rms|cloudbeds|philippines": {
+   "first_seen": "2026-11-17T13:26:09+00:00",
+   "last_seen": "2026-11-17T13:26:09+00:00",
+   "title": "Customer Support Coach - RMS",
+   "org": "Cloudbeds",
+   "location": "Philippines"
+  },
+  "ai engineer - 4 day week + remote|laminar projects|poland, portugal": {
+   "first_seen": "2026-11-17T13:26:09+00:00",
+   "last_seen": "2026-11-17T13:26:09+00:00",
+   "title": "AI Engineer - 4 Day Week + Remote",
+   "org": "Laminar Projects",
+   "location": "Poland, Portugal"
+  },
+  "client partner|appen|brazil, spain": {
+   "first_seen": "2026-11-17T13:26:09+00:00",
+   "last_seen": "2026-11-17T13:26:09+00:00",
+   "title": "Client Partner",
+   "org": "Appen",
+   "location": "Brazil, Spain"
+  },
+  "international audio/video remote soninke interpreter|language services associates|anywhere": {
+   "first_seen": "2026-11-17T13:26:09+00:00",
+   "last_seen": "2026-11-17T13:26:09+00:00",
+   "title": "International Audio/Video Remote Soninke Interpreter",
+   "org": "Language Services Associates",
+   "location": "Anywhere"
+  },
+  "international audio/video remote lao/loatian interpreter|language services associates|anywhere": {
+   "first_seen": "2026-11-17T13:26:09+00:00",
+   "last_seen": "2026-11-17T13:26:09+00:00",
+   "title": "International Audio/Video Remote Lao/Loatian Interpreter",
+   "org": "Language Services Associates",
+   "location": "Anywhere"
+  },
+  "ai technical mentor - independent contractor (us canada, europe, mena, apac)|udacity|apac, emea, canada, europe, usa": {
+   "first_seen": "2026-11-17T13:26:09+00:00",
+   "last_seen": "2026-11-17T13:26:09+00:00",
+   "title": "AI Technical Mentor - Independent Contractor (US Canada, Europe, MENA, APAC)",
+   "org": "Udacity",
+   "location": "APAC, EMEA, Canada, Europe, USA"
+  },
+  "agentic ai technical mentor - independent contractor (us canada, europe, mena, apac)|udacity|apac, canada, europe, usa": {
+   "first_seen": "2026-11-17T13:26:09+00:00",
+   "last_seen": "2026-11-17T13:26:09+00:00",
+   "title": "Agentic AI Technical Mentor - Independent Contractor (US Canada, Europe, MENA, APAC)",
+   "org": "Udacity",
+   "location": "APAC, Canada, Europe, USA"
+  },
+  "ads quality rater - hebrew (israel)|welo global|israel": {
+   "first_seen": "2026-11-17T13:26:09+00:00",
+   "last_seen": "2026-11-17T13:26:09+00:00",
+   "title": "Ads Quality Rater - Hebrew (Israel)",
+   "org": "Welo Global",
+   "location": "Israel"
+  },
+  "data engineer - us remote|perfectserve|usa": {
+   "first_seen": "2026-11-17T13:26:09+00:00",
+   "last_seen": "2026-11-17T13:26:09+00:00",
+   "title": "Data Engineer - US Remote",
+   "org": "PerfectServe",
+   "location": "USA"
+  },
+  "enterprise implementation consultant - us remote|perfectserve|usa": {
+   "first_seen": "2026-11-17T13:26:09+00:00",
+   "last_seen": "2026-11-17T13:26:09+00:00",
+   "title": "Enterprise Implementation Consultant - US Remote",
+   "org": "PerfectServe",
+   "location": "USA"
+  },
+  "director of product design|monzo|uk": {
+   "first_seen": "2026-11-17T13:26:09+00:00",
+   "last_seen": "2026-11-17T13:26:09+00:00",
+   "title": "Director of Product Design",
+   "org": "Monzo",
+   "location": "UK"
   }
  }
 }

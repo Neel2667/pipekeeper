@@ -1,8 +1,8 @@
 {
  "source": "https://www.hosthealthcare.com/jobs/",
- "collected_at": "2026-11-17T03:53:05+00:00",
+ "collected_at": "2026-11-17T13:26:06+00:00",
  "jobs_on_board": 15,
- "new_this_run": 1,
+ "new_this_run": 0,
  "total_tracked": 13,
  "jobs": [
   {
@@ -75,10 +75,10 @@
    "pay_unit": "week",
    "weeks": 8,
    "kind": "travel",
-   "new_this_run": true
+   "new_this_run": false
   },
   {
-   "title": "RN - CVPICU",
+   "title": "RN - PICU",
    "location": "Columbus, OH",
    "pay_amount": "4,411.4",
    "pay_unit": "week",
@@ -87,7 +87,7 @@
    "new_this_run": false
   },
   {
-   "title": "RN - PICU",
+   "title": "RN - CVPICU",
    "location": "Columbus, OH",
    "pay_amount": "4,411.4",
    "pay_unit": "week",
@@ -226,60 +226,65 @@
    "at": "2026-11-17T03:53:05+00:00",
    "jobs": 15,
    "new": 1
+  },
+  {
+   "at": "2026-11-17T13:26:06+00:00",
+   "jobs": 15,
+   "new": 0
   }
  ],
  "jobs_seen": {
   "physical therapist - allied|seattle, wa": {
    "first_seen": "2026-11-15T09:21:04+00:00",
-   "last_seen": "2026-11-17T03:53:05+00:00",
+   "last_seen": "2026-11-17T13:26:06+00:00",
    "title": "Physical Therapist - Allied",
    "location": "Seattle, WA"
   },
   "crna|bigfork, mn": {
    "first_seen": "2026-11-15T09:21:04+00:00",
-   "last_seen": "2026-11-17T03:53:05+00:00",
+   "last_seen": "2026-11-17T13:26:06+00:00",
    "title": "CRNA",
    "location": "Bigfork, MN"
   },
   "perfusionist - cvor|houston, tx": {
    "first_seen": "2026-11-15T09:21:04+00:00",
-   "last_seen": "2026-11-17T03:53:05+00:00",
+   "last_seen": "2026-11-17T13:26:06+00:00",
    "title": "Perfusionist - CVOR",
    "location": "Houston, TX"
   },
   "rn - manager|palo alto, ca": {
    "first_seen": "2026-11-15T09:21:04+00:00",
-   "last_seen": "2026-11-17T03:53:05+00:00",
+   "last_seen": "2026-11-17T13:26:06+00:00",
    "title": "RN - Manager",
    "location": "Palo Alto, CA"
   },
   "director of oncology - executive leadership|santa maria, ca": {
    "first_seen": "2026-11-15T09:21:04+00:00",
-   "last_seen": "2026-11-17T03:53:05+00:00",
+   "last_seen": "2026-11-17T13:26:06+00:00",
    "title": "Director of Oncology - Executive Leadership",
    "location": "Santa Maria, CA"
   },
   "director of periop services, cath lab, ekg|glendale, ca": {
    "first_seen": "2026-11-15T09:21:04+00:00",
-   "last_seen": "2026-11-17T03:53:05+00:00",
+   "last_seen": "2026-11-17T13:26:06+00:00",
    "title": "Director of Periop Services, Cath Lab, EKG",
    "location": "Glendale, CA"
   },
   "rn - cvpicu|columbus, oh": {
    "first_seen": "2026-11-15T09:21:04+00:00",
-   "last_seen": "2026-11-17T03:53:05+00:00",
+   "last_seen": "2026-11-17T13:26:06+00:00",
    "title": "RN - CVPICU",
    "location": "Columbus, OH"
   },
   "cath lab tech|bakersfield, ca": {
    "first_seen": "2026-11-15T09:21:04+00:00",
-   "last_seen": "2026-11-17T03:53:05+00:00",
+   "last_seen": "2026-11-17T13:26:06+00:00",
    "title": "Cath Lab Tech",
    "location": "Bakersfield, CA"
   },
   "rn - picu|columbus, oh": {
    "first_seen": "2026-11-15T09:21:04+00:00",
-   "last_seen": "2026-11-17T03:53:05+00:00",
+   "last_seen": "2026-11-17T13:26:06+00:00",
    "title": "RN - PICU",
    "location": "Columbus, OH"
   },
@@ -303,7 +308,7 @@
   },
   "rn - operating room|denver, co": {
    "first_seen": "2026-11-17T03:53:05+00:00",
-   "last_seen": "2026-11-17T03:53:05+00:00",
+   "last_seen": "2026-11-17T13:26:06+00:00",
    "title": "RN - Operating Room",
    "location": "Denver, CO"
   }

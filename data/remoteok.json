@@ -3,10 +3,10 @@
  "name": "RemoteOK \u2014 remote tech jobs",
  "category": "jobs",
  "source": "https://remoteok.com/api",
- "collected_at": "2026-11-17T03:53:05+00:00",
+ "collected_at": "2026-11-17T13:26:07+00:00",
  "jobs_on_board": 97,
- "new_this_run": 0,
- "total_tracked": 100,
+ "new_this_run": 1,
+ "total_tracked": 101,
  "jobs": [
   {
    "title": "Global Partnerships BD Lead",
@@ -160,131 +160,136 @@
    "at": "2026-11-17T03:53:05+00:00",
    "jobs": 97,
    "new": 0
+  },
+  {
+   "at": "2026-11-17T13:26:07+00:00",
+   "jobs": 97,
+   "new": 1
   }
  ],
  "jobs_seen": {
   "global partnerships bd lead|fuku|paris": {
    "first_seen": "2026-11-15T10:13:21+00:00",
-   "last_seen": "2026-11-17T03:53:05+00:00",
+   "last_seen": "2026-11-17T13:26:07+00:00",
    "title": "Global Partnerships BD Lead",
    "org": "Fuku",
    "location": "Paris"
   },
   "scaled account manager emea|doit|estonia": {
    "first_seen": "2026-11-15T10:13:21+00:00",
-   "last_seen": "2026-11-17T03:53:05+00:00",
+   "last_seen": "2026-11-17T13:26:07+00:00",
    "title": "Scaled Account Manager EMEA",
    "org": "DoiT",
    "location": "Estonia"
   },
   "software engineer ai tooling|supabase|remote": {
    "first_seen": "2026-11-15T10:13:21+00:00",
-   "last_seen": "2026-11-17T03:53:05+00:00",
+   "last_seen": "2026-11-17T13:26:07+00:00",
    "title": "Software Engineer AI Tooling",
    "org": "Supabase",
    "location": "remote"
   },
   "research engineer privacy and anonymization|pragmatike|remote": {
    "first_seen": "2026-11-15T10:13:21+00:00",
-   "last_seen": "2026-11-17T03:53:05+00:00",
+   "last_seen": "2026-11-17T13:26:07+00:00",
    "title": "Research Engineer Privacy and Anonymization",
    "org": "Pragmatike",
    "location": "remote"
   },
   "freelance question reviewers|amboss|new york": {
    "first_seen": "2026-11-15T10:13:21+00:00",
-   "last_seen": "2026-11-17T03:53:05+00:00",
+   "last_seen": "2026-11-17T13:26:07+00:00",
    "title": "Freelance Question Reviewers",
    "org": "AMBOSS",
    "location": "New York"
   },
   "patient care specialist i|boston scientific|remote": {
    "first_seen": "2026-11-15T10:13:21+00:00",
-   "last_seen": "2026-11-17T03:53:05+00:00",
+   "last_seen": "2026-11-17T13:26:07+00:00",
    "title": "Patient Care Specialist I",
    "org": "Boston Scientific",
    "location": "remote"
   },
   "strategy & operations coach apac|mento|remote": {
    "first_seen": "2026-11-15T10:13:21+00:00",
-   "last_seen": "2026-11-17T03:53:05+00:00",
+   "last_seen": "2026-11-17T13:26:07+00:00",
    "title": "Strategy & Operations Coach APAC",
    "org": "Mento",
    "location": "remote"
   },
   "bilingual patient engagement specialist i english spanish|sprinter health|menlo park": {
    "first_seen": "2026-11-15T10:13:21+00:00",
-   "last_seen": "2026-11-17T03:53:05+00:00",
+   "last_seen": "2026-11-17T13:26:07+00:00",
    "title": "Bilingual Patient Engagement Specialist I English Spanish",
    "org": "Sprinter Health",
    "location": "Menlo Park"
   },
   "data engineer|addepto|remote": {
    "first_seen": "2026-11-15T10:13:21+00:00",
-   "last_seen": "2026-11-17T03:53:05+00:00",
+   "last_seen": "2026-11-17T13:26:07+00:00",
    "title": "Data Engineer",
    "org": "Addepto",
    "location": "remote"
   },
   "senior software engineer \u00e2\u0080\u0094 kubernetes control plane|buoyant|remote": {
    "first_seen": "2026-11-15T10:13:21+00:00",
-   "last_seen": "2026-11-17T03:53:05+00:00",
+   "last_seen": "2026-11-17T13:26:07+00:00",
    "title": "Senior Software Engineer \u00e2\u0080\u0094 Kubernetes Control Plane",
    "org": "Buoyant",
    "location": "remote"
   },
   "hil support specialist|extend your team|remote": {
    "first_seen": "2026-11-15T10:13:21+00:00",
-   "last_seen": "2026-11-17T03:53:05+00:00",
+   "last_seen": "2026-11-17T13:26:07+00:00",
    "title": "HIL Support Specialist",
    "org": "Extend Your Team",
    "location": "remote"
   },
   "senior agentic ai engineer nda|gt|warsaw": {
    "first_seen": "2026-11-15T10:13:21+00:00",
-   "last_seen": "2026-11-17T03:53:05+00:00",
+   "last_seen": "2026-11-17T13:26:07+00:00",
    "title": "Senior Agentic AI Engineer NDA",
    "org": "GT",
    "location": "Warsaw"
   },
   "telehealth endocrinologist evenings fridays and or weekends|allara|remote": {
    "first_seen": "2026-11-15T10:13:21+00:00",
-   "last_seen": "2026-11-17T03:53:05+00:00",
+   "last_seen": "2026-11-17T13:26:07+00:00",
    "title": "Telehealth Endocrinologist Evenings Fridays and or Weekends",
    "org": "Allara",
    "location": "remote"
   },
   "recruiting coordinator|pebl|remote": {
    "first_seen": "2026-11-15T10:13:21+00:00",
-   "last_seen": "2026-11-17T03:53:05+00:00",
+   "last_seen": "2026-11-17T13:26:07+00:00",
    "title": "Recruiting Coordinator",
    "org": "Pebl",
    "location": "remote"
   },
   "web3 business development|certik|remote": {
    "first_seen": "2026-11-15T10:13:21+00:00",
-   "last_seen": "2026-11-17T03:53:05+00:00",
+   "last_seen": "2026-11-17T13:26:07+00:00",
    "title": "Web3 Business Development",
    "org": "CertiK",
    "location": "remote"
   },
   "revenue cycle manager|adaptive innovations|houston": {
    "first_seen": "2026-11-15T10:13:21+00:00",
-   "last_seen": "2026-11-17T03:53:05+00:00",
+   "last_seen": "2026-11-17T13:26:07+00:00",
    "title": "Revenue Cycle Manager",
    "org": "Adaptive Innovations",
    "location": "Houston"
   },
   "senior product manager|pencil|emea": {
    "first_seen": "2026-11-15T10:13:21+00:00",
-   "last_seen": "2026-11-17T03:53:05+00:00",
+   "last_seen": "2026-11-17T13:26:07+00:00",
    "title": "Senior Product Manager",
    "org": "Pencil",
    "location": "EMEA"
   },
   "ui developer|rainfocus|any state": {
    "first_seen": "2026-11-15T10:13:21+00:00",
-   "last_seen": "2026-11-17T03:53:05+00:00",
+   "last_seen": "2026-11-17T13:26:07+00:00",
    "title": "UI Developer",
    "org": "RainFocus",
    "location": "Any State"
@@ -298,91 +303,91 @@
   },
   "junior market analyst|meya holdings|remote": {
    "first_seen": "2026-11-15T10:13:21+00:00",
-   "last_seen": "2026-11-17T03:53:05+00:00",
+   "last_seen": "2026-11-17T13:26:07+00:00",
    "title": "Junior Market Analyst",
    "org": "MEYA HOLDINGS",
    "location": "remote"
   },
   "accountant|serve robotics|los angeles": {
    "first_seen": "2026-11-15T10:13:21+00:00",
-   "last_seen": "2026-11-17T03:53:05+00:00",
+   "last_seen": "2026-11-17T13:26:07+00:00",
    "title": "Accountant",
    "org": "Serve Robotics",
    "location": "los angeles"
   },
   "agile program manager|toptal|anywhere in the world": {
    "first_seen": "2026-11-15T10:13:21+00:00",
-   "last_seen": "2026-11-17T03:53:05+00:00",
+   "last_seen": "2026-11-17T13:26:07+00:00",
    "title": "Agile Program Manager",
    "org": "Toptal",
    "location": "Anywhere in the World"
   },
   "feltsense ai engineer|silver.dev|remote": {
    "first_seen": "2026-11-15T10:13:21+00:00",
-   "last_seen": "2026-11-17T03:53:05+00:00",
+   "last_seen": "2026-11-17T13:26:07+00:00",
    "title": "Feltsense AI Engineer",
    "org": "Silver.dev",
    "location": "remote"
   },
   "operations expert with python for ai supply chain task design|toptal|anywhere in the world": {
    "first_seen": "2026-11-15T10:13:21+00:00",
-   "last_seen": "2026-11-17T03:53:05+00:00",
+   "last_seen": "2026-11-17T13:26:07+00:00",
    "title": "Operations Expert with Python for AI Supply Chain Task Design",
    "org": "Toptal",
    "location": "Anywhere in the World"
   },
   "ml inference engineer \u00e2\u0080\u0093 terminal-bench task designer (vllm / sglang / tensorrt-llm)|toptal|anywhere in the world": {
    "first_seen": "2026-11-15T10:13:21+00:00",
-   "last_seen": "2026-11-17T03:53:05+00:00",
+   "last_seen": "2026-11-17T13:26:07+00:00",
    "title": "ML Inference Engineer \u00e2\u0080\u0093 Terminal-Bench Task Designer (vLLM / SGLang / TensorRT-LLM)",
    "org": "Toptal",
    "location": "Anywhere in the World"
   },
   "senior vue developer|lemon.io|remote": {
    "first_seen": "2026-11-15T10:13:21+00:00",
-   "last_seen": "2026-11-17T03:53:05+00:00",
+   "last_seen": "2026-11-17T13:26:07+00:00",
    "title": "Senior Vue Developer",
    "org": "Lemon.io",
    "location": "remote"
   },
   "senior staff infrastructure & security engineer|civilgrid|boston": {
    "first_seen": "2026-11-15T10:13:21+00:00",
-   "last_seen": "2026-11-17T03:53:05+00:00",
+   "last_seen": "2026-11-17T13:26:07+00:00",
    "title": "Senior Staff Infrastructure & Security Engineer",
    "org": "CivilGrid",
    "location": "Boston"
   },
   "ai content reviewer video annotation|imerit|remote": {
    "first_seen": "2026-11-15T10:13:21+00:00",
-   "last_seen": "2026-11-17T03:53:05+00:00",
+   "last_seen": "2026-11-17T13:26:07+00:00",
    "title": "AI Content Reviewer Video Annotation",
    "org": "iMerit",
    "location": "remote"
   },
   "software engineer|claims|remote": {
    "first_seen": "2026-11-15T10:13:21+00:00",
-   "last_seen": "2026-11-17T03:53:05+00:00",
+   "last_seen": "2026-11-17T13:26:07+00:00",
    "title": "Software Engineer",
    "org": "Claims",
    "location": "remote"
   },
   "entry level scheduling &amp; coordinating reservations online|destination careers|south carolina": {
    "first_seen": "2026-11-15T10:13:21+00:00",
-   "last_seen": "2026-11-17T03:53:05+00:00",
+   "last_seen": "2026-11-17T13:26:07+00:00",
    "title": "Entry Level Scheduling &amp; Coordinating Reservations Online",
    "org": "Destination Careers",
    "location": "South Carolina"
   },
   "m&a praktikum intern|vogel|m\u00e3\u00bcnchen": {
    "first_seen": "2026-11-15T10:13:21+00:00",
-   "last_seen": "2026-11-17T03:53:05+00:00",
+   "last_seen": "2026-11-17T13:26:07+00:00",
    "title": "M&A Praktikum Intern",
    "org": "Vogel",
    "location": "M\u00c3\u00bcnchen"
   },
   "paid media manager us|kyra|us": {
    "first_seen": "2026-11-15T10:13:21+00:00",
-   "last_seen": "2026-11-17T03:53:05+00:00",
+   "last_seen": "2026-11-17T13:26:07+00:00",
    "title": "Paid Media Manager US",
    "org": "Kyra",
    "location": "US"
@@ -396,182 +401,182 @@
   },
   "ai ml engineer|docusketch|remote": {
    "first_seen": "2026-11-15T10:13:21+00:00",
-   "last_seen": "2026-11-17T03:53:05+00:00",
+   "last_seen": "2026-11-17T13:26:07+00:00",
    "title": "AI ML Engineer",
    "org": "Docusketch",
    "location": "remote"
   },
   "software engineer infrastructure|sodalis, inc.|palo alto": {
    "first_seen": "2026-11-15T10:13:21+00:00",
-   "last_seen": "2026-11-17T03:53:05+00:00",
+   "last_seen": "2026-11-17T13:26:07+00:00",
    "title": "Software Engineer Infrastructure",
    "org": "Sodalis, Inc.",
    "location": "Palo Alto"
   },
   "team lead account executive|capmo|remote": {
    "first_seen": "2026-11-15T10:13:21+00:00",
-   "last_seen": "2026-11-17T03:53:05+00:00",
+   "last_seen": "2026-11-17T13:26:07+00:00",
    "title": "Team Lead Account Executive",
    "org": "Capmo",
    "location": "remote"
   },
   "virtual destination wedding coordinator|destination careers|colorado": {
    "first_seen": "2026-11-15T10:13:21+00:00",
-   "last_seen": "2026-11-17T03:53:05+00:00",
+   "last_seen": "2026-11-17T13:26:07+00:00",
    "title": "Virtual Destination Wedding Coordinator",
    "org": "Destination Careers",
    "location": "Colorado"
   },
   "partner operations manager|mecka|remote": {
    "first_seen": "2026-11-15T10:13:21+00:00",
-   "last_seen": "2026-11-17T03:53:05+00:00",
+   "last_seen": "2026-11-17T13:26:07+00:00",
    "title": "Partner Operations Manager",
    "org": "Mecka",
    "location": "remote"
   },
   "scientific account executive|adaptyv|lausanne": {
    "first_seen": "2026-11-15T10:13:21+00:00",
-   "last_seen": "2026-11-17T03:53:05+00:00",
+   "last_seen": "2026-11-17T13:26:07+00:00",
    "title": "Scientific Account Executive",
    "org": "Adaptyv",
    "location": "Lausanne"
   },
   "contract recruiter|cai|australia": {
    "first_seen": "2026-11-15T10:13:21+00:00",
-   "last_seen": "2026-11-17T03:53:05+00:00",
+   "last_seen": "2026-11-17T13:26:07+00:00",
    "title": "Contract Recruiter",
    "org": "CAI",
    "location": "Australia"
   },
   "aws cloud solutions architect|cloudary sas|remote": {
    "first_seen": "2026-11-15T10:13:21+00:00",
-   "last_seen": "2026-11-17T03:53:05+00:00",
+   "last_seen": "2026-11-17T13:26:07+00:00",
    "title": "AWS Cloud Solutions Architect",
    "org": "Cloudary SAS",
    "location": "remote"
   },
   "online client support &amp; travel booking we will train you|destination careers|dallas, texas": {
    "first_seen": "2026-11-15T10:13:21+00:00",
-   "last_seen": "2026-11-17T03:53:05+00:00",
+   "last_seen": "2026-11-17T13:26:07+00:00",
    "title": "Online Client Support &amp; Travel Booking We Will Train You",
    "org": "Destination Careers",
    "location": "Dallas, Texas"
   },
   "country manager canada|polaroid|remote": {
    "first_seen": "2026-11-15T10:13:21+00:00",
-   "last_seen": "2026-11-17T03:53:05+00:00",
+   "last_seen": "2026-11-17T13:26:07+00:00",
    "title": "Country Manager Canada",
    "org": "Polaroid",
    "location": "remote"
   },
   "client support &amp; travel booking online|destination careers|ohio": {
    "first_seen": "2026-11-15T10:13:21+00:00",
-   "last_seen": "2026-11-17T03:53:05+00:00",
+   "last_seen": "2026-11-17T13:26:07+00:00",
    "title": "Client Support &amp; Travel Booking Online",
    "org": "Destination Careers",
    "location": "Ohio"
   },
   "cloud engineer automation|smile digital health|toronto, ontario": {
    "first_seen": "2026-11-15T10:13:21+00:00",
-   "last_seen": "2026-11-17T03:53:05+00:00",
+   "last_seen": "2026-11-17T13:26:07+00:00",
    "title": "Cloud Engineer Automation",
    "org": "Smile Digital Health",
    "location": "Toronto, Ontario"
   },
   "front end developer|cambridge information group|remote": {
    "first_seen": "2026-11-15T10:13:21+00:00",
-   "last_seen": "2026-11-17T03:53:05+00:00",
+   "last_seen": "2026-11-17T13:26:07+00:00",
    "title": "Front End Developer",
    "org": "Cambridge Information Group",
    "location": "remote"
   },
   "senior software engineer latam|wagmo|remote": {
    "first_seen": "2026-11-15T10:13:21+00:00",
-   "last_seen": "2026-11-17T03:53:05+00:00",
+   "last_seen": "2026-11-17T13:26:07+00:00",
    "title": "Senior Software Engineer LATAM",
    "org": "Wagmo",
    "location": "remote"
   },
   "senior software engineer|klardaten|remote": {
    "first_seen": "2026-11-15T10:13:21+00:00",
-   "last_seen": "2026-11-17T03:53:05+00:00",
+   "last_seen": "2026-11-17T13:26:07+00:00",
    "title": "Senior Software Engineer",
    "org": "Klardaten",
    "location": "remote"
   },
   "solutions engineer|onebrief|remote": {
    "first_seen": "2026-11-15T10:13:21+00:00",
-   "last_seen": "2026-11-17T03:53:05+00:00",
+   "last_seen": "2026-11-17T13:26:07+00:00",
    "title": "Solutions Engineer",
    "org": "Onebrief",
    "location": "remote"
   },
   "travel support specialist|aisles &amp; abroad|seattle, washington": {
    "first_seen": "2026-11-15T10:13:21+00:00",
-   "last_seen": "2026-11-17T03:53:05+00:00",
+   "last_seen": "2026-11-17T13:26:07+00:00",
    "title": "Travel Support Specialist",
    "org": "Aisles &amp; Abroad",
    "location": "Seattle, Washington"
   },
   "senior devops engineer|lemon.io|remote": {
    "first_seen": "2026-11-15T10:13:21+00:00",
-   "last_seen": "2026-11-17T03:53:05+00:00",
+   "last_seen": "2026-11-17T13:26:07+00:00",
    "title": "Senior DevOps Engineer",
    "org": "Lemon.io",
    "location": "remote"
   },
   "accounting operations|plaid|remote": {
    "first_seen": "2026-11-15T10:13:21+00:00",
-   "last_seen": "2026-11-17T03:53:05+00:00",
+   "last_seen": "2026-11-17T13:26:07+00:00",
    "title": "Accounting Operations",
    "org": "Plaid",
    "location": "remote"
   },
   "clinical data manager|penumbra|your remote us home office": {
    "first_seen": "2026-11-15T10:13:21+00:00",
-   "last_seen": "2026-11-17T03:53:05+00:00",
+   "last_seen": "2026-11-17T13:26:07+00:00",
    "title": "Clinical Data Manager",
    "org": "Penumbra",
    "location": "Your Remote US Home Office"
   },
   "senior software engineer|sotheby\u00e2\u0080\u0099s|remote": {
    "first_seen": "2026-11-15T10:13:21+00:00",
-   "last_seen": "2026-11-17T03:53:05+00:00",
+   "last_seen": "2026-11-17T13:26:07+00:00",
    "title": "Senior Software Engineer",
    "org": "Sotheby\u00e2\u0080\u0099s",
    "location": "remote"
   },
   "senior backend engineer|rain|remote": {
    "first_seen": "2026-11-15T10:13:21+00:00",
-   "last_seen": "2026-11-17T03:53:05+00:00",
+   "last_seen": "2026-11-17T13:26:07+00:00",
    "title": "Senior Backend Engineer",
    "org": "Rain",
    "location": "remote"
   },
   "graduate transport planner|curtins|remote": {
    "first_seen": "2026-11-15T10:13:21+00:00",
-   "last_seen": "2026-11-17T03:53:05+00:00",
+   "last_seen": "2026-11-17T13:26:07+00:00",
    "title": "Graduate Transport Planner",
    "org": "Curtins",
    "location": "remote"
   },
   "key account manager danish market native speaker copenhagen|packmatic gmbh|copenhagen": {
    "first_seen": "2026-11-15T10:13:21+00:00",
-   "last_seen": "2026-11-17T03:53:05+00:00",
+   "last_seen": "2026-11-17T13:26:07+00:00",
    "title": "Key Account Manager Danish Market Native Speaker Copenhagen",
    "org": "Packmatic GmbH",
    "location": "Copenhagen"
   },
   "technical account manager|yuno|brazil": {
    "first_seen": "2026-11-15T10:13:21+00:00",
-   "last_seen": "2026-11-17T03:53:05+00:00",
+   "last_seen": "2026-11-17T13:26:07+00:00",
    "title": "Technical Account Manager",
    "org": "Yuno",
    "location": "Brazil"
   },
   "commercial account manager latam|apryse|remote": {
    "first_seen": "2026-11-15T10:13:21+00:00",
-   "last_seen": "2026-11-17T03:53:05+00:00",
+   "last_seen": "2026-11-17T13:26:07+00:00",
    "title": "Commercial Account Manager LATAM",
    "org": "Apryse",
    "location": "Remote"
@@ -585,140 +590,140 @@
   },
   "director of product management and it operations|self bill pro|remote": {
    "first_seen": "2026-11-15T10:13:21+00:00",
-   "last_seen": "2026-11-17T03:53:05+00:00",
+   "last_seen": "2026-11-17T13:26:07+00:00",
    "title": "Director of Product Management and IT Operations",
    "org": "Self Bill Pro",
    "location": "remote"
   },
   "apac python|kodland|remote": {
    "first_seen": "2026-11-15T10:13:21+00:00",
-   "last_seen": "2026-11-17T03:53:05+00:00",
+   "last_seen": "2026-11-17T13:26:07+00:00",
    "title": "APAC Python",
    "org": "Kodland",
    "location": "remote"
   },
   "director of it and workplace|hippocratic ai|menlo park": {
    "first_seen": "2026-11-15T10:13:21+00:00",
-   "last_seen": "2026-11-17T03:53:05+00:00",
+   "last_seen": "2026-11-17T13:26:07+00:00",
    "title": "Director of IT and Workplace",
    "org": "Hippocratic AI",
    "location": "Menlo Park"
   },
   "customer success associate|voltus|remote": {
    "first_seen": "2026-11-15T10:13:21+00:00",
-   "last_seen": "2026-11-17T03:53:05+00:00",
+   "last_seen": "2026-11-17T13:26:07+00:00",
    "title": "Customer Success Associate",
    "org": "Voltus",
    "location": "Remote"
   },
   "account manager mid market|allego|waltham": {
    "first_seen": "2026-11-15T10:13:21+00:00",
-   "last_seen": "2026-11-17T03:53:05+00:00",
+   "last_seen": "2026-11-17T13:26:07+00:00",
    "title": "Account Manager Mid Market",
    "org": "Allego",
    "location": "Waltham"
   },
   "senior software engineer ii applied ai|wrapbook|remote": {
    "first_seen": "2026-11-15T10:13:21+00:00",
-   "last_seen": "2026-11-17T03:53:05+00:00",
+   "last_seen": "2026-11-17T13:26:07+00:00",
    "title": "Senior Software Engineer II Applied AI",
    "org": "Wrapbook",
    "location": "remote"
   },
   "contracts manager federal|akicita federal, llc|remote": {
    "first_seen": "2026-11-15T10:13:21+00:00",
-   "last_seen": "2026-11-17T03:53:05+00:00",
+   "last_seen": "2026-11-17T13:26:07+00:00",
    "title": "Contracts Manager Federal",
    "org": "Akicita Federal, LLC",
    "location": "Remote"
   },
   "federal account manager client relationships|akicita federal, llc|remote": {
    "first_seen": "2026-11-15T10:13:21+00:00",
-   "last_seen": "2026-11-17T03:53:05+00:00",
+   "last_seen": "2026-11-17T13:26:07+00:00",
    "title": "Federal Account Manager Client Relationships",
    "org": "Akicita Federal, LLC",
    "location": "Remote"
   },
   "principal product manager strategic initiatives|thyme care|remote": {
    "first_seen": "2026-11-15T10:13:21+00:00",
-   "last_seen": "2026-11-17T03:53:05+00:00",
+   "last_seen": "2026-11-17T13:26:07+00:00",
    "title": "Principal Product Manager Strategic Initiatives",
    "org": "Thyme Care",
    "location": "Remote"
   },
   "principal software engineer|vytalize health|kansas": {
    "first_seen": "2026-11-15T10:13:21+00:00",
-   "last_seen": "2026-11-17T03:53:05+00:00",
+   "last_seen": "2026-11-17T13:26:07+00:00",
    "title": "Principal Software Engineer",
    "org": "Vytalize Health",
    "location": "Kansas"
   },
   "technical account manager|deuna|ciudad de m\u00e3\u00a9xico, mexico": {
    "first_seen": "2026-11-15T10:13:21+00:00",
-   "last_seen": "2026-11-17T03:53:05+00:00",
+   "last_seen": "2026-11-17T13:26:07+00:00",
    "title": "Technical Account Manager",
    "org": "DEUNA",
    "location": "Ciudad de M\u00c3\u00a9xico, Mexico"
   },
   "academic dean for miaprep online academy of ohio|miaplaza|remote": {
    "first_seen": "2026-11-15T10:13:21+00:00",
-   "last_seen": "2026-11-17T03:53:05+00:00",
+   "last_seen": "2026-11-17T13:26:07+00:00",
    "title": "Academic Dean for MiaPrep Online Academy of Ohio",
    "org": "Miaplaza",
    "location": "remote"
   },
   "product engineering lead|tether operations limited|remote": {
    "first_seen": "2026-11-15T10:13:21+00:00",
-   "last_seen": "2026-11-17T03:53:05+00:00",
+   "last_seen": "2026-11-17T13:26:07+00:00",
    "title": "Product Engineering Lead",
    "org": "Tether Operations Limited",
    "location": "remote"
   },
   "platform and integration engineer security telemetry|redmimicry|remote": {
    "first_seen": "2026-11-15T10:13:21+00:00",
-   "last_seen": "2026-11-17T03:53:05+00:00",
+   "last_seen": "2026-11-17T13:26:07+00:00",
    "title": "Platform and Integration Engineer Security Telemetry",
    "org": "RedMimicry",
    "location": "remote"
   },
   "director payment integrity|siho insurance services|siho - columbus, in": {
    "first_seen": "2026-11-15T10:13:21+00:00",
-   "last_seen": "2026-11-17T03:53:05+00:00",
+   "last_seen": "2026-11-17T13:26:07+00:00",
    "title": "Director Payment Integrity",
    "org": "SIHO Insurance Services",
    "location": "SIHO - Columbus, IN"
   },
   "software engineer|prenosis|remote": {
    "first_seen": "2026-11-15T10:13:21+00:00",
-   "last_seen": "2026-11-17T03:53:05+00:00",
+   "last_seen": "2026-11-17T13:26:07+00:00",
    "title": "Software Engineer",
    "org": "Prenosis",
    "location": "remote"
   },
   "technical product manager ai stockbroking app|bjak|germany": {
    "first_seen": "2026-11-15T10:13:21+00:00",
-   "last_seen": "2026-11-17T03:53:05+00:00",
+   "last_seen": "2026-11-17T13:26:07+00:00",
    "title": "Technical Product Manager AI Stockbroking App",
    "org": "Bjak",
    "location": "Germany"
   },
   "senior growth product manager ai native|magic eden|melbourne": {
    "first_seen": "2026-11-15T10:13:21+00:00",
-   "last_seen": "2026-11-17T03:53:05+00:00",
+   "last_seen": "2026-11-17T13:26:07+00:00",
    "title": "Senior Growth Product Manager AI Native",
    "org": "Magic Eden",
    "location": "Melbourne"
   },
   "people operations coordinator|ashby|remote": {
    "first_seen": "2026-11-15T10:13:21+00:00",
-   "last_seen": "2026-11-17T03:53:05+00:00",
+   "last_seen": "2026-11-17T13:26:07+00:00",
    "title": "People Operations Coordinator",
    "org": "Ashby",
    "location": "remote"
   },
   "frontend engineer|bjak|ireland": {
    "first_seen": "2026-11-15T10:13:21+00:00",
-   "last_seen": "2026-11-17T03:53:05+00:00",
+   "last_seen": "2026-11-17T13:26:07+00:00",
    "title": "Frontend Engineer",
    "org": "Bjak",
    "location": "Ireland"
@@ -732,136 +737,143 @@
   },
   "technical product lead ai finance app|bjak|seoul": {
    "first_seen": "2026-11-15T10:13:21+00:00",
-   "last_seen": "2026-11-17T03:53:05+00:00",
+   "last_seen": "2026-11-17T13:26:07+00:00",
    "title": "Technical Product Lead AI Finance App",
    "org": "Bjak",
    "location": "Seoul"
   },
   "software engineer|mirantis|remote": {
    "first_seen": "2026-11-15T10:13:21+00:00",
-   "last_seen": "2026-11-17T03:53:05+00:00",
+   "last_seen": "2026-11-17T13:26:07+00:00",
    "title": "Software Engineer",
    "org": "Mirantis",
    "location": "remote"
   },
   "marketing student assistant|copenhagen optimization|remote": {
    "first_seen": "2026-11-15T10:13:21+00:00",
-   "last_seen": "2026-11-17T03:53:05+00:00",
+   "last_seen": "2026-11-17T13:26:07+00:00",
    "title": "Marketing Student Assistant",
    "org": "Copenhagen Optimization",
    "location": "remote"
   },
   "business development manager|libertex group|\u00f9 \u00f8\u00b3\u00f9\u0082\u00f8\u00b7, \u00f9 \u00f8\u00b3\u00f9\u0082\u00f8\u00b7 \u00f9 \u00f8\u00b3\u00f9\u0082\u00f8\u00b7 \u00f8\u00b9\u00f9 \u00f8\u00a7\u00f9\u0086": {
    "first_seen": "2026-11-15T10:13:21+00:00",
-   "last_seen": "2026-11-17T03:53:05+00:00",
+   "last_seen": "2026-11-17T13:26:07+00:00",
    "title": "Business Development Manager",
    "org": "Libertex Group",
    "location": "\u00d9 \u00d8\u00b3\u00d9\u0082\u00d8\u00b7, \u00d9 \u00d8\u00b3\u00d9\u0082\u00d8\u00b7 \u00d9 \u00d8\u00b3\u00d9\u0082\u00d8\u00b7 \u00d8\u00b9\u00d9 \u00d8\u00a7\u00d9\u0086"
   },
   "ai engineer data apis|benzinga|remote": {
    "first_seen": "2026-11-15T10:13:21+00:00",
-   "last_seen": "2026-11-17T03:53:05+00:00",
+   "last_seen": "2026-11-17T13:26:07+00:00",
    "title": "AI Engineer Data APIs",
    "org": "Benzinga",
    "location": "remote"
   },
   "principal engineer|the ai whistleblower initiative|remote": {
    "first_seen": "2026-11-15T10:13:21+00:00",
-   "last_seen": "2026-11-17T03:53:05+00:00",
+   "last_seen": "2026-11-17T13:26:07+00:00",
    "title": "Principal Engineer",
    "org": "The AI Whistleblower Initiative",
    "location": "remote"
   },
   "oracle fusion cloud lead \u00e2\u0080\u0094 logistics & supply chain management|tessera labs|remote": {
    "first_seen": "2026-11-15T10:13:21+00:00",
-   "last_seen": "2026-11-17T03:53:05+00:00",
+   "last_seen": "2026-11-17T13:26:07+00:00",
    "title": "Oracle Fusion Cloud Lead \u00e2\u0080\u0094 Logistics & Supply Chain Management",
    "org": "Tessera Labs",
    "location": "remote"
   },
   "renewables project scheduler|transportation partners &amp; logistics|black bess,": {
    "first_seen": "2026-11-15T10:13:21+00:00",
-   "last_seen": "2026-11-17T03:53:05+00:00",
+   "last_seen": "2026-11-17T13:26:07+00:00",
    "title": "Renewables Project Scheduler",
    "org": "Transportation Partners &amp; Logistics",
    "location": "Black Bess,"
   },
   "senior backend engineer build ai agents|salesforge|remote": {
    "first_seen": "2026-11-15T10:13:21+00:00",
-   "last_seen": "2026-11-17T03:53:05+00:00",
+   "last_seen": "2026-11-17T13:26:07+00:00",
    "title": "Senior Backend Engineer Build AI Agents",
    "org": "Salesforge",
    "location": "remote"
   },
   "senior specialist global qms|orca bio|remote": {
    "first_seen": "2026-11-15T10:13:21+00:00",
-   "last_seen": "2026-11-17T03:53:05+00:00",
+   "last_seen": "2026-11-17T13:26:07+00:00",
    "title": "Senior Specialist Global QMS",
    "org": "Orca Bio",
    "location": "remote"
   },
   "desarrollador full stack|kruger nearshore llc - rekluti|remote": {
    "first_seen": "2026-11-15T10:13:21+00:00",
-   "last_seen": "2026-11-17T03:53:05+00:00",
+   "last_seen": "2026-11-17T13:26:07+00:00",
    "title": "DESARROLLADOR FULL STACK",
    "org": "Kruger NearShore LLC - Rekluti",
    "location": "remote"
   },
   "consultant implementation engineer|harbor|remote": {
    "first_seen": "2026-11-15T10:13:21+00:00",
-   "last_seen": "2026-11-17T03:53:05+00:00",
+   "last_seen": "2026-11-17T13:26:07+00:00",
    "title": "Consultant Implementation Engineer",
    "org": "Harbor",
    "location": "Remote"
   },
   "marketing operations specialist|engine|remote - us": {
    "first_seen": "2026-11-15T10:13:21+00:00",
-   "last_seen": "2026-11-17T03:53:05+00:00",
+   "last_seen": "2026-11-17T13:26:07+00:00",
    "title": "Marketing Operations Specialist",
    "org": "Engine",
    "location": "Remote - US"
   },
   "team lead education|chaos|remote": {
    "first_seen": "2026-11-15T10:13:21+00:00",
-   "last_seen": "2026-11-17T03:53:05+00:00",
+   "last_seen": "2026-11-17T13:26:07+00:00",
    "title": "Team Lead Education",
    "org": "Chaos",
    "location": "remote"
   },
   "lead product designer|highlevel|india": {
    "first_seen": "2026-11-15T10:13:21+00:00",
-   "last_seen": "2026-11-17T03:53:05+00:00",
+   "last_seen": "2026-11-17T13:26:07+00:00",
    "title": "Lead Product Designer",
    "org": "HighLevel",
    "location": "India"
   },
   "strategic account executive lodging|freedompay|select usa remote locations": {
    "first_seen": "2026-11-15T10:13:21+00:00",
-   "last_seen": "2026-11-17T03:53:05+00:00",
+   "last_seen": "2026-11-17T13:26:07+00:00",
    "title": "Strategic Account Executive Lodging",
    "org": "FreedomPay",
    "location": "Select USA Remote Locations"
   },
   "senior software engineer case execution|pivotal health|new york city": {
    "first_seen": "2026-11-16T02:06:47+00:00",
-   "last_seen": "2026-11-17T03:53:05+00:00",
+   "last_seen": "2026-11-17T13:26:07+00:00",
    "title": "Senior Software Engineer Case Execution",
    "org": "Pivotal Health",
    "location": "New York City"
   },
   "qa tester entry level|ace it careers|remote": {
    "first_seen": "2026-11-16T02:06:47+00:00",
-   "last_seen": "2026-11-17T03:53:05+00:00",
+   "last_seen": "2026-11-17T13:26:07+00:00",
    "title": "QA Tester Entry Level",
    "org": "Ace IT Careers",
    "location": "Remote"
   },
   "brand protection & marketplace compliance analyst|multiplymii|remote": {
    "first_seen": "2026-11-16T20:29:22+00:00",
-   "last_seen": "2026-11-17T03:53:05+00:00",
+   "last_seen": "2026-11-17T13:26:07+00:00",
    "title": "Brand Protection & Marketplace Compliance Analyst",
    "org": "MultiplyMii",
    "location": "remote"
+  },
+  "future shaprs|shapr3d|budapest,": {
+   "first_seen": "2026-11-17T13:26:07+00:00",
+   "last_seen": "2026-11-17T13:26:07+00:00",
+   "title": "Future Shaprs",
+   "org": "Shapr3D",
+   "location": "Budapest,"
   }
  }
 }
