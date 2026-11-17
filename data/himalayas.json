@@ -3,103 +3,103 @@
  "name": "Himalayas \u2014 remote jobs",
  "category": "jobs",
  "source": "https://himalayas.app/jobs/api",
- "collected_at": "2026-11-16T20:29:24+00:00",
+ "collected_at": "2026-11-17T03:53:06+00:00",
  "jobs_on_board": 20,
  "new_this_run": 20,
- "total_tracked": 159,
+ "total_tracked": 179,
  "jobs": [
   {
-   "title": "Midwife in Ireland- Telehealth",
-   "org": "Abi global Health",
-   "location": "Ireland",
-   "detail": "Part Time",
-   "url": null,
-   "new_this_run": true
-  },
-  {
-   "title": "Senior Support Analyst-Dental Prepay",
-   "org": "Cotiviti",
-   "location": "United States",
-   "detail": "$70,000\u2013$92,000/a",
-   "url": null,
-   "new_this_run": true
-  },
-  {
-   "title": "Sr. Solutions Consultant - SDDC",
-   "org": "SHI International Corp.",
-   "location": "United States",
-   "detail": "$150,000\u2013$180,000/a",
-   "url": null,
-   "new_this_run": true
-  },
-  {
-   "title": "Senior Project Manager / Gestionnaire senior de projets",
-   "org": "Digital Moment",
-   "location": "Canada",
+   "title": "Quality analyst / Business analyst",
+   "org": "OpenSpecimen (Krishagni)",
+   "location": "India",
    "detail": "Full Time",
    "url": null,
    "new_this_run": true
   },
   {
-   "title": "Paid Media Strategist",
-   "org": "QRY",
-   "location": "United States",
-   "detail": "$70,000\u2013$80,000/a",
-   "url": null,
-   "new_this_run": true
-  },
-  {
-   "title": "Chief of Staff VP Operations Marketing Advertising eCommerce",
-   "org": "BluZinc",
-   "location": "Canada, United States",
+   "title": "Strategic Account Manager - KSA",
+   "org": "WebEngage",
+   "location": "Saudi Arabia",
    "detail": "Full Time",
    "url": null,
    "new_this_run": true
   },
   {
-   "title": "Paid Search Strategist",
-   "org": "QRY",
-   "location": "United States",
-   "detail": "$70,000\u2013$80,000/a",
-   "url": null,
-   "new_this_run": true
-  },
-  {
-   "title": "Channel Account Manager, Taiwan",
-   "org": "AVEVA",
-   "location": "Taiwan",
+   "title": "Business Development Representative",
+   "org": "WebEngage",
+   "location": "India",
    "detail": "Full Time",
    "url": null,
    "new_this_run": true
   },
   {
-   "title": "Corporate Sales Executive",
-   "org": "Envita Solutions, LLC",
-   "location": "United States",
+   "title": "Security Engineer",
+   "org": "WebEngage",
+   "location": "India",
    "detail": "Full Time",
    "url": null,
    "new_this_run": true
   },
   {
-   "title": "Director, Agency Partnerships Ad Sales - Capital One Ad Solutions",
-   "org": "Capital One",
-   "location": "United States",
-   "detail": "$187,300\u2013$213,700/a",
+   "title": "Senior Cloud & AI First Engineer",
+   "org": "Init Norway",
+   "location": "North Macedonia",
+   "detail": "Full Time",
    "url": null,
    "new_this_run": true
   },
   {
-   "title": "Sr. Marketing Technology Strategist",
-   "org": "Tandem Diabetes Care",
-   "location": "United States",
-   "detail": "$89,900\u2013$112,250/a",
+   "title": "Performance Marketer",
+   "org": "WebEngage",
+   "location": "India",
+   "detail": "Full Time",
    "url": null,
    "new_this_run": true
   },
   {
-   "title": "Travel Agent (Amadeus)",
-   "org": "Exoticca",
-   "location": "Spain",
+   "title": "Software Developer",
+   "org": "OpenSpecimen (Krishagni)",
+   "location": "India",
+   "detail": "Full Time",
+   "url": null,
+   "new_this_run": true
+  },
+  {
+   "title": "Copier Account Executive - Northeast",
+   "org": "Canon",
+   "location": "United States",
+   "detail": "$69,300\u2013$103,770/a",
+   "url": null,
+   "new_this_run": true
+  },
+  {
+   "title": "Customer Success Manager- Arabic Speaker",
+   "org": "WebEngage",
+   "location": "Saudi Arabia",
+   "detail": "Full Time",
+   "url": null,
+   "new_this_run": true
+  },
+  {
+   "title": "Business Development Representative (Enterprises) - MEA",
+   "org": "WebEngage",
+   "location": "India",
+   "detail": "Full Time",
+   "url": null,
+   "new_this_run": true
+  },
+  {
+   "title": "Strategic Account Manager",
+   "org": "WebEngage",
+   "location": "Saudi Arabia",
+   "detail": "Full Time",
+   "url": null,
+   "new_this_run": true
+  },
+  {
+   "title": "Data Engineer",
+   "org": "WebEngage",
+   "location": "India",
    "detail": "Full Time",
    "url": null,
    "new_this_run": true
@@ -153,6 +153,11 @@
   },
   {
    "at": "2026-11-16T20:29:24+00:00",
+   "jobs": 20,
+   "new": 20
+  },
+  {
+   "at": "2026-11-17T03:53:06+00:00",
    "jobs": 20,
    "new": 20
   }
@@ -1270,6 +1275,146 @@
    "title": "Project Data Manager",
    "org": "Syneos Health India Private Limited",
    "location": "Argentina"
+  },
+  "quality analyst / business analyst|openspecimen (krishagni)|india": {
+   "first_seen": "2026-11-17T03:53:06+00:00",
+   "last_seen": "2026-11-17T03:53:06+00:00",
+   "title": "Quality analyst / Business analyst",
+   "org": "OpenSpecimen (Krishagni)",
+   "location": "India"
+  },
+  "strategic account manager - ksa|webengage|saudi arabia": {
+   "first_seen": "2026-11-17T03:53:06+00:00",
+   "last_seen": "2026-11-17T03:53:06+00:00",
+   "title": "Strategic Account Manager - KSA",
+   "org": "WebEngage",
+   "location": "Saudi Arabia"
+  },
+  "business development representative|webengage|india": {
+   "first_seen": "2026-11-17T03:53:06+00:00",
+   "last_seen": "2026-11-17T03:53:06+00:00",
+   "title": "Business Development Representative",
+   "org": "WebEngage",
+   "location": "India"
+  },
+  "security engineer|webengage|india": {
+   "first_seen": "2026-11-17T03:53:06+00:00",
+   "last_seen": "2026-11-17T03:53:06+00:00",
+   "title": "Security Engineer",
+   "org": "WebEngage",
+   "location": "India"
+  },
+  "senior cloud & ai first engineer|init norway|north macedonia": {
+   "first_seen": "2026-11-17T03:53:06+00:00",
+   "last_seen": "2026-11-17T03:53:06+00:00",
+   "title": "Senior Cloud & AI First Engineer",
+   "org": "Init Norway",
+   "location": "North Macedonia"
+  },
+  "performance marketer|webengage|india": {
+   "first_seen": "2026-11-17T03:53:06+00:00",
+   "last_seen": "2026-11-17T03:53:06+00:00",
+   "title": "Performance Marketer",
+   "org": "WebEngage",
+   "location": "India"
+  },
+  "software developer|openspecimen (krishagni)|india": {
+   "first_seen": "2026-11-17T03:53:06+00:00",
+   "last_seen": "2026-11-17T03:53:06+00:00",
+   "title": "Software Developer",
+   "org": "OpenSpecimen (Krishagni)",
+   "location": "India"
+  },
+  "copier account executive - northeast|canon|united states": {
+   "first_seen": "2026-11-17T03:53:06+00:00",
+   "last_seen": "2026-11-17T03:53:06+00:00",
+   "title": "Copier Account Executive - Northeast",
+   "org": "Canon",
+   "location": "United States"
+  },
+  "customer success manager- arabic speaker|webengage|saudi arabia": {
+   "first_seen": "2026-11-17T03:53:06+00:00",
+   "last_seen": "2026-11-17T03:53:06+00:00",
+   "title": "Customer Success Manager- Arabic Speaker",
+   "org": "WebEngage",
+   "location": "Saudi Arabia"
+  },
+  "business development representative (enterprises) - mea|webengage|india": {
+   "first_seen": "2026-11-17T03:53:06+00:00",
+   "last_seen": "2026-11-17T03:53:06+00:00",
+   "title": "Business Development Representative (Enterprises) - MEA",
+   "org": "WebEngage",
+   "location": "India"
+  },
+  "strategic account manager|webengage|saudi arabia": {
+   "first_seen": "2026-11-17T03:53:06+00:00",
+   "last_seen": "2026-11-17T03:53:06+00:00",
+   "title": "Strategic Account Manager",
+   "org": "WebEngage",
+   "location": "Saudi Arabia"
+  },
+  "data engineer|webengage|india": {
+   "first_seen": "2026-11-17T03:53:06+00:00",
+   "last_seen": "2026-11-17T03:53:06+00:00",
+   "title": "Data Engineer",
+   "org": "WebEngage",
+   "location": "India"
+  },
+  "software engineer- frontend|webengage|india": {
+   "first_seen": "2026-11-17T03:53:06+00:00",
+   "last_seen": "2026-11-17T03:53:06+00:00",
+   "title": "Software Engineer- Frontend",
+   "org": "WebEngage",
+   "location": "India"
+  },
+  "senior devops engineer|webengage|india": {
+   "first_seen": "2026-11-17T03:53:06+00:00",
+   "last_seen": "2026-11-17T03:53:06+00:00",
+   "title": "Senior DevOps Engineer",
+   "org": "WebEngage",
+   "location": "India"
+  },
+  "project coordinator (information services)|medstar health|united states": {
+   "first_seen": "2026-11-17T03:53:06+00:00",
+   "last_seen": "2026-11-17T03:53:06+00:00",
+   "title": "Project Coordinator (Information Services)",
+   "org": "MedStar Health",
+   "location": "United States"
+  },
+  "project manager|colibri digital|united kingdom": {
+   "first_seen": "2026-11-17T03:53:06+00:00",
+   "last_seen": "2026-11-17T03:53:06+00:00",
+   "title": "Project Manager",
+   "org": "Colibri Digital",
+   "location": "United Kingdom"
+  },
+  "dozent (alle geschlechter) im fachbereich \u201equalifizierung internationaler hebamm|lingoda|germany": {
+   "first_seen": "2026-11-17T03:53:06+00:00",
+   "last_seen": "2026-11-17T03:53:06+00:00",
+   "title": "Dozent (alle Geschlechter) im Fachbereich \u201eQualifizierung internationaler Hebamm",
+   "org": "Lingoda",
+   "location": "Germany"
+  },
+  "speech language intern - district wide|cherry creek|united states": {
+   "first_seen": "2026-11-17T03:53:06+00:00",
+   "last_seen": "2026-11-17T03:53:06+00:00",
+   "title": "Speech Language Intern - District Wide",
+   "org": "Cherry Creek",
+   "location": "United States"
+  },
+  "customer success manager|salesape.ai|united states": {
+   "first_seen": "2026-11-17T03:53:06+00:00",
+   "last_seen": "2026-11-17T03:53:06+00:00",
+   "title": "Customer Success Manager",
+   "org": "SalesAPE.ai",
+   "location": "United States"
+  },
+  "rcm / collections specialist / medical biller - remote - pst or mst only|option care health|united states": {
+   "first_seen": "2026-11-17T03:53:06+00:00",
+   "last_seen": "2026-11-17T03:53:06+00:00",
+   "title": "RCM / Collections Specialist / Medical Biller - Remote - PST or MST Only",
+   "org": "Option Care Health",
+   "location": "United States"
   }
  }
 }

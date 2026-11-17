@@ -3,9 +3,9 @@
  "name": "Jobicy \u2014 remote jobs",
  "category": "jobs",
  "source": "https://jobicy.com/api/v2/remote-jobs",
- "collected_at": "2026-11-16T20:29:23+00:00",
+ "collected_at": "2026-11-17T03:53:06+00:00",
  "jobs_on_board": 50,
- "new_this_run": 50,
+ "new_this_run": 0,
  "total_tracked": 200,
  "jobs": [
   {
@@ -14,7 +14,7 @@
    "location": "UK",
    "detail": "Any",
    "url": "https://jobicy.com/jobs/162720-clx-property-advocate-uk",
-   "new_this_run": true
+   "new_this_run": false
   },
   {
    "title": "Junior Performance Marketer (Remote - Bulgaria)",
@@ -22,7 +22,7 @@
    "location": "Bulgaria",
    "detail": "Director",
    "url": "https://jobicy.com/jobs/162719-junior-performance-marketer-remote-bulgaria",
-   "new_this_run": true
+   "new_this_run": false
   },
   {
    "title": "Actuarial Associate, UK",
@@ -30,7 +30,7 @@
    "location": "UK",
    "detail": "Any",
    "url": "https://jobicy.com/jobs/162718-actuarial-associate-uk",
-   "new_this_run": true
+   "new_this_run": false
   },
   {
    "title": "Commercial Manager - Europe",
@@ -38,7 +38,7 @@
    "location": "Ireland, UK",
    "detail": "Director",
    "url": "https://jobicy.com/jobs/162716-commercial-manager-europe",
-   "new_this_run": true
+   "new_this_run": false
   },
   {
    "title": "VP, Sales EMEA",
@@ -46,7 +46,7 @@
    "location": "Europe",
    "detail": "Director",
    "url": "https://jobicy.com/jobs/162715-vp-sales-emea",
-   "new_this_run": true
+   "new_this_run": false
   },
   {
    "title": "Senior Manager, Partnerships EMEA",
@@ -54,7 +54,7 @@
    "location": "France, Germany, UK",
    "detail": "Director",
    "url": "https://jobicy.com/jobs/162711-senior-manager-partnerships-emea",
-   "new_this_run": true
+   "new_this_run": false
   },
   {
    "title": "Manager, Developer Advocacy (EMEA)",
@@ -62,7 +62,7 @@
    "location": "UK",
    "detail": "Senior",
    "url": "https://jobicy.com/jobs/162709-manager-developer-advocacy-emea",
-   "new_this_run": true
+   "new_this_run": false
   },
   {
    "title": "Senior Software Engineer, Agentic Customer Platform (Poland, Remote, B2B)",
@@ -70,7 +70,7 @@
    "location": "Poland",
    "detail": "Senior",
    "url": "https://jobicy.com/jobs/162707-senior-software-engineer-agentic-customer-platform-poland-remote-b2b-2",
-   "new_this_run": true
+   "new_this_run": false
   },
   {
    "title": "Sales Director, Commercial",
@@ -78,7 +78,7 @@
    "location": "UK",
    "detail": "Director",
    "url": "https://jobicy.com/jobs/162706-sales-director-commercial",
-   "new_this_run": true
+   "new_this_run": false
   },
   {
    "title": "Senior Security Operations Engineer",
@@ -86,7 +86,7 @@
    "location": "Netherlands",
    "detail": "Director",
    "url": "https://jobicy.com/jobs/162704-senior-security-operations-engineer-6",
-   "new_this_run": true
+   "new_this_run": false
   },
   {
    "title": "Enterprise Account Executive, New Logo",
@@ -94,7 +94,7 @@
    "location": "UK",
    "detail": "Director",
    "url": "https://jobicy.com/jobs/162703-enterprise-account-executive-new-logo",
-   "new_this_run": true
+   "new_this_run": false
   },
   {
    "title": "Senior Sales Engineer, France",
@@ -102,7 +102,7 @@
    "location": "France",
    "detail": "Senior",
    "url": "https://jobicy.com/jobs/162701-senior-sales-engineer-france-2",
-   "new_this_run": true
+   "new_this_run": false
   }
  ],
  "runs": [
@@ -155,6 +155,11 @@
    "at": "2026-11-16T20:29:23+00:00",
    "jobs": 50,
    "new": 50
+  },
+  {
+   "at": "2026-11-17T03:53:06+00:00",
+   "jobs": 50,
+   "new": 0
   }
  ],
  "jobs_seen": {
@@ -1210,350 +1215,350 @@
   },
   "clx property advocate, uk|lemonade|uk": {
    "first_seen": "2026-11-16T20:29:23+00:00",
-   "last_seen": "2026-11-16T20:29:23+00:00",
+   "last_seen": "2026-11-17T03:53:06+00:00",
    "title": "CLX Property Advocate, UK",
    "org": "Lemonade",
    "location": "UK"
   },
   "junior performance marketer (remote - bulgaria)|everai|bulgaria": {
    "first_seen": "2026-11-16T20:29:23+00:00",
-   "last_seen": "2026-11-16T20:29:23+00:00",
+   "last_seen": "2026-11-17T03:53:06+00:00",
    "title": "Junior Performance Marketer (Remote - Bulgaria)",
    "org": "EverAI",
    "location": "Bulgaria"
   },
   "actuarial associate, uk|lemonade|uk": {
    "first_seen": "2026-11-16T20:29:23+00:00",
-   "last_seen": "2026-11-16T20:29:23+00:00",
+   "last_seen": "2026-11-17T03:53:06+00:00",
    "title": "Actuarial Associate, UK",
    "org": "Lemonade",
    "location": "UK"
   },
   "commercial manager - europe|lyra health|ireland, uk": {
    "first_seen": "2026-11-16T20:29:23+00:00",
-   "last_seen": "2026-11-16T20:29:23+00:00",
+   "last_seen": "2026-11-17T03:53:06+00:00",
    "title": "Commercial Manager - Europe",
    "org": "Lyra Health",
    "location": "Ireland, UK"
   },
   "vp, sales emea|stackadapt|europe": {
    "first_seen": "2026-11-16T20:29:23+00:00",
-   "last_seen": "2026-11-16T20:29:23+00:00",
+   "last_seen": "2026-11-17T03:53:06+00:00",
    "title": "VP, Sales EMEA",
    "org": "StackAdapt",
    "location": "Europe"
   },
   "senior manager, partnerships emea|temporal technologies|france, germany, uk": {
    "first_seen": "2026-11-16T20:29:23+00:00",
-   "last_seen": "2026-11-16T20:29:23+00:00",
+   "last_seen": "2026-11-17T03:53:06+00:00",
    "title": "Senior Manager, Partnerships EMEA",
    "org": "Temporal Technologies",
    "location": "France, Germany, UK"
   },
   "manager, developer advocacy (emea)|temporal technologies|uk": {
    "first_seen": "2026-11-16T20:29:23+00:00",
-   "last_seen": "2026-11-16T20:29:23+00:00",
+   "last_seen": "2026-11-17T03:53:06+00:00",
    "title": "Manager, Developer Advocacy (EMEA)",
    "org": "Temporal Technologies",
    "location": "UK"
   },
   "senior software engineer, agentic customer platform (poland, remote, b2b)|samsara|poland": {
    "first_seen": "2026-11-16T20:29:23+00:00",
-   "last_seen": "2026-11-16T20:29:23+00:00",
+   "last_seen": "2026-11-17T03:53:06+00:00",
    "title": "Senior Software Engineer, Agentic Customer Platform (Poland, Remote, B2B)",
    "org": "Samsara",
    "location": "Poland"
   },
   "sales director, commercial|temporal technologies|uk": {
    "first_seen": "2026-11-16T20:29:23+00:00",
-   "last_seen": "2026-11-16T20:29:23+00:00",
+   "last_seen": "2026-11-17T03:53:06+00:00",
    "title": "Sales Director, Commercial",
    "org": "Temporal Technologies",
    "location": "UK"
   },
   "senior security operations engineer|samsara|netherlands": {
    "first_seen": "2026-11-16T20:29:23+00:00",
-   "last_seen": "2026-11-16T20:29:23+00:00",
+   "last_seen": "2026-11-17T03:53:06+00:00",
    "title": "Senior Security Operations Engineer",
    "org": "Samsara",
    "location": "Netherlands"
   },
   "enterprise account executive, new logo|temporal technologies|uk": {
    "first_seen": "2026-11-16T20:29:23+00:00",
-   "last_seen": "2026-11-16T20:29:23+00:00",
+   "last_seen": "2026-11-17T03:53:06+00:00",
    "title": "Enterprise Account Executive, New Logo",
    "org": "Temporal Technologies",
    "location": "UK"
   },
   "senior sales engineer, france|samsara|france": {
    "first_seen": "2026-11-16T20:29:23+00:00",
-   "last_seen": "2026-11-16T20:29:23+00:00",
+   "last_seen": "2026-11-17T03:53:06+00:00",
    "title": "Senior Sales Engineer, France",
    "org": "Samsara",
    "location": "France"
   },
   "senior account executive, growth france|temporal technologies|france": {
    "first_seen": "2026-11-16T20:29:23+00:00",
-   "last_seen": "2026-11-16T20:29:23+00:00",
+   "last_seen": "2026-11-17T03:53:06+00:00",
    "title": "Senior Account Executive, Growth France",
    "org": "Temporal Technologies",
    "location": "France"
   },
   "senior sales engineer, dach|samsara|germany": {
    "first_seen": "2026-11-16T20:29:23+00:00",
-   "last_seen": "2026-11-16T20:29:23+00:00",
+   "last_seen": "2026-11-17T03:53:06+00:00",
    "title": "Senior Sales Engineer, DACH",
    "org": "Samsara",
    "location": "Germany"
   },
   "senior paid search specialist|docplanner|italy, poland, spain": {
    "first_seen": "2026-11-16T20:29:23+00:00",
-   "last_seen": "2026-11-16T20:29:23+00:00",
+   "last_seen": "2026-11-17T03:53:06+00:00",
    "title": "Senior Paid Search Specialist",
    "org": "Docplanner",
    "location": "Italy, Poland, Spain"
   },
   "senior account executive, growth|temporal technologies|uk": {
    "first_seen": "2026-11-16T20:29:23+00:00",
-   "last_seen": "2026-11-16T20:29:23+00:00",
+   "last_seen": "2026-11-17T03:53:06+00:00",
    "title": "Senior Account Executive, Growth",
    "org": "Temporal Technologies",
    "location": "UK"
   },
   "mid-market account executive - france|samsara|france": {
    "first_seen": "2026-11-16T20:29:23+00:00",
-   "last_seen": "2026-11-16T20:29:23+00:00",
+   "last_seen": "2026-11-17T03:53:06+00:00",
    "title": "Mid-Market Account Executive - France",
    "org": "Samsara",
    "location": "France"
   },
   "global procurement manager | interim 6 month contract | 100% remote|docplanner|europe": {
    "first_seen": "2026-11-16T20:29:23+00:00",
-   "last_seen": "2026-11-16T20:29:23+00:00",
+   "last_seen": "2026-11-17T03:53:06+00:00",
    "title": "Global Procurement Manager | Interim 6 Month Contract | 100% Remote",
    "org": "Docplanner",
    "location": "Europe"
   },
   "account manager - nordics|elevenlabs|sweden": {
    "first_seen": "2026-11-16T20:29:23+00:00",
-   "last_seen": "2026-11-16T20:29:23+00:00",
+   "last_seen": "2026-11-17T03:53:06+00:00",
    "title": "Account Manager - Nordics",
    "org": "Elevenlabs",
    "location": "Sweden"
   },
   "senior account executive, growth dach|temporal technologies|germany": {
    "first_seen": "2026-11-16T20:29:23+00:00",
-   "last_seen": "2026-11-16T20:29:23+00:00",
+   "last_seen": "2026-11-17T03:53:06+00:00",
    "title": "Senior Account Executive, Growth DACH",
    "org": "Temporal Technologies",
    "location": "Germany"
   },
   "site reliability engineer|godaddy|romania": {
    "first_seen": "2026-11-16T20:29:23+00:00",
-   "last_seen": "2026-11-16T20:29:23+00:00",
+   "last_seen": "2026-11-17T03:53:06+00:00",
    "title": "Site Reliability Engineer",
    "org": "GoDaddy",
    "location": "Romania"
   },
   "account development representative - dach|samsara|germany": {
    "first_seen": "2026-11-16T20:29:23+00:00",
-   "last_seen": "2026-11-16T20:29:23+00:00",
+   "last_seen": "2026-11-17T03:53:06+00:00",
    "title": "Account Development Representative - DACH",
    "org": "Samsara",
    "location": "Germany"
   },
   "fp&a manager | tech & product | remote in spain or poland|docplanner|poland, spain": {
    "first_seen": "2026-11-16T20:29:23+00:00",
-   "last_seen": "2026-11-16T20:29:23+00:00",
+   "last_seen": "2026-11-17T03:53:06+00:00",
    "title": "FP&A Manager | Tech & Product | Remote in Spain or Poland",
    "org": "Docplanner",
    "location": "Poland, Spain"
   },
   "site reliability engineer (remote)(located in the united kingdom)|knowbe4, inc.|uk": {
    "first_seen": "2026-11-16T20:29:23+00:00",
-   "last_seen": "2026-11-16T20:29:23+00:00",
+   "last_seen": "2026-11-17T03:53:06+00:00",
    "title": "Site Reliability Engineer (Remote)(Located in the United Kingdom)",
    "org": "KnowBe4, Inc.",
    "location": "UK"
   },
   "business development representative, financial services - uki|gitlab|ireland, uk": {
    "first_seen": "2026-11-16T20:29:23+00:00",
-   "last_seen": "2026-11-16T20:29:23+00:00",
+   "last_seen": "2026-11-17T03:53:06+00:00",
    "title": "Business Development Representative, Financial Services - UKI",
    "org": "GitLab",
    "location": "Ireland, UK"
   },
   "account manager - poland|elevenlabs|poland": {
    "first_seen": "2026-11-16T20:29:23+00:00",
-   "last_seen": "2026-11-16T20:29:23+00:00",
+   "last_seen": "2026-11-17T03:53:06+00:00",
    "title": "Account Manager - Poland",
    "org": "Elevenlabs",
    "location": "Poland"
   },
   "ip lawyer (trademarks and copyright)|ruby labs|europe": {
    "first_seen": "2026-11-16T20:29:23+00:00",
-   "last_seen": "2026-11-16T20:29:23+00:00",
+   "last_seen": "2026-11-17T03:53:06+00:00",
    "title": "IP Lawyer (Trademarks and Copyright)",
    "org": "Ruby Labs",
    "location": "Europe"
   },
   "director, emea sales operations|temporal technologies|uk": {
    "first_seen": "2026-11-16T20:29:23+00:00",
-   "last_seen": "2026-11-16T20:29:23+00:00",
+   "last_seen": "2026-11-17T03:53:06+00:00",
    "title": "Director, EMEA Sales Operations",
    "org": "Temporal Technologies",
    "location": "UK"
   },
   "major account manager (uk)|datadog|uk": {
    "first_seen": "2026-11-16T20:29:23+00:00",
-   "last_seen": "2026-11-16T20:29:23+00:00",
+   "last_seen": "2026-11-17T03:53:06+00:00",
    "title": "Major Account Manager (UK)",
    "org": "Datadog",
    "location": "UK"
   },
   "account manager, uk & ireland|customer.io|ireland, uk": {
    "first_seen": "2026-11-16T20:29:23+00:00",
-   "last_seen": "2026-11-16T20:29:23+00:00",
+   "last_seen": "2026-11-17T03:53:06+00:00",
    "title": "Account Manager, UK & Ireland",
    "org": "Customer.io",
    "location": "Ireland, UK"
   },
   "senior systems administrator|consensys|emea, latam, canada, usa": {
    "first_seen": "2026-11-16T20:29:23+00:00",
-   "last_seen": "2026-11-16T20:29:23+00:00",
+   "last_seen": "2026-11-17T03:53:06+00:00",
    "title": "Senior Systems Administrator",
    "org": "Consensys",
    "location": "EMEA, LATAM, Canada, USA"
   },
   "product engineer (ai driven)|ae studio|brazil": {
    "first_seen": "2026-11-16T20:29:23+00:00",
-   "last_seen": "2026-11-16T20:29:23+00:00",
+   "last_seen": "2026-11-17T03:53:06+00:00",
    "title": "Product Engineer (AI Driven)",
    "org": "AE Studio",
    "location": "Brazil"
   },
   "senior lifecycle marketing manager|consensys|latam, usa": {
    "first_seen": "2026-11-16T20:29:23+00:00",
-   "last_seen": "2026-11-16T20:29:23+00:00",
+   "last_seen": "2026-11-17T03:53:06+00:00",
    "title": "Senior Lifecycle Marketing Manager",
    "org": "Consensys",
    "location": "LATAM, USA"
   },
   "application security engineer|dropbox|mexico": {
    "first_seen": "2026-11-16T20:29:23+00:00",
-   "last_seen": "2026-11-16T20:29:23+00:00",
+   "last_seen": "2026-11-17T03:53:06+00:00",
    "title": "Application Security Engineer",
    "org": "Dropbox",
    "location": "Mexico"
   },
   "applied ai data scientist (brazil)|ae studio|brazil": {
    "first_seen": "2026-11-16T20:29:23+00:00",
-   "last_seen": "2026-11-16T20:29:23+00:00",
+   "last_seen": "2026-11-17T03:53:06+00:00",
    "title": "Applied AI Data Scientist (Brazil)",
    "org": "AE Studio",
    "location": "Brazil"
   },
   "workforce management - real time analyst|clipboard|latam": {
    "first_seen": "2026-11-16T20:29:23+00:00",
-   "last_seen": "2026-11-16T20:29:23+00:00",
+   "last_seen": "2026-11-17T03:53:06+00:00",
    "title": "Workforce Management - Real Time Analyst",
    "org": "Clipboard",
    "location": "LATAM"
   },
   "senior sales development representative|upcodes|latam, canada, usa": {
    "first_seen": "2026-11-16T20:29:23+00:00",
-   "last_seen": "2026-11-16T20:29:23+00:00",
+   "last_seen": "2026-11-17T03:53:06+00:00",
    "title": "Senior Sales Development Representative",
    "org": "UpCodes",
    "location": "LATAM, Canada, USA"
   },
   "risk & controls manager|consensys|emea, latam, usa": {
    "first_seen": "2026-11-16T20:29:23+00:00",
-   "last_seen": "2026-11-16T20:29:23+00:00",
+   "last_seen": "2026-11-17T03:53:06+00:00",
    "title": "Risk & Controls Manager",
    "org": "Consensys",
    "location": "EMEA, LATAM, USA"
   },
   "operations specialist - remote (mx, br or ar)|appen|argentina, brazil, mexico": {
    "first_seen": "2026-11-16T20:29:23+00:00",
-   "last_seen": "2026-11-16T20:29:23+00:00",
+   "last_seen": "2026-11-17T03:53:06+00:00",
    "title": "Operations Specialist - Remote (MX, BR or AR)",
    "org": "Appen",
    "location": "Argentina, Brazil, Mexico"
   },
   "support engineer|kinsta|mexico": {
    "first_seen": "2026-11-16T20:29:23+00:00",
-   "last_seen": "2026-11-16T20:29:23+00:00",
+   "last_seen": "2026-11-17T03:53:06+00:00",
    "title": "Support Engineer",
    "org": "Kinsta",
    "location": "Mexico"
   },
   "product owner, revenue management & fp&a|amplify|usa": {
    "first_seen": "2026-11-16T20:29:23+00:00",
-   "last_seen": "2026-11-16T20:29:23+00:00",
+   "last_seen": "2026-11-17T03:53:06+00:00",
    "title": "Product Owner, Revenue Management & FP&A",
    "org": "Amplify",
    "location": "USA"
   },
   "territory manager (west virginia)|halter|usa": {
    "first_seen": "2026-11-16T20:29:23+00:00",
-   "last_seen": "2026-11-16T20:29:23+00:00",
+   "last_seen": "2026-11-17T03:53:06+00:00",
    "title": "Territory Manager (West Virginia)",
    "org": "Halter",
    "location": "USA"
   },
   "senior product manager (credit cards) - canada|nerdwallet|canada": {
    "first_seen": "2026-11-16T20:29:23+00:00",
-   "last_seen": "2026-11-16T20:29:23+00:00",
+   "last_seen": "2026-11-17T03:53:06+00:00",
    "title": "Senior Product Manager (Credit Cards) - Canada",
    "org": "NerdWallet",
    "location": "Canada"
   },
   "principal product marketing manager - identity|huntress|usa": {
    "first_seen": "2026-11-16T20:29:23+00:00",
-   "last_seen": "2026-11-16T20:29:23+00:00",
+   "last_seen": "2026-11-17T03:53:06+00:00",
    "title": "Principal Product Marketing Manager - Identity",
    "org": "Huntress",
    "location": "USA"
   },
   "revenue systems analyst|amplify|usa": {
    "first_seen": "2026-11-16T20:29:23+00:00",
-   "last_seen": "2026-11-16T20:29:23+00:00",
+   "last_seen": "2026-11-17T03:53:06+00:00",
    "title": "Revenue Systems Analyst",
    "org": "Amplify",
    "location": "USA"
   },
   "territory manager (virginia)|halter|usa": {
    "first_seen": "2026-11-16T20:29:23+00:00",
-   "last_seen": "2026-11-16T20:29:23+00:00",
+   "last_seen": "2026-11-17T03:53:06+00:00",
    "title": "Territory Manager (Virginia)",
    "org": "Halter",
    "location": "USA"
   },
   "senior product manager (credit cards)|nerdwallet|usa": {
    "first_seen": "2026-11-16T20:29:23+00:00",
-   "last_seen": "2026-11-16T20:29:23+00:00",
+   "last_seen": "2026-11-17T03:53:06+00:00",
    "title": "Senior Product Manager (Credit Cards)",
    "org": "NerdWallet",
    "location": "USA"
   },
   "manager, technical account management|huntress|usa": {
    "first_seen": "2026-11-16T20:29:23+00:00",
-   "last_seen": "2026-11-16T20:29:23+00:00",
+   "last_seen": "2026-11-17T03:53:06+00:00",
    "title": "Manager, Technical Account Management",
    "org": "Huntress",
    "location": "USA"
   },
   "senior coordinator, contract support|amplify|usa": {
    "first_seen": "2026-11-16T20:29:23+00:00",
-   "last_seen": "2026-11-16T20:29:23+00:00",
+   "last_seen": "2026-11-17T03:53:06+00:00",
    "title": "Senior Coordinator, Contract Support",
    "org": "Amplify",
    "location": "USA"
   },
   "manager, sales|cision|usa": {
    "first_seen": "2026-11-16T20:29:23+00:00",
-   "last_seen": "2026-11-16T20:29:23+00:00",
+   "last_seen": "2026-11-17T03:53:06+00:00",
    "title": "Manager, Sales",
    "org": "Cision",
    "location": "USA"
