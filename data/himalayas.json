@@ -3,104 +3,104 @@
  "name": "Himalayas \u2014 remote jobs",
  "category": "jobs",
  "source": "https://himalayas.app/jobs/api",
- "collected_at": "2026-11-18T13:57:48+00:00",
+ "collected_at": "2026-11-18T21:56:23+00:00",
  "jobs_on_board": 20,
  "new_this_run": 20,
- "total_tracked": 259,
+ "total_tracked": 279,
  "jobs": [
   {
-   "title": "Client Manager, Retail Collaboration",
-   "org": "NielsenIQ",
-   "location": "United States",
-   "detail": "$83,700\u2013$95,000/a",
+   "title": "Senior Backend Engineer (Cybersecurity)",
+   "org": "CommIT",
+   "location": "Poland",
+   "detail": "Full Time",
    "url": null,
    "new_this_run": true
   },
   {
-   "title": "Senior Hyperion Developer",
-   "org": "ManTech",
+   "title": "Implementation Senior Associate",
+   "org": "Kodiak Solutions",
    "location": "United States",
-   "detail": "$117,000\u2013$195,100/a",
+   "detail": "Full Time",
    "url": null,
    "new_this_run": true
   },
   {
-   "title": "Senior Manager, Fulfillment",
-   "org": "Chomps",
-   "location": "United States",
-   "detail": "$130,000\u2013$140,000/a",
+   "title": "Technical Success Manager",
+   "org": "Darktrace",
+   "location": "Indonesia",
+   "detail": "Full Time",
    "url": null,
    "new_this_run": true
   },
   {
-   "title": "AI Safety Specialist - Fully Remote | Upto $35/hr",
+   "title": "Seasonal Tax Preparer",
+   "org": "Mercer Advisors",
+   "location": "United States",
+   "detail": "$25\u2013$25/h",
+   "url": null,
+   "new_this_run": true
+  },
+  {
+   "title": "Consultor Experto en Integraci\u00f3n S/4HANA y EDI Biling\u00fce",
+   "org": "NetPartners International",
+   "location": "Colombia",
+   "detail": "Full Time",
+   "url": null,
+   "new_this_run": true
+  },
+  {
+   "title": "\u30b9\u30b1\u30b8\u30e5\u30fc\u30eb\u30b3\u30fc\u30c7\u30a3\u30cd\u30fc\u30bf",
+   "org": "Agilent Technologies",
+   "location": "Japan",
+   "detail": "Full Time",
+   "url": null,
+   "new_this_run": true
+  },
+  {
+   "title": "Network Security Integration Engineer",
+   "org": "Leidos",
+   "location": "United States",
+   "detail": "$69,550\u2013$125,725/a",
+   "url": null,
+   "new_this_run": true
+  },
+  {
+   "title": "Application Security Expert - Fully Remote | Up to $400/task",
    "org": "mercor",
-   "location": "United Kingdom",
-   "detail": "$24\u2013$35/h",
+   "location": "United States",
+   "detail": "Contractor",
    "url": null,
    "new_this_run": true
   },
   {
-   "title": "Pre-Sales Engineer",
-   "org": "TechBiz Global",
-   "location": "United Arab Emirates",
+   "title": "Analista Desenvolvedor(a) Calypso | Back Office e Contabilidade",
+   "org": "Grupo Data",
+   "location": "Brazil",
    "detail": "Full Time",
    "url": null,
    "new_this_run": true
   },
   {
-   "title": "Executive Director, Data Science & Applied AI",
-   "org": "Novartis",
+   "title": "Accounts Payable/Receivable Specialist",
+   "org": "The N2 Company",
    "location": "United States",
-   "detail": "$225,400\u2013$418,600/a",
+   "detail": "$48,000\u2013$48,000/a",
    "url": null,
    "new_this_run": true
   },
   {
-   "title": "Work from Home Travel Specialist",
-   "org": "Elite Escapes Travel Agency, LLC",
-   "location": "Cura\u00e7ao",
-   "detail": "Part Time",
-   "url": null,
-   "new_this_run": true
-  },
-  {
-   "title": "Online Swahili and French Language Teacher needed Gold Coast -ID 1141616",
-   "org": "Language Trainers",
-   "location": "Australia",
-   "detail": "$15\u2013$15/h",
-   "url": null,
-   "new_this_run": true
-  },
-  {
-   "title": "Director, Sales Operations & Enablement - Remote",
-   "org": "Thriveworks",
+   "title": "Product Marketing Lead",
+   "org": "Nagomi Security",
    "location": "United States",
    "detail": "Full Time",
    "url": null,
    "new_this_run": true
   },
   {
-   "title": "Mechanical Engineering Expert",
-   "org": "micro1",
-   "location": "remote",
-   "detail": "$60\u2013$120/h",
-   "url": null,
-   "new_this_run": true
-  },
-  {
-   "title": "Aerodynamics Expert",
-   "org": "micro1",
-   "location": "remote",
-   "detail": "$80\u2013$120/h",
-   "url": null,
-   "new_this_run": true
-  },
-  {
-   "title": "Competitive Data Scientist (Kaggle)",
-   "org": "micro1",
-   "location": "Australia, Canada, New Zealand, United Kingdom, United States",
-   "detail": "$60\u2013$120/h",
+   "title": "Opera\u00e7\u00f5es - SRE Cloud",
+   "org": "Grupo SysMap",
+   "location": "Brazil",
+   "detail": "Full Time",
    "url": null,
    "new_this_run": true
   }
@@ -178,6 +178,11 @@
   },
   {
    "at": "2026-11-18T13:57:48+00:00",
+   "jobs": 20,
+   "new": 20
+  },
+  {
+   "at": "2026-11-18T21:56:23+00:00",
    "jobs": 20,
    "new": 20
   }
@@ -1994,6 +1999,146 @@
    "last_seen": "2026-11-18T13:57:48+00:00",
    "title": "Temporary Business Analyst, NPR+",
    "org": "NPR (National Public Radio)",
+   "location": "United States"
+  },
+  "senior backend engineer (cybersecurity)|commit|poland": {
+   "first_seen": "2026-11-18T21:56:23+00:00",
+   "last_seen": "2026-11-18T21:56:23+00:00",
+   "title": "Senior Backend Engineer (Cybersecurity)",
+   "org": "CommIT",
+   "location": "Poland"
+  },
+  "implementation senior associate|kodiak solutions|united states": {
+   "first_seen": "2026-11-18T21:56:23+00:00",
+   "last_seen": "2026-11-18T21:56:23+00:00",
+   "title": "Implementation Senior Associate",
+   "org": "Kodiak Solutions",
+   "location": "United States"
+  },
+  "technical success manager|darktrace|indonesia": {
+   "first_seen": "2026-11-18T21:56:23+00:00",
+   "last_seen": "2026-11-18T21:56:23+00:00",
+   "title": "Technical Success Manager",
+   "org": "Darktrace",
+   "location": "Indonesia"
+  },
+  "seasonal tax preparer|mercer advisors|united states": {
+   "first_seen": "2026-11-18T21:56:23+00:00",
+   "last_seen": "2026-11-18T21:56:23+00:00",
+   "title": "Seasonal Tax Preparer",
+   "org": "Mercer Advisors",
+   "location": "United States"
+  },
+  "consultor experto en integraci\u00f3n s/4hana y edi biling\u00fce|netpartners international|colombia": {
+   "first_seen": "2026-11-18T21:56:23+00:00",
+   "last_seen": "2026-11-18T21:56:23+00:00",
+   "title": "Consultor Experto en Integraci\u00f3n S/4HANA y EDI Biling\u00fce",
+   "org": "NetPartners International",
+   "location": "Colombia"
+  },
+  "\u30b9\u30b1\u30b8\u30e5\u30fc\u30eb\u30b3\u30fc\u30c7\u30a3\u30cd\u30fc\u30bf|agilent technologies|japan": {
+   "first_seen": "2026-11-18T21:56:23+00:00",
+   "last_seen": "2026-11-18T21:56:23+00:00",
+   "title": "\u30b9\u30b1\u30b8\u30e5\u30fc\u30eb\u30b3\u30fc\u30c7\u30a3\u30cd\u30fc\u30bf",
+   "org": "Agilent Technologies",
+   "location": "Japan"
+  },
+  "network security integration engineer|leidos|united states": {
+   "first_seen": "2026-11-18T21:56:23+00:00",
+   "last_seen": "2026-11-18T21:56:23+00:00",
+   "title": "Network Security Integration Engineer",
+   "org": "Leidos",
+   "location": "United States"
+  },
+  "application security expert - fully remote | up to $400/task|mercor|united states": {
+   "first_seen": "2026-11-18T21:56:23+00:00",
+   "last_seen": "2026-11-18T21:56:23+00:00",
+   "title": "Application Security Expert - Fully Remote | Up to $400/task",
+   "org": "mercor",
+   "location": "United States"
+  },
+  "analista desenvolvedor(a) calypso | back office e contabilidade|grupo data|brazil": {
+   "first_seen": "2026-11-18T21:56:23+00:00",
+   "last_seen": "2026-11-18T21:56:23+00:00",
+   "title": "Analista Desenvolvedor(a) Calypso | Back Office e Contabilidade",
+   "org": "Grupo Data",
+   "location": "Brazil"
+  },
+  "accounts payable/receivable specialist|the n2 company|united states": {
+   "first_seen": "2026-11-18T21:56:23+00:00",
+   "last_seen": "2026-11-18T21:56:23+00:00",
+   "title": "Accounts Payable/Receivable Specialist",
+   "org": "The N2 Company",
+   "location": "United States"
+  },
+  "product marketing lead|nagomi security|united states": {
+   "first_seen": "2026-11-18T21:56:23+00:00",
+   "last_seen": "2026-11-18T21:56:23+00:00",
+   "title": "Product Marketing Lead",
+   "org": "Nagomi Security",
+   "location": "United States"
+  },
+  "opera\u00e7\u00f5es - sre cloud|grupo sysmap|brazil": {
+   "first_seen": "2026-11-18T21:56:23+00:00",
+   "last_seen": "2026-11-18T21:56:23+00:00",
+   "title": "Opera\u00e7\u00f5es - SRE Cloud",
+   "org": "Grupo SysMap",
+   "location": "Brazil"
+  },
+  "senior scientific software engineer (fed gov) 3850 3867|respec|united states": {
+   "first_seen": "2026-11-18T21:56:23+00:00",
+   "last_seen": "2026-11-18T21:56:23+00:00",
+   "title": "Senior Scientific Software Engineer (Fed Gov) 3850 3867",
+   "org": "RESPEC",
+   "location": "United States"
+  },
+  "payroll tax analyst|sysco|united states": {
+   "first_seen": "2026-11-18T21:56:23+00:00",
+   "last_seen": "2026-11-18T21:56:23+00:00",
+   "title": "Payroll Tax Analyst",
+   "org": "Sysco",
+   "location": "United States"
+  },
+  "cority developer|aecom|united states": {
+   "first_seen": "2026-11-18T21:56:23+00:00",
+   "last_seen": "2026-11-18T21:56:23+00:00",
+   "title": "Cority Developer",
+   "org": "AECOM",
+   "location": "United States"
+  },
+  "rust software-entwickler (m/w/d) energiewirtschaft|inexogy smart metering gmbh & co. kg|germany": {
+   "first_seen": "2026-11-18T21:56:23+00:00",
+   "last_seen": "2026-11-18T21:56:23+00:00",
+   "title": "Rust Software-Entwickler (m/w/d) Energiewirtschaft",
+   "org": "inexogy smart metering GmbH & Co. KG",
+   "location": "Germany"
+  },
+  "system engineer - (f/h)|fit1job sa|albania, andorra, austria, belarus, belgium, bosnia and herzegovina, bulgaria, croatia, cyprus, czechia, denmark, estoni": {
+   "first_seen": "2026-11-18T21:56:23+00:00",
+   "last_seen": "2026-11-18T21:56:23+00:00",
+   "title": "System engineer - (F/H)",
+   "org": "Fit1Job SA",
+   "location": "Albania, Andorra, Austria, Belarus, Belgium, Bosnia and Herzegovina, Bulgaria, Croatia, Cyprus, Czechia, Denmark, Estonia, Faroe Islands, Finland, France, Germany, Gibraltar, Greece, Guernsey, Holy See (Vatican City State), Hungary, Iceland"
+  },
+  "director, centralized experience|cardinal group companies|united states": {
+   "first_seen": "2026-11-18T21:56:23+00:00",
+   "last_seen": "2026-11-18T21:56:23+00:00",
+   "title": "Director, Centralized Experience",
+   "org": "Cardinal Group Companies",
+   "location": "United States"
+  },
+  "especialista en gobernanza de microsoft fabric y azure ai foundry|initium software|venezuela": {
+   "first_seen": "2026-11-18T21:56:23+00:00",
+   "last_seen": "2026-11-18T21:56:23+00:00",
+   "title": "Especialista en Gobernanza de Microsoft Fabric y Azure AI Foundry",
+   "org": "Initium Software",
+   "location": "Venezuela"
+  },
+  "tax client services manager|dilucci cpa|united states": {
+   "first_seen": "2026-11-18T21:56:23+00:00",
+   "last_seen": "2026-11-18T21:56:23+00:00",
+   "title": "Tax Client Services Manager",
+   "org": "DiLucci CPA",
    "location": "United States"
   }
  }

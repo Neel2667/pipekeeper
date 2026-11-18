@@ -3,26 +3,90 @@
  "name": "We Work Remotely \u2014 programming jobs",
  "category": "jobs",
  "source": "https://weworkremotely.com/categories/remote-programming-jobs.rss",
- "collected_at": "2026-11-18T13:57:47+00:00",
+ "collected_at": "2026-11-18T21:56:23+00:00",
  "jobs_on_board": 25,
- "new_this_run": 7,
- "total_tracked": 42,
+ "new_this_run": 9,
+ "total_tracked": 51,
  "jobs": [
+  {
+   "title": "Senior Shopify Developer (Remote + Flexible)",
+   "org": "Storetasker",
+   "location": null,
+   "detail": "Full-Stack Programming",
+   "url": "https://weworkremotely.com/remote-jobs/storetasker-senior-shopify-developer-remote-flexible-3",
+   "new_this_run": true
+  },
+  {
+   "title": "Backend / Platform Developer Consultant (Temporal & Kubernetes)",
+   "org": "Bitovi",
+   "location": null,
+   "detail": "Back-End Programming",
+   "url": "https://weworkremotely.com/remote-jobs/bitovi-backend-platform-developer-consultant-temporal-kubernetes",
+   "new_this_run": true
+  },
+  {
+   "title": "HR Enablement Lead",
+   "org": "Salesloft",
+   "location": null,
+   "detail": "Full-Stack Programming",
+   "url": "https://weworkremotely.com/remote-jobs/salesloft-hr-enablement-lead",
+   "new_this_run": true
+  },
+  {
+   "title": "Senior Integration Engineer",
+   "org": "Legion",
+   "location": null,
+   "detail": "Back-End Programming",
+   "url": "https://weworkremotely.com/remote-jobs/legion-senior-integration-engineer",
+   "new_this_run": true
+  },
+  {
+   "title": "Front-End Developer",
+   "org": "Cambridge Information Group Inc",
+   "location": null,
+   "detail": "Front-End Programming",
+   "url": "https://weworkremotely.com/remote-jobs/cambridge-information-group-inc-front-end-developer",
+   "new_this_run": true
+  },
+  {
+   "title": "Web Developer: WordPress & HubSpot (U.S. Based, Remote Contractor)",
+   "org": "SimpleTiger",
+   "location": null,
+   "detail": "Front-End Programming",
+   "url": "https://weworkremotely.com/remote-jobs/simpletiger-web-developer-wordpress-hubspot-u-s-based-remote-contractor",
+   "new_this_run": true
+  },
+  {
+   "title": "Director, Category Growth (General Manager)",
+   "org": "StockX",
+   "location": null,
+   "detail": "Full-Stack Programming",
+   "url": "https://weworkremotely.com/remote-jobs/stockx-director-category-growth-general-manager",
+   "new_this_run": true
+  },
+  {
+   "title": "Broker Dealer Operations, Associate",
+   "org": "Coinbase",
+   "location": null,
+   "detail": "Full-Stack Programming",
+   "url": "https://weworkremotely.com/remote-jobs/coinbase-broker-dealer-operations-associate",
+   "new_this_run": true
+  },
+  {
+   "title": "Associate Manager, Internal Audit",
+   "org": "Coinbase",
+   "location": null,
+   "detail": "Full-Stack Programming",
+   "url": "https://weworkremotely.com/remote-jobs/coinbase-associate-manager-internal-audit",
+   "new_this_run": true
+  },
   {
    "title": "Frontend Engineer, Ads",
    "org": "Reddit",
    "location": null,
    "detail": "Front-End Programming",
    "url": "https://weworkremotely.com/remote-jobs/reddit-frontend-engineer-ads",
-   "new_this_run": true
-  },
-  {
-   "title": "Consultant \u2013 Data analysis and Technical writing, HIV-Hepatitis-STI (HHS)",
-   "org": "PATH",
-   "location": null,
-   "detail": "Full-Stack Programming",
-   "url": "https://weworkremotely.com/remote-jobs/path-consultant-data-analysis-and-technical-writing-hiv-hepatitis-sti-hhs",
-   "new_this_run": true
+   "new_this_run": false
   },
   {
    "title": "Software Engineer - PlanetScale Postgres",
@@ -30,7 +94,7 @@
    "location": null,
    "detail": "Full-Stack Programming",
    "url": "https://weworkremotely.com/remote-jobs/planetscale-software-engineer-planetscale-postgres",
-   "new_this_run": true
+   "new_this_run": false
   },
   {
    "title": "Category Manager - Trading Cards",
@@ -38,70 +102,6 @@
    "location": null,
    "detail": "Full-Stack Programming",
    "url": "https://weworkremotely.com/remote-jobs/stockx-category-manager-trading-cards",
-   "new_this_run": true
-  },
-  {
-   "title": "Lead Product Management",
-   "org": "Carrot",
-   "location": null,
-   "detail": "Full-Stack Programming",
-   "url": "https://weworkremotely.com/remote-jobs/carrot-lead-product-management",
-   "new_this_run": true
-  },
-  {
-   "title": "Category Manager - Sneakers",
-   "org": "StockX",
-   "location": null,
-   "detail": "Full-Stack Programming",
-   "url": "https://weworkremotely.com/remote-jobs/stockx-category-manager-sneakers",
-   "new_this_run": true
-  },
-  {
-   "title": "Sr. Data Analytics Engineer (R14153)",
-   "org": "Oportun",
-   "location": null,
-   "detail": "Full-Stack Programming",
-   "url": "https://weworkremotely.com/remote-jobs/oportun-sr-data-analytics-engineer-r14153",
-   "new_this_run": true
-  },
-  {
-   "title": "Blockchain Risk Control Lead",
-   "org": "Bybit",
-   "location": null,
-   "detail": "Front-End Programming",
-   "url": "https://weworkremotely.com/remote-jobs/bybit-blockchain-risk-control-lead",
-   "new_this_run": false
-  },
-  {
-   "title": "Animator Intern",
-   "org": "Bybit",
-   "location": null,
-   "detail": "Front-End Programming",
-   "url": "https://weworkremotely.com/remote-jobs/bybit-animator-intern",
-   "new_this_run": false
-  },
-  {
-   "title": "Senior Deployment Engineer with LLM and GPU Infrastructure experience",
-   "org": "Toptal",
-   "location": null,
-   "detail": "Full-Stack Programming",
-   "url": "https://weworkremotely.com/remote-jobs/toptal-senior-deployment-engineer-with-llm-and-gpu-infrastructure-experience",
-   "new_this_run": false
-  },
-  {
-   "title": "AI Engineer - Agentic Systems",
-   "org": "Toptal",
-   "location": null,
-   "detail": "Full-Stack Programming",
-   "url": "https://weworkremotely.com/remote-jobs/toptal-ai-engineer-agentic-systems",
-   "new_this_run": false
-  },
-  {
-   "title": "Analytics Engineer II, Full Stack (Revenue Analytics)",
-   "org": "Affirm",
-   "location": null,
-   "detail": "Full-Stack Programming",
-   "url": "https://weworkremotely.com/remote-jobs/affirm-analytics-engineer-ii-full-stack-revenue-analytics",
    "new_this_run": false
   }
  ],
@@ -180,6 +180,11 @@
    "at": "2026-11-18T13:57:47+00:00",
    "jobs": 25,
    "new": 7
+  },
+  {
+   "at": "2026-11-18T21:56:23+00:00",
+   "jobs": 25,
+   "new": 9
   }
  ],
  "jobs_seen": {
@@ -192,21 +197,21 @@
   },
   "senior analytics engineer / bi lead \u2014 channel insights (ix360)|toptal|": {
    "first_seen": "2026-11-15T10:13:27+00:00",
-   "last_seen": "2026-11-18T13:57:47+00:00",
+   "last_seen": "2026-11-18T21:56:23+00:00",
    "title": "Senior Analytics Engineer / BI Lead \u2014 Channel Insights (iX360)",
    "org": "Toptal",
    "location": null
   },
   "salesforce developer for org ownership and ongoing platform development|toptal|": {
    "first_seen": "2026-11-15T10:13:27+00:00",
-   "last_seen": "2026-11-18T13:57:47+00:00",
+   "last_seen": "2026-11-18T21:56:23+00:00",
    "title": "Salesforce Developer for Org Ownership and Ongoing Platform Development",
    "org": "Toptal",
    "location": null
   },
   "distribution engineer|vertex marketing group|": {
    "first_seen": "2026-11-15T10:13:27+00:00",
-   "last_seen": "2026-11-18T13:57:47+00:00",
+   "last_seen": "2026-11-18T21:56:23+00:00",
    "title": "Distribution Engineer",
    "org": "Vertex Marketing Group",
    "location": null
@@ -227,7 +232,7 @@
   },
   "analytics engineer|reddit|": {
    "first_seen": "2026-11-15T10:13:27+00:00",
-   "last_seen": "2026-11-18T13:57:47+00:00",
+   "last_seen": "2026-11-18T21:56:23+00:00",
    "title": "Analytics Engineer",
    "org": "Reddit",
    "location": null
@@ -353,7 +358,7 @@
   },
   "senior vue developer|lemon.io|": {
    "first_seen": "2026-11-15T17:10:37+00:00",
-   "last_seen": "2026-11-18T13:57:47+00:00",
+   "last_seen": "2026-11-18T21:56:23+00:00",
    "title": "Senior Vue Developer",
    "org": "Lemon.io",
    "location": null
@@ -367,7 +372,7 @@
   },
   "software development engineer ii (remote @ colombia)|offerup|": {
    "first_seen": "2026-11-16T09:42:19+00:00",
-   "last_seen": "2026-11-18T13:57:47+00:00",
+   "last_seen": "2026-11-18T21:56:23+00:00",
    "title": "Software Development Engineer II (Remote @ Colombia)",
    "org": "OfferUp",
    "location": null
@@ -381,7 +386,7 @@
   },
   "business continuity management lead|mercury|": {
    "first_seen": "2026-11-16T20:29:23+00:00",
-   "last_seen": "2026-11-18T13:57:47+00:00",
+   "last_seen": "2026-11-18T21:56:23+00:00",
    "title": "Business Continuity Management Lead",
    "org": "Mercury",
    "location": null
@@ -395,21 +400,21 @@
   },
   "animator intern|bybit|": {
    "first_seen": "2026-11-17T13:26:08+00:00",
-   "last_seen": "2026-11-18T13:57:47+00:00",
+   "last_seen": "2026-11-18T21:56:23+00:00",
    "title": "Animator Intern",
    "org": "Bybit",
    "location": null
   },
   "senior deployment engineer with llm and gpu infrastructure experience|toptal|": {
    "first_seen": "2026-11-17T13:26:08+00:00",
-   "last_seen": "2026-11-18T13:57:47+00:00",
+   "last_seen": "2026-11-18T21:56:23+00:00",
    "title": "Senior Deployment Engineer with LLM and GPU Infrastructure experience",
    "org": "Toptal",
    "location": null
   },
   "ai engineer - agentic systems|toptal|": {
    "first_seen": "2026-11-17T13:26:08+00:00",
-   "last_seen": "2026-11-18T13:57:47+00:00",
+   "last_seen": "2026-11-18T21:56:23+00:00",
    "title": "AI Engineer - Agentic Systems",
    "org": "Toptal",
    "location": null
@@ -423,14 +428,14 @@
   },
   "senior staff data scientist|netlify|": {
    "first_seen": "2026-11-17T13:26:08+00:00",
-   "last_seen": "2026-11-18T13:57:47+00:00",
+   "last_seen": "2026-11-18T21:56:23+00:00",
    "title": "Senior Staff Data Scientist",
    "org": "Netlify",
    "location": null
   },
   "frontend engineer, ads|reddit|": {
    "first_seen": "2026-11-18T13:57:47+00:00",
-   "last_seen": "2026-11-18T13:57:47+00:00",
+   "last_seen": "2026-11-18T21:56:23+00:00",
    "title": "Frontend Engineer, Ads",
    "org": "Reddit",
    "location": null
@@ -444,14 +449,14 @@
   },
   "software engineer - planetscale postgres|planetscale|": {
    "first_seen": "2026-11-18T13:57:47+00:00",
-   "last_seen": "2026-11-18T13:57:47+00:00",
+   "last_seen": "2026-11-18T21:56:23+00:00",
    "title": "Software Engineer - PlanetScale Postgres",
    "org": "PlanetScale",
    "location": null
   },
   "category manager - trading cards|stockx|": {
    "first_seen": "2026-11-18T13:57:47+00:00",
-   "last_seen": "2026-11-18T13:57:47+00:00",
+   "last_seen": "2026-11-18T21:56:23+00:00",
    "title": "Category Manager - Trading Cards",
    "org": "StockX",
    "location": null
@@ -465,16 +470,79 @@
   },
   "category manager - sneakers|stockx|": {
    "first_seen": "2026-11-18T13:57:47+00:00",
-   "last_seen": "2026-11-18T13:57:47+00:00",
+   "last_seen": "2026-11-18T21:56:23+00:00",
    "title": "Category Manager - Sneakers",
    "org": "StockX",
    "location": null
   },
   "sr. data analytics engineer (r14153)|oportun|": {
    "first_seen": "2026-11-18T13:57:47+00:00",
-   "last_seen": "2026-11-18T13:57:47+00:00",
+   "last_seen": "2026-11-18T21:56:23+00:00",
    "title": "Sr. Data Analytics Engineer (R14153)",
    "org": "Oportun",
+   "location": null
+  },
+  "senior shopify developer (remote + flexible)|storetasker|": {
+   "first_seen": "2026-11-18T21:56:23+00:00",
+   "last_seen": "2026-11-18T21:56:23+00:00",
+   "title": "Senior Shopify Developer (Remote + Flexible)",
+   "org": "Storetasker",
+   "location": null
+  },
+  "backend / platform developer consultant (temporal & kubernetes)|bitovi|": {
+   "first_seen": "2026-11-18T21:56:23+00:00",
+   "last_seen": "2026-11-18T21:56:23+00:00",
+   "title": "Backend / Platform Developer Consultant (Temporal & Kubernetes)",
+   "org": "Bitovi",
+   "location": null
+  },
+  "hr enablement lead|salesloft|": {
+   "first_seen": "2026-11-18T21:56:23+00:00",
+   "last_seen": "2026-11-18T21:56:23+00:00",
+   "title": "HR Enablement Lead",
+   "org": "Salesloft",
+   "location": null
+  },
+  "senior integration engineer|legion|": {
+   "first_seen": "2026-11-18T21:56:23+00:00",
+   "last_seen": "2026-11-18T21:56:23+00:00",
+   "title": "Senior Integration Engineer",
+   "org": "Legion",
+   "location": null
+  },
+  "front-end developer|cambridge information group inc|": {
+   "first_seen": "2026-11-18T21:56:23+00:00",
+   "last_seen": "2026-11-18T21:56:23+00:00",
+   "title": "Front-End Developer",
+   "org": "Cambridge Information Group Inc",
+   "location": null
+  },
+  "web developer: wordpress & hubspot (u.s. based, remote contractor)|simpletiger|": {
+   "first_seen": "2026-11-18T21:56:23+00:00",
+   "last_seen": "2026-11-18T21:56:23+00:00",
+   "title": "Web Developer: WordPress & HubSpot (U.S. Based, Remote Contractor)",
+   "org": "SimpleTiger",
+   "location": null
+  },
+  "director, category growth (general manager)|stockx|": {
+   "first_seen": "2026-11-18T21:56:23+00:00",
+   "last_seen": "2026-11-18T21:56:23+00:00",
+   "title": "Director, Category Growth (General Manager)",
+   "org": "StockX",
+   "location": null
+  },
+  "broker dealer operations, associate|coinbase|": {
+   "first_seen": "2026-11-18T21:56:23+00:00",
+   "last_seen": "2026-11-18T21:56:23+00:00",
+   "title": "Broker Dealer Operations, Associate",
+   "org": "Coinbase",
+   "location": null
+  },
+  "associate manager, internal audit|coinbase|": {
+   "first_seen": "2026-11-18T21:56:23+00:00",
+   "last_seen": "2026-11-18T21:56:23+00:00",
+   "title": "Associate Manager, Internal Audit",
+   "org": "Coinbase",
    "location": null
   }
  }
