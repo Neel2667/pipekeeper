@@ -3,9 +3,9 @@
  "name": "ClinicalTrials.gov \u2014 freshly updated studies",
  "category": "government",
  "source": "https://clinicaltrials.gov",
- "collected_at": "2026-11-17T22:24:03+00:00",
+ "collected_at": "2026-11-18T04:20:23+00:00",
  "jobs_on_board": 100,
- "new_this_run": 99,
+ "new_this_run": 0,
  "total_tracked": 299,
  "jobs": [
   {
@@ -14,7 +14,7 @@
    "location": "NOT_YET_RECRUITING",
    "detail": "clinical trial \u00b7 NCT07941791",
    "url": "https://clinicaltrials.gov/study/NCT07941791",
-   "new_this_run": true
+   "new_this_run": false
   },
   {
    "title": "Comparison of Tracheal Intubation in Ramp vs Sniffing Position Using Customized vs Fixed Pillow",
@@ -22,7 +22,7 @@
    "location": "COMPLETED",
    "detail": "clinical trial \u00b7 NCT07506655",
    "url": "https://clinicaltrials.gov/study/NCT07506655",
-   "new_this_run": true
+   "new_this_run": false
   },
   {
    "title": "Effects of Root Extract Ashwagandha (KSM-66) on Perception of Recovery and Muscle Strength in Adolescents Aged 11 to 19 Engaged in Grassroots Football",
@@ -30,7 +30,7 @@
    "location": "NOT_YET_RECRUITING",
    "detail": "clinical trial \u00b7 NCT07890935",
    "url": "https://clinicaltrials.gov/study/NCT07890935",
-   "new_this_run": true
+   "new_this_run": false
   },
   {
    "title": "Plan and Protect: Safety Planning for Teens in Rural Emergency Departments",
@@ -38,7 +38,7 @@
    "location": "RECRUITING",
    "detail": "clinical trial \u00b7 NCT07325474",
    "url": "https://clinicaltrials.gov/study/NCT07325474",
-   "new_this_run": true
+   "new_this_run": false
   },
   {
    "title": "NIV-NAVA in Infants With Severe Bronchiolitis, a Pilot Multicenter Randomized Controlled Trial",
@@ -46,7 +46,7 @@
    "location": "NOT_YET_RECRUITING",
    "detail": "clinical trial \u00b7 NCT07834723",
    "url": "https://clinicaltrials.gov/study/NCT07834723",
-   "new_this_run": true
+   "new_this_run": false
   },
   {
    "title": "Fractional Flow Reserve Versus Angiography for Multivessel Evaluation (FAME) 3 Extended",
@@ -54,7 +54,7 @@
    "location": "ACTIVE_NOT_RECRUITING",
    "detail": "clinical trial \u00b7 NCT07308860",
    "url": "https://clinicaltrials.gov/study/NCT07308860",
-   "new_this_run": true
+   "new_this_run": false
   },
   {
    "title": "HALOS: A Safety, Tolerability, Pharmacokinetics and Pharmacodynamics Study of Multiple Ascending Doses of ION582 in Participants With Angelman Syndrome",
@@ -62,7 +62,7 @@
    "location": "ACTIVE_NOT_RECRUITING",
    "detail": "clinical trial \u00b7 NCT05127226",
    "url": "https://clinicaltrials.gov/study/NCT05127226",
-   "new_this_run": true
+   "new_this_run": false
   },
   {
    "title": "Delayed Application of Immune Checkpoint Inhibitors in Advanced Non-Small Cell Lung Cancer",
@@ -70,7 +70,7 @@
    "location": "NOT_YET_RECRUITING",
    "detail": "clinical trial \u00b7 NCT07943325",
    "url": "https://clinicaltrials.gov/study/NCT07943325",
-   "new_this_run": true
+   "new_this_run": false
   },
   {
    "title": "CLE-PAD : Prevalence of PAD in Patients With Surgically Lumbar Spinal Stenosis",
@@ -78,7 +78,7 @@
    "location": "RECRUITING",
    "detail": "clinical trial \u00b7 NCT07469020",
    "url": "https://clinicaltrials.gov/study/NCT07469020",
-   "new_this_run": true
+   "new_this_run": false
   },
   {
    "title": "SMART-r: Substance Monitoring and Active Relapse Tracking Repository",
@@ -86,7 +86,7 @@
    "location": "RECRUITING",
    "detail": "clinical trial \u00b7 NCT06676059",
    "url": "https://clinicaltrials.gov/study/NCT06676059",
-   "new_this_run": true
+   "new_this_run": false
   },
   {
    "title": "Lumbar Puncture in Emergency Under Nitrous OXide",
@@ -94,7 +94,7 @@
    "location": "COMPLETED",
    "detail": "clinical trial \u00b7 NCT03941990",
    "url": "https://clinicaltrials.gov/study/NCT03941990",
-   "new_this_run": true
+   "new_this_run": false
   },
   {
    "title": "Analyzing of the Reliability, Validity and Responsiveness Levels of Performance Tests",
@@ -102,7 +102,7 @@
    "location": "COMPLETED",
    "detail": "clinical trial \u00b7 NCT05703594",
    "url": "https://clinicaltrials.gov/study/NCT05703594",
-   "new_this_run": true
+   "new_this_run": false
   }
  ],
  "runs": [
@@ -170,6 +170,11 @@
    "at": "2026-11-17T22:24:03+00:00",
    "jobs": 100,
    "new": 99
+  },
+  {
+   "at": "2026-11-18T04:20:23+00:00",
+   "jobs": 100,
+   "new": 0
   }
  ],
  "jobs_seen": {
@@ -812,7 +817,7 @@
   },
   "[trial of device that is not approved or cleared by the u.s. fda]|[redacted]|withheld": {
    "first_seen": "2026-11-15T10:13:53+00:00",
-   "last_seen": "2026-11-17T22:24:03+00:00",
+   "last_seen": "2026-11-18T04:20:23+00:00",
    "title": "[Trial of device that is not approved or cleared by the U.S. FDA]",
    "org": "[Redacted]",
    "location": "WITHHELD"
@@ -1575,693 +1580,693 @@
   },
   "acute effects of table tennis, resistance band training, brisk walking, and baduanjin on working memory in older adults |shanghai university of sport|not_yet_recruiting": {
    "first_seen": "2026-11-17T22:24:03+00:00",
-   "last_seen": "2026-11-17T22:24:03+00:00",
+   "last_seen": "2026-11-18T04:20:23+00:00",
    "title": "Acute Effects of Table Tennis, Resistance Band Training, Brisk Walking, and Baduanjin on Working Memory in Older Adults With Mild Cognitive Impairment: an EEG-based Randomized Controlled Trial",
    "org": "Shanghai University of Sport",
    "location": "NOT_YET_RECRUITING"
   },
   "comparison of tracheal intubation in ramp vs sniffing position using customized vs fixed pillow|shaheed mohtarma benazir bhutto institue of trauma|completed": {
    "first_seen": "2026-11-17T22:24:03+00:00",
-   "last_seen": "2026-11-17T22:24:03+00:00",
+   "last_seen": "2026-11-18T04:20:23+00:00",
    "title": "Comparison of Tracheal Intubation in Ramp vs Sniffing Position Using Customized vs Fixed Pillow",
    "org": "Shaheed Mohtarma Benazir Bhutto Institue of Trauma",
    "location": "COMPLETED"
   },
   "effects of root extract ashwagandha (ksm-66) on perception of recovery and muscle strength in adolescents aged 11 to 19 |sports performance and applied research in trials and analysis|not_yet_recruiting": {
    "first_seen": "2026-11-17T22:24:03+00:00",
-   "last_seen": "2026-11-17T22:24:03+00:00",
+   "last_seen": "2026-11-18T04:20:23+00:00",
    "title": "Effects of Root Extract Ashwagandha (KSM-66) on Perception of Recovery and Muscle Strength in Adolescents Aged 11 to 19 Engaged in Grassroots Football",
    "org": "Sports Performance and Applied Research in Trials and Analysis",
    "location": "NOT_YET_RECRUITING"
   },
   "plan and protect: safety planning for teens in rural emergency departments|dartmouth-hitchcock medical center|recruiting": {
    "first_seen": "2026-11-17T22:24:03+00:00",
-   "last_seen": "2026-11-17T22:24:03+00:00",
+   "last_seen": "2026-11-18T04:20:23+00:00",
    "title": "Plan and Protect: Safety Planning for Teens in Rural Emergency Departments",
    "org": "Dartmouth-Hitchcock Medical Center",
    "location": "RECRUITING"
   },
   "niv-nava in infants with severe bronchiolitis, a pilot multicenter randomized controlled trial|st. justine's hospital|not_yet_recruiting": {
    "first_seen": "2026-11-17T22:24:03+00:00",
-   "last_seen": "2026-11-17T22:24:03+00:00",
+   "last_seen": "2026-11-18T04:20:23+00:00",
    "title": "NIV-NAVA in Infants With Severe Bronchiolitis, a Pilot Multicenter Randomized Controlled Trial",
    "org": "St. Justine's Hospital",
    "location": "NOT_YET_RECRUITING"
   },
   "fractional flow reserve versus angiography for multivessel evaluation (fame) 3 extended|stanford university|active_not_recruiting": {
    "first_seen": "2026-11-17T22:24:03+00:00",
-   "last_seen": "2026-11-17T22:24:03+00:00",
+   "last_seen": "2026-11-18T04:20:23+00:00",
    "title": "Fractional Flow Reserve Versus Angiography for Multivessel Evaluation (FAME) 3 Extended",
    "org": "Stanford University",
    "location": "ACTIVE_NOT_RECRUITING"
   },
   "halos: a safety, tolerability, pharmacokinetics and pharmacodynamics study of multiple ascending doses of ion582 in part|ionis pharmaceuticals, inc.|active_not_recruiting": {
    "first_seen": "2026-11-17T22:24:03+00:00",
-   "last_seen": "2026-11-17T22:24:03+00:00",
+   "last_seen": "2026-11-18T04:20:23+00:00",
    "title": "HALOS: A Safety, Tolerability, Pharmacokinetics and Pharmacodynamics Study of Multiple Ascending Doses of ION582 in Participants With Angelman Syndrome",
    "org": "Ionis Pharmaceuticals, Inc.",
    "location": "ACTIVE_NOT_RECRUITING"
   },
   "delayed application of immune checkpoint inhibitors in advanced non-small cell lung cancer|goethe university|not_yet_recruiting": {
    "first_seen": "2026-11-17T22:24:03+00:00",
-   "last_seen": "2026-11-17T22:24:03+00:00",
+   "last_seen": "2026-11-18T04:20:23+00:00",
    "title": "Delayed Application of Immune Checkpoint Inhibitors in Advanced Non-Small Cell Lung Cancer",
    "org": "Goethe University",
    "location": "NOT_YET_RECRUITING"
   },
   "cle-pad : prevalence of pad in patients with surgically lumbar spinal stenosis|rennes university hospital|recruiting": {
    "first_seen": "2026-11-17T22:24:03+00:00",
-   "last_seen": "2026-11-17T22:24:03+00:00",
+   "last_seen": "2026-11-18T04:20:23+00:00",
    "title": "CLE-PAD : Prevalence of PAD in Patients With Surgically Lumbar Spinal Stenosis",
    "org": "Rennes University Hospital",
    "location": "RECRUITING"
   },
   "smart-r: substance monitoring and active relapse tracking repository|national institute on drug abuse (nida)|recruiting": {
    "first_seen": "2026-11-17T22:24:03+00:00",
-   "last_seen": "2026-11-17T22:24:03+00:00",
+   "last_seen": "2026-11-18T04:20:23+00:00",
    "title": "SMART-r: Substance Monitoring and Active Relapse Tracking Repository",
    "org": "National Institute on Drug Abuse (NIDA)",
    "location": "RECRUITING"
   },
   "lumbar puncture in emergency under nitrous oxide|university hospital, clermont-ferrand|completed": {
    "first_seen": "2026-11-17T22:24:03+00:00",
-   "last_seen": "2026-11-17T22:24:03+00:00",
+   "last_seen": "2026-11-18T04:20:23+00:00",
    "title": "Lumbar Puncture in Emergency Under Nitrous OXide",
    "org": "University Hospital, Clermont-Ferrand",
    "location": "COMPLETED"
   },
   "analyzing of the reliability, validity and responsiveness levels of performance tests|dokuz eylul university|completed": {
    "first_seen": "2026-11-17T22:24:03+00:00",
-   "last_seen": "2026-11-17T22:24:03+00:00",
+   "last_seen": "2026-11-18T04:20:23+00:00",
    "title": "Analyzing of the Reliability, Validity and Responsiveness Levels of Performance Tests",
    "org": "Dokuz Eylul University",
    "location": "COMPLETED"
   },
   "manual traction and rehabilitation after knee replacement surgery|alma mater europaea - slovenia|recruiting": {
    "first_seen": "2026-11-17T22:24:03+00:00",
-   "last_seen": "2026-11-17T22:24:03+00:00",
+   "last_seen": "2026-11-18T04:20:23+00:00",
    "title": "Manual Traction and Rehabilitation After Knee Replacement Surgery",
    "org": "Alma Mater Europaea - Slovenia",
    "location": "RECRUITING"
   },
   "effect of pressure biofeedback-assisted hamstring stretching on agility in young male football players|mudanya university|completed": {
    "first_seen": "2026-11-17T22:24:03+00:00",
-   "last_seen": "2026-11-17T22:24:03+00:00",
+   "last_seen": "2026-11-18T04:20:23+00:00",
    "title": "Effect of Pressure Biofeedback-Assisted Hamstring Stretching on Agility in Young Male Football Players",
    "org": "Mudanya University",
    "location": "COMPLETED"
   },
   "an evaluation of myopia control lenses on wearing experience in myopic children|essilor international|active_not_recruiting": {
    "first_seen": "2026-11-17T22:24:03+00:00",
-   "last_seen": "2026-11-17T22:24:03+00:00",
+   "last_seen": "2026-11-18T04:20:23+00:00",
    "title": "An Evaluation of Myopia Control Lenses on Wearing Experience in Myopic Children",
    "org": "Essilor International",
    "location": "ACTIVE_NOT_RECRUITING"
   },
   "immunogenicity and safety of a booster vaccination with a recombinant protein rbd candidate vaccine against sars-cov-2 i|hipra scientific, s.l.u|completed": {
    "first_seen": "2026-11-17T22:24:03+00:00",
-   "last_seen": "2026-11-17T22:24:03+00:00",
+   "last_seen": "2026-11-18T04:20:23+00:00",
    "title": "Immunogenicity and Safety of a Booster Vaccination With a Recombinant Protein RBD Candidate Vaccine Against SARS-CoV-2 in Healthy Adults Volunteers Fully Vaccinated Followed by an Extension Period to Study a Fourth Dose Administration.",
    "org": "Hipra Scientific, S.L.U",
    "location": "COMPLETED"
   },
   "multi-enzyme supplementation after mandibular third molar surgery|saglik bilimleri universitesi|completed": {
    "first_seen": "2026-11-17T22:24:03+00:00",
-   "last_seen": "2026-11-17T22:24:03+00:00",
+   "last_seen": "2026-11-18T04:20:23+00:00",
    "title": "Multi-Enzyme Supplementation After Mandibular Third Molar Surgery",
    "org": "Saglik Bilimleri Universitesi",
    "location": "COMPLETED"
   },
   "development of a virtual health care platform in heart failure patients transitioning from hospital to home|nucleusrx inc|enrolling_by_invitation": {
    "first_seen": "2026-11-17T22:24:03+00:00",
-   "last_seen": "2026-11-17T22:24:03+00:00",
+   "last_seen": "2026-11-18T04:20:23+00:00",
    "title": "Development of a Virtual Health Care Platform in Heart Failure Patients Transitioning From Hospital to Home",
    "org": "nucleusRx Inc",
    "location": "ENROLLING_BY_INVITATION"
   },
   "lumbar wbct vs mri|university of kansas medical center|not_yet_recruiting": {
    "first_seen": "2026-11-17T22:24:03+00:00",
-   "last_seen": "2026-11-17T22:24:03+00:00",
+   "last_seen": "2026-11-18T04:20:23+00:00",
    "title": "Lumbar WBCT vs MRI",
    "org": "University of Kansas Medical Center",
    "location": "NOT_YET_RECRUITING"
   },
   "treatment and medical care of patients with moderate-to-severe atopic dermatitis - treatswitzerland|swiss society of dermatology and venereology|recruiting": {
    "first_seen": "2026-11-17T22:24:03+00:00",
-   "last_seen": "2026-11-17T22:24:03+00:00",
+   "last_seen": "2026-11-18T04:20:23+00:00",
    "title": "Treatment and Medical Care of Patients With Moderate-to-severe Atopic Dermatitis - TREATswitzerland",
    "org": "Swiss Society of Dermatology and Venereology",
    "location": "RECRUITING"
   },
   "treatment costs of kidney injury in patients having heart surgery in the uk|the royal wolverhampton hospitals nhs trust|not_yet_recruiting": {
    "first_seen": "2026-11-17T22:24:03+00:00",
-   "last_seen": "2026-11-17T22:24:03+00:00",
+   "last_seen": "2026-11-18T04:20:23+00:00",
    "title": "Treatment Costs of Kidney Injury in Patients Having Heart Surgery in the UK",
    "org": "The Royal Wolverhampton Hospitals NHS Trust",
    "location": "NOT_YET_RECRUITING"
   },
   "bioequivalence study of two roxithromycin tablets in healthy subjects|the affiliated hospital of guizhou medical university|completed": {
    "first_seen": "2026-11-17T22:24:03+00:00",
-   "last_seen": "2026-11-17T22:24:03+00:00",
+   "last_seen": "2026-11-18T04:20:23+00:00",
    "title": "Bioequivalence Study of Two Roxithromycin Tablets in Healthy Subjects",
    "org": "The Affiliated Hospital Of Guizhou Medical University",
    "location": "COMPLETED"
   },
   "pilot trial for woundx clinical decision support tool|henry m. jackson foundation for the advancement of military medicine|recruiting": {
    "first_seen": "2026-11-17T22:24:03+00:00",
-   "last_seen": "2026-11-17T22:24:03+00:00",
+   "last_seen": "2026-11-18T04:20:23+00:00",
    "title": "Pilot Trial for WounDx Clinical Decision Support Tool",
    "org": "Henry M. Jackson Foundation for the Advancement of Military Medicine",
    "location": "RECRUITING"
   },
   "stem cell transplantation for participants with germline runx1 associated blood cancers|national cancer institute (nci)|not_yet_recruiting": {
    "first_seen": "2026-11-17T22:24:03+00:00",
-   "last_seen": "2026-11-17T22:24:03+00:00",
+   "last_seen": "2026-11-18T04:20:23+00:00",
    "title": "Stem Cell Transplantation for Participants With Germline RUNX1 Associated Blood Cancers",
    "org": "National Cancer Institute (NCI)",
    "location": "NOT_YET_RECRUITING"
   },
   "the perioperative pain self-management program trial|va office of research and development|completed": {
    "first_seen": "2026-11-17T22:24:03+00:00",
-   "last_seen": "2026-11-17T22:24:03+00:00",
+   "last_seen": "2026-11-18T04:20:23+00:00",
    "title": "The Perioperative Pain Self-Management Program Trial",
    "org": "VA Office of Research and Development",
    "location": "COMPLETED"
   },
   "crps-rise outcomes registry|ambros therapeutics, inc.|recruiting": {
    "first_seen": "2026-11-17T22:24:03+00:00",
-   "last_seen": "2026-11-17T22:24:03+00:00",
+   "last_seen": "2026-11-18T04:20:23+00:00",
    "title": "CRPS-RISE Outcomes Registry",
    "org": "Ambros Therapeutics, Inc.",
    "location": "RECRUITING"
   },
   "surgical critical care initiative (sc2i) tissue and data acquisition protocol (tdap) in burn patients improving the robu|henry m. jackson foundation for the advancement of military medicine|recruiting": {
    "first_seen": "2026-11-17T22:24:03+00:00",
-   "last_seen": "2026-11-17T22:24:03+00:00",
+   "last_seen": "2026-11-18T04:20:23+00:00",
    "title": "Surgical Critical Care Initiative (SC2i) Tissue and Data Acquisition Protocol (TDAP) in Burn Patients Improving the Robustness and Generalizability of Post-burn Sepsis Prediction With the Post-Burn Sepsis Digital Twin. Group 1",
    "org": "Henry M. Jackson Foundation for the Advancement of Military Medicine",
    "location": "RECRUITING"
   },
   "non-invasive cranial electrical stimulation for mealtime anxiety in adults with eating disorders|rogers behavioral health|terminated": {
    "first_seen": "2026-11-17T22:24:03+00:00",
-   "last_seen": "2026-11-17T22:24:03+00:00",
+   "last_seen": "2026-11-18T04:20:23+00:00",
    "title": "Non-invasive Cranial Electrical Stimulation for Mealtime Anxiety in Adults With Eating Disorders",
    "org": "Rogers Behavioral Health",
    "location": "TERMINATED"
   },
   "patient experience across dental implant drilling protocols|cardenal herrera university|not_yet_recruiting": {
    "first_seen": "2026-11-17T22:24:03+00:00",
-   "last_seen": "2026-11-17T22:24:03+00:00",
+   "last_seen": "2026-11-18T04:20:23+00:00",
    "title": "Patient Experience Across Dental Implant Drilling Protocols",
    "org": "Cardenal Herrera University",
    "location": "NOT_YET_RECRUITING"
   },
   "chemoradiotherapy with or without atezolizumab in treating patients with localized muscle invasive bladder cancer|national cancer institute (nci)|active_not_recruiting": {
    "first_seen": "2026-11-17T22:24:03+00:00",
-   "last_seen": "2026-11-17T22:24:03+00:00",
+   "last_seen": "2026-11-18T04:20:23+00:00",
    "title": "Chemoradiotherapy With or Without Atezolizumab in Treating Patients With Localized Muscle Invasive Bladder Cancer",
    "org": "National Cancer Institute (NCI)",
    "location": "ACTIVE_NOT_RECRUITING"
   },
   "pilot study of an educational tool for chronic obstructive pulmonary disease|prima vard ab|completed": {
    "first_seen": "2026-11-17T22:24:03+00:00",
-   "last_seen": "2026-11-17T22:24:03+00:00",
+   "last_seen": "2026-11-18T04:20:23+00:00",
    "title": "Pilot Study of an Educational Tool for Chronic Obstructive Pulmonary Disease",
    "org": "Prima Vard AB",
    "location": "COMPLETED"
   },
   "effects of rtms on cognitive functions and behavior in individuals with autism spectrum disorder|king saud university|recruiting": {
    "first_seen": "2026-11-17T22:24:03+00:00",
-   "last_seen": "2026-11-17T22:24:03+00:00",
+   "last_seen": "2026-11-18T04:20:23+00:00",
    "title": "Effects of rTMS on Cognitive Functions and Behavior in Individuals With Autism Spectrum Disorder",
    "org": "King Saud University",
    "location": "RECRUITING"
   },
   "understanding the effects of transcutaneous auricular neurostimulation for treatment of chronic pain|the university of texas medical branch, galveston|recruiting": {
    "first_seen": "2026-11-17T22:24:03+00:00",
-   "last_seen": "2026-11-17T22:24:03+00:00",
+   "last_seen": "2026-11-18T04:20:23+00:00",
    "title": "Understanding the Effects of Transcutaneous Auricular Neurostimulation for Treatment of Chronic Pain",
    "org": "The University of Texas Medical Branch, Galveston",
    "location": "RECRUITING"
   },
   "effect of a confidence-building and diaphragmatic breathing-assisted graded exposure on kinesiophobia and anxiety during|ghadeer fadhel abbas|not_yet_recruiting": {
    "first_seen": "2026-11-17T22:24:03+00:00",
-   "last_seen": "2026-11-17T22:24:03+00:00",
+   "last_seen": "2026-11-18T04:20:23+00:00",
    "title": "Effect of a Confidence-Building and Diaphragmatic Breathing-Assisted Graded Exposure on Kinesiophobia and Anxiety During First Mobilization Among Women After Cesarean Section",
    "org": "Ghadeer Fadhel Abbas",
    "location": "NOT_YET_RECRUITING"
   },
   "action for better health after cancer|university of liege|completed": {
    "first_seen": "2026-11-17T22:24:03+00:00",
-   "last_seen": "2026-11-17T22:24:03+00:00",
+   "last_seen": "2026-11-18T04:20:23+00:00",
    "title": "Action For Better Health After Cancer",
    "org": "University of Liege",
    "location": "COMPLETED"
   },
   "ds3201 and ipilimumab for the treatment of metastatic prostate, urothelial and renal cell cancers|m.d. anderson cancer center|active_not_recruiting": {
    "first_seen": "2026-11-17T22:24:03+00:00",
-   "last_seen": "2026-11-17T22:24:03+00:00",
+   "last_seen": "2026-11-18T04:20:23+00:00",
    "title": "DS3201 and Ipilimumab for the Treatment of Metastatic Prostate, Urothelial and Renal Cell Cancers",
    "org": "M.D. Anderson Cancer Center",
    "location": "ACTIVE_NOT_RECRUITING"
   },
   "construction of a liver metabolic atlas in biliary atresia based on raman spectroscopic imaging|nanjing children's hospital|not_yet_recruiting": {
    "first_seen": "2026-11-17T22:24:03+00:00",
-   "last_seen": "2026-11-17T22:24:03+00:00",
+   "last_seen": "2026-11-18T04:20:23+00:00",
    "title": "Construction of a Liver Metabolic Atlas in Biliary Atresia Based on Raman Spectroscopic Imaging",
    "org": "Nanjing Children's Hospital",
    "location": "NOT_YET_RECRUITING"
   },
   "study on patients' assessment of the quality of care during their treatment for cholecystectomies at limoges university |university hospital, limoges|recruiting": {
    "first_seen": "2026-11-17T22:24:03+00:00",
-   "last_seen": "2026-11-17T22:24:03+00:00",
+   "last_seen": "2026-11-18T04:20:23+00:00",
    "title": "Study on Patients' Assessment of the Quality of Care During Their Treatment for Cholecystectomies at Limoges University Hospital",
    "org": "University Hospital, Limoges",
    "location": "RECRUITING"
   },
   "a ugt1a1 genotype-directed study of belinostat pharmacokinetics and toxicity|national cancer institute (nci)|recruiting": {
    "first_seen": "2026-11-17T22:24:03+00:00",
-   "last_seen": "2026-11-17T22:24:03+00:00",
+   "last_seen": "2026-11-18T04:20:23+00:00",
    "title": "A UGT1A1 Genotype-Directed Study of Belinostat Pharmacokinetics and Toxicity",
    "org": "National Cancer Institute (NCI)",
    "location": "RECRUITING"
   },
   "phase i study of hw281171 tablets in healthy participants|hubei bio-pharmaceutical industrial technological institute inc.|not_yet_recruiting": {
    "first_seen": "2026-11-17T22:24:03+00:00",
-   "last_seen": "2026-11-17T22:24:03+00:00",
+   "last_seen": "2026-11-18T04:20:23+00:00",
    "title": "Phase I Study of HW281171 Tablets in Healthy Participants",
    "org": "Hubei Bio-Pharmaceutical Industrial Technological Institute Inc.",
    "location": "NOT_YET_RECRUITING"
   },
   "a study to evaluate the safety and efficacy of mk-1406/cd388 for prevention of influenza (mk-1406-005/cd388.sq.3.06)|cidara therapeutics inc., a subsidiary of merck & co., inc. (rahway, new jersey usa)|recruiting": {
    "first_seen": "2026-11-17T22:24:03+00:00",
-   "last_seen": "2026-11-17T22:24:03+00:00",
+   "last_seen": "2026-11-18T04:20:23+00:00",
    "title": "A Study to Evaluate the Safety and Efficacy of MK-1406/CD388 for Prevention of Influenza (MK-1406-005/CD388.SQ.3.06)",
    "org": "Cidara Therapeutics Inc., a subsidiary of Merck & Co., Inc. (Rahway, New Jersey USA)",
    "location": "RECRUITING"
   },
   "non-invasive bioelectronic analytics|northwell health|enrolling_by_invitation": {
    "first_seen": "2026-11-17T22:24:03+00:00",
-   "last_seen": "2026-11-17T22:24:03+00:00",
+   "last_seen": "2026-11-18T04:20:23+00:00",
    "title": "Non-Invasive Bioelectronic Analytics",
    "org": "Northwell Health",
    "location": "ENROLLING_BY_INVITATION"
   },
   "superior trunk block versus combined suprascapular and axillary nerve blocks|assiut university|not_yet_recruiting": {
    "first_seen": "2026-11-17T22:24:03+00:00",
-   "last_seen": "2026-11-17T22:24:03+00:00",
+   "last_seen": "2026-11-18T04:20:23+00:00",
    "title": "Superior Trunk Block Versus Combined Suprascapular and Axillary Nerve Blocks",
    "org": "Assiut University",
    "location": "NOT_YET_RECRUITING"
   },
   "evaluation of safety and efficacy of gene therapy drug in the treatment of spinal muscular atrophy (sma) type 1 patients|genecradle inc|recruiting": {
    "first_seen": "2026-11-17T22:24:03+00:00",
-   "last_seen": "2026-11-17T22:24:03+00:00",
+   "last_seen": "2026-11-18T04:20:23+00:00",
    "title": "Evaluation of Safety and Efficacy of Gene Therapy Drug in the Treatment of Spinal Muscular Atrophy (SMA) Type 1 Patients",
    "org": "GeneCradle Inc",
    "location": "RECRUITING"
   },
   "a study of gammagard liquid (immune globulin infusion, 10%) to prevent infections in adults with multiple myeloma|takeda|recruiting": {
    "first_seen": "2026-11-17T22:24:03+00:00",
-   "last_seen": "2026-11-17T22:24:03+00:00",
+   "last_seen": "2026-11-18T04:20:23+00:00",
    "title": "A Study of Gammagard Liquid (Immune Globulin Infusion, 10%) to Prevent Infections in Adults With Multiple Myeloma",
    "org": "Takeda",
    "location": "RECRUITING"
   },
   "efficacy in relapse prevention: psilocybin in alcohol use disorder with depressive symptoms|centre hospitalier universitaire de n\u012bmes|recruiting": {
    "first_seen": "2026-11-17T22:24:03+00:00",
-   "last_seen": "2026-11-17T22:24:03+00:00",
+   "last_seen": "2026-11-18T04:20:23+00:00",
    "title": "Efficacy in Relapse Prevention: Psilocybin in Alcohol Use Disorder With Depressive Symptoms",
    "org": "Centre Hospitalier Universitaire de N\u012bmes",
    "location": "RECRUITING"
   },
   "digital interventions to increase hpv vaccination intentions among nigerian caregivers|university of pennsylvania|not_yet_recruiting": {
    "first_seen": "2026-11-17T22:24:03+00:00",
-   "last_seen": "2026-11-17T22:24:03+00:00",
+   "last_seen": "2026-11-18T04:20:23+00:00",
    "title": "Digital Interventions to Increase HPV Vaccination Intentions Among Nigerian Caregivers",
    "org": "University of Pennsylvania",
    "location": "NOT_YET_RECRUITING"
   },
   "the effect of touch methods on pain and physiological parameters in preterm infants during endotracheal aspiration|acibadem university|completed": {
    "first_seen": "2026-11-17T22:24:03+00:00",
-   "last_seen": "2026-11-17T22:24:03+00:00",
+   "last_seen": "2026-11-18T04:20:23+00:00",
    "title": "The Effect of Touch Methods on Pain and Physiological Parameters in Preterm Infants During Endotracheal Aspiration",
    "org": "Acibadem University",
    "location": "COMPLETED"
   },
   "effects of ad libitum ultra-processed diet on brain dopamine in humans|national institute of diabetes and digestive and kidney diseases (niddk)|not_yet_recruiting": {
    "first_seen": "2026-11-17T22:24:03+00:00",
-   "last_seen": "2026-11-17T22:24:03+00:00",
+   "last_seen": "2026-11-18T04:20:23+00:00",
    "title": "Effects of Ad Libitum Ultra-Processed Diet on Brain Dopamine in Humans",
    "org": "National Institute of Diabetes and Digestive and Kidney Diseases (NIDDK)",
    "location": "NOT_YET_RECRUITING"
   },
   "telehealth stepped care for child and adolescent mental health|child mind institute|not_yet_recruiting": {
    "first_seen": "2026-11-17T22:24:03+00:00",
-   "last_seen": "2026-11-17T22:24:03+00:00",
+   "last_seen": "2026-11-18T04:20:23+00:00",
    "title": "Telehealth Stepped Care for Child and Adolescent Mental Health",
    "org": "Child Mind Institute",
    "location": "NOT_YET_RECRUITING"
   },
   "strategies to improve rts,s-4 uptake and integration with other child health services|kenya medical research institute|completed": {
    "first_seen": "2026-11-17T22:24:03+00:00",
-   "last_seen": "2026-11-17T22:24:03+00:00",
+   "last_seen": "2026-11-18T04:20:23+00:00",
    "title": "Strategies to Improve RTS,S-4 Uptake and Integration With Other Child Health Services",
    "org": "Kenya Medical Research Institute",
    "location": "COMPLETED"
   },
   "transversus abdominis plan block versus rectus sheath block|sisli hamidiye etfal training and research hospital|completed": {
    "first_seen": "2026-11-17T22:24:03+00:00",
-   "last_seen": "2026-11-17T22:24:03+00:00",
+   "last_seen": "2026-11-18T04:20:23+00:00",
    "title": "Transversus Abdominis Plan Block Versus Rectus Sheath Block",
    "org": "Sisli Hamidiye Etfal Training and Research Hospital",
    "location": "COMPLETED"
   },
   "non-invasive vagus nerve stimulation in patients in comatose state|sima mofakham|recruiting": {
    "first_seen": "2026-11-17T22:24:03+00:00",
-   "last_seen": "2026-11-17T22:24:03+00:00",
+   "last_seen": "2026-11-18T04:20:23+00:00",
    "title": "Non-invasive Vagus Nerve Stimulation in Patients in Comatose State",
    "org": "Sima Mofakham",
    "location": "RECRUITING"
   },
   "novel mri for an earlier diagnosis of motor neurone disease|the leeds teaching hospitals nhs trust|recruiting": {
    "first_seen": "2026-11-17T22:24:03+00:00",
-   "last_seen": "2026-11-17T22:24:03+00:00",
+   "last_seen": "2026-11-18T04:20:23+00:00",
    "title": "Novel MRI for an Earlier Diagnosis of Motor Neurone Disease",
    "org": "The Leeds Teaching Hospitals NHS Trust",
    "location": "RECRUITING"
   },
   "a study of sacituzumab tirumotecan (sac-tmt, mk-2870) as monotherapy and in combination with pembrolizumab (mk-3475) in |merck sharp & dohme llc|recruiting": {
    "first_seen": "2026-11-17T22:24:03+00:00",
-   "last_seen": "2026-11-17T22:24:03+00:00",
+   "last_seen": "2026-11-18T04:20:23+00:00",
    "title": "A Study of Sacituzumab Tirumotecan (Sac-TMT, MK-2870) as Monotherapy and in Combination With Pembrolizumab (MK-3475) in Participants With Triple-Negative Breast Cancer (MK-2870-011/TroFuse-011)",
    "org": "Merck Sharp & Dohme LLC",
    "location": "RECRUITING"
   },
   "operator radiation exposure during image-guided robotic-assisted bronchoscopy: a multicenter prospective cohort study|memorial sloan kettering cancer center|withdrawn": {
    "first_seen": "2026-11-17T22:24:03+00:00",
-   "last_seen": "2026-11-17T22:24:03+00:00",
+   "last_seen": "2026-11-18T04:20:23+00:00",
    "title": "Operator Radiation Exposure During Image-Guided Robotic-Assisted Bronchoscopy: A Multicenter Prospective Cohort Study",
    "org": "Memorial Sloan Kettering Cancer Center",
    "location": "WITHDRAWN"
   },
   "nemtabrutinib for chronic lymphocytic leukemia (cll)/small lymphocytic leukemia (sll) refractory to covalent bruton tyro|national heart, lung, and blood institute (nhlbi)|not_yet_recruiting": {
    "first_seen": "2026-11-17T22:24:03+00:00",
-   "last_seen": "2026-11-17T22:24:03+00:00",
+   "last_seen": "2026-11-18T04:20:23+00:00",
    "title": "Nemtabrutinib for Chronic Lymphocytic Leukemia (CLL)/Small Lymphocytic Leukemia (SLL) Refractory to Covalent Bruton Tyrosine Kinase Inhibitor or Pirtobrutinib and Previously Treated With a BCL2 Inhibitor",
    "org": "National Heart, Lung, and Blood Institute (NHLBI)",
    "location": "NOT_YET_RECRUITING"
   },
   "speech motor learning and retention (aim 1)|yale university|recruiting": {
    "first_seen": "2026-11-17T22:24:03+00:00",
-   "last_seen": "2026-11-17T22:24:03+00:00",
+   "last_seen": "2026-11-18T04:20:23+00:00",
    "title": "Speech Motor Learning and Retention (Aim 1)",
    "org": "Yale University",
    "location": "RECRUITING"
   },
   "clopidogrel vs. aspirin for cardiovascular risk reduction in patients with s. aureus bacteremia|todd c. lee md mph fidsa|recruiting": {
    "first_seen": "2026-11-17T22:24:03+00:00",
-   "last_seen": "2026-11-17T22:24:03+00:00",
+   "last_seen": "2026-11-18T04:20:23+00:00",
    "title": "Clopidogrel vs. Aspirin for Cardiovascular Risk Reduction in Patients With S. Aureus Bacteremia",
    "org": "Todd C. Lee MD MPH FIDSA",
    "location": "RECRUITING"
   },
   "comparison of the effects of vibration and non-vibration foam rolling on post-exercise recovery|nigde omer halisdemir university|active_not_recruiting": {
    "first_seen": "2026-11-17T22:24:03+00:00",
-   "last_seen": "2026-11-17T22:24:03+00:00",
+   "last_seen": "2026-11-18T04:20:23+00:00",
    "title": "Comparison of the Effects of Vibration and Non-Vibration Foam Rolling on Post-Exercise Recovery",
    "org": "Nigde Omer Halisdemir University",
    "location": "ACTIVE_NOT_RECRUITING"
   },
   "establishment of nafld cohort and development of fibrosis markers|seoul national university boramae hospital|recruiting": {
    "first_seen": "2026-11-17T22:24:03+00:00",
-   "last_seen": "2026-11-17T22:24:03+00:00",
+   "last_seen": "2026-11-18T04:20:23+00:00",
    "title": "Establishment of NAFLD Cohort and Development of Fibrosis Markers",
    "org": "Seoul National University Boramae Hospital",
    "location": "RECRUITING"
   },
   "effect of mizagliflozin repeat dosing on adverse events and postprandial glucose excursions|vogenx, inc.|completed": {
    "first_seen": "2026-11-17T22:24:03+00:00",
-   "last_seen": "2026-11-17T22:24:03+00:00",
+   "last_seen": "2026-11-18T04:20:23+00:00",
    "title": "Effect of Mizagliflozin Repeat Dosing on Adverse Events and Postprandial Glucose Excursions",
    "org": "Vogenx, Inc.",
    "location": "COMPLETED"
   },
   "flash radiotherapy for skin cancer|jules bordet institute|recruiting": {
    "first_seen": "2026-11-17T22:24:03+00:00",
-   "last_seen": "2026-11-17T22:24:03+00:00",
+   "last_seen": "2026-11-18T04:20:23+00:00",
    "title": "Flash Radiotherapy for Skin Cancer",
    "org": "Jules Bordet Institute",
    "location": "RECRUITING"
   },
   "stryker facial id universal plate configurator: a retrospective post market follow up|stryker craniomaxillofacial|active_not_recruiting": {
    "first_seen": "2026-11-17T22:24:03+00:00",
-   "last_seen": "2026-11-17T22:24:03+00:00",
+   "last_seen": "2026-11-18T04:20:23+00:00",
    "title": "Stryker Facial iD Universal Plate Configurator: A Retrospective Post Market Follow Up",
    "org": "Stryker Craniomaxillofacial",
    "location": "ACTIVE_NOT_RECRUITING"
   },
   "an open-label phase ii study of nivolumab or nivolumab/ipilimumab in adult participants with progessive/ recurrent menin|dana-farber cancer institute|active_not_recruiting": {
    "first_seen": "2026-11-17T22:24:03+00:00",
-   "last_seen": "2026-11-17T22:24:03+00:00",
+   "last_seen": "2026-11-18T04:20:23+00:00",
    "title": "An Open-Label Phase II Study of Nivolumab or Nivolumab/Ipilimumab in Adult Participants With Progessive/ Recurrent Meningioma",
    "org": "Dana-Farber Cancer Institute",
    "location": "ACTIVE_NOT_RECRUITING"
   },
   "clindamycin as an alternative to vancomycin in patients undergoing aortic cardiac surgery with extracorporeal circulatio|nantes university hospital|recruiting": {
    "first_seen": "2026-11-17T22:24:03+00:00",
-   "last_seen": "2026-11-17T22:24:03+00:00",
+   "last_seen": "2026-11-18T04:20:23+00:00",
    "title": "Clindamycin as an Alternative to Vancomycin in Patients Undergoing Aortic Cardiac Surgery With Extracorporeal Circulation (ECC)",
    "org": "Nantes University Hospital",
    "location": "RECRUITING"
   },
   "a study of jnj-99220732 in participants with advanced or metastatic solid tumors|janssen research & development, llc|not_yet_recruiting": {
    "first_seen": "2026-11-17T22:24:03+00:00",
-   "last_seen": "2026-11-17T22:24:03+00:00",
+   "last_seen": "2026-11-18T04:20:23+00:00",
    "title": "A Study of JNJ-99220732 in Participants With Advanced or Metastatic Solid Tumors",
    "org": "Janssen Research & Development, LLC",
    "location": "NOT_YET_RECRUITING"
   },
   "evaluation of the long-term safety and effectiveness of suzetrigine (suz) in participants with painful diabetic peripher|vertex pharmaceuticals incorporated|active_not_recruiting": {
    "first_seen": "2026-11-17T22:24:03+00:00",
-   "last_seen": "2026-11-17T22:24:03+00:00",
+   "last_seen": "2026-11-18T04:20:23+00:00",
    "title": "Evaluation of the Long-term Safety and Effectiveness of Suzetrigine (SUZ) in Participants With Painful Diabetic Peripheral Neuropathy (DPN)",
    "org": "Vertex Pharmaceuticals Incorporated",
    "location": "ACTIVE_NOT_RECRUITING"
   },
   "pet-ct imaging with pcd-ct|medical university of south carolina|recruiting": {
    "first_seen": "2026-11-17T22:24:03+00:00",
-   "last_seen": "2026-11-17T22:24:03+00:00",
+   "last_seen": "2026-11-18T04:20:23+00:00",
    "title": "PET-CT Imaging With PCD-CT",
    "org": "Medical University of South Carolina",
    "location": "RECRUITING"
   },
   "a randomized controlled trial to evaluate the effect of white noises and parental voices as protectors against noise dam|istituto giannina gaslini|terminated": {
    "first_seen": "2026-11-17T22:24:03+00:00",
-   "last_seen": "2026-11-17T22:24:03+00:00",
+   "last_seen": "2026-11-18T04:20:23+00:00",
    "title": "A Randomized Controlled Trial to Evaluate the Effect of White Noises and Parental Voices as Protectors Against Noise Damage in a Neonatal Intensive Care Unit",
    "org": "Istituto Giannina Gaslini",
    "location": "TERMINATED"
   },
   "international multicentric observational study to characterize subpopulations of patients with autism spectrum disorder|stalicla sa|recruiting": {
    "first_seen": "2026-11-17T22:24:03+00:00",
-   "last_seen": "2026-11-17T22:24:03+00:00",
+   "last_seen": "2026-11-18T04:20:23+00:00",
    "title": "International Multicentric Observational Study to Characterize Subpopulations of Patients With Autism Spectrum Disorder",
    "org": "Stalicla SA",
    "location": "RECRUITING"
   },
   "regn7257 in adult patients with severe aplastic anemia that is refractory to or relapsed on immunosuppressive therapy|regeneron pharmaceuticals|terminated": {
    "first_seen": "2026-11-17T22:24:03+00:00",
-   "last_seen": "2026-11-17T22:24:03+00:00",
+   "last_seen": "2026-11-18T04:20:23+00:00",
    "title": "REGN7257 in Adult Patients With Severe Aplastic Anemia That Is Refractory to or Relapsed on Immunosuppressive Therapy",
    "org": "Regeneron Pharmaceuticals",
    "location": "TERMINATED"
   },
   "using narrative exposure therapy to treat violent offenders with post traumatic stress and emotion dysregulation.|university of lincoln|recruiting": {
    "first_seen": "2026-11-17T22:24:03+00:00",
-   "last_seen": "2026-11-17T22:24:03+00:00",
+   "last_seen": "2026-11-18T04:20:23+00:00",
    "title": "Using Narrative Exposure Therapy to Treat Violent Offenders With Post Traumatic Stress and Emotion Dysregulation.",
    "org": "University of Lincoln",
    "location": "RECRUITING"
   },
   "the effect of the jigsaw cooperative learning method on midwifery students' childbirth skills self-efficacy and anxiety|k\u0131rklareli university|not_yet_recruiting": {
    "first_seen": "2026-11-17T22:24:03+00:00",
-   "last_seen": "2026-11-17T22:24:03+00:00",
+   "last_seen": "2026-11-18T04:20:23+00:00",
    "title": "The Effect of the Jigsaw Cooperative Learning Method on Midwifery Students' Childbirth Skills Self-Efficacy and Anxiety",
    "org": "K\u0131rklareli University",
    "location": "NOT_YET_RECRUITING"
   },
   "faricimab + prp vs. vitrectomy + endolaser for treatment of pdr|jaeb center for health research|recruiting": {
    "first_seen": "2026-11-17T22:24:03+00:00",
-   "last_seen": "2026-11-17T22:24:03+00:00",
+   "last_seen": "2026-11-18T04:20:23+00:00",
    "title": "Faricimab + PRP vs. Vitrectomy + Endolaser for Treatment of PDR",
    "org": "Jaeb Center for Health Research",
    "location": "RECRUITING"
   },
   "the reducing adverse outcomes in dialysis by adjusting the prescription for dialysate potassium trial|nyu langone health|not_yet_recruiting": {
    "first_seen": "2026-11-17T22:24:03+00:00",
-   "last_seen": "2026-11-17T22:24:03+00:00",
+   "last_seen": "2026-11-18T04:20:23+00:00",
    "title": "The Reducing Adverse Outcomes in Dialysis by Adjusting the pRescription for Dialysate Potassium Trial",
    "org": "NYU Langone Health",
    "location": "NOT_YET_RECRUITING"
   },
   "corneal endothelium in active thyroid eye disease treated with local steroid injection|assiut university|enrolling_by_invitation": {
    "first_seen": "2026-11-17T22:24:03+00:00",
-   "last_seen": "2026-11-17T22:24:03+00:00",
+   "last_seen": "2026-11-18T04:20:23+00:00",
    "title": "Corneal Endothelium in Active Thyroid Eye Disease Treated With Local Steroid Injection",
    "org": "Assiut University",
    "location": "ENROLLING_BY_INVITATION"
   },
   "comparison of the use of energy substrates and hormonal regulation of blood sugar during exercise of increasing intensit|university hospital, clermont-ferrand|completed": {
    "first_seen": "2026-11-17T22:24:03+00:00",
-   "last_seen": "2026-11-17T22:24:03+00:00",
+   "last_seen": "2026-11-18T04:20:23+00:00",
    "title": "Comparison of the Use of Energy Substrates and Hormonal Regulation of Blood Sugar During Exercise of Increasing Intensity Between Children With Type 1 Diabetes and Non-diabetic Control Children.",
    "org": "University Hospital, Clermont-Ferrand",
    "location": "COMPLETED"
   },
   "a research study looking at the safety of multiple doses of zp8396 and how it works in the body of healthy participants|zealand pharma|completed": {
    "first_seen": "2026-11-17T22:24:03+00:00",
-   "last_seen": "2026-11-17T22:24:03+00:00",
+   "last_seen": "2026-11-18T04:20:23+00:00",
    "title": "A Research Study Looking at the Safety of Multiple Doses of ZP8396 and How it Works in the Body of Healthy Participants",
    "org": "Zealand Pharma",
    "location": "COMPLETED"
   },
   "renal cancer monitoring based on ctdna methylomics: a prospective cohort study (memory study)|jinling hospital, china|recruiting": {
    "first_seen": "2026-11-17T22:24:03+00:00",
-   "last_seen": "2026-11-17T22:24:03+00:00",
+   "last_seen": "2026-11-18T04:20:23+00:00",
    "title": "Renal Cancer Monitoring Based on ctDNA Methylomics: A Prospective Cohort Study (MEMORY Study)",
    "org": "Jinling Hospital, China",
    "location": "RECRUITING"
   },
   "effects of beetroot extract on blood pressure and exercise in hypertensive older women|s\u00e3o paulo state university|completed": {
    "first_seen": "2026-11-17T22:24:03+00:00",
-   "last_seen": "2026-11-17T22:24:03+00:00",
+   "last_seen": "2026-11-18T04:20:23+00:00",
    "title": "Effects of Beetroot Extract on Blood Pressure and Exercise in Hypertensive Older Women",
    "org": "S\u00e3o Paulo State University",
    "location": "COMPLETED"
   },
   "coping together: couple-based interventions for cancer|duke university|completed": {
    "first_seen": "2026-11-17T22:24:03+00:00",
-   "last_seen": "2026-11-17T22:24:03+00:00",
+   "last_seen": "2026-11-18T04:20:23+00:00",
    "title": "Coping Together: Couple-based Interventions for Cancer",
    "org": "Duke University",
    "location": "COMPLETED"
   },
   "relationship between biomarkers and biomechanical in nonspecific low back pain|istinye university|completed": {
    "first_seen": "2026-11-17T22:24:03+00:00",
-   "last_seen": "2026-11-17T22:24:03+00:00",
+   "last_seen": "2026-11-18T04:20:23+00:00",
    "title": "Relationship Between Biomarkers and Biomechanical in Nonspecific Low Back Pain",
    "org": "Istinye University",
    "location": "COMPLETED"
   },
   "analgesic effectiveness of spsipb versus thoracic epidural and systemic opioid analgesia after vats (spsipb-vats)|karadeniz technical university|completed": {
    "first_seen": "2026-11-17T22:24:03+00:00",
-   "last_seen": "2026-11-17T22:24:03+00:00",
+   "last_seen": "2026-11-18T04:20:23+00:00",
    "title": "Analgesic Effectiveness of SPSIPB Versus Thoracic Epidural and Systemic Opioid Analgesia After VATS (SPSIPB-VATS)",
    "org": "Karadeniz Technical University",
    "location": "COMPLETED"
   },
   "observational study of cardiac arrhythmias during treatment with btk inhibitors or venetoclax|national heart, lung, and blood institute (nhlbi)|active_not_recruiting": {
    "first_seen": "2026-11-17T22:24:03+00:00",
-   "last_seen": "2026-11-17T22:24:03+00:00",
+   "last_seen": "2026-11-18T04:20:23+00:00",
    "title": "Observational Study of Cardiac Arrhythmias During Treatment With BTK Inhibitors or Venetoclax",
    "org": "National Heart, Lung, and Blood Institute (NHLBI)",
    "location": "ACTIVE_NOT_RECRUITING"
   },
   "pliafx flo subtalar fusion study|st. paul's hospital, canada|not_yet_recruiting": {
    "first_seen": "2026-11-17T22:24:03+00:00",
-   "last_seen": "2026-11-17T22:24:03+00:00",
+   "last_seen": "2026-11-18T04:20:23+00:00",
    "title": "PliaFX Flo Subtalar Fusion Study",
    "org": "St. Paul's Hospital, Canada",
    "location": "NOT_YET_RECRUITING"
   },
   "development of an interview-informed timeline follow-back (tlfb) for opioid use in the era of fentanyl|national institute on drug abuse (nida)|enrolling_by_invitation": {
    "first_seen": "2026-11-17T22:24:03+00:00",
-   "last_seen": "2026-11-17T22:24:03+00:00",
+   "last_seen": "2026-11-18T04:20:23+00:00",
    "title": "Development of an Interview-Informed Timeline Follow-Back (TLFB) for Opioid Use in the Era of Fentanyl",
    "org": "National Institute on Drug Abuse (NIDA)",
    "location": "ENROLLING_BY_INVITATION"
   },
   "rct study on the effect of etn on live birth rate in dor patients undergoing ivf-et|huazhong university of science and technology|not_yet_recruiting": {
    "first_seen": "2026-11-17T22:24:03+00:00",
-   "last_seen": "2026-11-17T22:24:03+00:00",
+   "last_seen": "2026-11-18T04:20:23+00:00",
    "title": "RCT Study on the Effect of ETN on Live Birth Rate in DOR Patients Undergoing IVF-ET",
    "org": "Huazhong University of Science and Technology",
    "location": "NOT_YET_RECRUITING"
   },
   "pocus assessment of ivc dynamics in septic shock: prognostic value and association with fluid balance and clinical outco|assiut university|active_not_recruiting": {
    "first_seen": "2026-11-17T22:24:03+00:00",
-   "last_seen": "2026-11-17T22:24:03+00:00",
+   "last_seen": "2026-11-18T04:20:23+00:00",
    "title": "POCUS Assessment of IVC Dynamics in Septic Shock: Prognostic Value and Association With Fluid Balance and Clinical Outcomes,To Determine the Prognostic Value of IVC Diameter and Respiratory Variation Measured by POCUS During the First 72 Ho",
    "org": "Assiut University",
    "location": "ACTIVE_NOT_RECRUITING"
   },
   "finding sentinel lymph nodes during mastectomy using indocyanine green (inigma study)|isabelle henskens|completed": {
    "first_seen": "2026-11-17T22:24:03+00:00",
-   "last_seen": "2026-11-17T22:24:03+00:00",
+   "last_seen": "2026-11-18T04:20:23+00:00",
    "title": "Finding Sentinel Lymph Nodes During Mastectomy Using Indocyanine Green (INIGMA Study)",
    "org": "Isabelle Henskens",
    "location": "COMPLETED"
   },
   "harnessing artificial intelligence for diagnosing androgenetic alopecia: a training and validation study|cairo university|recruiting": {
    "first_seen": "2026-11-17T22:24:03+00:00",
-   "last_seen": "2026-11-17T22:24:03+00:00",
+   "last_seen": "2026-11-18T04:20:23+00:00",
    "title": "Harnessing Artificial Intelligence for Diagnosing Androgenetic Alopecia: A Training and Validation Study",
    "org": "Cairo University",
    "location": "RECRUITING"
   },
   "advantages of early intrauterine transfer of \"blank\" culture medium prior to 1st or 2nd transfer of thawed embryo(s).|centre hospitalier universitaire de n\u012bmes|active_not_recruiting": {
    "first_seen": "2026-11-17T22:24:03+00:00",
-   "last_seen": "2026-11-17T22:24:03+00:00",
+   "last_seen": "2026-11-18T04:20:23+00:00",
    "title": "Advantages of Early Intrauterine Transfer of \"Blank\" Culture Medium Prior to 1st or 2nd Transfer of Thawed Embryo(s).",
    "org": "Centre Hospitalier Universitaire de N\u012bmes",
    "location": "ACTIVE_NOT_RECRUITING"
   },
   "influence of platelet-rich fibrin with xenograft on buccal bone and peri-implant soft tissue after immediate implant|delta university for science and technology|completed": {
    "first_seen": "2026-11-17T22:24:03+00:00",
-   "last_seen": "2026-11-17T22:24:03+00:00",
+   "last_seen": "2026-11-18T04:20:23+00:00",
    "title": "Influence of Platelet-Rich Fibrin With Xenograft on Buccal Bone and Peri-Implant Soft Tissue After Immediate Implant",
    "org": "Delta University for Science and Technology",
    "location": "COMPLETED"
   },
   "umbrealung - a retrospective and prospective, observational, real world multi-cohort study of patients with non-small ce|astrazeneca|recruiting": {
    "first_seen": "2026-11-17T22:24:03+00:00",
-   "last_seen": "2026-11-17T22:24:03+00:00",
+   "last_seen": "2026-11-18T04:20:23+00:00",
    "title": "UmbREALung - A Retrospective and Prospective, Observational, Real World Multi-cohort Study of Patients With Non-small Cell Lung Cancer (NSCLC) Initiating Approved Drugs Developed by AZ or as Part of an AZ Alliance",
    "org": "AstraZeneca",
    "location": "RECRUITING"
   },
   "18f-mfbg cardiac uptake with lewy body dementia|innervate radiopharmaceuticals llc (formerly: illumina radiopharmaceuticals llc)|recruiting": {
    "first_seen": "2026-11-17T22:24:03+00:00",
-   "last_seen": "2026-11-17T22:24:03+00:00",
+   "last_seen": "2026-11-18T04:20:23+00:00",
    "title": "18F-mFBG Cardiac Uptake With Lewy Body Dementia",
    "org": "Innervate Radiopharmaceuticals LLC (Formerly: Illumina Radiopharmaceuticals LLC)",
    "location": "RECRUITING"
   },
   "wear, clinical performance and computerized occlusal evaluation of hybrid versus lithium disilicates ceramic cad/cam ove|cairo university|not_yet_recruiting": {
    "first_seen": "2026-11-17T22:24:03+00:00",
-   "last_seen": "2026-11-17T22:24:03+00:00",
+   "last_seen": "2026-11-18T04:20:23+00:00",
    "title": "Wear, Clinical Performance and Computerized Occlusal Evaluation of Hybrid Versus Lithium Disilicates Ceramic CAD/CAM Overlays in Endodontically Treated Molars: A 24-Month Comparative Randomized Clinical Trial",
    "org": "Cairo University",
    "location": "NOT_YET_RECRUITING"
   },
   "videocapillaroscopic findings in hand osteoarthritis|band\u0131rma onyedi eyl\u00fcl university|not_yet_recruiting": {
    "first_seen": "2026-11-17T22:24:03+00:00",
-   "last_seen": "2026-11-17T22:24:03+00:00",
+   "last_seen": "2026-11-18T04:20:23+00:00",
    "title": "Videocapillaroscopic Findings in Hand Osteoarthritis",
    "org": "Band\u0131rma Onyedi Eyl\u00fcl University",
    "location": "NOT_YET_RECRUITING"
   },
   "abemaciclib in patients with hiv-associated and hiv-negative kaposi sarcoma|national cancer institute (nci)|recruiting": {
    "first_seen": "2026-11-17T22:24:03+00:00",
-   "last_seen": "2026-11-17T22:24:03+00:00",
+   "last_seen": "2026-11-18T04:20:23+00:00",
    "title": "Abemaciclib in Patients With HIV-associated and HIV-negative Kaposi Sarcoma",
    "org": "National Cancer Institute (NCI)",
    "location": "RECRUITING"
   },
   "phase 2 efficacy and safety of pp405 in adult females with androgenetic alopecia|pelage pharmaceuticals, inc.|recruiting": {
    "first_seen": "2026-11-17T22:24:03+00:00",
-   "last_seen": "2026-11-17T22:24:03+00:00",
+   "last_seen": "2026-11-18T04:20:23+00:00",
    "title": "Phase 2 Efficacy and Safety of PP405 in Adult Females With Androgenetic Alopecia",
    "org": "Pelage Pharmaceuticals, Inc.",
    "location": "RECRUITING"

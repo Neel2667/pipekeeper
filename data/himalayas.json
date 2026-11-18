@@ -3,103 +3,103 @@
  "name": "Himalayas \u2014 remote jobs",
  "category": "jobs",
  "source": "https://himalayas.app/jobs/api",
- "collected_at": "2026-11-17T22:24:01+00:00",
+ "collected_at": "2026-11-18T04:20:21+00:00",
  "jobs_on_board": 20,
  "new_this_run": 20,
- "total_tracked": 219,
+ "total_tracked": 239,
  "jobs": [
   {
-   "title": "Senior Product Designer, Design Systems",
-   "org": "Nitrogen",
-   "location": "United States",
-   "detail": "$140,000\u2013$150,000/a",
-   "url": null,
-   "new_this_run": true
-  },
-  {
-   "title": "Application Security Engineer - Fully Remote",
-   "org": "CoverGo",
-   "location": "Romania",
+   "title": "Salesforce Developer",
+   "org": "WorkMotion",
+   "location": "Egypt",
    "detail": "Full Time",
    "url": null,
    "new_this_run": true
   },
   {
-   "title": "Strategic Enterprise Account Executive (Sydney or Melbourne)",
-   "org": "GitLab",
-   "location": "Australia",
+   "title": "Data Analyst - Commercial",
+   "org": "Ergomed",
+   "location": "Bosnia and Herzegovina",
    "detail": "Full Time",
    "url": null,
    "new_this_run": true
   },
   {
-   "title": "Finanance Administrator",
-   "org": "Volcanix Automation Inc.",
-   "location": "Mexico",
-   "detail": "$20,000\u2013$35,000/a",
+   "title": "Senior Strategic Sourcing Specialist",
+   "org": "Tether Operations Limited",
+   "location": "Italy",
+   "detail": "Contractor",
    "url": null,
    "new_this_run": true
   },
   {
-   "title": "FCM - Corporate Travel Consultant (Warwick Team) - USA",
-   "org": "Flight Centre Travel Group",
-   "location": "United States",
+   "title": "Desenvolvedor Back-end Jr. \u2728\ud83d\ude80",
+   "org": "Smart NX",
+   "location": "Brazil",
    "detail": "Full Time",
    "url": null,
    "new_this_run": true
   },
   {
-   "title": "FCM - Corporate Travel Consultant (Marlboro Team) - USA",
-   "org": "Flight Centre Travel Group",
-   "location": "United States",
-   "detail": "$60,000\u2013$67,000/a",
-   "url": null,
-   "new_this_run": true
-  },
-  {
-   "title": "Corporate Traveler Stage & Screen - After Hours Travel Consultant - Remote, USA",
-   "org": "Flight Centre Travel Group",
+   "title": "Software Engineer (Mid-level)",
+   "org": "PDI Technologies",
    "location": "United States",
    "detail": "Full Time",
    "url": null,
    "new_this_run": true
   },
   {
-   "title": "Business Systems Analyst I/II/III",
-   "org": "Mutual Of Omaha",
+   "title": "HCM Principal Consultant \u2013 Compensation (Part-Time, Temporary)",
+   "org": "Apps Associates",
    "location": "United States",
-   "detail": "$59,800\u2013$87,500/a",
+   "detail": "Temporary",
    "url": null,
    "new_this_run": true
   },
   {
-   "title": "Business Systems Consultant I/II/III",
-   "org": "Mutual Of Omaha",
-   "location": "United States",
-   "detail": "$75,500\u2013$133,500/a",
-   "url": null,
-   "new_this_run": true
-  },
-  {
-   "title": "FCM - VIP After-Hours Emergency Corporate Travel Consultant - Remote, USA",
-   "org": "Flight Centre Travel Group",
+   "title": "Sr Dir Product - AI & Data Management",
+   "org": "ACI Worldwide",
    "location": "United States",
    "detail": "Full Time",
    "url": null,
    "new_this_run": true
   },
   {
-   "title": "FCM - Corporate Travel Consultant (Truist Team) - Remote, USA",
-   "org": "Flight Centre Travel Group",
+   "title": "Sales Engineer",
+   "org": "Nerdio",
    "location": "United States",
+   "detail": "$150,000\u2013$185,000/a",
+   "url": null,
+   "new_this_run": true
+  },
+  {
+   "title": "\u200b\u200b\u200b\u200b\u200b\u200b\u200bProposal Manager",
+   "org": "Bright Vision Technologies",
+   "location": "United States",
+   "detail": "$80,000\u2013$120,000/a",
+   "url": null,
+   "new_this_run": true
+  },
+  {
+   "title": "Manager, Retail Performance Optimization",
+   "org": "Watkins Wellness",
+   "location": "United States",
+   "detail": "$84,100\u2013$132,000/a",
+   "url": null,
+   "new_this_run": true
+  },
+  {
+   "title": "Sales Representative \u2014 iGaming B2B",
+   "org": "CommIT",
+   "location": "Nigeria",
    "detail": "Full Time",
    "url": null,
    "new_this_run": true
   },
   {
-   "title": "FCM - Corporate Travel Consultant (Sandia) - Remote, USA",
-   "org": "Flight Centre Travel Group",
-   "location": "United States",
+   "title": "Field Application Specialist CEE",
+   "org": "Danaher",
+   "location": "Germany",
    "detail": "Full Time",
    "url": null,
    "new_this_run": true
@@ -168,6 +168,11 @@
   },
   {
    "at": "2026-11-17T22:24:01+00:00",
+   "jobs": 20,
+   "new": 20
+  },
+  {
+   "at": "2026-11-18T04:20:21+00:00",
    "jobs": 20,
    "new": 20
   }
@@ -1705,6 +1710,146 @@
    "title": "Senior Product Manager - Contract",
    "org": "ISI Enterprises",
    "location": "United States"
+  },
+  "salesforce developer|workmotion|egypt": {
+   "first_seen": "2026-11-18T04:20:21+00:00",
+   "last_seen": "2026-11-18T04:20:21+00:00",
+   "title": "Salesforce Developer",
+   "org": "WorkMotion",
+   "location": "Egypt"
+  },
+  "data analyst - commercial|ergomed|bosnia and herzegovina": {
+   "first_seen": "2026-11-18T04:20:21+00:00",
+   "last_seen": "2026-11-18T04:20:21+00:00",
+   "title": "Data Analyst - Commercial",
+   "org": "Ergomed",
+   "location": "Bosnia and Herzegovina"
+  },
+  "senior strategic sourcing specialist|tether operations limited|italy": {
+   "first_seen": "2026-11-18T04:20:21+00:00",
+   "last_seen": "2026-11-18T04:20:21+00:00",
+   "title": "Senior Strategic Sourcing Specialist",
+   "org": "Tether Operations Limited",
+   "location": "Italy"
+  },
+  "desenvolvedor back-end jr. \u2728\ud83d\ude80|smart nx|brazil": {
+   "first_seen": "2026-11-18T04:20:21+00:00",
+   "last_seen": "2026-11-18T04:20:21+00:00",
+   "title": "Desenvolvedor Back-end Jr. \u2728\ud83d\ude80",
+   "org": "Smart NX",
+   "location": "Brazil"
+  },
+  "software engineer (mid-level)|pdi technologies|united states": {
+   "first_seen": "2026-11-18T04:20:21+00:00",
+   "last_seen": "2026-11-18T04:20:21+00:00",
+   "title": "Software Engineer (Mid-level)",
+   "org": "PDI Technologies",
+   "location": "United States"
+  },
+  "hcm principal consultant \u2013 compensation (part-time, temporary)|apps associates|united states": {
+   "first_seen": "2026-11-18T04:20:21+00:00",
+   "last_seen": "2026-11-18T04:20:21+00:00",
+   "title": "HCM Principal Consultant \u2013 Compensation (Part-Time, Temporary)",
+   "org": "Apps Associates",
+   "location": "United States"
+  },
+  "sr dir product - ai & data management|aci worldwide|united states": {
+   "first_seen": "2026-11-18T04:20:21+00:00",
+   "last_seen": "2026-11-18T04:20:21+00:00",
+   "title": "Sr Dir Product - AI & Data Management",
+   "org": "ACI Worldwide",
+   "location": "United States"
+  },
+  "sales engineer|nerdio|united states": {
+   "first_seen": "2026-11-18T04:20:21+00:00",
+   "last_seen": "2026-11-18T04:20:21+00:00",
+   "title": "Sales Engineer",
+   "org": "Nerdio",
+   "location": "United States"
+  },
+  "\u200b\u200b\u200b\u200b\u200b\u200b\u200bproposal manager|bright vision technologies|united states": {
+   "first_seen": "2026-11-18T04:20:21+00:00",
+   "last_seen": "2026-11-18T04:20:21+00:00",
+   "title": "\u200b\u200b\u200b\u200b\u200b\u200b\u200bProposal Manager",
+   "org": "Bright Vision Technologies",
+   "location": "United States"
+  },
+  "manager, retail performance optimization|watkins wellness|united states": {
+   "first_seen": "2026-11-18T04:20:21+00:00",
+   "last_seen": "2026-11-18T04:20:21+00:00",
+   "title": "Manager, Retail Performance Optimization",
+   "org": "Watkins Wellness",
+   "location": "United States"
+  },
+  "sales representative \u2014 igaming b2b|commit|nigeria": {
+   "first_seen": "2026-11-18T04:20:21+00:00",
+   "last_seen": "2026-11-18T04:20:21+00:00",
+   "title": "Sales Representative \u2014 iGaming B2B",
+   "org": "CommIT",
+   "location": "Nigeria"
+  },
+  "field application specialist cee|danaher|germany": {
+   "first_seen": "2026-11-18T04:20:21+00:00",
+   "last_seen": "2026-11-18T04:20:21+00:00",
+   "title": "Field Application Specialist CEE",
+   "org": "Danaher",
+   "location": "Germany"
+  },
+  "regional sales director, isv|kong|united states": {
+   "first_seen": "2026-11-18T04:20:21+00:00",
+   "last_seen": "2026-11-18T04:20:21+00:00",
+   "title": "Regional Sales Director, ISV",
+   "org": "Kong",
+   "location": "United States"
+  },
+  "senior manager - offsite media activation & ad operations|american express company|united states": {
+   "first_seen": "2026-11-18T04:20:21+00:00",
+   "last_seen": "2026-11-18T04:20:21+00:00",
+   "title": "Senior Manager - Offsite Media Activation & Ad Operations",
+   "org": "American Express Company",
+   "location": "United States"
+  },
+  "account manager|magic|philippines": {
+   "first_seen": "2026-11-18T04:20:21+00:00",
+   "last_seen": "2026-11-18T04:20:21+00:00",
+   "title": "Account Manager",
+   "org": "Magic",
+   "location": "Philippines"
+  },
+  "wedding destination planner|elite escapes travel agency, llc|spain": {
+   "first_seen": "2026-11-18T04:20:21+00:00",
+   "last_seen": "2026-11-18T04:20:21+00:00",
+   "title": "Wedding Destination Planner",
+   "org": "Elite Escapes Travel Agency, LLC",
+   "location": "Spain"
+  },
+  "wedding destination planner|elite escapes travel agency, llc|colombia": {
+   "first_seen": "2026-11-18T04:20:21+00:00",
+   "last_seen": "2026-11-18T04:20:21+00:00",
+   "title": "Wedding Destination Planner",
+   "org": "Elite Escapes Travel Agency, LLC",
+   "location": "Colombia"
+  },
+  "recruiter|parexel|china": {
+   "first_seen": "2026-11-18T04:20:21+00:00",
+   "last_seen": "2026-11-18T04:20:21+00:00",
+   "title": "Recruiter",
+   "org": "Parexel",
+   "location": "China"
+  },
+  "sales analyst|seagull software|anguilla, antigua and barbuda, argentina, aruba, bahamas, barbados, belize, bermuda, bolivia, bonaire, sint eustatius an": {
+   "first_seen": "2026-11-18T04:20:21+00:00",
+   "last_seen": "2026-11-18T04:20:21+00:00",
+   "title": "Sales Analyst",
+   "org": "Seagull Software",
+   "location": "Anguilla, Antigua and Barbuda, Argentina, Aruba, Bahamas, Barbados, Belize, Bermuda, Bolivia, Bonaire, Sint Eustatius and Saba, Brazil, Cayman Islands, Chile, Colombia, Costa Rica, Cuba, Dominica, Dominican Republic, Ecuador, El Salvador, F"
+  },
+  "commercial insurance broker - insurance venture (uk)|iwoca|united kingdom": {
+   "first_seen": "2026-11-18T04:20:21+00:00",
+   "last_seen": "2026-11-18T04:20:21+00:00",
+   "title": "Commercial Insurance Broker - Insurance Venture (UK)",
+   "org": "iwoca",
+   "location": "United Kingdom"
   }
  }
 }
