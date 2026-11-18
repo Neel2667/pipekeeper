@@ -3,104 +3,104 @@
  "name": "Himalayas \u2014 remote jobs",
  "category": "jobs",
  "source": "https://himalayas.app/jobs/api",
- "collected_at": "2026-11-18T04:20:21+00:00",
+ "collected_at": "2026-11-18T13:57:48+00:00",
  "jobs_on_board": 20,
  "new_this_run": 20,
- "total_tracked": 239,
+ "total_tracked": 259,
  "jobs": [
   {
-   "title": "Salesforce Developer",
-   "org": "WorkMotion",
-   "location": "Egypt",
+   "title": "Client Manager, Retail Collaboration",
+   "org": "NielsenIQ",
+   "location": "United States",
+   "detail": "$83,700\u2013$95,000/a",
+   "url": null,
+   "new_this_run": true
+  },
+  {
+   "title": "Senior Hyperion Developer",
+   "org": "ManTech",
+   "location": "United States",
+   "detail": "$117,000\u2013$195,100/a",
+   "url": null,
+   "new_this_run": true
+  },
+  {
+   "title": "Senior Manager, Fulfillment",
+   "org": "Chomps",
+   "location": "United States",
+   "detail": "$130,000\u2013$140,000/a",
+   "url": null,
+   "new_this_run": true
+  },
+  {
+   "title": "AI Safety Specialist - Fully Remote | Upto $35/hr",
+   "org": "mercor",
+   "location": "United Kingdom",
+   "detail": "$24\u2013$35/h",
+   "url": null,
+   "new_this_run": true
+  },
+  {
+   "title": "Pre-Sales Engineer",
+   "org": "TechBiz Global",
+   "location": "United Arab Emirates",
    "detail": "Full Time",
    "url": null,
    "new_this_run": true
   },
   {
-   "title": "Data Analyst - Commercial",
-   "org": "Ergomed",
-   "location": "Bosnia and Herzegovina",
-   "detail": "Full Time",
+   "title": "Executive Director, Data Science & Applied AI",
+   "org": "Novartis",
+   "location": "United States",
+   "detail": "$225,400\u2013$418,600/a",
    "url": null,
    "new_this_run": true
   },
   {
-   "title": "Senior Strategic Sourcing Specialist",
-   "org": "Tether Operations Limited",
-   "location": "Italy",
-   "detail": "Contractor",
+   "title": "Work from Home Travel Specialist",
+   "org": "Elite Escapes Travel Agency, LLC",
+   "location": "Cura\u00e7ao",
+   "detail": "Part Time",
    "url": null,
    "new_this_run": true
   },
   {
-   "title": "Desenvolvedor Back-end Jr. \u2728\ud83d\ude80",
-   "org": "Smart NX",
-   "location": "Brazil",
-   "detail": "Full Time",
+   "title": "Online Swahili and French Language Teacher needed Gold Coast -ID 1141616",
+   "org": "Language Trainers",
+   "location": "Australia",
+   "detail": "$15\u2013$15/h",
    "url": null,
    "new_this_run": true
   },
   {
-   "title": "Software Engineer (Mid-level)",
-   "org": "PDI Technologies",
+   "title": "Director, Sales Operations & Enablement - Remote",
+   "org": "Thriveworks",
    "location": "United States",
    "detail": "Full Time",
    "url": null,
    "new_this_run": true
   },
   {
-   "title": "HCM Principal Consultant \u2013 Compensation (Part-Time, Temporary)",
-   "org": "Apps Associates",
-   "location": "United States",
-   "detail": "Temporary",
+   "title": "Mechanical Engineering Expert",
+   "org": "micro1",
+   "location": "remote",
+   "detail": "$60\u2013$120/h",
    "url": null,
    "new_this_run": true
   },
   {
-   "title": "Sr Dir Product - AI & Data Management",
-   "org": "ACI Worldwide",
-   "location": "United States",
-   "detail": "Full Time",
+   "title": "Aerodynamics Expert",
+   "org": "micro1",
+   "location": "remote",
+   "detail": "$80\u2013$120/h",
    "url": null,
    "new_this_run": true
   },
   {
-   "title": "Sales Engineer",
-   "org": "Nerdio",
-   "location": "United States",
-   "detail": "$150,000\u2013$185,000/a",
-   "url": null,
-   "new_this_run": true
-  },
-  {
-   "title": "\u200b\u200b\u200b\u200b\u200b\u200b\u200bProposal Manager",
-   "org": "Bright Vision Technologies",
-   "location": "United States",
-   "detail": "$80,000\u2013$120,000/a",
-   "url": null,
-   "new_this_run": true
-  },
-  {
-   "title": "Manager, Retail Performance Optimization",
-   "org": "Watkins Wellness",
-   "location": "United States",
-   "detail": "$84,100\u2013$132,000/a",
-   "url": null,
-   "new_this_run": true
-  },
-  {
-   "title": "Sales Representative \u2014 iGaming B2B",
-   "org": "CommIT",
-   "location": "Nigeria",
-   "detail": "Full Time",
-   "url": null,
-   "new_this_run": true
-  },
-  {
-   "title": "Field Application Specialist CEE",
-   "org": "Danaher",
-   "location": "Germany",
-   "detail": "Full Time",
+   "title": "Competitive Data Scientist (Kaggle)",
+   "org": "micro1",
+   "location": "Australia, Canada, New Zealand, United Kingdom, United States",
+   "detail": "$60\u2013$120/h",
    "url": null,
    "new_this_run": true
   }
@@ -173,6 +173,11 @@
   },
   {
    "at": "2026-11-18T04:20:21+00:00",
+   "jobs": 20,
+   "new": 20
+  },
+  {
+   "at": "2026-11-18T13:57:48+00:00",
    "jobs": 20,
    "new": 20
   }
@@ -1850,6 +1855,146 @@
    "title": "Commercial Insurance Broker - Insurance Venture (UK)",
    "org": "iwoca",
    "location": "United Kingdom"
+  },
+  "client manager, retail collaboration|nielseniq|united states": {
+   "first_seen": "2026-11-18T13:57:48+00:00",
+   "last_seen": "2026-11-18T13:57:48+00:00",
+   "title": "Client Manager, Retail Collaboration",
+   "org": "NielsenIQ",
+   "location": "United States"
+  },
+  "senior hyperion developer|mantech|united states": {
+   "first_seen": "2026-11-18T13:57:48+00:00",
+   "last_seen": "2026-11-18T13:57:48+00:00",
+   "title": "Senior Hyperion Developer",
+   "org": "ManTech",
+   "location": "United States"
+  },
+  "senior manager, fulfillment|chomps|united states": {
+   "first_seen": "2026-11-18T13:57:48+00:00",
+   "last_seen": "2026-11-18T13:57:48+00:00",
+   "title": "Senior Manager, Fulfillment",
+   "org": "Chomps",
+   "location": "United States"
+  },
+  "ai safety specialist - fully remote | upto $35/hr|mercor|united kingdom": {
+   "first_seen": "2026-11-18T13:57:48+00:00",
+   "last_seen": "2026-11-18T13:57:48+00:00",
+   "title": "AI Safety Specialist - Fully Remote | Upto $35/hr",
+   "org": "mercor",
+   "location": "United Kingdom"
+  },
+  "pre-sales engineer|techbiz global|united arab emirates": {
+   "first_seen": "2026-11-18T13:57:48+00:00",
+   "last_seen": "2026-11-18T13:57:48+00:00",
+   "title": "Pre-Sales Engineer",
+   "org": "TechBiz Global",
+   "location": "United Arab Emirates"
+  },
+  "executive director, data science & applied ai|novartis|united states": {
+   "first_seen": "2026-11-18T13:57:48+00:00",
+   "last_seen": "2026-11-18T13:57:48+00:00",
+   "title": "Executive Director, Data Science & Applied AI",
+   "org": "Novartis",
+   "location": "United States"
+  },
+  "work from home travel specialist|elite escapes travel agency, llc|cura\u00e7ao": {
+   "first_seen": "2026-11-18T13:57:48+00:00",
+   "last_seen": "2026-11-18T13:57:48+00:00",
+   "title": "Work from Home Travel Specialist",
+   "org": "Elite Escapes Travel Agency, LLC",
+   "location": "Cura\u00e7ao"
+  },
+  "online swahili and french language teacher needed gold coast -id 1141616|language trainers|australia": {
+   "first_seen": "2026-11-18T13:57:48+00:00",
+   "last_seen": "2026-11-18T13:57:48+00:00",
+   "title": "Online Swahili and French Language Teacher needed Gold Coast -ID 1141616",
+   "org": "Language Trainers",
+   "location": "Australia"
+  },
+  "director, sales operations & enablement - remote|thriveworks|united states": {
+   "first_seen": "2026-11-18T13:57:48+00:00",
+   "last_seen": "2026-11-18T13:57:48+00:00",
+   "title": "Director, Sales Operations & Enablement - Remote",
+   "org": "Thriveworks",
+   "location": "United States"
+  },
+  "mechanical engineering expert|micro1|remote": {
+   "first_seen": "2026-11-18T13:57:48+00:00",
+   "last_seen": "2026-11-18T13:57:48+00:00",
+   "title": "Mechanical Engineering Expert",
+   "org": "micro1",
+   "location": "remote"
+  },
+  "aerodynamics expert|micro1|remote": {
+   "first_seen": "2026-11-18T13:57:48+00:00",
+   "last_seen": "2026-11-18T13:57:48+00:00",
+   "title": "Aerodynamics Expert",
+   "org": "micro1",
+   "location": "remote"
+  },
+  "competitive data scientist (kaggle)|micro1|australia, canada, new zealand, united kingdom, united states": {
+   "first_seen": "2026-11-18T13:57:48+00:00",
+   "last_seen": "2026-11-18T13:57:48+00:00",
+   "title": "Competitive Data Scientist (Kaggle)",
+   "org": "micro1",
+   "location": "Australia, Canada, New Zealand, United Kingdom, United States"
+  },
+  "ml engineer|micro1|remote": {
+   "first_seen": "2026-11-18T13:57:48+00:00",
+   "last_seen": "2026-11-18T13:57:48+00:00",
+   "title": "ML Engineer",
+   "org": "micro1",
+   "location": "remote"
+  },
+  "legal research attorney|micro1|united states": {
+   "first_seen": "2026-11-18T13:57:48+00:00",
+   "last_seen": "2026-11-18T13:57:48+00:00",
+   "title": "Legal Research Attorney",
+   "org": "micro1",
+   "location": "United States"
+  },
+  "computational bioscience expert (python)|micro1|remote": {
+   "first_seen": "2026-11-18T13:57:48+00:00",
+   "last_seen": "2026-11-18T13:57:48+00:00",
+   "title": "Computational Bioscience Expert (Python)",
+   "org": "micro1",
+   "location": "remote"
+  },
+  "product marketer - medius payments|medius|united states": {
+   "first_seen": "2026-11-18T13:57:48+00:00",
+   "last_seen": "2026-11-18T13:57:48+00:00",
+   "title": "Product Marketer - Medius Payments",
+   "org": "Medius",
+   "location": "United States"
+  },
+  "product gtm manager, kyb|sumsub|cyprus": {
+   "first_seen": "2026-11-18T13:57:48+00:00",
+   "last_seen": "2026-11-18T13:57:48+00:00",
+   "title": "Product GTM Manager, KYB",
+   "org": "Sumsub",
+   "location": "Cyprus"
+  },
+  "website support specialist|lithia & driveway|united states": {
+   "first_seen": "2026-11-18T13:57:48+00:00",
+   "last_seen": "2026-11-18T13:57:48+00:00",
+   "title": "Website Support Specialist",
+   "org": "Lithia & Driveway",
+   "location": "United States"
+  },
+  "inventory process and analytics specialist|ge healthcare|poland": {
+   "first_seen": "2026-11-18T13:57:48+00:00",
+   "last_seen": "2026-11-18T13:57:48+00:00",
+   "title": "Inventory Process and Analytics Specialist",
+   "org": "GE HealthCare",
+   "location": "Poland"
+  },
+  "temporary business analyst, npr+|npr (national public radio)|united states": {
+   "first_seen": "2026-11-18T13:57:48+00:00",
+   "last_seen": "2026-11-18T13:57:48+00:00",
+   "title": "Temporary Business Analyst, NPR+",
+   "org": "NPR (National Public Radio)",
+   "location": "United States"
   }
  }
 }

@@ -131,9 +131,15 @@
    "failed": [
     "usaspending"
    ]
+  },
+  {
+   "at": "2026-11-18T13:57:54+00:00",
+   "feeds": 15,
+   "ok": 15,
+   "failed": []
   }
  ],
- "last_run": "2026-11-18T04:20:24+00:00",
+ "last_run": "2026-11-18T13:57:54+00:00",
  "last_status": {
   "hosthealthcare": true,
   "remoteok": true,
@@ -145,7 +151,7 @@
   "greenhouse": true,
   "hnhiring": true,
   "edgarformd": true,
-  "usaspending": false,
+  "usaspending": true,
   "clinicaltrials": true,
   "openfda510k": true,
   "openfdaenforcement": true,

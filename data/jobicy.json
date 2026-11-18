@@ -3,106 +3,106 @@
  "name": "Jobicy \u2014 remote jobs",
  "category": "jobs",
  "source": "https://jobicy.com/api/v2/remote-jobs",
- "collected_at": "2026-11-18T04:20:21+00:00",
+ "collected_at": "2026-11-18T13:57:48+00:00",
  "jobs_on_board": 50,
- "new_this_run": 0,
- "total_tracked": 300,
+ "new_this_run": 50,
+ "total_tracked": 350,
  "jobs": [
   {
-   "title": "Senior Salesforce Engineer | Resellers Team",
-   "org": "Wellhub",
-   "location": "Brazil",
-   "detail": "Senior",
-   "url": "https://jobicy.com/jobs/163048-senior-salesforce-engineer-resellers-team",
-   "new_this_run": false
-  },
-  {
-   "title": "Senior MLOps Engineer",
-   "org": "Wellhub",
-   "location": "Brazil",
-   "detail": "Senior",
-   "url": "https://jobicy.com/jobs/163047-senior-mlops-engineer-2",
-   "new_this_run": false
-  },
-  {
-   "title": "Senior Project Manager",
-   "org": "Welo Global",
-   "location": "Argentina, Mexico",
-   "detail": "Senior",
-   "url": "https://jobicy.com/jobs/163046-senior-project-manager",
-   "new_this_run": false
-  },
-  {
-   "title": "Senior Localization Project Manager",
-   "org": "Welo Global",
-   "location": "Argentina, Mexico",
-   "detail": "Senior",
-   "url": "https://jobicy.com/jobs/163045-senior-localization-project-manager",
-   "new_this_run": false
-  },
-  {
-   "title": "Senior Data Analyst",
-   "org": "Welo Global",
-   "location": "Mexico",
-   "detail": "Director",
-   "url": "https://jobicy.com/jobs/163044-senior-data-analyst-5",
-   "new_this_run": false
-  },
-  {
-   "title": "Hydrus - Voice Contributor - Spanish (Mexico)",
-   "org": "Welo Global",
-   "location": "Mexico",
-   "detail": "Director",
-   "url": "https://jobicy.com/jobs/163043-hydrus-voice-contributor-spanish-mexico",
-   "new_this_run": false
-  },
-  {
-   "title": "Hydrus - Voice Contributor - Spanish (Latin America) - Argentina",
-   "org": "Welo Global",
-   "location": "Argentina",
-   "detail": "Director",
-   "url": "https://jobicy.com/jobs/163042-hydrus-voice-contributor-spanish-latin-america-argentina",
-   "new_this_run": false
-  },
-  {
-   "title": "Staff Accountant",
-   "org": "Enumerate",
-   "location": "LATAM",
-   "detail": "Senior",
-   "url": "https://jobicy.com/jobs/163040-staff-accountant-4",
-   "new_this_run": false
-  },
-  {
-   "title": "Product Owner, AI Pod",
-   "org": "Enumerate",
-   "location": "LATAM",
-   "detail": "Director",
-   "url": "https://jobicy.com/jobs/163037-product-owner-ai-pod",
-   "new_this_run": false
-  },
-  {
-   "title": "English to Spanish (ESMX native) Linguist for Life Sciences",
-   "org": "Welo Global",
-   "location": "Mexico",
+   "title": "User Acquisition Manager (PPC)",
+   "org": "capital.com",
+   "location": "Poland, UAE, UK",
    "detail": "Any",
-   "url": "https://jobicy.com/jobs/163035-english-to-spanish-esmx-native-linguist-for-life-sciences",
-   "new_this_run": false
+   "url": "https://jobicy.com/jobs/155536-user-acquisition-manager-ppc",
+   "new_this_run": true
   },
   {
-   "title": "Sr Genomics Specialist",
-   "org": "Veracyte",
-   "location": "USA",
-   "detail": "Senior",
-   "url": "https://jobicy.com/jobs/163033-sr-genomics-specialist",
-   "new_this_run": false
-  },
-  {
-   "title": "Principal Engineer Cryptography",
-   "org": "GoDaddy",
+   "title": "Director, Programmatic B2B",
+   "org": "Wpromote",
    "location": "USA",
    "detail": "Director",
-   "url": "https://jobicy.com/jobs/163031-principal-engineer-cryptography",
-   "new_this_run": false
+   "url": "https://jobicy.com/jobs/155535-director-programmatic-b2b",
+   "new_this_run": true
+  },
+  {
+   "title": "Director, Information Security",
+   "org": "Carrot",
+   "location": "USA",
+   "detail": "Director",
+   "url": "https://jobicy.com/jobs/155508-director-information-security",
+   "new_this_run": true
+  },
+  {
+   "title": "Sr. AI/ML Engineer (MXC)",
+   "org": "AlertMedia",
+   "location": "Mexico",
+   "detail": "Senior",
+   "url": "https://jobicy.com/jobs/156953-sr-ai-ml-engineer-mxc",
+   "new_this_run": true
+  },
+  {
+   "title": "Senior IT & Corporate Engineering",
+   "org": "Flex",
+   "location": "USA",
+   "detail": "Senior",
+   "url": "https://jobicy.com/jobs/155773-senior-it-corporate-engineering",
+   "new_this_run": true
+  },
+  {
+   "title": "Product Owner, Payments and Infrastructure",
+   "org": "Flex",
+   "location": "Brazil, Canada, Mexico, USA",
+   "detail": "Senior",
+   "url": "https://jobicy.com/jobs/155771-product-owner-payments-and-infrastructure",
+   "new_this_run": true
+  },
+  {
+   "title": "General Manager, Venture & Private Equity",
+   "org": "Flex",
+   "location": "USA",
+   "detail": "Senior",
+   "url": "https://jobicy.com/jobs/155769-general-manager-venture-private-equity",
+   "new_this_run": true
+  },
+  {
+   "title": "International Audio/Video Remote Toisan and Mandarin or Cantonese Interpreter",
+   "org": "Language Services Associates",
+   "location": "Anywhere",
+   "detail": "Any",
+   "url": "https://jobicy.com/jobs/155762-international-audio-video-remote-toisan-and-mandarin-or-cantonese-interpreter",
+   "new_this_run": true
+  },
+  {
+   "title": "Full Stack Developer (Frontend-Focused) - Mexico",
+   "org": "Brafton",
+   "location": "Mexico",
+   "detail": "Senior",
+   "url": "https://jobicy.com/jobs/155665-full-stack-developer-frontend-focused-mexico",
+   "new_this_run": true
+  },
+  {
+   "title": "Senior QA Engineer",
+   "org": "Airtm",
+   "location": "LATAM, Canada, USA",
+   "detail": "Senior",
+   "url": "https://jobicy.com/jobs/155766-senior-qa-engineer-3",
+   "new_this_run": true
+  },
+  {
+   "title": "Strategic Sourcing Lead \u2013 Fulfillment - Mexico",
+   "org": "Appen",
+   "location": "Brazil, Mexico, Philippines",
+   "detail": "Senior",
+   "url": "https://jobicy.com/jobs/155756-strategic-sourcing-lead-fulfillment-mexico",
+   "new_this_run": true
+  },
+  {
+   "title": "Risk Analyst",
+   "org": "Flex",
+   "location": "USA",
+   "detail": "Any",
+   "url": "https://jobicy.com/jobs/155772-risk-analyst",
+   "new_this_run": true
   }
  ],
  "runs": [
@@ -175,6 +175,11 @@
    "at": "2026-11-18T04:20:21+00:00",
    "jobs": 50,
    "new": 0
+  },
+  {
+   "at": "2026-11-18T13:57:48+00:00",
+   "jobs": 50,
+   "new": 50
   }
  ],
  "jobs_seen": {
@@ -2277,6 +2282,356 @@
    "title": "Mid-Market Customer Success Manager - EMEA (German speaking)",
    "org": "Ashby",
    "location": "Europe"
+  },
+  "user acquisition manager (ppc)|capital.com|poland, uae, uk": {
+   "first_seen": "2026-11-18T13:57:48+00:00",
+   "last_seen": "2026-11-18T13:57:48+00:00",
+   "title": "User Acquisition Manager (PPC)",
+   "org": "capital.com",
+   "location": "Poland, UAE, UK"
+  },
+  "director, programmatic b2b|wpromote|usa": {
+   "first_seen": "2026-11-18T13:57:48+00:00",
+   "last_seen": "2026-11-18T13:57:48+00:00",
+   "title": "Director, Programmatic B2B",
+   "org": "Wpromote",
+   "location": "USA"
+  },
+  "director, information security|carrot|usa": {
+   "first_seen": "2026-11-18T13:57:48+00:00",
+   "last_seen": "2026-11-18T13:57:48+00:00",
+   "title": "Director, Information Security",
+   "org": "Carrot",
+   "location": "USA"
+  },
+  "sr. ai/ml engineer (mxc)|alertmedia|mexico": {
+   "first_seen": "2026-11-18T13:57:48+00:00",
+   "last_seen": "2026-11-18T13:57:48+00:00",
+   "title": "Sr. AI/ML Engineer (MXC)",
+   "org": "AlertMedia",
+   "location": "Mexico"
+  },
+  "senior it & corporate engineering|flex|usa": {
+   "first_seen": "2026-11-18T13:57:48+00:00",
+   "last_seen": "2026-11-18T13:57:48+00:00",
+   "title": "Senior IT & Corporate Engineering",
+   "org": "Flex",
+   "location": "USA"
+  },
+  "product owner, payments and infrastructure|flex|brazil, canada, mexico, usa": {
+   "first_seen": "2026-11-18T13:57:48+00:00",
+   "last_seen": "2026-11-18T13:57:48+00:00",
+   "title": "Product Owner, Payments and Infrastructure",
+   "org": "Flex",
+   "location": "Brazil, Canada, Mexico, USA"
+  },
+  "general manager, venture & private equity|flex|usa": {
+   "first_seen": "2026-11-18T13:57:48+00:00",
+   "last_seen": "2026-11-18T13:57:48+00:00",
+   "title": "General Manager, Venture & Private Equity",
+   "org": "Flex",
+   "location": "USA"
+  },
+  "international audio/video remote toisan and mandarin or cantonese interpreter|language services associates|anywhere": {
+   "first_seen": "2026-11-18T13:57:48+00:00",
+   "last_seen": "2026-11-18T13:57:48+00:00",
+   "title": "International Audio/Video Remote Toisan and Mandarin or Cantonese Interpreter",
+   "org": "Language Services Associates",
+   "location": "Anywhere"
+  },
+  "full stack developer (frontend-focused) - mexico|brafton|mexico": {
+   "first_seen": "2026-11-18T13:57:48+00:00",
+   "last_seen": "2026-11-18T13:57:48+00:00",
+   "title": "Full Stack Developer (Frontend-Focused) - Mexico",
+   "org": "Brafton",
+   "location": "Mexico"
+  },
+  "senior qa engineer|airtm|latam, canada, usa": {
+   "first_seen": "2026-11-18T13:57:48+00:00",
+   "last_seen": "2026-11-18T13:57:48+00:00",
+   "title": "Senior QA Engineer",
+   "org": "Airtm",
+   "location": "LATAM, Canada, USA"
+  },
+  "strategic sourcing lead \u2013 fulfillment - mexico|appen|brazil, mexico, philippines": {
+   "first_seen": "2026-11-18T13:57:48+00:00",
+   "last_seen": "2026-11-18T13:57:48+00:00",
+   "title": "Strategic Sourcing Lead \u2013 Fulfillment - Mexico",
+   "org": "Appen",
+   "location": "Brazil, Mexico, Philippines"
+  },
+  "risk analyst|flex|usa": {
+   "first_seen": "2026-11-18T13:57:48+00:00",
+   "last_seen": "2026-11-18T13:57:48+00:00",
+   "title": "Risk Analyst",
+   "org": "Flex",
+   "location": "USA"
+  },
+  "product owner, growth|flex|brazil, canada, mexico, usa": {
+   "first_seen": "2026-11-18T13:57:48+00:00",
+   "last_seen": "2026-11-18T13:57:48+00:00",
+   "title": "Product Owner, Growth",
+   "org": "Flex",
+   "location": "Brazil, Canada, Mexico, USA"
+  },
+  "general manager, construction|flex|usa": {
+   "first_seen": "2026-11-18T13:57:48+00:00",
+   "last_seen": "2026-11-18T13:57:48+00:00",
+   "title": "General Manager, Construction",
+   "org": "Flex",
+   "location": "USA"
+  },
+  "customer experience specialist|flex|usa": {
+   "first_seen": "2026-11-18T13:57:48+00:00",
+   "last_seen": "2026-11-18T13:57:48+00:00",
+   "title": "Customer Experience Specialist",
+   "org": "Flex",
+   "location": "USA"
+  },
+  "international audio/video remote spanish interpreter|language services associates|anywhere": {
+   "first_seen": "2026-11-18T13:57:48+00:00",
+   "last_seen": "2026-11-18T13:57:48+00:00",
+   "title": "International Audio/Video Remote Spanish Interpreter",
+   "org": "Language Services Associates",
+   "location": "Anywhere"
+  },
+  "gtm strategist|fandom|usa": {
+   "first_seen": "2026-11-18T13:57:48+00:00",
+   "last_seen": "2026-11-18T13:57:48+00:00",
+   "title": "GTM Strategist",
+   "org": "Fandom",
+   "location": "USA"
+  },
+  "fp&a manager|fandom|usa": {
+   "first_seen": "2026-11-18T13:57:48+00:00",
+   "last_seen": "2026-11-18T13:57:48+00:00",
+   "title": "FP&A Manager",
+   "org": "Fandom",
+   "location": "USA"
+  },
+  "corporate development director|fandom|usa": {
+   "first_seen": "2026-11-18T13:57:48+00:00",
+   "last_seen": "2026-11-18T13:57:48+00:00",
+   "title": "Corporate Development Director",
+   "org": "Fandom",
+   "location": "USA"
+  },
+  "director of security operations and engineering|edb|usa": {
+   "first_seen": "2026-11-18T13:57:48+00:00",
+   "last_seen": "2026-11-18T13:57:48+00:00",
+   "title": "Director of Security Operations and Engineering",
+   "org": "EDB",
+   "location": "USA"
+  },
+  "bilingual customer experience specialist (spanish)|instacart|usa": {
+   "first_seen": "2026-11-18T13:57:48+00:00",
+   "last_seen": "2026-11-18T13:57:48+00:00",
+   "title": "Bilingual Customer Experience Specialist (Spanish)",
+   "org": "Instacart",
+   "location": "USA"
+  },
+  "account manager|instacart|usa": {
+   "first_seen": "2026-11-18T13:57:48+00:00",
+   "last_seen": "2026-11-18T13:57:48+00:00",
+   "title": "Account Manager",
+   "org": "Instacart",
+   "location": "USA"
+  },
+  "consultant relations senior manager|betterhelp|usa": {
+   "first_seen": "2026-11-18T13:57:48+00:00",
+   "last_seen": "2026-11-18T13:57:48+00:00",
+   "title": "Consultant Relations Senior Manager",
+   "org": "BetterHelp",
+   "location": "USA"
+  },
+  "director, legal|submittable|usa": {
+   "first_seen": "2026-11-18T13:57:48+00:00",
+   "last_seen": "2026-11-18T13:57:48+00:00",
+   "title": "Director, Legal",
+   "org": "Submittable",
+   "location": "USA"
+  },
+  "assistant general counsel, servicing|goodleap|usa": {
+   "first_seen": "2026-11-18T13:57:48+00:00",
+   "last_seen": "2026-11-18T13:57:48+00:00",
+   "title": "Assistant General Counsel, Servicing",
+   "org": "Goodleap",
+   "location": "USA"
+  },
+  "staff software engineer - python, java / spring or go|bloomreach|europe": {
+   "first_seen": "2026-11-18T13:57:48+00:00",
+   "last_seen": "2026-11-18T13:57:48+00:00",
+   "title": "Staff Software Engineer - Python, Java / Spring or Go",
+   "org": "Bloomreach",
+   "location": "Europe"
+  },
+  "senior software engineer, data pipeline|bloomreach|europe": {
+   "first_seen": "2026-11-18T13:57:48+00:00",
+   "last_seen": "2026-11-18T13:57:48+00:00",
+   "title": "Senior Software Engineer, Data Pipeline",
+   "org": "Bloomreach",
+   "location": "Europe"
+  },
+  "hebrew freelance translator & copy editor (product, marketing & ui content)|welo global|israel": {
+   "first_seen": "2026-11-18T13:57:48+00:00",
+   "last_seen": "2026-11-18T13:57:48+00:00",
+   "title": "Hebrew Freelance Translator & Copy Editor (Product, Marketing & UI Content)",
+   "org": "Welo Global",
+   "location": "Israel"
+  },
+  "machine learning engineer (governance ml platform)|edb|emea": {
+   "first_seen": "2026-11-18T13:57:48+00:00",
+   "last_seen": "2026-11-18T13:57:48+00:00",
+   "title": "Machine Learning Engineer (Governance ML Platform)",
+   "org": "EDB",
+   "location": "EMEA"
+  },
+  "full stack software engineer|betterhelp|usa": {
+   "first_seen": "2026-11-18T13:57:48+00:00",
+   "last_seen": "2026-11-18T13:57:48+00:00",
+   "title": "Full Stack Software Engineer",
+   "org": "BetterHelp",
+   "location": "USA"
+  },
+  "customer success manager|hubstaff|usa": {
+   "first_seen": "2026-11-18T13:57:48+00:00",
+   "last_seen": "2026-11-18T13:57:48+00:00",
+   "title": "Customer Success Manager",
+   "org": "Hubstaff",
+   "location": "USA"
+  },
+  "principal production designer, print & packaging|hims &#038; hers|europe": {
+   "first_seen": "2026-11-18T13:57:48+00:00",
+   "last_seen": "2026-11-18T13:57:48+00:00",
+   "title": "Principal Production Designer, Print & Packaging",
+   "org": "hims &#038; hers",
+   "location": "Europe"
+  },
+  "manager, engineering (remote eligible in bulgaria)|smartsheet|bulgaria": {
+   "first_seen": "2026-11-18T13:57:48+00:00",
+   "last_seen": "2026-11-18T13:57:48+00:00",
+   "title": "Manager, Engineering (Remote Eligible in Bulgaria)",
+   "org": "Smartsheet",
+   "location": "Bulgaria"
+  },
+  "sr. manager, data science|hims &#038; hers|uk": {
+   "first_seen": "2026-11-18T13:57:48+00:00",
+   "last_seen": "2026-11-18T13:57:48+00:00",
+   "title": "Sr. Manager, Data Science",
+   "org": "hims &#038; hers",
+   "location": "UK"
+  },
+  "technical solutions consultant|banyan software|canada": {
+   "first_seen": "2026-11-18T13:57:48+00:00",
+   "last_seen": "2026-11-18T13:57:48+00:00",
+   "title": "Technical Solutions Consultant",
+   "org": "Banyan Software",
+   "location": "Canada"
+  },
+  "1 on 1 high school math tutor|think academy us|usa": {
+   "first_seen": "2026-11-18T13:57:48+00:00",
+   "last_seen": "2026-11-18T13:57:48+00:00",
+   "title": "1 on 1 High School Math Tutor",
+   "org": "Think Academy US",
+   "location": "USA"
+  },
+  "chief executive officer|banyan software|usa": {
+   "first_seen": "2026-11-18T13:57:48+00:00",
+   "last_seen": "2026-11-18T13:57:48+00:00",
+   "title": "Chief Executive Officer",
+   "org": "Banyan Software",
+   "location": "USA"
+  },
+  "enterprise customer success manager (french speaker)|canonical|emea": {
+   "first_seen": "2026-11-18T13:57:48+00:00",
+   "last_seen": "2026-11-18T13:57:48+00:00",
+   "title": "Enterprise Customer Success Manager (French speaker)",
+   "org": "Canonical",
+   "location": "EMEA"
+  },
+  "enterprise customer success manager|canonical|anywhere": {
+   "first_seen": "2026-11-18T13:57:48+00:00",
+   "last_seen": "2026-11-18T13:57:48+00:00",
+   "title": "Enterprise Customer Success Manager",
+   "org": "Canonical",
+   "location": "Anywhere"
+  },
+  "customer success manager, small group|elation health|usa": {
+   "first_seen": "2026-11-18T13:57:48+00:00",
+   "last_seen": "2026-11-18T13:57:48+00:00",
+   "title": "Customer Success Manager, Small Group",
+   "org": "Elation Health",
+   "location": "USA"
+  },
+  "enterprise account executive, acquisition | remote | sweden|grafana labs|sweden": {
+   "first_seen": "2026-11-18T13:57:48+00:00",
+   "last_seen": "2026-11-18T13:57:48+00:00",
+   "title": "Enterprise Account Executive, Acquisition | Remote | Sweden",
+   "org": "Grafana Labs",
+   "location": "Sweden"
+  },
+  "it support specialist|6sense|usa": {
+   "first_seen": "2026-11-18T13:57:48+00:00",
+   "last_seen": "2026-11-18T13:57:48+00:00",
+   "title": "IT Support Specialist",
+   "org": "6sense",
+   "location": "USA"
+  },
+  "ads quality rater \u2013 german (austria)|welo global|austria": {
+   "first_seen": "2026-11-18T13:57:48+00:00",
+   "last_seen": "2026-11-18T13:57:48+00:00",
+   "title": "Ads Quality Rater \u2013 German (Austria)",
+   "org": "Welo Global",
+   "location": "Austria"
+  },
+  "ads quality rater - slovenian (slovenia)|welo global|slovenia": {
+   "first_seen": "2026-11-18T13:57:48+00:00",
+   "last_seen": "2026-11-18T13:57:48+00:00",
+   "title": "Ads Quality Rater - Slovenian (Slovenia)",
+   "org": "Welo Global",
+   "location": "Slovenia"
+  },
+  "ads quality rater \u2013 j\u0119zyk polski (polska)|welo global|poland": {
+   "first_seen": "2026-11-18T13:57:48+00:00",
+   "last_seen": "2026-11-18T13:57:48+00:00",
+   "title": "Ads Quality Rater \u2013 J\u0119zyk polski (Polska)",
+   "org": "Welo Global",
+   "location": "Poland"
+  },
+  "full stack developer (frontend-focused) - brazil|brafton|brazil": {
+   "first_seen": "2026-11-18T13:57:48+00:00",
+   "last_seen": "2026-11-18T13:57:48+00:00",
+   "title": "Full Stack Developer (Frontend-Focused) - Brazil",
+   "org": "Brafton",
+   "location": "Brazil"
+  },
+  "software engineer|flex|brazil": {
+   "first_seen": "2026-11-18T13:57:48+00:00",
+   "last_seen": "2026-11-18T13:57:48+00:00",
+   "title": "Software Engineer",
+   "org": "Flex",
+   "location": "Brazil"
+  },
+  "strategic sourcing lead \u2013 fulfillment - argentina|appen|argentina, brazil, mexico, philippines": {
+   "first_seen": "2026-11-18T13:57:48+00:00",
+   "last_seen": "2026-11-18T13:57:48+00:00",
+   "title": "Strategic Sourcing Lead \u2013 Fulfillment - Argentina",
+   "org": "Appen",
+   "location": "Argentina, Brazil, Mexico, Philippines"
+  },
+  "enterprise account executive, growth - meta | remote | spain|grafana labs|spain": {
+   "first_seen": "2026-11-18T13:57:48+00:00",
+   "last_seen": "2026-11-18T13:57:48+00:00",
+   "title": "Enterprise Account Executive, Growth - META | Remote | Spain",
+   "org": "Grafana Labs",
+   "location": "Spain"
+  },
+  "deployment strategist, eastern europe|trm labs|emea": {
+   "first_seen": "2026-11-18T13:57:48+00:00",
+   "last_seen": "2026-11-18T13:57:48+00:00",
+   "title": "Deployment Strategist, Eastern Europe",
+   "org": "TRM Labs",
+   "location": "EMEA"
   }
  }
 }
