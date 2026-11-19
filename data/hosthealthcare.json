@@ -1,6 +1,6 @@
 {
  "source": "https://www.hosthealthcare.com/jobs/",
- "collected_at": "2026-11-19T13:05:33+00:00",
+ "collected_at": "2026-11-19T21:33:33+00:00",
  "jobs_on_board": 15,
  "new_this_run": 0,
  "total_tracked": 16,
@@ -45,15 +45,6 @@
    "title": "EEG Technologist",
    "location": "Houston, TX",
    "pay_amount": "6,212.5",
-   "pay_unit": "week",
-   "weeks": 13,
-   "kind": "travel",
-   "new_this_run": false
-  },
-  {
-   "title": "RN - Manager",
-   "location": "Palo Alto, CA",
-   "pay_amount": "5,035.0",
    "pay_unit": "week",
    "weeks": 13,
    "kind": "travel",
@@ -137,6 +128,15 @@
    "pay_amount": "4,409.1",
    "pay_unit": "week",
    "weeks": 20,
+   "kind": "travel",
+   "new_this_run": false
+  },
+  {
+   "title": "RN - PICU",
+   "location": "New Haven, CT",
+   "pay_amount": "4,250.6",
+   "pay_unit": "week",
+   "weeks": 6,
    "kind": "travel",
    "new_this_run": false
   }
@@ -261,18 +261,23 @@
    "at": "2026-11-19T13:05:33+00:00",
    "jobs": 15,
    "new": 0
+  },
+  {
+   "at": "2026-11-19T21:33:33+00:00",
+   "jobs": 15,
+   "new": 0
   }
  ],
  "jobs_seen": {
   "physical therapist - allied|seattle, wa": {
    "first_seen": "2026-11-15T09:21:04+00:00",
-   "last_seen": "2026-11-19T13:05:33+00:00",
+   "last_seen": "2026-11-19T21:33:33+00:00",
    "title": "Physical Therapist - Allied",
    "location": "Seattle, WA"
   },
   "crna|bigfork, mn": {
    "first_seen": "2026-11-15T09:21:04+00:00",
-   "last_seen": "2026-11-19T13:05:33+00:00",
+   "last_seen": "2026-11-19T21:33:33+00:00",
    "title": "CRNA",
    "location": "Bigfork, MN"
   },
@@ -290,13 +295,13 @@
   },
   "director of oncology - executive leadership|santa maria, ca": {
    "first_seen": "2026-11-15T09:21:04+00:00",
-   "last_seen": "2026-11-19T13:05:33+00:00",
+   "last_seen": "2026-11-19T21:33:33+00:00",
    "title": "Director of Oncology - Executive Leadership",
    "location": "Santa Maria, CA"
   },
   "director of periop services, cath lab, ekg|glendale, ca": {
    "first_seen": "2026-11-15T09:21:04+00:00",
-   "last_seen": "2026-11-19T13:05:33+00:00",
+   "last_seen": "2026-11-19T21:33:33+00:00",
    "title": "Director of Periop Services, Cath Lab, EKG",
    "location": "Glendale, CA"
   },
@@ -308,13 +313,13 @@
   },
   "cath lab tech|bakersfield, ca": {
    "first_seen": "2026-11-15T09:21:04+00:00",
-   "last_seen": "2026-11-19T13:05:33+00:00",
+   "last_seen": "2026-11-19T21:33:33+00:00",
    "title": "Cath Lab Tech",
    "location": "Bakersfield, CA"
   },
   "rn - picu|columbus, oh": {
    "first_seen": "2026-11-15T09:21:04+00:00",
-   "last_seen": "2026-11-19T13:05:33+00:00",
+   "last_seen": "2026-11-19T21:33:33+00:00",
    "title": "RN - PICU",
    "location": "Columbus, OH"
   },
@@ -338,25 +343,25 @@
   },
   "rn - operating room|denver, co": {
    "first_seen": "2026-11-17T03:53:05+00:00",
-   "last_seen": "2026-11-19T13:05:33+00:00",
+   "last_seen": "2026-11-19T21:33:33+00:00",
    "title": "RN - Operating Room",
    "location": "Denver, CO"
   },
   "rn - nurse educator|new york, ny": {
    "first_seen": "2026-11-17T22:23:59+00:00",
-   "last_seen": "2026-11-19T13:05:33+00:00",
+   "last_seen": "2026-11-19T21:33:33+00:00",
    "title": "RN - Nurse Educator",
    "location": "New York, NY"
   },
   "rn - picu|new haven, ct": {
    "first_seen": "2026-11-17T22:23:59+00:00",
-   "last_seen": "2026-11-18T21:56:22+00:00",
+   "last_seen": "2026-11-19T21:33:33+00:00",
    "title": "RN - PICU",
    "location": "New Haven, CT"
   },
   "eeg technologist|houston, tx": {
    "first_seen": "2026-11-19T03:27:09+00:00",
-   "last_seen": "2026-11-19T13:05:33+00:00",
+   "last_seen": "2026-11-19T21:33:33+00:00",
    "title": "EEG Technologist",
    "location": "Houston, TX"
   }

@@ -3,105 +3,105 @@
  "name": "Jobicy \u2014 remote jobs",
  "category": "jobs",
  "source": "https://jobicy.com/api/v2/remote-jobs",
- "collected_at": "2026-11-19T13:05:35+00:00",
+ "collected_at": "2026-11-19T21:33:35+00:00",
  "jobs_on_board": 50,
  "new_this_run": 50,
- "total_tracked": 465,
+ "total_tracked": 515,
  "jobs": [
   {
-   "title": "Mobile Application Developer - AI Finance Agent",
-   "org": "BJAK",
-   "location": "Sweden",
-   "detail": "Any",
-   "url": "https://jobicy.com/jobs/163239-mobile-application-developer-ai-finance-agent",
-   "new_this_run": true
-  },
-  {
-   "title": "Android Developer - AI Finance Agent",
-   "org": "BJAK",
-   "location": "Austria",
-   "detail": "Any",
-   "url": "https://jobicy.com/jobs/163238-android-developer-ai-finance-agent",
-   "new_this_run": true
-  },
-  {
-   "title": "UI Designer - AI Neobank App",
-   "org": "BJAK",
-   "location": "Germany",
-   "detail": "Any",
-   "url": "https://jobicy.com/jobs/163237-ui-designer-ai-neobank-app",
-   "new_this_run": true
-  },
-  {
-   "title": "Applied AI Engineer",
-   "org": "BJAK",
-   "location": "Austria",
-   "detail": "Any",
-   "url": "https://jobicy.com/jobs/163236-applied-ai-engineer-4",
-   "new_this_run": true
-  },
-  {
-   "title": "Savvy Commercial and Operations Senior Manager - UK/Poland",
-   "org": "Laminar Projects",
-   "location": "Poland, UK",
+   "title": "Senior Security Engineer | InfoSec",
+   "org": "Wellhub",
+   "location": "Brazil",
    "detail": "Senior",
-   "url": "https://jobicy.com/jobs/163235-savvy-commercial-and-operations-senior-manager-uk-poland",
+   "url": "https://jobicy.com/jobs/163373-senior-security-engineer-infosec",
    "new_this_run": true
   },
   {
-   "title": "Android Software Engineer - AI Finance Agent",
-   "org": "BJAK",
-   "location": "Sweden",
-   "detail": "Any",
-   "url": "https://jobicy.com/jobs/163234-android-software-engineer-ai-finance-agent",
+   "title": "Senior Business Operations Analyst | Revenue Assurance",
+   "org": "Wellhub",
+   "location": "Brazil",
+   "detail": "Senior",
+   "url": "https://jobicy.com/jobs/163371-senior-business-operations-analyst-revenue-assurance",
    "new_this_run": true
   },
   {
-   "title": "SIP Expert",
+   "title": "Senior Backend Software Engineer | Identity Experience",
+   "org": "Wellhub",
+   "location": "Brazil",
+   "detail": "Senior",
+   "url": "https://jobicy.com/jobs/163370-senior-backend-software-engineer-identity-experience",
+   "new_this_run": true
+  },
+  {
+   "title": "Programs Manager - Client Revenue Growth",
+   "org": "Wellhub",
+   "location": "Brazil",
+   "detail": "Director",
+   "url": "https://jobicy.com/jobs/163368-programs-manager-client-revenue-growth",
+   "new_this_run": true
+  },
+  {
+   "title": "Mid-level Software Engineer | Professional Services Engineering",
+   "org": "Wellhub",
+   "location": "Brazil",
+   "detail": "Senior",
+   "url": "https://jobicy.com/jobs/163367-mid-level-software-engineer-professional-services-engineering",
+   "new_this_run": true
+  },
+  {
+   "title": "HR Global Senior Manager of Benefits, Wellbeing & Mobility",
+   "org": "Wellhub",
+   "location": "Brazil",
+   "detail": "Director",
+   "url": "https://jobicy.com/jobs/163366-hr-global-senior-manager-of-benefits-wellbeing-mobility",
+   "new_this_run": true
+  },
+  {
+   "title": "Manager, Training and Enablement",
+   "org": "Cloudbeds",
+   "location": "LATAM, Canada, Europe, USA",
+   "detail": "Senior",
+   "url": "https://jobicy.com/jobs/163364-manager-training-and-enablement",
+   "new_this_run": true
+  },
+  {
+   "title": "Regional Sales Account Manager",
+   "org": "FreeBalance",
+   "location": "LATAM, USA",
+   "detail": "Director",
+   "url": "https://jobicy.com/jobs/163363-regional-sales-account-manager",
+   "new_this_run": true
+  },
+  {
+   "title": "Customer Recovery Coach",
+   "org": "Cloudbeds",
+   "location": "LATAM",
+   "detail": "Director",
+   "url": "https://jobicy.com/jobs/163362-customer-recovery-coach",
+   "new_this_run": true
+  },
+  {
+   "title": "Events Lead - Brazil and Latam",
    "org": "Elevenlabs",
-   "location": "Europe",
-   "detail": "Senior",
-   "url": "https://jobicy.com/jobs/163233-sip-expert",
+   "location": "Brazil",
+   "detail": "Director",
+   "url": "https://jobicy.com/jobs/163360-events-lead-brazil-and-latam",
    "new_this_run": true
   },
   {
-   "title": "Paid Media & Performance Marketing Manager (B2B) - 4 Day Week + Remote",
-   "org": "Laminar Projects",
-   "location": "Portugal, UK",
-   "detail": "Senior",
-   "url": "https://jobicy.com/jobs/163232-paid-media-performance-marketing-manager-b2b-4-day-week-remote",
-   "new_this_run": true
-  },
-  {
-   "title": "Clinical Trial Manager",
-   "org": "Precision Medicine Group",
-   "location": "Hungary, Poland, Romania, Serbia, Slovakia, Spain, UK",
-   "detail": "Senior",
-   "url": "https://jobicy.com/jobs/163231-clinical-trial-manager-4",
-   "new_this_run": true
-  },
-  {
-   "title": "Full Stack Software Engineer - AI Finance Agent",
-   "org": "BJAK",
-   "location": "Netherlands",
-   "detail": "Any",
-   "url": "https://jobicy.com/jobs/163230-full-stack-software-engineer-ai-finance-agent",
-   "new_this_run": true
-  },
-  {
-   "title": "Software Engineer - Agent Team",
-   "org": "Automox",
+   "title": "Compensation Manager",
+   "org": "6sense",
    "location": "USA",
-   "detail": "Senior",
-   "url": "https://jobicy.com/jobs/163229-software-engineer-agent-team",
+   "detail": "Director",
+   "url": "https://jobicy.com/jobs/163359-compensation-manager",
    "new_this_run": true
   },
   {
-   "title": "Security Analyst, Third-Party Ecosystem Risk Management",
-   "org": "Plaid",
+   "title": "Software Engineer II - Full Stack (Remote Eligible)",
+   "org": "Smartsheet",
    "location": "USA",
-   "detail": "Any",
-   "url": "https://jobicy.com/jobs/163227-security-analyst-third-party-ecosystem-risk-management",
+   "detail": "Entry-Level, Junior",
+   "url": "https://jobicy.com/jobs/163358-software-engineer-ii-full-stack-remote-eligible",
    "new_this_run": true
   }
  ],
@@ -193,6 +193,11 @@
   },
   {
    "at": "2026-11-19T13:05:35+00:00",
+   "jobs": 50,
+   "new": 50
+  },
+  {
+   "at": "2026-11-19T21:33:35+00:00",
    "jobs": 50,
    "new": 50
   }
@@ -3452,6 +3457,356 @@
    "title": "Assistant Manager, Fund Administration (Accounting)",
    "org": "Juniper Square",
    "location": "Canada, USA"
+  },
+  "senior security engineer | infosec|wellhub|brazil": {
+   "first_seen": "2026-11-19T21:33:35+00:00",
+   "last_seen": "2026-11-19T21:33:35+00:00",
+   "title": "Senior Security Engineer | InfoSec",
+   "org": "Wellhub",
+   "location": "Brazil"
+  },
+  "senior business operations analyst | revenue assurance|wellhub|brazil": {
+   "first_seen": "2026-11-19T21:33:35+00:00",
+   "last_seen": "2026-11-19T21:33:35+00:00",
+   "title": "Senior Business Operations Analyst | Revenue Assurance",
+   "org": "Wellhub",
+   "location": "Brazil"
+  },
+  "senior backend software engineer | identity experience|wellhub|brazil": {
+   "first_seen": "2026-11-19T21:33:35+00:00",
+   "last_seen": "2026-11-19T21:33:35+00:00",
+   "title": "Senior Backend Software Engineer | Identity Experience",
+   "org": "Wellhub",
+   "location": "Brazil"
+  },
+  "programs manager - client revenue growth|wellhub|brazil": {
+   "first_seen": "2026-11-19T21:33:35+00:00",
+   "last_seen": "2026-11-19T21:33:35+00:00",
+   "title": "Programs Manager - Client Revenue Growth",
+   "org": "Wellhub",
+   "location": "Brazil"
+  },
+  "mid-level software engineer | professional services engineering|wellhub|brazil": {
+   "first_seen": "2026-11-19T21:33:35+00:00",
+   "last_seen": "2026-11-19T21:33:35+00:00",
+   "title": "Mid-level Software Engineer | Professional Services Engineering",
+   "org": "Wellhub",
+   "location": "Brazil"
+  },
+  "hr global senior manager of benefits, wellbeing & mobility|wellhub|brazil": {
+   "first_seen": "2026-11-19T21:33:35+00:00",
+   "last_seen": "2026-11-19T21:33:35+00:00",
+   "title": "HR Global Senior Manager of Benefits, Wellbeing & Mobility",
+   "org": "Wellhub",
+   "location": "Brazil"
+  },
+  "manager, training and enablement|cloudbeds|latam, canada, europe, usa": {
+   "first_seen": "2026-11-19T21:33:35+00:00",
+   "last_seen": "2026-11-19T21:33:35+00:00",
+   "title": "Manager, Training and Enablement",
+   "org": "Cloudbeds",
+   "location": "LATAM, Canada, Europe, USA"
+  },
+  "regional sales account manager|freebalance|latam, usa": {
+   "first_seen": "2026-11-19T21:33:35+00:00",
+   "last_seen": "2026-11-19T21:33:35+00:00",
+   "title": "Regional Sales Account Manager",
+   "org": "FreeBalance",
+   "location": "LATAM, USA"
+  },
+  "customer recovery coach|cloudbeds|latam": {
+   "first_seen": "2026-11-19T21:33:35+00:00",
+   "last_seen": "2026-11-19T21:33:35+00:00",
+   "title": "Customer Recovery Coach",
+   "org": "Cloudbeds",
+   "location": "LATAM"
+  },
+  "events lead - brazil and latam|elevenlabs|brazil": {
+   "first_seen": "2026-11-19T21:33:35+00:00",
+   "last_seen": "2026-11-19T21:33:35+00:00",
+   "title": "Events Lead - Brazil and Latam",
+   "org": "Elevenlabs",
+   "location": "Brazil"
+  },
+  "compensation manager|6sense|usa": {
+   "first_seen": "2026-11-19T21:33:35+00:00",
+   "last_seen": "2026-11-19T21:33:35+00:00",
+   "title": "Compensation Manager",
+   "org": "6sense",
+   "location": "USA"
+  },
+  "software engineer ii - full stack (remote eligible)|smartsheet|usa": {
+   "first_seen": "2026-11-19T21:33:35+00:00",
+   "last_seen": "2026-11-19T21:33:35+00:00",
+   "title": "Software Engineer II - Full Stack (Remote Eligible)",
+   "org": "Smartsheet",
+   "location": "USA"
+  },
+  "navan premier, team lead|tripactions|usa": {
+   "first_seen": "2026-11-19T21:33:35+00:00",
+   "last_seen": "2026-11-19T21:33:35+00:00",
+   "title": "Navan Premier, Team Lead",
+   "org": "TripActions",
+   "location": "USA"
+  },
+  "revenue strategy & growth associate|clipboard|usa": {
+   "first_seen": "2026-11-19T21:33:35+00:00",
+   "last_seen": "2026-11-19T21:33:35+00:00",
+   "title": "Revenue Strategy & Growth Associate",
+   "org": "Clipboard",
+   "location": "USA"
+  },
+  "commercial account manager|collibra|usa": {
+   "first_seen": "2026-11-19T21:33:35+00:00",
+   "last_seen": "2026-11-19T21:33:35+00:00",
+   "title": "Commercial Account Manager",
+   "org": "Collibra",
+   "location": "USA"
+  },
+  "founding product engineer - listen labs|pear vc|usa": {
+   "first_seen": "2026-11-19T21:33:35+00:00",
+   "last_seen": "2026-11-19T21:33:35+00:00",
+   "title": "Founding Product Engineer - Listen Labs",
+   "org": "Pear VC",
+   "location": "USA"
+  },
+  "agency partnerships director|6sense|usa": {
+   "first_seen": "2026-11-19T21:33:35+00:00",
+   "last_seen": "2026-11-19T21:33:35+00:00",
+   "title": "Agency Partnerships Director",
+   "org": "6sense",
+   "location": "USA"
+  },
+  "director, revenue enablement - consultative skills enablement (remote eligible)|smartsheet|usa": {
+   "first_seen": "2026-11-19T21:33:35+00:00",
+   "last_seen": "2026-11-19T21:33:35+00:00",
+   "title": "Director, Revenue Enablement - Consultative Skills Enablement (Remote Eligible)",
+   "org": "Smartsheet",
+   "location": "USA"
+  },
+  "event travel manager|tripactions|usa": {
+   "first_seen": "2026-11-19T21:33:35+00:00",
+   "last_seen": "2026-11-19T21:33:35+00:00",
+   "title": "Event Travel Manager",
+   "org": "TripActions",
+   "location": "USA"
+  },
+  "customer success manager|clipboard|canada": {
+   "first_seen": "2026-11-19T21:33:35+00:00",
+   "last_seen": "2026-11-19T21:33:35+00:00",
+   "title": "Customer Success Manager",
+   "org": "Clipboard",
+   "location": "Canada"
+  },
+  "maritime safety & regulatory consultant|acutech group, inc.|usa": {
+   "first_seen": "2026-11-19T21:33:35+00:00",
+   "last_seen": "2026-11-19T21:33:35+00:00",
+   "title": "Maritime Safety & Regulatory Consultant",
+   "org": "AcuTech Group, Inc.",
+   "location": "USA"
+  },
+  "amer data analyst - sales strategy and operations|stripe|usa": {
+   "first_seen": "2026-11-19T21:33:35+00:00",
+   "last_seen": "2026-11-19T21:33:35+00:00",
+   "title": "AMER Data Analyst - Sales Strategy and Operations",
+   "org": "Stripe",
+   "location": "USA"
+  },
+  "tech lead manager, mid market & celebrity - latam|luxury presence|latam": {
+   "first_seen": "2026-11-19T21:33:35+00:00",
+   "last_seen": "2026-11-19T21:33:35+00:00",
+   "title": "Tech Lead Manager, Mid Market & Celebrity - LATAM",
+   "org": "Luxury Presence",
+   "location": "LATAM"
+  },
+  "hydrogen process safety engineers|acutech group, inc.|usa": {
+   "first_seen": "2026-11-19T21:33:35+00:00",
+   "last_seen": "2026-11-19T21:33:35+00:00",
+   "title": "Hydrogen Process Safety Engineers",
+   "org": "AcuTech Group, Inc.",
+   "location": "USA"
+  },
+  "account executive, product sales - tax|stripe|usa": {
+   "first_seen": "2026-11-19T21:33:35+00:00",
+   "last_seen": "2026-11-19T21:33:35+00:00",
+   "title": "Account Executive, Product Sales - Tax",
+   "org": "Stripe",
+   "location": "USA"
+  },
+  "manager, production quality|luxury presence|latam, usa": {
+   "first_seen": "2026-11-19T21:33:35+00:00",
+   "last_seen": "2026-11-19T21:33:35+00:00",
+   "title": "Manager, Production Quality",
+   "org": "Luxury Presence",
+   "location": "LATAM, USA"
+  },
+  "fire protection engineer|acutech group, inc.|usa": {
+   "first_seen": "2026-11-19T21:33:35+00:00",
+   "last_seen": "2026-11-19T21:33:35+00:00",
+   "title": "Fire Protection Engineer",
+   "org": "AcuTech Group, Inc.",
+   "location": "USA"
+  },
+  "benefits manager|veeam software|uk": {
+   "first_seen": "2026-11-19T21:33:35+00:00",
+   "last_seen": "2026-11-19T21:33:35+00:00",
+   "title": "Benefits Manager",
+   "org": "Veeam Software",
+   "location": "UK"
+  },
+  "creative director|luxury presence|usa": {
+   "first_seen": "2026-11-19T21:33:35+00:00",
+   "last_seen": "2026-11-19T21:33:35+00:00",
+   "title": "Creative Director",
+   "org": "Luxury Presence",
+   "location": "USA"
+  },
+  "chemicals supplier engagement specialist|valdera|mexico": {
+   "first_seen": "2026-11-19T21:33:35+00:00",
+   "last_seen": "2026-11-19T21:33:35+00:00",
+   "title": "Chemicals Supplier Engagement Specialist",
+   "org": "Valdera",
+   "location": "Mexico"
+  },
+  "embedded software leader|inspiren|canada, usa": {
+   "first_seen": "2026-11-19T21:33:35+00:00",
+   "last_seen": "2026-11-19T21:33:35+00:00",
+   "title": "Embedded Software Leader",
+   "org": "Inspiren",
+   "location": "Canada, USA"
+  },
+  "director of demand generation|help scout|usa": {
+   "first_seen": "2026-11-19T21:33:35+00:00",
+   "last_seen": "2026-11-19T21:33:35+00:00",
+   "title": "Director of Demand Generation",
+   "org": "Help Scout",
+   "location": "USA"
+  },
+  "chemical data scientist|valdera|usa": {
+   "first_seen": "2026-11-19T21:33:35+00:00",
+   "last_seen": "2026-11-19T21:33:35+00:00",
+   "title": "Chemical Data Scientist",
+   "org": "Valdera",
+   "location": "USA"
+  },
+  "staff software engineer - backend|inspiren|canada, usa": {
+   "first_seen": "2026-11-19T21:33:35+00:00",
+   "last_seen": "2026-11-19T21:33:35+00:00",
+   "title": "Staff Software Engineer - Backend",
+   "org": "Inspiren",
+   "location": "Canada, USA"
+  },
+  "growth partner account manager|defy security|usa": {
+   "first_seen": "2026-11-19T21:33:35+00:00",
+   "last_seen": "2026-11-19T21:33:35+00:00",
+   "title": "Growth Partner Account Manager",
+   "org": "Defy Security",
+   "location": "USA"
+  },
+  "strategic partner account manager|defy security|usa": {
+   "first_seen": "2026-11-19T21:33:35+00:00",
+   "last_seen": "2026-11-19T21:33:35+00:00",
+   "title": "Strategic Partner Account Manager",
+   "org": "Defy Security",
+   "location": "USA"
+  },
+  "enterprise account executive cybersecurity|defy security|usa": {
+   "first_seen": "2026-11-19T21:33:35+00:00",
+   "last_seen": "2026-11-19T21:33:35+00:00",
+   "title": "Enterprise Account Executive Cybersecurity",
+   "org": "Defy Security",
+   "location": "USA"
+  },
+  "senior software engineer|r/ga|argentina": {
+   "first_seen": "2026-11-19T21:33:35+00:00",
+   "last_seen": "2026-11-19T21:33:35+00:00",
+   "title": "Senior Software Engineer",
+   "org": "R/GA",
+   "location": "Argentina"
+  },
+  "head of sales, smb|atomic|usa": {
+   "first_seen": "2026-11-19T21:33:35+00:00",
+   "last_seen": "2026-11-19T21:33:35+00:00",
+   "title": "Head of Sales, SMB",
+   "org": "Atomic",
+   "location": "USA"
+  },
+  "senior manager, strategic accounts asia|twilio|singapore": {
+   "first_seen": "2026-11-19T21:33:35+00:00",
+   "last_seen": "2026-11-19T21:33:35+00:00",
+   "title": "Senior Manager, Strategic Accounts Asia",
+   "org": "Twilio",
+   "location": "Singapore"
+  },
+  "onboarding expert|clipboard|apac": {
+   "first_seen": "2026-11-19T21:33:35+00:00",
+   "last_seen": "2026-11-19T21:33:35+00:00",
+   "title": "Onboarding Expert",
+   "org": "Clipboard",
+   "location": "APAC"
+  },
+  "senior account executive|twilio|singapore": {
+   "first_seen": "2026-11-19T21:33:35+00:00",
+   "last_seen": "2026-11-19T21:33:35+00:00",
+   "title": "Senior Account Executive",
+   "org": "Twilio",
+   "location": "Singapore"
+  },
+  "site reliability engineer (australia, remote)|axon|australia": {
+   "first_seen": "2026-11-19T21:33:35+00:00",
+   "last_seen": "2026-11-19T21:33:35+00:00",
+   "title": "Site Reliability Engineer (Australia, Remote)",
+   "org": "Axon",
+   "location": "Australia"
+  },
+  "strategic enterprise account executive (sydney or melbourne)|gitlab|australia": {
+   "first_seen": "2026-11-19T21:33:35+00:00",
+   "last_seen": "2026-11-19T21:33:35+00:00",
+   "title": "Strategic Enterprise Account Executive (Sydney or Melbourne)",
+   "org": "GitLab",
+   "location": "Australia"
+  },
+  "customer success engineer, singapore|gitlab|singapore": {
+   "first_seen": "2026-11-19T21:33:35+00:00",
+   "last_seen": "2026-11-19T21:33:35+00:00",
+   "title": "Customer Success Engineer, Singapore",
+   "org": "GitLab",
+   "location": "Singapore"
+  },
+  "customer success architect, australia|gitlab|australia": {
+   "first_seen": "2026-11-19T21:33:35+00:00",
+   "last_seen": "2026-11-19T21:33:35+00:00",
+   "title": "Customer Success Architect, Australia",
+   "org": "GitLab",
+   "location": "Australia"
+  },
+  "coordinator, legal support (part-time)|cogstate|australia": {
+   "first_seen": "2026-11-19T21:33:35+00:00",
+   "last_seen": "2026-11-19T21:33:35+00:00",
+   "title": "Coordinator, Legal Support (Part-Time)",
+   "org": "Cogstate",
+   "location": "Australia"
+  },
+  "senior global tax specialist|thumbtack|philippines": {
+   "first_seen": "2026-11-19T21:33:35+00:00",
+   "last_seen": "2026-11-19T21:33:35+00:00",
+   "title": "Senior Global Tax Specialist",
+   "org": "Thumbtack",
+   "location": "Philippines"
+  },
+  "regional sales manager|cribl|australia": {
+   "first_seen": "2026-11-19T21:33:35+00:00",
+   "last_seen": "2026-11-19T21:33:35+00:00",
+   "title": "Regional Sales Manager",
+   "org": "Cribl",
+   "location": "Australia"
+  },
+  "senior tax manager|payoneer|usa": {
+   "first_seen": "2026-11-19T21:33:35+00:00",
+   "last_seen": "2026-11-19T21:33:35+00:00",
+   "title": "Senior Tax Manager",
+   "org": "Payoneer",
+   "location": "USA"
   }
  }
 }

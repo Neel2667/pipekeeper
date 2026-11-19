@@ -3,104 +3,104 @@
  "name": "Himalayas \u2014 remote jobs",
  "category": "jobs",
  "source": "https://himalayas.app/jobs/api",
- "collected_at": "2026-11-19T13:05:36+00:00",
+ "collected_at": "2026-11-19T21:33:35+00:00",
  "jobs_on_board": 20,
  "new_this_run": 20,
- "total_tracked": 319,
+ "total_tracked": 339,
  "jobs": [
   {
-   "title": "Senior Director \u2013 Software Product Management, LillyDirect International",
-   "org": "Lifelancer",
-   "location": "United States",
-   "detail": "$163,500\u2013$275,000/a",
+   "title": "Senior Key Account Manager - iGaming B2B",
+   "org": "Oddin",
+   "location": "Albania, Andorra, Austria, Belarus, Belgium, Bosnia and Herzegovina, Bulgaria, Croatia, Cyprus, Czechia, Denmark, Estonia, Faroe Islands, Finland, France, Germany, Gibraltar, Greece, Guernsey, Holy See (Vatican City State), Hungary, Iceland",
+   "detail": "Contractor",
    "url": null,
    "new_this_run": true
   },
   {
-   "title": "Freelance or permanent - SAP FIORI/ABAP Developer (Medior)",
-   "org": "EngiFlex",
-   "location": "Belgium",
+   "title": "Lead Specialist, Partnership Management",
+   "org": "Pearson",
+   "location": "United States",
+   "detail": "$110,000\u2013$135,000/a",
+   "url": null,
+   "new_this_run": true
+  },
+  {
+   "title": "Catastrophe Claims Examiner III",
+   "org": "California FAIR Plan Association",
+   "location": "United States",
+   "detail": "$46\u2013$51/h",
+   "url": null,
+   "new_this_run": true
+  },
+  {
+   "title": "Graphic Designer \u2013 US Social Media & E-commerce",
+   "org": "Lux Decor Collection",
+   "location": "Pakistan",
    "detail": "Full Time",
    "url": null,
    "new_this_run": true
   },
   {
-   "title": "Project Manager Specialist",
-   "org": "BayWa r.e. Solar Distribution / US",
+   "title": "Retirement Sales Consultant - Large Market",
+   "org": "Empower",
    "location": "United States",
-   "detail": "$60,000\u2013$70,000/a",
+   "detail": "$59,500\u2013$80,500/a",
    "url": null,
    "new_this_run": true
   },
   {
-   "title": "Manager, Communications - REMOTE (Cranberry Township, US)",
-   "org": "Westinghouse Electric Company",
-   "location": "United States",
-   "detail": "$112,400\u2013$140,500/a",
-   "url": null,
-   "new_this_run": true
-  },
-  {
-   "title": "Senior/Principal Technical Product Manager",
-   "org": "Nava",
-   "location": "United States",
-   "detail": "$153,000\u2013$173,700/a",
-   "url": null,
-   "new_this_run": true
-  },
-  {
-   "title": "Associate Underwriter, Small Business Construction, (2 positions), Remote",
-   "org": "Crum & Forster",
-   "location": "United States",
-   "detail": "$46,000\u2013$86,500/a",
-   "url": null,
-   "new_this_run": true
-  },
-  {
-   "title": "Site Reliability Specialist II (Linux/AWS/Monitoring)",
-   "org": "Intelerad",
-   "location": "United States",
-   "detail": "$82,500\u2013$110,000/a",
-   "url": null,
-   "new_this_run": true
-  },
-  {
-   "title": "Help Desk Technician",
-   "org": "Encoreautoclave",
-   "location": "United States",
-   "detail": "$25,000\u2013$75,000/a",
-   "url": null,
-   "new_this_run": true
-  },
-  {
-   "title": "Freelance of vast - Functioneel Analist, Testco\u00f6rdinator en Scrum Master",
-   "org": "EngiFlex",
-   "location": "Belgium",
+   "title": "Accountant CPA",
+   "org": "Teamified",
+   "location": "Australia",
    "detail": "Full Time",
    "url": null,
    "new_this_run": true
   },
   {
-   "title": "Web Developer (PHP & JavaScript)",
-   "org": "Eclipse Foundation, Inc.",
-   "location": "Belgium, Canada, France, Germany, Italy, Portugal, Spain",
-   "detail": "$75,000\u2013$95,000/a",
+   "title": "Software Engineer, Dash",
+   "org": "Liftoff LLC",
+   "location": "United States",
+   "detail": "$180,000\u2013$260,000/a",
    "url": null,
    "new_this_run": true
   },
   {
-   "title": "Senior Digital Donor Specialist",
-   "org": "Earthworks",
-   "location": "United States",
-   "detail": "$80,000\u2013$85,000/a",
+   "title": "Product Security Expert",
+   "org": "LUZA Group",
+   "location": "Portugal",
+   "detail": "Full Time",
    "url": null,
    "new_this_run": true
   },
   {
-   "title": "Lead Technical Analyst (Remote, US)",
-   "org": "CenturyLink",
+   "title": "UX/UI Designer",
+   "org": "Pavago",
+   "location": "South Africa",
+   "detail": "Full Time",
+   "url": null,
+   "new_this_run": true
+  },
+  {
+   "title": "Associate Pricing Analyst",
+   "org": "Menasha Corporation",
    "location": "United States",
-   "detail": "$84,629\u2013$124,122/a",
+   "detail": "Full Time",
+   "url": null,
+   "new_this_run": true
+  },
+  {
+   "title": "Experienced Arabic (Jordan) Translators (Marketing)",
+   "org": "Language Bear",
+   "location": "Jordan",
+   "detail": "Full Time",
+   "url": null,
+   "new_this_run": true
+  },
+  {
+   "title": "Senior iOS Developer",
+   "org": "Airalo",
+   "location": "Spain, United Kingdom",
+   "detail": "$91,600\u2013$137,400/a",
    "url": null,
    "new_this_run": true
   }
@@ -193,6 +193,11 @@
   },
   {
    "at": "2026-11-19T13:05:36+00:00",
+   "jobs": 20,
+   "new": 20
+  },
+  {
+   "at": "2026-11-19T21:33:35+00:00",
    "jobs": 20,
    "new": 20
   }
@@ -2430,6 +2435,146 @@
    "title": "Business Manager - Dairy",
    "org": "Animal Nutrition & Health Nederland B.V.",
    "location": "India"
+  },
+  "senior key account manager - igaming b2b|oddin|albania, andorra, austria, belarus, belgium, bosnia and herzegovina, bulgaria, croatia, cyprus, czechia, denmark, estoni": {
+   "first_seen": "2026-11-19T21:33:35+00:00",
+   "last_seen": "2026-11-19T21:33:35+00:00",
+   "title": "Senior Key Account Manager - iGaming B2B",
+   "org": "Oddin",
+   "location": "Albania, Andorra, Austria, Belarus, Belgium, Bosnia and Herzegovina, Bulgaria, Croatia, Cyprus, Czechia, Denmark, Estonia, Faroe Islands, Finland, France, Germany, Gibraltar, Greece, Guernsey, Holy See (Vatican City State), Hungary, Iceland"
+  },
+  "lead specialist, partnership management|pearson|united states": {
+   "first_seen": "2026-11-19T21:33:35+00:00",
+   "last_seen": "2026-11-19T21:33:35+00:00",
+   "title": "Lead Specialist, Partnership Management",
+   "org": "Pearson",
+   "location": "United States"
+  },
+  "catastrophe claims examiner iii|california fair plan association|united states": {
+   "first_seen": "2026-11-19T21:33:35+00:00",
+   "last_seen": "2026-11-19T21:33:35+00:00",
+   "title": "Catastrophe Claims Examiner III",
+   "org": "California FAIR Plan Association",
+   "location": "United States"
+  },
+  "graphic designer \u2013 us social media & e-commerce|lux decor collection|pakistan": {
+   "first_seen": "2026-11-19T21:33:35+00:00",
+   "last_seen": "2026-11-19T21:33:35+00:00",
+   "title": "Graphic Designer \u2013 US Social Media & E-commerce",
+   "org": "Lux Decor Collection",
+   "location": "Pakistan"
+  },
+  "retirement sales consultant - large market|empower|united states": {
+   "first_seen": "2026-11-19T21:33:35+00:00",
+   "last_seen": "2026-11-19T21:33:35+00:00",
+   "title": "Retirement Sales Consultant - Large Market",
+   "org": "Empower",
+   "location": "United States"
+  },
+  "accountant cpa|teamified|australia": {
+   "first_seen": "2026-11-19T21:33:35+00:00",
+   "last_seen": "2026-11-19T21:33:35+00:00",
+   "title": "Accountant CPA",
+   "org": "Teamified",
+   "location": "Australia"
+  },
+  "software engineer, dash|liftoff llc|united states": {
+   "first_seen": "2026-11-19T21:33:35+00:00",
+   "last_seen": "2026-11-19T21:33:35+00:00",
+   "title": "Software Engineer, Dash",
+   "org": "Liftoff LLC",
+   "location": "United States"
+  },
+  "product security expert|luza group|portugal": {
+   "first_seen": "2026-11-19T21:33:35+00:00",
+   "last_seen": "2026-11-19T21:33:35+00:00",
+   "title": "Product Security Expert",
+   "org": "LUZA Group",
+   "location": "Portugal"
+  },
+  "ux/ui designer|pavago|south africa": {
+   "first_seen": "2026-11-19T21:33:35+00:00",
+   "last_seen": "2026-11-19T21:33:35+00:00",
+   "title": "UX/UI Designer",
+   "org": "Pavago",
+   "location": "South Africa"
+  },
+  "associate pricing analyst|menasha corporation|united states": {
+   "first_seen": "2026-11-19T21:33:35+00:00",
+   "last_seen": "2026-11-19T21:33:35+00:00",
+   "title": "Associate Pricing Analyst",
+   "org": "Menasha Corporation",
+   "location": "United States"
+  },
+  "experienced arabic (jordan) translators (marketing)|language bear|jordan": {
+   "first_seen": "2026-11-19T21:33:35+00:00",
+   "last_seen": "2026-11-19T21:33:35+00:00",
+   "title": "Experienced Arabic (Jordan) Translators (Marketing)",
+   "org": "Language Bear",
+   "location": "Jordan"
+  },
+  "senior ios developer|airalo|spain, united kingdom": {
+   "first_seen": "2026-11-19T21:33:35+00:00",
+   "last_seen": "2026-11-19T21:33:35+00:00",
+   "title": "Senior iOS Developer",
+   "org": "Airalo",
+   "location": "Spain, United Kingdom"
+  },
+  "strategic events manager, apj|abnormal security|singapore": {
+   "first_seen": "2026-11-19T21:33:35+00:00",
+   "last_seen": "2026-11-19T21:33:35+00:00",
+   "title": "Strategic Events Manager, APJ",
+   "org": "Abnormal Security",
+   "location": "Singapore"
+  },
+  "rtsm manager - validation and testing|lifelancer|croatia": {
+   "first_seen": "2026-11-19T21:33:35+00:00",
+   "last_seen": "2026-11-19T21:33:35+00:00",
+   "title": "RTSM Manager - Validation and Testing",
+   "org": "Lifelancer",
+   "location": "Croatia"
+  },
+  "communications & public relations manager|aliaxis|united states": {
+   "first_seen": "2026-11-19T21:33:35+00:00",
+   "last_seen": "2026-11-19T21:33:35+00:00",
+   "title": "Communications & Public Relations Manager",
+   "org": "Aliaxis",
+   "location": "United States"
+  },
+  "legal expert (copyright law) \u2013 remote (us)|remotejobsone|united states": {
+   "first_seen": "2026-11-19T21:33:35+00:00",
+   "last_seen": "2026-11-19T21:33:35+00:00",
+   "title": "Legal Expert (Copyright Law) \u2013 Remote (US)",
+   "org": "RemoteJobsOne",
+   "location": "United States"
+  },
+  "local qa tester-mexico|solvero group|mexico": {
+   "first_seen": "2026-11-19T21:33:35+00:00",
+   "last_seen": "2026-11-19T21:33:35+00:00",
+   "title": "Local QA Tester-Mexico",
+   "org": "Solvero Group",
+   "location": "Mexico"
+  },
+  "change management director \u2013 insurance & investments|thehivecareers|antigua and barbuda": {
+   "first_seen": "2026-11-19T21:33:35+00:00",
+   "last_seen": "2026-11-19T21:33:35+00:00",
+   "title": "Change Management Director \u2013 Insurance & Investments",
+   "org": "TheHiveCareers",
+   "location": "Antigua and Barbuda"
+  },
+  "social media marketing specialist (russian speaking) \u2013 remote emea|rmg talent|afghanistan, albania, algeria, andorra, angola, antarctica, armenia, austria, azerbaijan, bahrain, belarus, belgium, ben": {
+   "first_seen": "2026-11-19T21:33:35+00:00",
+   "last_seen": "2026-11-19T21:33:35+00:00",
+   "title": "Social Media Marketing Specialist (Russian speaking) \u2013 Remote EMEA",
+   "org": "RMG Talent",
+   "location": "Afghanistan, Albania, Algeria, Andorra, Angola, Antarctica, Armenia, Austria, Azerbaijan, Bahrain, Belarus, Belgium, Benin, Bosnia and Herzegovina, Botswana, Bouvet Island, Bulgaria, Burkina Faso, Burundi, Cabo Verde, Cameroon, Central Afri"
+  },
+  "joinery estimator|boomering inc|philippines": {
+   "first_seen": "2026-11-19T21:33:35+00:00",
+   "last_seen": "2026-11-19T21:33:35+00:00",
+   "title": "Joinery Estimator",
+   "org": "Boomering Inc",
+   "location": "Philippines"
   }
  }
 }

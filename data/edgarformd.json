@@ -3,10 +3,10 @@
  "name": "SEC EDGAR \u2014 new private funding rounds (Form D, 7 days)",
  "category": "funding",
  "source": "https://efts.sec.gov/LATEST/search-index",
- "collected_at": "2026-11-19T13:05:38+00:00",
- "jobs_on_board": 8,
- "new_this_run": 0,
- "total_tracked": 14,
+ "collected_at": "2026-11-19T21:33:38+00:00",
+ "jobs_on_board": 12,
+ "new_this_run": 4,
+ "total_tracked": 18,
  "jobs": [
   {
    "title": "Palomma Holdings Ltd raised (Form D)",
@@ -33,12 +33,36 @@
    "new_this_run": false
   },
   {
+   "title": "International Environmental Standards, PBC raised (Form D)",
+   "org": "International Environmental Standards, PBC",
+   "location": "Denver, CO",
+   "detail": "SEC Form D \u00b7 filed 2026-11-19",
+   "url": "https://www.sec.gov/Archives/edgar/data/1825256/000182525626000001/0001825256-26-000001-index.htm",
+   "new_this_run": true
+  },
+  {
    "title": "Bridge33 Real Estate Partners IV (QC) LP raised (Form D)",
    "org": "Bridge33 Real Estate Partners IV (QC) LP",
    "location": "Seattle, WA",
    "detail": "SEC Form D \u00b7 filed 2026-11-12",
    "url": "https://www.sec.gov/Archives/edgar/data/2134312/000213431226000001/0002134312-26-000001-index.htm",
    "new_this_run": false
+  },
+  {
+   "title": "Rochefort Virtus 9 Co-Investment Fund LP raised (Form D)",
+   "org": "Rochefort Virtus 9 Co-Investment Fund LP",
+   "location": "West Palm Beach, FL",
+   "detail": "SEC Form D \u00b7 filed 2026-11-19",
+   "url": "https://www.sec.gov/Archives/edgar/data/2163350/000216335026000001/0002163350-26-000001-index.htm",
+   "new_this_run": true
+  },
+  {
+   "title": "Extend Enterprises, Inc. raised (Form D)",
+   "org": "Extend Enterprises, Inc.",
+   "location": "New York, NY",
+   "detail": "SEC Form D \u00b7 filed 2026-11-19",
+   "url": "https://www.sec.gov/Archives/edgar/data/1721186/000123191926001615/0001231919-26-001615-index.htm",
+   "new_this_run": true
   },
   {
    "title": "USPD Grand Cayman Opportunity Fund LLC raised (Form D)",
@@ -71,6 +95,14 @@
    "detail": "SEC Form D \u00b7 filed 2026-11-18",
    "url": "https://www.sec.gov/Archives/edgar/data/2131865/000106299326006173/0001062993-26-006173-index.htm",
    "new_this_run": false
+  },
+  {
+   "title": "Peachtree Credit Fund IV, LP raised (Form D)",
+   "org": "Peachtree Credit Fund IV, LP",
+   "location": "Atlanta, GA",
+   "detail": "SEC Form D \u00b7 filed 2026-11-19",
+   "url": "https://www.sec.gov/Archives/edgar/data/2039128/000203912826000024/0002039128-26-000024-index.htm",
+   "new_this_run": true
   }
  ],
  "runs": [
@@ -163,19 +195,24 @@
    "at": "2026-11-19T13:05:38+00:00",
    "jobs": 8,
    "new": 0
+  },
+  {
+   "at": "2026-11-19T21:33:38+00:00",
+   "jobs": 12,
+   "new": 4
   }
  ],
  "jobs_seen": {
   "palomma holdings ltd raised (form d)|palomma holdings ltd|medellin": {
    "first_seen": "2026-11-15T10:13:46+00:00",
-   "last_seen": "2026-11-19T13:05:38+00:00",
+   "last_seen": "2026-11-19T21:33:38+00:00",
    "title": "Palomma Holdings Ltd raised (Form D)",
    "org": "Palomma Holdings Ltd",
    "location": "Medellin"
   },
   "bridge33 real estate partners iv (qp) lp raised (form d)|bridge33 real estate partners iv (qp) lp|seattle, wa": {
    "first_seen": "2026-11-15T10:13:46+00:00",
-   "last_seen": "2026-11-19T13:05:38+00:00",
+   "last_seen": "2026-11-19T21:33:38+00:00",
    "title": "Bridge33 Real Estate Partners IV (QP) LP raised (Form D)",
    "org": "Bridge33 Real Estate Partners IV (QP) LP",
    "location": "Seattle, WA"
@@ -196,7 +233,7 @@
   },
   "bridge33 real estate partners iv (qc) lp raised (form d)|bridge33 real estate partners iv (qc) lp|seattle, wa": {
    "first_seen": "2026-11-15T10:13:46+00:00",
-   "last_seen": "2026-11-19T13:05:38+00:00",
+   "last_seen": "2026-11-19T21:33:38+00:00",
    "title": "Bridge33 Real Estate Partners IV (QC) LP raised (Form D)",
    "org": "Bridge33 Real Estate Partners IV (QC) LP",
    "location": "Seattle, WA"
@@ -217,7 +254,7 @@
   },
   "nextech3d.ai corp. (nexcf) raised (form d)|nextech3d.ai corp. (nexcf)|toronto, a6": {
    "first_seen": "2026-11-15T10:13:46+00:00",
-   "last_seen": "2026-11-19T13:05:38+00:00",
+   "last_seen": "2026-11-19T21:33:38+00:00",
    "title": "Nextech3D.AI Corp. (NEXCF) raised (Form D)",
    "org": "Nextech3D.AI Corp. (NEXCF)",
    "location": "Toronto, A6"
@@ -231,7 +268,7 @@
   },
   "hydrofarm holdings group, inc. (hyfm) raised (form d)|hydrofarm holdings group, inc. (hyfm)|shoemakersville, pa": {
    "first_seen": "2026-11-15T10:13:46+00:00",
-   "last_seen": "2026-11-19T13:05:38+00:00",
+   "last_seen": "2026-11-19T21:33:38+00:00",
    "title": "HYDROFARM HOLDINGS GROUP, INC. (HYFM) raised (Form D)",
    "org": "HYDROFARM HOLDINGS GROUP, INC. (HYFM)",
    "location": "Shoemakersville, PA"
@@ -245,24 +282,52 @@
   },
   "knollwood frontier, lp raised (form d)|knollwood frontier, lp|hunt valley, md": {
    "first_seen": "2026-11-16T20:29:26+00:00",
-   "last_seen": "2026-11-19T13:05:38+00:00",
+   "last_seen": "2026-11-19T21:33:38+00:00",
    "title": "Knollwood Frontier, LP raised (Form D)",
    "org": "Knollwood Frontier, LP",
    "location": "Hunt Valley, MD"
   },
   "uspd grand cayman opportunity fund llc raised (form d)|uspd grand cayman opportunity fund llc|fort worth, tx": {
    "first_seen": "2026-11-17T22:24:02+00:00",
-   "last_seen": "2026-11-19T13:05:38+00:00",
+   "last_seen": "2026-11-19T21:33:38+00:00",
    "title": "USPD Grand Cayman Opportunity Fund LLC raised (Form D)",
    "org": "USPD Grand Cayman Opportunity Fund LLC",
    "location": "Fort Worth, TX"
   },
   "vesalius longevity labs inc. raised (form d)|vesalius longevity labs inc.|vancouver": {
    "first_seen": "2026-11-18T21:56:26+00:00",
-   "last_seen": "2026-11-19T13:05:38+00:00",
+   "last_seen": "2026-11-19T21:33:38+00:00",
    "title": "Vesalius Longevity Labs Inc. raised (Form D)",
    "org": "Vesalius Longevity Labs Inc.",
    "location": "Vancouver"
+  },
+  "international environmental standards, pbc raised (form d)|international environmental standards, pbc|denver, co": {
+   "first_seen": "2026-11-19T21:33:38+00:00",
+   "last_seen": "2026-11-19T21:33:38+00:00",
+   "title": "International Environmental Standards, PBC raised (Form D)",
+   "org": "International Environmental Standards, PBC",
+   "location": "Denver, CO"
+  },
+  "rochefort virtus 9 co-investment fund lp raised (form d)|rochefort virtus 9 co-investment fund lp|west palm beach, fl": {
+   "first_seen": "2026-11-19T21:33:38+00:00",
+   "last_seen": "2026-11-19T21:33:38+00:00",
+   "title": "Rochefort Virtus 9 Co-Investment Fund LP raised (Form D)",
+   "org": "Rochefort Virtus 9 Co-Investment Fund LP",
+   "location": "West Palm Beach, FL"
+  },
+  "extend enterprises, inc. raised (form d)|extend enterprises, inc.|new york, ny": {
+   "first_seen": "2026-11-19T21:33:38+00:00",
+   "last_seen": "2026-11-19T21:33:38+00:00",
+   "title": "Extend Enterprises, Inc. raised (Form D)",
+   "org": "Extend Enterprises, Inc.",
+   "location": "New York, NY"
+  },
+  "peachtree credit fund iv, lp raised (form d)|peachtree credit fund iv, lp|atlanta, ga": {
+   "first_seen": "2026-11-19T21:33:38+00:00",
+   "last_seen": "2026-11-19T21:33:38+00:00",
+   "title": "Peachtree Credit Fund IV, LP raised (Form D)",
+   "org": "Peachtree Credit Fund IV, LP",
+   "location": "Atlanta, GA"
   }
  }
 }
