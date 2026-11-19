@@ -3,105 +3,105 @@
  "name": "Federal Register \u2014 newest federal documents",
  "category": "government",
  "source": "https://www.federalregister.gov",
- "collected_at": "2026-11-19T03:27:15+00:00",
+ "collected_at": "2026-11-19T13:05:40+00:00",
  "jobs_on_board": 100,
- "new_this_run": 0,
- "total_tracked": 273,
+ "new_this_run": 77,
+ "total_tracked": 350,
  "jobs": [
   {
-   "title": "Airworthiness Directives; BRP-Rotax GmbH & Co KG (Formerly BRP-POWERTRAIN GMBH & CO KG and Bombardier-Rotax GmbH) Engines",
+   "title": "Airworthiness Directives; General Atomics AeroTec Systems GmbH (Type Certificate Previously Held by RUAG Aerospace Services GmbH) Airplanes",
    "org": "Transportation Department, Federal Aviation Administration",
    "location": null,
-   "detail": "Rule \u00b7 published 2026-11-18",
-   "url": "https://www.federalregister.gov/documents/2026/11/18/C1-2026-22307/airworthiness-directives-brp-rotax-gmbh-and-co-kg-formerly-brp-powertrain-gmbh-and-co-kg-and",
-   "new_this_run": false
+   "detail": "Rule \u00b7 published 2026-11-19",
+   "url": "https://www.federalregister.gov/documents/2026/11/19/2026-23633/airworthiness-directives-general-atomics-aerotec-systems-gmbh-type-certificate-previously-held-by",
+   "new_this_run": true
   },
   {
-   "title": "Racial Nondiscrimination in Private Schools; Hearing",
-   "org": "Treasury Department, Internal Revenue Service",
+   "title": "Complaint",
+   "org": "Postal Regulatory Commission",
    "location": null,
-   "detail": "Proposed Rule \u00b7 published 2026-11-18",
-   "url": "https://www.federalregister.gov/documents/2026/11/18/2026-23533/racial-nondiscrimination-in-private-schools-hearing",
-   "new_this_run": false
+   "detail": "Notice \u00b7 published 2026-11-19",
+   "url": "https://www.federalregister.gov/documents/2026/11/19/2026-23618/complaint",
+   "new_this_run": true
   },
   {
-   "title": "Automatic Enrollment Requirements Under Section 414A",
-   "org": "Treasury Department, Internal Revenue Service",
+   "title": "Health and Human Services Acquisition Regulations; Correction",
+   "org": "Health and Human Services Department",
    "location": null,
-   "detail": "Rule \u00b7 published 2026-11-18",
-   "url": "https://www.federalregister.gov/documents/2026/11/18/2026-23530/automatic-enrollment-requirements-under-section-414a",
-   "new_this_run": false
+   "detail": "Rule \u00b7 published 2026-11-19",
+   "url": "https://www.federalregister.gov/documents/2026/11/19/2026-23617/health-and-human-services-acquisition-regulations-correction",
+   "new_this_run": true
   },
   {
-   "title": "Sunshine Act Meetings",
-   "org": "Legal Services Corporation",
+   "title": "Privacy Act of 1974; Matching Program",
+   "org": "Education Department",
    "location": null,
-   "detail": "Notice \u00b7 published 2026-11-18",
-   "url": "https://www.federalregister.gov/documents/2026/11/18/2026-23527/sunshine-act-meetings",
-   "new_this_run": false
+   "detail": "Notice \u00b7 published 2026-11-19",
+   "url": "https://www.federalregister.gov/documents/2026/11/19/2026-23616/privacy-act-of-1974-matching-program",
+   "new_this_run": true
   },
   {
-   "title": "Accepted Means of Compliance; Airworthiness Standards: Normal Category Airplanes",
+   "title": "Aquatic Nuisance Species Task Force Meeting",
+   "org": "Interior Department, Fish and Wildlife Service",
+   "location": null,
+   "detail": "Notice \u00b7 published 2026-11-19",
+   "url": "https://www.federalregister.gov/documents/2026/11/19/2026-23615/aquatic-nuisance-species-task-force-meeting",
+   "new_this_run": true
+  },
+  {
+   "title": "Customer Due Diligence Requirements for Covered Financial Institutions",
+   "org": "Treasury Department, Financial Crimes Enforcement Network",
+   "location": null,
+   "detail": "Proposed Rule \u00b7 published 2026-11-19",
+   "url": "https://www.federalregister.gov/documents/2026/11/19/2026-23614/customer-due-diligence-requirements-for-covered-financial-institutions",
+   "new_this_run": true
+  },
+  {
+   "title": "Agency Information Collection Activities: Request for Comments for a New Information Collection",
+   "org": "Transportation Department, Federal Highway Administration",
+   "location": null,
+   "detail": "Notice \u00b7 published 2026-11-19",
+   "url": "https://www.federalregister.gov/documents/2026/11/19/2026-23613/agency-information-collection-activities-request-for-comments-for-a-new-information-collection",
+   "new_this_run": true
+  },
+  {
+   "title": "Agency Information Collection Activities: Requests for Comments; Clearance of Renewed Approval of Information Collection: Monitoring, Reporting, and Verification (MRV) Program for Annex 16, Volume IV of the Convention on Civil Aviation",
    "org": "Transportation Department, Federal Aviation Administration",
    "location": null,
-   "detail": "Rule \u00b7 published 2026-11-18",
-   "url": "https://www.federalregister.gov/documents/2026/11/18/2026-23525/accepted-means-of-compliance-airworthiness-standards-normal-category-airplanes",
-   "new_this_run": false
+   "detail": "Notice \u00b7 published 2026-11-19",
+   "url": "https://www.federalregister.gov/documents/2026/11/19/2026-23612/agency-information-collection-activities-requests-for-comments-clearance-of-renewed-approval-of",
+   "new_this_run": true
   },
   {
-   "title": "Protecting Consumers From SIM-Swap and Port-Out Fraud",
-   "org": "Federal Communications Commission",
+   "title": "Exelon Corporation v. PJM Interconnection, L.L.C.; Notice Establishing Comment Period",
+   "org": "Energy Department, Federal Energy Regulatory Commission",
    "location": null,
-   "detail": "Rule \u00b7 published 2026-11-18",
-   "url": "https://www.federalregister.gov/documents/2026/11/18/2026-23522/protecting-consumers-from-sim-swap-and-port-out-fraud",
-   "new_this_run": false
+   "detail": "Notice \u00b7 published 2026-11-19",
+   "url": "https://www.federalregister.gov/documents/2026/11/19/2026-23611/exelon-corporation-v-pjm-interconnection-llc-notice-establishing-comment-period",
+   "new_this_run": true
   },
   {
-   "title": "Air Plan Approval; Texas; Revisions to Concrete Batch Plant Standard Permit",
-   "org": "Environmental Protection Agency",
-   "location": null,
-   "detail": "Proposed Rule \u00b7 published 2026-11-18",
-   "url": "https://www.federalregister.gov/documents/2026/11/18/2026-23521/air-plan-approval-texas-revisions-to-concrete-batch-plant-standard-permit",
-   "new_this_run": false
-  },
-  {
-   "title": "Air Plan Approval; Texas; Collin County Second 10-Year Maintenance Plan for the 2008 Lead Standard",
-   "org": "Environmental Protection Agency",
-   "location": null,
-   "detail": "Proposed Rule \u00b7 published 2026-11-18",
-   "url": "https://www.federalregister.gov/documents/2026/11/18/2026-23519/air-plan-approval-texas-collin-county-second-10-year-maintenance-plan-for-the-2008-lead-standard",
-   "new_this_run": false
-  },
-  {
-   "title": "Air Plan Approval; Virginia; Interstate Transport Requirements for the 2010 SO2 NAAQS",
-   "org": "Environmental Protection Agency",
-   "location": null,
-   "detail": "Proposed Rule \u00b7 published 2026-11-18",
-   "url": "https://www.federalregister.gov/documents/2026/11/18/2026-23517/air-plan-approval-virginia-interstate-transport-requirements-for-the-2010-so2-naaqs",
-   "new_this_run": false
-  },
-  {
-   "title": "Notice of Revised National Environmental Policy Act Implementing Procedures",
-   "org": "Homeland Security Department",
-   "location": null,
-   "detail": "Notice \u00b7 published 2026-11-18",
-   "url": "https://www.federalregister.gov/documents/2026/11/18/2026-23515/notice-of-revised-national-environmental-policy-act-implementing-procedures",
-   "new_this_run": false
-  },
-  {
-   "title": "Income Taxes",
+   "title": "Agency Information Collection Activities; Comment Request on Application for Security Summit Membership",
    "org": "Treasury Department, Internal Revenue Service",
    "location": null,
-   "detail": "Rule \u00b7 published 2026-11-18",
-   "url": "https://www.federalregister.gov/documents/2026/11/18/2026-23514/income-taxes",
-   "new_this_run": false
+   "detail": "Notice \u00b7 published 2026-11-19",
+   "url": "https://www.federalregister.gov/documents/2026/11/19/2026-23610/agency-information-collection-activities-comment-request-on-application-for-security-summit",
+   "new_this_run": true
   },
   {
-   "title": "Kyndahl D. Bertram, D.O.; Decision and Order",
-   "org": "Justice Department, Drug Enforcement Administration",
+   "title": "Freeport LNG Development, L.P., FLNG Liquefaction, LLC, FLNG Liquefaction 2, LLC, FLNG Liquefaction 3, LLC, FLNG Liquefaction 4, LLC; Notice of Application and Establishing Intervention Deadline",
+   "org": "Energy Department, Federal Energy Regulatory Commission",
    "location": null,
-   "detail": "Notice \u00b7 published 2026-11-18",
-   "url": "https://www.federalregister.gov/documents/2026/11/18/2026-23513/kyndahl-d-bertram-do-decision-and-order",
+   "detail": "Notice \u00b7 published 2026-11-19",
+   "url": "https://www.federalregister.gov/documents/2026/11/19/2026-23609/freeport-lng-development-lp-flng-liquefaction-llc-flng-liquefaction-2-llc-flng-liquefaction-3-llc",
+   "new_this_run": true
+  },
+  {
+   "title": "Combined Notice of Filings",
+   "org": "Energy Department, Federal Energy Regulatory Commission",
+   "location": null,
+   "detail": "Notice \u00b7 published 2026-11-19",
+   "url": "https://www.federalregister.gov/documents/2026/11/19/2026-23608/combined-notice-of-filings",
    "new_this_run": false
   }
  ],
@@ -190,6 +190,11 @@
    "at": "2026-11-19T03:27:15+00:00",
    "jobs": 100,
    "new": 0
+  },
+  {
+   "at": "2026-11-19T13:05:40+00:00",
+   "jobs": 100,
+   "new": 77
   }
  ],
  "jobs_seen": {
@@ -335,7 +340,7 @@
   },
   "combined notice of filings|energy department, federal energy regulatory commission|": {
    "first_seen": "2026-11-15T10:14:08+00:00",
-   "last_seen": "2026-11-19T03:27:15+00:00",
+   "last_seen": "2026-11-19T13:05:40+00:00",
    "title": "Combined Notice of Filings",
    "org": "Energy Department, Federal Energy Regulatory Commission",
    "location": null
@@ -349,7 +354,7 @@
   },
   "combined notice of filings #1|energy department, federal energy regulatory commission|": {
    "first_seen": "2026-11-15T10:14:08+00:00",
-   "last_seen": "2026-11-19T03:27:15+00:00",
+   "last_seen": "2026-11-19T13:05:40+00:00",
    "title": "Combined Notice of Filings #1",
    "org": "Energy Department, Federal Energy Regulatory Commission",
    "location": null
@@ -559,7 +564,7 @@
   },
   "new postal products|postal regulatory commission|": {
    "first_seen": "2026-11-15T10:14:08+00:00",
-   "last_seen": "2026-11-19T03:27:15+00:00",
+   "last_seen": "2026-11-19T13:05:40+00:00",
    "title": "New Postal Products",
    "org": "Postal Regulatory Commission",
    "location": null
@@ -594,7 +599,7 @@
   },
   "western pacific fishery management council; public meetings|commerce department, national oceanic and atmospheric administration|": {
    "first_seen": "2026-11-15T10:14:08+00:00",
-   "last_seen": "2026-11-17T03:53:10+00:00",
+   "last_seen": "2026-11-19T13:05:40+00:00",
    "title": "Western Pacific Fishery Management Council; Public Meetings",
    "org": "Commerce Department, National Oceanic and Atmospheric Administration",
    "location": null
@@ -608,14 +613,14 @@
   },
   "formations of, acquisitions by, and mergers of bank holding companies|federal reserve system|": {
    "first_seen": "2026-11-15T10:14:08+00:00",
-   "last_seen": "2026-11-19T03:27:15+00:00",
+   "last_seen": "2026-11-19T13:05:40+00:00",
    "title": "Formations of, Acquisitions by, and Mergers of Bank Holding Companies",
    "org": "Federal Reserve System",
    "location": null
   },
   "change in bank control notices; acquisitions of shares of a bank or bank holding company|federal reserve system|": {
    "first_seen": "2026-11-15T10:14:08+00:00",
-   "last_seen": "2026-11-19T03:27:15+00:00",
+   "last_seen": "2026-11-19T13:05:40+00:00",
    "title": "Change in Bank Control Notices; Acquisitions of Shares of a Bank or Bank Holding Company",
    "org": "Federal Reserve System",
    "location": null
@@ -706,7 +711,7 @@
   },
   "airworthiness directives; dassault aviation airplanes|transportation department, federal aviation administration|": {
    "first_seen": "2026-11-15T10:14:08+00:00",
-   "last_seen": "2026-11-17T03:53:10+00:00",
+   "last_seen": "2026-11-19T13:05:40+00:00",
    "title": "Airworthiness Directives; Dassault Aviation Airplanes",
    "org": "Transportation Department, Federal Aviation Administration",
    "location": null
@@ -811,14 +816,14 @@
   },
   "airworthiness directives; airbus helicopters deutschland gmbh (ahd) helicopters|transportation department, federal aviation administration|": {
    "first_seen": "2026-11-15T10:14:08+00:00",
-   "last_seen": "2026-11-17T03:53:10+00:00",
+   "last_seen": "2026-11-19T13:05:40+00:00",
    "title": "Airworthiness Directives; Airbus Helicopters Deutschland GmbH (AHD) Helicopters",
    "org": "Transportation Department, Federal Aviation Administration",
    "location": null
   },
   "airworthiness directives; airbus helicopters|transportation department, federal aviation administration|": {
    "first_seen": "2026-11-15T10:14:08+00:00",
-   "last_seen": "2026-11-17T03:53:10+00:00",
+   "last_seen": "2026-11-19T13:05:40+00:00",
    "title": "Airworthiness Directives; Airbus Helicopters",
    "org": "Transportation Department, Federal Aviation Administration",
    "location": null
@@ -951,7 +956,7 @@
   },
   "statement of organization, functions, and delegations of authority|health and human services department, national institutes of health|": {
    "first_seen": "2026-11-17T13:26:15+00:00",
-   "last_seen": "2026-11-18T04:20:24+00:00",
+   "last_seen": "2026-11-19T13:05:40+00:00",
    "title": "Statement of Organization, Functions, and Delegations of Authority",
    "org": "Health and Human Services Department, National Institutes of Health",
    "location": null
@@ -1063,7 +1068,7 @@
   },
   "center for scientific review; notice of closed meetings|health and human services department, national institutes of health|": {
    "first_seen": "2026-11-17T13:26:15+00:00",
-   "last_seen": "2026-11-19T03:27:15+00:00",
+   "last_seen": "2026-11-19T13:05:40+00:00",
    "title": "Center for Scientific Review; Notice of Closed Meetings",
    "org": "Health and Human Services Department, National Institutes of Health",
    "location": null
@@ -1294,7 +1299,7 @@
   },
   "self-regulatory organizations; 24x national exchange llc; notice of filing and immediate effectiveness of proposed rule |securities and exchange commission|": {
    "first_seen": "2026-11-17T13:26:15+00:00",
-   "last_seen": "2026-11-18T04:20:24+00:00",
+   "last_seen": "2026-11-19T13:05:40+00:00",
    "title": "Self-Regulatory Organizations; 24X National Exchange LLC; Notice of Filing and Immediate Effectiveness of Proposed Rule Change To Amend the Warrant Performance Incentive Program",
    "org": "Securities and Exchange Commission",
    "location": null
@@ -1364,14 +1369,14 @@
   },
   "self-regulatory organizations; cboe c2 exchange, inc.; notice of filing and immediate effectiveness of a proposed rule c|securities and exchange commission|": {
    "first_seen": "2026-11-17T13:26:15+00:00",
-   "last_seen": "2026-11-18T04:20:24+00:00",
+   "last_seen": "2026-11-19T13:05:40+00:00",
    "title": "Self-Regulatory Organizations; Cboe C2 Exchange, Inc.; Notice of Filing and Immediate Effectiveness of a Proposed Rule Change To Amend Its Fees Schedule To Clarify That Fee Codes BC, BM, BN and BO Apply to the Russell 2000 Index (\u201cRUT\u201d)",
    "org": "Securities and Exchange Commission",
    "location": null
   },
   "self-regulatory organizations; the options clearing corporation; notice of filing and immediate effectiveness of propose|securities and exchange commission|": {
    "first_seen": "2026-11-17T13:26:15+00:00",
-   "last_seen": "2026-11-18T04:20:24+00:00",
+   "last_seen": "2026-11-19T13:05:40+00:00",
    "title": "Self-Regulatory Organizations; The Options Clearing Corporation; Notice of Filing and Immediate Effectiveness of Proposed Rule Change by The Options Clearing Corporation Concerning Providing the Ability To Satisfy Daily Margin Deficit Amoun",
    "org": "Securities and Exchange Commission",
    "location": null
@@ -1511,14 +1516,14 @@
   },
   "airworthiness directives; brp-rotax gmbh & co kg (formerly brp-powertrain gmbh & co kg and bombardier-rotax gmbh) engine|transportation department, federal aviation administration|": {
    "first_seen": "2026-11-18T13:57:54+00:00",
-   "last_seen": "2026-11-19T03:27:15+00:00",
+   "last_seen": "2026-11-19T13:05:40+00:00",
    "title": "Airworthiness Directives; BRP-Rotax GmbH & Co KG (Formerly BRP-POWERTRAIN GMBH & CO KG and Bombardier-Rotax GmbH) Engines",
    "org": "Transportation Department, Federal Aviation Administration",
    "location": null
   },
   "racial nondiscrimination in private schools; hearing|treasury department, internal revenue service|": {
    "first_seen": "2026-11-18T13:57:54+00:00",
-   "last_seen": "2026-11-19T03:27:15+00:00",
+   "last_seen": "2026-11-19T13:05:40+00:00",
    "title": "Racial Nondiscrimination in Private Schools; Hearing",
    "org": "Treasury Department, Internal Revenue Service",
    "location": null
@@ -2102,6 +2107,545 @@
    "last_seen": "2026-11-19T03:27:15+00:00",
    "title": "Proposed Third-Party Risk Management Guidance; Extension of Comment Period",
    "org": "Treasury Department, Comptroller of the Currency",
+   "location": null
+  },
+  "airworthiness directives; general atomics aerotec systems gmbh (type certificate previously held by ruag aerospace servi|transportation department, federal aviation administration|": {
+   "first_seen": "2026-11-19T13:05:40+00:00",
+   "last_seen": "2026-11-19T13:05:40+00:00",
+   "title": "Airworthiness Directives; General Atomics AeroTec Systems GmbH (Type Certificate Previously Held by RUAG Aerospace Services GmbH) Airplanes",
+   "org": "Transportation Department, Federal Aviation Administration",
+   "location": null
+  },
+  "complaint|postal regulatory commission|": {
+   "first_seen": "2026-11-19T13:05:40+00:00",
+   "last_seen": "2026-11-19T13:05:40+00:00",
+   "title": "Complaint",
+   "org": "Postal Regulatory Commission",
+   "location": null
+  },
+  "health and human services acquisition regulations; correction|health and human services department|": {
+   "first_seen": "2026-11-19T13:05:40+00:00",
+   "last_seen": "2026-11-19T13:05:40+00:00",
+   "title": "Health and Human Services Acquisition Regulations; Correction",
+   "org": "Health and Human Services Department",
+   "location": null
+  },
+  "privacy act of 1974; matching program|education department|": {
+   "first_seen": "2026-11-19T13:05:40+00:00",
+   "last_seen": "2026-11-19T13:05:40+00:00",
+   "title": "Privacy Act of 1974; Matching Program",
+   "org": "Education Department",
+   "location": null
+  },
+  "aquatic nuisance species task force meeting|interior department, fish and wildlife service|": {
+   "first_seen": "2026-11-19T13:05:40+00:00",
+   "last_seen": "2026-11-19T13:05:40+00:00",
+   "title": "Aquatic Nuisance Species Task Force Meeting",
+   "org": "Interior Department, Fish and Wildlife Service",
+   "location": null
+  },
+  "customer due diligence requirements for covered financial institutions|treasury department, financial crimes enforcement network|": {
+   "first_seen": "2026-11-19T13:05:40+00:00",
+   "last_seen": "2026-11-19T13:05:40+00:00",
+   "title": "Customer Due Diligence Requirements for Covered Financial Institutions",
+   "org": "Treasury Department, Financial Crimes Enforcement Network",
+   "location": null
+  },
+  "agency information collection activities: request for comments for a new information collection|transportation department, federal highway administration|": {
+   "first_seen": "2026-11-19T13:05:40+00:00",
+   "last_seen": "2026-11-19T13:05:40+00:00",
+   "title": "Agency Information Collection Activities: Request for Comments for a New Information Collection",
+   "org": "Transportation Department, Federal Highway Administration",
+   "location": null
+  },
+  "agency information collection activities: requests for comments; clearance of renewed approval of information collection|transportation department, federal aviation administration|": {
+   "first_seen": "2026-11-19T13:05:40+00:00",
+   "last_seen": "2026-11-19T13:05:40+00:00",
+   "title": "Agency Information Collection Activities: Requests for Comments; Clearance of Renewed Approval of Information Collection: Monitoring, Reporting, and Verification (MRV) Program for Annex 16, Volume IV of the Convention on Civil Aviation",
+   "org": "Transportation Department, Federal Aviation Administration",
+   "location": null
+  },
+  "exelon corporation v. pjm interconnection, l.l.c.; notice establishing comment period|energy department, federal energy regulatory commission|": {
+   "first_seen": "2026-11-19T13:05:40+00:00",
+   "last_seen": "2026-11-19T13:05:40+00:00",
+   "title": "Exelon Corporation v. PJM Interconnection, L.L.C.; Notice Establishing Comment Period",
+   "org": "Energy Department, Federal Energy Regulatory Commission",
+   "location": null
+  },
+  "agency information collection activities; comment request on application for security summit membership|treasury department, internal revenue service|": {
+   "first_seen": "2026-11-19T13:05:40+00:00",
+   "last_seen": "2026-11-19T13:05:40+00:00",
+   "title": "Agency Information Collection Activities; Comment Request on Application for Security Summit Membership",
+   "org": "Treasury Department, Internal Revenue Service",
+   "location": null
+  },
+  "freeport lng development, l.p., flng liquefaction, llc, flng liquefaction 2, llc, flng liquefaction 3, llc, flng liquefa|energy department, federal energy regulatory commission|": {
+   "first_seen": "2026-11-19T13:05:40+00:00",
+   "last_seen": "2026-11-19T13:05:40+00:00",
+   "title": "Freeport LNG Development, L.P., FLNG Liquefaction, LLC, FLNG Liquefaction 2, LLC, FLNG Liquefaction 3, LLC, FLNG Liquefaction 4, LLC; Notice of Application and Establishing Intervention Deadline",
+   "org": "Energy Department, Federal Energy Regulatory Commission",
+   "location": null
+  },
+  "agency information collection activity under omb review: mandatory verification of dependents|veterans affairs department|": {
+   "first_seen": "2026-11-19T13:05:40+00:00",
+   "last_seen": "2026-11-19T13:05:40+00:00",
+   "title": "Agency Information Collection Activity Under OMB Review: Mandatory Verification of Dependents",
+   "org": "Veterans Affairs Department",
+   "location": null
+  },
+  "notice of application for 299 row application for coastal connect services, llc; florida|interior department, land management bureau|": {
+   "first_seen": "2026-11-19T13:05:40+00:00",
+   "last_seen": "2026-11-19T13:05:40+00:00",
+   "title": "Notice of Application for 299 ROW Application for Coastal Connect Services, LLC; Florida",
+   "org": "Interior Department, Land Management Bureau",
+   "location": null
+  },
+  "medicare program; cy 2027 part a premiums for the uninsured aged and for certain disabled individuals who have exhausted|health and human services department, centers for medicare & medicaid services|": {
+   "first_seen": "2026-11-19T13:05:40+00:00",
+   "last_seen": "2026-11-19T13:05:40+00:00",
+   "title": "Medicare Program; CY 2027 Part A Premiums for the Uninsured Aged and for Certain Disabled Individuals Who Have Exhausted Other Entitlement",
+   "org": "Health and Human Services Department, Centers for Medicare & Medicaid Services",
+   "location": null
+  },
+  "medicare program; cy 2027 inpatient hospital deductible and hospital and extended care services coinsurance amounts|health and human services department, centers for medicare & medicaid services|": {
+   "first_seen": "2026-11-19T13:05:40+00:00",
+   "last_seen": "2026-11-19T13:05:40+00:00",
+   "title": "Medicare Program; CY 2027 Inpatient Hospital Deductible and Hospital and Extended Care Services Coinsurance Amounts",
+   "org": "Health and Human Services Department, Centers for Medicare & Medicaid Services",
+   "location": null
+  },
+  "agency information collection activities: proposed collection, comment request; standard flood hazard determination form|homeland security department, federal emergency management agency|": {
+   "first_seen": "2026-11-19T13:05:40+00:00",
+   "last_seen": "2026-11-19T13:05:40+00:00",
+   "title": "Agency Information Collection Activities: Proposed Collection, Comment Request; Standard Flood Hazard Determination Form (SFHDF)",
+   "org": "Homeland Security Department, Federal Emergency Management Agency",
+   "location": null
+  },
+  "medicare program; medicare part b monthly actuarial rates, premium rates, and annual deductible beginning january 1, 202|health and human services department, centers for medicare & medicaid services|": {
+   "first_seen": "2026-11-19T13:05:40+00:00",
+   "last_seen": "2026-11-19T13:05:40+00:00",
+   "title": "Medicare Program; Medicare Part B Monthly Actuarial Rates, Premium Rates, and Annual Deductible Beginning January 1, 2027",
+   "org": "Health and Human Services Department, Centers for Medicare & Medicaid Services",
+   "location": null
+  },
+  "administrative declaration of an economic injury disaster for the state of california|small business administration|": {
+   "first_seen": "2026-11-19T13:05:40+00:00",
+   "last_seen": "2026-11-19T13:05:40+00:00",
+   "title": "Administrative Declaration of an Economic Injury Disaster for the State of California",
+   "org": "Small Business Administration",
+   "location": null
+  },
+  "administrative declaration of a disaster for the state of california|small business administration|": {
+   "first_seen": "2026-11-19T13:05:40+00:00",
+   "last_seen": "2026-11-19T13:05:40+00:00",
+   "title": "Administrative Declaration of a Disaster for the State of California",
+   "org": "Small Business Administration",
+   "location": null
+  },
+  "procurement list; deletions|committee for purchase from people who are blind or severely disabled|": {
+   "first_seen": "2026-11-19T13:05:40+00:00",
+   "last_seen": "2026-11-19T13:05:40+00:00",
+   "title": "Procurement List; Deletions",
+   "org": "Committee for Purchase From People Who Are Blind or Severely Disabled",
+   "location": null
+  },
+  "procurement list; proposed additions and deletions|committee for purchase from people who are blind or severely disabled|": {
+   "first_seen": "2026-11-19T13:05:40+00:00",
+   "last_seen": "2026-11-19T13:05:40+00:00",
+   "title": "Procurement List; Proposed Additions and Deletions",
+   "org": "Committee for Purchase From People Who Are Blind or Severely Disabled",
+   "location": null
+  },
+  "sbic license issuance|small business administration|": {
+   "first_seen": "2026-11-19T13:05:40+00:00",
+   "last_seen": "2026-11-19T13:05:40+00:00",
+   "title": "SBIC License Issuance",
+   "org": "Small Business Administration",
+   "location": null
+  },
+  "domestic competitive products pricing and mailing standards changes|postal service|": {
+   "first_seen": "2026-11-19T13:05:40+00:00",
+   "last_seen": "2026-11-19T13:05:40+00:00",
+   "title": "Domestic Competitive Products Pricing and Mailing Standards Changes",
+   "org": "Postal Service",
+   "location": null
+  },
+  "administrative declaration of a disaster for the state of texas|small business administration|": {
+   "first_seen": "2026-11-19T13:05:40+00:00",
+   "last_seen": "2026-11-19T13:05:40+00:00",
+   "title": "Administrative Declaration of a Disaster for the State of Texas",
+   "org": "Small Business Administration",
+   "location": null
+  },
+  "privacy act of 1974; matching program|social security administration|": {
+   "first_seen": "2026-11-19T13:05:40+00:00",
+   "last_seen": "2026-11-19T13:05:40+00:00",
+   "title": "Privacy Act of 1974; Matching Program",
+   "org": "Social Security Administration",
+   "location": null
+  },
+  "notice of proposed information collection request|national mediation board|": {
+   "first_seen": "2026-11-19T13:05:40+00:00",
+   "last_seen": "2026-11-19T13:05:40+00:00",
+   "title": "Notice of Proposed Information Collection Request",
+   "org": "National Mediation Board",
+   "location": null
+  },
+  "realty action: modified competitive sale of 20 parcels of public land in clark county, nevada; modification of recreatio|interior department, land management bureau|": {
+   "first_seen": "2026-11-19T13:05:40+00:00",
+   "last_seen": "2026-11-19T13:05:40+00:00",
+   "title": "Realty Action: Modified Competitive Sale of 20 Parcels of Public Land in Clark County, Nevada; Modification of Recreation and Public Purposes Act Classification",
+   "org": "Interior Department, Land Management Bureau",
+   "location": null
+  },
+  "30-day notice of proposed information collection: 1405-0241 improving customer experience (omb circular a-11, section 28|state department|": {
+   "first_seen": "2026-11-19T13:05:40+00:00",
+   "last_seen": "2026-11-19T13:05:40+00:00",
+   "title": "30-Day Notice of Proposed Information Collection: 1405-0241 Improving Customer Experience (OMB Circular A-11, Section 280 Implementation)",
+   "org": "State Department",
+   "location": null
+  },
+  "air plan approval; reasonably available control technology (ract) for volatile organic compounds (voc) control technique|environmental protection agency|": {
+   "first_seen": "2026-11-19T13:05:40+00:00",
+   "last_seen": "2026-11-19T13:05:40+00:00",
+   "title": "Air Plan Approval; Reasonably Available Control Technology (RACT) for Volatile Organic Compounds (VOC) Control Technique Guidelines (CTG) Under the 2008 and 2015 Ozone National Ambient Air Quality Standards (NAAQS)",
+   "org": "Environmental Protection Agency",
+   "location": null
+  },
+  "administrative declaration of a disaster for the state of georgia|small business administration|": {
+   "first_seen": "2026-11-19T13:05:40+00:00",
+   "last_seen": "2026-11-19T13:05:40+00:00",
+   "title": "Administrative Declaration of a Disaster for the State of Georgia",
+   "org": "Small Business Administration",
+   "location": null
+  },
+  "airworthiness directives; atr-gie avions de transport r\u00e9gional airplanes|transportation department, federal aviation administration|": {
+   "first_seen": "2026-11-19T13:05:40+00:00",
+   "last_seen": "2026-11-19T13:05:40+00:00",
+   "title": "Airworthiness Directives; ATR-GIE Avions de Transport R\u00e9gional Airplanes",
+   "org": "Transportation Department, Federal Aviation Administration",
+   "location": null
+  },
+  "approval and promulgation of state air quality plans for designated facilities and pollutants; texas; control of emissio|environmental protection agency|": {
+   "first_seen": "2026-11-19T13:05:40+00:00",
+   "last_seen": "2026-11-19T13:05:40+00:00",
+   "title": "Approval and Promulgation of State Air Quality Plans for Designated Facilities and Pollutants; Texas; Control of Emissions From Existing Municipal Solid Waste Landfills",
+   "org": "Environmental Protection Agency",
+   "location": null
+  },
+  "administrative declaration of a disaster for the state of tennessee|small business administration|": {
+   "first_seen": "2026-11-19T13:05:40+00:00",
+   "last_seen": "2026-11-19T13:05:40+00:00",
+   "title": "Administrative Declaration of a Disaster for the State of Tennessee",
+   "org": "Small Business Administration",
+   "location": null
+  },
+  "administrative declaration of a disaster for the state of ohio|small business administration|": {
+   "first_seen": "2026-11-19T13:05:40+00:00",
+   "last_seen": "2026-11-19T13:05:40+00:00",
+   "title": "Administrative Declaration of a Disaster for the State of Ohio",
+   "org": "Small Business Administration",
+   "location": null
+  },
+  "administrative declaration of a disaster for the state of minnesota|small business administration|": {
+   "first_seen": "2026-11-19T13:05:40+00:00",
+   "last_seen": "2026-11-19T13:05:40+00:00",
+   "title": "Administrative Declaration of a Disaster for the State of Minnesota",
+   "org": "Small Business Administration",
+   "location": null
+  },
+  "air plan revisions; california; san joaquin valley unified air pollution control district; new source review; stationary|environmental protection agency|": {
+   "first_seen": "2026-11-19T13:05:40+00:00",
+   "last_seen": "2026-11-19T13:05:40+00:00",
+   "title": "Air Plan Revisions; California; San Joaquin Valley Unified Air Pollution Control District; New Source Review; Stationary Source Permits",
+   "org": "Environmental Protection Agency",
+   "location": null
+  },
+  "veteran readiness and employment program: update to reduced work tolerance and basic eligibility period|veterans affairs department|": {
+   "first_seen": "2026-11-19T13:05:40+00:00",
+   "last_seen": "2026-11-19T13:05:40+00:00",
+   "title": "Veteran Readiness and Employment Program: Update to Reduced Work Tolerance and Basic Eligibility Period",
+   "org": "Veterans Affairs Department",
+   "location": null
+  },
+  "competitive postal products|postal regulatory commission|": {
+   "first_seen": "2026-11-19T13:05:40+00:00",
+   "last_seen": "2026-11-19T13:05:40+00:00",
+   "title": "Competitive Postal Products",
+   "org": "Postal Regulatory Commission",
+   "location": null
+  },
+  "safety zones; annual events requiring safety zones in the captain of the port lake michigan zone-magnificent mile firewo|homeland security department, coast guard|": {
+   "first_seen": "2026-11-19T13:05:40+00:00",
+   "last_seen": "2026-11-19T13:05:40+00:00",
+   "title": "Safety Zones; Annual Events Requiring Safety Zones in the Captain of the Port Lake Michigan Zone-Magnificent Mile Fireworks Display",
+   "org": "Homeland Security Department, Coast Guard",
+   "location": null
+  },
+  "safety zone; hackensack river, kearny and secaucus, nj|homeland security department, coast guard|": {
+   "first_seen": "2026-11-19T13:05:40+00:00",
+   "last_seen": "2026-11-19T13:05:40+00:00",
+   "title": "Safety Zone; Hackensack River, Kearny and Secaucus, NJ",
+   "org": "Homeland Security Department, Coast Guard",
+   "location": null
+  },
+  "proposed decommissioning and disposition of uscgc smilax (wlic 315)|homeland security department, coast guard|": {
+   "first_seen": "2026-11-19T13:05:40+00:00",
+   "last_seen": "2026-11-19T13:05:40+00:00",
+   "title": "Proposed Decommissioning and Disposition of USCGC Smilax (WLIC 315)",
+   "org": "Homeland Security Department, Coast Guard",
+   "location": null
+  },
+  "60-day notice of proposed information collection: tribal housing and urban development-veteran administration supportive|housing and urban development department|": {
+   "first_seen": "2026-11-19T13:05:40+00:00",
+   "last_seen": "2026-11-19T13:05:40+00:00",
+   "title": "60-Day Notice of Proposed Information Collection: Tribal Housing and Urban Development-Veteran Administration Supportive Housing Program",
+   "org": "Housing and Urban Development Department",
+   "location": null
+  },
+  "advisory board; meeting notice|transportation department, great lakes st. lawrence seaway development corporation|": {
+   "first_seen": "2026-11-19T13:05:40+00:00",
+   "last_seen": "2026-11-19T13:05:40+00:00",
+   "title": "Advisory Board; Meeting Notice",
+   "org": "Transportation Department, Great Lakes St. Lawrence Seaway Development Corporation",
+   "location": null
+  },
+  "mammoth cave national park; bicycling and horses|interior department, national park service|": {
+   "first_seen": "2026-11-19T13:05:40+00:00",
+   "last_seen": "2026-11-19T13:05:40+00:00",
+   "title": "Mammoth Cave National Park; Bicycling and Horses",
+   "org": "Interior Department, National Park Service",
+   "location": null
+  },
+  "information collection being reviewed by the federal communications commission delegated authority|federal communications commission|": {
+   "first_seen": "2026-11-19T13:05:40+00:00",
+   "last_seen": "2026-11-19T13:05:40+00:00",
+   "title": "Information Collection Being Reviewed by the Federal Communications Commission Delegated Authority",
+   "org": "Federal Communications Commission",
+   "location": null
+  },
+  "agency information collection activities; submission to the office of management and budget; big cat public safety act|interior department, fish and wildlife service|": {
+   "first_seen": "2026-11-19T13:05:40+00:00",
+   "last_seen": "2026-11-19T13:05:40+00:00",
+   "title": "Agency Information Collection Activities; Submission to the Office of Management and Budget; Big Cat Public Safety Act",
+   "org": "Interior Department, Fish and Wildlife Service",
+   "location": null
+  },
+  "information collections for claims processing and other purposes under the terrorism risk insurance program (extension o|treasury department|": {
+   "first_seen": "2026-11-19T13:05:40+00:00",
+   "last_seen": "2026-11-19T13:05:40+00:00",
+   "title": "Information Collections for Claims Processing and Other Purposes Under the Terrorism Risk Insurance Program (Extension of Currently Approved Data Collections Under OMB No. 1505-0200)",
+   "org": "Treasury Department",
+   "location": null
+  },
+  "realty action: recreation and public purposes act classification and conveyance of public land in kane county, ut|interior department, land management bureau|": {
+   "first_seen": "2026-11-19T13:05:40+00:00",
+   "last_seen": "2026-11-19T13:05:40+00:00",
+   "title": "Realty Action: Recreation and Public Purposes Act Classification and Conveyance of Public Land in Kane County, UT",
+   "org": "Interior Department, Land Management Bureau",
+   "location": null
+  },
+  "realty action: recreation and public purposes act classification and segregation of public land for ivins city, washingt|interior department, land management bureau|": {
+   "first_seen": "2026-11-19T13:05:40+00:00",
+   "last_seen": "2026-11-19T13:05:40+00:00",
+   "title": "Realty Action: Recreation and Public Purposes Act Classification and Segregation of Public Land for Ivins City, Washington County, Utah",
+   "org": "Interior Department, Land Management Bureau",
+   "location": null
+  },
+  "agency information collection activities; submission to the office of management and budget (omb) for review and approva|commerce department, census bureau|": {
+   "first_seen": "2026-11-19T13:05:40+00:00",
+   "last_seen": "2026-11-19T13:05:40+00:00",
+   "title": "Agency Information Collection Activities; Submission to the Office of Management and Budget (OMB) for Review and Approval; Comment Request; National Survey of Children's Health",
+   "org": "Commerce Department, Census Bureau",
+   "location": null
+  },
+  "30-day notice of proposed information collection: generic clearance for the collection of qualitative feedback on agency|state department|": {
+   "first_seen": "2026-11-19T13:05:40+00:00",
+   "last_seen": "2026-11-19T13:05:40+00:00",
+   "title": "30-Day Notice of Proposed Information Collection: Generic Clearance for the Collection of Qualitative Feedback on Agency Service Delivery",
+   "org": "State Department",
+   "location": null
+  },
+  "executive compensation disclosure reform|securities and exchange commission|": {
+   "first_seen": "2026-11-19T13:05:40+00:00",
+   "last_seen": "2026-11-19T13:05:40+00:00",
+   "title": "Executive Compensation Disclosure Reform",
+   "org": "Securities and Exchange Commission",
+   "location": null
+  },
+  "self-regulatory organizations; the depository trust company; notice of designation of longer period for commission actio|securities and exchange commission|": {
+   "first_seen": "2026-11-19T13:05:40+00:00",
+   "last_seen": "2026-11-19T13:05:40+00:00",
+   "title": "Self-Regulatory Organizations; The Depository Trust Company; Notice of Designation of Longer Period for Commission Action on Proposed Rule Change To Amend the DTC Operational Arrangements (Necessary for Securities To Become and Remain Eligi",
+   "org": "Securities and Exchange Commission",
+   "location": null
+  },
+  "self-regulatory organizations; texas stock exchange llc; notice of filing and immediate effectiveness of a proposed rule|securities and exchange commission|": {
+   "first_seen": "2026-11-19T13:05:40+00:00",
+   "last_seen": "2026-11-19T13:05:40+00:00",
+   "title": "Self-Regulatory Organizations; Texas Stock Exchange LLC; Notice of Filing and Immediate Effectiveness of a Proposed Rule Change To Amend TXSE Rule 14.001 Regarding Information Circular Requirements",
+   "org": "Securities and Exchange Commission",
+   "location": null
+  },
+  "self-regulatory organizations; ice clear credit llc; notice of filing of proposed rule change relating to the treasury r|securities and exchange commission|": {
+   "first_seen": "2026-11-19T13:05:40+00:00",
+   "last_seen": "2026-11-19T13:05:40+00:00",
+   "title": "Self-Regulatory Organizations; ICE Clear Credit LLC; Notice of Filing of Proposed Rule Change Relating to the Treasury Rules, Treasury Clearing Service Initial Margin Approach Model Description Document, Treasury Clearing Service Guaranty F",
+   "org": "Securities and Exchange Commission",
+   "location": null
+  },
+  "self-regulatory organizations; the nasdaq stock market llc; notice of filing and immediate effectiveness of a proposed r|securities and exchange commission|": {
+   "first_seen": "2026-11-19T13:05:40+00:00",
+   "last_seen": "2026-11-19T13:05:40+00:00",
+   "title": "Self-Regulatory Organizations; The Nasdaq Stock Market LLC; Notice of Filing and Immediate Effectiveness of a Proposed Rule Change To Amend General 4, Rule 1240 To Adopt a New Senior Leader Regulatory Element Interim Program",
+   "org": "Securities and Exchange Commission",
+   "location": null
+  },
+  "self-regulatory organizations; cboe bzx exchange, inc.; notice of filing and immediate effectiveness of a proposed rule |securities and exchange commission|": {
+   "first_seen": "2026-11-19T13:05:40+00:00",
+   "last_seen": "2026-11-19T13:05:40+00:00",
+   "title": "Self-Regulatory Organizations; Cboe BZX Exchange, Inc.; Notice of Filing and Immediate Effectiveness of a Proposed Rule Change To Amend the Invesco Galaxy Bitcoin ETF and the Invesco Galaxy Ethereum ETF",
+   "org": "Securities and Exchange Commission",
+   "location": null
+  },
+  "agency information collection activities; submission for omb review; comment request; extension: tender offer-regulation|securities and exchange commission|": {
+   "first_seen": "2026-11-19T13:05:40+00:00",
+   "last_seen": "2026-11-19T13:05:40+00:00",
+   "title": "Agency Information Collection Activities; Submission for OMB Review; Comment Request; Extension: Tender Offer-Regulation 14D and Regulation 14E, Schedule 14D-9",
+   "org": "Securities and Exchange Commission",
+   "location": null
+  },
+  "agency information collection activities; submission for office of management and budget review; comment request; nation|health and human services department, food and drug administration|": {
+   "first_seen": "2026-11-19T13:05:40+00:00",
+   "last_seen": "2026-11-19T13:05:40+00:00",
+   "title": "Agency Information Collection Activities; Submission for Office of Management and Budget Review; Comment Request; National Youth Tobacco Survey",
+   "org": "Health and Human Services Department, Food and Drug Administration",
+   "location": null
+  },
+  "agency information collection activities; submission for office of management and budget review; comment request; good l|health and human services department, food and drug administration|": {
+   "first_seen": "2026-11-19T13:05:40+00:00",
+   "last_seen": "2026-11-19T13:05:40+00:00",
+   "title": "Agency Information Collection Activities; Submission for Office of Management and Budget Review; Comment Request; Good Laboratory Practice Requirements for Nonclinical Laboratory Studies",
+   "org": "Health and Human Services Department, Food and Drug Administration",
+   "location": null
+  },
+  "medicare and medicaid programs; quarterly listing of program issuances-july through september 2026|health and human services department, centers for medicare & medicaid services|": {
+   "first_seen": "2026-11-19T13:05:40+00:00",
+   "last_seen": "2026-11-19T13:05:40+00:00",
+   "title": "Medicare and Medicaid Programs; Quarterly Listing of Program Issuances-July Through September 2026",
+   "org": "Health and Human Services Department, Centers for Medicare & Medicaid Services",
+   "location": null
+  },
+  "policies on the use of generative super intelligence in agency adjudication; request for comments|administrative conference of the united states|": {
+   "first_seen": "2026-11-19T13:05:40+00:00",
+   "last_seen": "2026-11-19T13:05:40+00:00",
+   "title": "Policies on the Use of Generative Super Intelligence in Agency Adjudication; Request for Comments",
+   "org": "Administrative Conference of the United States",
+   "location": null
+  },
+  "national institute of neurological disorders and stroke; notice of meeting|health and human services department, national institutes of health|": {
+   "first_seen": "2026-11-19T13:05:40+00:00",
+   "last_seen": "2026-11-19T13:05:40+00:00",
+   "title": "National Institute of Neurological Disorders and Stroke; Notice of Meeting",
+   "org": "Health and Human Services Department, National Institutes of Health",
+   "location": null
+  },
+  "national institute of neurological disorders and stroke; notice of partially closed meeting|health and human services department, national institutes of health|": {
+   "first_seen": "2026-11-19T13:05:40+00:00",
+   "last_seen": "2026-11-19T13:05:40+00:00",
+   "title": "National Institute of Neurological Disorders and Stroke; Notice of Partially Closed Meeting",
+   "org": "Health and Human Services Department, National Institutes of Health",
+   "location": null
+  },
+  "national institute of nursing research; notice of meeting|health and human services department, national institutes of health|": {
+   "first_seen": "2026-11-19T13:05:40+00:00",
+   "last_seen": "2026-11-19T13:05:40+00:00",
+   "title": "National Institute of Nursing Research; Notice of Meeting",
+   "org": "Health and Human Services Department, National Institutes of Health",
+   "location": null
+  },
+  "agency information collection activities; comment request; guaranty agencies security self-assessment and attestation|education department|": {
+   "first_seen": "2026-11-19T13:05:40+00:00",
+   "last_seen": "2026-11-19T13:05:40+00:00",
+   "title": "Agency Information Collection Activities; Comment Request; Guaranty Agencies Security Self-Assessment and Attestation",
+   "org": "Education Department",
+   "location": null
+  },
+  "addressing remote access to advanced semiconductors|commerce department, industry and security bureau|": {
+   "first_seen": "2026-11-19T13:05:40+00:00",
+   "last_seen": "2026-11-19T13:05:40+00:00",
+   "title": "Addressing Remote Access to Advanced Semiconductors",
+   "org": "Commerce Department, Industry and Security Bureau",
+   "location": null
+  },
+  "self-regulatory organizations; nyse american llc; order approving a proposed rule change to amend sections 1003 and 1009|securities and exchange commission|": {
+   "first_seen": "2026-11-19T13:05:40+00:00",
+   "last_seen": "2026-11-19T13:05:40+00:00",
+   "title": "Self-Regulatory Organizations; NYSE American LLC; Order Approving a Proposed Rule Change To Amend Sections 1003 and 1009 of the NYSE American Company Guide",
+   "org": "Securities and Exchange Commission",
+   "location": null
+  },
+  "notice of intent of waiver with respect to land; marquette sawyer regional airport, gwinn, michigan|transportation department, federal aviation administration|": {
+   "first_seen": "2026-11-19T13:05:40+00:00",
+   "last_seen": "2026-11-19T13:05:40+00:00",
+   "title": "Notice of Intent of Waiver With Respect to Land; Marquette Sawyer Regional Airport, Gwinn, Michigan",
+   "org": "Transportation Department, Federal Aviation Administration",
+   "location": null
+  },
+  "citric acid and certain citrate salts from thailand: final results of antidumping duty administrative review; 2024-2025|commerce department, international trade administration|": {
+   "first_seen": "2026-11-19T13:05:40+00:00",
+   "last_seen": "2026-11-19T13:05:40+00:00",
+   "title": "Citric Acid and Certain Citrate Salts From Thailand: Final Results of Antidumping Duty Administrative Review; 2024-2025",
+   "org": "Commerce Department, International Trade Administration",
+   "location": null
+  },
+  "proposed modification of npdes general permit for new and existing sources and new dischargers in the offshore subcatego|environmental protection agency|": {
+   "first_seen": "2026-11-19T13:05:40+00:00",
+   "last_seen": "2026-11-19T13:05:40+00:00",
+   "title": "Proposed Modification of NPDES General Permit for New and Existing Sources and New Dischargers in the Offshore Subcategory of the Oil and Gas Extraction Category for the Western Portion of the Outer Continental Shelf of the Gulf of America ",
+   "org": "Environmental Protection Agency",
+   "location": null
+  },
+  "certain softwood lumber products from canada: amended final results of countervailing duty administrative review; 2024|commerce department, international trade administration|": {
+   "first_seen": "2026-11-19T13:05:40+00:00",
+   "last_seen": "2026-11-19T13:05:40+00:00",
+   "title": "Certain Softwood Lumber Products From Canada: Amended Final Results of Countervailing Duty Administrative Review; 2024",
+   "org": "Commerce Department, International Trade Administration",
+   "location": null
+  },
+  "agency information collection activities; submission to the office of management and budget for review and approval; com|environmental protection agency|": {
+   "first_seen": "2026-11-19T13:05:40+00:00",
+   "last_seen": "2026-11-19T13:05:40+00:00",
+   "title": "Agency Information Collection Activities; Submission to the Office of Management and Budget for Review and Approval; Comment Request; Federal Implementation Plans Under the Clean Air Act for Indian Reservations in Idaho, Oregon and Washingt",
+   "org": "Environmental Protection Agency",
+   "location": null
+  },
+  "advisory committee on historical diplomatic documentation-notice of closed and open meeting in december 2026|state department|": {
+   "first_seen": "2026-11-19T13:05:40+00:00",
+   "last_seen": "2026-11-19T13:05:40+00:00",
+   "title": "Advisory Committee on Historical Diplomatic Documentation-Notice of Closed and Open Meeting in December 2026",
+   "org": "State Department",
+   "location": null
+  },
+  "dave allen wright, m.d.; decision and order|justice department, drug enforcement administration|": {
+   "first_seen": "2026-11-19T13:05:40+00:00",
+   "last_seen": "2026-11-19T13:05:40+00:00",
+   "title": "Dave Allen Wright, M.D.; Decision and Order",
+   "org": "Justice Department, Drug Enforcement Administration",
+   "location": null
+  },
+  "medicare, medicaid, and marketplace programs; comprehensive regulations to uncover suspicious healthcare (crush)|health and human services department, centers for medicare & medicaid services|": {
+   "first_seen": "2026-11-19T13:05:40+00:00",
+   "last_seen": "2026-11-19T13:05:40+00:00",
+   "title": "Medicare, Medicaid, and Marketplace Programs; Comprehensive Regulations To Uncover Suspicious Healthcare (CRUSH)",
+   "org": "Health and Human Services Department, Centers for Medicare & Medicaid Services",
+   "location": null
+  },
+  "hipaa privacy rule: changes to support coordinated care and individual engagement and reduce regulatory burdens|health and human services department,|": {
+   "first_seen": "2026-11-19T13:05:40+00:00",
+   "last_seen": "2026-11-19T13:05:40+00:00",
+   "title": "HIPAA Privacy Rule: Changes To Support Coordinated Care and Individual Engagement and Reduce Regulatory Burdens",
+   "org": "Health and Human Services Department,",
    "location": null
   }
  }

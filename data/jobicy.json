@@ -3,105 +3,105 @@
  "name": "Jobicy \u2014 remote jobs",
  "category": "jobs",
  "source": "https://jobicy.com/api/v2/remote-jobs",
- "collected_at": "2026-11-19T03:27:10+00:00",
+ "collected_at": "2026-11-19T13:05:35+00:00",
  "jobs_on_board": 50,
- "new_this_run": 15,
- "total_tracked": 415,
+ "new_this_run": 50,
+ "total_tracked": 465,
  "jobs": [
   {
-   "title": "Director UX Research",
-   "org": "GoDaddy",
-   "location": "USA",
-   "detail": "Director",
-   "url": "https://jobicy.com/jobs/163205-director-ux-research",
+   "title": "Mobile Application Developer - AI Finance Agent",
+   "org": "BJAK",
+   "location": "Sweden",
+   "detail": "Any",
+   "url": "https://jobicy.com/jobs/163239-mobile-application-developer-ai-finance-agent",
    "new_this_run": true
   },
   {
-   "title": "Customer Solution Engineer, Zuora + Workday Financial Management (FINS)",
-   "org": "Zuora",
-   "location": "USA",
-   "detail": "Director",
-   "url": "https://jobicy.com/jobs/163202-customer-solution-engineer-zuora-workday-financial-management-fins",
+   "title": "Android Developer - AI Finance Agent",
+   "org": "BJAK",
+   "location": "Austria",
+   "detail": "Any",
+   "url": "https://jobicy.com/jobs/163238-android-developer-ai-finance-agent",
    "new_this_run": true
   },
   {
-   "title": "Principal Product Manager, Network Economics",
-   "org": "BetterHelp",
-   "location": "USA",
-   "detail": "Director",
-   "url": "https://jobicy.com/jobs/163201-principal-product-manager-network-economics",
+   "title": "UI Designer - AI Neobank App",
+   "org": "BJAK",
+   "location": "Germany",
+   "detail": "Any",
+   "url": "https://jobicy.com/jobs/163237-ui-designer-ai-neobank-app",
    "new_this_run": true
   },
   {
-   "title": "Engineering Manager - Platform",
-   "org": "Vonage",
-   "location": "Poland",
-   "detail": "Director",
-   "url": "https://jobicy.com/jobs/163200-engineering-manager-platform",
+   "title": "Applied AI Engineer",
+   "org": "BJAK",
+   "location": "Austria",
+   "detail": "Any",
+   "url": "https://jobicy.com/jobs/163236-applied-ai-engineer-4",
    "new_this_run": true
   },
   {
-   "title": "Implementation Architect",
-   "org": "Dropbox",
-   "location": "Canada",
-   "detail": "Director",
-   "url": "https://jobicy.com/jobs/163199-implementation-architect",
-   "new_this_run": true
-  },
-  {
-   "title": "Technical Account Manager (Mexico)",
-   "org": "Samsara",
-   "location": "Mexico",
-   "detail": "Director",
-   "url": "https://jobicy.com/jobs/163198-technical-account-manager-mexico",
-   "new_this_run": true
-  },
-  {
-   "title": "Senior Full Stack Engineer (Backend-oriented), Growth - Platform",
-   "org": "CookUnity",
-   "location": "LATAM",
+   "title": "Savvy Commercial and Operations Senior Manager - UK/Poland",
+   "org": "Laminar Projects",
+   "location": "Poland, UK",
    "detail": "Senior",
-   "url": "https://jobicy.com/jobs/163197-senior-full-stack-engineer-backend-oriented-growth-platform",
+   "url": "https://jobicy.com/jobs/163235-savvy-commercial-and-operations-senior-manager-uk-poland",
    "new_this_run": true
   },
   {
-   "title": "Senior Workday Solutions Architect",
-   "org": "Launchpad Technologies",
-   "location": "LATAM",
+   "title": "Android Software Engineer - AI Finance Agent",
+   "org": "BJAK",
+   "location": "Sweden",
+   "detail": "Any",
+   "url": "https://jobicy.com/jobs/163234-android-software-engineer-ai-finance-agent",
+   "new_this_run": true
+  },
+  {
+   "title": "SIP Expert",
+   "org": "Elevenlabs",
+   "location": "Europe",
    "detail": "Senior",
-   "url": "https://jobicy.com/jobs/163195-senior-workday-solutions-architect",
+   "url": "https://jobicy.com/jobs/163233-sip-expert",
    "new_this_run": true
   },
   {
-   "title": "Order Management Specialist",
-   "org": "Samsara",
-   "location": "Mexico",
+   "title": "Paid Media & Performance Marketing Manager (B2B) - 4 Day Week + Remote",
+   "org": "Laminar Projects",
+   "location": "Portugal, UK",
+   "detail": "Senior",
+   "url": "https://jobicy.com/jobs/163232-paid-media-performance-marketing-manager-b2b-4-day-week-remote",
+   "new_this_run": true
+  },
+  {
+   "title": "Clinical Trial Manager",
+   "org": "Precision Medicine Group",
+   "location": "Hungary, Poland, Romania, Serbia, Slovakia, Spain, UK",
+   "detail": "Senior",
+   "url": "https://jobicy.com/jobs/163231-clinical-trial-manager-4",
+   "new_this_run": true
+  },
+  {
+   "title": "Full Stack Software Engineer - AI Finance Agent",
+   "org": "BJAK",
+   "location": "Netherlands",
    "detail": "Any",
-   "url": "https://jobicy.com/jobs/163194-order-management-specialist",
+   "url": "https://jobicy.com/jobs/163230-full-stack-software-engineer-ai-finance-agent",
    "new_this_run": true
   },
   {
-   "title": "Product Support Engineer",
-   "org": "CookUnity",
-   "location": "LATAM",
+   "title": "Software Engineer - Agent Team",
+   "org": "Automox",
+   "location": "USA",
+   "detail": "Senior",
+   "url": "https://jobicy.com/jobs/163229-software-engineer-agent-team",
+   "new_this_run": true
+  },
+  {
+   "title": "Security Analyst, Third-Party Ecosystem Risk Management",
+   "org": "Plaid",
+   "location": "USA",
    "detail": "Any",
-   "url": "https://jobicy.com/jobs/163193-product-support-engineer",
-   "new_this_run": true
-  },
-  {
-   "title": "Mexico Major AE",
-   "org": "Samsara",
-   "location": "Mexico",
-   "detail": "Director",
-   "url": "https://jobicy.com/jobs/163191-mexico-major-ae-2",
-   "new_this_run": true
-  },
-  {
-   "title": "Business Operations Associate",
-   "org": "CookUnity",
-   "location": "Argentina",
-   "detail": "Any",
-   "url": "https://jobicy.com/jobs/163190-business-operations-associate",
+   "url": "https://jobicy.com/jobs/163227-security-analyst-third-party-ecosystem-risk-management",
    "new_this_run": true
   }
  ],
@@ -190,6 +190,11 @@
    "at": "2026-11-19T03:27:10+00:00",
    "jobs": 50,
    "new": 15
+  },
+  {
+   "at": "2026-11-19T13:05:35+00:00",
+   "jobs": 50,
+   "new": 50
   }
  ],
  "jobs_seen": {
@@ -3097,6 +3102,356 @@
    "title": "Operations Specialist",
    "org": "Fresh Prints",
    "location": "LATAM"
+  },
+  "mobile application developer - ai finance agent|bjak|sweden": {
+   "first_seen": "2026-11-19T13:05:35+00:00",
+   "last_seen": "2026-11-19T13:05:35+00:00",
+   "title": "Mobile Application Developer - AI Finance Agent",
+   "org": "BJAK",
+   "location": "Sweden"
+  },
+  "android developer - ai finance agent|bjak|austria": {
+   "first_seen": "2026-11-19T13:05:35+00:00",
+   "last_seen": "2026-11-19T13:05:35+00:00",
+   "title": "Android Developer - AI Finance Agent",
+   "org": "BJAK",
+   "location": "Austria"
+  },
+  "ui designer - ai neobank app|bjak|germany": {
+   "first_seen": "2026-11-19T13:05:35+00:00",
+   "last_seen": "2026-11-19T13:05:35+00:00",
+   "title": "UI Designer - AI Neobank App",
+   "org": "BJAK",
+   "location": "Germany"
+  },
+  "applied ai engineer|bjak|austria": {
+   "first_seen": "2026-11-19T13:05:35+00:00",
+   "last_seen": "2026-11-19T13:05:35+00:00",
+   "title": "Applied AI Engineer",
+   "org": "BJAK",
+   "location": "Austria"
+  },
+  "savvy commercial and operations senior manager - uk/poland|laminar projects|poland, uk": {
+   "first_seen": "2026-11-19T13:05:35+00:00",
+   "last_seen": "2026-11-19T13:05:35+00:00",
+   "title": "Savvy Commercial and Operations Senior Manager - UK/Poland",
+   "org": "Laminar Projects",
+   "location": "Poland, UK"
+  },
+  "android software engineer - ai finance agent|bjak|sweden": {
+   "first_seen": "2026-11-19T13:05:35+00:00",
+   "last_seen": "2026-11-19T13:05:35+00:00",
+   "title": "Android Software Engineer - AI Finance Agent",
+   "org": "BJAK",
+   "location": "Sweden"
+  },
+  "sip expert|elevenlabs|europe": {
+   "first_seen": "2026-11-19T13:05:35+00:00",
+   "last_seen": "2026-11-19T13:05:35+00:00",
+   "title": "SIP Expert",
+   "org": "Elevenlabs",
+   "location": "Europe"
+  },
+  "paid media & performance marketing manager (b2b) - 4 day week + remote|laminar projects|portugal, uk": {
+   "first_seen": "2026-11-19T13:05:35+00:00",
+   "last_seen": "2026-11-19T13:05:35+00:00",
+   "title": "Paid Media & Performance Marketing Manager (B2B) - 4 Day Week + Remote",
+   "org": "Laminar Projects",
+   "location": "Portugal, UK"
+  },
+  "clinical trial manager|precision medicine group|hungary, poland, romania, serbia, slovakia, spain, uk": {
+   "first_seen": "2026-11-19T13:05:35+00:00",
+   "last_seen": "2026-11-19T13:05:35+00:00",
+   "title": "Clinical Trial Manager",
+   "org": "Precision Medicine Group",
+   "location": "Hungary, Poland, Romania, Serbia, Slovakia, Spain, UK"
+  },
+  "full stack software engineer - ai finance agent|bjak|netherlands": {
+   "first_seen": "2026-11-19T13:05:35+00:00",
+   "last_seen": "2026-11-19T13:05:35+00:00",
+   "title": "Full Stack Software Engineer - AI Finance Agent",
+   "org": "BJAK",
+   "location": "Netherlands"
+  },
+  "software engineer - agent team|automox|usa": {
+   "first_seen": "2026-11-19T13:05:35+00:00",
+   "last_seen": "2026-11-19T13:05:35+00:00",
+   "title": "Software Engineer - Agent Team",
+   "org": "Automox",
+   "location": "USA"
+  },
+  "security analyst, third-party ecosystem risk management|plaid|usa": {
+   "first_seen": "2026-11-19T13:05:35+00:00",
+   "last_seen": "2026-11-19T13:05:35+00:00",
+   "title": "Security Analyst, Third-Party Ecosystem Risk Management",
+   "org": "Plaid",
+   "location": "USA"
+  },
+  "account based marketing (abm) manager|tines|usa": {
+   "first_seen": "2026-11-19T13:05:35+00:00",
+   "last_seen": "2026-11-19T13:05:35+00:00",
+   "title": "Account Based Marketing (ABM) Manager",
+   "org": "Tines",
+   "location": "USA"
+  },
+  "head of product, payo digital bank - stablecoin|payoneer|usa": {
+   "first_seen": "2026-11-19T13:05:35+00:00",
+   "last_seen": "2026-11-19T13:05:35+00:00",
+   "title": "Head of Product, PAYO Digital Bank - Stablecoin",
+   "org": "Payoneer",
+   "location": "USA"
+  },
+  "sales development representative|roofr|canada": {
+   "first_seen": "2026-11-19T13:05:35+00:00",
+   "last_seen": "2026-11-19T13:05:35+00:00",
+   "title": "Sales Development Representative",
+   "org": "Roofr",
+   "location": "Canada"
+  },
+  "go-to-market engineer|automox|usa": {
+   "first_seen": "2026-11-19T13:05:35+00:00",
+   "last_seen": "2026-11-19T13:05:35+00:00",
+   "title": "Go-To-Market Engineer",
+   "org": "Automox",
+   "location": "USA"
+  },
+  "staff software engineer|datagrail|usa": {
+   "first_seen": "2026-11-19T13:05:35+00:00",
+   "last_seen": "2026-11-19T13:05:35+00:00",
+   "title": "Staff Software Engineer",
+   "org": "DataGrail",
+   "location": "USA"
+  },
+  "gta vi researcher|kalshi|usa": {
+   "first_seen": "2026-11-19T13:05:35+00:00",
+   "last_seen": "2026-11-19T13:05:35+00:00",
+   "title": "GTA VI Researcher",
+   "org": "Kalshi",
+   "location": "USA"
+  },
+  "product marketing manager|enumerate|usa": {
+   "first_seen": "2026-11-19T13:05:35+00:00",
+   "last_seen": "2026-11-19T13:05:35+00:00",
+   "title": "Product Marketing Manager",
+   "org": "Enumerate",
+   "location": "USA"
+  },
+  "accounting operations|plaid|usa": {
+   "first_seen": "2026-11-19T13:05:35+00:00",
+   "last_seen": "2026-11-19T13:05:35+00:00",
+   "title": "Accounting Operations",
+   "org": "Plaid",
+   "location": "USA"
+  },
+  "video editor|levelup|philippines": {
+   "first_seen": "2026-11-19T13:05:35+00:00",
+   "last_seen": "2026-11-19T13:05:35+00:00",
+   "title": "Video Editor",
+   "org": "LevelUp",
+   "location": "Philippines"
+  },
+  "executive assistant|maven clinic|usa": {
+   "first_seen": "2026-11-19T13:05:35+00:00",
+   "last_seen": "2026-11-19T13:05:35+00:00",
+   "title": "Executive Assistant",
+   "org": "Maven Clinic",
+   "location": "USA"
+  },
+  "enterprise solution engineer - mid-atlantic|sigma computing|usa": {
+   "first_seen": "2026-11-19T13:05:35+00:00",
+   "last_seen": "2026-11-19T13:05:35+00:00",
+   "title": "Enterprise Solution Engineer - Mid-Atlantic",
+   "org": "Sigma Computing",
+   "location": "USA"
+  },
+  "business development manager, bank & lending partnerships|upstart|usa": {
+   "first_seen": "2026-11-19T13:05:35+00:00",
+   "last_seen": "2026-11-19T13:05:35+00:00",
+   "title": "Business Development Manager, Bank & Lending Partnerships",
+   "org": "Upstart",
+   "location": "USA"
+  },
+  "customer success manager|payoneer|usa": {
+   "first_seen": "2026-11-19T13:05:35+00:00",
+   "last_seen": "2026-11-19T13:05:35+00:00",
+   "title": "Customer Success Manager",
+   "org": "Payoneer",
+   "location": "USA"
+  },
+  "talent management specialist|orion innovation|usa": {
+   "first_seen": "2026-11-19T13:05:35+00:00",
+   "last_seen": "2026-11-19T13:05:35+00:00",
+   "title": "Talent Management Specialist",
+   "org": "Orion Innovation",
+   "location": "USA"
+  },
+  "senior sales engineer - majors (west)|datadog|usa": {
+   "first_seen": "2026-11-19T13:05:35+00:00",
+   "last_seen": "2026-11-19T13:05:35+00:00",
+   "title": "Senior Sales Engineer - Majors (West)",
+   "org": "Datadog",
+   "location": "USA"
+  },
+  "google ads specialist|levelup|philippines": {
+   "first_seen": "2026-11-19T13:05:35+00:00",
+   "last_seen": "2026-11-19T13:05:35+00:00",
+   "title": "Google Ads Specialist",
+   "org": "LevelUp",
+   "location": "Philippines"
+  },
+  "director, gtm operations & architecture|maven clinic|usa": {
+   "first_seen": "2026-11-19T13:05:35+00:00",
+   "last_seen": "2026-11-19T13:05:35+00:00",
+   "title": "Director, GTM Operations & Architecture",
+   "org": "Maven Clinic",
+   "location": "USA"
+  },
+  "applied scientist intern|upstart|usa": {
+   "first_seen": "2026-11-19T13:05:35+00:00",
+   "last_seen": "2026-11-19T13:05:35+00:00",
+   "title": "Applied Scientist Intern",
+   "org": "Upstart",
+   "location": "USA"
+  },
+  "people partner gtm|elevenlabs|usa": {
+   "first_seen": "2026-11-19T13:05:35+00:00",
+   "last_seen": "2026-11-19T13:05:35+00:00",
+   "title": "People Partner GTM",
+   "org": "Elevenlabs",
+   "location": "USA"
+  },
+  "senior software development engineer in test (sdet)|flex|anywhere": {
+   "first_seen": "2026-11-19T13:05:35+00:00",
+   "last_seen": "2026-11-19T13:05:35+00:00",
+   "title": "Senior Software Development Engineer in Test (SDET)",
+   "org": "Flex",
+   "location": "Anywhere"
+  },
+  "forward deployed engineer - software engineer - argentina|elevenlabs|argentina": {
+   "first_seen": "2026-11-19T13:05:35+00:00",
+   "last_seen": "2026-11-19T13:05:35+00:00",
+   "title": "Forward Deployed Engineer - Software Engineer - Argentina",
+   "org": "Elevenlabs",
+   "location": "Argentina"
+  },
+  "full-stack engineer (backend leaning) - creative agents|elevenlabs|anywhere": {
+   "first_seen": "2026-11-19T13:05:35+00:00",
+   "last_seen": "2026-11-19T13:05:35+00:00",
+   "title": "Full-Stack Engineer (Backend Leaning) - Creative Agents",
+   "org": "Elevenlabs",
+   "location": "Anywhere"
+  },
+  "account management lead - western europe|elevenlabs|europe": {
+   "first_seen": "2026-11-19T13:05:35+00:00",
+   "last_seen": "2026-11-19T13:05:35+00:00",
+   "title": "Account Management Lead - Western Europe",
+   "org": "Elevenlabs",
+   "location": "Europe"
+  },
+  "forward deployed engineer - software engineer - mexico|elevenlabs|mexico": {
+   "first_seen": "2026-11-19T13:05:35+00:00",
+   "last_seen": "2026-11-19T13:05:35+00:00",
+   "title": "Forward Deployed Engineer - Software Engineer - Mexico",
+   "org": "Elevenlabs",
+   "location": "Mexico"
+  },
+  "developer experience engineer|elevenlabs|europe, usa": {
+   "first_seen": "2026-11-19T13:05:35+00:00",
+   "last_seen": "2026-11-19T13:05:35+00:00",
+   "title": "Developer Experience Engineer",
+   "org": "Elevenlabs",
+   "location": "Europe, USA"
+  },
+  "account management lead - uk/i|elevenlabs|ireland, uk": {
+   "first_seen": "2026-11-19T13:05:35+00:00",
+   "last_seen": "2026-11-19T13:05:35+00:00",
+   "title": "Account Management Lead - UK/I",
+   "org": "Elevenlabs",
+   "location": "Ireland, UK"
+  },
+  "growth marketing manager|eight sleep|usa": {
+   "first_seen": "2026-11-19T13:05:35+00:00",
+   "last_seen": "2026-11-19T13:05:35+00:00",
+   "title": "Growth Marketing Manager",
+   "org": "Eight Sleep",
+   "location": "USA"
+  },
+  "quality engineer|stackadapt|canada": {
+   "first_seen": "2026-11-19T13:05:35+00:00",
+   "last_seen": "2026-11-19T13:05:35+00:00",
+   "title": "Quality Engineer",
+   "org": "StackAdapt",
+   "location": "Canada"
+  },
+  "digital sales representative|twilio|uk": {
+   "first_seen": "2026-11-19T13:05:35+00:00",
+   "last_seen": "2026-11-19T13:05:35+00:00",
+   "title": "Digital Sales Representative",
+   "org": "Twilio",
+   "location": "UK"
+  },
+  "solution architect (north america)|safe security|canada, usa": {
+   "first_seen": "2026-11-19T13:05:35+00:00",
+   "last_seen": "2026-11-19T13:05:35+00:00",
+   "title": "Solution Architect (North America)",
+   "org": "Safe Security",
+   "location": "Canada, USA"
+  },
+  "inside sales - representative (active) 2|twilio|uk": {
+   "first_seen": "2026-11-19T13:05:35+00:00",
+   "last_seen": "2026-11-19T13:05:35+00:00",
+   "title": "Inside Sales - Representative (Active) 2",
+   "org": "Twilio",
+   "location": "UK"
+  },
+  "safety specialist/safety lead|precision medicine group|japan": {
+   "first_seen": "2026-11-19T13:05:35+00:00",
+   "last_seen": "2026-11-19T13:05:35+00:00",
+   "title": "Safety Specialist/Safety Lead",
+   "org": "Precision Medicine Group",
+   "location": "Japan"
+  },
+  "fp&a manager|precision medicine group|usa": {
+   "first_seen": "2026-11-19T13:05:35+00:00",
+   "last_seen": "2026-11-19T13:05:35+00:00",
+   "title": "FP&A Manager",
+   "org": "Precision Medicine Group",
+   "location": "USA"
+  },
+  "instructional designer, trm academy (compliance)|trm labs|emea, latam, canada, usa": {
+   "first_seen": "2026-11-19T13:05:35+00:00",
+   "last_seen": "2026-11-19T13:05:35+00:00",
+   "title": "Instructional Designer, TRM Academy (Compliance)",
+   "org": "TRM Labs",
+   "location": "EMEA, LATAM, Canada, USA"
+  },
+  "new business account executive (german speaker)|twilio|ireland, spain, uk": {
+   "first_seen": "2026-11-19T13:05:35+00:00",
+   "last_seen": "2026-11-19T13:05:35+00:00",
+   "title": "New Business Account Executive (German speaker)",
+   "org": "Twilio",
+   "location": "Ireland, Spain, UK"
+  },
+  "qa/devops engineer|discord|usa": {
+   "first_seen": "2026-11-19T13:05:35+00:00",
+   "last_seen": "2026-11-19T13:05:35+00:00",
+   "title": "QA/DevOps Engineer",
+   "org": "Discord",
+   "location": "USA"
+  },
+  "senior program manager|juniper square|canada, usa": {
+   "first_seen": "2026-11-19T13:05:35+00:00",
+   "last_seen": "2026-11-19T13:05:35+00:00",
+   "title": "Senior Program Manager",
+   "org": "Juniper Square",
+   "location": "Canada, USA"
+  },
+  "assistant manager, fund administration (accounting)|juniper square|canada, usa": {
+   "first_seen": "2026-11-19T13:05:35+00:00",
+   "last_seen": "2026-11-19T13:05:35+00:00",
+   "title": "Assistant Manager, Fund Administration (Accounting)",
+   "org": "Juniper Square",
+   "location": "Canada, USA"
   }
  }
 }

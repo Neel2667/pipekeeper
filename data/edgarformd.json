@@ -3,7 +3,7 @@
  "name": "SEC EDGAR \u2014 new private funding rounds (Form D, 7 days)",
  "category": "funding",
  "source": "https://efts.sec.gov/LATEST/search-index",
- "collected_at": "2026-11-19T03:27:12+00:00",
+ "collected_at": "2026-11-19T13:05:38+00:00",
  "jobs_on_board": 8,
  "new_this_run": 0,
  "total_tracked": 14,
@@ -158,19 +158,24 @@
    "at": "2026-11-19T03:27:12+00:00",
    "jobs": 8,
    "new": 0
+  },
+  {
+   "at": "2026-11-19T13:05:38+00:00",
+   "jobs": 8,
+   "new": 0
   }
  ],
  "jobs_seen": {
   "palomma holdings ltd raised (form d)|palomma holdings ltd|medellin": {
    "first_seen": "2026-11-15T10:13:46+00:00",
-   "last_seen": "2026-11-19T03:27:12+00:00",
+   "last_seen": "2026-11-19T13:05:38+00:00",
    "title": "Palomma Holdings Ltd raised (Form D)",
    "org": "Palomma Holdings Ltd",
    "location": "Medellin"
   },
   "bridge33 real estate partners iv (qp) lp raised (form d)|bridge33 real estate partners iv (qp) lp|seattle, wa": {
    "first_seen": "2026-11-15T10:13:46+00:00",
-   "last_seen": "2026-11-19T03:27:12+00:00",
+   "last_seen": "2026-11-19T13:05:38+00:00",
    "title": "Bridge33 Real Estate Partners IV (QP) LP raised (Form D)",
    "org": "Bridge33 Real Estate Partners IV (QP) LP",
    "location": "Seattle, WA"
@@ -191,7 +196,7 @@
   },
   "bridge33 real estate partners iv (qc) lp raised (form d)|bridge33 real estate partners iv (qc) lp|seattle, wa": {
    "first_seen": "2026-11-15T10:13:46+00:00",
-   "last_seen": "2026-11-19T03:27:12+00:00",
+   "last_seen": "2026-11-19T13:05:38+00:00",
    "title": "Bridge33 Real Estate Partners IV (QC) LP raised (Form D)",
    "org": "Bridge33 Real Estate Partners IV (QC) LP",
    "location": "Seattle, WA"
@@ -212,7 +217,7 @@
   },
   "nextech3d.ai corp. (nexcf) raised (form d)|nextech3d.ai corp. (nexcf)|toronto, a6": {
    "first_seen": "2026-11-15T10:13:46+00:00",
-   "last_seen": "2026-11-19T03:27:12+00:00",
+   "last_seen": "2026-11-19T13:05:38+00:00",
    "title": "Nextech3D.AI Corp. (NEXCF) raised (Form D)",
    "org": "Nextech3D.AI Corp. (NEXCF)",
    "location": "Toronto, A6"
@@ -226,7 +231,7 @@
   },
   "hydrofarm holdings group, inc. (hyfm) raised (form d)|hydrofarm holdings group, inc. (hyfm)|shoemakersville, pa": {
    "first_seen": "2026-11-15T10:13:46+00:00",
-   "last_seen": "2026-11-19T03:27:12+00:00",
+   "last_seen": "2026-11-19T13:05:38+00:00",
    "title": "HYDROFARM HOLDINGS GROUP, INC. (HYFM) raised (Form D)",
    "org": "HYDROFARM HOLDINGS GROUP, INC. (HYFM)",
    "location": "Shoemakersville, PA"
@@ -240,21 +245,21 @@
   },
   "knollwood frontier, lp raised (form d)|knollwood frontier, lp|hunt valley, md": {
    "first_seen": "2026-11-16T20:29:26+00:00",
-   "last_seen": "2026-11-19T03:27:12+00:00",
+   "last_seen": "2026-11-19T13:05:38+00:00",
    "title": "Knollwood Frontier, LP raised (Form D)",
    "org": "Knollwood Frontier, LP",
    "location": "Hunt Valley, MD"
   },
   "uspd grand cayman opportunity fund llc raised (form d)|uspd grand cayman opportunity fund llc|fort worth, tx": {
    "first_seen": "2026-11-17T22:24:02+00:00",
-   "last_seen": "2026-11-19T03:27:12+00:00",
+   "last_seen": "2026-11-19T13:05:38+00:00",
    "title": "USPD Grand Cayman Opportunity Fund LLC raised (Form D)",
    "org": "USPD Grand Cayman Opportunity Fund LLC",
    "location": "Fort Worth, TX"
   },
   "vesalius longevity labs inc. raised (form d)|vesalius longevity labs inc.|vancouver": {
    "first_seen": "2026-11-18T21:56:26+00:00",
-   "last_seen": "2026-11-19T03:27:12+00:00",
+   "last_seen": "2026-11-19T13:05:38+00:00",
    "title": "Vesalius Longevity Labs Inc. raised (Form D)",
    "org": "Vesalius Longevity Labs Inc.",
    "location": "Vancouver"

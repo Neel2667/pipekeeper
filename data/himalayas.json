@@ -3,104 +3,104 @@
  "name": "Himalayas \u2014 remote jobs",
  "category": "jobs",
  "source": "https://himalayas.app/jobs/api",
- "collected_at": "2026-11-19T03:27:10+00:00",
+ "collected_at": "2026-11-19T13:05:36+00:00",
  "jobs_on_board": 20,
  "new_this_run": 20,
- "total_tracked": 299,
+ "total_tracked": 319,
  "jobs": [
   {
-   "title": "Meeting Coorindator, Speaker Bureau (US, Virtual, NOAM)",
-   "org": "BCD Travel",
+   "title": "Senior Director \u2013 Software Product Management, LillyDirect International",
+   "org": "Lifelancer",
    "location": "United States",
-   "detail": "$52,500\u2013$58,000/a",
+   "detail": "$163,500\u2013$275,000/a",
    "url": null,
    "new_this_run": true
   },
   {
-   "title": "Chat & Email Support Agent",
-   "org": "Invicta Software",
-   "location": "United States",
-   "detail": "$53,500\u2013$69,700/a",
-   "url": null,
-   "new_this_run": true
-  },
-  {
-   "title": "Regional Director",
-   "org": "Fortive",
-   "location": "United States",
+   "title": "Freelance or permanent - SAP FIORI/ABAP Developer (Medior)",
+   "org": "EngiFlex",
+   "location": "Belgium",
    "detail": "Full Time",
    "url": null,
    "new_this_run": true
   },
   {
-   "title": "AI Safety Specialist - Fully Remote | Up to $25/hr",
-   "org": "mercor",
-   "location": "Singapore",
-   "detail": "$17\u2013$25/h",
-   "url": null,
-   "new_this_run": true
-  },
-  {
-   "title": "Arabic Linguistic Expert - Fully Remote | Up to $50/hr",
-   "org": "mercor",
-   "location": "United Arab Emirates",
-   "detail": "$50\u2013$50/h",
-   "url": null,
-   "new_this_run": true
-  },
-  {
-   "title": "Oncology Field Medical, Senior Director (non-MD)",
-   "org": "Pfizer",
+   "title": "Project Manager Specialist",
+   "org": "BayWa r.e. Solar Distribution / US",
    "location": "United States",
-   "detail": "$214,900\u2013$358,100/a",
+   "detail": "$60,000\u2013$70,000/a",
    "url": null,
    "new_this_run": true
   },
   {
-   "title": "Engagement Marketing Manager (Braze)",
-   "org": "Pager Health",
+   "title": "Manager, Communications - REMOTE (Cranberry Township, US)",
+   "org": "Westinghouse Electric Company",
    "location": "United States",
+   "detail": "$112,400\u2013$140,500/a",
+   "url": null,
+   "new_this_run": true
+  },
+  {
+   "title": "Senior/Principal Technical Product Manager",
+   "org": "Nava",
+   "location": "United States",
+   "detail": "$153,000\u2013$173,700/a",
+   "url": null,
+   "new_this_run": true
+  },
+  {
+   "title": "Associate Underwriter, Small Business Construction, (2 positions), Remote",
+   "org": "Crum & Forster",
+   "location": "United States",
+   "detail": "$46,000\u2013$86,500/a",
+   "url": null,
+   "new_this_run": true
+  },
+  {
+   "title": "Site Reliability Specialist II (Linux/AWS/Monitoring)",
+   "org": "Intelerad",
+   "location": "United States",
+   "detail": "$82,500\u2013$110,000/a",
+   "url": null,
+   "new_this_run": true
+  },
+  {
+   "title": "Help Desk Technician",
+   "org": "Encoreautoclave",
+   "location": "United States",
+   "detail": "$25,000\u2013$75,000/a",
+   "url": null,
+   "new_this_run": true
+  },
+  {
+   "title": "Freelance of vast - Functioneel Analist, Testco\u00f6rdinator en Scrum Master",
+   "org": "EngiFlex",
+   "location": "Belgium",
    "detail": "Full Time",
    "url": null,
    "new_this_run": true
   },
   {
-   "title": "Field CTO",
-   "org": "Aimpoint Digital",
-   "location": "United States",
-   "detail": "Full Time",
+   "title": "Web Developer (PHP & JavaScript)",
+   "org": "Eclipse Foundation, Inc.",
+   "location": "Belgium, Canada, France, Germany, Italy, Portugal, Spain",
+   "detail": "$75,000\u2013$95,000/a",
    "url": null,
    "new_this_run": true
   },
   {
-   "title": "Enterprise Partner Marketing Manager",
-   "org": "NVIDIA",
-   "location": "Australia",
-   "detail": "Full Time",
+   "title": "Senior Digital Donor Specialist",
+   "org": "Earthworks",
+   "location": "United States",
+   "detail": "$80,000\u2013$85,000/a",
    "url": null,
    "new_this_run": true
   },
   {
-   "title": "Business Development Representative",
-   "org": "Litmos",
+   "title": "Lead Technical Analyst (Remote, US)",
+   "org": "CenturyLink",
    "location": "United States",
-   "detail": "$45,000\u2013$55,000/a",
-   "url": null,
-   "new_this_run": true
-  },
-  {
-   "title": "Community Liaison (Northwest Indiana)",
-   "org": "Universal Hospital Services Inc.",
-   "location": "United States",
-   "detail": "Full Time",
-   "url": null,
-   "new_this_run": true
-  },
-  {
-   "title": "Specific Stop Loss Claim Auditor Intern",
-   "org": "Brown & Brown Insurance",
-   "location": "United States",
-   "detail": "$19\u2013$19/h",
+   "detail": "$84,629\u2013$124,122/a",
    "url": null,
    "new_this_run": true
   }
@@ -188,6 +188,11 @@
   },
   {
    "at": "2026-11-19T03:27:10+00:00",
+   "jobs": 20,
+   "new": 20
+  },
+  {
+   "at": "2026-11-19T13:05:36+00:00",
    "jobs": 20,
    "new": 20
   }
@@ -2285,6 +2290,146 @@
    "title": "Customer Service Rep",
    "org": "Palmetto State Armory",
    "location": "United States"
+  },
+  "senior director \u2013 software product management, lillydirect international|lifelancer|united states": {
+   "first_seen": "2026-11-19T13:05:36+00:00",
+   "last_seen": "2026-11-19T13:05:36+00:00",
+   "title": "Senior Director \u2013 Software Product Management, LillyDirect International",
+   "org": "Lifelancer",
+   "location": "United States"
+  },
+  "freelance or permanent - sap fiori/abap developer (medior)|engiflex|belgium": {
+   "first_seen": "2026-11-19T13:05:36+00:00",
+   "last_seen": "2026-11-19T13:05:36+00:00",
+   "title": "Freelance or permanent - SAP FIORI/ABAP Developer (Medior)",
+   "org": "EngiFlex",
+   "location": "Belgium"
+  },
+  "project manager specialist|baywa r.e. solar distribution / us|united states": {
+   "first_seen": "2026-11-19T13:05:36+00:00",
+   "last_seen": "2026-11-19T13:05:36+00:00",
+   "title": "Project Manager Specialist",
+   "org": "BayWa r.e. Solar Distribution / US",
+   "location": "United States"
+  },
+  "manager, communications - remote (cranberry township, us)|westinghouse electric company|united states": {
+   "first_seen": "2026-11-19T13:05:36+00:00",
+   "last_seen": "2026-11-19T13:05:36+00:00",
+   "title": "Manager, Communications - REMOTE (Cranberry Township, US)",
+   "org": "Westinghouse Electric Company",
+   "location": "United States"
+  },
+  "senior/principal technical product manager|nava|united states": {
+   "first_seen": "2026-11-19T13:05:36+00:00",
+   "last_seen": "2026-11-19T13:05:36+00:00",
+   "title": "Senior/Principal Technical Product Manager",
+   "org": "Nava",
+   "location": "United States"
+  },
+  "associate underwriter, small business construction, (2 positions), remote|crum & forster|united states": {
+   "first_seen": "2026-11-19T13:05:36+00:00",
+   "last_seen": "2026-11-19T13:05:36+00:00",
+   "title": "Associate Underwriter, Small Business Construction, (2 positions), Remote",
+   "org": "Crum & Forster",
+   "location": "United States"
+  },
+  "site reliability specialist ii (linux/aws/monitoring)|intelerad|united states": {
+   "first_seen": "2026-11-19T13:05:36+00:00",
+   "last_seen": "2026-11-19T13:05:36+00:00",
+   "title": "Site Reliability Specialist II (Linux/AWS/Monitoring)",
+   "org": "Intelerad",
+   "location": "United States"
+  },
+  "help desk technician|encoreautoclave|united states": {
+   "first_seen": "2026-11-19T13:05:36+00:00",
+   "last_seen": "2026-11-19T13:05:36+00:00",
+   "title": "Help Desk Technician",
+   "org": "Encoreautoclave",
+   "location": "United States"
+  },
+  "freelance of vast - functioneel analist, testco\u00f6rdinator en scrum master|engiflex|belgium": {
+   "first_seen": "2026-11-19T13:05:36+00:00",
+   "last_seen": "2026-11-19T13:05:36+00:00",
+   "title": "Freelance of vast - Functioneel Analist, Testco\u00f6rdinator en Scrum Master",
+   "org": "EngiFlex",
+   "location": "Belgium"
+  },
+  "web developer (php & javascript)|eclipse foundation, inc.|belgium, canada, france, germany, italy, portugal, spain": {
+   "first_seen": "2026-11-19T13:05:36+00:00",
+   "last_seen": "2026-11-19T13:05:36+00:00",
+   "title": "Web Developer (PHP & JavaScript)",
+   "org": "Eclipse Foundation, Inc.",
+   "location": "Belgium, Canada, France, Germany, Italy, Portugal, Spain"
+  },
+  "senior digital donor specialist|earthworks|united states": {
+   "first_seen": "2026-11-19T13:05:36+00:00",
+   "last_seen": "2026-11-19T13:05:36+00:00",
+   "title": "Senior Digital Donor Specialist",
+   "org": "Earthworks",
+   "location": "United States"
+  },
+  "lead technical analyst (remote, us)|centurylink|united states": {
+   "first_seen": "2026-11-19T13:05:36+00:00",
+   "last_seen": "2026-11-19T13:05:36+00:00",
+   "title": "Lead Technical Analyst (Remote, US)",
+   "org": "CenturyLink",
+   "location": "United States"
+  },
+  "architectural sales representative|soprema|united states": {
+   "first_seen": "2026-11-19T13:05:36+00:00",
+   "last_seen": "2026-11-19T13:05:36+00:00",
+   "title": "Architectural Sales Representative",
+   "org": "SOPREMA",
+   "location": "United States"
+  },
+  "principal software engineer|meazure learning|india": {
+   "first_seen": "2026-11-19T13:05:36+00:00",
+   "last_seen": "2026-11-19T13:05:36+00:00",
+   "title": "Principal Software Engineer",
+   "org": "Meazure Learning",
+   "location": "India"
+  },
+  "sr. consultant, site reliability engineer|visa|brazil": {
+   "first_seen": "2026-11-19T13:05:36+00:00",
+   "last_seen": "2026-11-19T13:05:36+00:00",
+   "title": "Sr. Consultant, Site Reliability Engineer",
+   "org": "Visa",
+   "location": "Brazil"
+  },
+  "senior field service technician|abb|united states": {
+   "first_seen": "2026-11-19T13:05:36+00:00",
+   "last_seen": "2026-11-19T13:05:36+00:00",
+   "title": "Senior Field Service Technician",
+   "org": "ABB",
+   "location": "United States"
+  },
+  "trainee financial professional client success|equitable|united states": {
+   "first_seen": "2026-11-19T13:05:36+00:00",
+   "last_seen": "2026-11-19T13:05:36+00:00",
+   "title": "Trainee Financial Professional Client Success",
+   "org": "Equitable",
+   "location": "United States"
+  },
+  "contract manager (legal team)|blue matter|united states": {
+   "first_seen": "2026-11-19T13:05:36+00:00",
+   "last_seen": "2026-11-19T13:05:36+00:00",
+   "title": "Contract Manager (Legal Team)",
+   "org": "Blue Matter",
+   "location": "United States"
+  },
+  "salesforce developer|fullbay|united states": {
+   "first_seen": "2026-11-19T13:05:36+00:00",
+   "last_seen": "2026-11-19T13:05:36+00:00",
+   "title": "Salesforce Developer",
+   "org": "Fullbay",
+   "location": "United States"
+  },
+  "business manager - dairy|animal nutrition & health nederland b.v.|india": {
+   "first_seen": "2026-11-19T13:05:36+00:00",
+   "last_seen": "2026-11-19T13:05:36+00:00",
+   "title": "Business Manager - Dairy",
+   "org": "Animal Nutrition & Health Nederland B.V.",
+   "location": "India"
   }
  }
 }
