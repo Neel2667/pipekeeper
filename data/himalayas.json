@@ -3,104 +3,104 @@
  "name": "Himalayas \u2014 remote jobs",
  "category": "jobs",
  "source": "https://himalayas.app/jobs/api",
- "collected_at": "2026-11-18T21:56:23+00:00",
+ "collected_at": "2026-11-19T03:27:10+00:00",
  "jobs_on_board": 20,
  "new_this_run": 20,
- "total_tracked": 279,
+ "total_tracked": 299,
  "jobs": [
   {
-   "title": "Senior Backend Engineer (Cybersecurity)",
-   "org": "CommIT",
-   "location": "Poland",
-   "detail": "Full Time",
+   "title": "Meeting Coorindator, Speaker Bureau (US, Virtual, NOAM)",
+   "org": "BCD Travel",
+   "location": "United States",
+   "detail": "$52,500\u2013$58,000/a",
    "url": null,
    "new_this_run": true
   },
   {
-   "title": "Implementation Senior Associate",
-   "org": "Kodiak Solutions",
+   "title": "Chat & Email Support Agent",
+   "org": "Invicta Software",
+   "location": "United States",
+   "detail": "$53,500\u2013$69,700/a",
+   "url": null,
+   "new_this_run": true
+  },
+  {
+   "title": "Regional Director",
+   "org": "Fortive",
    "location": "United States",
    "detail": "Full Time",
    "url": null,
    "new_this_run": true
   },
   {
-   "title": "Technical Success Manager",
-   "org": "Darktrace",
-   "location": "Indonesia",
-   "detail": "Full Time",
-   "url": null,
-   "new_this_run": true
-  },
-  {
-   "title": "Seasonal Tax Preparer",
-   "org": "Mercer Advisors",
-   "location": "United States",
-   "detail": "$25\u2013$25/h",
-   "url": null,
-   "new_this_run": true
-  },
-  {
-   "title": "Consultor Experto en Integraci\u00f3n S/4HANA y EDI Biling\u00fce",
-   "org": "NetPartners International",
-   "location": "Colombia",
-   "detail": "Full Time",
-   "url": null,
-   "new_this_run": true
-  },
-  {
-   "title": "\u30b9\u30b1\u30b8\u30e5\u30fc\u30eb\u30b3\u30fc\u30c7\u30a3\u30cd\u30fc\u30bf",
-   "org": "Agilent Technologies",
-   "location": "Japan",
-   "detail": "Full Time",
-   "url": null,
-   "new_this_run": true
-  },
-  {
-   "title": "Network Security Integration Engineer",
-   "org": "Leidos",
-   "location": "United States",
-   "detail": "$69,550\u2013$125,725/a",
-   "url": null,
-   "new_this_run": true
-  },
-  {
-   "title": "Application Security Expert - Fully Remote | Up to $400/task",
+   "title": "AI Safety Specialist - Fully Remote | Up to $25/hr",
    "org": "mercor",
-   "location": "United States",
-   "detail": "Contractor",
+   "location": "Singapore",
+   "detail": "$17\u2013$25/h",
    "url": null,
    "new_this_run": true
   },
   {
-   "title": "Analista Desenvolvedor(a) Calypso | Back Office e Contabilidade",
-   "org": "Grupo Data",
-   "location": "Brazil",
+   "title": "Arabic Linguistic Expert - Fully Remote | Up to $50/hr",
+   "org": "mercor",
+   "location": "United Arab Emirates",
+   "detail": "$50\u2013$50/h",
+   "url": null,
+   "new_this_run": true
+  },
+  {
+   "title": "Oncology Field Medical, Senior Director (non-MD)",
+   "org": "Pfizer",
+   "location": "United States",
+   "detail": "$214,900\u2013$358,100/a",
+   "url": null,
+   "new_this_run": true
+  },
+  {
+   "title": "Engagement Marketing Manager (Braze)",
+   "org": "Pager Health",
+   "location": "United States",
    "detail": "Full Time",
    "url": null,
    "new_this_run": true
   },
   {
-   "title": "Accounts Payable/Receivable Specialist",
-   "org": "The N2 Company",
-   "location": "United States",
-   "detail": "$48,000\u2013$48,000/a",
-   "url": null,
-   "new_this_run": true
-  },
-  {
-   "title": "Product Marketing Lead",
-   "org": "Nagomi Security",
+   "title": "Field CTO",
+   "org": "Aimpoint Digital",
    "location": "United States",
    "detail": "Full Time",
    "url": null,
    "new_this_run": true
   },
   {
-   "title": "Opera\u00e7\u00f5es - SRE Cloud",
-   "org": "Grupo SysMap",
-   "location": "Brazil",
+   "title": "Enterprise Partner Marketing Manager",
+   "org": "NVIDIA",
+   "location": "Australia",
    "detail": "Full Time",
+   "url": null,
+   "new_this_run": true
+  },
+  {
+   "title": "Business Development Representative",
+   "org": "Litmos",
+   "location": "United States",
+   "detail": "$45,000\u2013$55,000/a",
+   "url": null,
+   "new_this_run": true
+  },
+  {
+   "title": "Community Liaison (Northwest Indiana)",
+   "org": "Universal Hospital Services Inc.",
+   "location": "United States",
+   "detail": "Full Time",
+   "url": null,
+   "new_this_run": true
+  },
+  {
+   "title": "Specific Stop Loss Claim Auditor Intern",
+   "org": "Brown & Brown Insurance",
+   "location": "United States",
+   "detail": "$19\u2013$19/h",
    "url": null,
    "new_this_run": true
   }
@@ -183,6 +183,11 @@
   },
   {
    "at": "2026-11-18T21:56:23+00:00",
+   "jobs": 20,
+   "new": 20
+  },
+  {
+   "at": "2026-11-19T03:27:10+00:00",
    "jobs": 20,
    "new": 20
   }
@@ -2139,6 +2144,146 @@
    "last_seen": "2026-11-18T21:56:23+00:00",
    "title": "Tax Client Services Manager",
    "org": "DiLucci CPA",
+   "location": "United States"
+  },
+  "meeting coorindator, speaker bureau (us, virtual, noam)|bcd travel|united states": {
+   "first_seen": "2026-11-19T03:27:10+00:00",
+   "last_seen": "2026-11-19T03:27:10+00:00",
+   "title": "Meeting Coorindator, Speaker Bureau (US, Virtual, NOAM)",
+   "org": "BCD Travel",
+   "location": "United States"
+  },
+  "chat & email support agent|invicta software|united states": {
+   "first_seen": "2026-11-19T03:27:10+00:00",
+   "last_seen": "2026-11-19T03:27:10+00:00",
+   "title": "Chat & Email Support Agent",
+   "org": "Invicta Software",
+   "location": "United States"
+  },
+  "regional director|fortive|united states": {
+   "first_seen": "2026-11-19T03:27:10+00:00",
+   "last_seen": "2026-11-19T03:27:10+00:00",
+   "title": "Regional Director",
+   "org": "Fortive",
+   "location": "United States"
+  },
+  "ai safety specialist - fully remote | up to $25/hr|mercor|singapore": {
+   "first_seen": "2026-11-19T03:27:10+00:00",
+   "last_seen": "2026-11-19T03:27:10+00:00",
+   "title": "AI Safety Specialist - Fully Remote | Up to $25/hr",
+   "org": "mercor",
+   "location": "Singapore"
+  },
+  "arabic linguistic expert - fully remote | up to $50/hr|mercor|united arab emirates": {
+   "first_seen": "2026-11-19T03:27:10+00:00",
+   "last_seen": "2026-11-19T03:27:10+00:00",
+   "title": "Arabic Linguistic Expert - Fully Remote | Up to $50/hr",
+   "org": "mercor",
+   "location": "United Arab Emirates"
+  },
+  "oncology field medical, senior director (non-md)|pfizer|united states": {
+   "first_seen": "2026-11-19T03:27:10+00:00",
+   "last_seen": "2026-11-19T03:27:10+00:00",
+   "title": "Oncology Field Medical, Senior Director (non-MD)",
+   "org": "Pfizer",
+   "location": "United States"
+  },
+  "engagement marketing manager (braze)|pager health|united states": {
+   "first_seen": "2026-11-19T03:27:10+00:00",
+   "last_seen": "2026-11-19T03:27:10+00:00",
+   "title": "Engagement Marketing Manager (Braze)",
+   "org": "Pager Health",
+   "location": "United States"
+  },
+  "field cto|aimpoint digital|united states": {
+   "first_seen": "2026-11-19T03:27:10+00:00",
+   "last_seen": "2026-11-19T03:27:10+00:00",
+   "title": "Field CTO",
+   "org": "Aimpoint Digital",
+   "location": "United States"
+  },
+  "enterprise partner marketing manager|nvidia|australia": {
+   "first_seen": "2026-11-19T03:27:10+00:00",
+   "last_seen": "2026-11-19T03:27:10+00:00",
+   "title": "Enterprise Partner Marketing Manager",
+   "org": "NVIDIA",
+   "location": "Australia"
+  },
+  "business development representative|litmos|united states": {
+   "first_seen": "2026-11-19T03:27:10+00:00",
+   "last_seen": "2026-11-19T03:27:10+00:00",
+   "title": "Business Development Representative",
+   "org": "Litmos",
+   "location": "United States"
+  },
+  "community liaison (northwest indiana)|universal hospital services inc.|united states": {
+   "first_seen": "2026-11-19T03:27:10+00:00",
+   "last_seen": "2026-11-19T03:27:10+00:00",
+   "title": "Community Liaison (Northwest Indiana)",
+   "org": "Universal Hospital Services Inc.",
+   "location": "United States"
+  },
+  "specific stop loss claim auditor intern|brown & brown insurance|united states": {
+   "first_seen": "2026-11-19T03:27:10+00:00",
+   "last_seen": "2026-11-19T03:27:10+00:00",
+   "title": "Specific Stop Loss Claim Auditor Intern",
+   "org": "Brown & Brown Insurance",
+   "location": "United States"
+  },
+  "vice president of engineering|simx, inc.|united states": {
+   "first_seen": "2026-11-19T03:27:10+00:00",
+   "last_seen": "2026-11-19T03:27:10+00:00",
+   "title": "Vice President of Engineering",
+   "org": "SimX, Inc.",
+   "location": "United States"
+  },
+  "fixed assets lead|nebius|united states": {
+   "first_seen": "2026-11-19T03:27:10+00:00",
+   "last_seen": "2026-11-19T03:27:10+00:00",
+   "title": "Fixed Assets Lead",
+   "org": "Nebius",
+   "location": "United States"
+  },
+  "bid writer|leidos|united kingdom": {
+   "first_seen": "2026-11-19T03:27:10+00:00",
+   "last_seen": "2026-11-19T03:27:10+00:00",
+   "title": "Bid Writer",
+   "org": "Leidos",
+   "location": "United Kingdom"
+  },
+  "senior servicenow administrator - fully remote|ithouse sp. z o.o.|portugal": {
+   "first_seen": "2026-11-19T03:27:10+00:00",
+   "last_seen": "2026-11-19T03:27:10+00:00",
+   "title": "Senior ServiceNow Administrator - Fully Remote",
+   "org": "ITHOUSE Sp. z o.o.",
+   "location": "Portugal"
+  },
+  "undergrad intern - change readiness and organization effectiveness (summer 2027)|amgen|united states": {
+   "first_seen": "2026-11-19T03:27:10+00:00",
+   "last_seen": "2026-11-19T03:27:10+00:00",
+   "title": "Undergrad Intern - Change Readiness and Organization Effectiveness (Summer 2027)",
+   "org": "Amgen",
+   "location": "United States"
+  },
+  "manager, ai solutions owner|cardinal health|united states": {
+   "first_seen": "2026-11-19T03:27:10+00:00",
+   "last_seen": "2026-11-19T03:27:10+00:00",
+   "title": "Manager, AI Solutions Owner",
+   "org": "Cardinal Health",
+   "location": "United States"
+  },
+  "project manager, performance marketing operations|holiday inn club vacations|united states": {
+   "first_seen": "2026-11-19T03:27:10+00:00",
+   "last_seen": "2026-11-19T03:27:10+00:00",
+   "title": "Project Manager, Performance Marketing Operations",
+   "org": "Holiday Inn Club Vacations",
+   "location": "United States"
+  },
+  "customer service rep|palmetto state armory|united states": {
+   "first_seen": "2026-11-19T03:27:10+00:00",
+   "last_seen": "2026-11-19T03:27:10+00:00",
+   "title": "Customer Service Rep",
+   "org": "Palmetto State Armory",
    "location": "United States"
   }
  }

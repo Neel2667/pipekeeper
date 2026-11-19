@@ -3,105 +3,105 @@
  "name": "Jobicy \u2014 remote jobs",
  "category": "jobs",
  "source": "https://jobicy.com/api/v2/remote-jobs",
- "collected_at": "2026-11-18T21:56:23+00:00",
+ "collected_at": "2026-11-19T03:27:10+00:00",
  "jobs_on_board": 50,
- "new_this_run": 50,
- "total_tracked": 400,
+ "new_this_run": 15,
+ "total_tracked": 415,
  "jobs": [
   {
-   "title": "Executive Business Director, West",
-   "org": "Xenon Pharmaceuticals Inc.",
+   "title": "Director UX Research",
+   "org": "GoDaddy",
    "location": "USA",
    "detail": "Director",
-   "url": "https://jobicy.com/jobs/163179-executive-business-director-west",
+   "url": "https://jobicy.com/jobs/163205-director-ux-research",
    "new_this_run": true
   },
   {
-   "title": "Senior Performance Strategist",
-   "org": "Superside",
-   "location": "LATAM",
-   "detail": "Senior",
-   "url": "https://jobicy.com/jobs/163177-senior-performance-strategist",
-   "new_this_run": true
-  },
-  {
-   "title": "Regional Sales Director - St. Louis",
-   "org": "Mineralys Therapeutics",
+   "title": "Customer Solution Engineer, Zuora + Workday Financial Management (FINS)",
+   "org": "Zuora",
    "location": "USA",
    "detail": "Director",
-   "url": "https://jobicy.com/jobs/163176-regional-sales-director-st-louis",
+   "url": "https://jobicy.com/jobs/163202-customer-solution-engineer-zuora-workday-financial-management-fins",
    "new_this_run": true
   },
   {
-   "title": "Platform Engineer-Kubernetes Operators",
-   "org": "EDB",
-   "location": "USA",
-   "detail": "Senior",
-   "url": "https://jobicy.com/jobs/163175-platform-engineer-kubernetes-operators",
-   "new_this_run": true
-  },
-  {
-   "title": "Executive Business Director, East",
-   "org": "Xenon Pharmaceuticals Inc.",
+   "title": "Principal Product Manager, Network Economics",
+   "org": "BetterHelp",
    "location": "USA",
    "detail": "Director",
-   "url": "https://jobicy.com/jobs/163174-executive-business-director-east",
+   "url": "https://jobicy.com/jobs/163201-principal-product-manager-network-economics",
    "new_this_run": true
   },
   {
-   "title": "Client Revenue Manager",
-   "org": "Beyond",
-   "location": "USA",
+   "title": "Engineering Manager - Platform",
+   "org": "Vonage",
+   "location": "Poland",
    "detail": "Director",
-   "url": "https://jobicy.com/jobs/163173-client-revenue-manager",
+   "url": "https://jobicy.com/jobs/163200-engineering-manager-platform",
    "new_this_run": true
   },
   {
-   "title": "City Manager, LA",
-   "org": "Flex",
-   "location": "USA",
-   "detail": "Senior",
-   "url": "https://jobicy.com/jobs/163172-city-manager-la",
-   "new_this_run": true
-  },
-  {
-   "title": "Lead Creative (Motion Design)",
-   "org": "Superside",
-   "location": "LATAM",
-   "detail": "Senior",
-   "url": "https://jobicy.com/jobs/163171-lead-creative-motion-design",
-   "new_this_run": true
-  },
-  {
-   "title": "Regional Sales Director - San Francisco",
-   "org": "Mineralys Therapeutics",
-   "location": "USA",
-   "detail": "Director",
-   "url": "https://jobicy.com/jobs/163170-regional-sales-director-san-francisco",
-   "new_this_run": true
-  },
-  {
-   "title": "Forward Deployed Engineer II (Remote, US)",
-   "org": "Sayari",
-   "location": "USA",
-   "detail": "Director",
-   "url": "https://jobicy.com/jobs/163168-forward-deployed-engineer-ii-remote-us",
-   "new_this_run": true
-  },
-  {
-   "title": "Principal Product Marketing Manager - OIS",
-   "org": "Huntress",
-   "location": "USA",
-   "detail": "Director",
-   "url": "https://jobicy.com/jobs/163167-principal-product-marketing-manager-ois",
-   "new_this_run": true
-  },
-  {
-   "title": "Staff Engineer",
-   "org": "Vantage",
+   "title": "Implementation Architect",
+   "org": "Dropbox",
    "location": "Canada",
+   "detail": "Director",
+   "url": "https://jobicy.com/jobs/163199-implementation-architect",
+   "new_this_run": true
+  },
+  {
+   "title": "Technical Account Manager (Mexico)",
+   "org": "Samsara",
+   "location": "Mexico",
+   "detail": "Director",
+   "url": "https://jobicy.com/jobs/163198-technical-account-manager-mexico",
+   "new_this_run": true
+  },
+  {
+   "title": "Senior Full Stack Engineer (Backend-oriented), Growth - Platform",
+   "org": "CookUnity",
+   "location": "LATAM",
    "detail": "Senior",
-   "url": "https://jobicy.com/jobs/163166-staff-engineer-3",
+   "url": "https://jobicy.com/jobs/163197-senior-full-stack-engineer-backend-oriented-growth-platform",
+   "new_this_run": true
+  },
+  {
+   "title": "Senior Workday Solutions Architect",
+   "org": "Launchpad Technologies",
+   "location": "LATAM",
+   "detail": "Senior",
+   "url": "https://jobicy.com/jobs/163195-senior-workday-solutions-architect",
+   "new_this_run": true
+  },
+  {
+   "title": "Order Management Specialist",
+   "org": "Samsara",
+   "location": "Mexico",
+   "detail": "Any",
+   "url": "https://jobicy.com/jobs/163194-order-management-specialist",
+   "new_this_run": true
+  },
+  {
+   "title": "Product Support Engineer",
+   "org": "CookUnity",
+   "location": "LATAM",
+   "detail": "Any",
+   "url": "https://jobicy.com/jobs/163193-product-support-engineer",
+   "new_this_run": true
+  },
+  {
+   "title": "Mexico Major AE",
+   "org": "Samsara",
+   "location": "Mexico",
+   "detail": "Director",
+   "url": "https://jobicy.com/jobs/163191-mexico-major-ae-2",
+   "new_this_run": true
+  },
+  {
+   "title": "Business Operations Associate",
+   "org": "CookUnity",
+   "location": "Argentina",
+   "detail": "Any",
+   "url": "https://jobicy.com/jobs/163190-business-operations-associate",
    "new_this_run": true
   }
  ],
@@ -185,6 +185,11 @@
    "at": "2026-11-18T21:56:23+00:00",
    "jobs": 50,
    "new": 50
+  },
+  {
+   "at": "2026-11-19T03:27:10+00:00",
+   "jobs": 50,
+   "new": 15
   }
  ],
  "jobs_seen": {
@@ -2640,245 +2645,245 @@
   },
   "executive business director, west|xenon pharmaceuticals inc.|usa": {
    "first_seen": "2026-11-18T21:56:23+00:00",
-   "last_seen": "2026-11-18T21:56:23+00:00",
+   "last_seen": "2026-11-19T03:27:10+00:00",
    "title": "Executive Business Director, West",
    "org": "Xenon Pharmaceuticals Inc.",
    "location": "USA"
   },
   "senior performance strategist|superside|latam": {
    "first_seen": "2026-11-18T21:56:23+00:00",
-   "last_seen": "2026-11-18T21:56:23+00:00",
+   "last_seen": "2026-11-19T03:27:10+00:00",
    "title": "Senior Performance Strategist",
    "org": "Superside",
    "location": "LATAM"
   },
   "regional sales director - st. louis|mineralys therapeutics|usa": {
    "first_seen": "2026-11-18T21:56:23+00:00",
-   "last_seen": "2026-11-18T21:56:23+00:00",
+   "last_seen": "2026-11-19T03:27:10+00:00",
    "title": "Regional Sales Director - St. Louis",
    "org": "Mineralys Therapeutics",
    "location": "USA"
   },
   "platform engineer-kubernetes operators|edb|usa": {
    "first_seen": "2026-11-18T21:56:23+00:00",
-   "last_seen": "2026-11-18T21:56:23+00:00",
+   "last_seen": "2026-11-19T03:27:10+00:00",
    "title": "Platform Engineer-Kubernetes Operators",
    "org": "EDB",
    "location": "USA"
   },
   "executive business director, east|xenon pharmaceuticals inc.|usa": {
    "first_seen": "2026-11-18T21:56:23+00:00",
-   "last_seen": "2026-11-18T21:56:23+00:00",
+   "last_seen": "2026-11-19T03:27:10+00:00",
    "title": "Executive Business Director, East",
    "org": "Xenon Pharmaceuticals Inc.",
    "location": "USA"
   },
   "client revenue manager|beyond|usa": {
    "first_seen": "2026-11-18T21:56:23+00:00",
-   "last_seen": "2026-11-18T21:56:23+00:00",
+   "last_seen": "2026-11-19T03:27:10+00:00",
    "title": "Client Revenue Manager",
    "org": "Beyond",
    "location": "USA"
   },
   "city manager, la|flex|usa": {
    "first_seen": "2026-11-18T21:56:23+00:00",
-   "last_seen": "2026-11-18T21:56:23+00:00",
+   "last_seen": "2026-11-19T03:27:10+00:00",
    "title": "City Manager, LA",
    "org": "Flex",
    "location": "USA"
   },
   "lead creative (motion design)|superside|latam": {
    "first_seen": "2026-11-18T21:56:23+00:00",
-   "last_seen": "2026-11-18T21:56:23+00:00",
+   "last_seen": "2026-11-19T03:27:10+00:00",
    "title": "Lead Creative (Motion Design)",
    "org": "Superside",
    "location": "LATAM"
   },
   "regional sales director - san francisco|mineralys therapeutics|usa": {
    "first_seen": "2026-11-18T21:56:23+00:00",
-   "last_seen": "2026-11-18T21:56:23+00:00",
+   "last_seen": "2026-11-19T03:27:10+00:00",
    "title": "Regional Sales Director - San Francisco",
    "org": "Mineralys Therapeutics",
    "location": "USA"
   },
   "forward deployed engineer ii (remote, us)|sayari|usa": {
    "first_seen": "2026-11-18T21:56:23+00:00",
-   "last_seen": "2026-11-18T21:56:23+00:00",
+   "last_seen": "2026-11-19T03:27:10+00:00",
    "title": "Forward Deployed Engineer II (Remote, US)",
    "org": "Sayari",
    "location": "USA"
   },
   "principal product marketing manager - ois|huntress|usa": {
    "first_seen": "2026-11-18T21:56:23+00:00",
-   "last_seen": "2026-11-18T21:56:23+00:00",
+   "last_seen": "2026-11-19T03:27:10+00:00",
    "title": "Principal Product Marketing Manager - OIS",
    "org": "Huntress",
    "location": "USA"
   },
   "staff engineer|vantage|canada": {
    "first_seen": "2026-11-18T21:56:23+00:00",
-   "last_seen": "2026-11-18T21:56:23+00:00",
+   "last_seen": "2026-11-19T03:27:10+00:00",
    "title": "Staff Engineer",
    "org": "Vantage",
    "location": "Canada"
   },
   "field intelligence analyst (remote, us)|sayari|usa": {
    "first_seen": "2026-11-18T21:56:23+00:00",
-   "last_seen": "2026-11-18T21:56:23+00:00",
+   "last_seen": "2026-11-19T03:27:10+00:00",
    "title": "Field Intelligence Analyst (Remote, US)",
    "org": "Sayari",
    "location": "USA"
   },
   "principal product marketing manager - managed edr|huntress|usa": {
    "first_seen": "2026-11-18T21:56:23+00:00",
-   "last_seen": "2026-11-18T21:56:23+00:00",
+   "last_seen": "2026-11-19T03:27:10+00:00",
    "title": "Principal Product Marketing Manager - Managed EDR",
    "org": "Huntress",
    "location": "USA"
   },
   "senior engineer|vantage|canada": {
    "first_seen": "2026-11-18T21:56:23+00:00",
-   "last_seen": "2026-11-18T21:56:23+00:00",
+   "last_seen": "2026-11-19T03:27:10+00:00",
    "title": "Senior Engineer",
    "org": "Vantage",
    "location": "Canada"
   },
   "enterprise account executive|sayari|usa": {
    "first_seen": "2026-11-18T21:56:23+00:00",
-   "last_seen": "2026-11-18T21:56:23+00:00",
+   "last_seen": "2026-11-19T03:27:10+00:00",
    "title": "Enterprise Account Executive",
    "org": "Sayari",
    "location": "USA"
   },
   "principal product marketing manager - iis|huntress|usa": {
    "first_seen": "2026-11-18T21:56:23+00:00",
-   "last_seen": "2026-11-18T21:56:23+00:00",
+   "last_seen": "2026-11-19T03:27:10+00:00",
    "title": "Principal Product Marketing Manager - IIS",
    "org": "Huntress",
    "location": "USA"
   },
   "vice president of commercialization|kodiak ai, inc.|usa": {
    "first_seen": "2026-11-18T21:56:23+00:00",
-   "last_seen": "2026-11-18T21:56:23+00:00",
+   "last_seen": "2026-11-19T03:27:10+00:00",
    "title": "Vice President of Commercialization",
    "org": "Kodiak AI, Inc.",
    "location": "USA"
   },
   "full stack engineer|vantage|canada": {
    "first_seen": "2026-11-18T21:56:23+00:00",
-   "last_seen": "2026-11-18T21:56:23+00:00",
+   "last_seen": "2026-11-19T03:27:10+00:00",
    "title": "Full Stack Engineer",
    "org": "Vantage",
    "location": "Canada"
   },
   "soc analyst|rfa|philippines": {
    "first_seen": "2026-11-18T21:56:23+00:00",
-   "last_seen": "2026-11-18T21:56:23+00:00",
+   "last_seen": "2026-11-19T03:27:10+00:00",
    "title": "SOC Analyst",
    "org": "RFA",
    "location": "Philippines"
   },
   "account executive - majors|zscaler|hong kong": {
    "first_seen": "2026-11-18T21:56:23+00:00",
-   "last_seen": "2026-11-18T21:56:23+00:00",
+   "last_seen": "2026-11-19T03:27:10+00:00",
    "title": "Account Executive - Majors",
    "org": "Zscaler",
    "location": "Hong Kong"
   },
   "manager, developer advocacy, apj|temporal technologies|singapore": {
    "first_seen": "2026-11-18T21:56:23+00:00",
-   "last_seen": "2026-11-18T21:56:23+00:00",
+   "last_seen": "2026-11-19T03:27:10+00:00",
    "title": "Manager, Developer Advocacy, APJ",
    "org": "Temporal Technologies",
    "location": "Singapore"
   },
   "service desk engineer|rfa|philippines": {
    "first_seen": "2026-11-18T21:56:23+00:00",
-   "last_seen": "2026-11-18T21:56:23+00:00",
+   "last_seen": "2026-11-19T03:27:10+00:00",
    "title": "Service Desk Engineer",
    "org": "RFA",
    "location": "Philippines"
   },
   "senior solutions architect, apj|temporal technologies|apac": {
    "first_seen": "2026-11-18T21:56:23+00:00",
-   "last_seen": "2026-11-18T21:56:23+00:00",
+   "last_seen": "2026-11-19T03:27:10+00:00",
    "title": "Senior Solutions Architect, APJ",
    "org": "Temporal Technologies",
    "location": "APAC"
   },
   "senior service desk engineer|rfa|philippines": {
    "first_seen": "2026-11-18T21:56:23+00:00",
-   "last_seen": "2026-11-18T21:56:23+00:00",
+   "last_seen": "2026-11-19T03:27:10+00:00",
    "title": "Senior Service Desk Engineer",
    "org": "RFA",
    "location": "Philippines"
   },
   "senior developer success engineer, apj|temporal technologies|singapore": {
    "first_seen": "2026-11-18T21:56:23+00:00",
-   "last_seen": "2026-11-18T21:56:23+00:00",
+   "last_seen": "2026-11-19T03:27:10+00:00",
    "title": "Senior Developer Success Engineer, APJ",
    "org": "Temporal Technologies",
    "location": "Singapore"
   },
   "senior network engineer|rfa|philippines": {
    "first_seen": "2026-11-18T21:56:23+00:00",
-   "last_seen": "2026-11-18T21:56:23+00:00",
+   "last_seen": "2026-11-19T03:27:10+00:00",
    "title": "Senior Network Engineer",
    "org": "RFA",
    "location": "Philippines"
   },
   "commercial counsel, apac|cresta|australia": {
    "first_seen": "2026-11-18T21:56:23+00:00",
-   "last_seen": "2026-11-18T21:56:23+00:00",
+   "last_seen": "2026-11-19T03:27:10+00:00",
    "title": "Commercial Counsel, APAC",
    "org": "Cresta",
    "location": "Australia"
   },
   "account executive|zscaler|australia": {
    "first_seen": "2026-11-18T21:56:23+00:00",
-   "last_seen": "2026-11-18T21:56:23+00:00",
+   "last_seen": "2026-11-19T03:27:10+00:00",
    "title": "Account Executive",
    "org": "Zscaler",
    "location": "Australia"
   },
   "senior manager, sales development|legion|usa": {
    "first_seen": "2026-11-18T21:56:23+00:00",
-   "last_seen": "2026-11-18T21:56:23+00:00",
+   "last_seen": "2026-11-19T03:27:10+00:00",
    "title": "Senior Manager, Sales Development",
    "org": "Legion",
    "location": "USA"
   },
   "commercial counsel, advertising|life360|usa": {
    "first_seen": "2026-11-18T21:56:23+00:00",
-   "last_seen": "2026-11-18T21:56:23+00:00",
+   "last_seen": "2026-11-19T03:27:10+00:00",
    "title": "Commercial Counsel, Advertising",
    "org": "Life360",
    "location": "USA"
   },
   "senior sales executive (enterprise partnerships)|wheel|usa": {
    "first_seen": "2026-11-18T21:56:23+00:00",
-   "last_seen": "2026-11-18T21:56:23+00:00",
+   "last_seen": "2026-11-19T03:27:10+00:00",
    "title": "Senior Sales Executive (Enterprise Partnerships)",
    "org": "Wheel",
    "location": "USA"
   },
   "manager, case management (lcsw/lmft)|vynca|usa": {
    "first_seen": "2026-11-18T21:56:23+00:00",
-   "last_seen": "2026-11-18T21:56:23+00:00",
+   "last_seen": "2026-11-19T03:27:10+00:00",
    "title": "Manager, Case Management (LCSW/LMFT)",
    "org": "Vynca",
    "location": "USA"
   },
   "senior deal desk manager|legion|usa": {
    "first_seen": "2026-11-18T21:56:23+00:00",
-   "last_seen": "2026-11-18T21:56:23+00:00",
+   "last_seen": "2026-11-19T03:27:10+00:00",
    "title": "Senior Deal Desk Manager",
    "org": "Legion",
    "location": "USA"
   },
   "associate legal counsel, ip & technology|life360|usa": {
    "first_seen": "2026-11-18T21:56:23+00:00",
-   "last_seen": "2026-11-18T21:56:23+00:00",
+   "last_seen": "2026-11-19T03:27:10+00:00",
    "title": "Associate Legal Counsel, IP & Technology",
    "org": "Life360",
    "location": "USA"
@@ -2987,6 +2992,111 @@
    "title": "Full Stack Engineer",
    "org": "BJAK",
    "location": "Spain"
+  },
+  "director ux research|godaddy|usa": {
+   "first_seen": "2026-11-19T03:27:10+00:00",
+   "last_seen": "2026-11-19T03:27:10+00:00",
+   "title": "Director UX Research",
+   "org": "GoDaddy",
+   "location": "USA"
+  },
+  "customer solution engineer, zuora + workday financial management (fins)|zuora|usa": {
+   "first_seen": "2026-11-19T03:27:10+00:00",
+   "last_seen": "2026-11-19T03:27:10+00:00",
+   "title": "Customer Solution Engineer, Zuora + Workday Financial Management (FINS)",
+   "org": "Zuora",
+   "location": "USA"
+  },
+  "principal product manager, network economics|betterhelp|usa": {
+   "first_seen": "2026-11-19T03:27:10+00:00",
+   "last_seen": "2026-11-19T03:27:10+00:00",
+   "title": "Principal Product Manager, Network Economics",
+   "org": "BetterHelp",
+   "location": "USA"
+  },
+  "engineering manager - platform|vonage|poland": {
+   "first_seen": "2026-11-19T03:27:10+00:00",
+   "last_seen": "2026-11-19T03:27:10+00:00",
+   "title": "Engineering Manager - Platform",
+   "org": "Vonage",
+   "location": "Poland"
+  },
+  "implementation architect|dropbox|canada": {
+   "first_seen": "2026-11-19T03:27:10+00:00",
+   "last_seen": "2026-11-19T03:27:10+00:00",
+   "title": "Implementation Architect",
+   "org": "Dropbox",
+   "location": "Canada"
+  },
+  "technical account manager (mexico)|samsara|mexico": {
+   "first_seen": "2026-11-19T03:27:10+00:00",
+   "last_seen": "2026-11-19T03:27:10+00:00",
+   "title": "Technical Account Manager (Mexico)",
+   "org": "Samsara",
+   "location": "Mexico"
+  },
+  "senior full stack engineer (backend-oriented), growth - platform|cookunity|latam": {
+   "first_seen": "2026-11-19T03:27:10+00:00",
+   "last_seen": "2026-11-19T03:27:10+00:00",
+   "title": "Senior Full Stack Engineer (Backend-oriented), Growth - Platform",
+   "org": "CookUnity",
+   "location": "LATAM"
+  },
+  "senior workday solutions architect|launchpad technologies|latam": {
+   "first_seen": "2026-11-19T03:27:10+00:00",
+   "last_seen": "2026-11-19T03:27:10+00:00",
+   "title": "Senior Workday Solutions Architect",
+   "org": "Launchpad Technologies",
+   "location": "LATAM"
+  },
+  "order management specialist|samsara|mexico": {
+   "first_seen": "2026-11-19T03:27:10+00:00",
+   "last_seen": "2026-11-19T03:27:10+00:00",
+   "title": "Order Management Specialist",
+   "org": "Samsara",
+   "location": "Mexico"
+  },
+  "product support engineer|cookunity|latam": {
+   "first_seen": "2026-11-19T03:27:10+00:00",
+   "last_seen": "2026-11-19T03:27:10+00:00",
+   "title": "Product Support Engineer",
+   "org": "CookUnity",
+   "location": "LATAM"
+  },
+  "mexico major ae|samsara|mexico": {
+   "first_seen": "2026-11-19T03:27:10+00:00",
+   "last_seen": "2026-11-19T03:27:10+00:00",
+   "title": "Mexico Major AE",
+   "org": "Samsara",
+   "location": "Mexico"
+  },
+  "business operations associate|cookunity|argentina": {
+   "first_seen": "2026-11-19T03:27:10+00:00",
+   "last_seen": "2026-11-19T03:27:10+00:00",
+   "title": "Business Operations Associate",
+   "org": "CookUnity",
+   "location": "Argentina"
+  },
+  "renewals manager - latam|gitlab|brazil": {
+   "first_seen": "2026-11-19T03:27:10+00:00",
+   "last_seen": "2026-11-19T03:27:10+00:00",
+   "title": "Renewals Manager - LATAM",
+   "org": "GitLab",
+   "location": "Brazil"
+  },
+  "associate sales engineer, se desk- mexico|samsara|mexico": {
+   "first_seen": "2026-11-19T03:27:10+00:00",
+   "last_seen": "2026-11-19T03:27:10+00:00",
+   "title": "Associate Sales Engineer, SE Desk- Mexico",
+   "org": "Samsara",
+   "location": "Mexico"
+  },
+  "operations specialist|fresh prints|latam": {
+   "first_seen": "2026-11-19T03:27:10+00:00",
+   "last_seen": "2026-11-19T03:27:10+00:00",
+   "title": "Operations Specialist",
+   "org": "Fresh Prints",
+   "location": "LATAM"
   }
  }
 }
