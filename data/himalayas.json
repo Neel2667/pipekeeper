@@ -3,103 +3,103 @@
  "name": "Himalayas \u2014 remote jobs",
  "category": "jobs",
  "source": "https://himalayas.app/jobs/api",
- "collected_at": "2026-11-20T03:14:16+00:00",
+ "collected_at": "2026-11-20T11:50:15+00:00",
  "jobs_on_board": 20,
  "new_this_run": 20,
- "total_tracked": 359,
+ "total_tracked": 379,
  "jobs": [
   {
-   "title": "DevOps Engineer - Security and Compliance",
-   "org": "Kantiv (formerly Joist AI)",
-   "location": "India",
-   "detail": "Full Time",
-   "url": null,
-   "new_this_run": true
-  },
-  {
-   "title": "Cooking Coach",
-   "org": "Leland",
+   "title": "Clinical Review Nurse - Concurrent Review NICU",
+   "org": "Centene Corporation",
    "location": "United States",
-   "detail": "Contractor",
+   "detail": "$27\u2013$48/h",
    "url": null,
    "new_this_run": true
   },
   {
-   "title": "Splunk Leader, Inside Sales",
-   "org": "Cisco",
-   "location": "Canada, United States",
-   "detail": "$247,600\u2013$312,900/a",
-   "url": null,
-   "new_this_run": true
-  },
-  {
-   "title": "Account Manager I (Sudeste Area)",
-   "org": "Nordson Corporation",
-   "location": "Brazil",
+   "title": "ABA Care Coordinator | Client Services & Administration (Remote - EST Hours)",
+   "org": "ISTA Personnel Solutions",
+   "location": "South Africa",
    "detail": "Full Time",
    "url": null,
    "new_this_run": true
   },
   {
-   "title": "Head of Workday Platform",
-   "org": "Kainos",
-   "location": "Ireland, United Kingdom",
+   "title": "Social Scientist",
+   "org": "CACI International Inc",
+   "location": "United States",
+   "detail": "$90,300\u2013$189,600/a",
+   "url": null,
+   "new_this_run": true
+  },
+  {
+   "title": "Senior Engineer, Cloud Deployment",
+   "org": "Thrive",
+   "location": "United States",
    "detail": "Full Time",
    "url": null,
    "new_this_run": true
   },
   {
-   "title": "Regional Sales Manager IP&E (m/w/d)",
-   "org": "Arrow Electronics, Inc.",
-   "location": "Germany",
+   "title": "Pre-Certification Coordinator - Sleep Studies",
+   "org": "Mercy",
+   "location": "United States",
    "detail": "Full Time",
    "url": null,
    "new_this_run": true
   },
   {
-   "title": "Senior Product Specialist Immunology",
-   "org": "AbbVie",
-   "location": "Saudi Arabia",
+   "title": "Account Executive - LATAM (Mexico - Based)",
+   "org": "Action1",
+   "location": "Mexico",
    "detail": "Full Time",
    "url": null,
    "new_this_run": true
   },
   {
-   "title": "Marine Outboard Technician / Service Manager \u2013 Remote (Worldwide)",
+   "title": "Marine Geology SME - Core Logging & Sedimentology \u2013 Remote (Worldwide)",
    "org": "RemoteJobsOne",
-   "location": "Canada, Egypt, France, Germany, India, Netherlands, United Kingdom, United States",
-   "detail": "$20\u2013$60/h",
+   "location": "Philippines",
+   "detail": "$40\u2013$100/h",
    "url": null,
    "new_this_run": true
   },
   {
-   "title": "Professional Athletics Mentor",
-   "org": "Leland",
+   "title": "Director of Marketing",
+   "org": "Galvanize Therapeutics",
    "location": "United States",
-   "detail": "Contractor",
+   "detail": "$205,000\u2013$230,000/a",
    "url": null,
    "new_this_run": true
   },
   {
-   "title": "Full Stack Software Engineer - AI Finance Agent",
-   "org": "Bjak",
-   "location": "Malaysia",
-   "detail": "Full Time",
-   "url": null,
-   "new_this_run": true
-  },
-  {
-   "title": "Senior Backend Engineer, Cashalo",
-   "org": "Tilt",
-   "location": "Australia, Singapore",
-   "detail": "Full Time",
-   "url": null,
-   "new_this_run": true
-  },
-  {
-   "title": "MBA Admissions Coach",
-   "org": "Leland",
+   "title": "West Market Manager of Revenue Management",
+   "org": "Sysco",
    "location": "United States",
+   "detail": "$97,400\u2013$146,200/a",
+   "url": null,
+   "new_this_run": true
+  },
+  {
+   "title": "IT Security Engineer III/CyberArk",
+   "org": "Sedgwick",
+   "location": "United States",
+   "detail": "$70,000\u2013$90,000/a",
+   "url": null,
+   "new_this_run": true
+  },
+  {
+   "title": "Healthcare Operations Specialist - Fully Remote | Upto $120/hr",
+   "org": "mercor",
+   "location": "United States",
+   "detail": "$80\u2013$120/h",
+   "url": null,
+   "new_this_run": true
+  },
+  {
+   "title": "Design Lead / Principal Java Developer",
+   "org": "Madiff",
+   "location": "Poland",
    "detail": "Contractor",
    "url": null,
    "new_this_run": true
@@ -203,6 +203,11 @@
   },
   {
    "at": "2026-11-20T03:14:16+00:00",
+   "jobs": 20,
+   "new": 20
+  },
+  {
+   "at": "2026-11-20T11:50:15+00:00",
    "jobs": 20,
    "new": 20
   }
@@ -2720,6 +2725,146 @@
    "title": "Pessoa Consultora de Customer Success Pleno | Implanta\u00e7\u00e3o - Produto IA",
    "org": "Carreiras Simples Dental",
    "location": "Brazil"
+  },
+  "clinical review nurse - concurrent review nicu|centene corporation|united states": {
+   "first_seen": "2026-11-20T11:50:15+00:00",
+   "last_seen": "2026-11-20T11:50:15+00:00",
+   "title": "Clinical Review Nurse - Concurrent Review NICU",
+   "org": "Centene Corporation",
+   "location": "United States"
+  },
+  "aba care coordinator | client services & administration (remote - est hours)|ista personnel solutions|south africa": {
+   "first_seen": "2026-11-20T11:50:15+00:00",
+   "last_seen": "2026-11-20T11:50:15+00:00",
+   "title": "ABA Care Coordinator | Client Services & Administration (Remote - EST Hours)",
+   "org": "ISTA Personnel Solutions",
+   "location": "South Africa"
+  },
+  "social scientist|caci international inc|united states": {
+   "first_seen": "2026-11-20T11:50:15+00:00",
+   "last_seen": "2026-11-20T11:50:15+00:00",
+   "title": "Social Scientist",
+   "org": "CACI International Inc",
+   "location": "United States"
+  },
+  "senior engineer, cloud deployment|thrive|united states": {
+   "first_seen": "2026-11-20T11:50:15+00:00",
+   "last_seen": "2026-11-20T11:50:15+00:00",
+   "title": "Senior Engineer, Cloud Deployment",
+   "org": "Thrive",
+   "location": "United States"
+  },
+  "pre-certification coordinator - sleep studies|mercy|united states": {
+   "first_seen": "2026-11-20T11:50:15+00:00",
+   "last_seen": "2026-11-20T11:50:15+00:00",
+   "title": "Pre-Certification Coordinator - Sleep Studies",
+   "org": "Mercy",
+   "location": "United States"
+  },
+  "account executive - latam (mexico - based)|action1|mexico": {
+   "first_seen": "2026-11-20T11:50:15+00:00",
+   "last_seen": "2026-11-20T11:50:15+00:00",
+   "title": "Account Executive - LATAM (Mexico - Based)",
+   "org": "Action1",
+   "location": "Mexico"
+  },
+  "marine geology sme - core logging & sedimentology \u2013 remote (worldwide)|remotejobsone|philippines": {
+   "first_seen": "2026-11-20T11:50:15+00:00",
+   "last_seen": "2026-11-20T11:50:15+00:00",
+   "title": "Marine Geology SME - Core Logging & Sedimentology \u2013 Remote (Worldwide)",
+   "org": "RemoteJobsOne",
+   "location": "Philippines"
+  },
+  "director of marketing|galvanize therapeutics|united states": {
+   "first_seen": "2026-11-20T11:50:15+00:00",
+   "last_seen": "2026-11-20T11:50:15+00:00",
+   "title": "Director of Marketing",
+   "org": "Galvanize Therapeutics",
+   "location": "United States"
+  },
+  "west market manager of revenue management|sysco|united states": {
+   "first_seen": "2026-11-20T11:50:15+00:00",
+   "last_seen": "2026-11-20T11:50:15+00:00",
+   "title": "West Market Manager of Revenue Management",
+   "org": "Sysco",
+   "location": "United States"
+  },
+  "it security engineer iii/cyberark|sedgwick|united states": {
+   "first_seen": "2026-11-20T11:50:15+00:00",
+   "last_seen": "2026-11-20T11:50:15+00:00",
+   "title": "IT Security Engineer III/CyberArk",
+   "org": "Sedgwick",
+   "location": "United States"
+  },
+  "healthcare operations specialist - fully remote | upto $120/hr|mercor|united states": {
+   "first_seen": "2026-11-20T11:50:15+00:00",
+   "last_seen": "2026-11-20T11:50:15+00:00",
+   "title": "Healthcare Operations Specialist - Fully Remote | Upto $120/hr",
+   "org": "mercor",
+   "location": "United States"
+  },
+  "design lead / principal java developer|madiff|poland": {
+   "first_seen": "2026-11-20T11:50:15+00:00",
+   "last_seen": "2026-11-20T11:50:15+00:00",
+   "title": "Design Lead / Principal Java Developer",
+   "org": "Madiff",
+   "location": "Poland"
+  },
+  "ai trainer (mathematics & statistics) \u2013 remote (worldwide)|remotejobsone|philippines": {
+   "first_seen": "2026-11-20T11:50:15+00:00",
+   "last_seen": "2026-11-20T11:50:15+00:00",
+   "title": "AI Trainer (Mathematics & Statistics) \u2013 Remote (Worldwide)",
+   "org": "RemoteJobsOne",
+   "location": "Philippines"
+  },
+  "financial due diligence & transaction accounting \u2013 remote (worldwide)|remotejobsone|argentina, bolivia, brazil, canada, chile, colombia, ecuador, falkland islands (malvinas), france, french guiana, german": {
+   "first_seen": "2026-11-20T11:50:15+00:00",
+   "last_seen": "2026-11-20T11:50:15+00:00",
+   "title": "Financial Due Diligence & Transaction Accounting \u2013 Remote (Worldwide)",
+   "org": "RemoteJobsOne",
+   "location": "Argentina, Bolivia, Brazil, Canada, Chile, Colombia, Ecuador, Falkland Islands (Malvinas), France, French Guiana, Germany, Guyana, India, Netherlands, Paraguay, Peru, Spain, Suriname, United Kingdom, United States, Uruguay, Venezuela"
+  },
+  "data management consultant|soda data|united states": {
+   "first_seen": "2026-11-20T11:50:15+00:00",
+   "last_seen": "2026-11-20T11:50:15+00:00",
+   "title": "Data Management Consultant",
+   "org": "Soda Data",
+   "location": "United States"
+  },
+  "software engineer - backend \u2013 remote (worldwide)|remotejobsone|canada, france, germany, india, netherlands, nigeria, united kingdom, united states": {
+   "first_seen": "2026-11-20T11:50:15+00:00",
+   "last_seen": "2026-11-20T11:50:15+00:00",
+   "title": "Software Engineer - Backend \u2013 Remote (Worldwide)",
+   "org": "RemoteJobsOne",
+   "location": "Canada, France, Germany, India, Netherlands, Nigeria, United Kingdom, United States"
+  },
+  "tamil bilingual expert \u2013 remote (india, sri lanka, singapore & malaysia)|remotejobsone|india, malaysia, singapore, sri lanka": {
+   "first_seen": "2026-11-20T11:50:15+00:00",
+   "last_seen": "2026-11-20T11:50:15+00:00",
+   "title": "Tamil Bilingual Expert \u2013 Remote (India, Sri Lanka, Singapore & Malaysia)",
+   "org": "RemoteJobsOne",
+   "location": "India, Malaysia, Singapore, Sri Lanka"
+  },
+  "marketing coordinator|paynada|united states": {
+   "first_seen": "2026-11-20T11:50:15+00:00",
+   "last_seen": "2026-11-20T11:50:15+00:00",
+   "title": "Marketing Coordinator",
+   "org": "Paynada",
+   "location": "United States"
+  },
+  "market development representative, saudi arabia|ingredion|saudi arabia": {
+   "first_seen": "2026-11-20T11:50:15+00:00",
+   "last_seen": "2026-11-20T11:50:15+00:00",
+   "title": "Market Development Representative, Saudi Arabia",
+   "org": "Ingredion",
+   "location": "Saudi Arabia"
+  },
+  "irregular warfare expert \u2013 remote (worldwide)|remotejobsone|canada, france, germany, india, netherlands, pakistan, united kingdom, united states": {
+   "first_seen": "2026-11-20T11:50:15+00:00",
+   "last_seen": "2026-11-20T11:50:15+00:00",
+   "title": "Irregular Warfare Expert \u2013 Remote (Worldwide)",
+   "org": "RemoteJobsOne",
+   "location": "Canada, France, Germany, India, Netherlands, Pakistan, United Kingdom, United States"
   }
  }
 }

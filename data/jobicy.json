@@ -3,106 +3,106 @@
  "name": "Jobicy \u2014 remote jobs",
  "category": "jobs",
  "source": "https://jobicy.com/api/v2/remote-jobs",
- "collected_at": "2026-11-20T03:14:16+00:00",
+ "collected_at": "2026-11-20T11:50:15+00:00",
  "jobs_on_board": 50,
- "new_this_run": 1,
- "total_tracked": 516,
+ "new_this_run": 50,
+ "total_tracked": 566,
  "jobs": [
   {
-   "title": "Senior Security Engineer | InfoSec",
-   "org": "Wellhub",
-   "location": "Brazil",
+   "title": "Crux - Video and Audio QA - German (Germany)",
+   "org": "Welo Global",
+   "location": "Germany",
    "detail": "Senior",
-   "url": "https://jobicy.com/jobs/163373-senior-security-engineer-infosec",
-   "new_this_run": false
+   "url": "https://jobicy.com/jobs/163459-crux-video-and-audio-qa-german-germany",
+   "new_this_run": true
   },
   {
-   "title": "Senior Business Operations Analyst | Revenue Assurance",
-   "org": "Wellhub",
-   "location": "Brazil",
-   "detail": "Senior",
-   "url": "https://jobicy.com/jobs/163371-senior-business-operations-analyst-revenue-assurance",
-   "new_this_run": false
+   "title": "Android Software Engineer",
+   "org": "BJAK",
+   "location": "Germany",
+   "detail": "Any",
+   "url": "https://jobicy.com/jobs/163458-android-software-engineer",
+   "new_this_run": true
   },
   {
-   "title": "Senior Backend Software Engineer | Identity Experience",
-   "org": "Wellhub",
-   "location": "Brazil",
-   "detail": "Senior",
-   "url": "https://jobicy.com/jobs/163370-senior-backend-software-engineer-identity-experience",
-   "new_this_run": false
-  },
-  {
-   "title": "Programs Manager - Client Revenue Growth",
-   "org": "Wellhub",
-   "location": "Brazil",
-   "detail": "Director",
-   "url": "https://jobicy.com/jobs/163368-programs-manager-client-revenue-growth",
-   "new_this_run": false
-  },
-  {
-   "title": "Mid-level Software Engineer | Professional Services Engineering",
-   "org": "Wellhub",
-   "location": "Brazil",
-   "detail": "Senior",
-   "url": "https://jobicy.com/jobs/163367-mid-level-software-engineer-professional-services-engineering",
-   "new_this_run": false
-  },
-  {
-   "title": "HR Global Senior Manager of Benefits, Wellbeing & Mobility",
-   "org": "Wellhub",
-   "location": "Brazil",
-   "detail": "Director",
-   "url": "https://jobicy.com/jobs/163366-hr-global-senior-manager-of-benefits-wellbeing-mobility",
-   "new_this_run": false
-  },
-  {
-   "title": "Manager, Training and Enablement",
-   "org": "Cloudbeds",
-   "location": "LATAM, Canada, Europe, USA",
-   "detail": "Senior",
-   "url": "https://jobicy.com/jobs/163364-manager-training-and-enablement",
-   "new_this_run": false
-  },
-  {
-   "title": "Regional Sales Account Manager",
-   "org": "FreeBalance",
-   "location": "LATAM, USA",
-   "detail": "Director",
-   "url": "https://jobicy.com/jobs/163363-regional-sales-account-manager",
-   "new_this_run": false
-  },
-  {
-   "title": "Customer Recovery Coach",
-   "org": "Cloudbeds",
-   "location": "LATAM",
-   "detail": "Director",
-   "url": "https://jobicy.com/jobs/163362-customer-recovery-coach",
-   "new_this_run": false
-  },
-  {
-   "title": "Events Lead - Brazil and Latam",
+   "title": "Commercial Counsel - Germany",
    "org": "Elevenlabs",
-   "location": "Brazil",
-   "detail": "Director",
-   "url": "https://jobicy.com/jobs/163360-events-lead-brazil-and-latam",
-   "new_this_run": false
+   "location": "Germany",
+   "detail": "Any",
+   "url": "https://jobicy.com/jobs/163457-commercial-counsel-germany",
+   "new_this_run": true
   },
   {
-   "title": "Compensation Manager",
-   "org": "6sense",
-   "location": "USA",
-   "detail": "Director",
-   "url": "https://jobicy.com/jobs/163359-compensation-manager",
-   "new_this_run": false
+   "title": "Staff Software Engineer, OS Integration",
+   "org": "Mozilla",
+   "location": "Germany",
+   "detail": "Senior",
+   "url": "https://jobicy.com/jobs/163456-staff-software-engineer-os-integration",
+   "new_this_run": true
   },
   {
-   "title": "Software Engineer II - Full Stack (Remote Eligible)",
-   "org": "Smartsheet",
-   "location": "USA",
-   "detail": "Entry-Level, Junior",
-   "url": "https://jobicy.com/jobs/163358-software-engineer-ii-full-stack-remote-eligible",
-   "new_this_run": false
+   "title": "iOS Developer",
+   "org": "BJAK",
+   "location": "Germany",
+   "detail": "Any",
+   "url": "https://jobicy.com/jobs/163455-ios-developer",
+   "new_this_run": true
+  },
+  {
+   "title": "Data Scientist - Product Analytics",
+   "org": "Elevenlabs",
+   "location": "Bulgaria, France, Germany, Hungary, Italy, Poland, Spain, UK",
+   "detail": "Senior",
+   "url": "https://jobicy.com/jobs/163454-data-scientist-product-analytics-2",
+   "new_this_run": true
+  },
+  {
+   "title": "Developer Support Engineer",
+   "org": "RevenueCat",
+   "location": "APAC, EMEA, LATAM, Canada, USA",
+   "detail": "Any",
+   "url": "https://jobicy.com/jobs/163453-developer-support-engineer-2",
+   "new_this_run": true
+  },
+  {
+   "title": "Senior Business Development Manager, Germany",
+   "org": "OKX",
+   "location": "Austria, Germany",
+   "detail": "Senior",
+   "url": "https://jobicy.com/jobs/163452-senior-business-development-manager-germany",
+   "new_this_run": true
+  },
+  {
+   "title": "Strategic Account Executive - Nordics & Baltics",
+   "org": "Axon",
+   "location": "Germany",
+   "detail": "Director",
+   "url": "https://jobicy.com/jobs/163451-strategic-account-executive-nordics-baltics",
+   "new_this_run": true
+  },
+  {
+   "title": "Strategic Account Executive, DACH",
+   "org": "Axon",
+   "location": "Germany",
+   "detail": "Director",
+   "url": "https://jobicy.com/jobs/163450-strategic-account-executive-dach-2",
+   "new_this_run": true
+  },
+  {
+   "title": "The Flex Algeria: Expansion Lead",
+   "org": "The Flex",
+   "location": "France",
+   "detail": "Senior",
+   "url": "https://jobicy.com/jobs/163448-the-flex-algeria-expansion-lead",
+   "new_this_run": true
+  },
+  {
+   "title": "The Flex Algeria: Chief of Staff",
+   "org": "The Flex",
+   "location": "France",
+   "detail": "Director",
+   "url": "https://jobicy.com/jobs/163446-the-flex-algeria-chief-of-staff",
+   "new_this_run": true
   }
  ],
  "runs": [
@@ -205,6 +205,11 @@
    "at": "2026-11-20T03:14:16+00:00",
    "jobs": 50,
    "new": 1
+  },
+  {
+   "at": "2026-11-20T11:50:15+00:00",
+   "jobs": 50,
+   "new": 50
   }
  ],
  "jobs_seen": {
@@ -3819,6 +3824,356 @@
    "title": "Senior Software Engineer, Production Support",
    "org": "Fieldguide",
    "location": "USA"
+  },
+  "crux - video and audio qa - german (germany)|welo global|germany": {
+   "first_seen": "2026-11-20T11:50:15+00:00",
+   "last_seen": "2026-11-20T11:50:15+00:00",
+   "title": "Crux - Video and Audio QA - German (Germany)",
+   "org": "Welo Global",
+   "location": "Germany"
+  },
+  "android software engineer|bjak|germany": {
+   "first_seen": "2026-11-20T11:50:15+00:00",
+   "last_seen": "2026-11-20T11:50:15+00:00",
+   "title": "Android Software Engineer",
+   "org": "BJAK",
+   "location": "Germany"
+  },
+  "commercial counsel - germany|elevenlabs|germany": {
+   "first_seen": "2026-11-20T11:50:15+00:00",
+   "last_seen": "2026-11-20T11:50:15+00:00",
+   "title": "Commercial Counsel - Germany",
+   "org": "Elevenlabs",
+   "location": "Germany"
+  },
+  "staff software engineer, os integration|mozilla|germany": {
+   "first_seen": "2026-11-20T11:50:15+00:00",
+   "last_seen": "2026-11-20T11:50:15+00:00",
+   "title": "Staff Software Engineer, OS Integration",
+   "org": "Mozilla",
+   "location": "Germany"
+  },
+  "ios developer|bjak|germany": {
+   "first_seen": "2026-11-20T11:50:15+00:00",
+   "last_seen": "2026-11-20T11:50:15+00:00",
+   "title": "iOS Developer",
+   "org": "BJAK",
+   "location": "Germany"
+  },
+  "data scientist - product analytics|elevenlabs|bulgaria, france, germany, hungary, italy, poland, spain, uk": {
+   "first_seen": "2026-11-20T11:50:15+00:00",
+   "last_seen": "2026-11-20T11:50:15+00:00",
+   "title": "Data Scientist - Product Analytics",
+   "org": "Elevenlabs",
+   "location": "Bulgaria, France, Germany, Hungary, Italy, Poland, Spain, UK"
+  },
+  "developer support engineer|revenuecat|apac, emea, latam, canada, usa": {
+   "first_seen": "2026-11-20T11:50:15+00:00",
+   "last_seen": "2026-11-20T11:50:15+00:00",
+   "title": "Developer Support Engineer",
+   "org": "RevenueCat",
+   "location": "APAC, EMEA, LATAM, Canada, USA"
+  },
+  "senior business development manager, germany|okx|austria, germany": {
+   "first_seen": "2026-11-20T11:50:15+00:00",
+   "last_seen": "2026-11-20T11:50:15+00:00",
+   "title": "Senior Business Development Manager, Germany",
+   "org": "OKX",
+   "location": "Austria, Germany"
+  },
+  "strategic account executive - nordics & baltics|axon|germany": {
+   "first_seen": "2026-11-20T11:50:15+00:00",
+   "last_seen": "2026-11-20T11:50:15+00:00",
+   "title": "Strategic Account Executive - Nordics & Baltics",
+   "org": "Axon",
+   "location": "Germany"
+  },
+  "strategic account executive, dach|axon|germany": {
+   "first_seen": "2026-11-20T11:50:15+00:00",
+   "last_seen": "2026-11-20T11:50:15+00:00",
+   "title": "Strategic Account Executive, DACH",
+   "org": "Axon",
+   "location": "Germany"
+  },
+  "the flex algeria: expansion lead|the flex|france": {
+   "first_seen": "2026-11-20T11:50:15+00:00",
+   "last_seen": "2026-11-20T11:50:15+00:00",
+   "title": "The Flex Algeria: Expansion Lead",
+   "org": "The Flex",
+   "location": "France"
+  },
+  "the flex algeria: chief of staff|the flex|france": {
+   "first_seen": "2026-11-20T11:50:15+00:00",
+   "last_seen": "2026-11-20T11:50:15+00:00",
+   "title": "The Flex Algeria: Chief of Staff",
+   "org": "The Flex",
+   "location": "France"
+  },
+  "manager, legal programs, privacy & ai (eu/uk)|hims &#038; hers|europe": {
+   "first_seen": "2026-11-20T11:50:15+00:00",
+   "last_seen": "2026-11-20T11:50:15+00:00",
+   "title": "Manager, Legal Programs, Privacy & AI (EU/UK)",
+   "org": "hims &#038; hers",
+   "location": "Europe"
+  },
+  "customer service agent: korean (8:00 am- 16:00pm)|fever|spain": {
+   "first_seen": "2026-11-20T11:50:15+00:00",
+   "last_seen": "2026-11-20T11:50:15+00:00",
+   "title": "Customer Service Agent: Korean (8:00 am- 16:00pm)",
+   "org": "Fever",
+   "location": "Spain"
+  },
+  "the flex algeria: entrepreneur in residence (eir)|the flex|france": {
+   "first_seen": "2026-11-20T11:50:15+00:00",
+   "last_seen": "2026-11-20T11:50:15+00:00",
+   "title": "The Flex Algeria: Entrepreneur in Residence (EIR)",
+   "org": "The Flex",
+   "location": "France"
+  },
+  "senior counsel, privacy & ai (eu/uk)|hims &#038; hers|europe": {
+   "first_seen": "2026-11-20T11:50:15+00:00",
+   "last_seen": "2026-11-20T11:50:15+00:00",
+   "title": "Senior Counsel, Privacy & AI (EU/UK)",
+   "org": "hims &#038; hers",
+   "location": "Europe"
+  },
+  "customer service agent: korean (00:00 am- 8:00am)|fever|spain": {
+   "first_seen": "2026-11-20T11:50:15+00:00",
+   "last_seen": "2026-11-20T11:50:15+00:00",
+   "title": "Customer Service Agent: Korean (00:00 am- 8:00am)",
+   "org": "Fever",
+   "location": "Spain"
+  },
+  "the flex algeria: generalist, operations & growth|the flex|france": {
+   "first_seen": "2026-11-20T11:50:15+00:00",
+   "last_seen": "2026-11-20T11:50:15+00:00",
+   "title": "The Flex Algeria: Generalist, Operations & Growth",
+   "org": "The Flex",
+   "location": "France"
+  },
+  "senior project manager, professional services|zscaler|uk": {
+   "first_seen": "2026-11-20T11:50:15+00:00",
+   "last_seen": "2026-11-20T11:50:15+00:00",
+   "title": "Senior Project Manager, Professional Services",
+   "org": "Zscaler",
+   "location": "UK"
+  },
+  "sar image annotation consultant|iceye|europe": {
+   "first_seen": "2026-11-20T11:50:15+00:00",
+   "last_seen": "2026-11-20T11:50:15+00:00",
+   "title": "SAR Image Annotation Consultant",
+   "org": "ICEYE",
+   "location": "Europe"
+  },
+  "clinical applications trainer \u2014 federal health it|rackner|usa": {
+   "first_seen": "2026-11-20T11:50:15+00:00",
+   "last_seen": "2026-11-20T11:50:15+00:00",
+   "title": "Clinical Applications Trainer \u2014 Federal Health IT",
+   "org": "Rackner",
+   "location": "USA"
+  },
+  "it security analyst|kairos power|usa": {
+   "first_seen": "2026-11-20T11:50:15+00:00",
+   "last_seen": "2026-11-20T11:50:15+00:00",
+   "title": "IT Security Analyst",
+   "org": "Kairos Power",
+   "location": "USA"
+  },
+  "android engineer|branch|usa": {
+   "first_seen": "2026-11-20T11:50:15+00:00",
+   "last_seen": "2026-11-20T11:50:15+00:00",
+   "title": "Android Engineer",
+   "org": "Branch",
+   "location": "USA"
+  },
+  "senior deal desk operations manager|keyfactor, inc.|usa": {
+   "first_seen": "2026-11-20T11:50:15+00:00",
+   "last_seen": "2026-11-20T11:50:15+00:00",
+   "title": "Senior Deal Desk Operations Manager",
+   "org": "Keyfactor, Inc.",
+   "location": "USA"
+  },
+  "manager, sales engineering specialists|fivetran|usa": {
+   "first_seen": "2026-11-20T11:50:15+00:00",
+   "last_seen": "2026-11-20T11:50:15+00:00",
+   "title": "Manager, Sales Engineering Specialists",
+   "org": "Fivetran",
+   "location": "USA"
+  },
+  "senior product manager, customer experience|jobber|canada": {
+   "first_seen": "2026-11-20T11:50:15+00:00",
+   "last_seen": "2026-11-20T11:50:15+00:00",
+   "title": "Senior Product Manager, Customer Experience",
+   "org": "Jobber",
+   "location": "Canada"
+  },
+  "enterprise solution engineer - east|sigma computing|usa": {
+   "first_seen": "2026-11-20T11:50:15+00:00",
+   "last_seen": "2026-11-20T11:50:15+00:00",
+   "title": "Enterprise Solution Engineer - East",
+   "org": "Sigma Computing",
+   "location": "USA"
+  },
+  "director of security research, cribl detect|cribl|israel": {
+   "first_seen": "2026-11-20T11:50:15+00:00",
+   "last_seen": "2026-11-20T11:50:15+00:00",
+   "title": "Director of Security Research, Cribl Detect",
+   "org": "Cribl",
+   "location": "Israel"
+  },
+  "account executive, cew|axon|usa": {
+   "first_seen": "2026-11-20T11:50:15+00:00",
+   "last_seen": "2026-11-20T11:50:15+00:00",
+   "title": "Account Executive, CEW",
+   "org": "Axon",
+   "location": "USA"
+  },
+  "director, balance of plant|kairos power|usa": {
+   "first_seen": "2026-11-20T11:50:15+00:00",
+   "last_seen": "2026-11-20T11:50:15+00:00",
+   "title": "Director, Balance of Plant",
+   "org": "Kairos Power",
+   "location": "USA"
+  },
+  "manager, client partnerships|anteriad|usa": {
+   "first_seen": "2026-11-20T11:50:15+00:00",
+   "last_seen": "2026-11-20T11:50:15+00:00",
+   "title": "Manager, Client Partnerships",
+   "org": "Anteriad",
+   "location": "USA"
+  },
+  "director of accounting|alphasense|usa": {
+   "first_seen": "2026-11-20T11:50:15+00:00",
+   "last_seen": "2026-11-20T11:50:15+00:00",
+   "title": "Director of Accounting",
+   "org": "AlphaSense",
+   "location": "USA"
+  },
+  "senior software engineer: assets|consensys|usa": {
+   "first_seen": "2026-11-20T11:50:15+00:00",
+   "last_seen": "2026-11-20T11:50:15+00:00",
+   "title": "Senior Software Engineer: Assets",
+   "org": "Consensys",
+   "location": "USA"
+  },
+  "customer success manager- west|anteriad|usa": {
+   "first_seen": "2026-11-20T11:50:15+00:00",
+   "last_seen": "2026-11-20T11:50:15+00:00",
+   "title": "Customer Success Manager- West",
+   "org": "Anteriad",
+   "location": "USA"
+  },
+  "business development representative|guidewheel|usa": {
+   "first_seen": "2026-11-20T11:50:15+00:00",
+   "last_seen": "2026-11-20T11:50:15+00:00",
+   "title": "Business Development Representative",
+   "org": "Guidewheel",
+   "location": "USA"
+  },
+  "senior manager, resource orchestration (wfm)|tripactions|usa": {
+   "first_seen": "2026-11-20T11:50:15+00:00",
+   "last_seen": "2026-11-20T11:50:15+00:00",
+   "title": "Senior Manager, Resource Orchestration (WFM)",
+   "org": "TripActions",
+   "location": "USA"
+  },
+  "director, integrated campaign strategy & planning|alphasense|usa": {
+   "first_seen": "2026-11-20T11:50:15+00:00",
+   "last_seen": "2026-11-20T11:50:15+00:00",
+   "title": "Director, Integrated Campaign Strategy & Planning",
+   "org": "AlphaSense",
+   "location": "USA"
+  },
+  "senior director, compensation & benefits|consensys|emea, usa": {
+   "first_seen": "2026-11-20T11:50:15+00:00",
+   "last_seen": "2026-11-20T11:50:15+00:00",
+   "title": "Senior Director, Compensation & Benefits",
+   "org": "Consensys",
+   "location": "EMEA, USA"
+  },
+  "technical support representative night shift|cgs nexus|usa": {
+   "first_seen": "2026-11-20T11:50:15+00:00",
+   "last_seen": "2026-11-20T11:50:15+00:00",
+   "title": "Technical Support Representative Night shift",
+   "org": "CGS Nexus",
+   "location": "USA"
+  },
+  "campaign specialist|osano|usa": {
+   "first_seen": "2026-11-20T11:50:15+00:00",
+   "last_seen": "2026-11-20T11:50:15+00:00",
+   "title": "Campaign Specialist",
+   "org": "Osano",
+   "location": "USA"
+  },
+  "snr. site reliability engineer (remote in brazil)|knowbe4, inc.|brazil": {
+   "first_seen": "2026-11-20T11:50:15+00:00",
+   "last_seen": "2026-11-20T11:50:15+00:00",
+   "title": "Snr. Site Reliability Engineer (Remote in Brazil)",
+   "org": "KnowBe4, Inc.",
+   "location": "Brazil"
+  },
+  "adobe multi-solution architect (firefly / genstudio / commerce) - advertising|truelogic|brazil": {
+   "first_seen": "2026-11-20T11:50:15+00:00",
+   "last_seen": "2026-11-20T11:50:15+00:00",
+   "title": "Adobe Multi-Solution Architect (Firefly / GenStudio / Commerce) - Advertising",
+   "org": "Truelogic",
+   "location": "Brazil"
+  },
+  "senior data engineer (remote in brazil)|knowbe4, inc.|brazil": {
+   "first_seen": "2026-11-20T11:50:15+00:00",
+   "last_seen": "2026-11-20T11:50:15+00:00",
+   "title": "Senior Data Engineer (Remote in Brazil)",
+   "org": "KnowBe4, Inc.",
+   "location": "Brazil"
+  },
+  "senior data engineer - advertising|truelogic|brazil": {
+   "first_seen": "2026-11-20T11:50:15+00:00",
+   "last_seen": "2026-11-20T11:50:15+00:00",
+   "title": "Senior Data Engineer - Advertising",
+   "org": "Truelogic",
+   "location": "Brazil"
+  },
+  "senior atlassian cloud engineer|dropbox|mexico": {
+   "first_seen": "2026-11-20T11:50:15+00:00",
+   "last_seen": "2026-11-20T11:50:15+00:00",
+   "title": "Senior Atlassian Cloud Engineer",
+   "org": "Dropbox",
+   "location": "Mexico"
+  },
+  "regional account executive (ent) (portuguese speaking) (remote) (fluent in english)|knowbe4, inc.|brazil": {
+   "first_seen": "2026-11-20T11:50:15+00:00",
+   "last_seen": "2026-11-20T11:50:15+00:00",
+   "title": "Regional Account Executive (ENT) (Portuguese Speaking) (Remote) (Fluent in English)",
+   "org": "KnowBe4, Inc.",
+   "location": "Brazil"
+  },
+  "enterprise business development representative|superside|latam": {
+   "first_seen": "2026-11-20T11:50:15+00:00",
+   "last_seen": "2026-11-20T11:50:15+00:00",
+   "title": "Enterprise Business Development Representative",
+   "org": "Superside",
+   "location": "LATAM"
+  },
+  "senior software engineer, data platform|trm labs|brazil": {
+   "first_seen": "2026-11-20T11:50:15+00:00",
+   "last_seen": "2026-11-20T11:50:15+00:00",
+   "title": "Senior Software Engineer, Data Platform",
+   "org": "TRM Labs",
+   "location": "Brazil"
+  },
+  "senior front-end engineer (next.js/react) - real estate|truelogic|mexico": {
+   "first_seen": "2026-11-20T11:50:15+00:00",
+   "last_seen": "2026-11-20T11:50:15+00:00",
+   "title": "Senior Front-End Engineer (Next.js/React) - Real Estate",
+   "org": "Truelogic",
+   "location": "Mexico"
+  },
+  "infrastructure software engineer|dropbox|mexico": {
+   "first_seen": "2026-11-20T11:50:15+00:00",
+   "last_seen": "2026-11-20T11:50:15+00:00",
+   "title": "Infrastructure Software Engineer",
+   "org": "Dropbox",
+   "location": "Mexico"
   }
  }
 }
