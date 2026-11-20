@@ -3,104 +3,104 @@
  "name": "Himalayas \u2014 remote jobs",
  "category": "jobs",
  "source": "https://himalayas.app/jobs/api",
- "collected_at": "2026-11-19T21:33:35+00:00",
+ "collected_at": "2026-11-20T03:14:16+00:00",
  "jobs_on_board": 20,
  "new_this_run": 20,
- "total_tracked": 339,
+ "total_tracked": 359,
  "jobs": [
   {
-   "title": "Senior Key Account Manager - iGaming B2B",
-   "org": "Oddin",
-   "location": "Albania, Andorra, Austria, Belarus, Belgium, Bosnia and Herzegovina, Bulgaria, Croatia, Cyprus, Czechia, Denmark, Estonia, Faroe Islands, Finland, France, Germany, Gibraltar, Greece, Guernsey, Holy See (Vatican City State), Hungary, Iceland",
+   "title": "DevOps Engineer - Security and Compliance",
+   "org": "Kantiv (formerly Joist AI)",
+   "location": "India",
+   "detail": "Full Time",
+   "url": null,
+   "new_this_run": true
+  },
+  {
+   "title": "Cooking Coach",
+   "org": "Leland",
+   "location": "United States",
    "detail": "Contractor",
    "url": null,
    "new_this_run": true
   },
   {
-   "title": "Lead Specialist, Partnership Management",
-   "org": "Pearson",
+   "title": "Splunk Leader, Inside Sales",
+   "org": "Cisco",
+   "location": "Canada, United States",
+   "detail": "$247,600\u2013$312,900/a",
+   "url": null,
+   "new_this_run": true
+  },
+  {
+   "title": "Account Manager I (Sudeste Area)",
+   "org": "Nordson Corporation",
+   "location": "Brazil",
+   "detail": "Full Time",
+   "url": null,
+   "new_this_run": true
+  },
+  {
+   "title": "Head of Workday Platform",
+   "org": "Kainos",
+   "location": "Ireland, United Kingdom",
+   "detail": "Full Time",
+   "url": null,
+   "new_this_run": true
+  },
+  {
+   "title": "Regional Sales Manager IP&E (m/w/d)",
+   "org": "Arrow Electronics, Inc.",
+   "location": "Germany",
+   "detail": "Full Time",
+   "url": null,
+   "new_this_run": true
+  },
+  {
+   "title": "Senior Product Specialist Immunology",
+   "org": "AbbVie",
+   "location": "Saudi Arabia",
+   "detail": "Full Time",
+   "url": null,
+   "new_this_run": true
+  },
+  {
+   "title": "Marine Outboard Technician / Service Manager \u2013 Remote (Worldwide)",
+   "org": "RemoteJobsOne",
+   "location": "Canada, Egypt, France, Germany, India, Netherlands, United Kingdom, United States",
+   "detail": "$20\u2013$60/h",
+   "url": null,
+   "new_this_run": true
+  },
+  {
+   "title": "Professional Athletics Mentor",
+   "org": "Leland",
    "location": "United States",
-   "detail": "$110,000\u2013$135,000/a",
+   "detail": "Contractor",
    "url": null,
    "new_this_run": true
   },
   {
-   "title": "Catastrophe Claims Examiner III",
-   "org": "California FAIR Plan Association",
+   "title": "Full Stack Software Engineer - AI Finance Agent",
+   "org": "Bjak",
+   "location": "Malaysia",
+   "detail": "Full Time",
+   "url": null,
+   "new_this_run": true
+  },
+  {
+   "title": "Senior Backend Engineer, Cashalo",
+   "org": "Tilt",
+   "location": "Australia, Singapore",
+   "detail": "Full Time",
+   "url": null,
+   "new_this_run": true
+  },
+  {
+   "title": "MBA Admissions Coach",
+   "org": "Leland",
    "location": "United States",
-   "detail": "$46\u2013$51/h",
-   "url": null,
-   "new_this_run": true
-  },
-  {
-   "title": "Graphic Designer \u2013 US Social Media & E-commerce",
-   "org": "Lux Decor Collection",
-   "location": "Pakistan",
-   "detail": "Full Time",
-   "url": null,
-   "new_this_run": true
-  },
-  {
-   "title": "Retirement Sales Consultant - Large Market",
-   "org": "Empower",
-   "location": "United States",
-   "detail": "$59,500\u2013$80,500/a",
-   "url": null,
-   "new_this_run": true
-  },
-  {
-   "title": "Accountant CPA",
-   "org": "Teamified",
-   "location": "Australia",
-   "detail": "Full Time",
-   "url": null,
-   "new_this_run": true
-  },
-  {
-   "title": "Software Engineer, Dash",
-   "org": "Liftoff LLC",
-   "location": "United States",
-   "detail": "$180,000\u2013$260,000/a",
-   "url": null,
-   "new_this_run": true
-  },
-  {
-   "title": "Product Security Expert",
-   "org": "LUZA Group",
-   "location": "Portugal",
-   "detail": "Full Time",
-   "url": null,
-   "new_this_run": true
-  },
-  {
-   "title": "UX/UI Designer",
-   "org": "Pavago",
-   "location": "South Africa",
-   "detail": "Full Time",
-   "url": null,
-   "new_this_run": true
-  },
-  {
-   "title": "Associate Pricing Analyst",
-   "org": "Menasha Corporation",
-   "location": "United States",
-   "detail": "Full Time",
-   "url": null,
-   "new_this_run": true
-  },
-  {
-   "title": "Experienced Arabic (Jordan) Translators (Marketing)",
-   "org": "Language Bear",
-   "location": "Jordan",
-   "detail": "Full Time",
-   "url": null,
-   "new_this_run": true
-  },
-  {
-   "title": "Senior iOS Developer",
-   "org": "Airalo",
-   "location": "Spain, United Kingdom",
-   "detail": "$91,600\u2013$137,400/a",
+   "detail": "Contractor",
    "url": null,
    "new_this_run": true
   }
@@ -198,6 +198,11 @@
   },
   {
    "at": "2026-11-19T21:33:35+00:00",
+   "jobs": 20,
+   "new": 20
+  },
+  {
+   "at": "2026-11-20T03:14:16+00:00",
    "jobs": 20,
    "new": 20
   }
@@ -2575,6 +2580,146 @@
    "title": "Joinery Estimator",
    "org": "Boomering Inc",
    "location": "Philippines"
+  },
+  "devops engineer - security and compliance|kantiv (formerly joist ai)|india": {
+   "first_seen": "2026-11-20T03:14:16+00:00",
+   "last_seen": "2026-11-20T03:14:16+00:00",
+   "title": "DevOps Engineer - Security and Compliance",
+   "org": "Kantiv (formerly Joist AI)",
+   "location": "India"
+  },
+  "cooking coach|leland|united states": {
+   "first_seen": "2026-11-20T03:14:16+00:00",
+   "last_seen": "2026-11-20T03:14:16+00:00",
+   "title": "Cooking Coach",
+   "org": "Leland",
+   "location": "United States"
+  },
+  "splunk leader, inside sales|cisco|canada, united states": {
+   "first_seen": "2026-11-20T03:14:16+00:00",
+   "last_seen": "2026-11-20T03:14:16+00:00",
+   "title": "Splunk Leader, Inside Sales",
+   "org": "Cisco",
+   "location": "Canada, United States"
+  },
+  "account manager i (sudeste area)|nordson corporation|brazil": {
+   "first_seen": "2026-11-20T03:14:16+00:00",
+   "last_seen": "2026-11-20T03:14:16+00:00",
+   "title": "Account Manager I (Sudeste Area)",
+   "org": "Nordson Corporation",
+   "location": "Brazil"
+  },
+  "head of workday platform|kainos|ireland, united kingdom": {
+   "first_seen": "2026-11-20T03:14:16+00:00",
+   "last_seen": "2026-11-20T03:14:16+00:00",
+   "title": "Head of Workday Platform",
+   "org": "Kainos",
+   "location": "Ireland, United Kingdom"
+  },
+  "regional sales manager ip&e (m/w/d)|arrow electronics, inc.|germany": {
+   "first_seen": "2026-11-20T03:14:16+00:00",
+   "last_seen": "2026-11-20T03:14:16+00:00",
+   "title": "Regional Sales Manager IP&E (m/w/d)",
+   "org": "Arrow Electronics, Inc.",
+   "location": "Germany"
+  },
+  "senior product specialist immunology|abbvie|saudi arabia": {
+   "first_seen": "2026-11-20T03:14:16+00:00",
+   "last_seen": "2026-11-20T03:14:16+00:00",
+   "title": "Senior Product Specialist Immunology",
+   "org": "AbbVie",
+   "location": "Saudi Arabia"
+  },
+  "marine outboard technician / service manager \u2013 remote (worldwide)|remotejobsone|canada, egypt, france, germany, india, netherlands, united kingdom, united states": {
+   "first_seen": "2026-11-20T03:14:16+00:00",
+   "last_seen": "2026-11-20T03:14:16+00:00",
+   "title": "Marine Outboard Technician / Service Manager \u2013 Remote (Worldwide)",
+   "org": "RemoteJobsOne",
+   "location": "Canada, Egypt, France, Germany, India, Netherlands, United Kingdom, United States"
+  },
+  "professional athletics mentor|leland|united states": {
+   "first_seen": "2026-11-20T03:14:16+00:00",
+   "last_seen": "2026-11-20T03:14:16+00:00",
+   "title": "Professional Athletics Mentor",
+   "org": "Leland",
+   "location": "United States"
+  },
+  "full stack software engineer - ai finance agent|bjak|malaysia": {
+   "first_seen": "2026-11-20T03:14:16+00:00",
+   "last_seen": "2026-11-20T03:14:16+00:00",
+   "title": "Full Stack Software Engineer - AI Finance Agent",
+   "org": "Bjak",
+   "location": "Malaysia"
+  },
+  "senior backend engineer, cashalo|tilt|australia, singapore": {
+   "first_seen": "2026-11-20T03:14:16+00:00",
+   "last_seen": "2026-11-20T03:14:16+00:00",
+   "title": "Senior Backend Engineer, Cashalo",
+   "org": "Tilt",
+   "location": "Australia, Singapore"
+  },
+  "mba admissions coach|leland|united states": {
+   "first_seen": "2026-11-20T03:14:16+00:00",
+   "last_seen": "2026-11-20T03:14:16+00:00",
+   "title": "MBA Admissions Coach",
+   "org": "Leland",
+   "location": "United States"
+  },
+  "software engineer|bosch group|brazil": {
+   "first_seen": "2026-11-20T03:14:16+00:00",
+   "last_seen": "2026-11-20T03:14:16+00:00",
+   "title": "SOFTWARE ENGINEER",
+   "org": "Bosch Group",
+   "location": "Brazil"
+  },
+  "full stack software engineer - ai finance agent|bjak|australia": {
+   "first_seen": "2026-11-20T03:14:16+00:00",
+   "last_seen": "2026-11-20T03:14:16+00:00",
+   "title": "Full Stack Software Engineer - AI Finance Agent",
+   "org": "Bjak",
+   "location": "Australia"
+  },
+  "corporate vice president, client data health and optimization (remote, any state|new york life insurance co|united states": {
+   "first_seen": "2026-11-20T03:14:16+00:00",
+   "last_seen": "2026-11-20T03:14:16+00:00",
+   "title": "Corporate Vice President, Client Data Health and Optimization (Remote, any state",
+   "org": "New York Life Insurance Co",
+   "location": "United States"
+  },
+  "director, us government affairs|revolution medicines|united states": {
+   "first_seen": "2026-11-20T03:14:16+00:00",
+   "last_seen": "2026-11-20T03:14:16+00:00",
+   "title": "Director, US Government Affairs",
+   "org": "Revolution Medicines",
+   "location": "United States"
+  },
+  "ai researcher / engineer|clera|remote": {
+   "first_seen": "2026-11-20T03:14:16+00:00",
+   "last_seen": "2026-11-20T03:14:16+00:00",
+   "title": "AI Researcher / Engineer",
+   "org": "Clera",
+   "location": "remote"
+  },
+  "data engineer|booksy|spain": {
+   "first_seen": "2026-11-20T03:14:16+00:00",
+   "last_seen": "2026-11-20T03:14:16+00:00",
+   "title": "Data Engineer",
+   "org": "Booksy",
+   "location": "Spain"
+  },
+  "solution architect|red cell partners|united states": {
+   "first_seen": "2026-11-20T03:14:16+00:00",
+   "last_seen": "2026-11-20T03:14:16+00:00",
+   "title": "Solution Architect",
+   "org": "Red Cell Partners",
+   "location": "United States"
+  },
+  "pessoa consultora de customer success pleno | implanta\u00e7\u00e3o - produto ia|carreiras simples dental|brazil": {
+   "first_seen": "2026-11-20T03:14:16+00:00",
+   "last_seen": "2026-11-20T03:14:16+00:00",
+   "title": "Pessoa Consultora de Customer Success Pleno | Implanta\u00e7\u00e3o - Produto IA",
+   "org": "Carreiras Simples Dental",
+   "location": "Brazil"
   }
  }
 }
