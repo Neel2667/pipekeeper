@@ -3,105 +3,105 @@
  "name": "Jobicy \u2014 remote jobs",
  "category": "jobs",
  "source": "https://jobicy.com/api/v2/remote-jobs",
- "collected_at": "2026-11-20T11:50:15+00:00",
+ "collected_at": "2026-11-20T20:17:29+00:00",
  "jobs_on_board": 50,
  "new_this_run": 50,
- "total_tracked": 566,
+ "total_tracked": 616,
  "jobs": [
   {
-   "title": "Crux - Video and Audio QA - German (Germany)",
-   "org": "Welo Global",
-   "location": "Germany",
+   "title": "Head of MyG Core Workflows",
+   "org": "Geotab",
+   "location": "USA",
    "detail": "Senior",
-   "url": "https://jobicy.com/jobs/163459-crux-video-and-audio-qa-german-germany",
+   "url": "https://jobicy.com/jobs/163571-head-of-myg-core-workflows",
    "new_this_run": true
   },
   {
-   "title": "Android Software Engineer",
-   "org": "BJAK",
-   "location": "Germany",
-   "detail": "Any",
-   "url": "https://jobicy.com/jobs/163458-android-software-engineer",
-   "new_this_run": true
-  },
-  {
-   "title": "Commercial Counsel - Germany",
-   "org": "Elevenlabs",
-   "location": "Germany",
-   "detail": "Any",
-   "url": "https://jobicy.com/jobs/163457-commercial-counsel-germany",
-   "new_this_run": true
-  },
-  {
-   "title": "Staff Software Engineer, OS Integration",
-   "org": "Mozilla",
-   "location": "Germany",
+   "title": "Staff Software Engineer, eCommerce",
+   "org": "Liftoff",
+   "location": "USA",
    "detail": "Senior",
-   "url": "https://jobicy.com/jobs/163456-staff-software-engineer-os-integration",
+   "url": "https://jobicy.com/jobs/163570-staff-software-engineer-ecommerce",
    "new_this_run": true
   },
   {
-   "title": "iOS Developer",
-   "org": "BJAK",
-   "location": "Germany",
-   "detail": "Any",
-   "url": "https://jobicy.com/jobs/163455-ios-developer",
-   "new_this_run": true
-  },
-  {
-   "title": "Data Scientist - Product Analytics",
-   "org": "Elevenlabs",
-   "location": "Bulgaria, France, Germany, Hungary, Italy, Poland, Spain, UK",
-   "detail": "Senior",
-   "url": "https://jobicy.com/jobs/163454-data-scientist-product-analytics-2",
-   "new_this_run": true
-  },
-  {
-   "title": "Developer Support Engineer",
-   "org": "RevenueCat",
-   "location": "APAC, EMEA, LATAM, Canada, USA",
-   "detail": "Any",
-   "url": "https://jobicy.com/jobs/163453-developer-support-engineer-2",
-   "new_this_run": true
-  },
-  {
-   "title": "Senior Business Development Manager, Germany",
-   "org": "OKX",
-   "location": "Austria, Germany",
-   "detail": "Senior",
-   "url": "https://jobicy.com/jobs/163452-senior-business-development-manager-germany",
-   "new_this_run": true
-  },
-  {
-   "title": "Strategic Account Executive - Nordics & Baltics",
-   "org": "Axon",
-   "location": "Germany",
+   "title": "Field CTO, Media & Entertainment AI Infrastructure",
+   "org": "Nebius",
+   "location": "USA",
    "detail": "Director",
-   "url": "https://jobicy.com/jobs/163451-strategic-account-executive-nordics-baltics",
+   "url": "https://jobicy.com/jobs/163568-field-cto-media-entertainment-ai-infrastructure",
    "new_this_run": true
   },
   {
-   "title": "Strategic Account Executive, DACH",
-   "org": "Axon",
-   "location": "Germany",
+   "title": "Software Engineer, Dash",
+   "org": "Liftoff",
+   "location": "USA",
+   "detail": "Any",
+   "url": "https://jobicy.com/jobs/163567-software-engineer-dash",
+   "new_this_run": true
+  },
+  {
+   "title": "Field Hardware Engineer",
+   "org": "Geotab",
+   "location": "USA",
+   "detail": "Any",
+   "url": "https://jobicy.com/jobs/163564-field-hardware-engineer",
+   "new_this_run": true
+  },
+  {
+   "title": "Senior Analyst, Financial Reporting",
+   "org": "Liftoff",
+   "location": "USA",
    "detail": "Director",
-   "url": "https://jobicy.com/jobs/163450-strategic-account-executive-dach-2",
+   "url": "https://jobicy.com/jobs/163563-senior-analyst-financial-reporting",
    "new_this_run": true
   },
   {
-   "title": "The Flex Algeria: Expansion Lead",
-   "org": "The Flex",
-   "location": "France",
+   "title": "3PL Operations Manager",
+   "org": "Nebius",
+   "location": "Europe",
    "detail": "Senior",
-   "url": "https://jobicy.com/jobs/163448-the-flex-algeria-expansion-lead",
+   "url": "https://jobicy.com/jobs/163561-3pl-operations-manager-2",
    "new_this_run": true
   },
   {
-   "title": "The Flex Algeria: Chief of Staff",
-   "org": "The Flex",
-   "location": "France",
+   "title": "Business Development Manager - Mobility Data and Analytics",
+   "org": "Geotab",
+   "location": "USA",
+   "detail": "Senior",
+   "url": "https://jobicy.com/jobs/163560-business-development-manager-mobility-data-and-analytics",
+   "new_this_run": true
+  },
+  {
+   "title": "Senior Manager, Product Marketing (remote within the United States)",
+   "org": "League",
+   "location": "Canada, USA",
+   "detail": "Senior",
+   "url": "https://jobicy.com/jobs/163559-senior-manager-product-marketing-remote-within-the-united-states",
+   "new_this_run": true
+  },
+  {
+   "title": "GTM Lead",
+   "org": "Liftoff",
+   "location": "USA",
+   "detail": "Senior",
+   "url": "https://jobicy.com/jobs/163558-gtm-lead",
+   "new_this_run": true
+  },
+  {
+   "title": "Enterprise Account Executive, NYC",
+   "org": "Horizon3.ai",
+   "location": "USA",
    "detail": "Director",
-   "url": "https://jobicy.com/jobs/163446-the-flex-algeria-chief-of-staff",
+   "url": "https://jobicy.com/jobs/163557-enterprise-account-executive-nyc-2",
+   "new_this_run": true
+  },
+  {
+   "title": "Manager, Business Risk and AI Automation",
+   "org": "Reddit",
+   "location": "USA",
+   "detail": "Senior",
+   "url": "https://jobicy.com/jobs/163556-manager-business-risk-and-ai-automation",
    "new_this_run": true
   }
  ],
@@ -208,6 +208,11 @@
   },
   {
    "at": "2026-11-20T11:50:15+00:00",
+   "jobs": 50,
+   "new": 50
+  },
+  {
+   "at": "2026-11-20T20:17:29+00:00",
    "jobs": 50,
    "new": 50
   }
@@ -4174,6 +4179,356 @@
    "title": "Infrastructure Software Engineer",
    "org": "Dropbox",
    "location": "Mexico"
+  },
+  "head of myg core workflows|geotab|usa": {
+   "first_seen": "2026-11-20T20:17:29+00:00",
+   "last_seen": "2026-11-20T20:17:29+00:00",
+   "title": "Head of MyG Core Workflows",
+   "org": "Geotab",
+   "location": "USA"
+  },
+  "staff software engineer, ecommerce|liftoff|usa": {
+   "first_seen": "2026-11-20T20:17:29+00:00",
+   "last_seen": "2026-11-20T20:17:29+00:00",
+   "title": "Staff Software Engineer, eCommerce",
+   "org": "Liftoff",
+   "location": "USA"
+  },
+  "field cto, media & entertainment ai infrastructure|nebius|usa": {
+   "first_seen": "2026-11-20T20:17:29+00:00",
+   "last_seen": "2026-11-20T20:17:29+00:00",
+   "title": "Field CTO, Media & Entertainment AI Infrastructure",
+   "org": "Nebius",
+   "location": "USA"
+  },
+  "software engineer, dash|liftoff|usa": {
+   "first_seen": "2026-11-20T20:17:29+00:00",
+   "last_seen": "2026-11-20T20:17:29+00:00",
+   "title": "Software Engineer, Dash",
+   "org": "Liftoff",
+   "location": "USA"
+  },
+  "field hardware engineer|geotab|usa": {
+   "first_seen": "2026-11-20T20:17:29+00:00",
+   "last_seen": "2026-11-20T20:17:29+00:00",
+   "title": "Field Hardware Engineer",
+   "org": "Geotab",
+   "location": "USA"
+  },
+  "senior analyst, financial reporting|liftoff|usa": {
+   "first_seen": "2026-11-20T20:17:29+00:00",
+   "last_seen": "2026-11-20T20:17:29+00:00",
+   "title": "Senior Analyst, Financial Reporting",
+   "org": "Liftoff",
+   "location": "USA"
+  },
+  "3pl operations manager|nebius|europe": {
+   "first_seen": "2026-11-20T20:17:29+00:00",
+   "last_seen": "2026-11-20T20:17:29+00:00",
+   "title": "3PL Operations Manager",
+   "org": "Nebius",
+   "location": "Europe"
+  },
+  "business development manager - mobility data and analytics|geotab|usa": {
+   "first_seen": "2026-11-20T20:17:29+00:00",
+   "last_seen": "2026-11-20T20:17:29+00:00",
+   "title": "Business Development Manager - Mobility Data and Analytics",
+   "org": "Geotab",
+   "location": "USA"
+  },
+  "senior manager, product marketing (remote within the united states)|league|canada, usa": {
+   "first_seen": "2026-11-20T20:17:29+00:00",
+   "last_seen": "2026-11-20T20:17:29+00:00",
+   "title": "Senior Manager, Product Marketing (remote within the United States)",
+   "org": "League",
+   "location": "Canada, USA"
+  },
+  "gtm lead|liftoff|usa": {
+   "first_seen": "2026-11-20T20:17:29+00:00",
+   "last_seen": "2026-11-20T20:17:29+00:00",
+   "title": "GTM Lead",
+   "org": "Liftoff",
+   "location": "USA"
+  },
+  "enterprise account executive, nyc|horizon3.ai|usa": {
+   "first_seen": "2026-11-20T20:17:29+00:00",
+   "last_seen": "2026-11-20T20:17:29+00:00",
+   "title": "Enterprise Account Executive, NYC",
+   "org": "Horizon3.ai",
+   "location": "USA"
+  },
+  "manager, business risk and ai automation|reddit|usa": {
+   "first_seen": "2026-11-20T20:17:29+00:00",
+   "last_seen": "2026-11-20T20:17:29+00:00",
+   "title": "Manager, Business Risk and AI Automation",
+   "org": "Reddit",
+   "location": "USA"
+  },
+  "outbound sales development representative|fleetio|usa": {
+   "first_seen": "2026-11-20T20:17:29+00:00",
+   "last_seen": "2026-11-20T20:17:29+00:00",
+   "title": "Outbound Sales Development Representative",
+   "org": "Fleetio",
+   "location": "USA"
+  },
+  "mid-enterprise account executive, ohio valley|horizon3.ai|usa": {
+   "first_seen": "2026-11-20T20:17:29+00:00",
+   "last_seen": "2026-11-20T20:17:29+00:00",
+   "title": "Mid-Enterprise Account Executive, Ohio Valley",
+   "org": "Horizon3.ai",
+   "location": "USA"
+  },
+  "machine learning engineer|reddit|canada": {
+   "first_seen": "2026-11-20T20:17:29+00:00",
+   "last_seen": "2026-11-20T20:17:29+00:00",
+   "title": "Machine Learning Engineer",
+   "org": "Reddit",
+   "location": "Canada"
+  },
+  "senior concept artist|hyperhug|cyprus": {
+   "first_seen": "2026-11-20T20:17:29+00:00",
+   "last_seen": "2026-11-20T20:17:29+00:00",
+   "title": "Senior Concept Artist",
+   "org": "HyperHug",
+   "location": "Cyprus"
+  },
+  "senior back end engineer|horizon3.ai|usa": {
+   "first_seen": "2026-11-20T20:17:29+00:00",
+   "last_seen": "2026-11-20T20:17:29+00:00",
+   "title": "Senior Back End Engineer",
+   "org": "Horizon3.ai",
+   "location": "USA"
+  },
+  "community manager \u2013 french speaking (12-month contract)|reddit|ireland, uk": {
+   "first_seen": "2026-11-20T20:17:29+00:00",
+   "last_seen": "2026-11-20T20:17:29+00:00",
+   "title": "Community Manager \u2013 French Speaking (12-Month Contract)",
+   "org": "Reddit",
+   "location": "Ireland, UK"
+  },
+  "account executive, smb|fleetio|usa": {
+   "first_seen": "2026-11-20T20:17:29+00:00",
+   "last_seen": "2026-11-20T20:17:29+00:00",
+   "title": "Account Executive, SMB",
+   "org": "Fleetio",
+   "location": "USA"
+  },
+  "senior qa engineer|hyperhug|cyprus": {
+   "first_seen": "2026-11-20T20:17:29+00:00",
+   "last_seen": "2026-11-20T20:17:29+00:00",
+   "title": "Senior QA Engineer",
+   "org": "HyperHug",
+   "location": "Cyprus"
+  },
+  "growth & campaign manager - sea|binance|philippines": {
+   "first_seen": "2026-11-20T20:17:29+00:00",
+   "last_seen": "2026-11-20T20:17:29+00:00",
+   "title": "Growth & Campaign Manager - SEA",
+   "org": "Binance",
+   "location": "Philippines"
+  },
+  "binance accelerator program - vip sales operation|binance|hong kong": {
+   "first_seen": "2026-11-20T20:17:29+00:00",
+   "last_seen": "2026-11-20T20:17:29+00:00",
+   "title": "Binance Accelerator Program - VIP Sales operation",
+   "org": "Binance",
+   "location": "Hong Kong"
+  },
+  "strategic account executive, mining|armada|australia": {
+   "first_seen": "2026-11-20T20:17:29+00:00",
+   "last_seen": "2026-11-20T20:17:29+00:00",
+   "title": "Strategic Account Executive, Mining",
+   "org": "Armada",
+   "location": "Australia"
+  },
+  "senior customer engineer, ai-factory|armada|australia": {
+   "first_seen": "2026-11-20T20:17:29+00:00",
+   "last_seen": "2026-11-20T20:17:29+00:00",
+   "title": "Senior Customer Engineer, AI-Factory",
+   "org": "Armada",
+   "location": "Australia"
+  },
+  "senior contracts and budget associate/assoc contracts manager|precision medicine group|south korea": {
+   "first_seen": "2026-11-20T20:17:29+00:00",
+   "last_seen": "2026-11-20T20:17:29+00:00",
+   "title": "Senior Contracts and Budget Associate/Assoc Contracts Manager",
+   "org": "Precision Medicine Group",
+   "location": "South Korea"
+  },
+  "android engineer (apac remote)|binance|apac": {
+   "first_seen": "2026-11-20T20:17:29+00:00",
+   "last_seen": "2026-11-20T20:17:29+00:00",
+   "title": "Android Engineer (APAC Remote)",
+   "org": "Binance",
+   "location": "APAC"
+  },
+  "data center construction manager|armada|australia": {
+   "first_seen": "2026-11-20T20:17:29+00:00",
+   "last_seen": "2026-11-20T20:17:29+00:00",
+   "title": "Data Center Construction Manager",
+   "org": "Armada",
+   "location": "Australia"
+  },
+  "sr. clinical research associate (australia)|alimentiv|australia": {
+   "first_seen": "2026-11-20T20:17:29+00:00",
+   "last_seen": "2026-11-20T20:17:29+00:00",
+   "title": "Sr. Clinical Research Associate (Australia)",
+   "org": "Alimentiv",
+   "location": "Australia"
+  },
+  "account manager, scale|braze|australia": {
+   "first_seen": "2026-11-20T20:17:29+00:00",
+   "last_seen": "2026-11-20T20:17:29+00:00",
+   "title": "Account Manager, Scale",
+   "org": "Braze",
+   "location": "Australia"
+  },
+  "regulatory and site start up specialist|precision medicine group|south korea": {
+   "first_seen": "2026-11-20T20:17:29+00:00",
+   "last_seen": "2026-11-20T20:17:29+00:00",
+   "title": "Regulatory and Site Start Up Specialist",
+   "org": "Precision Medicine Group",
+   "location": "South Korea"
+  },
+  "recruiter, r&d|gitlab|poland, uk": {
+   "first_seen": "2026-11-20T20:17:29+00:00",
+   "last_seen": "2026-11-20T20:17:29+00:00",
+   "title": "Recruiter, R&D",
+   "org": "GitLab",
+   "location": "Poland, UK"
+  },
+  "lead machine learning scientist, search|monzo|uk": {
+   "first_seen": "2026-11-20T20:17:29+00:00",
+   "last_seen": "2026-11-20T20:17:29+00:00",
+   "title": "Lead Machine Learning Scientist, Search",
+   "org": "Monzo",
+   "location": "UK"
+  },
+  "new business account executive - nordics|gitlab|netherlands, sweden, uk": {
+   "first_seen": "2026-11-20T20:17:29+00:00",
+   "last_seen": "2026-11-20T20:17:29+00:00",
+   "title": "New Business Account Executive - Nordics",
+   "org": "GitLab",
+   "location": "Netherlands, Sweden, UK"
+  },
+  "lead machine learning scientist, fincrime|monzo|uk": {
+   "first_seen": "2026-11-20T20:17:29+00:00",
+   "last_seen": "2026-11-20T20:17:29+00:00",
+   "title": "Lead Machine Learning Scientist, FinCrime",
+   "org": "Monzo",
+   "location": "UK"
+  },
+  "candidate experience specialist, contractor (emea)|gitlab|ireland, poland, uk": {
+   "first_seen": "2026-11-20T20:17:29+00:00",
+   "last_seen": "2026-11-20T20:17:29+00:00",
+   "title": "Candidate Experience Specialist, Contractor (EMEA)",
+   "org": "GitLab",
+   "location": "Ireland, Poland, UK"
+  },
+  "senior accountant|saas.group|europe": {
+   "first_seen": "2026-11-20T20:17:29+00:00",
+   "last_seen": "2026-11-20T20:17:29+00:00",
+   "title": "Senior Accountant",
+   "org": "saas.group",
+   "location": "Europe"
+  },
+  "lead machine learning scientist, customer operations|monzo|uk": {
+   "first_seen": "2026-11-20T20:17:29+00:00",
+   "last_seen": "2026-11-20T20:17:29+00:00",
+   "title": "Lead Machine Learning Scientist, Customer Operations",
+   "org": "Monzo",
+   "location": "UK"
+  },
+  "backend engineer (ruby), ai engineering: ai catalog|gitlab|uk": {
+   "first_seen": "2026-11-20T20:17:29+00:00",
+   "last_seen": "2026-11-20T20:17:29+00:00",
+   "title": "Backend Engineer (Ruby), AI Engineering: AI Catalog",
+   "org": "GitLab",
+   "location": "UK"
+  },
+  "accounting manager|saas.group|europe": {
+   "first_seen": "2026-11-20T20:17:29+00:00",
+   "last_seen": "2026-11-20T20:17:29+00:00",
+   "title": "Accounting Manager",
+   "org": "saas.group",
+   "location": "Europe"
+  },
+  "complaints policy manager|monzo|uk": {
+   "first_seen": "2026-11-20T20:17:29+00:00",
+   "last_seen": "2026-11-20T20:17:29+00:00",
+   "title": "Complaints Policy Manager",
+   "org": "Monzo",
+   "location": "UK"
+  },
+  "senior manager, paid search b2b|wpromote|usa": {
+   "first_seen": "2026-11-20T20:17:29+00:00",
+   "last_seen": "2026-11-20T20:17:29+00:00",
+   "title": "Senior Manager, Paid Search B2B",
+   "org": "Wpromote",
+   "location": "USA"
+  },
+  "senior manager, channel partnerships|wpromote|usa": {
+   "first_seen": "2026-11-20T20:17:29+00:00",
+   "last_seen": "2026-11-20T20:17:29+00:00",
+   "title": "Senior Manager, Channel Partnerships",
+   "org": "Wpromote",
+   "location": "USA"
+  },
+  "principal customer success manager|fin|usa": {
+   "first_seen": "2026-11-20T20:17:29+00:00",
+   "last_seen": "2026-11-20T20:17:29+00:00",
+   "title": "Principal Customer Success Manager",
+   "org": "Fin",
+   "location": "USA"
+  },
+  "senior director, paid search|wpromote|usa": {
+   "first_seen": "2026-11-20T20:17:29+00:00",
+   "last_seen": "2026-11-20T20:17:29+00:00",
+   "title": "Senior Director, Paid Search",
+   "org": "Wpromote",
+   "location": "USA"
+  },
+  "senior product manager (prediction markets)|phantom|usa": {
+   "first_seen": "2026-11-20T20:17:29+00:00",
+   "last_seen": "2026-11-20T20:17:29+00:00",
+   "title": "Senior Product Manager (Prediction Markets)",
+   "org": "Phantom",
+   "location": "USA"
+  },
+  "senior director, growth (agency sales)|wpromote|usa": {
+   "first_seen": "2026-11-20T20:17:29+00:00",
+   "last_seen": "2026-11-20T20:17:29+00:00",
+   "title": "Senior Director, Growth (Agency Sales)",
+   "org": "Wpromote",
+   "location": "USA"
+  },
+  "head of internal communications|phantom|usa": {
+   "first_seen": "2026-11-20T20:17:29+00:00",
+   "last_seen": "2026-11-20T20:17:29+00:00",
+   "title": "Head of Internal Communications",
+   "org": "Phantom",
+   "location": "USA"
+  },
+  "senior director, client strategy (media strategy)|wpromote|usa": {
+   "first_seen": "2026-11-20T20:17:29+00:00",
+   "last_seen": "2026-11-20T20:17:29+00:00",
+   "title": "Senior Director, Client Strategy (Media Strategy)",
+   "org": "Wpromote",
+   "location": "USA"
+  },
+  "ux researcher|phantom|usa": {
+   "first_seen": "2026-11-20T20:17:29+00:00",
+   "last_seen": "2026-11-20T20:17:29+00:00",
+   "title": "UX Researcher",
+   "org": "Phantom",
+   "location": "USA"
+  },
+  "senior director, client services b2b|wpromote|usa": {
+   "first_seen": "2026-11-20T20:17:29+00:00",
+   "last_seen": "2026-11-20T20:17:29+00:00",
+   "title": "Senior Director, Client Services B2B",
+   "org": "Wpromote",
+   "location": "USA"
   }
  }
 }

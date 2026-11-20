@@ -1,6 +1,6 @@
 {
  "source": "https://www.hosthealthcare.com/jobs/",
- "collected_at": "2026-11-20T11:50:13+00:00",
+ "collected_at": "2026-11-20T20:17:27+00:00",
  "jobs_on_board": 15,
  "new_this_run": 0,
  "total_tracked": 16,
@@ -78,24 +78,6 @@
    "new_this_run": false
   },
   {
-   "title": "RN - Operating Room",
-   "location": "Denver, CO",
-   "pay_amount": "80.0",
-   "pay_unit": "hour",
-   "weeks": 8,
-   "kind": "local",
-   "new_this_run": false
-  },
-  {
-   "title": "RN - Operating Room",
-   "location": "Denver, CO",
-   "pay_amount": "4,411.4",
-   "pay_unit": "week",
-   "weeks": 8,
-   "kind": "travel",
-   "new_this_run": false
-  },
-  {
    "title": "RN - PICU",
    "location": "Columbus, OH",
    "pay_amount": "4,411.4",
@@ -137,6 +119,24 @@
    "pay_amount": "4,250.6",
    "pay_unit": "week",
    "weeks": 6,
+   "kind": "travel",
+   "new_this_run": false
+  },
+  {
+   "title": "RN - NICU",
+   "location": "Columbus, OH",
+   "pay_amount": "4,089.6",
+   "pay_unit": "week",
+   "weeks": 8,
+   "kind": "travel",
+   "new_this_run": false
+  },
+  {
+   "title": "RN - PICU Float",
+   "location": "Columbus, OH",
+   "pay_amount": "4,089.6",
+   "pay_unit": "week",
+   "weeks": 8,
    "kind": "travel",
    "new_this_run": false
   }
@@ -276,18 +276,23 @@
    "at": "2026-11-20T11:50:13+00:00",
    "jobs": 15,
    "new": 0
+  },
+  {
+   "at": "2026-11-20T20:17:27+00:00",
+   "jobs": 15,
+   "new": 0
   }
  ],
  "jobs_seen": {
   "physical therapist - allied|seattle, wa": {
    "first_seen": "2026-11-15T09:21:04+00:00",
-   "last_seen": "2026-11-20T11:50:13+00:00",
+   "last_seen": "2026-11-20T20:17:27+00:00",
    "title": "Physical Therapist - Allied",
    "location": "Seattle, WA"
   },
   "crna|bigfork, mn": {
    "first_seen": "2026-11-15T09:21:04+00:00",
-   "last_seen": "2026-11-20T11:50:13+00:00",
+   "last_seen": "2026-11-20T20:17:27+00:00",
    "title": "CRNA",
    "location": "Bigfork, MN"
   },
@@ -305,13 +310,13 @@
   },
   "director of oncology - executive leadership|santa maria, ca": {
    "first_seen": "2026-11-15T09:21:04+00:00",
-   "last_seen": "2026-11-20T11:50:13+00:00",
+   "last_seen": "2026-11-20T20:17:27+00:00",
    "title": "Director of Oncology - Executive Leadership",
    "location": "Santa Maria, CA"
   },
   "director of periop services, cath lab, ekg|glendale, ca": {
    "first_seen": "2026-11-15T09:21:04+00:00",
-   "last_seen": "2026-11-20T11:50:13+00:00",
+   "last_seen": "2026-11-20T20:17:27+00:00",
    "title": "Director of Periop Services, Cath Lab, EKG",
    "location": "Glendale, CA"
   },
@@ -323,19 +328,19 @@
   },
   "cath lab tech|bakersfield, ca": {
    "first_seen": "2026-11-15T09:21:04+00:00",
-   "last_seen": "2026-11-20T11:50:13+00:00",
+   "last_seen": "2026-11-20T20:17:27+00:00",
    "title": "Cath Lab Tech",
    "location": "Bakersfield, CA"
   },
   "rn - picu|columbus, oh": {
    "first_seen": "2026-11-15T09:21:04+00:00",
-   "last_seen": "2026-11-20T11:50:13+00:00",
+   "last_seen": "2026-11-20T20:17:27+00:00",
    "title": "RN - PICU",
    "location": "Columbus, OH"
   },
   "rn - nicu|columbus, oh": {
    "first_seen": "2026-11-15T09:21:04+00:00",
-   "last_seen": "2026-11-16T20:29:21+00:00",
+   "last_seen": "2026-11-20T20:17:27+00:00",
    "title": "RN - NICU",
    "location": "Columbus, OH"
   },
@@ -347,7 +352,7 @@
   },
   "rn - picu float|columbus, oh": {
    "first_seen": "2026-11-16T20:29:21+00:00",
-   "last_seen": "2026-11-16T20:29:21+00:00",
+   "last_seen": "2026-11-20T20:17:27+00:00",
    "title": "RN - PICU Float",
    "location": "Columbus, OH"
   },
@@ -359,19 +364,19 @@
   },
   "rn - nurse educator|new york, ny": {
    "first_seen": "2026-11-17T22:23:59+00:00",
-   "last_seen": "2026-11-20T11:50:13+00:00",
+   "last_seen": "2026-11-20T20:17:27+00:00",
    "title": "RN - Nurse Educator",
    "location": "New York, NY"
   },
   "rn - picu|new haven, ct": {
    "first_seen": "2026-11-17T22:23:59+00:00",
-   "last_seen": "2026-11-20T11:50:13+00:00",
+   "last_seen": "2026-11-20T20:17:27+00:00",
    "title": "RN - PICU",
    "location": "New Haven, CT"
   },
   "eeg technologist|houston, tx": {
    "first_seen": "2026-11-19T03:27:09+00:00",
-   "last_seen": "2026-11-20T11:50:13+00:00",
+   "last_seen": "2026-11-20T20:17:27+00:00",
    "title": "EEG Technologist",
    "location": "Houston, TX"
   }

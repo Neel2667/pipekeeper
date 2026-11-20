@@ -173,9 +173,18 @@
    "feeds": 15,
    "ok": 15,
    "failed": []
+  },
+  {
+   "at": "2026-11-20T20:17:39+00:00",
+   "feeds": 15,
+   "ok": 13,
+   "failed": [
+    "openfda510k",
+    "openfdaenforcement"
+   ]
   }
  ],
- "last_run": "2026-11-20T11:50:20+00:00",
+ "last_run": "2026-11-20T20:17:39+00:00",
  "last_status": {
   "hosthealthcare": true,
   "remoteok": true,
@@ -189,8 +198,8 @@
   "edgarformd": true,
   "usaspending": true,
   "clinicaltrials": true,
-  "openfda510k": true,
-  "openfdaenforcement": true,
+  "openfda510k": false,
+  "openfdaenforcement": false,
   "federalregister": true
  }
 }

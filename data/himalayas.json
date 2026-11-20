@@ -3,103 +3,103 @@
  "name": "Himalayas \u2014 remote jobs",
  "category": "jobs",
  "source": "https://himalayas.app/jobs/api",
- "collected_at": "2026-11-20T11:50:15+00:00",
+ "collected_at": "2026-11-20T20:17:29+00:00",
  "jobs_on_board": 20,
  "new_this_run": 20,
- "total_tracked": 379,
+ "total_tracked": 399,
  "jobs": [
   {
-   "title": "Clinical Review Nurse - Concurrent Review NICU",
-   "org": "Centene Corporation",
-   "location": "United States",
-   "detail": "$27\u2013$48/h",
-   "url": null,
-   "new_this_run": true
-  },
-  {
-   "title": "ABA Care Coordinator | Client Services & Administration (Remote - EST Hours)",
-   "org": "ISTA Personnel Solutions",
-   "location": "South Africa",
+   "title": "Gestionnaire en ing\u00e9nierie - le volet IA",
+   "org": "Nesto Cloud",
+   "location": "Canada",
    "detail": "Full Time",
    "url": null,
    "new_this_run": true
   },
   {
-   "title": "Social Scientist",
-   "org": "CACI International Inc",
-   "location": "United States",
-   "detail": "$90,300\u2013$189,600/a",
+   "title": "Video Editor",
+   "org": "WOW Remote Teams",
+   "location": "Anguilla, Antigua and Barbuda, Argentina, Aruba, Bahamas, Barbados, Belize, Bermuda, Bolivia, Bonaire, Sint Eustatius and Saba, Brazil, Cayman Islands, Chile, Colombia, Costa Rica, Cuba, Dominica, Dominican Republic, Ecuador, El Salvador, F",
+   "detail": "Part Time",
    "url": null,
    "new_this_run": true
   },
   {
-   "title": "Senior Engineer, Cloud Deployment",
-   "org": "Thrive",
+   "title": "Clinical Epic IT Trainer",
+   "org": "Vanderbilt University Medical Center",
    "location": "United States",
    "detail": "Full Time",
    "url": null,
    "new_this_run": true
   },
   {
-   "title": "Pre-Certification Coordinator - Sleep Studies",
-   "org": "Mercy",
+   "title": "Learning Operations Specialist",
+   "org": "HireBoost",
+   "location": "Argentina, Brazil, Chile, Colombia, Costa Rica",
+   "detail": "$2,800\u2013$3,300/m",
+   "url": null,
+   "new_this_run": true
+  },
+  {
+   "title": "Payroll Compliance & Amendments Consultant",
+   "org": "Wipfli",
+   "location": "United States",
+   "detail": "$66,000\u2013$89,000/a",
+   "url": null,
+   "new_this_run": true
+  },
+  {
+   "title": "Consultant en recrutement ind\u00e9pendant H/F - Nanterre",
+   "org": "Hunteed",
+   "location": "France",
+   "detail": "Contractor",
+   "url": null,
+   "new_this_run": true
+  },
+  {
+   "title": "Sr Director, IT Security & Privacy",
+   "org": "EXP",
    "location": "United States",
    "detail": "Full Time",
    "url": null,
    "new_this_run": true
   },
   {
-   "title": "Account Executive - LATAM (Mexico - Based)",
-   "org": "Action1",
-   "location": "Mexico",
+   "title": "Essay & Interview Mentor, US Boarding and Day School Admissions",
+   "org": "Crimson Education",
+   "location": "China, Hong Kong, Japan, Singapore, United States",
+   "detail": "Contractor",
+   "url": null,
+   "new_this_run": true
+  },
+  {
+   "title": "Implementation Lead, Tempus Technologies",
+   "org": "PNC",
+   "location": "United States",
+   "detail": "$63,750\u2013$127,500/a",
+   "url": null,
+   "new_this_run": true
+  },
+  {
+   "title": "Staff Global Supply Manager",
+   "org": "EVgo",
+   "location": "United States",
+   "detail": "$105,400\u2013$131,800/a",
+   "url": null,
+   "new_this_run": true
+  },
+  {
+   "title": "Channel Sales Executive, Penang",
+   "org": "TP-Link USA Corporation",
+   "location": "Malaysia",
    "detail": "Full Time",
    "url": null,
    "new_this_run": true
   },
   {
-   "title": "Marine Geology SME - Core Logging & Sedimentology \u2013 Remote (Worldwide)",
-   "org": "RemoteJobsOne",
-   "location": "Philippines",
-   "detail": "$40\u2013$100/h",
-   "url": null,
-   "new_this_run": true
-  },
-  {
-   "title": "Director of Marketing",
-   "org": "Galvanize Therapeutics",
-   "location": "United States",
-   "detail": "$205,000\u2013$230,000/a",
-   "url": null,
-   "new_this_run": true
-  },
-  {
-   "title": "West Market Manager of Revenue Management",
-   "org": "Sysco",
-   "location": "United States",
-   "detail": "$97,400\u2013$146,200/a",
-   "url": null,
-   "new_this_run": true
-  },
-  {
-   "title": "IT Security Engineer III/CyberArk",
-   "org": "Sedgwick",
-   "location": "United States",
-   "detail": "$70,000\u2013$90,000/a",
-   "url": null,
-   "new_this_run": true
-  },
-  {
-   "title": "Healthcare Operations Specialist - Fully Remote | Upto $120/hr",
-   "org": "mercor",
-   "location": "United States",
-   "detail": "$80\u2013$120/h",
-   "url": null,
-   "new_this_run": true
-  },
-  {
-   "title": "Design Lead / Principal Java Developer",
-   "org": "Madiff",
-   "location": "Poland",
+   "title": "D365 Architect",
+   "org": "TestYantra Software Solutions",
+   "location": "Italy",
    "detail": "Contractor",
    "url": null,
    "new_this_run": true
@@ -208,6 +208,11 @@
   },
   {
    "at": "2026-11-20T11:50:15+00:00",
+   "jobs": 20,
+   "new": 20
+  },
+  {
+   "at": "2026-11-20T20:17:29+00:00",
    "jobs": 20,
    "new": 20
   }
@@ -2865,6 +2870,146 @@
    "title": "Irregular Warfare Expert \u2013 Remote (Worldwide)",
    "org": "RemoteJobsOne",
    "location": "Canada, France, Germany, India, Netherlands, Pakistan, United Kingdom, United States"
+  },
+  "gestionnaire en ing\u00e9nierie - le volet ia|nesto cloud|canada": {
+   "first_seen": "2026-11-20T20:17:29+00:00",
+   "last_seen": "2026-11-20T20:17:29+00:00",
+   "title": "Gestionnaire en ing\u00e9nierie - le volet IA",
+   "org": "Nesto Cloud",
+   "location": "Canada"
+  },
+  "video editor|wow remote teams|anguilla, antigua and barbuda, argentina, aruba, bahamas, barbados, belize, bermuda, bolivia, bonaire, sint eustatius an": {
+   "first_seen": "2026-11-20T20:17:29+00:00",
+   "last_seen": "2026-11-20T20:17:29+00:00",
+   "title": "Video Editor",
+   "org": "WOW Remote Teams",
+   "location": "Anguilla, Antigua and Barbuda, Argentina, Aruba, Bahamas, Barbados, Belize, Bermuda, Bolivia, Bonaire, Sint Eustatius and Saba, Brazil, Cayman Islands, Chile, Colombia, Costa Rica, Cuba, Dominica, Dominican Republic, Ecuador, El Salvador, F"
+  },
+  "clinical epic it trainer|vanderbilt university medical center|united states": {
+   "first_seen": "2026-11-20T20:17:29+00:00",
+   "last_seen": "2026-11-20T20:17:29+00:00",
+   "title": "Clinical Epic IT Trainer",
+   "org": "Vanderbilt University Medical Center",
+   "location": "United States"
+  },
+  "learning operations specialist|hireboost|argentina, brazil, chile, colombia, costa rica": {
+   "first_seen": "2026-11-20T20:17:29+00:00",
+   "last_seen": "2026-11-20T20:17:29+00:00",
+   "title": "Learning Operations Specialist",
+   "org": "HireBoost",
+   "location": "Argentina, Brazil, Chile, Colombia, Costa Rica"
+  },
+  "payroll compliance & amendments consultant|wipfli|united states": {
+   "first_seen": "2026-11-20T20:17:29+00:00",
+   "last_seen": "2026-11-20T20:17:29+00:00",
+   "title": "Payroll Compliance & Amendments Consultant",
+   "org": "Wipfli",
+   "location": "United States"
+  },
+  "consultant en recrutement ind\u00e9pendant h/f - nanterre|hunteed|france": {
+   "first_seen": "2026-11-20T20:17:29+00:00",
+   "last_seen": "2026-11-20T20:17:29+00:00",
+   "title": "Consultant en recrutement ind\u00e9pendant H/F - Nanterre",
+   "org": "Hunteed",
+   "location": "France"
+  },
+  "sr director, it security & privacy|exp|united states": {
+   "first_seen": "2026-11-20T20:17:29+00:00",
+   "last_seen": "2026-11-20T20:17:29+00:00",
+   "title": "Sr Director, IT Security & Privacy",
+   "org": "EXP",
+   "location": "United States"
+  },
+  "essay & interview mentor, us boarding and day school admissions|crimson education|china, hong kong, japan, singapore, united states": {
+   "first_seen": "2026-11-20T20:17:29+00:00",
+   "last_seen": "2026-11-20T20:17:29+00:00",
+   "title": "Essay & Interview Mentor, US Boarding and Day School Admissions",
+   "org": "Crimson Education",
+   "location": "China, Hong Kong, Japan, Singapore, United States"
+  },
+  "implementation lead, tempus technologies|pnc|united states": {
+   "first_seen": "2026-11-20T20:17:29+00:00",
+   "last_seen": "2026-11-20T20:17:29+00:00",
+   "title": "Implementation Lead, Tempus Technologies",
+   "org": "PNC",
+   "location": "United States"
+  },
+  "staff global supply manager|evgo|united states": {
+   "first_seen": "2026-11-20T20:17:29+00:00",
+   "last_seen": "2026-11-20T20:17:29+00:00",
+   "title": "Staff Global Supply Manager",
+   "org": "EVgo",
+   "location": "United States"
+  },
+  "channel sales executive, penang|tp-link usa corporation|malaysia": {
+   "first_seen": "2026-11-20T20:17:29+00:00",
+   "last_seen": "2026-11-20T20:17:29+00:00",
+   "title": "Channel Sales Executive, Penang",
+   "org": "TP-Link USA Corporation",
+   "location": "Malaysia"
+  },
+  "d365 architect|testyantra software solutions|italy": {
+   "first_seen": "2026-11-20T20:17:29+00:00",
+   "last_seen": "2026-11-20T20:17:29+00:00",
+   "title": "D365 Architect",
+   "org": "TestYantra Software Solutions",
+   "location": "Italy"
+  },
+  "telecom expense project manager|unity communications|united states": {
+   "first_seen": "2026-11-20T20:17:29+00:00",
+   "last_seen": "2026-11-20T20:17:29+00:00",
+   "title": "Telecom Expense Project Manager",
+   "org": "Unity Communications",
+   "location": "United States"
+  },
+  "revenue integrity coordinator 2|the ohio state university|united states": {
+   "first_seen": "2026-11-20T20:17:29+00:00",
+   "last_seen": "2026-11-20T20:17:29+00:00",
+   "title": "Revenue Integrity Coordinator 2",
+   "org": "The Ohio State University",
+   "location": "United States"
+  },
+  "clinical operations strategy lead|centerwell senior primary care|united states": {
+   "first_seen": "2026-11-20T20:17:29+00:00",
+   "last_seen": "2026-11-20T20:17:29+00:00",
+   "title": "Clinical Operations Strategy Lead",
+   "org": "CenterWell Senior Primary Care",
+   "location": "United States"
+  },
+  "sr cybersecurity analyst/documentation lead|boston government services|united states": {
+   "first_seen": "2026-11-20T20:17:29+00:00",
+   "last_seen": "2026-11-20T20:17:29+00:00",
+   "title": "Sr Cybersecurity Analyst/Documentation Lead",
+   "org": "Boston Government Services",
+   "location": "United States"
+  },
+  "audio engineer - ai trainer|mercor|south korea": {
+   "first_seen": "2026-11-20T20:17:29+00:00",
+   "last_seen": "2026-11-20T20:17:29+00:00",
+   "title": "Audio Engineer - AI Trainer",
+   "org": "mercor",
+   "location": "South Korea"
+  },
+  "ai safety practitioner - expert evaluator|mercor|estonia": {
+   "first_seen": "2026-11-20T20:17:29+00:00",
+   "last_seen": "2026-11-20T20:17:29+00:00",
+   "title": "AI Safety Practitioner - Expert Evaluator",
+   "org": "mercor",
+   "location": "Estonia"
+  },
+  "scientist iii - cmc|cardinal health|united states": {
+   "first_seen": "2026-11-20T20:17:29+00:00",
+   "last_seen": "2026-11-20T20:17:29+00:00",
+   "title": "Scientist III - CMC",
+   "org": "Cardinal Health",
+   "location": "United States"
+  },
+  "unreal engine developer \u2013 remote (worldwide)|remotejobsone|pakistan": {
+   "first_seen": "2026-11-20T20:17:29+00:00",
+   "last_seen": "2026-11-20T20:17:29+00:00",
+   "title": "Unreal Engine Developer \u2013 Remote (Worldwide)",
+   "org": "RemoteJobsOne",
+   "location": "Pakistan"
   }
  }
 }
