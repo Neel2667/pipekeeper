@@ -3,105 +3,105 @@
  "name": "Jobicy \u2014 remote jobs",
  "category": "jobs",
  "source": "https://jobicy.com/api/v2/remote-jobs",
- "collected_at": "2026-11-21T02:13:51+00:00",
+ "collected_at": "2026-11-21T09:54:44+00:00",
  "jobs_on_board": 50,
- "new_this_run": 30,
- "total_tracked": 646,
+ "new_this_run": 50,
+ "total_tracked": 696,
  "jobs": [
   {
-   "title": "Dealer Development Manager (Dallas / Fort Worth)",
-   "org": "Upgrade",
-   "location": "USA",
+   "title": "Technical Account Manager",
+   "org": "ClickUp",
+   "location": "Philippines",
    "detail": "Senior",
-   "url": "https://jobicy.com/jobs/163607-dealer-development-manager-dallas-fort-worth",
+   "url": "https://jobicy.com/jobs/156247-technical-account-manager-7",
    "new_this_run": true
   },
   {
-   "title": "B2B Paid Media Senior Manager",
-   "org": "Wellhub",
+   "title": "Enterprise Solutions Consultant, ANZ",
+   "org": "Nash",
+   "location": "Australia, New Zealand",
+   "detail": "Director",
+   "url": "https://jobicy.com/jobs/156246-enterprise-solutions-consultant-anz",
+   "new_this_run": true
+  },
+  {
+   "title": "Sales Engineer - San Francisco",
+   "org": "Harness",
+   "location": "USA",
+   "detail": "Director",
+   "url": "https://jobicy.com/jobs/156215-sales-engineer-san-francisco",
+   "new_this_run": true
+  },
+  {
+   "title": "Partner Solutions Architect - AWS",
+   "org": "Amplitude",
+   "location": "Canada, USA",
+   "detail": "Senior",
+   "url": "https://jobicy.com/jobs/156254-partner-solutions-architect-aws",
+   "new_this_run": true
+  },
+  {
+   "title": "Materials Sourcing Manager, Wool",
+   "org": "Quince",
+   "location": "Australia, China, Hong Kong",
+   "detail": "Senior",
+   "url": "https://jobicy.com/jobs/156251-materials-sourcing-manager-wool",
+   "new_this_run": true
+  },
+  {
+   "title": "Database Support Engineer (Japanese Speaking)",
+   "org": "Supabase",
+   "location": "APAC",
+   "detail": "Entry-Level, Junior",
+   "url": "https://jobicy.com/jobs/156249-database-support-engineer-japanese-speaking",
+   "new_this_run": true
+  },
+  {
+   "title": "Manager, Product Support - APAC",
+   "org": "Ashby",
+   "location": "Australia, Japan, Philippines, Singapore, South Korea",
+   "detail": "Director",
+   "url": "https://jobicy.com/jobs/156244-manager-product-support-apac",
+   "new_this_run": true
+  },
+  {
+   "title": "Operations Analyst",
+   "org": "Caylent",
+   "location": "Argentina",
+   "detail": "Any",
+   "url": "https://jobicy.com/jobs/156243-operations-analyst",
+   "new_this_run": true
+  },
+  {
+   "title": "Strategic Account Executive, Financial Services - Brazil",
+   "org": "GitLab",
    "location": "Brazil",
    "detail": "Director",
-   "url": "https://jobicy.com/jobs/163606-b2b-paid-media-senior-manager",
+   "url": "https://jobicy.com/jobs/156239-strategic-account-executive-financial-services-brazil",
    "new_this_run": true
   },
   {
-   "title": "GPU Compute Partnerships & Commercial Operations Manager",
-   "org": "Nebius",
-   "location": "USA",
-   "detail": "Any",
-   "url": "https://jobicy.com/jobs/163605-gpu-compute-partnerships-commercial-operations-manager",
+   "title": "Strategic Account Executive - Brazil",
+   "org": "GitLab",
+   "location": "Brazil",
+   "detail": "Director",
+   "url": "https://jobicy.com/jobs/156238-strategic-account-executive-brazil-3",
    "new_this_run": true
   },
   {
-   "title": "External Wholesaler, Life and Annuity Distribution - West Coast Spanish Speaking",
-   "org": "National Life Insurance Company",
-   "location": "USA",
-   "detail": "Any",
-   "url": "https://jobicy.com/jobs/163604-external-wholesaler-life-and-annuity-distribution-west-coast-spanish-speaking",
+   "title": "Regional Sales Director, Commercial - LATAM",
+   "org": "GitLab",
+   "location": "Brazil",
+   "detail": "Director",
+   "url": "https://jobicy.com/jobs/156236-regional-sales-director-commercial-latam",
    "new_this_run": true
   },
   {
-   "title": "B2B & Brand Social Media Senior Manager (US)",
-   "org": "Wellhub",
+   "title": "Account Executive",
+   "org": "Cordance",
    "location": "USA",
    "detail": "Director",
-   "url": "https://jobicy.com/jobs/163602-b2b-brand-social-media-senior-manager-us",
-   "new_this_run": true
-  },
-  {
-   "title": "Forward Deployed Engineer, Physical AI Infrastructure",
-   "org": "Nebius",
-   "location": "USA",
-   "detail": "Any",
-   "url": "https://jobicy.com/jobs/163601-forward-deployed-engineer-physical-ai-infrastructure-2",
-   "new_this_run": true
-  },
-  {
-   "title": "External Wholesaler, Life and Annuity Distribution - Mandarin Speaking",
-   "org": "National Life Insurance Company",
-   "location": "USA",
-   "detail": "Any",
-   "url": "https://jobicy.com/jobs/163599-external-wholesaler-life-and-annuity-distribution-mandarin-speaking",
-   "new_this_run": true
-  },
-  {
-   "title": "AI Experience Engineer (Conversational AI)",
-   "org": "Upgrade",
-   "location": "Canada",
-   "detail": "Any",
-   "url": "https://jobicy.com/jobs/163598-ai-experience-engineer-conversational-ai",
-   "new_this_run": true
-  },
-  {
-   "title": "Fixed Assets Lead",
-   "org": "Nebius",
-   "location": "USA",
-   "detail": "Senior",
-   "url": "https://jobicy.com/jobs/163597-fixed-assets-lead",
-   "new_this_run": true
-  },
-  {
-   "title": "External Wholesaler (Life and Annuity Distribution)",
-   "org": "National Life Insurance Company",
-   "location": "USA",
-   "detail": "Any",
-   "url": "https://jobicy.com/jobs/163595-external-wholesaler-life-and-annuity-distribution",
-   "new_this_run": true
-  },
-  {
-   "title": "Alpheratz Project - Valencia (Spain) Translation Quality Rater",
-   "org": "Welo Global",
-   "location": "Spain",
-   "detail": "Any",
-   "url": "https://jobicy.com/jobs/163593-alpheratz-project-valencia-spain-translation-quality-rater",
-   "new_this_run": true
-  },
-  {
-   "title": "Alpheratz Project - Swedish (Sweden) Translation Quality Rater",
-   "org": "Welo Global",
-   "location": "Sweden",
-   "detail": "Any",
-   "url": "https://jobicy.com/jobs/163592-alpheratz-project-swedish-sweden-translation-quality-rater",
+   "url": "https://jobicy.com/jobs/156225-account-executive-26",
    "new_this_run": true
   }
  ],
@@ -220,6 +220,11 @@
    "at": "2026-11-21T02:13:51+00:00",
    "jobs": 50,
    "new": 30
+  },
+  {
+   "at": "2026-11-21T09:54:44+00:00",
+   "jobs": 50,
+   "new": 50
   }
  ],
  "jobs_seen": {
@@ -4744,6 +4749,356 @@
    "title": "Senior Product Data Analyst",
    "org": "CookUnity",
    "location": "LATAM"
+  },
+  "technical account manager|clickup|philippines": {
+   "first_seen": "2026-11-21T09:54:44+00:00",
+   "last_seen": "2026-11-21T09:54:44+00:00",
+   "title": "Technical Account Manager",
+   "org": "ClickUp",
+   "location": "Philippines"
+  },
+  "enterprise solutions consultant, anz|nash|australia, new zealand": {
+   "first_seen": "2026-11-21T09:54:44+00:00",
+   "last_seen": "2026-11-21T09:54:44+00:00",
+   "title": "Enterprise Solutions Consultant, ANZ",
+   "org": "Nash",
+   "location": "Australia, New Zealand"
+  },
+  "sales engineer - san francisco|harness|usa": {
+   "first_seen": "2026-11-21T09:54:44+00:00",
+   "last_seen": "2026-11-21T09:54:44+00:00",
+   "title": "Sales Engineer - San Francisco",
+   "org": "Harness",
+   "location": "USA"
+  },
+  "partner solutions architect - aws|amplitude|canada, usa": {
+   "first_seen": "2026-11-21T09:54:44+00:00",
+   "last_seen": "2026-11-21T09:54:44+00:00",
+   "title": "Partner Solutions Architect - AWS",
+   "org": "Amplitude",
+   "location": "Canada, USA"
+  },
+  "materials sourcing manager, wool|quince|australia, china, hong kong": {
+   "first_seen": "2026-11-21T09:54:44+00:00",
+   "last_seen": "2026-11-21T09:54:44+00:00",
+   "title": "Materials Sourcing Manager, Wool",
+   "org": "Quince",
+   "location": "Australia, China, Hong Kong"
+  },
+  "database support engineer (japanese speaking)|supabase|apac": {
+   "first_seen": "2026-11-21T09:54:44+00:00",
+   "last_seen": "2026-11-21T09:54:44+00:00",
+   "title": "Database Support Engineer (Japanese Speaking)",
+   "org": "Supabase",
+   "location": "APAC"
+  },
+  "manager, product support - apac|ashby|australia, japan, philippines, singapore, south korea": {
+   "first_seen": "2026-11-21T09:54:44+00:00",
+   "last_seen": "2026-11-21T09:54:44+00:00",
+   "title": "Manager, Product Support - APAC",
+   "org": "Ashby",
+   "location": "Australia, Japan, Philippines, Singapore, South Korea"
+  },
+  "operations analyst|caylent|argentina": {
+   "first_seen": "2026-11-21T09:54:44+00:00",
+   "last_seen": "2026-11-21T09:54:44+00:00",
+   "title": "Operations Analyst",
+   "org": "Caylent",
+   "location": "Argentina"
+  },
+  "strategic account executive, financial services - brazil|gitlab|brazil": {
+   "first_seen": "2026-11-21T09:54:44+00:00",
+   "last_seen": "2026-11-21T09:54:44+00:00",
+   "title": "Strategic Account Executive, Financial Services - Brazil",
+   "org": "GitLab",
+   "location": "Brazil"
+  },
+  "strategic account executive - brazil|gitlab|brazil": {
+   "first_seen": "2026-11-21T09:54:44+00:00",
+   "last_seen": "2026-11-21T09:54:44+00:00",
+   "title": "Strategic Account Executive - Brazil",
+   "org": "GitLab",
+   "location": "Brazil"
+  },
+  "regional sales director, commercial - latam|gitlab|brazil": {
+   "first_seen": "2026-11-21T09:54:44+00:00",
+   "last_seen": "2026-11-21T09:54:44+00:00",
+   "title": "Regional Sales Director, Commercial - LATAM",
+   "org": "GitLab",
+   "location": "Brazil"
+  },
+  "account executive|cordance|usa": {
+   "first_seen": "2026-11-21T09:54:44+00:00",
+   "last_seen": "2026-11-21T09:54:44+00:00",
+   "title": "Account Executive",
+   "org": "Cordance",
+   "location": "USA"
+  },
+  "mid-market account executive|maintainx|usa": {
+   "first_seen": "2026-11-21T09:54:44+00:00",
+   "last_seen": "2026-11-21T09:54:44+00:00",
+   "title": "Mid-Market Account Executive",
+   "org": "MaintainX",
+   "location": "USA"
+  },
+  "mid-market account executive - emea|maintainx|uk": {
+   "first_seen": "2026-11-21T09:54:44+00:00",
+   "last_seen": "2026-11-21T09:54:44+00:00",
+   "title": "Mid-Market Account Executive - EMEA",
+   "org": "MaintainX",
+   "location": "UK"
+  },
+  "inside sales representative - enterprise|maintainx|usa": {
+   "first_seen": "2026-11-21T09:54:44+00:00",
+   "last_seen": "2026-11-21T09:54:44+00:00",
+   "title": "Inside Sales Representative - Enterprise",
+   "org": "MaintainX",
+   "location": "USA"
+  },
+  "sr. it systems engineer|carrot|usa": {
+   "first_seen": "2026-11-21T09:54:44+00:00",
+   "last_seen": "2026-11-21T09:54:44+00:00",
+   "title": "Sr. IT Systems Engineer",
+   "org": "Carrot",
+   "location": "USA"
+  },
+  "sales & marketing operations specialist - mexico|brafton|mexico": {
+   "first_seen": "2026-11-21T09:54:44+00:00",
+   "last_seen": "2026-11-21T09:54:44+00:00",
+   "title": "Sales & Marketing Operations Specialist - Mexico",
+   "org": "Brafton",
+   "location": "Mexico"
+  },
+  "senior product manager - audiobooks format foundations|spotify|sweden, uk": {
+   "first_seen": "2026-11-21T09:54:44+00:00",
+   "last_seen": "2026-11-21T09:54:44+00:00",
+   "title": "Senior Product Manager - Audiobooks Format Foundations",
+   "org": "Spotify",
+   "location": "Sweden, UK"
+  },
+  "clinical operations lead|alimentiv|hungary": {
+   "first_seen": "2026-11-21T09:54:44+00:00",
+   "last_seen": "2026-11-21T09:54:44+00:00",
+   "title": "Clinical Operations Lead",
+   "org": "Alimentiv",
+   "location": "Hungary"
+  },
+  "pmo & portfolio analyst|rithum|usa": {
+   "first_seen": "2026-11-21T09:54:44+00:00",
+   "last_seen": "2026-11-21T09:54:44+00:00",
+   "title": "PMO & Portfolio Analyst",
+   "org": "Rithum",
+   "location": "USA"
+  },
+  "senior platform engineer - us remote|perfectserve|usa": {
+   "first_seen": "2026-11-21T09:54:44+00:00",
+   "last_seen": "2026-11-21T09:54:44+00:00",
+   "title": "Senior Platform Engineer - US Remote",
+   "org": "PerfectServe",
+   "location": "USA"
+  },
+  "senior outbound product manager|harness|usa": {
+   "first_seen": "2026-11-21T09:54:44+00:00",
+   "last_seen": "2026-11-21T09:54:44+00:00",
+   "title": "Senior Outbound Product Manager",
+   "org": "Harness",
+   "location": "USA"
+  },
+  "senior field marketing manager, events|harness|usa": {
+   "first_seen": "2026-11-21T09:54:44+00:00",
+   "last_seen": "2026-11-21T09:54:44+00:00",
+   "title": "Senior Field Marketing Manager, Events",
+   "org": "Harness",
+   "location": "USA"
+  },
+  "senior enterprise account executive - seattle|harness|usa": {
+   "first_seen": "2026-11-21T09:54:44+00:00",
+   "last_seen": "2026-11-21T09:54:44+00:00",
+   "title": "Senior Enterprise Account Executive - Seattle",
+   "org": "Harness",
+   "location": "USA"
+  },
+  "localisation project manager|smartling|ireland, uk": {
+   "first_seen": "2026-11-21T09:54:44+00:00",
+   "last_seen": "2026-11-21T09:54:44+00:00",
+   "title": "Localisation Project Manager",
+   "org": "Smartling",
+   "location": "Ireland, UK"
+  },
+  "sales engineer - seattle|harness|usa": {
+   "first_seen": "2026-11-21T09:54:44+00:00",
+   "last_seen": "2026-11-21T09:54:44+00:00",
+   "title": "Sales Engineer - Seattle",
+   "org": "Harness",
+   "location": "USA"
+  },
+  "senior web engineer - subscriptions|spotify|emea": {
+   "first_seen": "2026-11-21T09:54:44+00:00",
+   "last_seen": "2026-11-21T09:54:44+00:00",
+   "title": "Senior Web Engineer - Subscriptions",
+   "org": "Spotify",
+   "location": "EMEA"
+  },
+  "customer success architect, japan|gitlab|japan": {
+   "first_seen": "2026-11-21T09:54:44+00:00",
+   "last_seen": "2026-11-21T09:54:44+00:00",
+   "title": "Customer Success Architect, Japan",
+   "org": "GitLab",
+   "location": "Japan"
+  },
+  "senior director, analytics and data science, core product & growth|life360|canada, usa": {
+   "first_seen": "2026-11-21T09:54:44+00:00",
+   "last_seen": "2026-11-21T09:54:44+00:00",
+   "title": "Senior Director, Analytics and Data Science, Core Product & Growth",
+   "org": "Life360",
+   "location": "Canada, USA"
+  },
+  "senior sales manager|stackadapt|australia": {
+   "first_seen": "2026-11-21T09:54:44+00:00",
+   "last_seen": "2026-11-21T09:54:44+00:00",
+   "title": "Senior Sales Manager",
+   "org": "StackAdapt",
+   "location": "Australia"
+  },
+  "enterprise account executive, dach|astronomer|germany": {
+   "first_seen": "2026-11-21T09:54:44+00:00",
+   "last_seen": "2026-11-21T09:54:44+00:00",
+   "title": "Enterprise Account Executive, DACH",
+   "org": "Astronomer",
+   "location": "Germany"
+  },
+  "staff software engineer, platform infrastructure|astronomer|ireland": {
+   "first_seen": "2026-11-21T09:54:44+00:00",
+   "last_seen": "2026-11-21T09:54:44+00:00",
+   "title": "Staff Software Engineer, Platform Infrastructure",
+   "org": "Astronomer",
+   "location": "Ireland"
+  },
+  "senior product designer ii, revenue experimentation|life360|canada, usa": {
+   "first_seen": "2026-11-21T09:54:44+00:00",
+   "last_seen": "2026-11-21T09:54:44+00:00",
+   "title": "Senior Product Designer II, Revenue Experimentation",
+   "org": "Life360",
+   "location": "Canada, USA"
+  },
+  "enterprise account executive - singapore|gitlab|singapore": {
+   "first_seen": "2026-11-21T09:54:44+00:00",
+   "last_seen": "2026-11-21T09:54:44+00:00",
+   "title": "Enterprise Account Executive - Singapore",
+   "org": "GitLab",
+   "location": "Singapore"
+  },
+  "creator marketing lead|envato|australia, new zealand": {
+   "first_seen": "2026-11-21T09:54:44+00:00",
+   "last_seen": "2026-11-21T09:54:44+00:00",
+   "title": "Creator Marketing Lead",
+   "org": "Envato",
+   "location": "Australia, New Zealand"
+  },
+  "lead data scientist|monzo|uk": {
+   "first_seen": "2026-11-21T09:54:44+00:00",
+   "last_seen": "2026-11-21T09:54:44+00:00",
+   "title": "Lead Data Scientist",
+   "org": "Monzo",
+   "location": "UK"
+  },
+  "senior product security engineer|alphasense|ireland": {
+   "first_seen": "2026-11-21T09:54:44+00:00",
+   "last_seen": "2026-11-21T09:54:44+00:00",
+   "title": "Senior Product Security Engineer",
+   "org": "AlphaSense",
+   "location": "Ireland"
+  },
+  "senior manager, inventory development|stackadapt|australia": {
+   "first_seen": "2026-11-21T09:54:44+00:00",
+   "last_seen": "2026-11-21T09:54:44+00:00",
+   "title": "Senior Manager, Inventory Development",
+   "org": "StackAdapt",
+   "location": "Australia"
+  },
+  "commercial account executive, dach|algolia|germany": {
+   "first_seen": "2026-11-21T09:54:44+00:00",
+   "last_seen": "2026-11-21T09:54:44+00:00",
+   "title": "Commercial Account Executive, DACH",
+   "org": "Algolia",
+   "location": "Germany"
+  },
+  "engineering manager|monzo|uk": {
+   "first_seen": "2026-11-21T09:54:44+00:00",
+   "last_seen": "2026-11-21T09:54:44+00:00",
+   "title": "Engineering Manager",
+   "org": "Monzo",
+   "location": "UK"
+  },
+  "commercial account executive - australia|gitlab|australia": {
+   "first_seen": "2026-11-21T09:54:44+00:00",
+   "last_seen": "2026-11-21T09:54:44+00:00",
+   "title": "Commercial Account Executive - Australia",
+   "org": "GitLab",
+   "location": "Australia"
+  },
+  "contract staff software engineer-bug burndown|mozilla|germany": {
+   "first_seen": "2026-11-21T09:54:44+00:00",
+   "last_seen": "2026-11-21T09:54:44+00:00",
+   "title": "Contract Staff Software Engineer-Bug Burndown",
+   "org": "Mozilla",
+   "location": "Germany"
+  },
+  "vip relationship manager, poland|okx|poland": {
+   "first_seen": "2026-11-21T09:54:44+00:00",
+   "last_seen": "2026-11-21T09:54:44+00:00",
+   "title": "VIP Relationship Manager, Poland",
+   "org": "OKX",
+   "location": "Poland"
+  },
+  "contract staff software engineer - (firefox) c++,storage encryption|mozilla|canada, germany, uk": {
+   "first_seen": "2026-11-21T09:54:44+00:00",
+   "last_seen": "2026-11-21T09:54:44+00:00",
+   "title": "Contract Staff Software Engineer - (Firefox) C++,Storage Encryption",
+   "org": "Mozilla",
+   "location": "Canada, Germany, UK"
+  },
+  "commercial account executive - south korea|gitlab|south korea": {
+   "first_seen": "2026-11-21T09:54:44+00:00",
+   "last_seen": "2026-11-21T09:54:44+00:00",
+   "title": "Commercial Account Executive - South Korea",
+   "org": "GitLab",
+   "location": "South Korea"
+  },
+  "head of apac client services|stackadapt|australia, singapore": {
+   "first_seen": "2026-11-21T09:54:44+00:00",
+   "last_seen": "2026-11-21T09:54:44+00:00",
+   "title": "Head of APAC Client Services",
+   "org": "StackAdapt",
+   "location": "Australia, Singapore"
+  },
+  "policy communications lead, europe|mozilla|uk": {
+   "first_seen": "2026-11-21T09:54:44+00:00",
+   "last_seen": "2026-11-21T09:54:44+00:00",
+   "title": "Policy Communications Lead, Europe",
+   "org": "Mozilla",
+   "location": "UK"
+  },
+  "content marketing lead, insights|trm labs|uk, usa": {
+   "first_seen": "2026-11-21T09:54:44+00:00",
+   "last_seen": "2026-11-21T09:54:44+00:00",
+   "title": "Content Marketing Lead, Insights",
+   "org": "TRM Labs",
+   "location": "UK, USA"
+  },
+  "senior user acquisition manager, paid social ads|ruby labs|europe": {
+   "first_seen": "2026-11-21T09:54:44+00:00",
+   "last_seen": "2026-11-21T09:54:44+00:00",
+   "title": "Senior User Acquisition Manager, Paid Social Ads",
+   "org": "Ruby Labs",
+   "location": "Europe"
+  },
+  "senior software engineer, platform|astronomer|ireland": {
+   "first_seen": "2026-11-21T09:54:44+00:00",
+   "last_seen": "2026-11-21T09:54:44+00:00",
+   "title": "Senior Software Engineer, Platform",
+   "org": "Astronomer",
+   "location": "Ireland"
   }
  }
 }

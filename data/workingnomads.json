@@ -3,7 +3,7 @@
  "name": "Working Nomads \u2014 remote jobs",
  "category": "jobs",
  "source": "https://www.workingnomads.com/api/exposed_jobs/",
- "collected_at": "2026-11-21T02:13:51+00:00",
+ "collected_at": "2026-11-21T09:54:44+00:00",
  "jobs_on_board": 35,
  "new_this_run": 0,
  "total_tracked": 37,
@@ -220,208 +220,213 @@
    "at": "2026-11-21T02:13:51+00:00",
    "jobs": 35,
    "new": 0
+  },
+  {
+   "at": "2026-11-21T09:54:44+00:00",
+   "jobs": 35,
+   "new": 0
   }
  ],
  "jobs_seen": {
   "qa testers wanted to jump on an ai assistant project|tester work|switzerland, belgium, luxembourg, sweden, denmark, norway, finland, saudi arabia and israel": {
    "first_seen": "2026-11-15T10:13:32+00:00",
-   "last_seen": "2026-11-21T02:13:51+00:00",
+   "last_seen": "2026-11-21T09:54:44+00:00",
    "title": "QA Testers Wanted to Jump on an AI Assistant project",
    "org": "Tester Work",
    "location": "Switzerland, Belgium, Luxembourg, Sweden, Denmark, Norway, Finland, Saudi Arabia and Israel"
   },
   "senior react full-stack developer|lemon.io|europe, latam, apac, the u.s., canada": {
    "first_seen": "2026-11-15T10:13:32+00:00",
-   "last_seen": "2026-11-21T02:13:51+00:00",
+   "last_seen": "2026-11-21T09:54:44+00:00",
    "title": "Senior React Full-stack Developer",
    "org": "Lemon.io",
    "location": "Europe, LATAM, APAC, the U.S., Canada"
   },
   "senior ui & ux designer|lemon.io|europe, north america, latin america, apac": {
    "first_seen": "2026-11-15T10:13:32+00:00",
-   "last_seen": "2026-11-21T02:13:51+00:00",
+   "last_seen": "2026-11-21T09:54:44+00:00",
    "title": "Senior UI & UX Designer",
    "org": "Lemon.io",
    "location": "Europe, North America, Latin America, APAC"
   },
   "remote customer service representative - independent contractor|shyftoff|united states only (shyftoff-approved states)": {
    "first_seen": "2026-11-15T10:13:32+00:00",
-   "last_seen": "2026-11-21T02:13:51+00:00",
+   "last_seen": "2026-11-21T09:54:44+00:00",
    "title": "Remote Customer Service Representative - Independent Contractor",
    "org": "ShyftOff",
    "location": "United States only (ShyftOff-approved states)"
   },
   "senior .net full-stack developer|lemon.io|europe, latam, apac, the u.s., canada": {
    "first_seen": "2026-11-15T10:13:32+00:00",
-   "last_seen": "2026-11-21T02:13:51+00:00",
+   "last_seen": "2026-11-21T09:54:44+00:00",
    "title": "Senior .NET Full-stack Developer",
    "org": "Lemon.io",
    "location": "Europe, LATAM, APAC, the U.S., Canada"
   },
   "senior secops engineer|proxify|time zone: cet (+/- 3 hours)": {
    "first_seen": "2026-11-15T10:13:32+00:00",
-   "last_seen": "2026-11-21T02:13:51+00:00",
+   "last_seen": "2026-11-21T09:54:44+00:00",
    "title": "Senior SecOps Engineer",
    "org": "Proxify",
    "location": "Time zone: CET (+/- 3 hours)"
   },
   "senior ai engineer (backend-focused)|proxify|time zone: cet (+/- 3 hours)": {
    "first_seen": "2026-11-15T10:13:32+00:00",
-   "last_seen": "2026-11-21T02:13:51+00:00",
+   "last_seen": "2026-11-21T09:54:44+00:00",
    "title": "Senior AI Engineer (Backend-Focused)",
    "org": "Proxify",
    "location": "Time zone: CET (+/- 3 hours)"
   },
   "senior fullstack developer (react.js / node.js)|proxify|time zone: cet (+/- 3 hours)": {
    "first_seen": "2026-11-15T10:13:32+00:00",
-   "last_seen": "2026-11-21T02:13:51+00:00",
+   "last_seen": "2026-11-21T09:54:44+00:00",
    "title": "Senior Fullstack Developer (React.js / Node.js)",
    "org": "Proxify",
    "location": "Time zone: CET (+/- 3 hours)"
   },
   "senior devops engineer (azure)|proxify|time zone: cet (+/- 3 hours)": {
    "first_seen": "2026-11-15T10:13:32+00:00",
-   "last_seen": "2026-11-21T02:13:51+00:00",
+   "last_seen": "2026-11-21T09:54:44+00:00",
    "title": "Senior DevOps Engineer (Azure)",
    "org": "Proxify",
    "location": "Time zone: CET (+/- 3 hours)"
   },
   "senior devops engineer (gcp)|proxify|time zone: cet (+/- 3 hours)": {
    "first_seen": "2026-11-15T10:13:32+00:00",
-   "last_seen": "2026-11-21T02:13:51+00:00",
+   "last_seen": "2026-11-21T09:54:44+00:00",
    "title": "Senior DevOps Engineer (GCP)",
    "org": "Proxify",
    "location": "Time zone: CET (+/- 3 hours)"
   },
   "senior data engineer (azure)|proxify|cet (+/- 3 hours)": {
    "first_seen": "2026-11-15T10:13:32+00:00",
-   "last_seen": "2026-11-21T02:13:51+00:00",
+   "last_seen": "2026-11-21T09:54:44+00:00",
    "title": "Senior Data Engineer (Azure)",
    "org": "Proxify",
    "location": "CET (+/- 3 hours)"
   },
   "senior data engineer (python)|proxify|time zone: cet (+/- 3 hours)": {
    "first_seen": "2026-11-15T10:13:32+00:00",
-   "last_seen": "2026-11-21T02:13:51+00:00",
+   "last_seen": "2026-11-21T09:54:44+00:00",
    "title": "Senior Data Engineer (Python)",
    "org": "Proxify",
    "location": "Time zone: CET (+/- 3 hours)"
   },
   "senior ms power bi developer|proxify|cet (+/- 3 hours)": {
    "first_seen": "2026-11-15T10:13:32+00:00",
-   "last_seen": "2026-11-21T02:13:51+00:00",
+   "last_seen": "2026-11-21T09:54:44+00:00",
    "title": "Senior MS Power BI Developer",
    "org": "Proxify",
    "location": "CET (+/- 3 hours)"
   },
   "senior data scientist (python)|proxify|time zone: cet (+/- 3 hours)": {
    "first_seen": "2026-11-15T10:13:32+00:00",
-   "last_seen": "2026-11-21T02:13:51+00:00",
+   "last_seen": "2026-11-21T09:54:44+00:00",
    "title": "Senior Data Scientist (Python)",
    "org": "Proxify",
    "location": "Time zone: CET (+/- 3 hours)"
   },
   "senior ml engineer (python)|proxify|cet (+/- 3 hours)": {
    "first_seen": "2026-11-15T10:13:32+00:00",
-   "last_seen": "2026-11-21T02:13:51+00:00",
+   "last_seen": "2026-11-21T09:54:44+00:00",
    "title": "Senior ML Engineer (Python)",
    "org": "Proxify",
    "location": "CET (+/- 3 hours)"
   },
   "senior microsoft dynamics 365 developer|proxify|time zone: cet (+/- 3 hours)": {
    "first_seen": "2026-11-15T10:13:32+00:00",
-   "last_seen": "2026-11-21T02:13:51+00:00",
+   "last_seen": "2026-11-21T09:54:44+00:00",
    "title": "Senior Microsoft Dynamics 365 Developer",
    "org": "Proxify",
    "location": "Time zone: CET (+/- 3 hours)"
   },
   "senior qa automation engineer|proxify|time zone: cet (+/- 3 hours)": {
    "first_seen": "2026-11-15T10:13:32+00:00",
-   "last_seen": "2026-11-21T02:13:51+00:00",
+   "last_seen": "2026-11-21T09:54:44+00:00",
    "title": "Senior QA Automation Engineer",
    "org": "Proxify",
    "location": "Time zone: CET (+/- 3 hours)"
   },
   "senior salesforce developer|proxify|time zone: cet (+/- 3 hours)": {
    "first_seen": "2026-11-15T10:13:32+00:00",
-   "last_seen": "2026-11-21T02:13:51+00:00",
+   "last_seen": "2026-11-21T09:54:44+00:00",
    "title": "Senior Salesforce Developer",
    "org": "Proxify",
    "location": "Time zone: CET (+/- 3 hours)"
   },
   "senior sap s/4hana developer|proxify|time zone: cet (+/- 3 hours)": {
    "first_seen": "2026-11-15T10:13:32+00:00",
-   "last_seen": "2026-11-21T02:13:51+00:00",
+   "last_seen": "2026-11-21T09:54:44+00:00",
    "title": "Senior SAP S/4HANA Developer",
    "org": "Proxify",
    "location": "Time zone: CET (+/- 3 hours)"
   },
   "senior business central developer|proxify|cet (+/- 3 hours)": {
    "first_seen": "2026-11-15T10:13:32+00:00",
-   "last_seen": "2026-11-21T02:13:51+00:00",
+   "last_seen": "2026-11-21T09:54:44+00:00",
    "title": "Senior Business Central Developer",
    "org": "Proxify",
    "location": "CET (+/- 3 hours)"
   },
   "data analyst (no experience required) - japanese and english|peroptyx|japan - remote": {
    "first_seen": "2026-11-15T10:13:32+00:00",
-   "last_seen": "2026-11-21T02:13:51+00:00",
+   "last_seen": "2026-11-21T09:54:44+00:00",
    "title": "Data Analyst (No Experience Required) - Japanese and English",
    "org": "Peroptyx",
    "location": "Japan - Remote"
   },
   "data analyst (no experience required)|peroptyx|canada": {
    "first_seen": "2026-11-15T10:13:32+00:00",
-   "last_seen": "2026-11-21T02:13:51+00:00",
+   "last_seen": "2026-11-21T09:54:44+00:00",
    "title": "Data Analyst (No Experience Required)",
    "org": "Peroptyx",
    "location": "Canada"
   },
   "new business manager|surfer|anywhere in the world": {
    "first_seen": "2026-11-15T10:13:32+00:00",
-   "last_seen": "2026-11-21T02:13:51+00:00",
+   "last_seen": "2026-11-21T09:54:44+00:00",
    "title": "New Business Manager",
    "org": "Surfer",
    "location": "Anywhere in the world"
   },
   "ai content reviewer, video annotation|imerit technology|switzerland, australia, new zealand, singapore, austria, belgium, czech republic, denmark, finland, france, germany, ire": {
    "first_seen": "2026-11-15T10:13:32+00:00",
-   "last_seen": "2026-11-21T02:13:51+00:00",
+   "last_seen": "2026-11-21T09:54:44+00:00",
    "title": "AI Content Reviewer, Video Annotation",
    "org": "iMerit Technology",
    "location": "Switzerland, Australia, New Zealand, Singapore, Austria, Belgium, Czech Republic, Denmark, Finland, France, Germany, Ireland, Netherlands, Norway, Sweden, United Kingdom, Canada, United States"
   },
   "technical operations lead|lemon.io|europe": {
    "first_seen": "2026-11-15T10:13:32+00:00",
-   "last_seen": "2026-11-21T02:13:51+00:00",
+   "last_seen": "2026-11-21T09:54:44+00:00",
    "title": "Technical Operations Lead",
    "org": "Lemon.io",
    "location": "Europe"
   },
   "senior magento developer|lemon.io|europe, latam, apac, the u.s., canada": {
    "first_seen": "2026-11-15T10:13:32+00:00",
-   "last_seen": "2026-11-21T02:13:51+00:00",
+   "last_seen": "2026-11-21T09:54:44+00:00",
    "title": "Senior Magento Developer",
    "org": "Lemon.io",
    "location": "Europe, LATAM, APAC, the U.S., Canada"
   },
   "senior back-end developer|lemon.io|europe, usa, canada, australia, singapore, mexico": {
    "first_seen": "2026-11-15T10:13:32+00:00",
-   "last_seen": "2026-11-21T02:13:51+00:00",
+   "last_seen": "2026-11-21T09:54:44+00:00",
    "title": "Senior Back-end Developer",
    "org": "Lemon.io",
    "location": "Europe, USA, Canada, Australia, Singapore, Mexico"
   },
   "looking for online esl teachers - remote- joining rewards of up to usd $100|polly english|north america": {
    "first_seen": "2026-11-15T10:13:32+00:00",
-   "last_seen": "2026-11-21T02:13:51+00:00",
+   "last_seen": "2026-11-21T09:54:44+00:00",
    "title": "Looking For Online ESL Teachers - Remote- Joining Rewards of up to USD $100",
    "org": "Polly English",
    "location": "North America"
   },
   "senior swift & swiftui developer|lemon.io|europe, latam, apac, the u.s., canada": {
    "first_seen": "2026-11-15T10:13:32+00:00",
-   "last_seen": "2026-11-21T02:13:51+00:00",
+   "last_seen": "2026-11-21T09:54:44+00:00",
    "title": "Senior Swift & SwiftUI Developer",
    "org": "Lemon.io",
    "location": "Europe, LATAM, APAC, the U.S., Canada"
@@ -442,42 +447,42 @@
   },
   "quality assurance rater - spanish speakers in spain|telus digital|global": {
    "first_seen": "2026-11-15T10:13:32+00:00",
-   "last_seen": "2026-11-21T02:13:51+00:00",
+   "last_seen": "2026-11-21T09:54:44+00:00",
    "title": "Quality Assurance Rater - Spanish speakers in Spain",
    "org": "TELUS Digital",
    "location": "Global"
   },
   "quality assurance rater - french speakers in france|telus digital|global": {
    "first_seen": "2026-11-15T10:13:32+00:00",
-   "last_seen": "2026-11-21T02:13:51+00:00",
+   "last_seen": "2026-11-21T09:54:44+00:00",
    "title": "Quality Assurance Rater - French speakers in France",
    "org": "TELUS Digital",
    "location": "Global"
   },
   "quality assurance rater - german speakers in germany|telus digital|global": {
    "first_seen": "2026-11-15T10:13:32+00:00",
-   "last_seen": "2026-11-21T02:13:51+00:00",
+   "last_seen": "2026-11-21T09:54:44+00:00",
    "title": "Quality Assurance Rater - German speakers in Germany",
    "org": "TELUS Digital",
    "location": "Global"
   },
   "video creator (100% remote)|marker video|usa, canada, ireland and uk only": {
    "first_seen": "2026-11-16T20:29:23+00:00",
-   "last_seen": "2026-11-21T02:13:51+00:00",
+   "last_seen": "2026-11-21T09:54:44+00:00",
    "title": "Video Creator (100% remote)",
    "org": "Marker Video",
    "location": "USA, Canada, Ireland and UK ONLY"
   },
   "senior data engineer|lemon.io|global": {
    "first_seen": "2026-11-18T21:56:23+00:00",
-   "last_seen": "2026-11-21T02:13:51+00:00",
+   "last_seen": "2026-11-21T09:54:44+00:00",
    "title": "Senior Data Engineer",
    "org": "Lemon.io",
    "location": "Global"
   },
   "content reviewer - united states|telus digital|usa only": {
    "first_seen": "2026-11-19T13:05:35+00:00",
-   "last_seen": "2026-11-21T02:13:51+00:00",
+   "last_seen": "2026-11-21T09:54:44+00:00",
    "title": "Content Reviewer - United States",
    "org": "TELUS Digital",
    "location": "USA only"

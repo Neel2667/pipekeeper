@@ -3,104 +3,104 @@
  "name": "Himalayas \u2014 remote jobs",
  "category": "jobs",
  "source": "https://himalayas.app/jobs/api",
- "collected_at": "2026-11-21T02:13:51+00:00",
+ "collected_at": "2026-11-21T09:54:44+00:00",
  "jobs_on_board": 20,
  "new_this_run": 20,
- "total_tracked": 419,
+ "total_tracked": 439,
  "jobs": [
   {
-   "title": "Inside Sales Executive - Web (Remote in Phoenix, AZ)",
-   "org": "WM",
+   "title": "Expert: Interactive Coding, Embedded Hardware (Contract, Remote)",
+   "org": "Patronus AI",
    "location": "United States",
-   "detail": "$23\u2013$23/h",
+   "detail": "$150\u2013$150/h",
    "url": null,
    "new_this_run": true
   },
   {
-   "title": "Associate Devops Lead (Azure)",
-   "org": "MindPlus (Pvt) Ltd",
-   "location": "Sri Lanka",
+   "title": "2D Slot Animator (Middle+ / Senior)",
+   "org": "iLogos Game Studios",
+   "location": "Estonia",
    "detail": "Full Time",
    "url": null,
    "new_this_run": true
   },
   {
-   "title": "PESSOA DESENVOLVEDORA S\u00caNIOR (BACK-END)",
-   "org": "Quality Digital",
-   "location": "Brazil",
-   "detail": "Full Time",
-   "url": null,
-   "new_this_run": true
-  },
-  {
-   "title": "Customer Service Agent with Japanese",
-   "org": "Salve.Inno Consulting",
-   "location": "Malaysia",
-   "detail": "Full Time",
-   "url": null,
-   "new_this_run": true
-  },
-  {
-   "title": "SR Coordinator, Regulatory Submission Operations",
-   "org": "Cardinal Health",
+   "title": "Senior Manager Enterprise Cyber Security (Conyers, GA, US, 30012)",
+   "org": "Acuity Brands",
    "location": "United States",
-   "detail": "$27\u2013$34/h",
+   "detail": "$107,000\u2013$193,000/a",
    "url": null,
    "new_this_run": true
   },
   {
-   "title": "Desenvolvedor Fullstack Java Especialista",
-   "org": "FCamara",
-   "location": "Brazil",
+   "title": "Tech Lead \u2013 AI Engineering",
+   "org": "Sequoia Connect",
+   "location": "Mexico",
    "detail": "Full Time",
    "url": null,
    "new_this_run": true
   },
   {
-   "title": "Inside Sales Representative",
-   "org": "Verizon Wireless",
+   "title": "Director, Product Management - Shared Service",
+   "org": "Taxwell",
    "location": "United States",
-   "detail": "$17\u2013$17/h",
+   "detail": "Full Time",
    "url": null,
    "new_this_run": true
   },
   {
-   "title": "Outbound Sales Representative",
-   "org": "RecruitMyMom",
-   "location": "South Africa",
+   "title": "Spring 2027 Graphic Design Intern",
+   "org": "Reproductive Freedom for All",
+   "location": "United States",
+   "detail": "$19\u2013$19/h",
+   "url": null,
+   "new_this_run": true
+  },
+  {
+   "title": "Consultant en recrutement ind\u00e9pendant H/F - Annecy",
+   "org": "Hunteed",
+   "location": "France",
    "detail": "Contractor",
    "url": null,
    "new_this_run": true
   },
   {
-   "title": "Software Engineer-2",
-   "org": "wex",
-   "location": "Brazil",
-   "detail": "Full Time",
+   "title": "Consultant en recrutement freelance H/F - Luxembourg",
+   "org": "Hunteed",
+   "location": "Luxembourg",
+   "detail": "Contractor",
    "url": null,
    "new_this_run": true
   },
   {
-   "title": "Carrier Sales Representative",
-   "org": "Zelh",
+   "title": "Payroll & AIS Coordinator - Remote in Canada",
+   "org": "GoodLife Fitness Centres Inc.",
+   "location": "Canada",
+   "detail": "$56,000\u2013$72,000/a",
+   "url": null,
+   "new_this_run": true
+  },
+  {
+   "title": "Subject Matter Expert - Task Creator (Sales, Account Managers & Business Develop",
+   "org": "TransPerfect",
+   "location": "Malaysia",
+   "detail": "$45\u2013$45/h",
+   "url": null,
+   "new_this_run": true
+  },
+  {
+   "title": "Senior Director, Product - Data & AI",
+   "org": "ServiceTitan",
    "location": "United States",
-   "detail": "Full Time",
+   "detail": "$271,800\u2013$436,200/a",
    "url": null,
    "new_this_run": true
   },
   {
-   "title": "Operations Project Manager",
-   "org": "Company",
-   "location": "Ukraine",
-   "detail": "Full Time",
-   "url": null,
-   "new_this_run": true
-  },
-  {
-   "title": "P&C Product Management Director (Umbrella)",
-   "org": "USAA",
+   "title": "Mechanical Engineer II",
+   "org": "DLB Associates",
    "location": "United States",
-   "detail": "$127,310\u2013$243,340/a",
+   "detail": "$83,000\u2013$104,125/a",
    "url": null,
    "new_this_run": true
   }
@@ -218,6 +218,11 @@
   },
   {
    "at": "2026-11-21T02:13:51+00:00",
+   "jobs": 20,
+   "new": 20
+  },
+  {
+   "at": "2026-11-21T09:54:44+00:00",
    "jobs": 20,
    "new": 20
   }
@@ -3155,6 +3160,146 @@
    "title": "Microsoft Fabric Architect- Specialist- Technology",
    "org": "Publicis Groupe",
    "location": "Bulgaria, Romania, Serbia"
+  },
+  "expert: interactive coding, embedded hardware (contract, remote)|patronus ai|united states": {
+   "first_seen": "2026-11-21T09:54:44+00:00",
+   "last_seen": "2026-11-21T09:54:44+00:00",
+   "title": "Expert: Interactive Coding, Embedded Hardware (Contract, Remote)",
+   "org": "Patronus AI",
+   "location": "United States"
+  },
+  "2d slot animator (middle+ / senior)|ilogos game studios|estonia": {
+   "first_seen": "2026-11-21T09:54:44+00:00",
+   "last_seen": "2026-11-21T09:54:44+00:00",
+   "title": "2D Slot Animator (Middle+ / Senior)",
+   "org": "iLogos Game Studios",
+   "location": "Estonia"
+  },
+  "senior manager enterprise cyber security (conyers, ga, us, 30012)|acuity brands|united states": {
+   "first_seen": "2026-11-21T09:54:44+00:00",
+   "last_seen": "2026-11-21T09:54:44+00:00",
+   "title": "Senior Manager Enterprise Cyber Security (Conyers, GA, US, 30012)",
+   "org": "Acuity Brands",
+   "location": "United States"
+  },
+  "tech lead \u2013 ai engineering|sequoia connect|mexico": {
+   "first_seen": "2026-11-21T09:54:44+00:00",
+   "last_seen": "2026-11-21T09:54:44+00:00",
+   "title": "Tech Lead \u2013 AI Engineering",
+   "org": "Sequoia Connect",
+   "location": "Mexico"
+  },
+  "director, product management - shared service|taxwell|united states": {
+   "first_seen": "2026-11-21T09:54:44+00:00",
+   "last_seen": "2026-11-21T09:54:44+00:00",
+   "title": "Director, Product Management - Shared Service",
+   "org": "Taxwell",
+   "location": "United States"
+  },
+  "spring 2027 graphic design intern|reproductive freedom for all|united states": {
+   "first_seen": "2026-11-21T09:54:44+00:00",
+   "last_seen": "2026-11-21T09:54:44+00:00",
+   "title": "Spring 2027 Graphic Design Intern",
+   "org": "Reproductive Freedom for All",
+   "location": "United States"
+  },
+  "consultant en recrutement ind\u00e9pendant h/f - annecy|hunteed|france": {
+   "first_seen": "2026-11-21T09:54:44+00:00",
+   "last_seen": "2026-11-21T09:54:44+00:00",
+   "title": "Consultant en recrutement ind\u00e9pendant H/F - Annecy",
+   "org": "Hunteed",
+   "location": "France"
+  },
+  "consultant en recrutement freelance h/f - luxembourg|hunteed|luxembourg": {
+   "first_seen": "2026-11-21T09:54:44+00:00",
+   "last_seen": "2026-11-21T09:54:44+00:00",
+   "title": "Consultant en recrutement freelance H/F - Luxembourg",
+   "org": "Hunteed",
+   "location": "Luxembourg"
+  },
+  "payroll & ais coordinator - remote in canada|goodlife fitness centres inc.|canada": {
+   "first_seen": "2026-11-21T09:54:44+00:00",
+   "last_seen": "2026-11-21T09:54:44+00:00",
+   "title": "Payroll & AIS Coordinator - Remote in Canada",
+   "org": "GoodLife Fitness Centres Inc.",
+   "location": "Canada"
+  },
+  "subject matter expert - task creator (sales, account managers & business develop|transperfect|malaysia": {
+   "first_seen": "2026-11-21T09:54:44+00:00",
+   "last_seen": "2026-11-21T09:54:44+00:00",
+   "title": "Subject Matter Expert - Task Creator (Sales, Account Managers & Business Develop",
+   "org": "TransPerfect",
+   "location": "Malaysia"
+  },
+  "senior director, product - data & ai|servicetitan|united states": {
+   "first_seen": "2026-11-21T09:54:44+00:00",
+   "last_seen": "2026-11-21T09:54:44+00:00",
+   "title": "Senior Director, Product - Data & AI",
+   "org": "ServiceTitan",
+   "location": "United States"
+  },
+  "mechanical engineer ii|dlb associates|united states": {
+   "first_seen": "2026-11-21T09:54:44+00:00",
+   "last_seen": "2026-11-21T09:54:44+00:00",
+   "title": "Mechanical Engineer II",
+   "org": "DLB Associates",
+   "location": "United States"
+  },
+  "tarificateur(rice) s\u00e9nior / senior underwriter|reinsurance group of america|canada": {
+   "first_seen": "2026-11-21T09:54:44+00:00",
+   "last_seen": "2026-11-21T09:54:44+00:00",
+   "title": "Tarificateur(rice) s\u00e9nior / Senior Underwriter",
+   "org": "Reinsurance Group of America",
+   "location": "Canada"
+  },
+  "expert: interactive coding, embedded firmware (contract, remote)|patronus ai|united states": {
+   "first_seen": "2026-11-21T09:54:44+00:00",
+   "last_seen": "2026-11-21T09:54:44+00:00",
+   "title": "Expert: Interactive Coding, Embedded Firmware (Contract, Remote)",
+   "org": "Patronus AI",
+   "location": "United States"
+  },
+  "sales consultant|international motors, llc|united states": {
+   "first_seen": "2026-11-21T09:54:44+00:00",
+   "last_seen": "2026-11-21T09:54:44+00:00",
+   "title": "Sales Consultant",
+   "org": "International Motors, LLC",
+   "location": "United States"
+  },
+  "profee ed and obs coding specialist|corrohealth|united states": {
+   "first_seen": "2026-11-21T09:54:44+00:00",
+   "last_seen": "2026-11-21T09:54:44+00:00",
+   "title": "Profee ED and OBS Coding Specialist",
+   "org": "CorroHealth",
+   "location": "United States"
+  },
+  "solutions architect|pediatrix|united states": {
+   "first_seen": "2026-11-21T09:54:44+00:00",
+   "last_seen": "2026-11-21T09:54:44+00:00",
+   "title": "Solutions Architect",
+   "org": "Pediatrix",
+   "location": "United States"
+  },
+  "geriatric psychiatrist|frontier psychiatry|united states": {
+   "first_seen": "2026-11-21T09:54:44+00:00",
+   "last_seen": "2026-11-21T09:54:44+00:00",
+   "title": "Geriatric Psychiatrist",
+   "org": "Frontier Psychiatry",
+   "location": "United States"
+  },
+  "gitlab application scanning sme|general dynamics information technology|united states": {
+   "first_seen": "2026-11-21T09:54:44+00:00",
+   "last_seen": "2026-11-21T09:54:44+00:00",
+   "title": "GitLab Application Scanning SME",
+   "org": "General Dynamics Information Technology",
+   "location": "United States"
+  },
+  "ltach claim biller - medi-cal - meditech|cpsi|united states": {
+   "first_seen": "2026-11-21T09:54:44+00:00",
+   "last_seen": "2026-11-21T09:54:44+00:00",
+   "title": "LTACH Claim Biller - Medi-Cal - Meditech",
+   "org": "CPSI",
+   "location": "United States"
   }
  }
 }
