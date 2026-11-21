@@ -3,104 +3,104 @@
  "name": "Himalayas \u2014 remote jobs",
  "category": "jobs",
  "source": "https://himalayas.app/jobs/api",
- "collected_at": "2026-11-21T09:54:44+00:00",
+ "collected_at": "2026-11-21T17:31:40+00:00",
  "jobs_on_board": 20,
  "new_this_run": 20,
- "total_tracked": 439,
+ "total_tracked": 459,
  "jobs": [
   {
-   "title": "Expert: Interactive Coding, Embedded Hardware (Contract, Remote)",
-   "org": "Patronus AI",
-   "location": "United States",
-   "detail": "$150\u2013$150/h",
-   "url": null,
-   "new_this_run": true
-  },
-  {
-   "title": "2D Slot Animator (Middle+ / Senior)",
-   "org": "iLogos Game Studios",
-   "location": "Estonia",
+   "title": "Sr. Analyst, Fund Controlling",
+   "org": "Gridline, LLC",
+   "location": "Philippines",
    "detail": "Full Time",
    "url": null,
    "new_this_run": true
   },
   {
-   "title": "Senior Manager Enterprise Cyber Security (Conyers, GA, US, 30012)",
-   "org": "Acuity Brands",
-   "location": "United States",
-   "detail": "$107,000\u2013$193,000/a",
+   "title": "Staff Technical Support Engineer",
+   "org": "Cribl",
+   "location": "Netherlands",
+   "detail": "$92,200\u2013$120,000/a",
    "url": null,
    "new_this_run": true
   },
   {
-   "title": "Tech Lead \u2013 AI Engineering",
-   "org": "Sequoia Connect",
-   "location": "Mexico",
+   "title": "Centralized Monitor",
+   "org": "Ergomed",
+   "location": "Portugal",
    "detail": "Full Time",
    "url": null,
    "new_this_run": true
   },
   {
-   "title": "Director, Product Management - Shared Service",
-   "org": "Taxwell",
+   "title": "Senior AI Compliance Analyst",
+   "org": "Ivanti",
    "location": "United States",
    "detail": "Full Time",
    "url": null,
    "new_this_run": true
   },
   {
-   "title": "Spring 2027 Graphic Design Intern",
-   "org": "Reproductive Freedom for All",
+   "title": "Senior Security Engineer - Active Directory (Remote in the US)",
+   "org": "GuidePoint Security LLC",
    "location": "United States",
-   "detail": "$19\u2013$19/h",
+   "detail": "Full Time",
    "url": null,
    "new_this_run": true
   },
   {
-   "title": "Consultant en recrutement ind\u00e9pendant H/F - Annecy",
-   "org": "Hunteed",
-   "location": "France",
+   "title": "Chief Technology Officer (Mobile app, M/F/D)",
+   "org": "Arise App",
+   "location": "Romania",
+   "detail": "Full Time",
+   "url": null,
+   "new_this_run": true
+  },
+  {
+   "title": "English to Belarusian Review Lead for UI, Marketing & Product Content",
+   "org": "Welo Global",
+   "location": "Argentina, Australia, Austria, Belgium, Brazil, Bulgaria, Canada, Chile, China, Colombia, Costa Rica, Croatia, Czechia, Denmark, Egypt, El Salvador, Finland, France, Germany, Ghana, Greece, Guatemala, Hong Kong, Hungary, India, Indonesia, I",
    "detail": "Contractor",
    "url": null,
    "new_this_run": true
   },
   {
-   "title": "Consultant en recrutement freelance H/F - Luxembourg",
-   "org": "Hunteed",
-   "location": "Luxembourg",
-   "detail": "Contractor",
+   "title": "Associate Technical Support Consultant",
+   "org": "Harris",
+   "location": "India",
+   "detail": "Full Time",
    "url": null,
    "new_this_run": true
   },
   {
-   "title": "Payroll & AIS Coordinator - Remote in Canada",
-   "org": "GoodLife Fitness Centres Inc.",
-   "location": "Canada",
-   "detail": "$56,000\u2013$72,000/a",
-   "url": null,
-   "new_this_run": true
-  },
-  {
-   "title": "Subject Matter Expert - Task Creator (Sales, Account Managers & Business Develop",
-   "org": "TransPerfect",
-   "location": "Malaysia",
-   "detail": "$45\u2013$45/h",
-   "url": null,
-   "new_this_run": true
-  },
-  {
-   "title": "Senior Director, Product - Data & AI",
-   "org": "ServiceTitan",
+   "title": "Manager, Global Web Ecosystem - Cybersecurity and Technology Lead",
+   "org": "Lifelancer",
    "location": "United States",
-   "detail": "$271,800\u2013$436,200/a",
+   "detail": "Full Time",
    "url": null,
    "new_this_run": true
   },
   {
-   "title": "Mechanical Engineer II",
-   "org": "DLB Associates",
+   "title": "REO Closing Coordinator",
+   "org": "MORTGAGE CONNECT",
    "location": "United States",
-   "detail": "$83,000\u2013$104,125/a",
+   "detail": "$24\u2013$28/h",
+   "url": null,
+   "new_this_run": true
+  },
+  {
+   "title": "AI Data Specialist - Croatian",
+   "org": "RWS Group",
+   "location": "Croatia",
+   "detail": "$8\u2013$8/h",
+   "url": null,
+   "new_this_run": true
+  },
+  {
+   "title": "Genetic Counselor, Laboratory Services- Full Time Days",
+   "org": "Northwestern Memorial Healthcare",
+   "location": "United States",
+   "detail": "$43\u2013$60/h",
    "url": null,
    "new_this_run": true
   }
@@ -223,6 +223,11 @@
   },
   {
    "at": "2026-11-21T09:54:44+00:00",
+   "jobs": 20,
+   "new": 20
+  },
+  {
+   "at": "2026-11-21T17:31:40+00:00",
    "jobs": 20,
    "new": 20
   }
@@ -3300,6 +3305,146 @@
    "title": "LTACH Claim Biller - Medi-Cal - Meditech",
    "org": "CPSI",
    "location": "United States"
+  },
+  "sr. analyst, fund controlling|gridline, llc|philippines": {
+   "first_seen": "2026-11-21T17:31:40+00:00",
+   "last_seen": "2026-11-21T17:31:40+00:00",
+   "title": "Sr. Analyst, Fund Controlling",
+   "org": "Gridline, LLC",
+   "location": "Philippines"
+  },
+  "staff technical support engineer|cribl|netherlands": {
+   "first_seen": "2026-11-21T17:31:40+00:00",
+   "last_seen": "2026-11-21T17:31:40+00:00",
+   "title": "Staff Technical Support Engineer",
+   "org": "Cribl",
+   "location": "Netherlands"
+  },
+  "centralized monitor|ergomed|portugal": {
+   "first_seen": "2026-11-21T17:31:40+00:00",
+   "last_seen": "2026-11-21T17:31:40+00:00",
+   "title": "Centralized Monitor",
+   "org": "Ergomed",
+   "location": "Portugal"
+  },
+  "senior ai compliance analyst|ivanti|united states": {
+   "first_seen": "2026-11-21T17:31:40+00:00",
+   "last_seen": "2026-11-21T17:31:40+00:00",
+   "title": "Senior AI Compliance Analyst",
+   "org": "Ivanti",
+   "location": "United States"
+  },
+  "senior security engineer - active directory (remote in the us)|guidepoint security llc|united states": {
+   "first_seen": "2026-11-21T17:31:40+00:00",
+   "last_seen": "2026-11-21T17:31:40+00:00",
+   "title": "Senior Security Engineer - Active Directory (Remote in the US)",
+   "org": "GuidePoint Security LLC",
+   "location": "United States"
+  },
+  "chief technology officer (mobile app, m/f/d)|arise app|romania": {
+   "first_seen": "2026-11-21T17:31:40+00:00",
+   "last_seen": "2026-11-21T17:31:40+00:00",
+   "title": "Chief Technology Officer (Mobile app, M/F/D)",
+   "org": "Arise App",
+   "location": "Romania"
+  },
+  "english to belarusian review lead for ui, marketing & product content|welo global|argentina, australia, austria, belgium, brazil, bulgaria, canada, chile, china, colombia, costa rica, croatia, czechia, ": {
+   "first_seen": "2026-11-21T17:31:40+00:00",
+   "last_seen": "2026-11-21T17:31:40+00:00",
+   "title": "English to Belarusian Review Lead for UI, Marketing & Product Content",
+   "org": "Welo Global",
+   "location": "Argentina, Australia, Austria, Belgium, Brazil, Bulgaria, Canada, Chile, China, Colombia, Costa Rica, Croatia, Czechia, Denmark, Egypt, El Salvador, Finland, France, Germany, Ghana, Greece, Guatemala, Hong Kong, Hungary, India, Indonesia, I"
+  },
+  "associate technical support consultant|harris|india": {
+   "first_seen": "2026-11-21T17:31:40+00:00",
+   "last_seen": "2026-11-21T17:31:40+00:00",
+   "title": "Associate Technical Support Consultant",
+   "org": "Harris",
+   "location": "India"
+  },
+  "manager, global web ecosystem - cybersecurity and technology lead|lifelancer|united states": {
+   "first_seen": "2026-11-21T17:31:40+00:00",
+   "last_seen": "2026-11-21T17:31:40+00:00",
+   "title": "Manager, Global Web Ecosystem - Cybersecurity and Technology Lead",
+   "org": "Lifelancer",
+   "location": "United States"
+  },
+  "reo closing coordinator|mortgage connect|united states": {
+   "first_seen": "2026-11-21T17:31:40+00:00",
+   "last_seen": "2026-11-21T17:31:40+00:00",
+   "title": "REO Closing Coordinator",
+   "org": "MORTGAGE CONNECT",
+   "location": "United States"
+  },
+  "ai data specialist - croatian|rws group|croatia": {
+   "first_seen": "2026-11-21T17:31:40+00:00",
+   "last_seen": "2026-11-21T17:31:40+00:00",
+   "title": "AI Data Specialist - Croatian",
+   "org": "RWS Group",
+   "location": "Croatia"
+  },
+  "genetic counselor, laboratory services- full time days|northwestern memorial healthcare|united states": {
+   "first_seen": "2026-11-21T17:31:40+00:00",
+   "last_seen": "2026-11-21T17:31:40+00:00",
+   "title": "Genetic Counselor, Laboratory Services- Full Time Days",
+   "org": "Northwestern Memorial Healthcare",
+   "location": "United States"
+  },
+  "senior sales operations analyst|servicenow|ireland": {
+   "first_seen": "2026-11-21T17:31:40+00:00",
+   "last_seen": "2026-11-21T17:31:40+00:00",
+   "title": "Senior Sales Operations Analyst",
+   "org": "ServiceNow",
+   "location": "Ireland"
+  },
+  "sales representative, smb (remote, us)|newsela|united states": {
+   "first_seen": "2026-11-21T17:31:40+00:00",
+   "last_seen": "2026-11-21T17:31:40+00:00",
+   "title": "Sales Representative, SMB (Remote, US)",
+   "org": "Newsela",
+   "location": "United States"
+  },
+  "us national account manager \u2013 hardware, club, home center & auto|north west rubber|united states": {
+   "first_seen": "2026-11-21T17:31:40+00:00",
+   "last_seen": "2026-11-21T17:31:40+00:00",
+   "title": "US National Account Manager \u2013 Hardware, Club, Home Center & Auto",
+   "org": "North West Rubber",
+   "location": "United States"
+  },
+  "counterintelligence technology & program sme \u2014 ai evaluation (contract) | remote|xperteez technology|united states": {
+   "first_seen": "2026-11-21T17:31:40+00:00",
+   "last_seen": "2026-11-21T17:31:40+00:00",
+   "title": "Counterintelligence Technology & Program SME \u2014 AI Evaluation (Contract) | Remote",
+   "org": "Xperteez Technology",
+   "location": "United States"
+  },
+  "senior software engineer, agentic ai|nvidia|united states": {
+   "first_seen": "2026-11-21T17:31:40+00:00",
+   "last_seen": "2026-11-21T17:31:40+00:00",
+   "title": "Senior Software Engineer, Agentic AI",
+   "org": "NVIDIA",
+   "location": "United States"
+  },
+  "digital customer journey manager|modernizing medicine, inc.|united states": {
+   "first_seen": "2026-11-21T17:31:40+00:00",
+   "last_seen": "2026-11-21T17:31:40+00:00",
+   "title": "Digital Customer Journey Manager",
+   "org": "Modernizing Medicine, Inc.",
+   "location": "United States"
+  },
+  "senior qa engineer|dhis2|norway": {
+   "first_seen": "2026-11-21T17:31:40+00:00",
+   "last_seen": "2026-11-21T17:31:40+00:00",
+   "title": "Senior QA Engineer",
+   "org": "DHIS2",
+   "location": "Norway"
+  },
+  "qa engineer (manual and ui automation-playwright)|commit|armenia": {
+   "first_seen": "2026-11-21T17:31:40+00:00",
+   "last_seen": "2026-11-21T17:31:40+00:00",
+   "title": "QA Engineer (Manual and UI Automation-Playwright)",
+   "org": "CommIT",
+   "location": "Armenia"
   }
  }
 }
