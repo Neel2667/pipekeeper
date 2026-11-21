@@ -3,105 +3,105 @@
  "name": "Jobicy \u2014 remote jobs",
  "category": "jobs",
  "source": "https://jobicy.com/api/v2/remote-jobs",
- "collected_at": "2026-11-20T20:17:29+00:00",
+ "collected_at": "2026-11-21T02:13:51+00:00",
  "jobs_on_board": 50,
- "new_this_run": 50,
- "total_tracked": 616,
+ "new_this_run": 30,
+ "total_tracked": 646,
  "jobs": [
   {
-   "title": "Head of MyG Core Workflows",
-   "org": "Geotab",
+   "title": "Dealer Development Manager (Dallas / Fort Worth)",
+   "org": "Upgrade",
    "location": "USA",
    "detail": "Senior",
-   "url": "https://jobicy.com/jobs/163571-head-of-myg-core-workflows",
+   "url": "https://jobicy.com/jobs/163607-dealer-development-manager-dallas-fort-worth",
    "new_this_run": true
   },
   {
-   "title": "Staff Software Engineer, eCommerce",
-   "org": "Liftoff",
-   "location": "USA",
-   "detail": "Senior",
-   "url": "https://jobicy.com/jobs/163570-staff-software-engineer-ecommerce",
+   "title": "B2B Paid Media Senior Manager",
+   "org": "Wellhub",
+   "location": "Brazil",
+   "detail": "Director",
+   "url": "https://jobicy.com/jobs/163606-b2b-paid-media-senior-manager",
    "new_this_run": true
   },
   {
-   "title": "Field CTO, Media & Entertainment AI Infrastructure",
+   "title": "GPU Compute Partnerships & Commercial Operations Manager",
    "org": "Nebius",
    "location": "USA",
-   "detail": "Director",
-   "url": "https://jobicy.com/jobs/163568-field-cto-media-entertainment-ai-infrastructure",
+   "detail": "Any",
+   "url": "https://jobicy.com/jobs/163605-gpu-compute-partnerships-commercial-operations-manager",
    "new_this_run": true
   },
   {
-   "title": "Software Engineer, Dash",
-   "org": "Liftoff",
+   "title": "External Wholesaler, Life and Annuity Distribution - West Coast Spanish Speaking",
+   "org": "National Life Insurance Company",
    "location": "USA",
    "detail": "Any",
-   "url": "https://jobicy.com/jobs/163567-software-engineer-dash",
+   "url": "https://jobicy.com/jobs/163604-external-wholesaler-life-and-annuity-distribution-west-coast-spanish-speaking",
    "new_this_run": true
   },
   {
-   "title": "Field Hardware Engineer",
-   "org": "Geotab",
-   "location": "USA",
-   "detail": "Any",
-   "url": "https://jobicy.com/jobs/163564-field-hardware-engineer",
-   "new_this_run": true
-  },
-  {
-   "title": "Senior Analyst, Financial Reporting",
-   "org": "Liftoff",
+   "title": "B2B & Brand Social Media Senior Manager (US)",
+   "org": "Wellhub",
    "location": "USA",
    "detail": "Director",
-   "url": "https://jobicy.com/jobs/163563-senior-analyst-financial-reporting",
+   "url": "https://jobicy.com/jobs/163602-b2b-brand-social-media-senior-manager-us",
    "new_this_run": true
   },
   {
-   "title": "3PL Operations Manager",
+   "title": "Forward Deployed Engineer, Physical AI Infrastructure",
    "org": "Nebius",
-   "location": "Europe",
-   "detail": "Senior",
-   "url": "https://jobicy.com/jobs/163561-3pl-operations-manager-2",
+   "location": "USA",
+   "detail": "Any",
+   "url": "https://jobicy.com/jobs/163601-forward-deployed-engineer-physical-ai-infrastructure-2",
    "new_this_run": true
   },
   {
-   "title": "Business Development Manager - Mobility Data and Analytics",
-   "org": "Geotab",
+   "title": "External Wholesaler, Life and Annuity Distribution - Mandarin Speaking",
+   "org": "National Life Insurance Company",
+   "location": "USA",
+   "detail": "Any",
+   "url": "https://jobicy.com/jobs/163599-external-wholesaler-life-and-annuity-distribution-mandarin-speaking",
+   "new_this_run": true
+  },
+  {
+   "title": "AI Experience Engineer (Conversational AI)",
+   "org": "Upgrade",
+   "location": "Canada",
+   "detail": "Any",
+   "url": "https://jobicy.com/jobs/163598-ai-experience-engineer-conversational-ai",
+   "new_this_run": true
+  },
+  {
+   "title": "Fixed Assets Lead",
+   "org": "Nebius",
    "location": "USA",
    "detail": "Senior",
-   "url": "https://jobicy.com/jobs/163560-business-development-manager-mobility-data-and-analytics",
+   "url": "https://jobicy.com/jobs/163597-fixed-assets-lead",
    "new_this_run": true
   },
   {
-   "title": "Senior Manager, Product Marketing (remote within the United States)",
-   "org": "League",
-   "location": "Canada, USA",
-   "detail": "Senior",
-   "url": "https://jobicy.com/jobs/163559-senior-manager-product-marketing-remote-within-the-united-states",
-   "new_this_run": true
-  },
-  {
-   "title": "GTM Lead",
-   "org": "Liftoff",
+   "title": "External Wholesaler (Life and Annuity Distribution)",
+   "org": "National Life Insurance Company",
    "location": "USA",
-   "detail": "Senior",
-   "url": "https://jobicy.com/jobs/163558-gtm-lead",
+   "detail": "Any",
+   "url": "https://jobicy.com/jobs/163595-external-wholesaler-life-and-annuity-distribution",
    "new_this_run": true
   },
   {
-   "title": "Enterprise Account Executive, NYC",
-   "org": "Horizon3.ai",
-   "location": "USA",
-   "detail": "Director",
-   "url": "https://jobicy.com/jobs/163557-enterprise-account-executive-nyc-2",
+   "title": "Alpheratz Project - Valencia (Spain) Translation Quality Rater",
+   "org": "Welo Global",
+   "location": "Spain",
+   "detail": "Any",
+   "url": "https://jobicy.com/jobs/163593-alpheratz-project-valencia-spain-translation-quality-rater",
    "new_this_run": true
   },
   {
-   "title": "Manager, Business Risk and AI Automation",
-   "org": "Reddit",
-   "location": "USA",
-   "detail": "Senior",
-   "url": "https://jobicy.com/jobs/163556-manager-business-risk-and-ai-automation",
+   "title": "Alpheratz Project - Swedish (Sweden) Translation Quality Rater",
+   "org": "Welo Global",
+   "location": "Sweden",
+   "detail": "Any",
+   "url": "https://jobicy.com/jobs/163592-alpheratz-project-swedish-sweden-translation-quality-rater",
    "new_this_run": true
   }
  ],
@@ -215,6 +215,11 @@
    "at": "2026-11-20T20:17:29+00:00",
    "jobs": 50,
    "new": 50
+  },
+  {
+   "at": "2026-11-21T02:13:51+00:00",
+   "jobs": 50,
+   "new": 30
   }
  ],
  "jobs_seen": {
@@ -4182,140 +4187,140 @@
   },
   "head of myg core workflows|geotab|usa": {
    "first_seen": "2026-11-20T20:17:29+00:00",
-   "last_seen": "2026-11-20T20:17:29+00:00",
+   "last_seen": "2026-11-21T02:13:51+00:00",
    "title": "Head of MyG Core Workflows",
    "org": "Geotab",
    "location": "USA"
   },
   "staff software engineer, ecommerce|liftoff|usa": {
    "first_seen": "2026-11-20T20:17:29+00:00",
-   "last_seen": "2026-11-20T20:17:29+00:00",
+   "last_seen": "2026-11-21T02:13:51+00:00",
    "title": "Staff Software Engineer, eCommerce",
    "org": "Liftoff",
    "location": "USA"
   },
   "field cto, media & entertainment ai infrastructure|nebius|usa": {
    "first_seen": "2026-11-20T20:17:29+00:00",
-   "last_seen": "2026-11-20T20:17:29+00:00",
+   "last_seen": "2026-11-21T02:13:51+00:00",
    "title": "Field CTO, Media & Entertainment AI Infrastructure",
    "org": "Nebius",
    "location": "USA"
   },
   "software engineer, dash|liftoff|usa": {
    "first_seen": "2026-11-20T20:17:29+00:00",
-   "last_seen": "2026-11-20T20:17:29+00:00",
+   "last_seen": "2026-11-21T02:13:51+00:00",
    "title": "Software Engineer, Dash",
    "org": "Liftoff",
    "location": "USA"
   },
   "field hardware engineer|geotab|usa": {
    "first_seen": "2026-11-20T20:17:29+00:00",
-   "last_seen": "2026-11-20T20:17:29+00:00",
+   "last_seen": "2026-11-21T02:13:51+00:00",
    "title": "Field Hardware Engineer",
    "org": "Geotab",
    "location": "USA"
   },
   "senior analyst, financial reporting|liftoff|usa": {
    "first_seen": "2026-11-20T20:17:29+00:00",
-   "last_seen": "2026-11-20T20:17:29+00:00",
+   "last_seen": "2026-11-21T02:13:51+00:00",
    "title": "Senior Analyst, Financial Reporting",
    "org": "Liftoff",
    "location": "USA"
   },
   "3pl operations manager|nebius|europe": {
    "first_seen": "2026-11-20T20:17:29+00:00",
-   "last_seen": "2026-11-20T20:17:29+00:00",
+   "last_seen": "2026-11-21T02:13:51+00:00",
    "title": "3PL Operations Manager",
    "org": "Nebius",
    "location": "Europe"
   },
   "business development manager - mobility data and analytics|geotab|usa": {
    "first_seen": "2026-11-20T20:17:29+00:00",
-   "last_seen": "2026-11-20T20:17:29+00:00",
+   "last_seen": "2026-11-21T02:13:51+00:00",
    "title": "Business Development Manager - Mobility Data and Analytics",
    "org": "Geotab",
    "location": "USA"
   },
   "senior manager, product marketing (remote within the united states)|league|canada, usa": {
    "first_seen": "2026-11-20T20:17:29+00:00",
-   "last_seen": "2026-11-20T20:17:29+00:00",
+   "last_seen": "2026-11-21T02:13:51+00:00",
    "title": "Senior Manager, Product Marketing (remote within the United States)",
    "org": "League",
    "location": "Canada, USA"
   },
   "gtm lead|liftoff|usa": {
    "first_seen": "2026-11-20T20:17:29+00:00",
-   "last_seen": "2026-11-20T20:17:29+00:00",
+   "last_seen": "2026-11-21T02:13:51+00:00",
    "title": "GTM Lead",
    "org": "Liftoff",
    "location": "USA"
   },
   "enterprise account executive, nyc|horizon3.ai|usa": {
    "first_seen": "2026-11-20T20:17:29+00:00",
-   "last_seen": "2026-11-20T20:17:29+00:00",
+   "last_seen": "2026-11-21T02:13:51+00:00",
    "title": "Enterprise Account Executive, NYC",
    "org": "Horizon3.ai",
    "location": "USA"
   },
   "manager, business risk and ai automation|reddit|usa": {
    "first_seen": "2026-11-20T20:17:29+00:00",
-   "last_seen": "2026-11-20T20:17:29+00:00",
+   "last_seen": "2026-11-21T02:13:51+00:00",
    "title": "Manager, Business Risk and AI Automation",
    "org": "Reddit",
    "location": "USA"
   },
   "outbound sales development representative|fleetio|usa": {
    "first_seen": "2026-11-20T20:17:29+00:00",
-   "last_seen": "2026-11-20T20:17:29+00:00",
+   "last_seen": "2026-11-21T02:13:51+00:00",
    "title": "Outbound Sales Development Representative",
    "org": "Fleetio",
    "location": "USA"
   },
   "mid-enterprise account executive, ohio valley|horizon3.ai|usa": {
    "first_seen": "2026-11-20T20:17:29+00:00",
-   "last_seen": "2026-11-20T20:17:29+00:00",
+   "last_seen": "2026-11-21T02:13:51+00:00",
    "title": "Mid-Enterprise Account Executive, Ohio Valley",
    "org": "Horizon3.ai",
    "location": "USA"
   },
   "machine learning engineer|reddit|canada": {
    "first_seen": "2026-11-20T20:17:29+00:00",
-   "last_seen": "2026-11-20T20:17:29+00:00",
+   "last_seen": "2026-11-21T02:13:51+00:00",
    "title": "Machine Learning Engineer",
    "org": "Reddit",
    "location": "Canada"
   },
   "senior concept artist|hyperhug|cyprus": {
    "first_seen": "2026-11-20T20:17:29+00:00",
-   "last_seen": "2026-11-20T20:17:29+00:00",
+   "last_seen": "2026-11-21T02:13:51+00:00",
    "title": "Senior Concept Artist",
    "org": "HyperHug",
    "location": "Cyprus"
   },
   "senior back end engineer|horizon3.ai|usa": {
    "first_seen": "2026-11-20T20:17:29+00:00",
-   "last_seen": "2026-11-20T20:17:29+00:00",
+   "last_seen": "2026-11-21T02:13:51+00:00",
    "title": "Senior Back End Engineer",
    "org": "Horizon3.ai",
    "location": "USA"
   },
   "community manager \u2013 french speaking (12-month contract)|reddit|ireland, uk": {
    "first_seen": "2026-11-20T20:17:29+00:00",
-   "last_seen": "2026-11-20T20:17:29+00:00",
+   "last_seen": "2026-11-21T02:13:51+00:00",
    "title": "Community Manager \u2013 French Speaking (12-Month Contract)",
    "org": "Reddit",
    "location": "Ireland, UK"
   },
   "account executive, smb|fleetio|usa": {
    "first_seen": "2026-11-20T20:17:29+00:00",
-   "last_seen": "2026-11-20T20:17:29+00:00",
+   "last_seen": "2026-11-21T02:13:51+00:00",
    "title": "Account Executive, SMB",
    "org": "Fleetio",
    "location": "USA"
   },
   "senior qa engineer|hyperhug|cyprus": {
    "first_seen": "2026-11-20T20:17:29+00:00",
-   "last_seen": "2026-11-20T20:17:29+00:00",
+   "last_seen": "2026-11-21T02:13:51+00:00",
    "title": "Senior QA Engineer",
    "org": "HyperHug",
    "location": "Cyprus"
@@ -4529,6 +4534,216 @@
    "title": "Senior Director, Client Services B2B",
    "org": "Wpromote",
    "location": "USA"
+  },
+  "dealer development manager (dallas / fort worth)|upgrade|usa": {
+   "first_seen": "2026-11-21T02:13:51+00:00",
+   "last_seen": "2026-11-21T02:13:51+00:00",
+   "title": "Dealer Development Manager (Dallas / Fort Worth)",
+   "org": "Upgrade",
+   "location": "USA"
+  },
+  "b2b paid media senior manager|wellhub|brazil": {
+   "first_seen": "2026-11-21T02:13:51+00:00",
+   "last_seen": "2026-11-21T02:13:51+00:00",
+   "title": "B2B Paid Media Senior Manager",
+   "org": "Wellhub",
+   "location": "Brazil"
+  },
+  "gpu compute partnerships & commercial operations manager|nebius|usa": {
+   "first_seen": "2026-11-21T02:13:51+00:00",
+   "last_seen": "2026-11-21T02:13:51+00:00",
+   "title": "GPU Compute Partnerships & Commercial Operations Manager",
+   "org": "Nebius",
+   "location": "USA"
+  },
+  "external wholesaler, life and annuity distribution - west coast spanish speaking|national life insurance company|usa": {
+   "first_seen": "2026-11-21T02:13:51+00:00",
+   "last_seen": "2026-11-21T02:13:51+00:00",
+   "title": "External Wholesaler, Life and Annuity Distribution - West Coast Spanish Speaking",
+   "org": "National Life Insurance Company",
+   "location": "USA"
+  },
+  "b2b & brand social media senior manager (us)|wellhub|usa": {
+   "first_seen": "2026-11-21T02:13:51+00:00",
+   "last_seen": "2026-11-21T02:13:51+00:00",
+   "title": "B2B & Brand Social Media Senior Manager (US)",
+   "org": "Wellhub",
+   "location": "USA"
+  },
+  "forward deployed engineer, physical ai infrastructure|nebius|usa": {
+   "first_seen": "2026-11-21T02:13:51+00:00",
+   "last_seen": "2026-11-21T02:13:51+00:00",
+   "title": "Forward Deployed Engineer, Physical AI Infrastructure",
+   "org": "Nebius",
+   "location": "USA"
+  },
+  "external wholesaler, life and annuity distribution - mandarin speaking|national life insurance company|usa": {
+   "first_seen": "2026-11-21T02:13:51+00:00",
+   "last_seen": "2026-11-21T02:13:51+00:00",
+   "title": "External Wholesaler, Life and Annuity Distribution - Mandarin Speaking",
+   "org": "National Life Insurance Company",
+   "location": "USA"
+  },
+  "ai experience engineer (conversational ai)|upgrade|canada": {
+   "first_seen": "2026-11-21T02:13:51+00:00",
+   "last_seen": "2026-11-21T02:13:51+00:00",
+   "title": "AI Experience Engineer (Conversational AI)",
+   "org": "Upgrade",
+   "location": "Canada"
+  },
+  "fixed assets lead|nebius|usa": {
+   "first_seen": "2026-11-21T02:13:51+00:00",
+   "last_seen": "2026-11-21T02:13:51+00:00",
+   "title": "Fixed Assets Lead",
+   "org": "Nebius",
+   "location": "USA"
+  },
+  "external wholesaler (life and annuity distribution)|national life insurance company|usa": {
+   "first_seen": "2026-11-21T02:13:51+00:00",
+   "last_seen": "2026-11-21T02:13:51+00:00",
+   "title": "External Wholesaler (Life and Annuity Distribution)",
+   "org": "National Life Insurance Company",
+   "location": "USA"
+  },
+  "alpheratz project - valencia (spain) translation quality rater|welo global|spain": {
+   "first_seen": "2026-11-21T02:13:51+00:00",
+   "last_seen": "2026-11-21T02:13:51+00:00",
+   "title": "Alpheratz Project - Valencia (Spain) Translation Quality Rater",
+   "org": "Welo Global",
+   "location": "Spain"
+  },
+  "alpheratz project - swedish (sweden) translation quality rater|welo global|sweden": {
+   "first_seen": "2026-11-21T02:13:51+00:00",
+   "last_seen": "2026-11-21T02:13:51+00:00",
+   "title": "Alpheratz Project - Swedish (Sweden) Translation Quality Rater",
+   "org": "Welo Global",
+   "location": "Sweden"
+  },
+  "alpheratz project - polish (poland) translation quality rater|welo global|poland": {
+   "first_seen": "2026-11-21T02:13:51+00:00",
+   "last_seen": "2026-11-21T02:13:51+00:00",
+   "title": "Alpheratz Project - Polish (Poland) Translation Quality Rater",
+   "org": "Welo Global",
+   "location": "Poland"
+  },
+  "alpheratz project - galician (spain) translation quality rater|welo global|spain": {
+   "first_seen": "2026-11-21T02:13:51+00:00",
+   "last_seen": "2026-11-21T02:13:51+00:00",
+   "title": "Alpheratz Project - Galician (Spain) Translation Quality Rater",
+   "org": "Welo Global",
+   "location": "Spain"
+  },
+  "alpheratz project - catalan (spain) translation quality rater|welo global|spain": {
+   "first_seen": "2026-11-21T02:13:51+00:00",
+   "last_seen": "2026-11-21T02:13:51+00:00",
+   "title": "Alpheratz Project - Catalan (Spain) Translation Quality Rater",
+   "org": "Welo Global",
+   "location": "Spain"
+  },
+  "ads quality rater - lithuanian (lithuania)|welo global|lithuania": {
+   "first_seen": "2026-11-21T02:13:51+00:00",
+   "last_seen": "2026-11-21T02:13:51+00:00",
+   "title": "Ads Quality Rater - Lithuanian (Lithuania)",
+   "org": "Welo Global",
+   "location": "Lithuania"
+  },
+  "director of agency development|stackadapt|uk": {
+   "first_seen": "2026-11-21T02:13:51+00:00",
+   "last_seen": "2026-11-21T02:13:51+00:00",
+   "title": "Director of Agency Development",
+   "org": "StackAdapt",
+   "location": "UK"
+  },
+  "software engineer (go)|paddle|ireland, portugal, uk": {
+   "first_seen": "2026-11-21T02:13:51+00:00",
+   "last_seen": "2026-11-21T02:13:51+00:00",
+   "title": "Software Engineer (Go)",
+   "org": "Paddle",
+   "location": "Ireland, Portugal, UK"
+  },
+  "channel account manager|cobalt|uk": {
+   "first_seen": "2026-11-21T02:13:51+00:00",
+   "last_seen": "2026-11-21T02:13:51+00:00",
+   "title": "Channel Account Manager",
+   "org": "Cobalt",
+   "location": "UK"
+  },
+  "business development rep, enterprise, dach|fivetran|germany": {
+   "first_seen": "2026-11-21T02:13:51+00:00",
+   "last_seen": "2026-11-21T02:13:51+00:00",
+   "title": "Business Development Rep, Enterprise, DACH",
+   "org": "Fivetran",
+   "location": "Germany"
+  },
+  "customer service agent: korean (20:00pm - 5:00am)|fever|brazil": {
+   "first_seen": "2026-11-21T02:13:51+00:00",
+   "last_seen": "2026-11-21T02:13:51+00:00",
+   "title": "Customer Service Agent: Korean (20:00pm - 5:00am)",
+   "org": "Fever",
+   "location": "Brazil"
+  },
+  "software engineering manager - sustaining engineering|canonical|latam, canada, usa": {
+   "first_seen": "2026-11-21T02:13:51+00:00",
+   "last_seen": "2026-11-21T02:13:51+00:00",
+   "title": "Software Engineering Manager - Sustaining Engineering",
+   "org": "Canonical",
+   "location": "LATAM, Canada, USA"
+  },
+  "sr. product manager, shopping experience|cookunity|argentina": {
+   "first_seen": "2026-11-21T02:13:51+00:00",
+   "last_seen": "2026-11-21T02:13:51+00:00",
+   "title": "Sr. Product Manager, Shopping Experience",
+   "org": "CookUnity",
+   "location": "Argentina"
+  },
+  "customer service agent: italian (12:00 - 21:00)|fever|brazil": {
+   "first_seen": "2026-11-21T02:13:51+00:00",
+   "last_seen": "2026-11-21T02:13:51+00:00",
+   "title": "Customer Service Agent: Italian (12:00 - 21:00)",
+   "org": "Fever",
+   "location": "Brazil"
+  },
+  "sr. product manager, revenue engine|cookunity|latam": {
+   "first_seen": "2026-11-21T02:13:51+00:00",
+   "last_seen": "2026-11-21T02:13:51+00:00",
+   "title": "Sr. Product Manager, Revenue Engine",
+   "org": "CookUnity",
+   "location": "LATAM"
+  },
+  "customer service agent: german (5:00am - 14:00pm)|fever|brazil": {
+   "first_seen": "2026-11-21T02:13:51+00:00",
+   "last_seen": "2026-11-21T02:13:51+00:00",
+   "title": "Customer Service Agent: German (5:00am - 14:00pm)",
+   "org": "Fever",
+   "location": "Brazil"
+  },
+  "engineering manager - developer tools (starcraft)|canonical|latam, canada, usa": {
+   "first_seen": "2026-11-21T02:13:51+00:00",
+   "last_seen": "2026-11-21T02:13:51+00:00",
+   "title": "Engineering Manager - Developer Tools (Starcraft)",
+   "org": "Canonical",
+   "location": "LATAM, Canada, USA"
+  },
+  "staff site reliability engineer (remote in brazil)|knowbe4, inc.|brazil": {
+   "first_seen": "2026-11-21T02:13:51+00:00",
+   "last_seen": "2026-11-21T02:13:51+00:00",
+   "title": "Staff Site Reliability Engineer (Remote in Brazil)",
+   "org": "KnowBe4, Inc.",
+   "location": "Brazil"
+  },
+  "host account manager (offshore)|padsplit|latam": {
+   "first_seen": "2026-11-21T02:13:51+00:00",
+   "last_seen": "2026-11-21T02:13:51+00:00",
+   "title": "Host Account Manager (Offshore)",
+   "org": "PadSplit",
+   "location": "LATAM"
+  },
+  "senior product data analyst|cookunity|latam": {
+   "first_seen": "2026-11-21T02:13:51+00:00",
+   "last_seen": "2026-11-21T02:13:51+00:00",
+   "title": "Senior Product Data Analyst",
+   "org": "CookUnity",
+   "location": "LATAM"
   }
  }
 }
