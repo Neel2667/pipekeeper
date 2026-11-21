@@ -3,104 +3,104 @@
  "name": "Himalayas \u2014 remote jobs",
  "category": "jobs",
  "source": "https://himalayas.app/jobs/api",
- "collected_at": "2026-11-21T17:31:40+00:00",
+ "collected_at": "2026-11-21T23:15:21+00:00",
  "jobs_on_board": 20,
  "new_this_run": 20,
- "total_tracked": 459,
+ "total_tracked": 479,
  "jobs": [
   {
-   "title": "Sr. Analyst, Fund Controlling",
-   "org": "Gridline, LLC",
-   "location": "Philippines",
-   "detail": "Full Time",
+   "title": "Senior Project Manager - Audio Visual",
+   "org": "Diversified",
+   "location": "Canada",
+   "detail": "$100,000\u2013$115,000/a",
    "url": null,
    "new_this_run": true
   },
   {
-   "title": "Staff Technical Support Engineer",
-   "org": "Cribl",
-   "location": "Netherlands",
-   "detail": "$92,200\u2013$120,000/a",
-   "url": null,
-   "new_this_run": true
-  },
-  {
-   "title": "Centralized Monitor",
-   "org": "Ergomed",
-   "location": "Portugal",
-   "detail": "Full Time",
-   "url": null,
-   "new_this_run": true
-  },
-  {
-   "title": "Senior AI Compliance Analyst",
-   "org": "Ivanti",
+   "title": "Business Development Representative",
+   "org": "Solesis",
    "location": "United States",
    "detail": "Full Time",
    "url": null,
    "new_this_run": true
   },
   {
-   "title": "Senior Security Engineer - Active Directory (Remote in the US)",
-   "org": "GuidePoint Security LLC",
+   "title": "Customer Experience Coordinator",
+   "org": "Grimmway Farms",
+   "location": "United States",
+   "detail": "$26\u2013$33/h",
+   "url": null,
+   "new_this_run": true
+  },
+  {
+   "title": "Tagalog Interpreter",
+   "org": "LanguageLine Solutions",
+   "location": "United States",
+   "detail": "$15\u2013$17/h",
+   "url": null,
+   "new_this_run": true
+  },
+  {
+   "title": "Principal Product Specialist - AI Security",
+   "org": "Zscaler",
+   "location": "United States",
+   "detail": "$171,500\u2013$245,000/a",
+   "url": null,
+   "new_this_run": true
+  },
+  {
+   "title": "Creative Lead",
+   "org": "Koala",
    "location": "United States",
    "detail": "Full Time",
    "url": null,
    "new_this_run": true
   },
   {
-   "title": "Chief Technology Officer (Mobile app, M/F/D)",
-   "org": "Arise App",
-   "location": "Romania",
-   "detail": "Full Time",
-   "url": null,
-   "new_this_run": true
-  },
-  {
-   "title": "English to Belarusian Review Lead for UI, Marketing & Product Content",
+   "title": "Prompt Qualtity Reviewers for Uzbek",
    "org": "Welo Global",
-   "location": "Argentina, Australia, Austria, Belgium, Brazil, Bulgaria, Canada, Chile, China, Colombia, Costa Rica, Croatia, Czechia, Denmark, Egypt, El Salvador, Finland, France, Germany, Ghana, Greece, Guatemala, Hong Kong, Hungary, India, Indonesia, I",
+   "location": "Uzbekistan",
    "detail": "Contractor",
    "url": null,
    "new_this_run": true
   },
   {
-   "title": "Associate Technical Support Consultant",
-   "org": "Harris",
-   "location": "India",
+   "title": "Senior Security Engineer",
+   "org": "SecurityScorecard",
+   "location": "Argentina, Brazil, United States",
+   "detail": "$200,000\u2013$250,000/a",
+   "url": null,
+   "new_this_run": true
+  },
+  {
+   "title": "Italian Voice Actors Needed for Three Hour Recording Project",
+   "org": "Lifted (an Upwork Company)",
+   "location": "Italy",
+   "detail": "Contractor",
+   "url": null,
+   "new_this_run": true
+  },
+  {
+   "title": "Customer Success Manager (Multinacional)",
+   "org": "VISEO - Spain",
+   "location": "Spain",
    "detail": "Full Time",
    "url": null,
    "new_this_run": true
   },
   {
-   "title": "Manager, Global Web Ecosystem - Cybersecurity and Technology Lead",
-   "org": "Lifelancer",
+   "title": "Manager, Partner Success",
+   "org": "Noodle",
+   "location": "United States",
+   "detail": "$68,000\u2013$75,000/a",
+   "url": null,
+   "new_this_run": true
+  },
+  {
+   "title": "Senior Software Engineer \u2013 AI & Business Applications",
+   "org": "Landscape Forms",
    "location": "United States",
    "detail": "Full Time",
-   "url": null,
-   "new_this_run": true
-  },
-  {
-   "title": "REO Closing Coordinator",
-   "org": "MORTGAGE CONNECT",
-   "location": "United States",
-   "detail": "$24\u2013$28/h",
-   "url": null,
-   "new_this_run": true
-  },
-  {
-   "title": "AI Data Specialist - Croatian",
-   "org": "RWS Group",
-   "location": "Croatia",
-   "detail": "$8\u2013$8/h",
-   "url": null,
-   "new_this_run": true
-  },
-  {
-   "title": "Genetic Counselor, Laboratory Services- Full Time Days",
-   "org": "Northwestern Memorial Healthcare",
-   "location": "United States",
-   "detail": "$43\u2013$60/h",
    "url": null,
    "new_this_run": true
   }
@@ -228,6 +228,11 @@
   },
   {
    "at": "2026-11-21T17:31:40+00:00",
+   "jobs": 20,
+   "new": 20
+  },
+  {
+   "at": "2026-11-21T23:15:21+00:00",
    "jobs": 20,
    "new": 20
   }
@@ -3445,6 +3450,146 @@
    "title": "QA Engineer (Manual and UI Automation-Playwright)",
    "org": "CommIT",
    "location": "Armenia"
+  },
+  "senior project manager - audio visual|diversified|canada": {
+   "first_seen": "2026-11-21T23:15:21+00:00",
+   "last_seen": "2026-11-21T23:15:21+00:00",
+   "title": "Senior Project Manager - Audio Visual",
+   "org": "Diversified",
+   "location": "Canada"
+  },
+  "business development representative|solesis|united states": {
+   "first_seen": "2026-11-21T23:15:21+00:00",
+   "last_seen": "2026-11-21T23:15:21+00:00",
+   "title": "Business Development Representative",
+   "org": "Solesis",
+   "location": "United States"
+  },
+  "customer experience coordinator|grimmway farms|united states": {
+   "first_seen": "2026-11-21T23:15:21+00:00",
+   "last_seen": "2026-11-21T23:15:21+00:00",
+   "title": "Customer Experience Coordinator",
+   "org": "Grimmway Farms",
+   "location": "United States"
+  },
+  "tagalog interpreter|languageline solutions|united states": {
+   "first_seen": "2026-11-21T23:15:21+00:00",
+   "last_seen": "2026-11-21T23:15:21+00:00",
+   "title": "Tagalog Interpreter",
+   "org": "LanguageLine Solutions",
+   "location": "United States"
+  },
+  "principal product specialist - ai security|zscaler|united states": {
+   "first_seen": "2026-11-21T23:15:21+00:00",
+   "last_seen": "2026-11-21T23:15:21+00:00",
+   "title": "Principal Product Specialist - AI Security",
+   "org": "Zscaler",
+   "location": "United States"
+  },
+  "creative lead|koala|united states": {
+   "first_seen": "2026-11-21T23:15:21+00:00",
+   "last_seen": "2026-11-21T23:15:21+00:00",
+   "title": "Creative Lead",
+   "org": "Koala",
+   "location": "United States"
+  },
+  "prompt qualtity reviewers for uzbek|welo global|uzbekistan": {
+   "first_seen": "2026-11-21T23:15:21+00:00",
+   "last_seen": "2026-11-21T23:15:21+00:00",
+   "title": "Prompt Qualtity Reviewers for Uzbek",
+   "org": "Welo Global",
+   "location": "Uzbekistan"
+  },
+  "senior security engineer|securityscorecard|argentina, brazil, united states": {
+   "first_seen": "2026-11-21T23:15:21+00:00",
+   "last_seen": "2026-11-21T23:15:21+00:00",
+   "title": "Senior Security Engineer",
+   "org": "SecurityScorecard",
+   "location": "Argentina, Brazil, United States"
+  },
+  "italian voice actors needed for three hour recording project|lifted (an upwork company)|italy": {
+   "first_seen": "2026-11-21T23:15:21+00:00",
+   "last_seen": "2026-11-21T23:15:21+00:00",
+   "title": "Italian Voice Actors Needed for Three Hour Recording Project",
+   "org": "Lifted (an Upwork Company)",
+   "location": "Italy"
+  },
+  "customer success manager (multinacional)|viseo - spain|spain": {
+   "first_seen": "2026-11-21T23:15:21+00:00",
+   "last_seen": "2026-11-21T23:15:21+00:00",
+   "title": "Customer Success Manager (Multinacional)",
+   "org": "VISEO - Spain",
+   "location": "Spain"
+  },
+  "manager, partner success|noodle|united states": {
+   "first_seen": "2026-11-21T23:15:21+00:00",
+   "last_seen": "2026-11-21T23:15:21+00:00",
+   "title": "Manager, Partner Success",
+   "org": "Noodle",
+   "location": "United States"
+  },
+  "senior software engineer \u2013 ai & business applications|landscape forms|united states": {
+   "first_seen": "2026-11-21T23:15:21+00:00",
+   "last_seen": "2026-11-21T23:15:21+00:00",
+   "title": "Senior Software Engineer \u2013 AI & Business Applications",
+   "org": "Landscape Forms",
+   "location": "United States"
+  },
+  "solutions engineer - splunk|cisco|bermuda, canada, greenland, mexico, saint pierre and miquelon, united states, united states minor outlying islands": {
+   "first_seen": "2026-11-21T23:15:21+00:00",
+   "last_seen": "2026-11-21T23:15:21+00:00",
+   "title": "Solutions Engineer - Splunk",
+   "org": "Cisco",
+   "location": "Bermuda, Canada, Greenland, Mexico, Saint Pierre and Miquelon, United States, United States Minor Outlying Islands"
+  },
+  "real-time data engineer|bright vision technologies|united states": {
+   "first_seen": "2026-11-21T23:15:21+00:00",
+   "last_seen": "2026-11-21T23:15:21+00:00",
+   "title": "Real-Time Data Engineer",
+   "org": "Bright Vision Technologies",
+   "location": "United States"
+  },
+  "structural engineering specialist - fully remote | upto $85/hr|mercor|united states": {
+   "first_seen": "2026-11-21T23:15:21+00:00",
+   "last_seen": "2026-11-21T23:15:21+00:00",
+   "title": "Structural Engineering Specialist - Fully Remote | Upto $85/hr",
+   "org": "mercor",
+   "location": "United States"
+  },
+  "asp.net developer (ai-driven development)|cyzerg|india": {
+   "first_seen": "2026-11-21T23:15:21+00:00",
+   "last_seen": "2026-11-21T23:15:21+00:00",
+   "title": "ASP.NET Developer (AI-Driven Development)",
+   "org": "Cyzerg",
+   "location": "India"
+  },
+  "marketing brand manager, face portfolio|extremity care|united states": {
+   "first_seen": "2026-11-21T23:15:21+00:00",
+   "last_seen": "2026-11-21T23:15:21+00:00",
+   "title": "Marketing Brand Manager, Face Portfolio",
+   "org": "Extremity Care",
+   "location": "United States"
+  },
+  "tax specialist, winter 2027 (co-op/internship) - 4 months|bmo|canada": {
+   "first_seen": "2026-11-21T23:15:21+00:00",
+   "last_seen": "2026-11-21T23:15:21+00:00",
+   "title": "Tax Specialist, Winter 2027 (Co-op/Internship) - 4 months",
+   "org": "BMO",
+   "location": "Canada"
+  },
+  "it systems engineer|capslock|georgia": {
+   "first_seen": "2026-11-21T23:15:21+00:00",
+   "last_seen": "2026-11-21T23:15:21+00:00",
+   "title": "IT Systems Engineer",
+   "org": "CapsLock",
+   "location": "Georgia"
+  },
+  "ai data specialist - danish|rws group|denmark": {
+   "first_seen": "2026-11-21T23:15:21+00:00",
+   "last_seen": "2026-11-21T23:15:21+00:00",
+   "title": "AI Data Specialist - Danish",
+   "org": "RWS Group",
+   "location": "Denmark"
   }
  }
 }

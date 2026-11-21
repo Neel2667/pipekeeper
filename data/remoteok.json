@@ -3,9 +3,9 @@
  "name": "RemoteOK \u2014 remote tech jobs",
  "category": "jobs",
  "source": "https://remoteok.com/api",
- "collected_at": "2026-11-21T17:31:39+00:00",
+ "collected_at": "2026-11-21T23:15:20+00:00",
  "jobs_on_board": 100,
- "new_this_run": 7,
+ "new_this_run": 0,
  "total_tracked": 212,
  "jobs": [
   {
@@ -14,7 +14,7 @@
    "location": "Arlington",
    "detail": "design, sys admin, customer support",
    "url": "https://remoteOK.com/remote-jobs/remote-quality-engineer-quartermaster-1137914",
-   "new_this_run": true
+   "new_this_run": false
   },
   {
    "title": "Account Director",
@@ -22,7 +22,7 @@
    "location": "Remote, EST United States",
    "detail": "exec, design, marketing",
    "url": "https://remoteOK.com/remote-jobs/remote-account-director-princeton10-1137913",
-   "new_this_run": true
+   "new_this_run": false
   },
   {
    "title": "Senior Manager, Product Analytics (Growth)",
@@ -30,7 +30,7 @@
    "location": "Worldwide",
    "detail": "marketing",
    "url": "https://remoteOK.com/remote-jobs/remote-senior-manager-product-analytics-growth-ifit-1137912",
-   "new_this_run": true
+   "new_this_run": false
   },
   {
    "title": "Inside Sales Specialist-Temp",
@@ -38,7 +38,7 @@
    "location": "US Only",
    "detail": "sales",
    "url": "https://remoteOK.com/remote-jobs/remote-inside-sales-specialist-temp-natera-1137911",
-   "new_this_run": true
+   "new_this_run": false
   },
   {
    "title": "SEA P2P Business Development Specialist",
@@ -46,7 +46,7 @@
    "location": "Asia",
    "detail": "sales",
    "url": "https://remoteOK.com/remote-jobs/remote-sea-p2p-business-development-specialist-bybit-1137910",
-   "new_this_run": true
+   "new_this_run": false
   },
   {
    "title": "Customer Success Manager",
@@ -54,7 +54,7 @@
    "location": "Europe",
    "detail": "customer support",
    "url": "https://remoteOK.com/remote-jobs/remote-customer-success-manager-salsify-1137909",
-   "new_this_run": true
+   "new_this_run": false
   },
   {
    "title": "Technical Architect",
@@ -62,7 +62,7 @@
    "location": "Europe",
    "detail": "customer support",
    "url": "https://remoteOK.com/remote-jobs/remote-technical-architect-dropbox-1137908",
-   "new_this_run": true
+   "new_this_run": false
   },
   {
    "title": "Global Tax Manager",
@@ -230,6 +230,11 @@
    "at": "2026-11-21T17:31:39+00:00",
    "jobs": 100,
    "new": 7
+  },
+  {
+   "at": "2026-11-21T23:15:20+00:00",
+   "jobs": 100,
+   "new": 0
   }
  ],
  "jobs_seen": {
@@ -963,14 +968,14 @@
   },
   "project manager|syner-g|remote": {
    "first_seen": "2026-11-19T21:33:34+00:00",
-   "last_seen": "2026-11-21T17:31:39+00:00",
+   "last_seen": "2026-11-21T23:15:20+00:00",
    "title": "Project Manager",
    "org": "Syner-G",
    "location": "Remote"
   },
   "seo full stack engineer|treatwell|remote": {
    "first_seen": "2026-11-19T21:33:34+00:00",
-   "last_seen": "2026-11-21T17:31:39+00:00",
+   "last_seen": "2026-11-21T23:15:20+00:00",
    "title": "SEO Full Stack Engineer",
    "org": "Treatwell",
    "location": "remote"
@@ -998,91 +1003,91 @@
   },
   "customer success manager|airtable|us only": {
    "first_seen": "2026-11-20T11:50:13+00:00",
-   "last_seen": "2026-11-21T17:31:39+00:00",
+   "last_seen": "2026-11-21T23:15:20+00:00",
    "title": "Customer Success Manager",
    "org": "Airtable",
    "location": "US Only"
   },
   "paralegal|tines|us only": {
    "first_seen": "2026-11-20T11:50:13+00:00",
-   "last_seen": "2026-11-21T17:31:39+00:00",
+   "last_seen": "2026-11-21T23:15:20+00:00",
    "title": "Paralegal",
    "org": "Tines",
    "location": "US Only"
   },
   "head of channel sales & alliances|salesloft|us only": {
    "first_seen": "2026-11-20T11:50:13+00:00",
-   "last_seen": "2026-11-21T17:31:39+00:00",
+   "last_seen": "2026-11-21T23:15:20+00:00",
    "title": "Head of Channel Sales & Alliances",
    "org": "Salesloft",
    "location": "US Only"
   },
   "customer success engineer, india|gitlab|asia": {
    "first_seen": "2026-11-20T11:50:13+00:00",
-   "last_seen": "2026-11-21T17:31:39+00:00",
+   "last_seen": "2026-11-21T23:15:20+00:00",
    "title": "Customer Success Engineer, India",
    "org": "GitLab",
    "location": "Asia"
   },
   "customer success engineer, singapore|gitlab|asia": {
    "first_seen": "2026-11-20T11:50:13+00:00",
-   "last_seen": "2026-11-21T17:31:39+00:00",
+   "last_seen": "2026-11-21T23:15:20+00:00",
    "title": "Customer Success Engineer, Singapore",
    "org": "GitLab",
    "location": "Asia"
   },
   "customer success architect - west|gitlab|us only": {
    "first_seen": "2026-11-20T11:50:13+00:00",
-   "last_seen": "2026-11-21T17:31:39+00:00",
+   "last_seen": "2026-11-21T23:15:20+00:00",
    "title": "Customer Success Architect - West",
    "org": "GitLab",
    "location": "US Only"
   },
   "briefing content strategist|stripe|us only": {
    "first_seen": "2026-11-20T11:50:13+00:00",
-   "last_seen": "2026-11-21T17:31:39+00:00",
+   "last_seen": "2026-11-21T23:15:20+00:00",
    "title": "Briefing Content Strategist",
    "org": "Stripe",
    "location": "US Only"
   },
   "agency partnerships director|6sense|us only": {
    "first_seen": "2026-11-20T11:50:13+00:00",
-   "last_seen": "2026-11-21T17:31:39+00:00",
+   "last_seen": "2026-11-21T23:15:20+00:00",
    "title": "Agency Partnerships Director",
    "org": "6sense",
    "location": "US Only"
   },
   "senior analytics engineer|tebra|us only": {
    "first_seen": "2026-11-20T11:50:13+00:00",
-   "last_seen": "2026-11-21T17:31:39+00:00",
+   "last_seen": "2026-11-21T23:15:20+00:00",
    "title": "Senior Analytics Engineer",
    "org": "Tebra",
    "location": "US Only"
   },
   "regional marketing manager, southeast|everpure|us only": {
    "first_seen": "2026-11-20T11:50:13+00:00",
-   "last_seen": "2026-11-21T17:31:39+00:00",
+   "last_seen": "2026-11-21T23:15:20+00:00",
    "title": "Regional Marketing Manager, Southeast",
    "org": "Everpure",
    "location": "US Only"
   },
   "software engineer ai coding tasks|askable|remote": {
    "first_seen": "2026-11-20T11:50:13+00:00",
-   "last_seen": "2026-11-21T17:31:39+00:00",
+   "last_seen": "2026-11-21T23:15:20+00:00",
    "title": "Software Engineer AI Coding Tasks",
    "org": "Askable",
    "location": "remote"
   },
   "senior software engineer|tebra|us only": {
    "first_seen": "2026-11-20T20:17:28+00:00",
-   "last_seen": "2026-11-21T17:31:39+00:00",
+   "last_seen": "2026-11-21T23:15:20+00:00",
    "title": "Senior Software Engineer",
    "org": "Tebra",
    "location": "US Only"
   },
   "engineering manager|clover health|us only": {
    "first_seen": "2026-11-20T20:17:28+00:00",
-   "last_seen": "2026-11-21T17:31:39+00:00",
+   "last_seen": "2026-11-21T23:15:20+00:00",
    "title": "Engineering Manager",
    "org": "Clover Health",
    "location": "US Only"
@@ -1096,35 +1101,35 @@
   },
   "engineering lead, growth|clover health|us only": {
    "first_seen": "2026-11-20T20:17:28+00:00",
-   "last_seen": "2026-11-21T17:31:39+00:00",
+   "last_seen": "2026-11-21T23:15:20+00:00",
    "title": "Engineering Lead, Growth",
    "org": "Clover Health",
    "location": "US Only"
   },
   "engineering lead, clinical operations|clover health|us only": {
    "first_seen": "2026-11-20T20:17:28+00:00",
-   "last_seen": "2026-11-21T17:31:39+00:00",
+   "last_seen": "2026-11-21T23:15:20+00:00",
    "title": "Engineering Lead, Clinical Operations",
    "org": "Clover Health",
    "location": "US Only"
   },
   "senior gtm engineer|salesloft|us only": {
    "first_seen": "2026-11-20T20:17:28+00:00",
-   "last_seen": "2026-11-21T17:31:39+00:00",
+   "last_seen": "2026-11-21T23:15:20+00:00",
    "title": "Senior GTM Engineer",
    "org": "Salesloft",
    "location": "US Only"
   },
   "senior software engineer guest & host|airbnb|us only": {
    "first_seen": "2026-11-20T20:17:28+00:00",
-   "last_seen": "2026-11-21T17:31:39+00:00",
+   "last_seen": "2026-11-21T23:15:20+00:00",
    "title": "Senior Software Engineer Guest & Host",
    "org": "Airbnb",
    "location": "US Only"
   },
   "engineering manager, external search & ai optimization|airbnb|us only": {
    "first_seen": "2026-11-20T20:17:28+00:00",
-   "last_seen": "2026-11-21T17:31:39+00:00",
+   "last_seen": "2026-11-21T23:15:20+00:00",
    "title": "Engineering Manager, External Search & AI Optimization",
    "org": "Airbnb",
    "location": "US Only"
@@ -1138,91 +1143,91 @@
   },
   "senior data engineer tech foundations|airbnb|us only": {
    "first_seen": "2026-11-20T20:17:28+00:00",
-   "last_seen": "2026-11-21T17:31:39+00:00",
+   "last_seen": "2026-11-21T23:15:20+00:00",
    "title": "Senior Data Engineer Tech Foundations",
    "org": "Airbnb",
    "location": "US Only"
   },
   "velocity, sales director - usa & europe|storyblok|worldwide": {
    "first_seen": "2026-11-20T20:17:28+00:00",
-   "last_seen": "2026-11-21T17:31:39+00:00",
+   "last_seen": "2026-11-21T23:15:20+00:00",
    "title": "Velocity, Sales Director - USA & Europe",
    "org": "Storyblok",
    "location": "Worldwide"
   },
   "staff software engineer (interfaces)|netlify|worldwide": {
    "first_seen": "2026-11-20T20:17:28+00:00",
-   "last_seen": "2026-11-21T17:31:39+00:00",
+   "last_seen": "2026-11-21T23:15:20+00:00",
    "title": "Staff Software Engineer (Interfaces)",
    "org": "Netlify",
    "location": "Worldwide"
   },
   "vice president, public sector|bitwarden|worldwide": {
    "first_seen": "2026-11-20T20:17:28+00:00",
-   "last_seen": "2026-11-21T17:31:39+00:00",
+   "last_seen": "2026-11-21T23:15:20+00:00",
    "title": "Vice President, Public Sector",
    "org": "Bitwarden",
    "location": "Worldwide"
   },
   "senior sales training and enablement manager|tebra|us only": {
    "first_seen": "2026-11-20T20:17:28+00:00",
-   "last_seen": "2026-11-21T17:31:39+00:00",
+   "last_seen": "2026-11-21T23:15:20+00:00",
    "title": "Senior Sales Training and Enablement Manager",
    "org": "Tebra",
    "location": "US Only"
   },
   "director, enterprise sales|abnormal|europe": {
    "first_seen": "2026-11-20T20:17:28+00:00",
-   "last_seen": "2026-11-21T17:31:39+00:00",
+   "last_seen": "2026-11-21T23:15:20+00:00",
    "title": "Director, Enterprise Sales",
    "org": "Abnormal",
    "location": "Europe"
   },
   "senior account executive ii|collibra|us only": {
    "first_seen": "2026-11-20T20:17:28+00:00",
-   "last_seen": "2026-11-21T17:31:39+00:00",
+   "last_seen": "2026-11-21T23:15:20+00:00",
    "title": "Senior Account Executive II",
    "org": "Collibra",
    "location": "US Only"
   },
   "engineer software defined vehicle simulation and development|niki digital engineering|remote": {
    "first_seen": "2026-11-20T20:17:28+00:00",
-   "last_seen": "2026-11-21T17:31:39+00:00",
+   "last_seen": "2026-11-21T23:15:20+00:00",
    "title": "Engineer Software Defined Vehicle Simulation and Development",
    "org": "NIKI Digital Engineering",
    "location": "remote"
   },
   "marketing and communications officer|niki digital engineering|remote": {
    "first_seen": "2026-11-20T20:17:28+00:00",
-   "last_seen": "2026-11-21T17:31:39+00:00",
+   "last_seen": "2026-11-21T23:15:20+00:00",
    "title": "Marketing and Communications Officer",
    "org": "NIKI Digital Engineering",
    "location": "remote"
   },
   "postdoc phd phd cand. physics computer science|niki digital engineering|remote": {
    "first_seen": "2026-11-20T20:17:28+00:00",
-   "last_seen": "2026-11-21T17:31:39+00:00",
+   "last_seen": "2026-11-21T23:15:20+00:00",
    "title": "Postdoc PhD PhD cand. Physics Computer Science",
    "org": "NIKI Digital Engineering",
    "location": "remote"
   },
   "business development assistant|bybit|europe": {
    "first_seen": "2026-11-20T20:17:28+00:00",
-   "last_seen": "2026-11-21T17:31:39+00:00",
+   "last_seen": "2026-11-21T23:15:20+00:00",
    "title": "Business Development Assistant",
    "org": "Bybit",
    "location": "Europe"
   },
   "technical lead norm compliance|norm|remote": {
    "first_seen": "2026-11-20T20:17:28+00:00",
-   "last_seen": "2026-11-21T17:31:39+00:00",
+   "last_seen": "2026-11-21T23:15:20+00:00",
    "title": "Technical Lead Norm Compliance",
    "org": "Norm",
    "location": "remote"
   },
   "enterprise account executive|ping identity|us only": {
    "first_seen": "2026-11-20T20:17:28+00:00",
-   "last_seen": "2026-11-21T17:31:39+00:00",
+   "last_seen": "2026-11-21T23:15:20+00:00",
    "title": "Enterprise Account Executive",
    "org": "Ping Identity",
    "location": "US Only"
@@ -1243,56 +1248,56 @@
   },
   "regional msp partner manager, benelux|everpure|europe": {
    "first_seen": "2026-11-20T20:17:28+00:00",
-   "last_seen": "2026-11-21T17:31:39+00:00",
+   "last_seen": "2026-11-21T23:15:20+00:00",
    "title": "Regional MSP Partner Manager, Benelux",
    "org": "Everpure",
    "location": "Europe"
   },
   "gsi specialty seller, identity resilience (global)|rubrik job board|us only": {
    "first_seen": "2026-11-20T20:17:28+00:00",
-   "last_seen": "2026-11-21T17:31:39+00:00",
+   "last_seen": "2026-11-21T23:15:20+00:00",
    "title": "GSI Specialty Seller, Identity Resilience (Global)",
    "org": "Rubrik Job Board",
    "location": "US Only"
   },
   "integrated marketing manager, global programs|abnormal|us only": {
    "first_seen": "2026-11-20T20:17:28+00:00",
-   "last_seen": "2026-11-21T17:31:39+00:00",
+   "last_seen": "2026-11-21T23:15:20+00:00",
    "title": "Integrated Marketing Manager, Global Programs",
    "org": "Abnormal",
    "location": "US Only"
   },
   "manager, ww distribution|rubrik job board|us only": {
    "first_seen": "2026-11-20T20:17:28+00:00",
-   "last_seen": "2026-11-21T17:31:39+00:00",
+   "last_seen": "2026-11-21T23:15:20+00:00",
    "title": "Manager, WW Distribution",
    "org": "Rubrik Job Board",
    "location": "US Only"
   },
   "account executive, enterprise (atlanta/tennessee)|everpure|us only": {
    "first_seen": "2026-11-20T20:17:28+00:00",
-   "last_seen": "2026-11-21T17:31:39+00:00",
+   "last_seen": "2026-11-21T23:15:20+00:00",
    "title": "Account Executive, Enterprise (Atlanta/Tennessee)",
    "org": "Everpure",
    "location": "US Only"
   },
   "enterprise solutions engineer, east|glean|us only": {
    "first_seen": "2026-11-20T20:17:28+00:00",
-   "last_seen": "2026-11-21T17:31:39+00:00",
+   "last_seen": "2026-11-21T23:15:20+00:00",
    "title": "Enterprise Solutions Engineer, East",
    "org": "Glean",
    "location": "US Only"
   },
   "revenue enablement manager|legion|us only": {
    "first_seen": "2026-11-20T20:17:28+00:00",
-   "last_seen": "2026-11-21T17:31:39+00:00",
+   "last_seen": "2026-11-21T23:15:20+00:00",
    "title": "Revenue Enablement Manager",
    "org": "Legion",
    "location": "US Only"
   },
   "sales development representative|bitwarden|us only": {
    "first_seen": "2026-11-20T20:17:28+00:00",
-   "last_seen": "2026-11-21T17:31:39+00:00",
+   "last_seen": "2026-11-21T23:15:20+00:00",
    "title": "Sales Development Representative",
    "org": "Bitwarden",
    "location": "US Only"
@@ -1306,413 +1311,413 @@
   },
   "customer success manager|ping identity|us only": {
    "first_seen": "2026-11-20T20:17:28+00:00",
-   "last_seen": "2026-11-21T17:31:39+00:00",
+   "last_seen": "2026-11-21T23:15:20+00:00",
    "title": "Customer Success Manager",
    "org": "Ping Identity",
    "location": "US Only"
   },
   "l1 technical support engineer (spanish-speaking)|abnormal|us only": {
    "first_seen": "2026-11-20T20:17:28+00:00",
-   "last_seen": "2026-11-21T17:31:39+00:00",
+   "last_seen": "2026-11-21T23:15:20+00:00",
    "title": "L1 Technical Support Engineer (Spanish-Speaking)",
    "org": "Abnormal",
    "location": "US Only"
   },
   "designated technical support engineer - west|glean|us only": {
    "first_seen": "2026-11-20T20:17:28+00:00",
-   "last_seen": "2026-11-21T17:31:39+00:00",
+   "last_seen": "2026-11-21T23:15:20+00:00",
    "title": "Designated Technical Support Engineer - West",
    "org": "Glean",
    "location": "US Only"
   },
   "community moderator - wisdo (1099)|talkspace|us only": {
    "first_seen": "2026-11-20T20:17:28+00:00",
-   "last_seen": "2026-11-21T17:31:39+00:00",
+   "last_seen": "2026-11-21T23:15:20+00:00",
    "title": "Community Moderator - Wisdo (1099)",
    "org": "Talkspace",
    "location": "US Only"
   },
   "product designer|tebra|us only": {
    "first_seen": "2026-11-21T02:13:51+00:00",
-   "last_seen": "2026-11-21T17:31:39+00:00",
+   "last_seen": "2026-11-21T23:15:20+00:00",
    "title": "Product Designer",
    "org": "Tebra",
    "location": "US Only"
   },
   "senior software developer - canada|clover health|canada only": {
    "first_seen": "2026-11-21T02:13:51+00:00",
-   "last_seen": "2026-11-21T17:31:39+00:00",
+   "last_seen": "2026-11-21T23:15:20+00:00",
    "title": "Senior Software Developer - Canada",
    "org": "Clover Health",
    "location": "Canada Only"
   },
   "senior software engineer|clover health|us only": {
    "first_seen": "2026-11-21T02:13:51+00:00",
-   "last_seen": "2026-11-21T17:31:39+00:00",
+   "last_seen": "2026-11-21T23:15:20+00:00",
    "title": "Senior Software Engineer",
    "org": "Clover Health",
    "location": "US Only"
   },
   "lifecycle value manager (enterprise customer success/ expansion), uk|everpure|uk only": {
    "first_seen": "2026-11-21T02:13:51+00:00",
-   "last_seen": "2026-11-21T17:31:39+00:00",
+   "last_seen": "2026-11-21T23:15:20+00:00",
    "title": "Lifecycle Value Manager (Enterprise Customer Success/ Expansion), UK",
    "org": "Everpure",
    "location": "UK Only"
   },
   "lifecycle value manager, germany|everpure|europe": {
    "first_seen": "2026-11-21T02:13:51+00:00",
-   "last_seen": "2026-11-21T17:31:39+00:00",
+   "last_seen": "2026-11-21T23:15:20+00:00",
    "title": "Lifecycle Value Manager, Germany",
    "org": "Everpure",
    "location": "Europe"
   },
   "regional msp partner manager, emea south (paris)|everpure|europe": {
    "first_seen": "2026-11-21T02:13:51+00:00",
-   "last_seen": "2026-11-21T17:31:39+00:00",
+   "last_seen": "2026-11-21T23:15:20+00:00",
    "title": "Regional MSP Partner Manager, EMEA South (Paris)",
    "org": "Everpure",
    "location": "Europe"
   },
   "customer success engineer|gitlab|us only": {
    "first_seen": "2026-11-21T02:13:51+00:00",
-   "last_seen": "2026-11-21T17:31:39+00:00",
+   "last_seen": "2026-11-21T23:15:20+00:00",
    "title": "Customer Success Engineer",
    "org": "GitLab",
    "location": "US Only"
   },
   "customer success latam|gitlab|us only": {
    "first_seen": "2026-11-21T02:13:51+00:00",
-   "last_seen": "2026-11-21T17:31:39+00:00",
+   "last_seen": "2026-11-21T23:15:20+00:00",
    "title": "Customer Success LATAM",
    "org": "GitLab",
    "location": "US Only"
   },
   "senior product engineer|arbor education|remote": {
    "first_seen": "2026-11-21T02:13:51+00:00",
-   "last_seen": "2026-11-21T17:31:39+00:00",
+   "last_seen": "2026-11-21T23:15:20+00:00",
    "title": "Senior Product Engineer",
    "org": "Arbor Education",
    "location": "remote"
   },
   "it manager|1mind|united states": {
    "first_seen": "2026-11-21T02:13:51+00:00",
-   "last_seen": "2026-11-21T17:31:39+00:00",
+   "last_seen": "2026-11-21T23:15:20+00:00",
    "title": "IT Manager",
    "org": "1mind",
    "location": "United States"
   },
   "business development specialist arabic speaker|fp markets|remote": {
    "first_seen": "2026-11-21T02:13:51+00:00",
-   "last_seen": "2026-11-21T17:31:39+00:00",
+   "last_seen": "2026-11-21T23:15:20+00:00",
    "title": "Business Development Specialist Arabic speaker",
    "org": "FP Markets",
    "location": "remote"
   },
   "mental health clinical supervisor|handspring|new york": {
    "first_seen": "2026-11-21T02:13:51+00:00",
-   "last_seen": "2026-11-21T17:31:39+00:00",
+   "last_seen": "2026-11-21T23:15:20+00:00",
    "title": "Mental Health Clinical Supervisor",
    "org": "Handspring",
    "location": "New York"
   },
   "customer success architect - east|gitlab|us only": {
    "first_seen": "2026-11-21T02:13:51+00:00",
-   "last_seen": "2026-11-21T17:31:39+00:00",
+   "last_seen": "2026-11-21T23:15:20+00:00",
    "title": "Customer Success Architect - East",
    "org": "GitLab",
    "location": "US Only"
   },
   "senior atlassian cloud admininstrator|dropbox|north america": {
    "first_seen": "2026-11-21T02:13:51+00:00",
-   "last_seen": "2026-11-21T17:31:39+00:00",
+   "last_seen": "2026-11-21T23:15:20+00:00",
    "title": "Senior Atlassian Cloud Admininstrator",
    "org": "Dropbox",
    "location": "North America"
   },
   "senior manager, commercial learning and development|elation health|us only": {
    "first_seen": "2026-11-21T02:13:51+00:00",
-   "last_seen": "2026-11-21T17:31:39+00:00",
+   "last_seen": "2026-11-21T23:15:20+00:00",
    "title": "Senior Manager, Commercial Learning and Development",
    "org": "Elation Health",
    "location": "US Only"
   },
   "principal devsecops engineer|upgrade|us only": {
    "first_seen": "2026-11-21T02:13:51+00:00",
-   "last_seen": "2026-11-21T17:31:39+00:00",
+   "last_seen": "2026-11-21T23:15:20+00:00",
    "title": "Principal DevSecOps Engineer",
    "org": "Upgrade",
    "location": "US Only"
   },
   "infrastructure software engineer|dropbox|north america": {
    "first_seen": "2026-11-21T02:13:51+00:00",
-   "last_seen": "2026-11-21T17:31:39+00:00",
+   "last_seen": "2026-11-21T23:15:20+00:00",
    "title": "Infrastructure Software Engineer",
    "org": "Dropbox",
    "location": "North America"
   },
   "global tax manager|ensono|us only": {
    "first_seen": "2026-11-21T09:54:43+00:00",
-   "last_seen": "2026-11-21T17:31:39+00:00",
+   "last_seen": "2026-11-21T23:15:20+00:00",
    "title": "Global Tax Manager",
    "org": "Ensono",
    "location": "US Only"
   },
   "senior sales engineer|natera|us only": {
    "first_seen": "2026-11-21T09:54:43+00:00",
-   "last_seen": "2026-11-21T17:31:39+00:00",
+   "last_seen": "2026-11-21T23:15:20+00:00",
    "title": "Senior Sales Engineer",
    "org": "Natera",
    "location": "US Only"
   },
   "senior associate, finance and accounting operations|ensono|latin america": {
    "first_seen": "2026-11-21T09:54:43+00:00",
-   "last_seen": "2026-11-21T17:31:39+00:00",
+   "last_seen": "2026-11-21T23:15:20+00:00",
    "title": "Senior Associate, Finance and Accounting Operations",
    "org": "Ensono",
    "location": "Latin America"
   },
   "data strategy operations manager|abnormal|us only": {
    "first_seen": "2026-11-21T09:54:43+00:00",
-   "last_seen": "2026-11-21T17:31:39+00:00",
+   "last_seen": "2026-11-21T23:15:20+00:00",
    "title": "Data Strategy Operations Manager",
    "org": "Abnormal",
    "location": "US Only"
   },
   "sr sales ops analyst|beyondtrust|us only": {
    "first_seen": "2026-11-21T09:54:43+00:00",
-   "last_seen": "2026-11-21T17:31:39+00:00",
+   "last_seen": "2026-11-21T23:15:20+00:00",
    "title": "Sr Sales Ops Analyst",
    "org": "BeyondTrust",
    "location": "US Only"
   },
   "art director|abnormal|us only": {
    "first_seen": "2026-11-21T09:54:43+00:00",
-   "last_seen": "2026-11-21T17:31:39+00:00",
+   "last_seen": "2026-11-21T23:15:20+00:00",
    "title": "Art Director",
    "org": "Abnormal",
    "location": "US Only"
   },
   "senior product architect|storyblok|worldwide": {
    "first_seen": "2026-11-21T09:54:43+00:00",
-   "last_seen": "2026-11-21T17:31:39+00:00",
+   "last_seen": "2026-11-21T23:15:20+00:00",
    "title": "Senior Product Architect",
    "org": "Storyblok",
    "location": "Worldwide"
   },
   "senior customer marketing manager|bitwarden|us only": {
    "first_seen": "2026-11-21T09:54:43+00:00",
-   "last_seen": "2026-11-21T17:31:39+00:00",
+   "last_seen": "2026-11-21T23:15:20+00:00",
    "title": "Senior Customer Marketing Manager",
    "org": "Bitwarden",
    "location": "US Only"
   },
   "security analyst - governance, risk, and compliance|launchdarkly|us only": {
    "first_seen": "2026-11-21T09:54:43+00:00",
-   "last_seen": "2026-11-21T17:31:39+00:00",
+   "last_seen": "2026-11-21T23:15:20+00:00",
    "title": "Security Analyst - Governance, Risk, and Compliance",
    "org": "LaunchDarkly",
    "location": "US Only"
   },
   "staff security engineer - appsec|6sense|us only": {
    "first_seen": "2026-11-21T09:54:43+00:00",
-   "last_seen": "2026-11-21T17:31:39+00:00",
+   "last_seen": "2026-11-21T23:15:20+00:00",
    "title": "Staff Security Engineer - AppSec",
    "org": "6sense",
    "location": "US Only"
   },
   "advisory solutions architect, msp (new product intro)|rubrik job board|us only": {
    "first_seen": "2026-11-21T09:54:43+00:00",
-   "last_seen": "2026-11-21T17:31:39+00:00",
+   "last_seen": "2026-11-21T23:15:20+00:00",
    "title": "Advisory Solutions Architect, MSP (New Product Intro)",
    "org": "Rubrik Job Board",
    "location": "US Only"
   },
   "virtual iop clinician \u00e2\u0080\u0093 florida & texas|talkspace|worldwide": {
    "first_seen": "2026-11-21T09:54:43+00:00",
-   "last_seen": "2026-11-21T17:31:39+00:00",
+   "last_seen": "2026-11-21T23:15:20+00:00",
    "title": "Virtual IOP Clinician \u00e2\u0080\u0093 Florida & Texas",
    "org": "Talkspace",
    "location": "Worldwide"
   },
   "product manager, ecosystem relevance|reddit|us only": {
    "first_seen": "2026-11-21T09:54:43+00:00",
-   "last_seen": "2026-11-21T17:31:39+00:00",
+   "last_seen": "2026-11-21T23:15:20+00:00",
    "title": "Product Manager, Ecosystem Relevance",
    "org": "Reddit",
    "location": "US Only"
   },
   "product manager, ai foundations|reddit|us only": {
    "first_seen": "2026-11-21T09:54:43+00:00",
-   "last_seen": "2026-11-21T17:31:39+00:00",
+   "last_seen": "2026-11-21T23:15:20+00:00",
    "title": "Product Manager, AI Foundations",
    "org": "Reddit",
    "location": "US Only"
   },
   "analyst relations senior manager|stripe|us only": {
    "first_seen": "2026-11-21T09:54:43+00:00",
-   "last_seen": "2026-11-21T17:31:39+00:00",
+   "last_seen": "2026-11-21T23:15:20+00:00",
    "title": "Analyst Relations Senior Manager",
    "org": "Stripe",
    "location": "US Only"
   },
   "sales commissions analyst|launchdarkly|us only": {
    "first_seen": "2026-11-21T09:54:43+00:00",
-   "last_seen": "2026-11-21T17:31:39+00:00",
+   "last_seen": "2026-11-21T23:15:20+00:00",
    "title": "Sales Commissions Analyst",
    "org": "LaunchDarkly",
    "location": "US Only"
   },
   "sr director, l2c process owner|beyondtrust|us only": {
    "first_seen": "2026-11-21T09:54:43+00:00",
-   "last_seen": "2026-11-21T17:31:39+00:00",
+   "last_seen": "2026-11-21T23:15:20+00:00",
    "title": "Sr Director, L2C Process Owner",
    "org": "BeyondTrust",
    "location": "US Only"
   },
   "intake and discharge clinician|talkspace|worldwide": {
    "first_seen": "2026-11-21T09:54:43+00:00",
-   "last_seen": "2026-11-21T17:31:39+00:00",
+   "last_seen": "2026-11-21T23:15:20+00:00",
    "title": "Intake and Discharge Clinician",
    "org": "Talkspace",
    "location": "Worldwide"
   },
   "sr. product manager|6sense|us only": {
    "first_seen": "2026-11-21T09:54:43+00:00",
-   "last_seen": "2026-11-21T17:31:39+00:00",
+   "last_seen": "2026-11-21T23:15:20+00:00",
    "title": "Sr. Product Manager",
    "org": "6sense",
    "location": "US Only"
   },
   "senior director of product management (r14361)|oportun|us only": {
    "first_seen": "2026-11-21T09:54:43+00:00",
-   "last_seen": "2026-11-21T17:31:39+00:00",
+   "last_seen": "2026-11-21T23:15:20+00:00",
    "title": "Senior Director of Product Management (R14361)",
    "org": "Oportun",
    "location": "US Only"
   },
   "director, sales|ping identity|us only": {
    "first_seen": "2026-11-21T09:54:43+00:00",
-   "last_seen": "2026-11-21T17:31:39+00:00",
+   "last_seen": "2026-11-21T23:15:20+00:00",
    "title": "Director, Sales",
    "org": "Ping Identity",
    "location": "US Only"
   },
   "technical chief of staff to the cto|clover health|us only": {
    "first_seen": "2026-11-21T09:54:43+00:00",
-   "last_seen": "2026-11-21T17:31:39+00:00",
+   "last_seen": "2026-11-21T23:15:20+00:00",
    "title": "Technical Chief of Staff to the CTO",
    "org": "Clover Health",
    "location": "US Only"
   },
   "per diem digital clinician | md/do (ca license)|galileo|us only": {
    "first_seen": "2026-11-21T09:54:43+00:00",
-   "last_seen": "2026-11-21T17:31:39+00:00",
+   "last_seen": "2026-11-21T23:15:20+00:00",
    "title": "Per Diem Digital Clinician | MD/DO (CA license)",
    "org": "Galileo",
    "location": "US Only"
   },
   "per diem digital clinician | np (ca license)|galileo|us only": {
    "first_seen": "2026-11-21T09:54:43+00:00",
-   "last_seen": "2026-11-21T17:31:39+00:00",
+   "last_seen": "2026-11-21T23:15:20+00:00",
    "title": "Per Diem Digital Clinician | NP (CA license)",
    "org": "Galileo",
    "location": "US Only"
   },
   "compliance officer/mlro|bybit|asia": {
    "first_seen": "2026-11-21T09:54:43+00:00",
-   "last_seen": "2026-11-21T17:31:39+00:00",
+   "last_seen": "2026-11-21T23:15:20+00:00",
    "title": "Compliance Officer/MLRO",
    "org": "Bybit",
    "location": "Asia"
   },
   "manager, business risk and ai automation|reddit|us only": {
    "first_seen": "2026-11-21T09:54:43+00:00",
-   "last_seen": "2026-11-21T17:31:39+00:00",
+   "last_seen": "2026-11-21T23:15:20+00:00",
    "title": "Manager, Business Risk and AI Automation",
    "org": "Reddit",
    "location": "US Only"
   },
   "compensation manager|6sense|us only": {
    "first_seen": "2026-11-21T09:54:43+00:00",
-   "last_seen": "2026-11-21T17:31:39+00:00",
+   "last_seen": "2026-11-21T23:15:20+00:00",
    "title": "Compensation Manager",
    "org": "6sense",
    "location": "US Only"
   },
   "presales solutions engineer|sumo logic|us only": {
    "first_seen": "2026-11-21T09:54:43+00:00",
-   "last_seen": "2026-11-21T17:31:39+00:00",
+   "last_seen": "2026-11-21T23:15:20+00:00",
    "title": "PreSales Solutions Engineer",
    "org": "Sumo Logic",
    "location": "US Only"
   },
   "p2p regional operations - africa|bybit|africa": {
    "first_seen": "2026-11-21T09:54:43+00:00",
-   "last_seen": "2026-11-21T17:31:39+00:00",
+   "last_seen": "2026-11-21T23:15:20+00:00",
    "title": "P2P Regional Operations - Africa",
    "org": "Bybit",
    "location": "Africa"
   },
   "international people ops analyst, benefits|cribl|us only": {
    "first_seen": "2026-11-21T09:54:43+00:00",
-   "last_seen": "2026-11-21T17:31:39+00:00",
+   "last_seen": "2026-11-21T23:15:20+00:00",
    "title": "International People Ops Analyst, Benefits",
    "org": "Cribl",
    "location": "US Only"
   },
   "senior atlassian cloud administrator|dropbox|europe": {
    "first_seen": "2026-11-21T09:54:43+00:00",
-   "last_seen": "2026-11-21T17:31:39+00:00",
+   "last_seen": "2026-11-21T23:15:20+00:00",
    "title": "Senior Atlassian Cloud Administrator",
    "org": "Dropbox",
    "location": "Europe"
   },
   "quality engineer|quartermaster|arlington": {
    "first_seen": "2026-11-21T17:31:39+00:00",
-   "last_seen": "2026-11-21T17:31:39+00:00",
+   "last_seen": "2026-11-21T23:15:20+00:00",
    "title": "Quality Engineer",
    "org": "Quartermaster",
    "location": "Arlington"
   },
   "account director|princeton10|remote, est united states": {
    "first_seen": "2026-11-21T17:31:39+00:00",
-   "last_seen": "2026-11-21T17:31:39+00:00",
+   "last_seen": "2026-11-21T23:15:20+00:00",
    "title": "Account Director",
    "org": "Princeton10",
    "location": "Remote, EST United States"
   },
   "senior manager, product analytics (growth)|ifit|worldwide": {
    "first_seen": "2026-11-21T17:31:39+00:00",
-   "last_seen": "2026-11-21T17:31:39+00:00",
+   "last_seen": "2026-11-21T23:15:20+00:00",
    "title": "Senior Manager, Product Analytics (Growth)",
    "org": "iFIT",
    "location": "Worldwide"
   },
   "inside sales specialist-temp|natera|us only": {
    "first_seen": "2026-11-21T17:31:39+00:00",
-   "last_seen": "2026-11-21T17:31:39+00:00",
+   "last_seen": "2026-11-21T23:15:20+00:00",
    "title": "Inside Sales Specialist-Temp",
    "org": "Natera",
    "location": "US Only"
   },
   "sea p2p business development specialist|bybit|asia": {
    "first_seen": "2026-11-21T17:31:39+00:00",
-   "last_seen": "2026-11-21T17:31:39+00:00",
+   "last_seen": "2026-11-21T23:15:20+00:00",
    "title": "SEA P2P Business Development Specialist",
    "org": "Bybit",
    "location": "Asia"
   },
   "customer success manager|salsify|europe": {
    "first_seen": "2026-11-21T17:31:39+00:00",
-   "last_seen": "2026-11-21T17:31:39+00:00",
+   "last_seen": "2026-11-21T23:15:20+00:00",
    "title": "Customer Success Manager",
    "org": "Salsify",
    "location": "Europe"
   },
   "technical architect|dropbox|europe": {
    "first_seen": "2026-11-21T17:31:39+00:00",
-   "last_seen": "2026-11-21T17:31:39+00:00",
+   "last_seen": "2026-11-21T23:15:20+00:00",
    "title": "Technical Architect",
    "org": "Dropbox",
    "location": "Europe"

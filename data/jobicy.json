@@ -3,105 +3,105 @@
  "name": "Jobicy \u2014 remote jobs",
  "category": "jobs",
  "source": "https://jobicy.com/api/v2/remote-jobs",
- "collected_at": "2026-11-21T17:31:40+00:00",
+ "collected_at": "2026-11-21T23:15:21+00:00",
  "jobs_on_board": 50,
- "new_this_run": 50,
- "total_tracked": 746,
+ "new_this_run": 19,
+ "total_tracked": 765,
  "jobs": [
   {
-   "title": "Head of Sales, Central Argentina",
-   "org": "Halter",
-   "location": "Argentina",
-   "detail": "Senior",
-   "url": "https://jobicy.com/jobs/163695-head-of-sales-central-argentina",
-   "new_this_run": true
-  },
-  {
-   "title": "Risk Operations Specialist, AMER",
-   "org": "Binance",
-   "location": "Argentina, Costa Rica, Mexico",
+   "title": "CLX Property Advocate, UK",
+   "org": "Lemonade",
+   "location": "UK",
    "detail": "Any",
-   "url": "https://jobicy.com/jobs/163691-risk-operations-specialist-amer",
-   "new_this_run": true
+   "url": "https://jobicy.com/jobs/163717-clx-property-advocate-uk-2",
+   "new_this_run": false
   },
   {
-   "title": "Head of Sales, Grand Chaco North",
-   "org": "Halter",
-   "location": "Argentina",
-   "detail": "Senior",
-   "url": "https://jobicy.com/jobs/163693-head-of-sales-grand-chaco-north",
-   "new_this_run": true
-  },
-  {
-   "title": "Hydrus - Session Director \u2014 Spanish (Mexico)",
-   "org": "Welo Global",
-   "location": "Mexico",
+   "title": "Senior Full Stack Product Software Engineer, Application Platform",
+   "org": "Dropbox",
+   "location": "Poland",
    "detail": "Director",
-   "url": "https://jobicy.com/jobs/163692-hydrus-session-director-spanish-mexico",
+   "url": "https://jobicy.com/jobs/163716-senior-full-stack-product-software-engineer-application-platform",
    "new_this_run": true
   },
   {
-   "title": "Collections Analyst I",
-   "org": "Samsara",
-   "location": "Mexico",
+   "title": "Enterprise Sales Engineer - France",
+   "org": "Chainguard",
+   "location": "France, UK",
+   "detail": "Senior",
+   "url": "https://jobicy.com/jobs/163715-enterprise-sales-engineer-france-2",
+   "new_this_run": true
+  },
+  {
+   "title": "Onboarding Manager, France",
+   "org": "Apaleo",
+   "location": "France, Germany",
+   "detail": "Senior",
+   "url": "https://jobicy.com/jobs/163714-onboarding-manager-france",
+   "new_this_run": true
+  },
+  {
+   "title": "Site Contracts Manager",
+   "org": "Precision Medicine Group",
+   "location": "Hungary, Poland, Romania, Serbia, Slovakia, Spain",
    "detail": "Any",
-   "url": "https://jobicy.com/jobs/163690-collections-analyst-i",
+   "url": "https://jobicy.com/jobs/163713-site-contracts-manager-2",
    "new_this_run": true
   },
   {
-   "title": "Head of Sales, Buenos Aires",
-   "org": "Halter",
-   "location": "Argentina",
-   "detail": "Senior",
-   "url": "https://jobicy.com/jobs/163689-head-of-sales-buenos-aires",
-   "new_this_run": true
-  },
-  {
-   "title": "Staff Tech Enablement Engineer, B2B Operations",
-   "org": "CookUnity",
-   "location": "LATAM",
-   "detail": "Senior",
-   "url": "https://jobicy.com/jobs/163688-staff-tech-enablement-engineer-b2b-operations",
-   "new_this_run": true
-  },
-  {
-   "title": "Senior Software Engineer",
-   "org": "3Y Health",
-   "location": "Brazil",
-   "detail": "Senior",
-   "url": "https://jobicy.com/jobs/163686-senior-software-engineer-27",
-   "new_this_run": true
-  },
-  {
-   "title": "Account Executive, Commercial - Mexico",
-   "org": "Samsara",
-   "location": "Mexico",
+   "title": "Senior Product Design Manager",
+   "org": "LastPass",
+   "location": "Hungary",
    "detail": "Director",
-   "url": "https://jobicy.com/jobs/163684-account-executive-commercial-mexico-2",
+   "url": "https://jobicy.com/jobs/163712-senior-product-design-manager",
    "new_this_run": true
   },
   {
-   "title": "Engineering Manager - Grafana Infrastructure (Remote, Ireland)",
-   "org": "Grafana Labs",
-   "location": "Ireland, Spain, UK",
-   "detail": "Senior",
-   "url": "https://jobicy.com/jobs/163682-engineering-manager-grafana-infrastructure-remote-ireland",
-   "new_this_run": true
-  },
-  {
-   "title": "Sales Manager, Mid-Market - EMEA",
-   "org": "Ashby",
-   "location": "Europe",
-   "detail": "Director",
-   "url": "https://jobicy.com/jobs/163681-sales-manager-mid-market-emea-2",
-   "new_this_run": true
-  },
-  {
-   "title": "Influencer Executive",
-   "org": "TrustedHousesitters",
+   "title": "Account Executive",
+   "org": "Zone &#038; Co",
    "location": "UK",
    "detail": "Director",
-   "url": "https://jobicy.com/jobs/163680-influencer-executive",
+   "url": "https://jobicy.com/jobs/163711-account-executive-40",
+   "new_this_run": true
+  },
+  {
+   "title": "Actuarial Associate, UK",
+   "org": "Lemonade",
+   "location": "UK",
+   "detail": "Any",
+   "url": "https://jobicy.com/jobs/163710-actuarial-associate-uk-2",
+   "new_this_run": false
+  },
+  {
+   "title": "Infrastructure Software Engineer, Orchestration",
+   "org": "Dropbox",
+   "location": "Poland",
+   "detail": "Director",
+   "url": "https://jobicy.com/jobs/163709-infrastructure-software-engineer-orchestration",
+   "new_this_run": true
+  },
+  {
+   "title": "Business Development Representative, Nordics",
+   "org": "Chainguard",
+   "location": "Denmark, Sweden",
+   "detail": "Senior",
+   "url": "https://jobicy.com/jobs/163708-business-development-representative-nordics-2",
+   "new_this_run": true
+  },
+  {
+   "title": "Tongan Interpreter",
+   "org": "Language Services Associates",
+   "location": "USA",
+   "detail": "Any",
+   "url": "https://jobicy.com/jobs/163707-tongan-interpreter",
+   "new_this_run": true
+  },
+  {
+   "title": "Senior Software Engineer, Cloud Data Storage",
+   "org": "Temporal Technologies",
+   "location": "USA",
+   "detail": "Senior",
+   "url": "https://jobicy.com/jobs/163706-senior-software-engineer-cloud-data-storage",
    "new_this_run": true
   }
  ],
@@ -230,6 +230,11 @@
    "at": "2026-11-21T17:31:40+00:00",
    "jobs": 50,
    "new": 50
+  },
+  {
+   "at": "2026-11-21T23:15:21+00:00",
+   "jobs": 50,
+   "new": 19
   }
  ],
  "jobs_seen": {
@@ -1285,7 +1290,7 @@
   },
   "clx property advocate, uk|lemonade|uk": {
    "first_seen": "2026-11-16T20:29:23+00:00",
-   "last_seen": "2026-11-17T03:53:06+00:00",
+   "last_seen": "2026-11-21T23:15:21+00:00",
    "title": "CLX Property Advocate, UK",
    "org": "Lemonade",
    "location": "UK"
@@ -1299,7 +1304,7 @@
   },
   "actuarial associate, uk|lemonade|uk": {
    "first_seen": "2026-11-16T20:29:23+00:00",
-   "last_seen": "2026-11-17T03:53:06+00:00",
+   "last_seen": "2026-11-21T23:15:21+00:00",
    "title": "Actuarial Associate, UK",
    "org": "Lemonade",
    "location": "UK"
@@ -5107,203 +5112,203 @@
   },
   "head of sales, central argentina|halter|argentina": {
    "first_seen": "2026-11-21T17:31:40+00:00",
-   "last_seen": "2026-11-21T17:31:40+00:00",
+   "last_seen": "2026-11-21T23:15:21+00:00",
    "title": "Head of Sales, Central Argentina",
    "org": "Halter",
    "location": "Argentina"
   },
   "risk operations specialist, amer|binance|argentina, costa rica, mexico": {
    "first_seen": "2026-11-21T17:31:40+00:00",
-   "last_seen": "2026-11-21T17:31:40+00:00",
+   "last_seen": "2026-11-21T23:15:21+00:00",
    "title": "Risk Operations Specialist, AMER",
    "org": "Binance",
    "location": "Argentina, Costa Rica, Mexico"
   },
   "head of sales, grand chaco north|halter|argentina": {
    "first_seen": "2026-11-21T17:31:40+00:00",
-   "last_seen": "2026-11-21T17:31:40+00:00",
+   "last_seen": "2026-11-21T23:15:21+00:00",
    "title": "Head of Sales, Grand Chaco North",
    "org": "Halter",
    "location": "Argentina"
   },
   "hydrus - session director \u2014 spanish (mexico)|welo global|mexico": {
    "first_seen": "2026-11-21T17:31:40+00:00",
-   "last_seen": "2026-11-21T17:31:40+00:00",
+   "last_seen": "2026-11-21T23:15:21+00:00",
    "title": "Hydrus - Session Director \u2014 Spanish (Mexico)",
    "org": "Welo Global",
    "location": "Mexico"
   },
   "collections analyst i|samsara|mexico": {
    "first_seen": "2026-11-21T17:31:40+00:00",
-   "last_seen": "2026-11-21T17:31:40+00:00",
+   "last_seen": "2026-11-21T23:15:21+00:00",
    "title": "Collections Analyst I",
    "org": "Samsara",
    "location": "Mexico"
   },
   "head of sales, buenos aires|halter|argentina": {
    "first_seen": "2026-11-21T17:31:40+00:00",
-   "last_seen": "2026-11-21T17:31:40+00:00",
+   "last_seen": "2026-11-21T23:15:21+00:00",
    "title": "Head of Sales, Buenos Aires",
    "org": "Halter",
    "location": "Argentina"
   },
   "staff tech enablement engineer, b2b operations|cookunity|latam": {
    "first_seen": "2026-11-21T17:31:40+00:00",
-   "last_seen": "2026-11-21T17:31:40+00:00",
+   "last_seen": "2026-11-21T23:15:21+00:00",
    "title": "Staff Tech Enablement Engineer, B2B Operations",
    "org": "CookUnity",
    "location": "LATAM"
   },
   "senior software engineer|3y health|brazil": {
    "first_seen": "2026-11-21T17:31:40+00:00",
-   "last_seen": "2026-11-21T17:31:40+00:00",
+   "last_seen": "2026-11-21T23:15:21+00:00",
    "title": "Senior Software Engineer",
    "org": "3Y Health",
    "location": "Brazil"
   },
   "account executive, commercial - mexico|samsara|mexico": {
    "first_seen": "2026-11-21T17:31:40+00:00",
-   "last_seen": "2026-11-21T17:31:40+00:00",
+   "last_seen": "2026-11-21T23:15:21+00:00",
    "title": "Account Executive, Commercial - Mexico",
    "org": "Samsara",
    "location": "Mexico"
   },
   "engineering manager - grafana infrastructure (remote, ireland)|grafana labs|ireland, spain, uk": {
    "first_seen": "2026-11-21T17:31:40+00:00",
-   "last_seen": "2026-11-21T17:31:40+00:00",
+   "last_seen": "2026-11-21T23:15:21+00:00",
    "title": "Engineering Manager - Grafana Infrastructure (Remote, Ireland)",
    "org": "Grafana Labs",
    "location": "Ireland, Spain, UK"
   },
   "sales manager, mid-market - emea|ashby|europe": {
    "first_seen": "2026-11-21T17:31:40+00:00",
-   "last_seen": "2026-11-21T17:31:40+00:00",
+   "last_seen": "2026-11-21T23:15:21+00:00",
    "title": "Sales Manager, Mid-Market - EMEA",
    "org": "Ashby",
    "location": "Europe"
   },
   "influencer executive|trustedhousesitters|uk": {
    "first_seen": "2026-11-21T17:31:40+00:00",
-   "last_seen": "2026-11-21T17:31:40+00:00",
+   "last_seen": "2026-11-21T23:15:21+00:00",
    "title": "Influencer Executive",
    "org": "TrustedHousesitters",
    "location": "UK"
   },
   "director, sales talent acquisition | united kingdom | remote|grafana labs|uk": {
    "first_seen": "2026-11-21T17:31:40+00:00",
-   "last_seen": "2026-11-21T17:31:40+00:00",
+   "last_seen": "2026-11-21T23:15:21+00:00",
    "title": "Director, Sales Talent Acquisition | United Kingdom | Remote",
    "org": "Grafana Labs",
    "location": "UK"
   },
   "identity and numbering analyst - network api registration|vonage|spain": {
    "first_seen": "2026-11-21T17:31:40+00:00",
-   "last_seen": "2026-11-21T17:31:40+00:00",
+   "last_seen": "2026-11-21T23:15:21+00:00",
    "title": "Identity and Numbering Analyst - Network API Registration",
    "org": "Vonage",
    "location": "Spain"
   },
   "senior security engineer - corporate security|ashby|europe": {
    "first_seen": "2026-11-21T17:31:40+00:00",
-   "last_seen": "2026-11-21T17:31:40+00:00",
+   "last_seen": "2026-11-21T23:15:21+00:00",
    "title": "Senior Security Engineer - Corporate Security",
    "org": "Ashby",
    "location": "Europe"
   },
   "senior technical project manager - vpc|nebius|europe": {
    "first_seen": "2026-11-21T17:31:40+00:00",
-   "last_seen": "2026-11-21T17:31:40+00:00",
+   "last_seen": "2026-11-21T23:15:21+00:00",
    "title": "Senior Technical Project Manager - VPC",
    "org": "Nebius",
    "location": "Europe"
   },
   "consultant neurologist paye|montu uk|uk": {
    "first_seen": "2026-11-21T17:31:40+00:00",
-   "last_seen": "2026-11-21T17:31:40+00:00",
+   "last_seen": "2026-11-21T23:15:21+00:00",
    "title": "Consultant Neurologist PAYE",
    "org": "Montu UK",
    "location": "UK"
   },
   "senior technical project manager - token factory|nebius|europe": {
    "first_seen": "2026-11-21T17:31:40+00:00",
-   "last_seen": "2026-11-21T17:31:40+00:00",
+   "last_seen": "2026-11-21T23:15:21+00:00",
    "title": "Senior Technical Project Manager - Token Factory",
    "org": "Nebius",
    "location": "Europe"
   },
   "customer success manager|semperis|france": {
    "first_seen": "2026-11-21T17:31:40+00:00",
-   "last_seen": "2026-11-21T17:31:40+00:00",
+   "last_seen": "2026-11-21T23:15:21+00:00",
    "title": "Customer Success Manager",
    "org": "Semperis",
    "location": "France"
   },
   "staff security engineer - secops & threats|6sense|usa": {
    "first_seen": "2026-11-21T17:31:40+00:00",
-   "last_seen": "2026-11-21T17:31:40+00:00",
+   "last_seen": "2026-11-21T23:15:21+00:00",
    "title": "Staff Security Engineer - SecOps & Threats",
    "org": "6sense",
    "location": "USA"
   },
   "staff data product manager (machine learning) - canada|nerdwallet|canada": {
    "first_seen": "2026-11-21T17:31:40+00:00",
-   "last_seen": "2026-11-21T17:31:40+00:00",
+   "last_seen": "2026-11-21T23:15:21+00:00",
    "title": "Staff Data Product Manager (Machine Learning) - Canada",
    "org": "NerdWallet",
    "location": "Canada"
   },
   "commercial credit operations manager|stripe|canada, usa": {
    "first_seen": "2026-11-21T17:31:40+00:00",
-   "last_seen": "2026-11-21T17:31:40+00:00",
+   "last_seen": "2026-11-21T23:15:21+00:00",
    "title": "Commercial Credit Operations Manager",
    "org": "Stripe",
    "location": "Canada, USA"
   },
   "staff security engineer - appsec|6sense|usa": {
    "first_seen": "2026-11-21T17:31:40+00:00",
-   "last_seen": "2026-11-21T17:31:40+00:00",
+   "last_seen": "2026-11-21T23:15:21+00:00",
    "title": "Staff Security Engineer - AppSec",
    "org": "6sense",
    "location": "USA"
   },
   "staff data product manager (machine learning)|nerdwallet|usa": {
    "first_seen": "2026-11-21T17:31:40+00:00",
-   "last_seen": "2026-11-21T17:31:40+00:00",
+   "last_seen": "2026-11-21T23:15:21+00:00",
    "title": "Staff Data Product Manager (Machine Learning)",
    "org": "NerdWallet",
    "location": "USA"
   },
   "campaign strategy & operations manager|stripe|usa": {
    "first_seen": "2026-11-21T17:31:40+00:00",
-   "last_seen": "2026-11-21T17:31:40+00:00",
+   "last_seen": "2026-11-21T23:15:21+00:00",
    "title": "Campaign Strategy & Operations Manager",
    "org": "Stripe",
    "location": "USA"
   },
   "sr. product manager|6sense|usa": {
    "first_seen": "2026-11-21T17:31:40+00:00",
-   "last_seen": "2026-11-21T17:31:40+00:00",
+   "last_seen": "2026-11-21T23:15:21+00:00",
    "title": "Sr. Product Manager",
    "org": "6sense",
    "location": "USA"
   },
   "senior technical product manager, ai|teamworks|usa": {
    "first_seen": "2026-11-21T17:31:40+00:00",
-   "last_seen": "2026-11-21T17:31:40+00:00",
+   "last_seen": "2026-11-21T23:15:21+00:00",
    "title": "Senior Technical Product Manager, AI",
    "org": "Teamworks",
    "location": "USA"
   },
   "senior data scientist (applied ml) - canada|nerdwallet|canada": {
    "first_seen": "2026-11-21T17:31:40+00:00",
-   "last_seen": "2026-11-21T17:31:40+00:00",
+   "last_seen": "2026-11-21T23:15:21+00:00",
    "title": "Senior Data Scientist (Applied ML) - Canada",
    "org": "NerdWallet",
    "location": "Canada"
   },
   "briefing content strategist|stripe|usa": {
    "first_seen": "2026-11-21T17:31:40+00:00",
-   "last_seen": "2026-11-21T17:31:40+00:00",
+   "last_seen": "2026-11-21T23:15:21+00:00",
    "title": "Briefing Content Strategist",
    "org": "Stripe",
    "location": "USA"
@@ -5454,6 +5459,139 @@
    "title": "Principal Manager, ML Solutions Architecture - Token Factory",
    "org": "Nebius",
    "location": "Europe"
+  },
+  "senior full stack product software engineer, application platform|dropbox|poland": {
+   "first_seen": "2026-11-21T23:15:21+00:00",
+   "last_seen": "2026-11-21T23:15:21+00:00",
+   "title": "Senior Full Stack Product Software Engineer, Application Platform",
+   "org": "Dropbox",
+   "location": "Poland"
+  },
+  "enterprise sales engineer - france|chainguard|france, uk": {
+   "first_seen": "2026-11-21T23:15:21+00:00",
+   "last_seen": "2026-11-21T23:15:21+00:00",
+   "title": "Enterprise Sales Engineer - France",
+   "org": "Chainguard",
+   "location": "France, UK"
+  },
+  "onboarding manager, france|apaleo|france, germany": {
+   "first_seen": "2026-11-21T23:15:21+00:00",
+   "last_seen": "2026-11-21T23:15:21+00:00",
+   "title": "Onboarding Manager, France",
+   "org": "Apaleo",
+   "location": "France, Germany"
+  },
+  "site contracts manager|precision medicine group|hungary, poland, romania, serbia, slovakia, spain": {
+   "first_seen": "2026-11-21T23:15:21+00:00",
+   "last_seen": "2026-11-21T23:15:21+00:00",
+   "title": "Site Contracts Manager",
+   "org": "Precision Medicine Group",
+   "location": "Hungary, Poland, Romania, Serbia, Slovakia, Spain"
+  },
+  "senior product design manager|lastpass|hungary": {
+   "first_seen": "2026-11-21T23:15:21+00:00",
+   "last_seen": "2026-11-21T23:15:21+00:00",
+   "title": "Senior Product Design Manager",
+   "org": "LastPass",
+   "location": "Hungary"
+  },
+  "account executive|zone &#038; co|uk": {
+   "first_seen": "2026-11-21T23:15:21+00:00",
+   "last_seen": "2026-11-21T23:15:21+00:00",
+   "title": "Account Executive",
+   "org": "Zone &#038; Co",
+   "location": "UK"
+  },
+  "infrastructure software engineer, orchestration|dropbox|poland": {
+   "first_seen": "2026-11-21T23:15:21+00:00",
+   "last_seen": "2026-11-21T23:15:21+00:00",
+   "title": "Infrastructure Software Engineer, Orchestration",
+   "org": "Dropbox",
+   "location": "Poland"
+  },
+  "business development representative, nordics|chainguard|denmark, sweden": {
+   "first_seen": "2026-11-21T23:15:21+00:00",
+   "last_seen": "2026-11-21T23:15:21+00:00",
+   "title": "Business Development Representative, Nordics",
+   "org": "Chainguard",
+   "location": "Denmark, Sweden"
+  },
+  "tongan interpreter|language services associates|usa": {
+   "first_seen": "2026-11-21T23:15:21+00:00",
+   "last_seen": "2026-11-21T23:15:21+00:00",
+   "title": "Tongan Interpreter",
+   "org": "Language Services Associates",
+   "location": "USA"
+  },
+  "senior software engineer, cloud data storage|temporal technologies|usa": {
+   "first_seen": "2026-11-21T23:15:21+00:00",
+   "last_seen": "2026-11-21T23:15:21+00:00",
+   "title": "Senior Software Engineer, Cloud Data Storage",
+   "org": "Temporal Technologies",
+   "location": "USA"
+  },
+  "analytics engineer - campaign intelligence|vtex|brazil": {
+   "first_seen": "2026-11-21T23:15:21+00:00",
+   "last_seen": "2026-11-21T23:15:21+00:00",
+   "title": "Analytics Engineer - Campaign Intelligence",
+   "org": "VTEX",
+   "location": "Brazil"
+  },
+  "director, paid media strategy|walker sands|usa": {
+   "first_seen": "2026-11-21T23:15:21+00:00",
+   "last_seen": "2026-11-21T23:15:21+00:00",
+   "title": "Director, Paid Media Strategy",
+   "org": "Walker Sands",
+   "location": "USA"
+  },
+  "508 compliance specialist|oddball|usa": {
+   "first_seen": "2026-11-21T23:15:21+00:00",
+   "last_seen": "2026-11-21T23:15:21+00:00",
+   "title": "508 Compliance Specialist",
+   "org": "Oddball",
+   "location": "USA"
+  },
+  "forward deployed engineer i (remote, us)|sayari|usa": {
+   "first_seen": "2026-11-21T23:15:21+00:00",
+   "last_seen": "2026-11-21T23:15:21+00:00",
+   "title": "Forward Deployed Engineer I (Remote, US)",
+   "org": "Sayari",
+   "location": "USA"
+  },
+  "customer advocacy contractor|alertmedia|usa": {
+   "first_seen": "2026-11-21T23:15:21+00:00",
+   "last_seen": "2026-11-21T23:15:21+00:00",
+   "title": "Customer Advocacy Contractor",
+   "org": "AlertMedia",
+   "location": "USA"
+  },
+  "quechua interpreter|language services associates|usa": {
+   "first_seen": "2026-11-21T23:15:21+00:00",
+   "last_seen": "2026-11-21T23:15:21+00:00",
+   "title": "Quechua Interpreter",
+   "org": "Language Services Associates",
+   "location": "USA"
+  },
+  "staff software engineer, open source server|temporal technologies|usa": {
+   "first_seen": "2026-11-21T23:15:21+00:00",
+   "last_seen": "2026-11-21T23:15:21+00:00",
+   "title": "Staff Software Engineer, Open Source Server",
+   "org": "Temporal Technologies",
+   "location": "USA"
+  },
+  "director, media strategy|walker sands|usa": {
+   "first_seen": "2026-11-21T23:15:21+00:00",
+   "last_seen": "2026-11-21T23:15:21+00:00",
+   "title": "Director, Media Strategy",
+   "org": "Walker Sands",
+   "location": "USA"
+  },
+  "head of sales, mesopotamia|halter|argentina": {
+   "first_seen": "2026-11-21T23:15:21+00:00",
+   "last_seen": "2026-11-21T23:15:21+00:00",
+   "title": "Head of Sales, Mesopotamia",
+   "org": "Halter",
+   "location": "Argentina"
   }
  }
 }
