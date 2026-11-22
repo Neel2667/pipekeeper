@@ -3,104 +3,104 @@
  "name": "Himalayas \u2014 remote jobs",
  "category": "jobs",
  "source": "https://himalayas.app/jobs/api",
- "collected_at": "2026-11-22T15:16:56+00:00",
+ "collected_at": "2026-11-22T21:45:36+00:00",
  "jobs_on_board": 20,
- "new_this_run": 19,
- "total_tracked": 518,
+ "new_this_run": 20,
+ "total_tracked": 538,
  "jobs": [
   {
-   "title": "Fullstack Engineer",
-   "org": "Creai",
-   "location": "Mexico",
+   "title": "Remote Support Engineer",
+   "org": "Schneider Electric",
+   "location": "India",
    "detail": "Full Time",
    "url": null,
    "new_this_run": true
   },
   {
-   "title": "Sales Manager - DACH",
-   "org": "Cloudbeds",
-   "location": "Austria, Germany, Switzerland",
-   "detail": "Full Time",
-   "url": null,
-   "new_this_run": true
-  },
-  {
-   "title": "Business Systems Analyst - Life Insurance Systems Support",
-   "org": "Mutual Of Omaha",
+   "title": "Regional Director, Enterprise Imaging Systems",
+   "org": "Fujifilm",
    "location": "United States",
-   "detail": "$58,656\u2013$83,000/a",
+   "detail": "$110,000\u2013$328,655/a",
    "url": null,
    "new_this_run": true
   },
   {
-   "title": "Marketing Analyst",
-   "org": "DeVry University",
+   "title": "Talent Support Specialist",
+   "org": "micro1",
+   "location": "remote",
+   "detail": "$15\u2013$20/h",
+   "url": null,
+   "new_this_run": true
+  },
+  {
+   "title": "Account Mgr",
+   "org": "Lifelancer",
    "location": "United States",
-   "detail": "$55,000\u2013$65,000/a",
+   "detail": "$92,300\u2013$230,900/a",
    "url": null,
    "new_this_run": true
   },
   {
-   "title": "Manager of National Accounts",
-   "org": "The Vollrath Company",
-   "location": "United States",
-   "detail": "Full Time",
-   "url": null,
-   "new_this_run": true
-  },
-  {
-   "title": "Supervisor, Escrow Oversight",
-   "org": "Carrington",
-   "location": "United States",
-   "detail": "$60,000\u2013$65,000/a",
-   "url": null,
-   "new_this_run": true
-  },
-  {
-   "title": "Senior DevOps Engineer",
-   "org": "TECDATA ENGINEERING",
-   "location": "Spain",
-   "detail": "$37,000\u2013$37,000/a",
-   "url": null,
-   "new_this_run": true
-  },
-  {
-   "title": "Onboarding Specialist",
-   "org": "ChiroHD",
+   "title": "Entry Level Remote Life Insurance Sales",
+   "org": "The Semler Agency",
    "location": "United States",
    "detail": "Full Time",
    "url": null,
    "new_this_run": true
   },
   {
-   "title": "Study Start-Up Specialist, CRO Services",
-   "org": "NMDP",
+   "title": "Senior Manager, Owner Relations",
+   "org": "Hilton",
    "location": "United States",
+   "detail": "$90,000\u2013$120,000/a",
+   "url": null,
+   "new_this_run": true
+  },
+  {
+   "title": "HR Specialist",
+   "org": "ReWorks Solutions",
+   "location": "South Africa",
    "detail": "Full Time",
    "url": null,
    "new_this_run": true
   },
   {
-   "title": "Specialist, Service Release & Acquisition",
-   "org": "Carrington",
+   "title": "Associate Director, LNS Alliance Management",
+   "org": "Lifelancer",
    "location": "United States",
-   "detail": "$21\u2013$22/h",
+   "detail": "$96,600\u2013$224,200/a",
    "url": null,
    "new_this_run": true
   },
   {
-   "title": "Specialist, Escrow Oversight, V1- Property Tax",
-   "org": "Carrington",
-   "location": "United States",
-   "detail": "$20\u2013$23/h",
+   "title": "Junior Civil Drafting Engineer",
+   "org": "Sharesource Australia BPO Corporation",
+   "location": "Philippines",
+   "detail": "Full Time",
    "url": null,
    "new_this_run": true
   },
   {
-   "title": "AML Investigations Consultant",
-   "org": "Talent Shift",
+   "title": "Cashiering Manager",
+   "org": "Evergreen Home Loans",
    "location": "United States",
-   "detail": "Contractor",
+   "detail": "$58,400\u2013$113,300/a",
+   "url": null,
+   "new_this_run": true
+  },
+  {
+   "title": "Sales Development Representative - Remote",
+   "org": "OnBoard",
+   "location": "Australia",
+   "detail": "Full Time",
+   "url": null,
+   "new_this_run": true
+  },
+  {
+   "title": "Customer Operations Representative",
+   "org": "Zelh",
+   "location": "Serbia, Ukraine",
+   "detail": "Full Time",
    "url": null,
    "new_this_run": true
   }
@@ -245,6 +245,11 @@
    "at": "2026-11-22T15:16:56+00:00",
    "jobs": 20,
    "new": 19
+  },
+  {
+   "at": "2026-11-22T21:45:36+00:00",
+   "jobs": 20,
+   "new": 20
   }
  ],
  "jobs_seen": {
@@ -3873,6 +3878,146 @@
    "title": "Director of Data Systems",
    "org": "Trees for the Future",
    "location": "Kenya, Tanzania, Uganda, United States"
+  },
+  "remote support engineer|schneider electric|india": {
+   "first_seen": "2026-11-22T21:45:36+00:00",
+   "last_seen": "2026-11-22T21:45:36+00:00",
+   "title": "Remote Support Engineer",
+   "org": "Schneider Electric",
+   "location": "India"
+  },
+  "regional director, enterprise imaging systems|fujifilm|united states": {
+   "first_seen": "2026-11-22T21:45:36+00:00",
+   "last_seen": "2026-11-22T21:45:36+00:00",
+   "title": "Regional Director, Enterprise Imaging Systems",
+   "org": "Fujifilm",
+   "location": "United States"
+  },
+  "talent support specialist|micro1|remote": {
+   "first_seen": "2026-11-22T21:45:36+00:00",
+   "last_seen": "2026-11-22T21:45:36+00:00",
+   "title": "Talent Support Specialist",
+   "org": "micro1",
+   "location": "remote"
+  },
+  "account mgr|lifelancer|united states": {
+   "first_seen": "2026-11-22T21:45:36+00:00",
+   "last_seen": "2026-11-22T21:45:36+00:00",
+   "title": "Account Mgr",
+   "org": "Lifelancer",
+   "location": "United States"
+  },
+  "entry level remote life insurance sales|the semler agency|united states": {
+   "first_seen": "2026-11-22T21:45:36+00:00",
+   "last_seen": "2026-11-22T21:45:36+00:00",
+   "title": "Entry Level Remote Life Insurance Sales",
+   "org": "The Semler Agency",
+   "location": "United States"
+  },
+  "senior manager, owner relations|hilton|united states": {
+   "first_seen": "2026-11-22T21:45:36+00:00",
+   "last_seen": "2026-11-22T21:45:36+00:00",
+   "title": "Senior Manager, Owner Relations",
+   "org": "Hilton",
+   "location": "United States"
+  },
+  "hr specialist|reworks solutions|south africa": {
+   "first_seen": "2026-11-22T21:45:36+00:00",
+   "last_seen": "2026-11-22T21:45:36+00:00",
+   "title": "HR Specialist",
+   "org": "ReWorks Solutions",
+   "location": "South Africa"
+  },
+  "associate director, lns alliance management|lifelancer|united states": {
+   "first_seen": "2026-11-22T21:45:36+00:00",
+   "last_seen": "2026-11-22T21:45:36+00:00",
+   "title": "Associate Director, LNS Alliance Management",
+   "org": "Lifelancer",
+   "location": "United States"
+  },
+  "junior civil drafting engineer|sharesource australia bpo corporation|philippines": {
+   "first_seen": "2026-11-22T21:45:36+00:00",
+   "last_seen": "2026-11-22T21:45:36+00:00",
+   "title": "Junior Civil Drafting Engineer",
+   "org": "Sharesource Australia BPO Corporation",
+   "location": "Philippines"
+  },
+  "cashiering manager|evergreen home loans|united states": {
+   "first_seen": "2026-11-22T21:45:36+00:00",
+   "last_seen": "2026-11-22T21:45:36+00:00",
+   "title": "Cashiering Manager",
+   "org": "Evergreen Home Loans",
+   "location": "United States"
+  },
+  "sales development representative - remote|onboard|australia": {
+   "first_seen": "2026-11-22T21:45:36+00:00",
+   "last_seen": "2026-11-22T21:45:36+00:00",
+   "title": "Sales Development Representative - Remote",
+   "org": "OnBoard",
+   "location": "Australia"
+  },
+  "customer operations representative|zelh|serbia, ukraine": {
+   "first_seen": "2026-11-22T21:45:36+00:00",
+   "last_seen": "2026-11-22T21:45:36+00:00",
+   "title": "Customer Operations Representative",
+   "org": "Zelh",
+   "location": "Serbia, Ukraine"
+  },
+  "lead cloud engineer|pythian|united kingdom": {
+   "first_seen": "2026-11-22T21:45:36+00:00",
+   "last_seen": "2026-11-22T21:45:36+00:00",
+   "title": "Lead Cloud Engineer",
+   "org": "Pythian",
+   "location": "United Kingdom"
+  },
+  "director, social media & influencer marketing|vytalogy, llc|united states": {
+   "first_seen": "2026-11-22T21:45:36+00:00",
+   "last_seen": "2026-11-22T21:45:36+00:00",
+   "title": "Director, Social Media & Influencer Marketing",
+   "org": "Vytalogy, LLC",
+   "location": "United States"
+  },
+  "frontend sr. software engineer|navitus health solutions|united states": {
+   "first_seen": "2026-11-22T21:45:36+00:00",
+   "last_seen": "2026-11-22T21:45:36+00:00",
+   "title": "Frontend Sr. Software Engineer",
+   "org": "Navitus Health Solutions",
+   "location": "United States"
+  },
+  "sales specialist cryogenic instruments (all genders) remote|attocube systems ag|united states": {
+   "first_seen": "2026-11-22T21:45:36+00:00",
+   "last_seen": "2026-11-22T21:45:36+00:00",
+   "title": "Sales Specialist Cryogenic Instruments (all genders) Remote",
+   "org": "Attocube Systems AG",
+   "location": "United States"
+  },
+  "senior vice president, commercial servicing|ocwen financial corporation|united states": {
+   "first_seen": "2026-11-22T21:45:36+00:00",
+   "last_seen": "2026-11-22T21:45:36+00:00",
+   "title": "Senior Vice President, Commercial Servicing",
+   "org": "Ocwen Financial Corporation",
+   "location": "United States"
+  },
+  "client service delivery coordinator|trueblue|united states": {
+   "first_seen": "2026-11-22T21:45:36+00:00",
+   "last_seen": "2026-11-22T21:45:36+00:00",
+   "title": "Client Service Delivery Coordinator",
+   "org": "TrueBlue",
+   "location": "United States"
+  },
+  "senior manager, arbitration- remote|us anesthesia partners|united states": {
+   "first_seen": "2026-11-22T21:45:36+00:00",
+   "last_seen": "2026-11-22T21:45:36+00:00",
+   "title": "Senior Manager, Arbitration- Remote",
+   "org": "US Anesthesia Partners",
+   "location": "United States"
+  },
+  "bilingual (french/english) client program specialist|channel fusion|united states": {
+   "first_seen": "2026-11-22T21:45:36+00:00",
+   "last_seen": "2026-11-22T21:45:36+00:00",
+   "title": "Bilingual (French/English) Client Program Specialist",
+   "org": "Channel Fusion",
+   "location": "United States"
   }
  }
 }

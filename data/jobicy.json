@@ -3,105 +3,105 @@
  "name": "Jobicy \u2014 remote jobs",
  "category": "jobs",
  "source": "https://jobicy.com/api/v2/remote-jobs",
- "collected_at": "2026-11-22T15:16:55+00:00",
+ "collected_at": "2026-11-22T21:45:36+00:00",
  "jobs_on_board": 50,
- "new_this_run": 50,
- "total_tracked": 815,
+ "new_this_run": 30,
+ "total_tracked": 845,
  "jobs": [
   {
-   "title": "Account Manager, France & Benelux (M/F/X)",
-   "org": "Plasmidsaurus",
-   "location": "Belgium",
-   "detail": "Any",
-   "url": "https://jobicy.com/jobs/163850-account-manager-france-benelux-m-f-x",
-   "new_this_run": true
-  },
-  {
-   "title": "Senior Customer Success - EMEA",
-   "org": "Filigran",
-   "location": "Europe",
-   "detail": "Senior",
-   "url": "https://jobicy.com/jobs/163849-senior-customer-success-emea",
-   "new_this_run": true
-  },
-  {
-   "title": "Account Manager, DACH (m/f/d)",
-   "org": "Plasmidsaurus",
-   "location": "Germany",
-   "detail": "Any",
-   "url": "https://jobicy.com/jobs/163848-account-manager-dach-m-f-d",
-   "new_this_run": true
-  },
-  {
-   "title": "Commercial Account Executive, Belgium",
-   "org": "Horizon3.ai",
-   "location": "Belgium",
-   "detail": "Director",
-   "url": "https://jobicy.com/jobs/163847-commercial-account-executive-belgium",
-   "new_this_run": true
-  },
-  {
-   "title": "Solutions Integration Architect - Ariba",
-   "org": "Zip",
-   "location": "Germany",
-   "detail": "Any",
-   "url": "https://jobicy.com/jobs/163846-solutions-integration-architect-ariba",
-   "new_this_run": true
-  },
-  {
-   "title": "Principal Security Operations Analyst",
-   "org": "Huntress",
-   "location": "UK",
-   "detail": "Senior",
-   "url": "https://jobicy.com/jobs/163845-principal-security-operations-analyst",
-   "new_this_run": true
-  },
-  {
-   "title": "Sr Account Manager, AMER",
-   "org": "Customer.io",
-   "location": "Canada, USA",
-   "detail": "Senior",
-   "url": "https://jobicy.com/jobs/163844-sr-account-manager-amer",
-   "new_this_run": true
-  },
-  {
-   "title": "Peer Success Manager",
-   "org": "Kaseya",
-   "location": "UK",
-   "detail": "Any",
-   "url": "https://jobicy.com/jobs/163843-peer-success-manager-2",
-   "new_this_run": true
-  },
-  {
-   "title": "Actuary, UK",
-   "org": "Lemonade",
-   "location": "UK",
-   "detail": "Any",
-   "url": "https://jobicy.com/jobs/163842-actuary-uk",
-   "new_this_run": true
-  },
-  {
-   "title": "Lead Instructor, EMEA",
-   "org": "TRM Labs",
-   "location": "EMEA",
-   "detail": "Senior",
-   "url": "https://jobicy.com/jobs/163841-lead-instructor-emea",
-   "new_this_run": true
-  },
-  {
-   "title": "Senior Product Manager, Content Management",
+   "title": "Senior Software Engineer (Platform Engineer), Cloud Governance",
    "org": "VTEX",
    "location": "Brazil",
    "detail": "Senior",
-   "url": "https://jobicy.com/jobs/163840-senior-product-manager-content-management",
+   "url": "https://jobicy.com/jobs/163890-senior-software-engineer-platform-engineer-cloud-governance",
    "new_this_run": true
   },
   {
-   "title": "Tech Lead",
-   "org": "Fever",
+   "title": "Senior Software Engineer, Frontend",
+   "org": "VTEX",
    "location": "Brazil",
    "detail": "Senior",
-   "url": "https://jobicy.com/jobs/163838-tech-lead-3",
+   "url": "https://jobicy.com/jobs/163889-senior-software-engineer-frontend-4",
+   "new_this_run": true
+  },
+  {
+   "title": "Senior Software Engineer, Backend",
+   "org": "VTEX",
+   "location": "Brazil",
+   "detail": "Senior",
+   "url": "https://jobicy.com/jobs/163888-senior-software-engineer-backend-5",
+   "new_this_run": true
+  },
+  {
+   "title": "Talent Acquisition Partner (LATAM)",
+   "org": "Precision Medicine Group",
+   "location": "LATAM",
+   "detail": "Senior",
+   "url": "https://jobicy.com/jobs/163887-talent-acquisition-partner-latam",
+   "new_this_run": true
+  },
+  {
+   "title": "Senior Full-Stack Engineer (React/Next.js) - Media Production",
+   "org": "Truelogic",
+   "location": "Brazil",
+   "detail": "Senior",
+   "url": "https://jobicy.com/jobs/163886-senior-full-stack-engineer-react-next-js-media-production",
+   "new_this_run": true
+  },
+  {
+   "title": "Sr. Clinical Research Associate (Brazil)",
+   "org": "Alimentiv",
+   "location": "Brazil",
+   "detail": "Senior",
+   "url": "https://jobicy.com/jobs/163885-sr-clinical-research-associate-brazil",
+   "new_this_run": true
+  },
+  {
+   "title": "Senior Analytics Specialist",
+   "org": "Qventus",
+   "location": "LATAM",
+   "detail": "Senior",
+   "url": "https://jobicy.com/jobs/163884-senior-analytics-specialist",
+   "new_this_run": true
+  },
+  {
+   "title": "In-House CRA II (Mexico)",
+   "org": "Precision Medicine Group",
+   "location": "Mexico",
+   "detail": "Senior",
+   "url": "https://jobicy.com/jobs/163883-in-house-cra-ii-mexico",
+   "new_this_run": true
+  },
+  {
+   "title": "Junior/Semi-Senior Back-End Engineer (.NET) - IT Solutions",
+   "org": "Truelogic",
+   "location": "Mexico",
+   "detail": "Senior",
+   "url": "https://jobicy.com/jobs/163882-junior-semi-senior-back-end-engineer-net-it-solutions",
+   "new_this_run": true
+  },
+  {
+   "title": "HR Business Partner (HRBP) (1 year limited term)",
+   "org": "Alimentiv",
+   "location": "Brazil",
+   "detail": "Director",
+   "url": "https://jobicy.com/jobs/163881-hr-business-partner-hrbp-1-year-limited-term",
+   "new_this_run": true
+  },
+  {
+   "title": "Sr. Software Engineer II / Tech lead, Agentic Platform (Poland, Remote, B2B)",
+   "org": "Samsara",
+   "location": "Poland",
+   "detail": "Senior",
+   "url": "https://jobicy.com/jobs/163874-sr-software-engineer-ii-tech-lead-agentic-platform-poland-remote-b2b-2",
+   "new_this_run": true
+  },
+  {
+   "title": "Mobile Developer",
+   "org": "BJAK",
+   "location": "Netherlands",
+   "detail": "Any",
+   "url": "https://jobicy.com/jobs/163873-mobile-developer",
    "new_this_run": true
   }
  ],
@@ -245,6 +245,11 @@
    "at": "2026-11-22T15:16:55+00:00",
    "jobs": 50,
    "new": 50
+  },
+  {
+   "at": "2026-11-22T21:45:36+00:00",
+   "jobs": 50,
+   "new": 30
   }
  ],
  "jobs_seen": {
@@ -5605,140 +5610,140 @@
   },
   "account manager, france & benelux (m/f/x)|plasmidsaurus|belgium": {
    "first_seen": "2026-11-22T15:16:55+00:00",
-   "last_seen": "2026-11-22T15:16:55+00:00",
+   "last_seen": "2026-11-22T21:45:36+00:00",
    "title": "Account Manager, France & Benelux (M/F/X)",
    "org": "Plasmidsaurus",
    "location": "Belgium"
   },
   "senior customer success - emea|filigran|europe": {
    "first_seen": "2026-11-22T15:16:55+00:00",
-   "last_seen": "2026-11-22T15:16:55+00:00",
+   "last_seen": "2026-11-22T21:45:36+00:00",
    "title": "Senior Customer Success - EMEA",
    "org": "Filigran",
    "location": "Europe"
   },
   "account manager, dach (m/f/d)|plasmidsaurus|germany": {
    "first_seen": "2026-11-22T15:16:55+00:00",
-   "last_seen": "2026-11-22T15:16:55+00:00",
+   "last_seen": "2026-11-22T21:45:36+00:00",
    "title": "Account Manager, DACH (m/f/d)",
    "org": "Plasmidsaurus",
    "location": "Germany"
   },
   "commercial account executive, belgium|horizon3.ai|belgium": {
    "first_seen": "2026-11-22T15:16:55+00:00",
-   "last_seen": "2026-11-22T15:16:55+00:00",
+   "last_seen": "2026-11-22T21:45:36+00:00",
    "title": "Commercial Account Executive, Belgium",
    "org": "Horizon3.ai",
    "location": "Belgium"
   },
   "solutions integration architect - ariba|zip|germany": {
    "first_seen": "2026-11-22T15:16:55+00:00",
-   "last_seen": "2026-11-22T15:16:55+00:00",
+   "last_seen": "2026-11-22T21:45:36+00:00",
    "title": "Solutions Integration Architect - Ariba",
    "org": "Zip",
    "location": "Germany"
   },
   "principal security operations analyst|huntress|uk": {
    "first_seen": "2026-11-22T15:16:55+00:00",
-   "last_seen": "2026-11-22T15:16:55+00:00",
+   "last_seen": "2026-11-22T21:45:36+00:00",
    "title": "Principal Security Operations Analyst",
    "org": "Huntress",
    "location": "UK"
   },
   "sr account manager, amer|customer.io|canada, usa": {
    "first_seen": "2026-11-22T15:16:55+00:00",
-   "last_seen": "2026-11-22T15:16:55+00:00",
+   "last_seen": "2026-11-22T21:45:36+00:00",
    "title": "Sr Account Manager, AMER",
    "org": "Customer.io",
    "location": "Canada, USA"
   },
   "peer success manager|kaseya|uk": {
    "first_seen": "2026-11-22T15:16:55+00:00",
-   "last_seen": "2026-11-22T15:16:55+00:00",
+   "last_seen": "2026-11-22T21:45:36+00:00",
    "title": "Peer Success Manager",
    "org": "Kaseya",
    "location": "UK"
   },
   "actuary, uk|lemonade|uk": {
    "first_seen": "2026-11-22T15:16:55+00:00",
-   "last_seen": "2026-11-22T15:16:55+00:00",
+   "last_seen": "2026-11-22T21:45:36+00:00",
    "title": "Actuary, UK",
    "org": "Lemonade",
    "location": "UK"
   },
   "lead instructor, emea|trm labs|emea": {
    "first_seen": "2026-11-22T15:16:55+00:00",
-   "last_seen": "2026-11-22T15:16:55+00:00",
+   "last_seen": "2026-11-22T21:45:36+00:00",
    "title": "Lead Instructor, EMEA",
    "org": "TRM Labs",
    "location": "EMEA"
   },
   "senior product manager, content management|vtex|brazil": {
    "first_seen": "2026-11-22T15:16:55+00:00",
-   "last_seen": "2026-11-22T15:16:55+00:00",
+   "last_seen": "2026-11-22T21:45:36+00:00",
    "title": "Senior Product Manager, Content Management",
    "org": "VTEX",
    "location": "Brazil"
   },
   "tech lead|fever|brazil": {
    "first_seen": "2026-11-22T15:16:55+00:00",
-   "last_seen": "2026-11-22T15:16:55+00:00",
+   "last_seen": "2026-11-22T21:45:36+00:00",
    "title": "Tech Lead",
    "org": "Fever",
    "location": "Brazil"
   },
   "customer service agent: spanish (12:00 - 21:00)|fever|brazil": {
    "first_seen": "2026-11-22T15:16:55+00:00",
-   "last_seen": "2026-11-22T15:16:55+00:00",
+   "last_seen": "2026-11-22T21:45:36+00:00",
    "title": "Customer Service Agent: Spanish (12:00 - 21:00)",
    "org": "Fever",
    "location": "Brazil"
   },
   "senior secops engineer|tala|mexico": {
    "first_seen": "2026-11-22T15:16:55+00:00",
-   "last_seen": "2026-11-22T15:16:55+00:00",
+   "last_seen": "2026-11-22T21:45:36+00:00",
    "title": "Senior SecOps Engineer",
    "org": "Tala",
    "location": "Mexico"
   },
   "engineering manager, product discovery & my account experience|vtex|brazil": {
    "first_seen": "2026-11-22T15:16:55+00:00",
-   "last_seen": "2026-11-22T15:16:55+00:00",
+   "last_seen": "2026-11-22T21:45:36+00:00",
    "title": "Engineering Manager, Product Discovery & My Account Experience",
    "org": "VTEX",
    "location": "Brazil"
   },
   "lead creative|superside|latam": {
    "first_seen": "2026-11-22T15:16:55+00:00",
-   "last_seen": "2026-11-22T15:16:55+00:00",
+   "last_seen": "2026-11-22T21:45:36+00:00",
    "title": "Lead Creative",
    "org": "Superside",
    "location": "LATAM"
   },
   "customer service agent: korean (morning shift)|fever|brazil": {
    "first_seen": "2026-11-22T15:16:55+00:00",
-   "last_seen": "2026-11-22T15:16:55+00:00",
+   "last_seen": "2026-11-22T21:45:36+00:00",
    "title": "Customer Service Agent: Korean (morning shift)",
    "org": "Fever",
    "location": "Brazil"
   },
   "customer onboarding operations manager|dandy|mexico": {
    "first_seen": "2026-11-22T15:16:55+00:00",
-   "last_seen": "2026-11-22T15:16:55+00:00",
+   "last_seen": "2026-11-22T21:45:36+00:00",
    "title": "Customer Onboarding Operations Manager",
    "org": "Dandy",
    "location": "Mexico"
   },
   "senior product analyst|tala|mexico": {
    "first_seen": "2026-11-22T15:16:55+00:00",
-   "last_seen": "2026-11-22T15:16:55+00:00",
+   "last_seen": "2026-11-22T21:45:36+00:00",
    "title": "Senior Product Analyst",
    "org": "Tala",
    "location": "Mexico"
   },
   "creative director / associate creative director|superside|latam": {
    "first_seen": "2026-11-22T15:16:55+00:00",
-   "last_seen": "2026-11-22T15:16:55+00:00",
+   "last_seen": "2026-11-22T21:45:36+00:00",
    "title": "Creative Director / Associate Creative Director",
    "org": "Superside",
    "location": "LATAM"
@@ -5952,6 +5957,216 @@
    "title": "Account Manager II",
    "org": "StackAdapt",
    "location": "Australia"
+  },
+  "senior software engineer (platform engineer), cloud governance|vtex|brazil": {
+   "first_seen": "2026-11-22T21:45:36+00:00",
+   "last_seen": "2026-11-22T21:45:36+00:00",
+   "title": "Senior Software Engineer (Platform Engineer), Cloud Governance",
+   "org": "VTEX",
+   "location": "Brazil"
+  },
+  "senior software engineer, frontend|vtex|brazil": {
+   "first_seen": "2026-11-22T21:45:36+00:00",
+   "last_seen": "2026-11-22T21:45:36+00:00",
+   "title": "Senior Software Engineer, Frontend",
+   "org": "VTEX",
+   "location": "Brazil"
+  },
+  "senior software engineer, backend|vtex|brazil": {
+   "first_seen": "2026-11-22T21:45:36+00:00",
+   "last_seen": "2026-11-22T21:45:36+00:00",
+   "title": "Senior Software Engineer, Backend",
+   "org": "VTEX",
+   "location": "Brazil"
+  },
+  "talent acquisition partner (latam)|precision medicine group|latam": {
+   "first_seen": "2026-11-22T21:45:36+00:00",
+   "last_seen": "2026-11-22T21:45:36+00:00",
+   "title": "Talent Acquisition Partner (LATAM)",
+   "org": "Precision Medicine Group",
+   "location": "LATAM"
+  },
+  "senior full-stack engineer (react/next.js) - media production|truelogic|brazil": {
+   "first_seen": "2026-11-22T21:45:36+00:00",
+   "last_seen": "2026-11-22T21:45:36+00:00",
+   "title": "Senior Full-Stack Engineer (React/Next.js) - Media Production",
+   "org": "Truelogic",
+   "location": "Brazil"
+  },
+  "sr. clinical research associate (brazil)|alimentiv|brazil": {
+   "first_seen": "2026-11-22T21:45:36+00:00",
+   "last_seen": "2026-11-22T21:45:36+00:00",
+   "title": "Sr. Clinical Research Associate (Brazil)",
+   "org": "Alimentiv",
+   "location": "Brazil"
+  },
+  "senior analytics specialist|qventus|latam": {
+   "first_seen": "2026-11-22T21:45:36+00:00",
+   "last_seen": "2026-11-22T21:45:36+00:00",
+   "title": "Senior Analytics Specialist",
+   "org": "Qventus",
+   "location": "LATAM"
+  },
+  "in-house cra ii (mexico)|precision medicine group|mexico": {
+   "first_seen": "2026-11-22T21:45:36+00:00",
+   "last_seen": "2026-11-22T21:45:36+00:00",
+   "title": "In-House CRA II (Mexico)",
+   "org": "Precision Medicine Group",
+   "location": "Mexico"
+  },
+  "junior/semi-senior back-end engineer (.net) - it solutions|truelogic|mexico": {
+   "first_seen": "2026-11-22T21:45:36+00:00",
+   "last_seen": "2026-11-22T21:45:36+00:00",
+   "title": "Junior/Semi-Senior Back-End Engineer (.NET) - IT Solutions",
+   "org": "Truelogic",
+   "location": "Mexico"
+  },
+  "hr business partner (hrbp) (1 year limited term)|alimentiv|brazil": {
+   "first_seen": "2026-11-22T21:45:36+00:00",
+   "last_seen": "2026-11-22T21:45:36+00:00",
+   "title": "HR Business Partner (HRBP) (1 year limited term)",
+   "org": "Alimentiv",
+   "location": "Brazil"
+  },
+  "sr. software engineer ii / tech lead, agentic platform (poland, remote, b2b)|samsara|poland": {
+   "first_seen": "2026-11-22T21:45:36+00:00",
+   "last_seen": "2026-11-22T21:45:36+00:00",
+   "title": "Sr. Software Engineer II / Tech lead, Agentic Platform (Poland, Remote, B2B)",
+   "org": "Samsara",
+   "location": "Poland"
+  },
+  "mobile developer|bjak|netherlands": {
+   "first_seen": "2026-11-22T21:45:36+00:00",
+   "last_seen": "2026-11-22T21:45:36+00:00",
+   "title": "Mobile Developer",
+   "org": "BJAK",
+   "location": "Netherlands"
+  },
+  "outbound account development representative - france|samsara|france, germany, netherlands, uk": {
+   "first_seen": "2026-11-22T21:45:36+00:00",
+   "last_seen": "2026-11-22T21:45:36+00:00",
+   "title": "Outbound Account Development Representative - France",
+   "org": "Samsara",
+   "location": "France, Germany, Netherlands, UK"
+  },
+  "product engineer - ai finance|bjak|austria": {
+   "first_seen": "2026-11-22T21:45:36+00:00",
+   "last_seen": "2026-11-22T21:45:36+00:00",
+   "title": "Product Engineer - AI Finance",
+   "org": "BJAK",
+   "location": "Austria"
+  },
+  "outbound account development representative - dach|samsara|germany": {
+   "first_seen": "2026-11-22T21:45:36+00:00",
+   "last_seen": "2026-11-22T21:45:36+00:00",
+   "title": "Outbound Account Development Representative - DACH",
+   "org": "Samsara",
+   "location": "Germany"
+  },
+  "android developer|bjak|austria": {
+   "first_seen": "2026-11-22T21:45:36+00:00",
+   "last_seen": "2026-11-22T21:45:36+00:00",
+   "title": "Android Developer",
+   "org": "BJAK",
+   "location": "Austria"
+  },
+  "inbound account development representative - france|samsara|france": {
+   "first_seen": "2026-11-22T21:45:36+00:00",
+   "last_seen": "2026-11-22T21:45:36+00:00",
+   "title": "Inbound Account Development Representative - France",
+   "org": "Samsara",
+   "location": "France"
+  },
+  "mobile application developer|bjak|austria": {
+   "first_seen": "2026-11-22T21:45:36+00:00",
+   "last_seen": "2026-11-22T21:45:36+00:00",
+   "title": "Mobile Application Developer",
+   "org": "BJAK",
+   "location": "Austria"
+  },
+  "inbound account development representative - dach|samsara|france, germany, netherlands, uk": {
+   "first_seen": "2026-11-22T21:45:36+00:00",
+   "last_seen": "2026-11-22T21:45:36+00:00",
+   "title": "Inbound Account Development Representative - DACH",
+   "org": "Samsara",
+   "location": "France, Germany, Netherlands, UK"
+  },
+  "international benefits manager|lyra health|ireland, uk": {
+   "first_seen": "2026-11-22T21:45:36+00:00",
+   "last_seen": "2026-11-22T21:45:36+00:00",
+   "title": "International Benefits Manager",
+   "org": "Lyra Health",
+   "location": "Ireland, UK"
+  },
+  "senior principal scientist, psychiatry|cogstate|usa": {
+   "first_seen": "2026-11-22T21:45:36+00:00",
+   "last_seen": "2026-11-22T21:45:36+00:00",
+   "title": "Senior Principal Scientist, Psychiatry",
+   "org": "Cogstate",
+   "location": "USA"
+  },
+  "software engineer i (remote eligible)|smartsheet|usa": {
+   "first_seen": "2026-11-22T21:45:36+00:00",
+   "last_seen": "2026-11-22T21:45:36+00:00",
+   "title": "Software Engineer I (Remote Eligible)",
+   "org": "Smartsheet",
+   "location": "USA"
+  },
+  "communications specialist|twilio|usa": {
+   "first_seen": "2026-11-22T21:45:36+00:00",
+   "last_seen": "2026-11-22T21:45:36+00:00",
+   "title": "Communications Specialist",
+   "org": "Twilio",
+   "location": "USA"
+  },
+  "inside sales associate, partnerships|cogstate|usa": {
+   "first_seen": "2026-11-22T21:45:36+00:00",
+   "last_seen": "2026-11-22T21:45:36+00:00",
+   "title": "Inside Sales Associate, Partnerships",
+   "org": "Cogstate",
+   "location": "USA"
+  },
+  "director, finance systems & erp|smartsheet|usa": {
+   "first_seen": "2026-11-22T21:45:36+00:00",
+   "last_seen": "2026-11-22T21:45:36+00:00",
+   "title": "Director, Finance Systems & ERP",
+   "org": "Smartsheet",
+   "location": "USA"
+  },
+  "architect|twilio|usa": {
+   "first_seen": "2026-11-22T21:45:36+00:00",
+   "last_seen": "2026-11-22T21:45:36+00:00",
+   "title": "Architect",
+   "org": "Twilio",
+   "location": "USA"
+  },
+  "senior software engineer|episode six|usa": {
+   "first_seen": "2026-11-22T21:45:36+00:00",
+   "last_seen": "2026-11-22T21:45:36+00:00",
+   "title": "Senior Software Engineer",
+   "org": "Episode Six",
+   "location": "USA"
+  },
+  "financial analyst|cogstate|usa": {
+   "first_seen": "2026-11-22T21:45:36+00:00",
+   "last_seen": "2026-11-22T21:45:36+00:00",
+   "title": "Financial Analyst",
+   "org": "Cogstate",
+   "location": "USA"
+  },
+  "customer support specialist (contract or intern)|eight sleep|usa": {
+   "first_seen": "2026-11-22T21:45:36+00:00",
+   "last_seen": "2026-11-22T21:45:36+00:00",
+   "title": "Customer Support Specialist (Contract or Intern)",
+   "org": "Eight Sleep",
+   "location": "USA"
+  },
+  "staffing associate (contract)|invisible technologies|usa": {
+   "first_seen": "2026-11-22T21:45:36+00:00",
+   "last_seen": "2026-11-22T21:45:36+00:00",
+   "title": "Staffing Associate (Contract)",
+   "org": "Invisible Technologies",
+   "location": "USA"
   }
  }
 }
