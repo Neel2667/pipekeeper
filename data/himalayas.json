@@ -3,104 +3,104 @@
  "name": "Himalayas \u2014 remote jobs",
  "category": "jobs",
  "source": "https://himalayas.app/jobs/api",
- "collected_at": "2026-11-21T23:15:21+00:00",
+ "collected_at": "2026-11-22T06:46:25+00:00",
  "jobs_on_board": 20,
  "new_this_run": 20,
- "total_tracked": 479,
+ "total_tracked": 499,
  "jobs": [
   {
-   "title": "Senior Project Manager - Audio Visual",
-   "org": "Diversified",
+   "title": "Chasseur immobilier / Agent commercial (H/F) - N\u00eemes",
+   "org": "Mon Chasseur Immo",
+   "location": "France",
+   "detail": "$50,000\u2013$75,000/a",
+   "url": null,
+   "new_this_run": true
+  },
+  {
+   "title": "Data Analyst - OpenData Commercial - Asia Pacific",
+   "org": "Veeva Systems",
+   "location": "Taiwan",
+   "detail": "Full Time",
+   "url": null,
+   "new_this_run": true
+  },
+  {
+   "title": "AI Augmented Fullstack | Remote in Mexico",
+   "org": "GSB Solutions",
+   "location": "Mexico",
+   "detail": "$100,000\u2013$100,000/a",
+   "url": null,
+   "new_this_run": true
+  },
+  {
+   "title": "Head of Marketing | $3K-$3.5K Base + performance bonus + Remote | Amazing E-comm",
+   "org": "UPROSPECT",
+   "location": "Anguilla, Antigua and Barbuda, Argentina, Aruba, Bahamas, Barbados, Belize, Bermuda, Bolivia, Bonaire, Sint Eustatius and Saba, Brazil, Cayman Islands, Chile, Colombia, Costa Rica, Cuba, Dominica, Dominican Republic, Ecuador, El Salvador, F",
+   "detail": "$3,000\u2013$3,500/m",
+   "url": null,
+   "new_this_run": true
+  },
+  {
+   "title": "Senior SQL Server Database Administrator \u2013 Advisory Services",
+   "org": "Centrilogic",
    "location": "Canada",
-   "detail": "$100,000\u2013$115,000/a",
-   "url": null,
-   "new_this_run": true
-  },
-  {
-   "title": "Business Development Representative",
-   "org": "Solesis",
-   "location": "United States",
    "detail": "Full Time",
    "url": null,
    "new_this_run": true
   },
   {
-   "title": "Customer Experience Coordinator",
-   "org": "Grimmway Farms",
+   "title": "Principal Project Manager",
+   "org": "Alignment Health",
    "location": "United States",
-   "detail": "$26\u2013$33/h",
+   "detail": "$130,332\u2013$195,498/a",
    "url": null,
    "new_this_run": true
   },
   {
-   "title": "Tagalog Interpreter",
-   "org": "LanguageLine Solutions",
+   "title": "Cisco Secure Access (SSE) Deployment Engineer",
+   "org": "Emerging Tech",
    "location": "United States",
-   "detail": "$15\u2013$17/h",
-   "url": null,
-   "new_this_run": true
-  },
-  {
-   "title": "Principal Product Specialist - AI Security",
-   "org": "Zscaler",
-   "location": "United States",
-   "detail": "$171,500\u2013$245,000/a",
-   "url": null,
-   "new_this_run": true
-  },
-  {
-   "title": "Creative Lead",
-   "org": "Koala",
-   "location": "United States",
-   "detail": "Full Time",
-   "url": null,
-   "new_this_run": true
-  },
-  {
-   "title": "Prompt Qualtity Reviewers for Uzbek",
-   "org": "Welo Global",
-   "location": "Uzbekistan",
    "detail": "Contractor",
    "url": null,
    "new_this_run": true
   },
   {
-   "title": "Senior Security Engineer",
-   "org": "SecurityScorecard",
-   "location": "Argentina, Brazil, United States",
-   "detail": "$200,000\u2013$250,000/a",
-   "url": null,
-   "new_this_run": true
-  },
-  {
-   "title": "Italian Voice Actors Needed for Three Hour Recording Project",
-   "org": "Lifted (an Upwork Company)",
-   "location": "Italy",
-   "detail": "Contractor",
-   "url": null,
-   "new_this_run": true
-  },
-  {
-   "title": "Customer Success Manager (Multinacional)",
-   "org": "VISEO - Spain",
-   "location": "Spain",
+   "title": "Professional Services Technical Architect - West",
+   "org": "GitLab",
+   "location": "Canada",
    "detail": "Full Time",
    "url": null,
    "new_this_run": true
   },
   {
-   "title": "Manager, Partner Success",
-   "org": "Noodle",
-   "location": "United States",
-   "detail": "$68,000\u2013$75,000/a",
+   "title": "Software Engineer (Golang)",
+   "org": "Gcore",
+   "location": "Cyprus, Poland, Serbia",
+   "detail": "Full Time",
    "url": null,
    "new_this_run": true
   },
   {
-   "title": "Senior Software Engineer \u2013 AI & Business Applications",
-   "org": "Landscape Forms",
+   "title": "AI Engineer, Specialist - Remote",
+   "org": "Community Health Systems",
    "location": "United States",
    "detail": "Full Time",
+   "url": null,
+   "new_this_run": true
+  },
+  {
+   "title": "Out of hours, Senior Entertainment Travel Consultant (UK, London, Virtual, EUROP",
+   "org": "BCD Travel",
+   "location": "United Kingdom",
+   "detail": "Full Time",
+   "url": null,
+   "new_this_run": true
+  },
+  {
+   "title": "Senior GRC Engineer",
+   "org": "Arkestro",
+   "location": "United States",
+   "detail": "$130,000\u2013$150,000/a",
    "url": null,
    "new_this_run": true
   }
@@ -233,6 +233,11 @@
   },
   {
    "at": "2026-11-21T23:15:21+00:00",
+   "jobs": 20,
+   "new": 20
+  },
+  {
+   "at": "2026-11-22T06:46:25+00:00",
    "jobs": 20,
    "new": 20
   }
@@ -3590,6 +3595,146 @@
    "title": "AI Data Specialist - Danish",
    "org": "RWS Group",
    "location": "Denmark"
+  },
+  "chasseur immobilier / agent commercial (h/f) - n\u00eemes|mon chasseur immo|france": {
+   "first_seen": "2026-11-22T06:46:25+00:00",
+   "last_seen": "2026-11-22T06:46:25+00:00",
+   "title": "Chasseur immobilier / Agent commercial (H/F) - N\u00eemes",
+   "org": "Mon Chasseur Immo",
+   "location": "France"
+  },
+  "data analyst - opendata commercial - asia pacific|veeva systems|taiwan": {
+   "first_seen": "2026-11-22T06:46:25+00:00",
+   "last_seen": "2026-11-22T06:46:25+00:00",
+   "title": "Data Analyst - OpenData Commercial - Asia Pacific",
+   "org": "Veeva Systems",
+   "location": "Taiwan"
+  },
+  "ai augmented fullstack | remote in mexico|gsb solutions|mexico": {
+   "first_seen": "2026-11-22T06:46:25+00:00",
+   "last_seen": "2026-11-22T06:46:25+00:00",
+   "title": "AI Augmented Fullstack | Remote in Mexico",
+   "org": "GSB Solutions",
+   "location": "Mexico"
+  },
+  "head of marketing | $3k-$3.5k base + performance bonus + remote | amazing e-comm|uprospect|anguilla, antigua and barbuda, argentina, aruba, bahamas, barbados, belize, bermuda, bolivia, bonaire, sint eustatius an": {
+   "first_seen": "2026-11-22T06:46:25+00:00",
+   "last_seen": "2026-11-22T06:46:25+00:00",
+   "title": "Head of Marketing | $3K-$3.5K Base + performance bonus + Remote | Amazing E-comm",
+   "org": "UPROSPECT",
+   "location": "Anguilla, Antigua and Barbuda, Argentina, Aruba, Bahamas, Barbados, Belize, Bermuda, Bolivia, Bonaire, Sint Eustatius and Saba, Brazil, Cayman Islands, Chile, Colombia, Costa Rica, Cuba, Dominica, Dominican Republic, Ecuador, El Salvador, F"
+  },
+  "senior sql server database administrator \u2013 advisory services|centrilogic|canada": {
+   "first_seen": "2026-11-22T06:46:25+00:00",
+   "last_seen": "2026-11-22T06:46:25+00:00",
+   "title": "Senior SQL Server Database Administrator \u2013 Advisory Services",
+   "org": "Centrilogic",
+   "location": "Canada"
+  },
+  "principal project manager|alignment health|united states": {
+   "first_seen": "2026-11-22T06:46:25+00:00",
+   "last_seen": "2026-11-22T06:46:25+00:00",
+   "title": "Principal Project Manager",
+   "org": "Alignment Health",
+   "location": "United States"
+  },
+  "cisco secure access (sse) deployment engineer|emerging tech|united states": {
+   "first_seen": "2026-11-22T06:46:25+00:00",
+   "last_seen": "2026-11-22T06:46:25+00:00",
+   "title": "Cisco Secure Access (SSE) Deployment Engineer",
+   "org": "Emerging Tech",
+   "location": "United States"
+  },
+  "professional services technical architect - west|gitlab|canada": {
+   "first_seen": "2026-11-22T06:46:25+00:00",
+   "last_seen": "2026-11-22T06:46:25+00:00",
+   "title": "Professional Services Technical Architect - West",
+   "org": "GitLab",
+   "location": "Canada"
+  },
+  "software engineer (golang)|gcore|cyprus, poland, serbia": {
+   "first_seen": "2026-11-22T06:46:25+00:00",
+   "last_seen": "2026-11-22T06:46:25+00:00",
+   "title": "Software Engineer (Golang)",
+   "org": "Gcore",
+   "location": "Cyprus, Poland, Serbia"
+  },
+  "ai engineer, specialist - remote|community health systems|united states": {
+   "first_seen": "2026-11-22T06:46:25+00:00",
+   "last_seen": "2026-11-22T06:46:25+00:00",
+   "title": "AI Engineer, Specialist - Remote",
+   "org": "Community Health Systems",
+   "location": "United States"
+  },
+  "out of hours, senior entertainment travel consultant (uk, london, virtual, europ|bcd travel|united kingdom": {
+   "first_seen": "2026-11-22T06:46:25+00:00",
+   "last_seen": "2026-11-22T06:46:25+00:00",
+   "title": "Out of hours, Senior Entertainment Travel Consultant (UK, London, Virtual, EUROP",
+   "org": "BCD Travel",
+   "location": "United Kingdom"
+  },
+  "senior grc engineer|arkestro|united states": {
+   "first_seen": "2026-11-22T06:46:25+00:00",
+   "last_seen": "2026-11-22T06:46:25+00:00",
+   "title": "Senior GRC Engineer",
+   "org": "Arkestro",
+   "location": "United States"
+  },
+  "senior account executive - new business|talentus global|united states": {
+   "first_seen": "2026-11-22T06:46:25+00:00",
+   "last_seen": "2026-11-22T06:46:25+00:00",
+   "title": "Senior Account Executive - New Business",
+   "org": "Talentus Global",
+   "location": "United States"
+  },
+  "talent acquisition partner - freelance (remote - spain)|merlin digital partner|spain": {
+   "first_seen": "2026-11-22T06:46:25+00:00",
+   "last_seen": "2026-11-22T06:46:25+00:00",
+   "title": "Talent Acquisition Partner - Freelance (Remote - Spain)",
+   "org": "Merlin Digital Partner",
+   "location": "Spain"
+  },
+  "regional manager|installation made easy|united states": {
+   "first_seen": "2026-11-22T06:46:25+00:00",
+   "last_seen": "2026-11-22T06:46:25+00:00",
+   "title": "Regional Manager",
+   "org": "Installation Made Easy",
+   "location": "United States"
+  },
+  "fleet underwriter|hdvi|united states": {
+   "first_seen": "2026-11-22T06:46:25+00:00",
+   "last_seen": "2026-11-22T06:46:25+00:00",
+   "title": "Fleet Underwriter",
+   "org": "HDVI",
+   "location": "United States"
+  },
+  "director, internal audit|the child center of ny|united states": {
+   "first_seen": "2026-11-22T06:46:25+00:00",
+   "last_seen": "2026-11-22T06:46:25+00:00",
+   "title": "Director, Internal Audit",
+   "org": "The Child Center of NY",
+   "location": "United States"
+  },
+  "azure cloud engineer|t-rex solutions, llc|united states": {
+   "first_seen": "2026-11-22T06:46:25+00:00",
+   "last_seen": "2026-11-22T06:46:25+00:00",
+   "title": "Azure Cloud Engineer",
+   "org": "T-Rex Solutions, LLC",
+   "location": "United States"
+  },
+  "native mandarin for ai training|lifted (an upwork company)|taiwan": {
+   "first_seen": "2026-11-22T06:46:25+00:00",
+   "last_seen": "2026-11-22T06:46:25+00:00",
+   "title": "Native Mandarin for AI Training",
+   "org": "Lifted (an Upwork Company)",
+   "location": "Taiwan"
+  },
+  "it operations specialist (account operations)|company|ukraine": {
+   "first_seen": "2026-11-22T06:46:25+00:00",
+   "last_seen": "2026-11-22T06:46:25+00:00",
+   "title": "IT Operations Specialist (Account Operations)",
+   "org": "Company",
+   "location": "Ukraine"
   }
  }
 }
