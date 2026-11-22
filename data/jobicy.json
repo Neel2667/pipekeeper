@@ -3,106 +3,106 @@
  "name": "Jobicy \u2014 remote jobs",
  "category": "jobs",
  "source": "https://jobicy.com/api/v2/remote-jobs",
- "collected_at": "2026-11-22T06:46:25+00:00",
+ "collected_at": "2026-11-22T15:16:55+00:00",
  "jobs_on_board": 50,
- "new_this_run": 0,
- "total_tracked": 765,
+ "new_this_run": 50,
+ "total_tracked": 815,
  "jobs": [
   {
-   "title": "CLX Property Advocate, UK",
+   "title": "Account Manager, France & Benelux (M/F/X)",
+   "org": "Plasmidsaurus",
+   "location": "Belgium",
+   "detail": "Any",
+   "url": "https://jobicy.com/jobs/163850-account-manager-france-benelux-m-f-x",
+   "new_this_run": true
+  },
+  {
+   "title": "Senior Customer Success - EMEA",
+   "org": "Filigran",
+   "location": "Europe",
+   "detail": "Senior",
+   "url": "https://jobicy.com/jobs/163849-senior-customer-success-emea",
+   "new_this_run": true
+  },
+  {
+   "title": "Account Manager, DACH (m/f/d)",
+   "org": "Plasmidsaurus",
+   "location": "Germany",
+   "detail": "Any",
+   "url": "https://jobicy.com/jobs/163848-account-manager-dach-m-f-d",
+   "new_this_run": true
+  },
+  {
+   "title": "Commercial Account Executive, Belgium",
+   "org": "Horizon3.ai",
+   "location": "Belgium",
+   "detail": "Director",
+   "url": "https://jobicy.com/jobs/163847-commercial-account-executive-belgium",
+   "new_this_run": true
+  },
+  {
+   "title": "Solutions Integration Architect - Ariba",
+   "org": "Zip",
+   "location": "Germany",
+   "detail": "Any",
+   "url": "https://jobicy.com/jobs/163846-solutions-integration-architect-ariba",
+   "new_this_run": true
+  },
+  {
+   "title": "Principal Security Operations Analyst",
+   "org": "Huntress",
+   "location": "UK",
+   "detail": "Senior",
+   "url": "https://jobicy.com/jobs/163845-principal-security-operations-analyst",
+   "new_this_run": true
+  },
+  {
+   "title": "Sr Account Manager, AMER",
+   "org": "Customer.io",
+   "location": "Canada, USA",
+   "detail": "Senior",
+   "url": "https://jobicy.com/jobs/163844-sr-account-manager-amer",
+   "new_this_run": true
+  },
+  {
+   "title": "Peer Success Manager",
+   "org": "Kaseya",
+   "location": "UK",
+   "detail": "Any",
+   "url": "https://jobicy.com/jobs/163843-peer-success-manager-2",
+   "new_this_run": true
+  },
+  {
+   "title": "Actuary, UK",
    "org": "Lemonade",
    "location": "UK",
    "detail": "Any",
-   "url": "https://jobicy.com/jobs/163717-clx-property-advocate-uk-2",
-   "new_this_run": false
+   "url": "https://jobicy.com/jobs/163842-actuary-uk",
+   "new_this_run": true
   },
   {
-   "title": "Senior Full Stack Product Software Engineer, Application Platform",
-   "org": "Dropbox",
-   "location": "Poland",
-   "detail": "Director",
-   "url": "https://jobicy.com/jobs/163716-senior-full-stack-product-software-engineer-application-platform",
-   "new_this_run": false
-  },
-  {
-   "title": "Enterprise Sales Engineer - France",
-   "org": "Chainguard",
-   "location": "France, UK",
+   "title": "Lead Instructor, EMEA",
+   "org": "TRM Labs",
+   "location": "EMEA",
    "detail": "Senior",
-   "url": "https://jobicy.com/jobs/163715-enterprise-sales-engineer-france-2",
-   "new_this_run": false
+   "url": "https://jobicy.com/jobs/163841-lead-instructor-emea",
+   "new_this_run": true
   },
   {
-   "title": "Onboarding Manager, France",
-   "org": "Apaleo",
-   "location": "France, Germany",
+   "title": "Senior Product Manager, Content Management",
+   "org": "VTEX",
+   "location": "Brazil",
    "detail": "Senior",
-   "url": "https://jobicy.com/jobs/163714-onboarding-manager-france",
-   "new_this_run": false
+   "url": "https://jobicy.com/jobs/163840-senior-product-manager-content-management",
+   "new_this_run": true
   },
   {
-   "title": "Site Contracts Manager",
-   "org": "Precision Medicine Group",
-   "location": "Hungary, Poland, Romania, Serbia, Slovakia, Spain",
-   "detail": "Any",
-   "url": "https://jobicy.com/jobs/163713-site-contracts-manager-2",
-   "new_this_run": false
-  },
-  {
-   "title": "Senior Product Design Manager",
-   "org": "LastPass",
-   "location": "Hungary",
-   "detail": "Director",
-   "url": "https://jobicy.com/jobs/163712-senior-product-design-manager",
-   "new_this_run": false
-  },
-  {
-   "title": "Account Executive",
-   "org": "Zone &#038; Co",
-   "location": "UK",
-   "detail": "Director",
-   "url": "https://jobicy.com/jobs/163711-account-executive-40",
-   "new_this_run": false
-  },
-  {
-   "title": "Actuarial Associate, UK",
-   "org": "Lemonade",
-   "location": "UK",
-   "detail": "Any",
-   "url": "https://jobicy.com/jobs/163710-actuarial-associate-uk-2",
-   "new_this_run": false
-  },
-  {
-   "title": "Infrastructure Software Engineer, Orchestration",
-   "org": "Dropbox",
-   "location": "Poland",
-   "detail": "Director",
-   "url": "https://jobicy.com/jobs/163709-infrastructure-software-engineer-orchestration",
-   "new_this_run": false
-  },
-  {
-   "title": "Business Development Representative, Nordics",
-   "org": "Chainguard",
-   "location": "Denmark, Sweden",
+   "title": "Tech Lead",
+   "org": "Fever",
+   "location": "Brazil",
    "detail": "Senior",
-   "url": "https://jobicy.com/jobs/163708-business-development-representative-nordics-2",
-   "new_this_run": false
-  },
-  {
-   "title": "Tongan Interpreter",
-   "org": "Language Services Associates",
-   "location": "USA",
-   "detail": "Any",
-   "url": "https://jobicy.com/jobs/163707-tongan-interpreter",
-   "new_this_run": false
-  },
-  {
-   "title": "Senior Software Engineer, Cloud Data Storage",
-   "org": "Temporal Technologies",
-   "location": "USA",
-   "detail": "Senior",
-   "url": "https://jobicy.com/jobs/163706-senior-software-engineer-cloud-data-storage",
-   "new_this_run": false
+   "url": "https://jobicy.com/jobs/163838-tech-lead-3",
+   "new_this_run": true
   }
  ],
  "runs": [
@@ -240,6 +240,11 @@
    "at": "2026-11-22T06:46:25+00:00",
    "jobs": 50,
    "new": 0
+  },
+  {
+   "at": "2026-11-22T15:16:55+00:00",
+   "jobs": 50,
+   "new": 50
   }
  ],
  "jobs_seen": {
@@ -5597,6 +5602,356 @@
    "title": "Head of Sales, Mesopotamia",
    "org": "Halter",
    "location": "Argentina"
+  },
+  "account manager, france & benelux (m/f/x)|plasmidsaurus|belgium": {
+   "first_seen": "2026-11-22T15:16:55+00:00",
+   "last_seen": "2026-11-22T15:16:55+00:00",
+   "title": "Account Manager, France & Benelux (M/F/X)",
+   "org": "Plasmidsaurus",
+   "location": "Belgium"
+  },
+  "senior customer success - emea|filigran|europe": {
+   "first_seen": "2026-11-22T15:16:55+00:00",
+   "last_seen": "2026-11-22T15:16:55+00:00",
+   "title": "Senior Customer Success - EMEA",
+   "org": "Filigran",
+   "location": "Europe"
+  },
+  "account manager, dach (m/f/d)|plasmidsaurus|germany": {
+   "first_seen": "2026-11-22T15:16:55+00:00",
+   "last_seen": "2026-11-22T15:16:55+00:00",
+   "title": "Account Manager, DACH (m/f/d)",
+   "org": "Plasmidsaurus",
+   "location": "Germany"
+  },
+  "commercial account executive, belgium|horizon3.ai|belgium": {
+   "first_seen": "2026-11-22T15:16:55+00:00",
+   "last_seen": "2026-11-22T15:16:55+00:00",
+   "title": "Commercial Account Executive, Belgium",
+   "org": "Horizon3.ai",
+   "location": "Belgium"
+  },
+  "solutions integration architect - ariba|zip|germany": {
+   "first_seen": "2026-11-22T15:16:55+00:00",
+   "last_seen": "2026-11-22T15:16:55+00:00",
+   "title": "Solutions Integration Architect - Ariba",
+   "org": "Zip",
+   "location": "Germany"
+  },
+  "principal security operations analyst|huntress|uk": {
+   "first_seen": "2026-11-22T15:16:55+00:00",
+   "last_seen": "2026-11-22T15:16:55+00:00",
+   "title": "Principal Security Operations Analyst",
+   "org": "Huntress",
+   "location": "UK"
+  },
+  "sr account manager, amer|customer.io|canada, usa": {
+   "first_seen": "2026-11-22T15:16:55+00:00",
+   "last_seen": "2026-11-22T15:16:55+00:00",
+   "title": "Sr Account Manager, AMER",
+   "org": "Customer.io",
+   "location": "Canada, USA"
+  },
+  "peer success manager|kaseya|uk": {
+   "first_seen": "2026-11-22T15:16:55+00:00",
+   "last_seen": "2026-11-22T15:16:55+00:00",
+   "title": "Peer Success Manager",
+   "org": "Kaseya",
+   "location": "UK"
+  },
+  "actuary, uk|lemonade|uk": {
+   "first_seen": "2026-11-22T15:16:55+00:00",
+   "last_seen": "2026-11-22T15:16:55+00:00",
+   "title": "Actuary, UK",
+   "org": "Lemonade",
+   "location": "UK"
+  },
+  "lead instructor, emea|trm labs|emea": {
+   "first_seen": "2026-11-22T15:16:55+00:00",
+   "last_seen": "2026-11-22T15:16:55+00:00",
+   "title": "Lead Instructor, EMEA",
+   "org": "TRM Labs",
+   "location": "EMEA"
+  },
+  "senior product manager, content management|vtex|brazil": {
+   "first_seen": "2026-11-22T15:16:55+00:00",
+   "last_seen": "2026-11-22T15:16:55+00:00",
+   "title": "Senior Product Manager, Content Management",
+   "org": "VTEX",
+   "location": "Brazil"
+  },
+  "tech lead|fever|brazil": {
+   "first_seen": "2026-11-22T15:16:55+00:00",
+   "last_seen": "2026-11-22T15:16:55+00:00",
+   "title": "Tech Lead",
+   "org": "Fever",
+   "location": "Brazil"
+  },
+  "customer service agent: spanish (12:00 - 21:00)|fever|brazil": {
+   "first_seen": "2026-11-22T15:16:55+00:00",
+   "last_seen": "2026-11-22T15:16:55+00:00",
+   "title": "Customer Service Agent: Spanish (12:00 - 21:00)",
+   "org": "Fever",
+   "location": "Brazil"
+  },
+  "senior secops engineer|tala|mexico": {
+   "first_seen": "2026-11-22T15:16:55+00:00",
+   "last_seen": "2026-11-22T15:16:55+00:00",
+   "title": "Senior SecOps Engineer",
+   "org": "Tala",
+   "location": "Mexico"
+  },
+  "engineering manager, product discovery & my account experience|vtex|brazil": {
+   "first_seen": "2026-11-22T15:16:55+00:00",
+   "last_seen": "2026-11-22T15:16:55+00:00",
+   "title": "Engineering Manager, Product Discovery & My Account Experience",
+   "org": "VTEX",
+   "location": "Brazil"
+  },
+  "lead creative|superside|latam": {
+   "first_seen": "2026-11-22T15:16:55+00:00",
+   "last_seen": "2026-11-22T15:16:55+00:00",
+   "title": "Lead Creative",
+   "org": "Superside",
+   "location": "LATAM"
+  },
+  "customer service agent: korean (morning shift)|fever|brazil": {
+   "first_seen": "2026-11-22T15:16:55+00:00",
+   "last_seen": "2026-11-22T15:16:55+00:00",
+   "title": "Customer Service Agent: Korean (morning shift)",
+   "org": "Fever",
+   "location": "Brazil"
+  },
+  "customer onboarding operations manager|dandy|mexico": {
+   "first_seen": "2026-11-22T15:16:55+00:00",
+   "last_seen": "2026-11-22T15:16:55+00:00",
+   "title": "Customer Onboarding Operations Manager",
+   "org": "Dandy",
+   "location": "Mexico"
+  },
+  "senior product analyst|tala|mexico": {
+   "first_seen": "2026-11-22T15:16:55+00:00",
+   "last_seen": "2026-11-22T15:16:55+00:00",
+   "title": "Senior Product Analyst",
+   "org": "Tala",
+   "location": "Mexico"
+  },
+  "creative director / associate creative director|superside|latam": {
+   "first_seen": "2026-11-22T15:16:55+00:00",
+   "last_seen": "2026-11-22T15:16:55+00:00",
+   "title": "Creative Director / Associate Creative Director",
+   "org": "Superside",
+   "location": "LATAM"
+  },
+  "clinical operations lead (eu)|alimentiv|europe": {
+   "first_seen": "2026-11-22T15:16:55+00:00",
+   "last_seen": "2026-11-22T15:16:55+00:00",
+   "title": "Clinical Operations Lead (EU)",
+   "org": "Alimentiv",
+   "location": "Europe"
+  },
+  "crux - video and audio qa - french (france)|welo global|france": {
+   "first_seen": "2026-11-22T15:16:55+00:00",
+   "last_seen": "2026-11-22T15:16:55+00:00",
+   "title": "Crux - Video and Audio QA - French (France)",
+   "org": "Welo Global",
+   "location": "France"
+  },
+  "clinical compliance specialist|alimentiv|canada, poland, portugal, romania": {
+   "first_seen": "2026-11-22T15:16:55+00:00",
+   "last_seen": "2026-11-22T15:16:55+00:00",
+   "title": "Clinical Compliance Specialist",
+   "org": "Alimentiv",
+   "location": "Canada, Poland, Portugal, Romania"
+  },
+  "staff infrastructure engineer | feeld|gt|brazil, poland": {
+   "first_seen": "2026-11-22T15:16:55+00:00",
+   "last_seen": "2026-11-22T15:16:55+00:00",
+   "title": "Staff Infrastructure Engineer | Feeld",
+   "org": "GT",
+   "location": "Brazil, Poland"
+  },
+  "andromeda delta - audio transcription qa turkish (turkey)|welo global|t\u00fcrkiye": {
+   "first_seen": "2026-11-22T15:16:55+00:00",
+   "last_seen": "2026-11-22T15:16:55+00:00",
+   "title": "Andromeda Delta - Audio Transcription QA Turkish (Turkey)",
+   "org": "Welo Global",
+   "location": "T\u00fcrkiye"
+  },
+  "technical account manager - c-uas|axon|belgium": {
+   "first_seen": "2026-11-22T15:16:55+00:00",
+   "last_seen": "2026-11-22T15:16:55+00:00",
+   "title": "Technical Account Manager - C-UAS",
+   "org": "Axon",
+   "location": "Belgium"
+  },
+  "technical account manager|axon|germany": {
+   "first_seen": "2026-11-22T15:16:55+00:00",
+   "last_seen": "2026-11-22T15:16:55+00:00",
+   "title": "Technical Account Manager",
+   "org": "Axon",
+   "location": "Germany"
+  },
+  "general manager, communication, media, entertainment and technology|toptal|uk": {
+   "first_seen": "2026-11-22T15:16:55+00:00",
+   "last_seen": "2026-11-22T15:16:55+00:00",
+   "title": "General Manager, Communication, Media, Entertainment and Technology",
+   "org": "Toptal",
+   "location": "UK"
+  },
+  "software engineer (remote - contractor)|masabi|romania": {
+   "first_seen": "2026-11-22T15:16:55+00:00",
+   "last_seen": "2026-11-22T15:16:55+00:00",
+   "title": "Software Engineer (Remote - Contractor)",
+   "org": "Masabi",
+   "location": "Romania"
+  },
+  "senior legal operations executive (fully remote!)|binance|hong kong, singapore, uae, uk": {
+   "first_seen": "2026-11-22T15:16:55+00:00",
+   "last_seen": "2026-11-22T15:16:55+00:00",
+   "title": "Senior Legal Operations Executive (fully remote!)",
+   "org": "Binance",
+   "location": "Hong Kong, Singapore, UAE, UK"
+  },
+  "customer success producer (south korea)|aghanim|south korea": {
+   "first_seen": "2026-11-22T15:16:55+00:00",
+   "last_seen": "2026-11-22T15:16:55+00:00",
+   "title": "Customer Success Producer (South Korea)",
+   "org": "Aghanim",
+   "location": "South Korea"
+  },
+  "lead recruiter (corporate functions)|bjak|singapore": {
+   "first_seen": "2026-11-22T15:16:55+00:00",
+   "last_seen": "2026-11-22T15:16:55+00:00",
+   "title": "Lead Recruiter (Corporate Functions)",
+   "org": "BJAK",
+   "location": "Singapore"
+  },
+  "sales director|fivetran|apac": {
+   "first_seen": "2026-11-22T15:16:55+00:00",
+   "last_seen": "2026-11-22T15:16:55+00:00",
+   "title": "Sales Director",
+   "org": "Fivetran",
+   "location": "APAC"
+  },
+  "customer success producer (china)|aghanim|china": {
+   "first_seen": "2026-11-22T15:16:55+00:00",
+   "last_seen": "2026-11-22T15:16:55+00:00",
+   "title": "Customer Success Producer (China)",
+   "org": "Aghanim",
+   "location": "China"
+  },
+  "solutions engineer, singapore|cribl|singapore": {
+   "first_seen": "2026-11-22T15:16:55+00:00",
+   "last_seen": "2026-11-22T15:16:55+00:00",
+   "title": "Solutions Engineer, Singapore",
+   "org": "Cribl",
+   "location": "Singapore"
+  },
+  "performance marketing lead (user acquisition)|bjak|singapore": {
+   "first_seen": "2026-11-22T15:16:55+00:00",
+   "last_seen": "2026-11-22T15:16:55+00:00",
+   "title": "Performance Marketing Lead (User Acquisition)",
+   "org": "BJAK",
+   "location": "Singapore"
+  },
+  "senior manager, strategic accounts - asia|twilio|singapore": {
+   "first_seen": "2026-11-22T15:16:55+00:00",
+   "last_seen": "2026-11-22T15:16:55+00:00",
+   "title": "Senior Manager, Strategic Accounts - Asia",
+   "org": "Twilio",
+   "location": "Singapore"
+  },
+  "partner sales manager|fivetran|japan": {
+   "first_seen": "2026-11-22T15:16:55+00:00",
+   "last_seen": "2026-11-22T15:16:55+00:00",
+   "title": "Partner Sales Manager",
+   "org": "Fivetran",
+   "location": "Japan"
+  },
+  "customer success producer (japan)|aghanim|japan": {
+   "first_seen": "2026-11-22T15:16:55+00:00",
+   "last_seen": "2026-11-22T15:16:55+00:00",
+   "title": "Customer Success Producer (Japan)",
+   "org": "Aghanim",
+   "location": "Japan"
+  },
+  "regional sales director, singapore|cribl|singapore": {
+   "first_seen": "2026-11-22T15:16:55+00:00",
+   "last_seen": "2026-11-22T15:16:55+00:00",
+   "title": "Regional Sales Director, Singapore",
+   "org": "Cribl",
+   "location": "Singapore"
+  },
+  "sales manager, anz|cloudbeds|australia, new zealand": {
+   "first_seen": "2026-11-22T15:16:55+00:00",
+   "last_seen": "2026-11-22T15:16:55+00:00",
+   "title": "Sales Manager, ANZ",
+   "org": "Cloudbeds",
+   "location": "Australia, New Zealand"
+  },
+  "english to belarusian review lead for ui, marketing & product content|welo global|argentina, australia, austria, belgium, brazil, bulgaria, canada, china, costa rica, croatia, czechia, denmark, finland,": {
+   "first_seen": "2026-11-22T15:16:55+00:00",
+   "last_seen": "2026-11-22T15:16:55+00:00",
+   "title": "English to Belarusian Review Lead for UI, Marketing & Product Content",
+   "org": "Welo Global",
+   "location": "Argentina, Australia, Austria, Belgium, Brazil, Bulgaria, Canada, China, Costa Rica, Croatia, Czechia, Denmark, Finland, France, Germany, Greece, Hong Kong, Hungary, Ireland, Israel, Italy, Japan, Lithuania, Malaysia, Mexico, Netherlands, N"
+  },
+  "founder's office lead|bjak|singapore": {
+   "first_seen": "2026-11-22T15:16:55+00:00",
+   "last_seen": "2026-11-22T15:16:55+00:00",
+   "title": "Founder's Office Lead",
+   "org": "BJAK",
+   "location": "Singapore"
+  },
+  "data services import analyst|cloudbeds|philippines": {
+   "first_seen": "2026-11-22T15:16:55+00:00",
+   "last_seen": "2026-11-22T15:16:55+00:00",
+   "title": "Data Services Import Analyst",
+   "org": "Cloudbeds",
+   "location": "Philippines"
+  },
+  "renewals account manager|zscaler|singapore": {
+   "first_seen": "2026-11-22T15:16:55+00:00",
+   "last_seen": "2026-11-22T15:16:55+00:00",
+   "title": "Renewals Account Manager",
+   "org": "Zscaler",
+   "location": "Singapore"
+  },
+  "head of strategy and product|bjak|singapore": {
+   "first_seen": "2026-11-22T15:16:55+00:00",
+   "last_seen": "2026-11-22T15:16:55+00:00",
+   "title": "Head of Strategy and Product",
+   "org": "BJAK",
+   "location": "Singapore"
+  },
+  "advanced support specialist - payments, thailand|cloudbeds|thailand": {
+   "first_seen": "2026-11-22T15:16:55+00:00",
+   "last_seen": "2026-11-22T15:16:55+00:00",
+   "title": "Advanced Support Specialist - Payments, Thailand",
+   "org": "Cloudbeds",
+   "location": "Thailand"
+  },
+  "lead, strategy|bjak|thailand": {
+   "first_seen": "2026-11-22T15:16:55+00:00",
+   "last_seen": "2026-11-22T15:16:55+00:00",
+   "title": "Lead, Strategy",
+   "org": "BJAK",
+   "location": "Thailand"
+  },
+  "advanced support coach - thailand|cloudbeds|thailand": {
+   "first_seen": "2026-11-22T15:16:55+00:00",
+   "last_seen": "2026-11-22T15:16:55+00:00",
+   "title": "Advanced Support Coach - Thailand",
+   "org": "Cloudbeds",
+   "location": "Thailand"
+  },
+  "account manager ii|stackadapt|australia": {
+   "first_seen": "2026-11-22T15:16:55+00:00",
+   "last_seen": "2026-11-22T15:16:55+00:00",
+   "title": "Account Manager II",
+   "org": "StackAdapt",
+   "location": "Australia"
   }
  }
 }

@@ -3,104 +3,104 @@
  "name": "Himalayas \u2014 remote jobs",
  "category": "jobs",
  "source": "https://himalayas.app/jobs/api",
- "collected_at": "2026-11-22T06:46:25+00:00",
+ "collected_at": "2026-11-22T15:16:56+00:00",
  "jobs_on_board": 20,
- "new_this_run": 20,
- "total_tracked": 499,
+ "new_this_run": 19,
+ "total_tracked": 518,
  "jobs": [
   {
-   "title": "Chasseur immobilier / Agent commercial (H/F) - N\u00eemes",
-   "org": "Mon Chasseur Immo",
-   "location": "France",
-   "detail": "$50,000\u2013$75,000/a",
-   "url": null,
-   "new_this_run": true
-  },
-  {
-   "title": "Data Analyst - OpenData Commercial - Asia Pacific",
-   "org": "Veeva Systems",
-   "location": "Taiwan",
-   "detail": "Full Time",
-   "url": null,
-   "new_this_run": true
-  },
-  {
-   "title": "AI Augmented Fullstack | Remote in Mexico",
-   "org": "GSB Solutions",
+   "title": "Fullstack Engineer",
+   "org": "Creai",
    "location": "Mexico",
-   "detail": "$100,000\u2013$100,000/a",
-   "url": null,
-   "new_this_run": true
-  },
-  {
-   "title": "Head of Marketing | $3K-$3.5K Base + performance bonus + Remote | Amazing E-comm",
-   "org": "UPROSPECT",
-   "location": "Anguilla, Antigua and Barbuda, Argentina, Aruba, Bahamas, Barbados, Belize, Bermuda, Bolivia, Bonaire, Sint Eustatius and Saba, Brazil, Cayman Islands, Chile, Colombia, Costa Rica, Cuba, Dominica, Dominican Republic, Ecuador, El Salvador, F",
-   "detail": "$3,000\u2013$3,500/m",
-   "url": null,
-   "new_this_run": true
-  },
-  {
-   "title": "Senior SQL Server Database Administrator \u2013 Advisory Services",
-   "org": "Centrilogic",
-   "location": "Canada",
    "detail": "Full Time",
    "url": null,
    "new_this_run": true
   },
   {
-   "title": "Principal Project Manager",
-   "org": "Alignment Health",
-   "location": "United States",
-   "detail": "$130,332\u2013$195,498/a",
+   "title": "Sales Manager - DACH",
+   "org": "Cloudbeds",
+   "location": "Austria, Germany, Switzerland",
+   "detail": "Full Time",
    "url": null,
    "new_this_run": true
   },
   {
-   "title": "Cisco Secure Access (SSE) Deployment Engineer",
-   "org": "Emerging Tech",
+   "title": "Business Systems Analyst - Life Insurance Systems Support",
+   "org": "Mutual Of Omaha",
+   "location": "United States",
+   "detail": "$58,656\u2013$83,000/a",
+   "url": null,
+   "new_this_run": true
+  },
+  {
+   "title": "Marketing Analyst",
+   "org": "DeVry University",
+   "location": "United States",
+   "detail": "$55,000\u2013$65,000/a",
+   "url": null,
+   "new_this_run": true
+  },
+  {
+   "title": "Manager of National Accounts",
+   "org": "The Vollrath Company",
+   "location": "United States",
+   "detail": "Full Time",
+   "url": null,
+   "new_this_run": true
+  },
+  {
+   "title": "Supervisor, Escrow Oversight",
+   "org": "Carrington",
+   "location": "United States",
+   "detail": "$60,000\u2013$65,000/a",
+   "url": null,
+   "new_this_run": true
+  },
+  {
+   "title": "Senior DevOps Engineer",
+   "org": "TECDATA ENGINEERING",
+   "location": "Spain",
+   "detail": "$37,000\u2013$37,000/a",
+   "url": null,
+   "new_this_run": true
+  },
+  {
+   "title": "Onboarding Specialist",
+   "org": "ChiroHD",
+   "location": "United States",
+   "detail": "Full Time",
+   "url": null,
+   "new_this_run": true
+  },
+  {
+   "title": "Study Start-Up Specialist, CRO Services",
+   "org": "NMDP",
+   "location": "United States",
+   "detail": "Full Time",
+   "url": null,
+   "new_this_run": true
+  },
+  {
+   "title": "Specialist, Service Release & Acquisition",
+   "org": "Carrington",
+   "location": "United States",
+   "detail": "$21\u2013$22/h",
+   "url": null,
+   "new_this_run": true
+  },
+  {
+   "title": "Specialist, Escrow Oversight, V1- Property Tax",
+   "org": "Carrington",
+   "location": "United States",
+   "detail": "$20\u2013$23/h",
+   "url": null,
+   "new_this_run": true
+  },
+  {
+   "title": "AML Investigations Consultant",
+   "org": "Talent Shift",
    "location": "United States",
    "detail": "Contractor",
-   "url": null,
-   "new_this_run": true
-  },
-  {
-   "title": "Professional Services Technical Architect - West",
-   "org": "GitLab",
-   "location": "Canada",
-   "detail": "Full Time",
-   "url": null,
-   "new_this_run": true
-  },
-  {
-   "title": "Software Engineer (Golang)",
-   "org": "Gcore",
-   "location": "Cyprus, Poland, Serbia",
-   "detail": "Full Time",
-   "url": null,
-   "new_this_run": true
-  },
-  {
-   "title": "AI Engineer, Specialist - Remote",
-   "org": "Community Health Systems",
-   "location": "United States",
-   "detail": "Full Time",
-   "url": null,
-   "new_this_run": true
-  },
-  {
-   "title": "Out of hours, Senior Entertainment Travel Consultant (UK, London, Virtual, EUROP",
-   "org": "BCD Travel",
-   "location": "United Kingdom",
-   "detail": "Full Time",
-   "url": null,
-   "new_this_run": true
-  },
-  {
-   "title": "Senior GRC Engineer",
-   "org": "Arkestro",
-   "location": "United States",
-   "detail": "$130,000\u2013$150,000/a",
    "url": null,
    "new_this_run": true
   }
@@ -240,6 +240,11 @@
    "at": "2026-11-22T06:46:25+00:00",
    "jobs": 20,
    "new": 20
+  },
+  {
+   "at": "2026-11-22T15:16:56+00:00",
+   "jobs": 20,
+   "new": 19
   }
  ],
  "jobs_seen": {
@@ -3735,6 +3740,139 @@
    "title": "IT Operations Specialist (Account Operations)",
    "org": "Company",
    "location": "Ukraine"
+  },
+  "fullstack engineer|creai|mexico": {
+   "first_seen": "2026-11-22T15:16:56+00:00",
+   "last_seen": "2026-11-22T15:16:56+00:00",
+   "title": "Fullstack Engineer",
+   "org": "Creai",
+   "location": "Mexico"
+  },
+  "sales manager - dach|cloudbeds|austria, germany, switzerland": {
+   "first_seen": "2026-11-22T15:16:56+00:00",
+   "last_seen": "2026-11-22T15:16:56+00:00",
+   "title": "Sales Manager - DACH",
+   "org": "Cloudbeds",
+   "location": "Austria, Germany, Switzerland"
+  },
+  "business systems analyst - life insurance systems support|mutual of omaha|united states": {
+   "first_seen": "2026-11-22T15:16:56+00:00",
+   "last_seen": "2026-11-22T15:16:56+00:00",
+   "title": "Business Systems Analyst - Life Insurance Systems Support",
+   "org": "Mutual Of Omaha",
+   "location": "United States"
+  },
+  "marketing analyst|devry university|united states": {
+   "first_seen": "2026-11-22T15:16:56+00:00",
+   "last_seen": "2026-11-22T15:16:56+00:00",
+   "title": "Marketing Analyst",
+   "org": "DeVry University",
+   "location": "United States"
+  },
+  "manager of national accounts|the vollrath company|united states": {
+   "first_seen": "2026-11-22T15:16:56+00:00",
+   "last_seen": "2026-11-22T15:16:56+00:00",
+   "title": "Manager of National Accounts",
+   "org": "The Vollrath Company",
+   "location": "United States"
+  },
+  "supervisor, escrow oversight|carrington|united states": {
+   "first_seen": "2026-11-22T15:16:56+00:00",
+   "last_seen": "2026-11-22T15:16:56+00:00",
+   "title": "Supervisor, Escrow Oversight",
+   "org": "Carrington",
+   "location": "United States"
+  },
+  "senior devops engineer|tecdata engineering|spain": {
+   "first_seen": "2026-11-22T15:16:56+00:00",
+   "last_seen": "2026-11-22T15:16:56+00:00",
+   "title": "Senior DevOps Engineer",
+   "org": "TECDATA ENGINEERING",
+   "location": "Spain"
+  },
+  "onboarding specialist|chirohd|united states": {
+   "first_seen": "2026-11-22T15:16:56+00:00",
+   "last_seen": "2026-11-22T15:16:56+00:00",
+   "title": "Onboarding Specialist",
+   "org": "ChiroHD",
+   "location": "United States"
+  },
+  "study start-up specialist, cro services|nmdp|united states": {
+   "first_seen": "2026-11-22T15:16:56+00:00",
+   "last_seen": "2026-11-22T15:16:56+00:00",
+   "title": "Study Start-Up Specialist, CRO Services",
+   "org": "NMDP",
+   "location": "United States"
+  },
+  "specialist, service release & acquisition|carrington|united states": {
+   "first_seen": "2026-11-22T15:16:56+00:00",
+   "last_seen": "2026-11-22T15:16:56+00:00",
+   "title": "Specialist, Service Release & Acquisition",
+   "org": "Carrington",
+   "location": "United States"
+  },
+  "specialist, escrow oversight, v1- property tax|carrington|united states": {
+   "first_seen": "2026-11-22T15:16:56+00:00",
+   "last_seen": "2026-11-22T15:16:56+00:00",
+   "title": "Specialist, Escrow Oversight, V1- Property Tax",
+   "org": "Carrington",
+   "location": "United States"
+  },
+  "aml investigations consultant|talent shift|united states": {
+   "first_seen": "2026-11-22T15:16:56+00:00",
+   "last_seen": "2026-11-22T15:16:56+00:00",
+   "title": "AML Investigations Consultant",
+   "org": "Talent Shift",
+   "location": "United States"
+  },
+  "radiology specialist - fully remote | upto $130/hr|mercor|united states": {
+   "first_seen": "2026-11-22T15:16:56+00:00",
+   "last_seen": "2026-11-22T15:16:56+00:00",
+   "title": "Radiology Specialist - Fully Remote | Upto $130/hr",
+   "org": "mercor",
+   "location": "United States"
+  },
+  "office 365 sharepoint specialist (lithuanian speaking)|addendum|lithuania": {
+   "first_seen": "2026-11-22T15:16:56+00:00",
+   "last_seen": "2026-11-22T15:16:56+00:00",
+   "title": "Office 365 SharePoint Specialist (Lithuanian Speaking)",
+   "org": "ADDENDUM",
+   "location": "Lithuania"
+  },
+  "airline customer service specialist - remote|yo ai labs|united states": {
+   "first_seen": "2026-11-22T15:16:56+00:00",
+   "last_seen": "2026-11-22T15:16:56+00:00",
+   "title": "Airline Customer Service Specialist - Remote",
+   "org": "YO AI Labs",
+   "location": "United States"
+  },
+  "head of engineering|softswiss|cyprus, georgia, malta, poland, serbia": {
+   "first_seen": "2026-11-22T15:16:56+00:00",
+   "last_seen": "2026-11-22T15:16:56+00:00",
+   "title": "Head of Engineering",
+   "org": "SOFTSWISS",
+   "location": "Cyprus, Georgia, Malta, Poland, Serbia"
+  },
+  "utilization management nurse - lpn/lvn|integra partners|united states": {
+   "first_seen": "2026-11-22T15:16:56+00:00",
+   "last_seen": "2026-11-22T15:16:56+00:00",
+   "title": "Utilization Management Nurse - LPN/LVN",
+   "org": "Integra Partners",
+   "location": "United States"
+  },
+  "ad operations & campaign management associate|microsourcing|philippines": {
+   "first_seen": "2026-11-22T15:16:56+00:00",
+   "last_seen": "2026-11-22T15:16:56+00:00",
+   "title": "Ad Operations & Campaign Management Associate",
+   "org": "MicroSourcing",
+   "location": "Philippines"
+  },
+  "director of data systems|trees for the future|kenya, tanzania, uganda, united states": {
+   "first_seen": "2026-11-22T15:16:56+00:00",
+   "last_seen": "2026-11-22T15:16:56+00:00",
+   "title": "Director of Data Systems",
+   "org": "Trees for the Future",
+   "location": "Kenya, Tanzania, Uganda, United States"
   }
  }
 }
