@@ -3,104 +3,104 @@
  "name": "Himalayas \u2014 remote jobs",
  "category": "jobs",
  "source": "https://himalayas.app/jobs/api",
- "collected_at": "2026-11-22T21:45:36+00:00",
+ "collected_at": "2026-11-23T02:44:53+00:00",
  "jobs_on_board": 20,
- "new_this_run": 20,
- "total_tracked": 538,
+ "new_this_run": 17,
+ "total_tracked": 555,
  "jobs": [
   {
-   "title": "Remote Support Engineer",
-   "org": "Schneider Electric",
+   "title": "Graphic Designer- PLGGD009",
+   "org": "Sagan Recruitment",
+   "location": "Bulgaria",
+   "detail": "$1,800\u2013$3,200/a",
+   "url": null,
+   "new_this_run": true
+  },
+  {
+   "title": "Android Software Engineer - AI Finance Agent",
+   "org": "Bjak",
+   "location": "Japan",
+   "detail": "Full Time",
+   "url": null,
+   "new_this_run": true
+  },
+  {
+   "title": "Customer Success Manager- Arabic Speaker",
+   "org": "WebEngage",
+   "location": "Saudi Arabia",
+   "detail": "Full Time",
+   "url": null,
+   "new_this_run": false
+  },
+  {
+   "title": "Business Development Representative",
+   "org": "WebEngage",
    "location": "India",
    "detail": "Full Time",
    "url": null,
-   "new_this_run": true
+   "new_this_run": false
   },
   {
-   "title": "Regional Director, Enterprise Imaging Systems",
-   "org": "Fujifilm",
-   "location": "United States",
-   "detail": "$110,000\u2013$328,655/a",
+   "title": "Senior Cloud & AI First Engineer",
+   "org": "Init Norway",
+   "location": "North Macedonia",
+   "detail": "Full Time",
+   "url": null,
+   "new_this_run": false
+  },
+  {
+   "title": "Influencer & Community Manager",
+   "org": "Clearly",
+   "location": "Spain",
+   "detail": "Full Time",
    "url": null,
    "new_this_run": true
   },
   {
-   "title": "Talent Support Specialist",
+   "title": "Senior Start Up Maintenance Specialist - Sponsor Dedicated - Home Based Spain",
+   "org": "Fortrea",
+   "location": "Spain",
+   "detail": "Full Time",
+   "url": null,
+   "new_this_run": true
+  },
+  {
+   "title": "Clinical Project Coordinator, IQVIA Biotech (home-based)",
+   "org": "IQVIA",
+   "location": "Mexico",
+   "detail": "Full Time",
+   "url": null,
+   "new_this_run": true
+  },
+  {
+   "title": "Digital Illustrator",
+   "org": "Partyhat",
+   "location": "Argentina, Brazil, Bulgaria, Canada, Colombia, Croatia, Germany, Japan, Latvia, Malta, Mexico, Philippines, Poland, Romania, Serbia, Ukraine",
+   "detail": "Full Time",
+   "url": null,
+   "new_this_run": true
+  },
+  {
+   "title": "Senior Full Stack Engineer",
+   "org": "Tolken",
+   "location": "India, United States",
+   "detail": "Full Time",
+   "url": null,
+   "new_this_run": true
+  },
+  {
+   "title": "AI Researcher II (Intern) - United States",
+   "org": "Cisco",
+   "location": "United States",
+   "detail": "$44,000\u2013$185,000/a",
+   "url": null,
+   "new_this_run": true
+  },
+  {
+   "title": "Lean 4 Developer",
    "org": "micro1",
    "location": "remote",
-   "detail": "$15\u2013$20/h",
-   "url": null,
-   "new_this_run": true
-  },
-  {
-   "title": "Account Mgr",
-   "org": "Lifelancer",
-   "location": "United States",
-   "detail": "$92,300\u2013$230,900/a",
-   "url": null,
-   "new_this_run": true
-  },
-  {
-   "title": "Entry Level Remote Life Insurance Sales",
-   "org": "The Semler Agency",
-   "location": "United States",
-   "detail": "Full Time",
-   "url": null,
-   "new_this_run": true
-  },
-  {
-   "title": "Senior Manager, Owner Relations",
-   "org": "Hilton",
-   "location": "United States",
-   "detail": "$90,000\u2013$120,000/a",
-   "url": null,
-   "new_this_run": true
-  },
-  {
-   "title": "HR Specialist",
-   "org": "ReWorks Solutions",
-   "location": "South Africa",
-   "detail": "Full Time",
-   "url": null,
-   "new_this_run": true
-  },
-  {
-   "title": "Associate Director, LNS Alliance Management",
-   "org": "Lifelancer",
-   "location": "United States",
-   "detail": "$96,600\u2013$224,200/a",
-   "url": null,
-   "new_this_run": true
-  },
-  {
-   "title": "Junior Civil Drafting Engineer",
-   "org": "Sharesource Australia BPO Corporation",
-   "location": "Philippines",
-   "detail": "Full Time",
-   "url": null,
-   "new_this_run": true
-  },
-  {
-   "title": "Cashiering Manager",
-   "org": "Evergreen Home Loans",
-   "location": "United States",
-   "detail": "$58,400\u2013$113,300/a",
-   "url": null,
-   "new_this_run": true
-  },
-  {
-   "title": "Sales Development Representative - Remote",
-   "org": "OnBoard",
-   "location": "Australia",
-   "detail": "Full Time",
-   "url": null,
-   "new_this_run": true
-  },
-  {
-   "title": "Customer Operations Representative",
-   "org": "Zelh",
-   "location": "Serbia, Ukraine",
-   "detail": "Full Time",
+   "detail": "$60\u2013$120/h",
    "url": null,
    "new_this_run": true
   }
@@ -250,6 +250,11 @@
    "at": "2026-11-22T21:45:36+00:00",
    "jobs": 20,
    "new": 20
+  },
+  {
+   "at": "2026-11-23T02:44:53+00:00",
+   "jobs": 20,
+   "new": 17
   }
  ],
  "jobs_seen": {
@@ -1382,7 +1387,7 @@
   },
   "business development representative|webengage|india": {
    "first_seen": "2026-11-17T03:53:06+00:00",
-   "last_seen": "2026-11-17T03:53:06+00:00",
+   "last_seen": "2026-11-23T02:44:53+00:00",
    "title": "Business Development Representative",
    "org": "WebEngage",
    "location": "India"
@@ -1396,7 +1401,7 @@
   },
   "senior cloud & ai first engineer|init norway|north macedonia": {
    "first_seen": "2026-11-17T03:53:06+00:00",
-   "last_seen": "2026-11-17T03:53:06+00:00",
+   "last_seen": "2026-11-23T02:44:53+00:00",
    "title": "Senior Cloud & AI First Engineer",
    "org": "Init Norway",
    "location": "North Macedonia"
@@ -1424,7 +1429,7 @@
   },
   "customer success manager- arabic speaker|webengage|saudi arabia": {
    "first_seen": "2026-11-17T03:53:06+00:00",
-   "last_seen": "2026-11-17T03:53:06+00:00",
+   "last_seen": "2026-11-23T02:44:53+00:00",
    "title": "Customer Success Manager- Arabic Speaker",
    "org": "WebEngage",
    "location": "Saudi Arabia"
@@ -4018,6 +4023,125 @@
    "title": "Bilingual (French/English) Client Program Specialist",
    "org": "Channel Fusion",
    "location": "United States"
+  },
+  "graphic designer- plggd009|sagan recruitment|bulgaria": {
+   "first_seen": "2026-11-23T02:44:53+00:00",
+   "last_seen": "2026-11-23T02:44:53+00:00",
+   "title": "Graphic Designer- PLGGD009",
+   "org": "Sagan Recruitment",
+   "location": "Bulgaria"
+  },
+  "android software engineer - ai finance agent|bjak|japan": {
+   "first_seen": "2026-11-23T02:44:53+00:00",
+   "last_seen": "2026-11-23T02:44:53+00:00",
+   "title": "Android Software Engineer - AI Finance Agent",
+   "org": "Bjak",
+   "location": "Japan"
+  },
+  "influencer & community manager|clearly|spain": {
+   "first_seen": "2026-11-23T02:44:53+00:00",
+   "last_seen": "2026-11-23T02:44:53+00:00",
+   "title": "Influencer & Community Manager",
+   "org": "Clearly",
+   "location": "Spain"
+  },
+  "senior start up maintenance specialist - sponsor dedicated - home based spain|fortrea|spain": {
+   "first_seen": "2026-11-23T02:44:53+00:00",
+   "last_seen": "2026-11-23T02:44:53+00:00",
+   "title": "Senior Start Up Maintenance Specialist - Sponsor Dedicated - Home Based Spain",
+   "org": "Fortrea",
+   "location": "Spain"
+  },
+  "clinical project coordinator, iqvia biotech (home-based)|iqvia|mexico": {
+   "first_seen": "2026-11-23T02:44:53+00:00",
+   "last_seen": "2026-11-23T02:44:53+00:00",
+   "title": "Clinical Project Coordinator, IQVIA Biotech (home-based)",
+   "org": "IQVIA",
+   "location": "Mexico"
+  },
+  "digital illustrator|partyhat|argentina, brazil, bulgaria, canada, colombia, croatia, germany, japan, latvia, malta, mexico, philippines, poland, roma": {
+   "first_seen": "2026-11-23T02:44:53+00:00",
+   "last_seen": "2026-11-23T02:44:53+00:00",
+   "title": "Digital Illustrator",
+   "org": "Partyhat",
+   "location": "Argentina, Brazil, Bulgaria, Canada, Colombia, Croatia, Germany, Japan, Latvia, Malta, Mexico, Philippines, Poland, Romania, Serbia, Ukraine"
+  },
+  "senior full stack engineer|tolken|india, united states": {
+   "first_seen": "2026-11-23T02:44:53+00:00",
+   "last_seen": "2026-11-23T02:44:53+00:00",
+   "title": "Senior Full Stack Engineer",
+   "org": "Tolken",
+   "location": "India, United States"
+  },
+  "ai researcher ii (intern) - united states|cisco|united states": {
+   "first_seen": "2026-11-23T02:44:53+00:00",
+   "last_seen": "2026-11-23T02:44:53+00:00",
+   "title": "AI Researcher II (Intern) - United States",
+   "org": "Cisco",
+   "location": "United States"
+  },
+  "lean 4 developer|micro1|remote": {
+   "first_seen": "2026-11-23T02:44:53+00:00",
+   "last_seen": "2026-11-23T02:44:53+00:00",
+   "title": "Lean 4 Developer",
+   "org": "micro1",
+   "location": "remote"
+  },
+  "mathlib contributor|micro1|remote": {
+   "first_seen": "2026-11-23T02:44:53+00:00",
+   "last_seen": "2026-11-23T02:44:53+00:00",
+   "title": "Mathlib Contributor",
+   "org": "micro1",
+   "location": "remote"
+  },
+  "math programmer (lean 4)|micro1|remote": {
+   "first_seen": "2026-11-23T02:44:53+00:00",
+   "last_seen": "2026-11-23T02:44:53+00:00",
+   "title": "Math Programmer (Lean 4)",
+   "org": "micro1",
+   "location": "remote"
+  },
+  "default invoice coordinator i|carrington|united states": {
+   "first_seen": "2026-11-23T02:44:53+00:00",
+   "last_seen": "2026-11-23T02:44:53+00:00",
+   "title": "Default Invoice Coordinator I",
+   "org": "Carrington",
+   "location": "United States"
+  },
+  "creator manager|darkroom|brazil, portugal, spain": {
+   "first_seen": "2026-11-23T02:44:53+00:00",
+   "last_seen": "2026-11-23T02:44:53+00:00",
+   "title": "Creator Manager",
+   "org": "Darkroom",
+   "location": "Brazil, Portugal, Spain"
+  },
+  "demand generation specialist|blackbox strategies|argentina, brazil, colombia, croatia, mexico, philippines, poland, portugal, romania, serbia, spain, ukraine, vietnam": {
+   "first_seen": "2026-11-23T02:44:53+00:00",
+   "last_seen": "2026-11-23T02:44:53+00:00",
+   "title": "Demand Generation Specialist",
+   "org": "BlackBox Strategies",
+   "location": "Argentina, Brazil, Colombia, Croatia, Mexico, Philippines, Poland, Portugal, Romania, Serbia, Spain, Ukraine, Vietnam"
+  },
+  "senior software engineer, ai training|g2i inc.|remote": {
+   "first_seen": "2026-11-23T02:44:53+00:00",
+   "last_seen": "2026-11-23T02:44:53+00:00",
+   "title": "Senior Software Engineer, AI Training",
+   "org": "G2i Inc.",
+   "location": "remote"
+  },
+  "german quality executive \" call center\"|rayacx|italy": {
+   "first_seen": "2026-11-23T02:44:53+00:00",
+   "last_seen": "2026-11-23T02:44:53+00:00",
+   "title": "German Quality Executive \" Call Center\"",
+   "org": "RayaCX",
+   "location": "Italy"
+  },
+  "travel concierge|hb travels|united kingdom": {
+   "first_seen": "2026-11-23T02:44:53+00:00",
+   "last_seen": "2026-11-23T02:44:53+00:00",
+   "title": "Travel Concierge",
+   "org": "HB Travels",
+   "location": "United Kingdom"
   }
  }
 }

@@ -3,7 +3,7 @@
  "name": "We Work Remotely \u2014 programming jobs",
  "category": "jobs",
  "source": "https://weworkremotely.com/categories/remote-programming-jobs.rss",
- "collected_at": "2026-11-22T21:45:35+00:00",
+ "collected_at": "2026-11-23T02:44:52+00:00",
  "jobs_on_board": 25,
  "new_this_run": 0,
  "total_tracked": 64,
@@ -248,6 +248,11 @@
   },
   {
    "at": "2026-11-22T21:45:35+00:00",
+   "jobs": 25,
+   "new": 0
+  },
+  {
+   "at": "2026-11-23T02:44:52+00:00",
    "jobs": 25,
    "new": 0
   }
@@ -500,7 +505,7 @@
   },
   "frontend engineer, ads|reddit|": {
    "first_seen": "2026-11-18T13:57:47+00:00",
-   "last_seen": "2026-11-22T21:45:35+00:00",
+   "last_seen": "2026-11-23T02:44:52+00:00",
    "title": "Frontend Engineer, Ads",
    "org": "Reddit",
    "location": null
@@ -514,14 +519,14 @@
   },
   "software engineer - planetscale postgres|planetscale|": {
    "first_seen": "2026-11-18T13:57:47+00:00",
-   "last_seen": "2026-11-22T21:45:35+00:00",
+   "last_seen": "2026-11-23T02:44:52+00:00",
    "title": "Software Engineer - PlanetScale Postgres",
    "org": "PlanetScale",
    "location": null
   },
   "category manager - trading cards|stockx|": {
    "first_seen": "2026-11-18T13:57:47+00:00",
-   "last_seen": "2026-11-22T21:45:35+00:00",
+   "last_seen": "2026-11-23T02:44:52+00:00",
    "title": "Category Manager - Trading Cards",
    "org": "StockX",
    "location": null
@@ -535,42 +540,42 @@
   },
   "category manager - sneakers|stockx|": {
    "first_seen": "2026-11-18T13:57:47+00:00",
-   "last_seen": "2026-11-22T21:45:35+00:00",
+   "last_seen": "2026-11-23T02:44:52+00:00",
    "title": "Category Manager - Sneakers",
    "org": "StockX",
    "location": null
   },
   "sr. data analytics engineer (r14153)|oportun|": {
    "first_seen": "2026-11-18T13:57:47+00:00",
-   "last_seen": "2026-11-22T21:45:35+00:00",
+   "last_seen": "2026-11-23T02:44:52+00:00",
    "title": "Sr. Data Analytics Engineer (R14153)",
    "org": "Oportun",
    "location": null
   },
   "senior shopify developer (remote + flexible)|storetasker|": {
    "first_seen": "2026-11-18T21:56:23+00:00",
-   "last_seen": "2026-11-22T21:45:35+00:00",
+   "last_seen": "2026-11-23T02:44:52+00:00",
    "title": "Senior Shopify Developer (Remote + Flexible)",
    "org": "Storetasker",
    "location": null
   },
   "backend / platform developer consultant (temporal & kubernetes)|bitovi|": {
    "first_seen": "2026-11-18T21:56:23+00:00",
-   "last_seen": "2026-11-22T21:45:35+00:00",
+   "last_seen": "2026-11-23T02:44:52+00:00",
    "title": "Backend / Platform Developer Consultant (Temporal & Kubernetes)",
    "org": "Bitovi",
    "location": null
   },
   "hr enablement lead|salesloft|": {
    "first_seen": "2026-11-18T21:56:23+00:00",
-   "last_seen": "2026-11-22T21:45:35+00:00",
+   "last_seen": "2026-11-23T02:44:52+00:00",
    "title": "HR Enablement Lead",
    "org": "Salesloft",
    "location": null
   },
   "senior integration engineer|legion|": {
    "first_seen": "2026-11-18T21:56:23+00:00",
-   "last_seen": "2026-11-22T21:45:35+00:00",
+   "last_seen": "2026-11-23T02:44:52+00:00",
    "title": "Senior Integration Engineer",
    "org": "Legion",
    "location": null
@@ -584,7 +589,7 @@
   },
   "web developer: wordpress & hubspot (u.s. based, remote contractor)|simpletiger|": {
    "first_seen": "2026-11-18T21:56:23+00:00",
-   "last_seen": "2026-11-22T21:45:35+00:00",
+   "last_seen": "2026-11-23T02:44:52+00:00",
    "title": "Web Developer: WordPress & HubSpot (U.S. Based, Remote Contractor)",
    "org": "SimpleTiger",
    "location": null
@@ -598,105 +603,105 @@
   },
   "broker dealer operations, associate|coinbase|": {
    "first_seen": "2026-11-18T21:56:23+00:00",
-   "last_seen": "2026-11-22T21:45:35+00:00",
+   "last_seen": "2026-11-23T02:44:52+00:00",
    "title": "Broker Dealer Operations, Associate",
    "org": "Coinbase",
    "location": null
   },
   "associate manager, internal audit|coinbase|": {
    "first_seen": "2026-11-18T21:56:23+00:00",
-   "last_seen": "2026-11-22T21:45:35+00:00",
+   "last_seen": "2026-11-23T02:44:52+00:00",
    "title": "Associate Manager, Internal Audit",
    "org": "Coinbase",
    "location": null
   },
   "backend engineer, knowledge graph|gitlab|": {
    "first_seen": "2026-11-19T13:05:35+00:00",
-   "last_seen": "2026-11-22T21:45:35+00:00",
+   "last_seen": "2026-11-23T02:44:52+00:00",
    "title": "Backend Engineer, Knowledge Graph",
    "org": "GitLab",
    "location": null
   },
   "principal enterprise architect|jumio|": {
    "first_seen": "2026-11-19T13:05:35+00:00",
-   "last_seen": "2026-11-22T21:45:35+00:00",
+   "last_seen": "2026-11-23T02:44:52+00:00",
    "title": "Principal Enterprise Architect",
    "org": "Jumio",
    "location": null
   },
   "backend product software engineer|dropbox|": {
    "first_seen": "2026-11-19T21:33:34+00:00",
-   "last_seen": "2026-11-22T21:45:35+00:00",
+   "last_seen": "2026-11-23T02:44:52+00:00",
    "title": "Backend Product Software Engineer",
    "org": "Dropbox",
    "location": null
   },
   "principal product management, growth|zoominfo technologies llc|": {
    "first_seen": "2026-11-20T03:14:16+00:00",
-   "last_seen": "2026-11-22T21:45:35+00:00",
+   "last_seen": "2026-11-23T02:44:52+00:00",
    "title": "Principal Product Management, Growth",
    "org": "ZoomInfo Technologies LLC",
    "location": null
   },
   "senior ml engineer (r14284)|oportun|": {
    "first_seen": "2026-11-20T03:14:16+00:00",
-   "last_seen": "2026-11-22T21:45:35+00:00",
+   "last_seen": "2026-11-23T02:44:52+00:00",
    "title": "Senior ML Engineer (R14284)",
    "org": "Oportun",
    "location": null
   },
   "lending manager (front end) - remote|knock|": {
    "first_seen": "2026-11-20T20:17:28+00:00",
-   "last_seen": "2026-11-22T21:45:35+00:00",
+   "last_seen": "2026-11-23T02:44:52+00:00",
    "title": "Lending Manager (Front End) - Remote",
    "org": "Knock",
    "location": null
   },
   "quality and reliability engineer|custom mechanical solutions|": {
    "first_seen": "2026-11-21T09:54:43+00:00",
-   "last_seen": "2026-11-22T21:45:35+00:00",
+   "last_seen": "2026-11-23T02:44:52+00:00",
    "title": "Quality and Reliability Engineer",
    "org": "Custom Mechanical Solutions",
    "location": null
   },
   "full time: software engineer position - react and rest|yooli|": {
    "first_seen": "2026-11-21T09:54:43+00:00",
-   "last_seen": "2026-11-22T21:45:35+00:00",
+   "last_seen": "2026-11-23T02:44:52+00:00",
    "title": "FULL TIME: Software Engineer Position - React and Rest",
    "org": "Yooli",
    "location": null
   },
   "senior software engineer|welcomehome software|": {
    "first_seen": "2026-11-21T09:54:43+00:00",
-   "last_seen": "2026-11-22T21:45:35+00:00",
+   "last_seen": "2026-11-23T02:44:52+00:00",
    "title": "Senior Software Engineer",
    "org": "WelcomeHome Software",
    "location": null
   },
   "senior independent ai engineer / architect|a.team|": {
    "first_seen": "2026-11-21T23:15:21+00:00",
-   "last_seen": "2026-11-22T21:45:35+00:00",
+   "last_seen": "2026-11-23T02:44:52+00:00",
    "title": "Senior Independent AI Engineer / Architect",
    "org": "A.Team",
    "location": null
   },
   "senior independent software developer ($90-$170/hr)|a.team|": {
    "first_seen": "2026-11-21T23:15:21+00:00",
-   "last_seen": "2026-11-22T21:45:35+00:00",
+   "last_seen": "2026-11-23T02:44:52+00:00",
    "title": "Senior Independent Software Developer ($90-$170/hr)",
    "org": "A.Team",
    "location": null
   },
   "quantum research scientist|mantech|": {
    "first_seen": "2026-11-21T23:15:21+00:00",
-   "last_seen": "2026-11-22T21:45:35+00:00",
+   "last_seen": "2026-11-23T02:44:52+00:00",
    "title": "Quantum Research Scientist",
    "org": "MANTECH",
    "location": null
   },
   "screenwriter - reelshort (contractor)|crazy maple studio|": {
    "first_seen": "2026-11-22T15:16:55+00:00",
-   "last_seen": "2026-11-22T21:45:35+00:00",
+   "last_seen": "2026-11-23T02:44:52+00:00",
    "title": "Screenwriter - ReelShort (Contractor)",
    "org": "Crazy Maple Studio",
    "location": null

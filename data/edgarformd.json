@@ -3,7 +3,7 @@
  "name": "SEC EDGAR \u2014 new private funding rounds (Form D, 7 days)",
  "category": "funding",
  "source": "https://efts.sec.gov/LATEST/search-index",
- "collected_at": "2026-11-22T21:45:38+00:00",
+ "collected_at": "2026-11-23T02:44:55+00:00",
  "jobs_on_board": 11,
  "new_this_run": 0,
  "total_tracked": 22,
@@ -242,6 +242,11 @@
    "at": "2026-11-22T21:45:38+00:00",
    "jobs": 11,
    "new": 0
+  },
+  {
+   "at": "2026-11-23T02:44:55+00:00",
+   "jobs": 11,
+   "new": 0
   }
  ],
  "jobs_seen": {
@@ -324,77 +329,77 @@
   },
   "knollwood frontier, lp raised (form d)|knollwood frontier, lp|hunt valley, md": {
    "first_seen": "2026-11-16T20:29:26+00:00",
-   "last_seen": "2026-11-22T21:45:38+00:00",
+   "last_seen": "2026-11-23T02:44:55+00:00",
    "title": "Knollwood Frontier, LP raised (Form D)",
    "org": "Knollwood Frontier, LP",
    "location": "Hunt Valley, MD"
   },
   "uspd grand cayman opportunity fund llc raised (form d)|uspd grand cayman opportunity fund llc|fort worth, tx": {
    "first_seen": "2026-11-17T22:24:02+00:00",
-   "last_seen": "2026-11-22T21:45:38+00:00",
+   "last_seen": "2026-11-23T02:44:55+00:00",
    "title": "USPD Grand Cayman Opportunity Fund LLC raised (Form D)",
    "org": "USPD Grand Cayman Opportunity Fund LLC",
    "location": "Fort Worth, TX"
   },
   "vesalius longevity labs inc. raised (form d)|vesalius longevity labs inc.|vancouver": {
    "first_seen": "2026-11-18T21:56:26+00:00",
-   "last_seen": "2026-11-22T21:45:38+00:00",
+   "last_seen": "2026-11-23T02:44:55+00:00",
    "title": "Vesalius Longevity Labs Inc. raised (Form D)",
    "org": "Vesalius Longevity Labs Inc.",
    "location": "Vancouver"
   },
   "international environmental standards, pbc raised (form d)|international environmental standards, pbc|denver, co": {
    "first_seen": "2026-11-19T21:33:38+00:00",
-   "last_seen": "2026-11-22T21:45:38+00:00",
+   "last_seen": "2026-11-23T02:44:55+00:00",
    "title": "International Environmental Standards, PBC raised (Form D)",
    "org": "International Environmental Standards, PBC",
    "location": "Denver, CO"
   },
   "rochefort virtus 9 co-investment fund lp raised (form d)|rochefort virtus 9 co-investment fund lp|west palm beach, fl": {
    "first_seen": "2026-11-19T21:33:38+00:00",
-   "last_seen": "2026-11-22T21:45:38+00:00",
+   "last_seen": "2026-11-23T02:44:55+00:00",
    "title": "Rochefort Virtus 9 Co-Investment Fund LP raised (Form D)",
    "org": "Rochefort Virtus 9 Co-Investment Fund LP",
    "location": "West Palm Beach, FL"
   },
   "extend enterprises, inc. raised (form d)|extend enterprises, inc.|new york, ny": {
    "first_seen": "2026-11-19T21:33:38+00:00",
-   "last_seen": "2026-11-22T21:45:38+00:00",
+   "last_seen": "2026-11-23T02:44:55+00:00",
    "title": "Extend Enterprises, Inc. raised (Form D)",
    "org": "Extend Enterprises, Inc.",
    "location": "New York, NY"
   },
   "peachtree credit fund iv, lp raised (form d)|peachtree credit fund iv, lp|atlanta, ga": {
    "first_seen": "2026-11-19T21:33:38+00:00",
-   "last_seen": "2026-11-22T21:45:38+00:00",
+   "last_seen": "2026-11-23T02:44:55+00:00",
    "title": "Peachtree Credit Fund IV, LP raised (Form D)",
    "org": "Peachtree Credit Fund IV, LP",
    "location": "Atlanta, GA"
   },
   "godspeed capital fund iv (parallel) lp raised (form d)|godspeed capital fund iv (parallel) lp|washington, dc": {
    "first_seen": "2026-11-20T03:14:18+00:00",
-   "last_seen": "2026-11-22T21:45:38+00:00",
+   "last_seen": "2026-11-23T02:44:55+00:00",
    "title": "Godspeed Capital Fund IV (Parallel) LP raised (Form D)",
    "org": "Godspeed Capital Fund IV (Parallel) LP",
    "location": "Washington, DC"
   },
   "godspeed capital fund iv lp raised (form d)|godspeed capital fund iv lp|washington, dc": {
    "first_seen": "2026-11-20T03:14:18+00:00",
-   "last_seen": "2026-11-22T21:45:38+00:00",
+   "last_seen": "2026-11-23T02:44:55+00:00",
    "title": "Godspeed Capital Fund IV LP raised (Form D)",
    "org": "Godspeed Capital Fund IV LP",
    "location": "Washington, DC"
   },
   "fairly inc./wy raised (form d)|fairly inc./wy|portland, or": {
    "first_seen": "2026-11-20T11:50:17+00:00",
-   "last_seen": "2026-11-22T21:45:38+00:00",
+   "last_seen": "2026-11-23T02:44:55+00:00",
    "title": "Fairly Inc./WY raised (Form D)",
    "org": "Fairly Inc./WY",
    "location": "Portland, OR"
   },
   "uield inc raised (form d)|uield inc|seattle, wa": {
    "first_seen": "2026-11-20T11:50:17+00:00",
-   "last_seen": "2026-11-22T21:45:38+00:00",
+   "last_seen": "2026-11-23T02:44:55+00:00",
    "title": "UIELD Inc raised (Form D)",
    "org": "UIELD Inc",
    "location": "Seattle, WA"
