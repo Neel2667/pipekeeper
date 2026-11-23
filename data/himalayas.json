@@ -3,104 +3,104 @@
  "name": "Himalayas \u2014 remote jobs",
  "category": "jobs",
  "source": "https://himalayas.app/jobs/api",
- "collected_at": "2026-11-23T02:44:53+00:00",
+ "collected_at": "2026-11-23T12:38:19+00:00",
  "jobs_on_board": 20,
- "new_this_run": 17,
- "total_tracked": 555,
+ "new_this_run": 20,
+ "total_tracked": 575,
  "jobs": [
   {
-   "title": "Graphic Designer- PLGGD009",
-   "org": "Sagan Recruitment",
-   "location": "Bulgaria",
-   "detail": "$1,800\u2013$3,200/a",
-   "url": null,
-   "new_this_run": true
-  },
-  {
-   "title": "Android Software Engineer - AI Finance Agent",
-   "org": "Bjak",
-   "location": "Japan",
-   "detail": "Full Time",
-   "url": null,
-   "new_this_run": true
-  },
-  {
-   "title": "Customer Success Manager- Arabic Speaker",
-   "org": "WebEngage",
-   "location": "Saudi Arabia",
-   "detail": "Full Time",
-   "url": null,
-   "new_this_run": false
-  },
-  {
-   "title": "Business Development Representative",
-   "org": "WebEngage",
-   "location": "India",
-   "detail": "Full Time",
-   "url": null,
-   "new_this_run": false
-  },
-  {
-   "title": "Senior Cloud & AI First Engineer",
-   "org": "Init Norway",
-   "location": "North Macedonia",
-   "detail": "Full Time",
-   "url": null,
-   "new_this_run": false
-  },
-  {
-   "title": "Influencer & Community Manager",
-   "org": "Clearly",
-   "location": "Spain",
-   "detail": "Full Time",
-   "url": null,
-   "new_this_run": true
-  },
-  {
-   "title": "Senior Start Up Maintenance Specialist - Sponsor Dedicated - Home Based Spain",
-   "org": "Fortrea",
-   "location": "Spain",
-   "detail": "Full Time",
-   "url": null,
-   "new_this_run": true
-  },
-  {
-   "title": "Clinical Project Coordinator, IQVIA Biotech (home-based)",
-   "org": "IQVIA",
+   "title": "Medical Doctor / Physician (Mexico Only)",
+   "org": "ELITEBRAIN",
    "location": "Mexico",
-   "detail": "Full Time",
+   "detail": "$110\u2013$110/h",
    "url": null,
    "new_this_run": true
   },
   {
-   "title": "Digital Illustrator",
-   "org": "Partyhat",
-   "location": "Argentina, Brazil, Bulgaria, Canada, Colombia, Croatia, Germany, Japan, Latvia, Malta, Mexico, Philippines, Poland, Romania, Serbia, Ukraine",
-   "detail": "Full Time",
-   "url": null,
-   "new_this_run": true
-  },
-  {
-   "title": "Senior Full Stack Engineer",
-   "org": "Tolken",
-   "location": "India, United States",
-   "detail": "Full Time",
-   "url": null,
-   "new_this_run": true
-  },
-  {
-   "title": "AI Researcher II (Intern) - United States",
-   "org": "Cisco",
+   "title": "Director of Finance & Accounting, Remote (U.S.)",
+   "org": "CeresAI",
    "location": "United States",
-   "detail": "$44,000\u2013$185,000/a",
+   "detail": "$150,000\u2013$185,000/a",
    "url": null,
    "new_this_run": true
   },
   {
-   "title": "Lean 4 Developer",
-   "org": "micro1",
-   "location": "remote",
-   "detail": "$60\u2013$120/h",
+   "title": "Email & Lifecycle Marketing Manager (HubSpot)",
+   "org": "LevelBlue, LLC.",
+   "location": "United Kingdom",
+   "detail": "$55,000\u2013$65,000/a",
+   "url": null,
+   "new_this_run": true
+  },
+  {
+   "title": "Senior Software Developer, Agentic AI - Canada",
+   "org": "Counterpart Health",
+   "location": "Canada",
+   "detail": "Full Time",
+   "url": null,
+   "new_this_run": true
+  },
+  {
+   "title": "Advanced Software Engineer",
+   "org": "VERYUX",
+   "location": "Chile",
+   "detail": "Full Time",
+   "url": null,
+   "new_this_run": true
+  },
+  {
+   "title": "Accounting Expert - CPA Certified",
+   "org": "mercor",
+   "location": "United States",
+   "detail": "$130\u2013$160/h",
+   "url": null,
+   "new_this_run": true
+  },
+  {
+   "title": "Inside Sales Representative- Advertising Executive",
+   "org": "Guide Book Publishing",
+   "location": "United States",
+   "detail": "Full Time",
+   "url": null,
+   "new_this_run": true
+  },
+  {
+   "title": "OT Cybersecurity Architect",
+   "org": "Claroty",
+   "location": "United States",
+   "detail": "$150,000\u2013$160,000/a",
+   "url": null,
+   "new_this_run": true
+  },
+  {
+   "title": "Senior Clinical Research Associate",
+   "org": "ICON",
+   "location": "Spain",
+   "detail": "Full Time",
+   "url": null,
+   "new_this_run": true
+  },
+  {
+   "title": "Entry Level Remote Sales - No Experience Required",
+   "org": "The Semler Agency",
+   "location": "United States",
+   "detail": "Full Time",
+   "url": null,
+   "new_this_run": true
+  },
+  {
+   "title": "Accountant (ACA / ACCA / CIMA)",
+   "org": "Digital Science",
+   "location": "United Kingdom",
+   "detail": "Full Time",
+   "url": null,
+   "new_this_run": true
+  },
+  {
+   "title": "FICO Blaze Domain Specialist (12-month contract)",
+   "org": "DeARX",
+   "location": "South Africa",
+   "detail": "Contractor",
    "url": null,
    "new_this_run": true
   }
@@ -255,6 +255,11 @@
    "at": "2026-11-23T02:44:53+00:00",
    "jobs": 20,
    "new": 17
+  },
+  {
+   "at": "2026-11-23T12:38:19+00:00",
+   "jobs": 20,
+   "new": 20
   }
  ],
  "jobs_seen": {
@@ -4142,6 +4147,146 @@
    "title": "Travel Concierge",
    "org": "HB Travels",
    "location": "United Kingdom"
+  },
+  "medical doctor / physician (mexico only)|elitebrain|mexico": {
+   "first_seen": "2026-11-23T12:38:19+00:00",
+   "last_seen": "2026-11-23T12:38:19+00:00",
+   "title": "Medical Doctor / Physician (Mexico Only)",
+   "org": "ELITEBRAIN",
+   "location": "Mexico"
+  },
+  "director of finance & accounting, remote (u.s.)|ceresai|united states": {
+   "first_seen": "2026-11-23T12:38:19+00:00",
+   "last_seen": "2026-11-23T12:38:19+00:00",
+   "title": "Director of Finance & Accounting, Remote (U.S.)",
+   "org": "CeresAI",
+   "location": "United States"
+  },
+  "email & lifecycle marketing manager (hubspot)|levelblue, llc.|united kingdom": {
+   "first_seen": "2026-11-23T12:38:19+00:00",
+   "last_seen": "2026-11-23T12:38:19+00:00",
+   "title": "Email & Lifecycle Marketing Manager (HubSpot)",
+   "org": "LevelBlue, LLC.",
+   "location": "United Kingdom"
+  },
+  "senior software developer, agentic ai - canada|counterpart health|canada": {
+   "first_seen": "2026-11-23T12:38:19+00:00",
+   "last_seen": "2026-11-23T12:38:19+00:00",
+   "title": "Senior Software Developer, Agentic AI - Canada",
+   "org": "Counterpart Health",
+   "location": "Canada"
+  },
+  "advanced software engineer|veryux|chile": {
+   "first_seen": "2026-11-23T12:38:19+00:00",
+   "last_seen": "2026-11-23T12:38:19+00:00",
+   "title": "Advanced Software Engineer",
+   "org": "VERYUX",
+   "location": "Chile"
+  },
+  "accounting expert - cpa certified|mercor|united states": {
+   "first_seen": "2026-11-23T12:38:19+00:00",
+   "last_seen": "2026-11-23T12:38:19+00:00",
+   "title": "Accounting Expert - CPA Certified",
+   "org": "mercor",
+   "location": "United States"
+  },
+  "inside sales representative- advertising executive|guide book publishing|united states": {
+   "first_seen": "2026-11-23T12:38:19+00:00",
+   "last_seen": "2026-11-23T12:38:19+00:00",
+   "title": "Inside Sales Representative- Advertising Executive",
+   "org": "Guide Book Publishing",
+   "location": "United States"
+  },
+  "ot cybersecurity architect|claroty|united states": {
+   "first_seen": "2026-11-23T12:38:19+00:00",
+   "last_seen": "2026-11-23T12:38:19+00:00",
+   "title": "OT Cybersecurity Architect",
+   "org": "Claroty",
+   "location": "United States"
+  },
+  "senior clinical research associate|icon|spain": {
+   "first_seen": "2026-11-23T12:38:19+00:00",
+   "last_seen": "2026-11-23T12:38:19+00:00",
+   "title": "Senior Clinical Research Associate",
+   "org": "ICON",
+   "location": "Spain"
+  },
+  "entry level remote sales - no experience required|the semler agency|united states": {
+   "first_seen": "2026-11-23T12:38:19+00:00",
+   "last_seen": "2026-11-23T12:38:19+00:00",
+   "title": "Entry Level Remote Sales - No Experience Required",
+   "org": "The Semler Agency",
+   "location": "United States"
+  },
+  "accountant (aca / acca / cima)|digital science|united kingdom": {
+   "first_seen": "2026-11-23T12:38:19+00:00",
+   "last_seen": "2026-11-23T12:38:19+00:00",
+   "title": "Accountant (ACA / ACCA / CIMA)",
+   "org": "Digital Science",
+   "location": "United Kingdom"
+  },
+  "fico blaze domain specialist (12-month contract)|dearx|south africa": {
+   "first_seen": "2026-11-23T12:38:19+00:00",
+   "last_seen": "2026-11-23T12:38:19+00:00",
+   "title": "FICO Blaze Domain Specialist (12-month contract)",
+   "org": "DeARX",
+   "location": "South Africa"
+  },
+  "sales manager (f/m/d) \u2013 data center|abb|germany": {
+   "first_seen": "2026-11-23T12:38:19+00:00",
+   "last_seen": "2026-11-23T12:38:19+00:00",
+   "title": "Sales Manager (f/m/d) \u2013 Data Center",
+   "org": "ABB",
+   "location": "Germany"
+  },
+  "senior cloud engineer|mondel\u0113z international|india": {
+   "first_seen": "2026-11-23T12:38:19+00:00",
+   "last_seen": "2026-11-23T12:38:19+00:00",
+   "title": "Senior Cloud Engineer",
+   "org": "Mondel\u0113z International",
+   "location": "India"
+  },
+  "senior software engineer (sip / voip)|genesys|india": {
+   "first_seen": "2026-11-23T12:38:19+00:00",
+   "last_seen": "2026-11-23T12:38:19+00:00",
+   "title": "Senior Software Engineer (SIP / VOIP)",
+   "org": "Genesys",
+   "location": "India"
+  },
+  "it desktop|emissary.ai|united states": {
+   "first_seen": "2026-11-23T12:38:19+00:00",
+   "last_seen": "2026-11-23T12:38:19+00:00",
+   "title": "IT Desktop",
+   "org": "Emissary.ai",
+   "location": "United States"
+  },
+  "senior accounting associate|savvital|pakistan": {
+   "first_seen": "2026-11-23T12:38:19+00:00",
+   "last_seen": "2026-11-23T12:38:19+00:00",
+   "title": "Senior Accounting Associate",
+   "org": "Savvital",
+   "location": "Pakistan"
+  },
+  "manager, seo/geo/aeo technology - remote|home depot u.s.a., inc.|united states": {
+   "first_seen": "2026-11-23T12:38:19+00:00",
+   "last_seen": "2026-11-23T12:38:19+00:00",
+   "title": "Manager, SEO/GEO/AEO Technology - Remote",
+   "org": "HOME DEPOT U.S.A., INC.",
+   "location": "United States"
+  },
+  "performance copywriter \u2014 ukraine|reach digital|ukraine": {
+   "first_seen": "2026-11-23T12:38:19+00:00",
+   "last_seen": "2026-11-23T12:38:19+00:00",
+   "title": "Performance Copywriter \u2014 Ukraine",
+   "org": "Reach Digital",
+   "location": "Ukraine"
+  },
+  "manager, market intelligence and data governance|propane education & research council|united states": {
+   "first_seen": "2026-11-23T12:38:19+00:00",
+   "last_seen": "2026-11-23T12:38:19+00:00",
+   "title": "MANAGER, MARKET INTELLIGENCE AND DATA GOVERNANCE",
+   "org": "Propane Education & Research Council",
+   "location": "United States"
   }
  }
 }

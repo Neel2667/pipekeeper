@@ -3,7 +3,7 @@
  "name": "Federal Register \u2014 newest federal documents",
  "category": "government",
  "source": "https://www.federalregister.gov",
- "collected_at": "2026-11-23T02:44:57+00:00",
+ "collected_at": "2026-11-23T12:38:25+00:00",
  "jobs_on_board": 100,
  "new_this_run": 0,
  "total_tracked": 501,
@@ -255,6 +255,11 @@
    "at": "2026-11-23T02:44:57+00:00",
    "jobs": 100,
    "new": 0
+  },
+  {
+   "at": "2026-11-23T12:38:25+00:00",
+   "jobs": 100,
+   "new": 0
   }
  ],
  "jobs_seen": {
@@ -400,21 +405,21 @@
   },
   "combined notice of filings|energy department, federal energy regulatory commission|": {
    "first_seen": "2026-11-15T10:14:08+00:00",
-   "last_seen": "2026-11-23T02:44:57+00:00",
+   "last_seen": "2026-11-23T12:38:25+00:00",
    "title": "Combined Notice of Filings",
    "org": "Energy Department, Federal Energy Regulatory Commission",
    "location": null
   },
   "combined notice of filings #2|energy department, federal energy regulatory commission|": {
    "first_seen": "2026-11-15T10:14:08+00:00",
-   "last_seen": "2026-11-23T02:44:57+00:00",
+   "last_seen": "2026-11-23T12:38:25+00:00",
    "title": "Combined Notice of Filings #2",
    "org": "Energy Department, Federal Energy Regulatory Commission",
    "location": null
   },
   "combined notice of filings #1|energy department, federal energy regulatory commission|": {
    "first_seen": "2026-11-15T10:14:08+00:00",
-   "last_seen": "2026-11-23T02:44:57+00:00",
+   "last_seen": "2026-11-23T12:38:25+00:00",
    "title": "Combined Notice of Filings #1",
    "org": "Energy Department, Federal Energy Regulatory Commission",
    "location": null
@@ -624,7 +629,7 @@
   },
   "new postal products|postal regulatory commission|": {
    "first_seen": "2026-11-15T10:14:08+00:00",
-   "last_seen": "2026-11-23T02:44:57+00:00",
+   "last_seen": "2026-11-23T12:38:25+00:00",
    "title": "New Postal Products",
    "org": "Postal Regulatory Commission",
    "location": null
@@ -729,7 +734,7 @@
   },
   "sunshine act meetings|nuclear regulatory commission|": {
    "first_seen": "2026-11-15T10:14:08+00:00",
-   "last_seen": "2026-11-23T02:44:57+00:00",
+   "last_seen": "2026-11-23T12:38:25+00:00",
    "title": "Sunshine Act Meetings",
    "org": "Nuclear Regulatory Commission",
    "location": null
@@ -1135,7 +1140,7 @@
   },
   "center for scientific review; notice of closed meeting|health and human services department, national institutes of health|": {
    "first_seen": "2026-11-17T13:26:15+00:00",
-   "last_seen": "2026-11-23T02:44:57+00:00",
+   "last_seen": "2026-11-23T12:38:25+00:00",
    "title": "Center for Scientific Review; Notice of Closed Meeting",
    "org": "Health and Human Services Department, National Institutes of Health",
    "location": null
@@ -1296,7 +1301,7 @@
   },
   "agency information collection activities: proposed collection; comment request|health and human services department, substance abuse and mental health services administration|": {
    "first_seen": "2026-11-17T13:26:15+00:00",
-   "last_seen": "2026-11-23T02:44:57+00:00",
+   "last_seen": "2026-11-23T12:38:25+00:00",
    "title": "Agency Information Collection Activities: Proposed Collection; Comment Request",
    "org": "Health and Human Services Department, Substance Abuse and Mental Health Services Administration",
    "location": null
@@ -1352,7 +1357,7 @@
   },
   "self-regulatory organizations; financial industry regulatory authority, inc.; notice of filing and immediate effectivene|securities and exchange commission|": {
    "first_seen": "2026-11-17T13:26:15+00:00",
-   "last_seen": "2026-11-23T02:44:57+00:00",
+   "last_seen": "2026-11-23T12:38:25+00:00",
    "title": "Self-Regulatory Organizations; Financial Industry Regulatory Authority, Inc.; Notice of Filing and Immediate Effectiveness of Proposed Rule Change To Amend FINRA Rule 6121.02 Concerning the Resumption of Trading Following a Level 3 Market-W",
    "org": "Securities and Exchange Commission",
    "location": null
@@ -1380,7 +1385,7 @@
   },
   "self-regulatory organizations; cboe clear u.s., llc; notice of filing and immediate effectiveness of proposed rule chang|securities and exchange commission|": {
    "first_seen": "2026-11-17T13:26:15+00:00",
-   "last_seen": "2026-11-23T02:44:57+00:00",
+   "last_seen": "2026-11-23T12:38:25+00:00",
    "title": "Self-Regulatory Organizations; Cboe Clear U.S., LLC; Notice of Filing and Immediate Effectiveness of Proposed Rule Change To Amend Its Fee Schedule To Adopt a Broker-Dealer Clearing Member Incentive Program and Reduce the Clearing Fee for S",
    "org": "Securities and Exchange Commission",
    "location": null
@@ -1989,7 +1994,7 @@
   },
   "notice of ofac sanctions action|treasury department, foreign assets control office|": {
    "first_seen": "2026-11-18T13:57:54+00:00",
-   "last_seen": "2026-11-23T02:44:57+00:00",
+   "last_seen": "2026-11-23T12:38:25+00:00",
    "title": "Notice of OFAC Sanctions Action",
    "org": "Treasury Department, Foreign Assets Control Office",
    "location": null
@@ -2087,7 +2092,7 @@
   },
   "agency information collection activities; submission to the office of management and budget (omb) for review and approva|commerce department, national oceanic and atmospheric administration|": {
    "first_seen": "2026-11-18T13:57:54+00:00",
-   "last_seen": "2026-11-23T02:44:57+00:00",
+   "last_seen": "2026-11-23T12:38:25+00:00",
    "title": "Agency Information Collection Activities; Submission to the Office of Management and Budget (OMB) for Review and Approval; Comment Request; Type-Approval Requirements for Vessel Monitoring Systems (VMS)",
    "org": "Commerce Department, National Oceanic and Atmospheric Administration",
    "location": null
@@ -2220,7 +2225,7 @@
   },
   "agency information collection activities: requests for comments; clearance of renewed approval of information collection|transportation department, federal aviation administration|": {
    "first_seen": "2026-11-19T13:05:40+00:00",
-   "last_seen": "2026-11-23T02:44:57+00:00",
+   "last_seen": "2026-11-23T12:38:25+00:00",
    "title": "Agency Information Collection Activities: Requests for Comments; Clearance of Renewed Approval of Information Collection: Monitoring, Reporting, and Verification (MRV) Program for Annex 16, Volume IV of the Convention on Civil Aviation",
    "org": "Transportation Department, Federal Aviation Administration",
    "location": null
@@ -2381,7 +2386,7 @@
   },
   "airworthiness directives; atr-gie avions de transport r\u00e9gional airplanes|transportation department, federal aviation administration|": {
    "first_seen": "2026-11-19T13:05:40+00:00",
-   "last_seen": "2026-11-23T02:44:57+00:00",
+   "last_seen": "2026-11-23T12:38:25+00:00",
    "title": "Airworthiness Directives; ATR-GIE Avions de Transport R\u00e9gional Airplanes",
    "org": "Transportation Department, Federal Aviation Administration",
    "location": null
@@ -2710,56 +2715,56 @@
   },
   "updates and amendments to the civil service rules|personnel management office|": {
    "first_seen": "2026-11-20T11:50:20+00:00",
-   "last_seen": "2026-11-23T02:44:57+00:00",
+   "last_seen": "2026-11-23T12:38:25+00:00",
    "title": "Updates and Amendments to the Civil Service Rules",
    "org": "Personnel Management Office",
    "location": null
   },
   "procedures for settling claims|personnel management office|": {
    "first_seen": "2026-11-20T11:50:20+00:00",
-   "last_seen": "2026-11-23T02:44:57+00:00",
+   "last_seen": "2026-11-23T12:38:25+00:00",
    "title": "Procedures for Settling Claims",
    "org": "Personnel Management Office",
    "location": null
   },
   "flsa claims and compliance|personnel management office|": {
    "first_seen": "2026-11-20T11:50:20+00:00",
-   "last_seen": "2026-11-23T02:44:57+00:00",
+   "last_seen": "2026-11-23T12:38:25+00:00",
    "title": "FLSA Claims and Compliance",
    "org": "Personnel Management Office",
    "location": null
   },
   "federal employees' retirement system; present value conversion factors for spouses of deceased separated employees|personnel management office|": {
    "first_seen": "2026-11-20T11:50:20+00:00",
-   "last_seen": "2026-11-23T02:44:57+00:00",
+   "last_seen": "2026-11-23T12:38:25+00:00",
    "title": "Federal Employees' Retirement System; Present Value Conversion Factors for Spouses of Deceased Separated Employees",
    "org": "Personnel Management Office",
    "location": null
   },
   "taking and importing marine mammals; taking marine mammals incidental to military readiness activities in the northwest |commerce department, national oceanic and atmospheric administration|": {
    "first_seen": "2026-11-20T11:50:20+00:00",
-   "last_seen": "2026-11-23T02:44:57+00:00",
+   "last_seen": "2026-11-23T12:38:25+00:00",
    "title": "Taking and Importing Marine Mammals; Taking Marine Mammals Incidental to Military Readiness Activities in the Northwest Training and Testing Study Area",
    "org": "Commerce Department, National Oceanic and Atmospheric Administration",
    "location": null
   },
   "agency information collection activities: submission for omb review, comment request; environmental and historic preserv|homeland security department, federal emergency management agency|": {
    "first_seen": "2026-11-20T11:50:20+00:00",
-   "last_seen": "2026-11-23T02:44:57+00:00",
+   "last_seen": "2026-11-23T12:38:25+00:00",
    "title": "Agency Information Collection Activities: Submission for OMB Review, Comment Request; Environmental and Historic Preservation Screening Form",
    "org": "Homeland Security Department, Federal Emergency Management Agency",
    "location": null
   },
   "agency information collection activities: proposed collection; comment request; state, tribe, and territory disaster cas|homeland security department, federal emergency management agency|": {
    "first_seen": "2026-11-20T11:50:20+00:00",
-   "last_seen": "2026-11-23T02:44:57+00:00",
+   "last_seen": "2026-11-23T12:38:25+00:00",
    "title": "Agency Information Collection Activities: Proposed Collection; Comment Request; State, Tribe, and Territory Disaster Case Management (DCM) Federal Award",
    "org": "Homeland Security Department, Federal Emergency Management Agency",
    "location": null
   },
   "extension of import restrictions imposed on archaeological and ethnological material of greece|homeland security department, u.s. customs and border protection|": {
    "first_seen": "2026-11-20T11:50:20+00:00",
-   "last_seen": "2026-11-23T02:44:57+00:00",
+   "last_seen": "2026-11-23T12:38:25+00:00",
    "title": "Extension of Import Restrictions Imposed on Archaeological and Ethnological Material of Greece",
    "org": "Homeland Security Department, U.S. Customs and Border Protection",
    "location": null
@@ -3256,511 +3261,511 @@
   },
   "establishment of class e airspace; columbus, tx|transportation department, federal aviation administration|": {
    "first_seen": "2026-11-21T09:54:51+00:00",
-   "last_seen": "2026-11-23T02:44:57+00:00",
+   "last_seen": "2026-11-23T12:38:25+00:00",
    "title": "Establishment of Class E Airspace; Columbus, TX",
    "org": "Transportation Department, Federal Aviation Administration",
    "location": null
   },
   "amendment of class e airspace; del rio, tx|transportation department, federal aviation administration|": {
    "first_seen": "2026-11-21T09:54:51+00:00",
-   "last_seen": "2026-11-23T02:44:57+00:00",
+   "last_seen": "2026-11-23T12:38:25+00:00",
    "title": "Amendment of Class E Airspace; Del Rio, TX",
    "org": "Transportation Department, Federal Aviation Administration",
    "location": null
   },
   "connect america fund; a national broadband plan for our future high-cost universal support, reforming the high-cost prog|federal communications commission|": {
    "first_seen": "2026-11-21T09:54:51+00:00",
-   "last_seen": "2026-11-23T02:44:57+00:00",
+   "last_seen": "2026-11-23T12:38:25+00:00",
    "title": "Connect America Fund; A National Broadband Plan for Our Future High-Cost Universal Support, Reforming the High-Cost Program for an All-IP Future, Safeguarding Universal Service Funding Through Effective Applicant Vetting",
    "org": "Federal Communications Commission",
    "location": null
   },
   "amendment of class d and e airspace and removal of class e airspace over lebanon, nh|transportation department, federal aviation administration|": {
    "first_seen": "2026-11-21T09:54:51+00:00",
-   "last_seen": "2026-11-23T02:44:57+00:00",
+   "last_seen": "2026-11-23T12:38:25+00:00",
    "title": "Amendment of Class D and E Airspace and Removal of Class E Airspace Over Lebanon, NH",
    "org": "Transportation Department, Federal Aviation Administration",
    "location": null
   },
   "horse protection amendments; extension of postponement of regulations|agriculture department, animal and plant health inspection service|": {
    "first_seen": "2026-11-21T09:54:51+00:00",
-   "last_seen": "2026-11-23T02:44:57+00:00",
+   "last_seen": "2026-11-23T12:38:25+00:00",
    "title": "Horse Protection Amendments; Extension of Postponement of Regulations",
    "org": "Agriculture Department, Animal and Plant Health Inspection Service",
    "location": null
   },
   "notice of public meeting to prepare for international maritime organization msc 111 session|state department|": {
    "first_seen": "2026-11-21T09:54:51+00:00",
-   "last_seen": "2026-11-23T02:44:57+00:00",
+   "last_seen": "2026-11-23T12:38:25+00:00",
    "title": "Notice of Public Meeting To Prepare for International Maritime Organization MSC 111 Session",
    "org": "State Department",
    "location": null
   },
   "notice of receipt of complaint; solicitation of comments relating to the public interest|international trade commission|": {
    "first_seen": "2026-11-21T09:54:51+00:00",
-   "last_seen": "2026-11-23T02:44:57+00:00",
+   "last_seen": "2026-11-23T12:38:25+00:00",
    "title": "Notice of Receipt of Complaint; Solicitation of Comments Relating to the Public Interest",
    "org": "International Trade Commission",
    "location": null
   },
   "consumer advisory board meeting|consumer financial protection bureau|": {
    "first_seen": "2026-11-21T09:54:51+00:00",
-   "last_seen": "2026-11-23T02:44:57+00:00",
+   "last_seen": "2026-11-23T12:38:25+00:00",
    "title": "Consumer Advisory Board Meeting",
    "org": "Consumer Financial Protection Bureau",
    "location": null
   },
   "certain transformers and components thereof; notice of a commission determination not to review an initial determination|international trade commission|": {
    "first_seen": "2026-11-21T09:54:51+00:00",
-   "last_seen": "2026-11-23T02:44:57+00:00",
+   "last_seen": "2026-11-23T12:38:25+00:00",
    "title": "Certain Transformers and Components Thereof; Notice of a Commission Determination Not To Review an Initial Determination Granting Joint Motion To Terminate the Investigation Based on Settlement; Termination of the Investigation in Its Entir",
    "org": "International Trade Commission",
    "location": null
   },
   "cybersecurity labeling for internet of things|federal communications commission|": {
    "first_seen": "2026-11-21T09:54:51+00:00",
-   "last_seen": "2026-11-23T02:44:57+00:00",
+   "last_seen": "2026-11-23T12:38:25+00:00",
    "title": "Cybersecurity Labeling for Internet of Things",
    "org": "Federal Communications Commission",
    "location": null
   },
   "magnesia carbon bricks from china and mexico; scheduling of expedited five-year reviews|international trade commission|": {
    "first_seen": "2026-11-21T09:54:51+00:00",
-   "last_seen": "2026-11-23T02:44:57+00:00",
+   "last_seen": "2026-11-23T12:38:25+00:00",
    "title": "Magnesia Carbon Bricks From China and Mexico; Scheduling of Expedited Five-Year Reviews",
    "org": "International Trade Commission",
    "location": null
   },
   "notice of lodging of proposed stipulation of settlement under the clean water act|justice department|": {
    "first_seen": "2026-11-21T09:54:51+00:00",
-   "last_seen": "2026-11-23T02:44:57+00:00",
+   "last_seen": "2026-11-23T12:38:25+00:00",
    "title": "Notice of Lodging of Proposed Stipulation of Settlement Under the Clean Water Act",
    "org": "Justice Department",
    "location": null
   },
   "foreign-trade zone 18; application for subzone expansion; energy recovery, inc.; tracy, california|commerce department, foreign-trade zones board|": {
    "first_seen": "2026-11-21T09:54:51+00:00",
-   "last_seen": "2026-11-23T02:44:57+00:00",
+   "last_seen": "2026-11-23T12:38:25+00:00",
    "title": "Foreign-Trade Zone 18; Application for Subzone Expansion; Energy Recovery, Inc.; Tracy, California",
    "org": "Commerce Department, Foreign-Trade Zones Board",
    "location": null
   },
   "foreign-trade zone (ftz) 7, notification of proposed production activity; hindustan platinum puerto rico; (electrical co|commerce department, foreign-trade zones board|": {
    "first_seen": "2026-11-21T09:54:51+00:00",
-   "last_seen": "2026-11-23T02:44:57+00:00",
+   "last_seen": "2026-11-23T12:38:25+00:00",
    "title": "Foreign-Trade Zone (FTZ) 7, Notification of Proposed Production Activity; Hindustan Platinum Puerto Rico; (Electrical Contacts); Humacao, Puerto Rico",
    "org": "Commerce Department, Foreign-Trade Zones Board",
    "location": null
   },
   "foreign-trade zone (ftz) 19, notification of proposed production activity; claas omaha, inc.; (combine harvesters and ad|commerce department, foreign-trade zones board|": {
    "first_seen": "2026-11-21T09:54:51+00:00",
-   "last_seen": "2026-11-23T02:44:57+00:00",
+   "last_seen": "2026-11-23T12:38:25+00:00",
    "title": "Foreign-Trade Zone (FTZ) 19, Notification of Proposed Production Activity; CLAAS Omaha, Inc.; (Combine Harvesters and Adapters); Omaha, Nebraska",
    "org": "Commerce Department, Foreign-Trade Zones Board",
    "location": null
   },
   "foreign-trade zone (ftz) 204, notification of proposed production activity; primester gp; (nonplasticized cellulose acet|commerce department, foreign-trade zones board|": {
    "first_seen": "2026-11-21T09:54:51+00:00",
-   "last_seen": "2026-11-23T02:44:57+00:00",
+   "last_seen": "2026-11-23T12:38:25+00:00",
    "title": "Foreign-Trade Zone (FTZ) 204, Notification of Proposed Production Activity; Primester GP; (Nonplasticized Cellulose Acetate Flakes); Kingsport, Tennessee",
    "org": "Commerce Department, Foreign-Trade Zones Board",
    "location": null
   },
   "foreign-trade zone (ftz) 21; authorization of production activity; zapp precision wire, inc.; (precision wire and metal |commerce department, foreign-trade zones board|": {
    "first_seen": "2026-11-21T09:54:51+00:00",
-   "last_seen": "2026-11-23T02:44:57+00:00",
+   "last_seen": "2026-11-23T12:38:25+00:00",
    "title": "Foreign-Trade Zone (FTZ) 21; Authorization of Production Activity; Zapp Precision Wire, Inc.; (Precision Wire and Metal Products); Summerville, South Carolina",
    "org": "Commerce Department, Foreign-Trade Zones Board",
    "location": null
   },
   "foreign-trade zone (ftz) 102; authorization of production activity; basf agricultural solutions us llc; (agricultural fu|commerce department, foreign-trade zones board|": {
    "first_seen": "2026-11-21T09:54:51+00:00",
-   "last_seen": "2026-11-23T02:44:57+00:00",
+   "last_seen": "2026-11-23T12:38:25+00:00",
    "title": "Foreign-Trade Zone (FTZ) 102; Authorization of Production Activity; BASF Agricultural Solutions US LLC; (Agricultural Fungicide and Herbicide Products); Fenton and Palmyra, Missouri",
    "org": "Commerce Department, Foreign-Trade Zones Board",
    "location": null
   },
   "certain cold-rolled steel flat products from the republic of korea: preliminary results and rescission, in part of count|commerce department, international trade administration|": {
    "first_seen": "2026-11-21T09:54:51+00:00",
-   "last_seen": "2026-11-23T02:44:57+00:00",
+   "last_seen": "2026-11-23T12:38:25+00:00",
    "title": "Certain Cold-Rolled Steel Flat Products From the Republic of Korea: Preliminary Results and Rescission, in Part of Countervailing Duty Administrative Review; 2024",
    "org": "Commerce Department, International Trade Administration",
    "location": null
   },
   "agency information collection activities under omb review|commodity futures trading commission|": {
    "first_seen": "2026-11-21T09:54:51+00:00",
-   "last_seen": "2026-11-23T02:44:57+00:00",
+   "last_seen": "2026-11-23T12:38:25+00:00",
    "title": "Agency Information Collection Activities Under OMB Review",
    "org": "Commodity Futures Trading Commission",
    "location": null
   },
   "national institute for occupational safety and health (niosh) center for occupational robotics research (corr); request |health and human services department, centers for disease control and prevention|": {
    "first_seen": "2026-11-21T09:54:51+00:00",
-   "last_seen": "2026-11-23T02:44:57+00:00",
+   "last_seen": "2026-11-23T12:38:25+00:00",
    "title": "National Institute for Occupational Safety and Health (NIOSH) Center for Occupational Robotics Research (CORR); Request for Information",
    "org": "Health and Human Services Department, Centers for Disease Control and Prevention",
    "location": null
   },
   "request for public comment on the proposed short-term exposure limit for occupational exposure to carbon monoxide|health and human services department, centers for disease control and prevention|": {
    "first_seen": "2026-11-21T09:54:51+00:00",
-   "last_seen": "2026-11-23T02:44:57+00:00",
+   "last_seen": "2026-11-23T12:38:25+00:00",
    "title": "Request for Public Comment on the Proposed Short-Term Exposure Limit for Occupational Exposure to Carbon Monoxide",
    "org": "Health and Human Services Department, Centers for Disease Control and Prevention",
    "location": null
   },
   "meeting of the microbiome subcommittee of the presidential advisory council on combating antibiotic-resistant bacteria|health and human services department|": {
    "first_seen": "2026-11-21T09:54:51+00:00",
-   "last_seen": "2026-11-23T02:44:57+00:00",
+   "last_seen": "2026-11-23T12:38:25+00:00",
    "title": "Meeting of the Microbiome Subcommittee of the Presidential Advisory Council on Combating Antibiotic-Resistant Bacteria",
    "org": "Health and Human Services Department",
    "location": null
   },
   "agency information collection activities: determining eligibility for free and reduced price meals and free milk in scho|agriculture department, food and nutrition administration|": {
    "first_seen": "2026-11-21T09:54:51+00:00",
-   "last_seen": "2026-11-23T02:44:57+00:00",
+   "last_seen": "2026-11-23T12:38:25+00:00",
    "title": "Agency Information Collection Activities: Determining Eligibility for Free and Reduced Price Meals and Free Milk in Schools-7 CFR Part 245",
    "org": "Agriculture Department, Food and Nutrition Administration",
    "location": null
   },
   "extension of import restrictions imposed on archaeological and ethnological material of egypt|homeland security department, u.s. customs and border protection|": {
    "first_seen": "2026-11-21T09:54:51+00:00",
-   "last_seen": "2026-11-23T02:44:57+00:00",
+   "last_seen": "2026-11-23T12:38:25+00:00",
    "title": "Extension of Import Restrictions Imposed on Archaeological and Ethnological Material of Egypt",
    "org": "Homeland Security Department, U.S. Customs and Border Protection",
    "location": null
   },
   "united states-mexico-canada agreement (usmca), article 10.12: binational panel review: notice of request for panel revie|commerce department, international trade administration|": {
    "first_seen": "2026-11-21T09:54:51+00:00",
-   "last_seen": "2026-11-23T02:44:57+00:00",
+   "last_seen": "2026-11-23T12:38:25+00:00",
    "title": "United States-Mexico-Canada Agreement (USMCA), Article 10.12: Binational Panel Review: Notice of Request for Panel Review",
    "org": "Commerce Department, International Trade Administration",
    "location": null
   },
   "notice of department of state sanctions actions|state department|": {
    "first_seen": "2026-11-21T09:54:51+00:00",
-   "last_seen": "2026-11-23T02:44:57+00:00",
+   "last_seen": "2026-11-23T12:38:25+00:00",
    "title": "Notice of Department of State Sanctions Actions",
    "org": "State Department",
    "location": null
   },
   "powerlaw corp, et al.|securities and exchange commission|": {
    "first_seen": "2026-11-21T09:54:51+00:00",
-   "last_seen": "2026-11-23T02:44:57+00:00",
+   "last_seen": "2026-11-23T12:38:25+00:00",
    "title": "Powerlaw Corp, et al.",
    "org": "Securities and Exchange Commission",
    "location": null
   },
   "epa response to state initial designations for the 2024 revised secondary annual sulfur dioxide national ambient air qua|environmental protection agency|": {
    "first_seen": "2026-11-21T09:54:51+00:00",
-   "last_seen": "2026-11-23T02:44:57+00:00",
+   "last_seen": "2026-11-23T12:38:25+00:00",
    "title": "EPA Response to State Initial Designations for the 2024 Revised Secondary Annual Sulfur Dioxide National Ambient Air Quality Standard: Notice of Availability and Public Comment Period",
    "org": "Environmental Protection Agency",
    "location": null
   },
   "certain new chemicals or significant new uses; statements of findings-august 2026|environmental protection agency|": {
    "first_seen": "2026-11-21T09:54:51+00:00",
-   "last_seen": "2026-11-23T02:44:57+00:00",
+   "last_seen": "2026-11-23T12:38:25+00:00",
    "title": "Certain New Chemicals or Significant New Uses; Statements of Findings-August 2026",
    "org": "Environmental Protection Agency",
    "location": null
   },
   "sunshine act meetings|election assistance commission|": {
    "first_seen": "2026-11-21T09:54:51+00:00",
-   "last_seen": "2026-11-23T02:44:57+00:00",
+   "last_seen": "2026-11-23T12:38:25+00:00",
    "title": "Sunshine Act Meetings",
    "org": "Election Assistance Commission",
    "location": null
   },
   "miscellaneous technical amendments; technical amendment|transportation department, federal aviation administration|": {
    "first_seen": "2026-11-21T09:54:51+00:00",
-   "last_seen": "2026-11-23T02:44:57+00:00",
+   "last_seen": "2026-11-23T12:38:25+00:00",
    "title": "Miscellaneous Technical Amendments; Technical Amendment",
    "org": "Transportation Department, Federal Aviation Administration",
    "location": null
   },
   "agency information collection activities: requests for comments; clearance of a renewed approval of information collecti|transportation department, federal aviation administration|": {
    "first_seen": "2026-11-21T09:54:51+00:00",
-   "last_seen": "2026-11-23T02:44:57+00:00",
+   "last_seen": "2026-11-23T12:38:25+00:00",
    "title": "Agency Information Collection Activities: Requests for Comments; Clearance of a Renewed Approval of Information Collection: Federal Aviation Regulation Part 119-Certification: Air Carriers and Commercial Operators",
    "org": "Transportation Department, Federal Aviation Administration",
    "location": null
   },
   "agency information collection activities; comment request relating to late filing of certification or notices|treasury department, internal revenue service|": {
    "first_seen": "2026-11-21T09:54:51+00:00",
-   "last_seen": "2026-11-23T02:44:57+00:00",
+   "last_seen": "2026-11-23T12:38:25+00:00",
    "title": "Agency Information Collection Activities; Comment Request Relating to Late Filing of Certification or Notices",
    "org": "Treasury Department, Internal Revenue Service",
    "location": null
   },
   "administrative declaration of a disaster for the territory of guam|small business administration|": {
    "first_seen": "2026-11-21T09:54:51+00:00",
-   "last_seen": "2026-11-23T02:44:57+00:00",
+   "last_seen": "2026-11-23T12:38:25+00:00",
    "title": "Administrative Declaration of a Disaster for the Territory of Guam",
    "org": "Small Business Administration",
    "location": null
   },
   "privacy act of 1974; system of records|national labor relations board|": {
    "first_seen": "2026-11-21T09:54:51+00:00",
-   "last_seen": "2026-11-23T02:44:57+00:00",
+   "last_seen": "2026-11-23T12:38:25+00:00",
    "title": "Privacy Act of 1974; System of Records",
    "org": "National Labor Relations Board",
    "location": null
   },
   "administrative disaster declaration of a rural area for the state of new hampshire|small business administration|": {
    "first_seen": "2026-11-21T09:54:51+00:00",
-   "last_seen": "2026-11-23T02:44:57+00:00",
+   "last_seen": "2026-11-23T12:38:25+00:00",
    "title": "Administrative Disaster Declaration of a Rural Area for the State of New Hampshire",
    "org": "Small Business Administration",
    "location": null
   },
   "employee or independent contractor status under the fair labor standards act, family and medical leave act, and migrant |labor department, wage and hour division|": {
    "first_seen": "2026-11-21T09:54:51+00:00",
-   "last_seen": "2026-11-23T02:44:57+00:00",
+   "last_seen": "2026-11-23T12:38:25+00:00",
    "title": "Employee or Independent Contractor Status Under the Fair Labor Standards Act, Family and Medical Leave Act, and Migrant and Seasonal Agricultural Worker Protection Act",
    "org": "Labor Department, Wage and Hour Division",
    "location": null
   },
   "endangered species; recovery permit applications|interior department, fish and wildlife service|": {
    "first_seen": "2026-11-21T09:54:51+00:00",
-   "last_seen": "2026-11-23T02:44:57+00:00",
+   "last_seen": "2026-11-23T12:38:25+00:00",
    "title": "Endangered Species; Recovery Permit Applications",
    "org": "Interior Department, Fish and Wildlife Service",
    "location": null
   },
   "defense trade advisory group; notice of open meeting|state department|": {
    "first_seen": "2026-11-21T09:54:51+00:00",
-   "last_seen": "2026-11-23T02:44:57+00:00",
+   "last_seen": "2026-11-23T12:38:25+00:00",
    "title": "Defense Trade Advisory Group; Notice of Open Meeting",
    "org": "State Department",
    "location": null
   },
   "agency information collection activities: notice of request for an extension of a currently approved information collect|transportation department, federal highway administration|": {
    "first_seen": "2026-11-21T09:54:51+00:00",
-   "last_seen": "2026-11-23T02:44:57+00:00",
+   "last_seen": "2026-11-23T12:38:25+00:00",
    "title": "Agency Information Collection Activities: Notice of Request for an Extension of a Currently Approved Information Collection",
    "org": "Transportation Department, Federal Highway Administration",
    "location": null
   },
   "north american free trade agreement (nafta), article 1904; binational panel review: notice of completion of panel review|commerce department, international trade administration|": {
    "first_seen": "2026-11-21T09:54:51+00:00",
-   "last_seen": "2026-11-23T02:44:57+00:00",
+   "last_seen": "2026-11-23T12:38:25+00:00",
    "title": "North American Free Trade Agreement (NAFTA), Article 1904; Binational Panel Review: Notice of Completion of Panel Review",
    "org": "Commerce Department, International Trade Administration",
    "location": null
   },
   "marine mammals; incidental take during specified activities; proposed incidental harassment authorization for southwest |interior department, fish and wildlife service|": {
    "first_seen": "2026-11-21T09:54:51+00:00",
-   "last_seen": "2026-11-23T02:44:57+00:00",
+   "last_seen": "2026-11-23T12:38:25+00:00",
    "title": "Marine Mammals; Incidental Take During Specified Activities; Proposed Incidental Harassment Authorization for Southwest Alaska Stock of Northern Sea Otters in Kodiak, Alaska",
    "org": "Interior Department, Fish and Wildlife Service",
    "location": null
   },
   "request for comments on the renewal of a previously approved information collection: information to determine seamen's r|transportation department, maritime administration|": {
    "first_seen": "2026-11-21T09:54:51+00:00",
-   "last_seen": "2026-11-23T02:44:57+00:00",
+   "last_seen": "2026-11-23T12:38:25+00:00",
    "title": "Request for Comments on the Renewal of a Previously Approved Information Collection: Information To Determine Seamen's Reemployment Rights-National Emergency",
    "org": "Transportation Department, Maritime Administration",
    "location": null
   },
   "request for comments on the renewal of a previously approved information collection: application to participate; volunta|transportation department, maritime administration|": {
    "first_seen": "2026-11-21T09:54:51+00:00",
-   "last_seen": "2026-11-23T02:44:57+00:00",
+   "last_seen": "2026-11-23T12:38:25+00:00",
    "title": "Request for Comments on the Renewal of a Previously Approved Information Collection: Application To Participate; Voluntary Tanker Agreement",
    "org": "Transportation Department, Maritime Administration",
    "location": null
   },
   "chronic wasting disease herd certification program standards|agriculture department, animal and plant health inspection service|": {
    "first_seen": "2026-11-21T09:54:51+00:00",
-   "last_seen": "2026-11-23T02:44:57+00:00",
+   "last_seen": "2026-11-23T12:38:25+00:00",
    "title": "Chronic Wasting Disease Herd Certification Program Standards",
    "org": "Agriculture Department, Animal and Plant Health Inspection Service",
    "location": null
   },
   "notice of intent to designate as abandoned heli-support, inc. supplemental type certificates|transportation department, federal aviation administration|": {
    "first_seen": "2026-11-21T09:54:51+00:00",
-   "last_seen": "2026-11-23T02:44:57+00:00",
+   "last_seen": "2026-11-23T12:38:25+00:00",
    "title": "Notice of Intent To Designate as Abandoned Heli-Support, Inc. Supplemental Type Certificates",
    "org": "Transportation Department, Federal Aviation Administration",
    "location": null
   },
   "regulations implementing the privacy act|occupational safety and health review commission|": {
    "first_seen": "2026-11-21T09:54:51+00:00",
-   "last_seen": "2026-11-23T02:44:57+00:00",
+   "last_seen": "2026-11-23T12:38:25+00:00",
    "title": "Regulations Implementing the Privacy Act",
    "org": "Occupational Safety and Health Review Commission",
    "location": null
   },
   "advisory committee on reactor safeguards charter renewal|nuclear regulatory commission|": {
    "first_seen": "2026-11-21T09:54:51+00:00",
-   "last_seen": "2026-11-23T02:44:57+00:00",
+   "last_seen": "2026-11-23T12:38:25+00:00",
    "title": "Advisory Committee on Reactor Safeguards Charter Renewal",
    "org": "Nuclear Regulatory Commission",
    "location": null
   },
   "agency information collection activities: reinstatement with change of a previously approved information collection; com|merit systems protection board|": {
    "first_seen": "2026-11-21T09:54:51+00:00",
-   "last_seen": "2026-11-23T02:44:57+00:00",
+   "last_seen": "2026-11-23T12:38:25+00:00",
    "title": "Agency Information Collection Activities: Reinstatement With Change of a Previously Approved Information Collection; Comment Request",
    "org": "Merit Systems Protection Board",
    "location": null
   },
   "proposed agency information collection request; comment request; reinstatement with change of a previously approved coll|millennium challenge corporation|": {
    "first_seen": "2026-11-21T09:54:51+00:00",
-   "last_seen": "2026-11-23T02:44:57+00:00",
+   "last_seen": "2026-11-23T12:38:25+00:00",
    "title": "Proposed Agency Information Collection Request; Comment Request; Reinstatement With Change of a Previously Approved Collection: Restricted Data Use Application",
    "org": "Millennium Challenge Corporation",
    "location": null
   },
   "agency information collection activities; submission to the office of management and budget (omb) for review and approva|commerce department, industry and security bureau|": {
    "first_seen": "2026-11-21T09:54:51+00:00",
-   "last_seen": "2026-11-23T02:44:57+00:00",
+   "last_seen": "2026-11-23T12:38:25+00:00",
    "title": "Agency Information Collection Activities; Submission to the Office of Management and Budget (OMB) for Review and Approval; Comment Request; Additional Protocol Report Forms",
    "org": "Commerce Department, Industry and Security Bureau",
    "location": null
   },
   "agency information collection activity: va-fsc vendor file request|veterans affairs department|": {
    "first_seen": "2026-11-21T09:54:51+00:00",
-   "last_seen": "2026-11-23T02:44:57+00:00",
+   "last_seen": "2026-11-23T12:38:25+00:00",
    "title": "Agency Information Collection Activity: VA-FSC Vendor File Request",
    "org": "Veterans Affairs Department",
    "location": null
   },
   "agency information collection activities; individual landholder's and farm operator's certification and reporting forms |interior department, reclamation bureau|": {
    "first_seen": "2026-11-21T09:54:51+00:00",
-   "last_seen": "2026-11-23T02:44:57+00:00",
+   "last_seen": "2026-11-23T12:38:25+00:00",
    "title": "Agency Information Collection Activities; Individual Landholder's and Farm Operator's Certification and Reporting Forms for Acreage Limitation; Certification Summary Form, Reporting Summary Form for Acreage Limitation; Forms to Determine Co",
    "org": "Interior Department, Reclamation Bureau",
    "location": null
   },
   "agency information collection activity: program of comprehensive assistance for family caregivers (pcafc)|veterans affairs department|": {
    "first_seen": "2026-11-21T09:54:51+00:00",
-   "last_seen": "2026-11-23T02:44:57+00:00",
+   "last_seen": "2026-11-23T12:38:25+00:00",
    "title": "Agency Information Collection Activity: Program of Comprehensive Assistance for Family Caregivers (PCAFC)",
    "org": "Veterans Affairs Department",
    "location": null
   },
   "radiant industries, inc.; special nuclear materials license application for a fuel packing facility; environmental asses|nuclear regulatory commission|": {
    "first_seen": "2026-11-21T09:54:51+00:00",
-   "last_seen": "2026-11-23T02:44:57+00:00",
+   "last_seen": "2026-11-23T12:38:25+00:00",
    "title": "Radiant Industries, Inc.; Special Nuclear Materials License Application for a Fuel Packing Facility; Environmental Assessment and Finding of No Significant Impact",
    "org": "Nuclear Regulatory Commission",
    "location": null
   },
   "interim staff guidance: nrc application pathway for reactor designs previously authorized by u.s. department of energy o|nuclear regulatory commission|": {
    "first_seen": "2026-11-21T09:54:51+00:00",
-   "last_seen": "2026-11-23T02:44:57+00:00",
+   "last_seen": "2026-11-23T12:38:25+00:00",
    "title": "Interim Staff Guidance: NRC Application Pathway for Reactor Designs Previously Authorized by U.S. Department of Energy or Department of War",
    "org": "Nuclear Regulatory Commission",
    "location": null
   },
   "plastic balloons from china; institution of antidumping and countervailing duty investigations and scheduling of prelimi|international trade commission|": {
    "first_seen": "2026-11-21T09:54:51+00:00",
-   "last_seen": "2026-11-23T02:44:57+00:00",
+   "last_seen": "2026-11-23T12:38:25+00:00",
    "title": "Plastic Balloons From China; Institution of Antidumping and Countervailing Duty Investigations and Scheduling of Preliminary Phase Investigations",
    "org": "International Trade Commission",
    "location": null
   },
   "tobacco products scientific advisory committee; notice of meeting; establishment of a public docket; request for comment|health and human services department, food and drug administration|": {
    "first_seen": "2026-11-21T09:54:51+00:00",
-   "last_seen": "2026-11-23T02:44:57+00:00",
+   "last_seen": "2026-11-23T12:38:25+00:00",
    "title": "Tobacco Products Scientific Advisory Committee; Notice of Meeting; Establishment of a Public Docket; Request for Comments",
    "org": "Health and Human Services Department, Food and Drug Administration",
    "location": null
   },
   "self-regulatory organizations; 24x national exchange llc; notice of filing of a proposed rule change to adopt rules to g|securities and exchange commission|": {
    "first_seen": "2026-11-21T09:54:51+00:00",
-   "last_seen": "2026-11-23T02:44:57+00:00",
+   "last_seen": "2026-11-23T12:38:25+00:00",
    "title": "Self-Regulatory Organizations; 24X National Exchange LLC; Notice of Filing of a Proposed Rule Change To Adopt Rules To Govern the Trading of Options on the Exchange",
    "org": "Securities and Exchange Commission",
    "location": null
   },
   "quarterly publication of individuals who have chosen to expatriate; correction|treasury department, internal revenue service|": {
    "first_seen": "2026-11-21T09:54:51+00:00",
-   "last_seen": "2026-11-23T02:44:57+00:00",
+   "last_seen": "2026-11-23T12:38:25+00:00",
    "title": "Quarterly Publication of Individuals Who Have Chosen To Expatriate; Correction",
    "org": "Treasury Department, Internal Revenue Service",
    "location": null
   },
   "adjustment of threshold amount specified in 38 u.s.c. 8104(a)(3)(a) pursuant to gsa cost indexes under 40 u.s.c. 3307(h)|veterans affairs department|": {
    "first_seen": "2026-11-21T09:54:51+00:00",
-   "last_seen": "2026-11-23T02:44:57+00:00",
+   "last_seen": "2026-11-23T12:38:25+00:00",
    "title": "Adjustment of Threshold Amount Specified in 38 U.S.C. 8104(a)(3)(A) Pursuant to GSA Cost Indexes Under 40 U.S.C. 3307(h)",
    "org": "Veterans Affairs Department",
    "location": null
   },
   "self-regulatory organizations; the depository trust company; notice of filing of partial amendment no. 1 and order grant|securities and exchange commission|": {
    "first_seen": "2026-11-21T09:54:51+00:00",
-   "last_seen": "2026-11-23T02:44:57+00:00",
+   "last_seen": "2026-11-23T12:38:25+00:00",
    "title": "Self-Regulatory Organizations; The Depository Trust Company; Notice of Filing of Partial Amendment No. 1 and Order Granting Accelerated Approval of a Proposed Rule Change, as Modified by Partial Amendment No. 1, To Modernize the Direct Regi",
    "org": "Securities and Exchange Commission",
    "location": null
   },
   "self-regulatory organizations; cme securities clearing inc.; notice of filing and immediate effectiveness of a proposed |securities and exchange commission|": {
    "first_seen": "2026-11-21T09:54:51+00:00",
-   "last_seen": "2026-11-23T02:44:57+00:00",
+   "last_seen": "2026-11-23T12:38:25+00:00",
    "title": "Self-Regulatory Organizations; CME Securities Clearing Inc.; Notice of Filing and Immediate Effectiveness of a Proposed Rule Change Relating to Operational Rule Changes",
    "org": "Securities and Exchange Commission",
    "location": null
   },
   "federal financial participation in state assistance expenditures; federal matching shares for medicaid, the children's h|health and human services department,|": {
    "first_seen": "2026-11-21T09:54:51+00:00",
-   "last_seen": "2026-11-23T02:44:57+00:00",
+   "last_seen": "2026-11-23T12:38:25+00:00",
    "title": "Federal Financial Participation in State Assistance Expenditures; Federal Matching Shares for Medicaid, the Children's Health Insurance Program, and Aid to Needy Aged, Blind, or Disabled Persons for October 1, 2027, Through September 30, 20",
    "org": "Health and Human Services Department,",
    "location": null
   },
   "agency information collection activities; submission for office of management and budget review; comment request; extral|health and human services department, food and drug administration|": {
    "first_seen": "2026-11-21T09:54:51+00:00",
-   "last_seen": "2026-11-23T02:44:57+00:00",
+   "last_seen": "2026-11-23T12:38:25+00:00",
    "title": "Agency Information Collection Activities; Submission for Office of Management and Budget Review; Comment Request; Extralabel Drug Use in Animals",
    "org": "Health and Human Services Department, Food and Drug Administration",
    "location": null
   },
   "notice of open meeting for the 2026-2027 exim advisory committee|export-import bank|": {
    "first_seen": "2026-11-21T09:54:51+00:00",
-   "last_seen": "2026-11-23T02:44:57+00:00",
+   "last_seen": "2026-11-23T12:38:25+00:00",
    "title": "Notice of Open Meeting for the 2026-2027 EXIM Advisory Committee",
    "org": "Export-Import Bank",
    "location": null
   },
   "60-day notice for the \u201cgeneric clearance for the collection of qualitative feedback on agency service delivery\u201d|national foundation on the arts and the humanities, national endowment for the arts|": {
    "first_seen": "2026-11-21T09:54:51+00:00",
-   "last_seen": "2026-11-23T02:44:57+00:00",
+   "last_seen": "2026-11-23T12:38:25+00:00",
    "title": "60-Day Notice for the \u201cGeneric Clearance for the Collection of Qualitative Feedback on Agency Service Delivery\u201d",
    "org": "National Foundation on the Arts and the Humanities, National Endowment for the Arts",
    "location": null
   },
   "product change-priority mail and usps ground advantage negotiated service agreements; priority mail, usps ground advanta|postal service|": {
    "first_seen": "2026-11-21T09:54:51+00:00",
-   "last_seen": "2026-11-23T02:44:57+00:00",
+   "last_seen": "2026-11-23T12:38:25+00:00",
    "title": "Product Change-Priority Mail and USPS Ground Advantage Negotiated Service Agreements; Priority Mail, USPS Ground Advantage, and Parcel Select Negotiated Service Agreements",
    "org": "Postal Service",
    "location": null
   },
   "agency information collection activities: dhs civil rights and civil liberties complaint and privacy waiver form, 1601-0|homeland security department|": {
    "first_seen": "2026-11-21T09:54:51+00:00",
-   "last_seen": "2026-11-23T02:44:57+00:00",
+   "last_seen": "2026-11-23T12:38:25+00:00",
    "title": "Agency Information Collection Activities: DHS Civil Rights and Civil Liberties Complaint and Privacy Waiver Form, 1601-0035",
    "org": "Homeland Security Department",
    "location": null
   },
   "list of rules to be reviewed pursuant to the regulatory flexibility act|commodity futures trading commission|": {
    "first_seen": "2026-11-21T09:54:51+00:00",
-   "last_seen": "2026-11-23T02:44:57+00:00",
+   "last_seen": "2026-11-23T12:38:25+00:00",
    "title": "List of Rules To Be Reviewed Pursuant to the Regulatory Flexibility Act",
    "org": "Commodity Futures Trading Commission",
    "location": null
   },
   "marine mammals; incidental take during specified activities; proposed incidental harassment authorization for southcentr|interior department, fish and wildlife service|": {
    "first_seen": "2026-11-21T09:54:51+00:00",
-   "last_seen": "2026-11-23T02:44:57+00:00",
+   "last_seen": "2026-11-23T12:38:25+00:00",
    "title": "Marine Mammals; Incidental Take During Specified Activities; Proposed Incidental Harassment Authorization for Southcentral Alaska Stock of Northern Sea Otters at the ARRC Seward Alaska Marine Terminal Freight Dock in Seward, Alaska",
    "org": "Interior Department, Fish and Wildlife Service",
    "location": null
   },
   "notice of final federal agency actions on proposed transportation project in california|transportation department, federal highway administration|": {
    "first_seen": "2026-11-21T09:54:51+00:00",
-   "last_seen": "2026-11-23T02:44:57+00:00",
+   "last_seen": "2026-11-23T12:38:25+00:00",
    "title": "Notice of Final Federal Agency Actions on Proposed Transportation Project in California",
    "org": "Transportation Department, Federal Highway Administration",
    "location": null

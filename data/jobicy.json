@@ -3,106 +3,106 @@
  "name": "Jobicy \u2014 remote jobs",
  "category": "jobs",
  "source": "https://jobicy.com/api/v2/remote-jobs",
- "collected_at": "2026-11-23T02:44:53+00:00",
+ "collected_at": "2026-11-23T12:38:19+00:00",
  "jobs_on_board": 50,
- "new_this_run": 0,
- "total_tracked": 845,
+ "new_this_run": 50,
+ "total_tracked": 895,
  "jobs": [
   {
-   "title": "Senior Software Engineer (Platform Engineer), Cloud Governance",
-   "org": "VTEX",
-   "location": "Brazil",
-   "detail": "Senior",
-   "url": "https://jobicy.com/jobs/163890-senior-software-engineer-platform-engineer-cloud-governance",
-   "new_this_run": false
-  },
-  {
-   "title": "Senior Software Engineer, Frontend",
-   "org": "VTEX",
-   "location": "Brazil",
-   "detail": "Senior",
-   "url": "https://jobicy.com/jobs/163889-senior-software-engineer-frontend-4",
-   "new_this_run": false
-  },
-  {
-   "title": "Senior Software Engineer, Backend",
-   "org": "VTEX",
-   "location": "Brazil",
-   "detail": "Senior",
-   "url": "https://jobicy.com/jobs/163888-senior-software-engineer-backend-5",
-   "new_this_run": false
-  },
-  {
-   "title": "Talent Acquisition Partner (LATAM)",
-   "org": "Precision Medicine Group",
-   "location": "LATAM",
-   "detail": "Senior",
-   "url": "https://jobicy.com/jobs/163887-talent-acquisition-partner-latam",
-   "new_this_run": false
-  },
-  {
-   "title": "Senior Full-Stack Engineer (React/Next.js) - Media Production",
-   "org": "Truelogic",
-   "location": "Brazil",
-   "detail": "Senior",
-   "url": "https://jobicy.com/jobs/163886-senior-full-stack-engineer-react-next-js-media-production",
-   "new_this_run": false
-  },
-  {
-   "title": "Sr. Clinical Research Associate (Brazil)",
-   "org": "Alimentiv",
-   "location": "Brazil",
-   "detail": "Senior",
-   "url": "https://jobicy.com/jobs/163885-sr-clinical-research-associate-brazil",
-   "new_this_run": false
-  },
-  {
-   "title": "Senior Analytics Specialist",
-   "org": "Qventus",
-   "location": "LATAM",
-   "detail": "Senior",
-   "url": "https://jobicy.com/jobs/163884-senior-analytics-specialist",
-   "new_this_run": false
-  },
-  {
-   "title": "In-House CRA II (Mexico)",
-   "org": "Precision Medicine Group",
-   "location": "Mexico",
-   "detail": "Senior",
-   "url": "https://jobicy.com/jobs/163883-in-house-cra-ii-mexico",
-   "new_this_run": false
-  },
-  {
-   "title": "Junior/Semi-Senior Back-End Engineer (.NET) - IT Solutions",
-   "org": "Truelogic",
-   "location": "Mexico",
-   "detail": "Senior",
-   "url": "https://jobicy.com/jobs/163882-junior-semi-senior-back-end-engineer-net-it-solutions",
-   "new_this_run": false
-  },
-  {
-   "title": "HR Business Partner (HRBP) (1 year limited term)",
-   "org": "Alimentiv",
-   "location": "Brazil",
+   "title": "Product Sales Specialist, EMEA",
+   "org": "Cribl",
+   "location": "Germany, Netherlands, Spain, UK",
    "detail": "Director",
-   "url": "https://jobicy.com/jobs/163881-hr-business-partner-hrbp-1-year-limited-term",
-   "new_this_run": false
+   "url": "https://jobicy.com/jobs/163903-product-sales-specialist-emea-2",
+   "new_this_run": true
   },
   {
-   "title": "Sr. Software Engineer II / Tech lead, Agentic Platform (Poland, Remote, B2B)",
-   "org": "Samsara",
-   "location": "Poland",
+   "title": "Sales Development Representative | France | Remote",
+   "org": "Grafana Labs",
+   "location": "France",
    "detail": "Senior",
-   "url": "https://jobicy.com/jobs/163874-sr-software-engineer-ii-tech-lead-agentic-platform-poland-remote-b2b-2",
-   "new_this_run": false
+   "url": "https://jobicy.com/jobs/163902-sales-development-representative-france-remote",
+   "new_this_run": true
   },
   {
-   "title": "Mobile Developer",
-   "org": "BJAK",
-   "location": "Netherlands",
+   "title": "HRIS Associate (Workday)",
+   "org": "Wellhub",
+   "location": "Portugal",
    "detail": "Any",
-   "url": "https://jobicy.com/jobs/163873-mobile-developer",
-   "new_this_run": false
+   "url": "https://jobicy.com/jobs/163901-hris-associate-workday",
+   "new_this_run": true
+  },
+  {
+   "title": "International People Ops Analyst, Benefits",
+   "org": "Cribl",
+   "location": "UK",
+   "detail": "Director",
+   "url": "https://jobicy.com/jobs/163900-international-people-ops-analyst-benefits",
+   "new_this_run": true
+  },
+  {
+   "title": "Data-driven Digital Consultant (mid to senior level) - UK",
+   "org": "Laminar Projects",
+   "location": "UK",
+   "detail": "Senior",
+   "url": "https://jobicy.com/jobs/163899-data-driven-digital-consultant-mid-to-senior-level-uk",
+   "new_this_run": true
+  },
+  {
+   "title": "Major Account Executive | Remote | Netherlands",
+   "org": "Grafana Labs",
+   "location": "Netherlands",
+   "detail": "Director",
+   "url": "https://jobicy.com/jobs/163898-major-account-executive-remote-netherlands",
+   "new_this_run": true
+  },
+  {
+   "title": "Clinical Project Manager / Senior Clinical Project Manager",
+   "org": "Precision Medicine Group",
+   "location": "Serbia",
+   "detail": "Senior",
+   "url": "https://jobicy.com/jobs/163897-clinical-project-manager-senior-clinical-project-manager-2",
+   "new_this_run": true
+  },
+  {
+   "title": "Senior Infrastructure Software Engineer",
+   "org": "Dropbox",
+   "location": "Poland",
+   "detail": "Director",
+   "url": "https://jobicy.com/jobs/163896-senior-infrastructure-software-engineer-2",
+   "new_this_run": true
+  },
+  {
+   "title": "Staff Engineer - Telematics",
+   "org": "Samsara",
+   "location": "UK",
+   "detail": "Senior",
+   "url": "https://jobicy.com/jobs/163895-staff-engineer-telematics-2",
+   "new_this_run": true
+  },
+  {
+   "title": "Sales Engineer - Germany",
+   "org": "Zscaler",
+   "location": "Germany",
+   "detail": "Any",
+   "url": "https://jobicy.com/jobs/163894-sales-engineer-germany",
+   "new_this_run": true
+  },
+  {
+   "title": "Solutions Engineer - Critical Infrastructure",
+   "org": "Echodyne",
+   "location": "USA",
+   "detail": "Senior",
+   "url": "https://jobicy.com/jobs/156681-solutions-engineer-critical-infrastructure",
+   "new_this_run": true
+  },
+  {
+   "title": "Senior Android Engineer",
+   "org": "Medium",
+   "location": "USA",
+   "detail": "Senior",
+   "url": "https://jobicy.com/jobs/156680-senior-android-engineer-4",
+   "new_this_run": true
   }
  ],
  "runs": [
@@ -255,6 +255,11 @@
    "at": "2026-11-23T02:44:53+00:00",
    "jobs": 50,
    "new": 0
+  },
+  {
+   "at": "2026-11-23T12:38:19+00:00",
+   "jobs": 50,
+   "new": 50
   }
  ],
  "jobs_seen": {
@@ -6171,6 +6176,356 @@
    "last_seen": "2026-11-23T02:44:53+00:00",
    "title": "Staffing Associate (Contract)",
    "org": "Invisible Technologies",
+   "location": "USA"
+  },
+  "product sales specialist, emea|cribl|germany, netherlands, spain, uk": {
+   "first_seen": "2026-11-23T12:38:19+00:00",
+   "last_seen": "2026-11-23T12:38:19+00:00",
+   "title": "Product Sales Specialist, EMEA",
+   "org": "Cribl",
+   "location": "Germany, Netherlands, Spain, UK"
+  },
+  "sales development representative | france | remote|grafana labs|france": {
+   "first_seen": "2026-11-23T12:38:19+00:00",
+   "last_seen": "2026-11-23T12:38:19+00:00",
+   "title": "Sales Development Representative | France | Remote",
+   "org": "Grafana Labs",
+   "location": "France"
+  },
+  "hris associate (workday)|wellhub|portugal": {
+   "first_seen": "2026-11-23T12:38:19+00:00",
+   "last_seen": "2026-11-23T12:38:19+00:00",
+   "title": "HRIS Associate (Workday)",
+   "org": "Wellhub",
+   "location": "Portugal"
+  },
+  "international people ops analyst, benefits|cribl|uk": {
+   "first_seen": "2026-11-23T12:38:19+00:00",
+   "last_seen": "2026-11-23T12:38:19+00:00",
+   "title": "International People Ops Analyst, Benefits",
+   "org": "Cribl",
+   "location": "UK"
+  },
+  "data-driven digital consultant (mid to senior level) - uk|laminar projects|uk": {
+   "first_seen": "2026-11-23T12:38:19+00:00",
+   "last_seen": "2026-11-23T12:38:19+00:00",
+   "title": "Data-driven Digital Consultant (mid to senior level) - UK",
+   "org": "Laminar Projects",
+   "location": "UK"
+  },
+  "major account executive | remote | netherlands|grafana labs|netherlands": {
+   "first_seen": "2026-11-23T12:38:19+00:00",
+   "last_seen": "2026-11-23T12:38:19+00:00",
+   "title": "Major Account Executive | Remote | Netherlands",
+   "org": "Grafana Labs",
+   "location": "Netherlands"
+  },
+  "clinical project manager / senior clinical project manager|precision medicine group|serbia": {
+   "first_seen": "2026-11-23T12:38:19+00:00",
+   "last_seen": "2026-11-23T12:38:19+00:00",
+   "title": "Clinical Project Manager / Senior Clinical Project Manager",
+   "org": "Precision Medicine Group",
+   "location": "Serbia"
+  },
+  "senior infrastructure software engineer|dropbox|poland": {
+   "first_seen": "2026-11-23T12:38:19+00:00",
+   "last_seen": "2026-11-23T12:38:19+00:00",
+   "title": "Senior Infrastructure Software Engineer",
+   "org": "Dropbox",
+   "location": "Poland"
+  },
+  "staff engineer - telematics|samsara|uk": {
+   "first_seen": "2026-11-23T12:38:19+00:00",
+   "last_seen": "2026-11-23T12:38:19+00:00",
+   "title": "Staff Engineer - Telematics",
+   "org": "Samsara",
+   "location": "UK"
+  },
+  "sales engineer - germany|zscaler|germany": {
+   "first_seen": "2026-11-23T12:38:19+00:00",
+   "last_seen": "2026-11-23T12:38:19+00:00",
+   "title": "Sales Engineer - Germany",
+   "org": "Zscaler",
+   "location": "Germany"
+  },
+  "solutions engineer - critical infrastructure|echodyne|usa": {
+   "first_seen": "2026-11-23T12:38:19+00:00",
+   "last_seen": "2026-11-23T12:38:19+00:00",
+   "title": "Solutions Engineer - Critical Infrastructure",
+   "org": "Echodyne",
+   "location": "USA"
+  },
+  "senior android engineer|medium|usa": {
+   "first_seen": "2026-11-23T12:38:19+00:00",
+   "last_seen": "2026-11-23T12:38:19+00:00",
+   "title": "Senior Android Engineer",
+   "org": "Medium",
+   "location": "USA"
+  },
+  "project manager|echodyne|usa": {
+   "first_seen": "2026-11-23T12:38:19+00:00",
+   "last_seen": "2026-11-23T12:38:19+00:00",
+   "title": "Project Manager",
+   "org": "Echodyne",
+   "location": "USA"
+  },
+  "engineering manager, switchboard|gitlab|uk": {
+   "first_seen": "2026-11-23T12:38:19+00:00",
+   "last_seen": "2026-11-23T12:38:19+00:00",
+   "title": "Engineering Manager, Switchboard",
+   "org": "GitLab",
+   "location": "UK"
+  },
+  "mobile principal software engineer|dscout|usa": {
+   "first_seen": "2026-11-23T12:38:19+00:00",
+   "last_seen": "2026-11-23T12:38:19+00:00",
+   "title": "Mobile Principal Software Engineer",
+   "org": "dscout",
+   "location": "USA"
+  },
+  "manager, professional services federal|collibra|usa": {
+   "first_seen": "2026-11-23T12:38:19+00:00",
+   "last_seen": "2026-11-23T12:38:19+00:00",
+   "title": "Manager, Professional Services Federal",
+   "org": "Collibra",
+   "location": "USA"
+  },
+  "cybersecurity engineer|dscout|usa": {
+   "first_seen": "2026-11-23T12:38:19+00:00",
+   "last_seen": "2026-11-23T12:38:19+00:00",
+   "title": "Cybersecurity Engineer",
+   "org": "dscout",
+   "location": "USA"
+  },
+  "bilingual cx specialist (french)|instacart|usa": {
+   "first_seen": "2026-11-23T12:38:19+00:00",
+   "last_seen": "2026-11-23T12:38:19+00:00",
+   "title": "Bilingual CX Specialist (French)",
+   "org": "Instacart",
+   "location": "USA"
+  },
+  "principal product manager, hts api marketplace|hopper|brazil": {
+   "first_seen": "2026-11-23T12:38:19+00:00",
+   "last_seen": "2026-11-23T12:38:19+00:00",
+   "title": "Principal Product Manager, HTS API Marketplace",
+   "org": "Hopper",
+   "location": "Brazil"
+  },
+  "solutions manager- (german fluency)|zip|germany": {
+   "first_seen": "2026-11-23T12:38:19+00:00",
+   "last_seen": "2026-11-23T12:38:19+00:00",
+   "title": "Solutions Manager- (German Fluency)",
+   "org": "Zip",
+   "location": "Germany"
+  },
+  "regional general manager, market performance central us|luna physical therapy|usa": {
+   "first_seen": "2026-11-23T12:38:19+00:00",
+   "last_seen": "2026-11-23T12:38:19+00:00",
+   "title": "Regional General Manager, Market Performance Central US",
+   "org": "Luna Physical Therapy",
+   "location": "USA"
+  },
+  "onboarding specialist (remote - mexico)|housecall pro|mexico": {
+   "first_seen": "2026-11-23T12:38:19+00:00",
+   "last_seen": "2026-11-23T12:38:19+00:00",
+   "title": "Onboarding Specialist (Remote - Mexico)",
+   "org": "Housecall Pro",
+   "location": "Mexico"
+  },
+  "content designer ii (remote eligible - costa rica)|smartsheet|costa rica": {
+   "first_seen": "2026-11-23T12:38:19+00:00",
+   "last_seen": "2026-11-23T12:38:19+00:00",
+   "title": "Content Designer II (Remote Eligible - Costa Rica)",
+   "org": "Smartsheet",
+   "location": "Costa Rica"
+  },
+  "commercial account executive (remote eligible - costa rica)|smartsheet|costa rica": {
+   "first_seen": "2026-11-23T12:38:19+00:00",
+   "last_seen": "2026-11-23T12:38:19+00:00",
+   "title": "Commercial Account Executive (Remote Eligible - Costa Rica)",
+   "org": "Smartsheet",
+   "location": "Costa Rica"
+  },
+  "business development representative (saas)|assetwatch|usa": {
+   "first_seen": "2026-11-23T12:38:19+00:00",
+   "last_seen": "2026-11-23T12:38:19+00:00",
+   "title": "Business Development Representative (SaaS)",
+   "org": "AssetWatch",
+   "location": "USA"
+  },
+  "forward deployed engineer|banyan software|belgium, germany, netherlands, uk": {
+   "first_seen": "2026-11-23T12:38:19+00:00",
+   "last_seen": "2026-11-23T12:38:19+00:00",
+   "title": "Forward Deployed Engineer",
+   "org": "Banyan Software",
+   "location": "Belgium, Germany, Netherlands, UK"
+  },
+  "cloud alliances business development lead|canonical|latam, canada, usa": {
+   "first_seen": "2026-11-23T12:38:19+00:00",
+   "last_seen": "2026-11-23T12:38:19+00:00",
+   "title": "Cloud Alliances Business Development Lead",
+   "org": "Canonical",
+   "location": "LATAM, Canada, USA"
+  },
+  "adoption strategist - latam|elevenlabs|argentina, brazil": {
+   "first_seen": "2026-11-23T12:38:19+00:00",
+   "last_seen": "2026-11-23T12:38:19+00:00",
+   "title": "Adoption Strategist - LATAM",
+   "org": "Elevenlabs",
+   "location": "Argentina, Brazil"
+  },
+  "risk intelligence manager|signifyd|usa": {
+   "first_seen": "2026-11-23T12:38:19+00:00",
+   "last_seen": "2026-11-23T12:38:19+00:00",
+   "title": "Risk Intelligence Manager",
+   "org": "Signifyd",
+   "location": "USA"
+  },
+  "senior data analyst|shopfully|italy": {
+   "first_seen": "2026-11-23T12:38:19+00:00",
+   "last_seen": "2026-11-23T12:38:19+00:00",
+   "title": "Senior Data Analyst",
+   "org": "ShopFully",
+   "location": "Italy"
+  },
+  "head of data feeds|yipitdata|usa": {
+   "first_seen": "2026-11-23T12:38:19+00:00",
+   "last_seen": "2026-11-23T12:38:19+00:00",
+   "title": "Head of Data Feeds",
+   "org": "YipitData",
+   "location": "USA"
+  },
+  "business development representative, mexico|palmstreet|mexico": {
+   "first_seen": "2026-11-23T12:38:19+00:00",
+   "last_seen": "2026-11-23T12:38:19+00:00",
+   "title": "Business Development Representative, Mexico",
+   "org": "Palmstreet",
+   "location": "Mexico"
+  },
+  "senior site reliability engineer ii|juniper square|usa": {
+   "first_seen": "2026-11-23T12:38:19+00:00",
+   "last_seen": "2026-11-23T12:38:19+00:00",
+   "title": "Senior Site Reliability Engineer II",
+   "org": "Juniper Square",
+   "location": "USA"
+  },
+  "account executive - new markets|medely|usa": {
+   "first_seen": "2026-11-23T12:38:19+00:00",
+   "last_seen": "2026-11-23T12:38:19+00:00",
+   "title": "Account Executive - New Markets",
+   "org": "Medely",
+   "location": "USA"
+  },
+  "it lead|classdojo|usa": {
+   "first_seen": "2026-11-23T12:38:19+00:00",
+   "last_seen": "2026-11-23T12:38:19+00:00",
+   "title": "IT Lead",
+   "org": "ClassDojo",
+   "location": "USA"
+  },
+  "senior software engineer, developer experience & ai platform team|classdojo|usa": {
+   "first_seen": "2026-11-23T12:38:19+00:00",
+   "last_seen": "2026-11-23T12:38:19+00:00",
+   "title": "Senior Software Engineer, Developer Experience & AI Platform team",
+   "org": "ClassDojo",
+   "location": "USA"
+  },
+  "engineering leader, platform engineering|classdojo|usa": {
+   "first_seen": "2026-11-23T12:38:19+00:00",
+   "last_seen": "2026-11-23T12:38:19+00:00",
+   "title": "Engineering Leader, Platform Engineering",
+   "org": "ClassDojo",
+   "location": "USA"
+  },
+  "senior manager, visual design|dandy|usa": {
+   "first_seen": "2026-11-23T12:38:19+00:00",
+   "last_seen": "2026-11-23T12:38:19+00:00",
+   "title": "Senior Manager, Visual Design",
+   "org": "Dandy",
+   "location": "USA"
+  },
+  "gtm operations lead|jobber|canada": {
+   "first_seen": "2026-11-23T12:38:19+00:00",
+   "last_seen": "2026-11-23T12:38:19+00:00",
+   "title": "GTM Operations Lead",
+   "org": "Jobber",
+   "location": "Canada"
+  },
+  "business development associate (consumer)|applovin|china": {
+   "first_seen": "2026-11-23T12:38:19+00:00",
+   "last_seen": "2026-11-23T12:38:19+00:00",
+   "title": "Business Development Associate (Consumer)",
+   "org": "AppLovin",
+   "location": "China"
+  },
+  "engineering manager- ceph & distributed storage|canonical|emea, latam, canada, usa": {
+   "first_seen": "2026-11-23T12:38:19+00:00",
+   "last_seen": "2026-11-23T12:38:19+00:00",
+   "title": "Engineering Manager- Ceph & Distributed Storage",
+   "org": "Canonical",
+   "location": "EMEA, LATAM, Canada, USA"
+  },
+  "business development representative|canonical|anywhere": {
+   "first_seen": "2026-11-23T12:38:19+00:00",
+   "last_seen": "2026-11-23T12:38:19+00:00",
+   "title": "Business Development Representative",
+   "org": "Canonical",
+   "location": "Anywhere"
+  },
+  "associate renewals specialist|netdocuments|usa": {
+   "first_seen": "2026-11-23T12:38:19+00:00",
+   "last_seen": "2026-11-23T12:38:19+00:00",
+   "title": "Associate Renewals Specialist",
+   "org": "NetDocuments",
+   "location": "USA"
+  },
+  "renewals specialist|netdocuments|usa": {
+   "first_seen": "2026-11-23T12:38:19+00:00",
+   "last_seen": "2026-11-23T12:38:19+00:00",
+   "title": "Renewals Specialist",
+   "org": "NetDocuments",
+   "location": "USA"
+  },
+  "senior manager, software engineering - ai|netdocuments|usa": {
+   "first_seen": "2026-11-23T12:38:19+00:00",
+   "last_seen": "2026-11-23T12:38:19+00:00",
+   "title": "Senior Manager, Software Engineering - AI",
+   "org": "NetDocuments",
+   "location": "USA"
+  },
+  "engineering director - commercial systems|canonical|emea": {
+   "first_seen": "2026-11-23T12:38:19+00:00",
+   "last_seen": "2026-11-23T12:38:19+00:00",
+   "title": "Engineering Director - Commercial Systems",
+   "org": "Canonical",
+   "location": "EMEA"
+  },
+  "business services team manager|canonical|anywhere": {
+   "first_seen": "2026-11-23T12:38:19+00:00",
+   "last_seen": "2026-11-23T12:38:19+00:00",
+   "title": "Business Services Team Manager",
+   "org": "Canonical",
+   "location": "Anywhere"
+  },
+  "engineering director - business data|canonical|emea": {
+   "first_seen": "2026-11-23T12:38:19+00:00",
+   "last_seen": "2026-11-23T12:38:19+00:00",
+   "title": "Engineering Director - Business Data",
+   "org": "Canonical",
+   "location": "EMEA"
+  },
+  "senior software engineer, backend|customer.io|emea": {
+   "first_seen": "2026-11-23T12:38:19+00:00",
+   "last_seen": "2026-11-23T12:38:19+00:00",
+   "title": "Senior Software Engineer, Backend",
+   "org": "Customer.io",
+   "location": "EMEA"
+  },
+  "insights associate - retail|yipitdata|usa": {
+   "first_seen": "2026-11-23T12:38:19+00:00",
+   "last_seen": "2026-11-23T12:38:19+00:00",
+   "title": "Insights Associate - Retail",
+   "org": "YipitData",
    "location": "USA"
   }
  }
