@@ -3,105 +3,105 @@
  "name": "Jobicy \u2014 remote jobs",
  "category": "jobs",
  "source": "https://jobicy.com/api/v2/remote-jobs",
- "collected_at": "2026-11-24T10:55:00+00:00",
+ "collected_at": "2026-11-24T21:11:15+00:00",
  "jobs_on_board": 50,
- "new_this_run": 50,
- "total_tracked": 995,
+ "new_this_run": 49,
+ "total_tracked": 1044,
  "jobs": [
   {
-   "title": "Scout Junior Quality Coordinator - Portuguese (Brazil)",
-   "org": "Welo Global",
-   "location": "Brazil",
-   "detail": "Entry-Level, Junior",
-   "url": "https://jobicy.com/jobs/151333-scout-junior-quality-coordinator-portuguese-brazil",
-   "new_this_run": true
-  },
-  {
-   "title": "Revenue Operations Manager",
-   "org": "PolicyMe",
-   "location": "Canada",
+   "title": "Senior HPC Cluster Engineer",
+   "org": "Nebius",
+   "location": "Europe",
    "detail": "Senior",
-   "url": "https://jobicy.com/jobs/156828-revenue-operations-manager",
+   "url": "https://jobicy.com/jobs/164170-senior-hpc-cluster-engineer-2",
    "new_this_run": true
   },
   {
-   "title": "Director, Financial & Corporate Communications",
-   "org": "Motive",
-   "location": "USA",
+   "title": "Senior Data Engineer",
+   "org": "Nebius",
+   "location": "Europe, Israel",
+   "detail": "Senior",
+   "url": "https://jobicy.com/jobs/164169-senior-data-engineer-10",
+   "new_this_run": true
+  },
+  {
+   "title": "Security Solutions Engineer",
+   "org": "Nebius",
+   "location": "Europe",
+   "detail": "Any",
+   "url": "https://jobicy.com/jobs/164168-security-solutions-engineer-2",
+   "new_this_run": true
+  },
+  {
+   "title": "Network Engineer",
+   "org": "Nebius",
+   "location": "APAC",
+   "detail": "Senior",
+   "url": "https://jobicy.com/jobs/164167-network-engineer-3",
+   "new_this_run": true
+  },
+  {
+   "title": "OEM Alliance Director",
+   "org": "Canonical",
+   "location": "LATAM, Canada, USA",
    "detail": "Director",
-   "url": "https://jobicy.com/jobs/156864-director-financial-corporate-communications",
+   "url": "https://jobicy.com/jobs/164166-oem-alliance-director",
    "new_this_run": true
   },
   {
-   "title": "Senior Software Engineer (Fundraising) \u2014 Remote",
-   "org": "GiveDirectly",
-   "location": "Canada, UK, USA",
-   "detail": "Senior",
-   "url": "https://jobicy.com/jobs/156858-senior-software-engineer-fundraising-remote",
-   "new_this_run": true
-  },
-  {
-   "title": "Senior Engineering Manager",
-   "org": "Monzo",
+   "title": "Regulatory Manager / Senior Regulatory Manager",
+   "org": "Precision Medicine Group",
    "location": "UK",
    "detail": "Senior",
-   "url": "https://jobicy.com/jobs/156848-senior-engineering-manager-2",
+   "url": "https://jobicy.com/jobs/164165-regulatory-manager-senior-regulatory-manager-2",
    "new_this_run": true
   },
   {
-   "title": "New Business Account Executive",
-   "org": "Twilio",
-   "location": "Japan",
-   "detail": "Director",
-   "url": "https://jobicy.com/jobs/156841-new-business-account-executive",
+   "title": "Regulatory and Start Up Specialist",
+   "org": "Precision Medicine Group",
+   "location": "UK",
+   "detail": "Senior",
+   "url": "https://jobicy.com/jobs/164164-regulatory-and-start-up-specialist-3",
    "new_this_run": true
   },
   {
-   "title": "Technical Sales Engineer/ Lead",
-   "org": "Mattermost",
-   "location": "Japan",
-   "detail": "Director",
-   "url": "https://jobicy.com/jobs/156838-technical-sales-engineer-lead",
-   "new_this_run": true
-  },
-  {
-   "title": "Director, Supplier Relations APAC",
-   "org": "Twilio",
-   "location": "Australia, Japan",
-   "detail": "Director",
-   "url": "https://jobicy.com/jobs/156837-director-supplier-relations-apac",
-   "new_this_run": true
-  },
-  {
-   "title": "AI Agent Engineer",
-   "org": "Binance",
-   "location": "Hong Kong, Singapore",
+   "title": "Drug Safety Specialist (LATAM)",
+   "org": "Precision Medicine Group",
+   "location": "Mexico",
    "detail": "Any",
-   "url": "https://jobicy.com/jobs/156835-ai-agent-engineer",
+   "url": "https://jobicy.com/jobs/164162-drug-safety-specialist-latam",
    "new_this_run": true
   },
   {
-   "title": "Enterprise Account Executive",
-   "org": "Axiom",
-   "location": "USA",
-   "detail": "Director",
-   "url": "https://jobicy.com/jobs/156826-enterprise-account-executive-25",
+   "title": "Sales Development Representative (SDR)",
+   "org": "saas.group",
+   "location": "EMEA",
+   "detail": "Any",
+   "url": "https://jobicy.com/jobs/164161-sales-development-representative-sdr-3",
    "new_this_run": true
   },
   {
-   "title": "Director, Workforce Management",
-   "org": "Clover Health",
-   "location": "USA",
-   "detail": "Director",
-   "url": "https://jobicy.com/jobs/156805-director-workforce-management",
+   "title": "Paid Media Specialist",
+   "org": "Kinsta",
+   "location": "UK",
+   "detail": "Senior",
+   "url": "https://jobicy.com/jobs/164160-paid-media-specialist",
    "new_this_run": true
   },
   {
-   "title": "Director, Travel Services",
-   "org": "TripActions",
+   "title": "Senior Threat Intelligence Specialist II (Protective Security)",
+   "org": "CoreWeave",
    "location": "USA",
    "detail": "Director",
-   "url": "https://jobicy.com/jobs/156859-director-travel-services",
+   "url": "https://jobicy.com/jobs/164159-senior-threat-intelligence-specialist-ii-protective-security",
+   "new_this_run": true
+  },
+  {
+   "title": "VP, Strategy and Operations",
+   "org": "Attentive",
+   "location": "USA",
+   "detail": "Director",
+   "url": "https://jobicy.com/jobs/164158-vp-strategy-and-operations",
    "new_this_run": true
   }
  ],
@@ -270,6 +270,11 @@
    "at": "2026-11-24T10:55:00+00:00",
    "jobs": 50,
    "new": 50
+  },
+  {
+   "at": "2026-11-24T21:11:15+00:00",
+   "jobs": 50,
+   "new": 49
   }
  ],
  "jobs_seen": {
@@ -3572,7 +3577,7 @@
   },
   "manager, training and enablement|cloudbeds|latam, canada, europe, usa": {
    "first_seen": "2026-11-19T21:33:35+00:00",
-   "last_seen": "2026-11-20T03:14:16+00:00",
+   "last_seen": "2026-11-24T21:11:15+00:00",
    "title": "Manager, Training and Enablement",
    "org": "Cloudbeds",
    "location": "LATAM, Canada, Europe, USA"
@@ -7237,6 +7242,349 @@
    "title": "Account Manager",
    "org": "Kinsta",
    "location": "Philippines"
+  },
+  "senior hpc cluster engineer|nebius|europe": {
+   "first_seen": "2026-11-24T21:11:15+00:00",
+   "last_seen": "2026-11-24T21:11:15+00:00",
+   "title": "Senior HPC Cluster Engineer",
+   "org": "Nebius",
+   "location": "Europe"
+  },
+  "senior data engineer|nebius|europe, israel": {
+   "first_seen": "2026-11-24T21:11:15+00:00",
+   "last_seen": "2026-11-24T21:11:15+00:00",
+   "title": "Senior Data Engineer",
+   "org": "Nebius",
+   "location": "Europe, Israel"
+  },
+  "security solutions engineer|nebius|europe": {
+   "first_seen": "2026-11-24T21:11:15+00:00",
+   "last_seen": "2026-11-24T21:11:15+00:00",
+   "title": "Security Solutions Engineer",
+   "org": "Nebius",
+   "location": "Europe"
+  },
+  "network engineer|nebius|apac": {
+   "first_seen": "2026-11-24T21:11:15+00:00",
+   "last_seen": "2026-11-24T21:11:15+00:00",
+   "title": "Network Engineer",
+   "org": "Nebius",
+   "location": "APAC"
+  },
+  "oem alliance director|canonical|latam, canada, usa": {
+   "first_seen": "2026-11-24T21:11:15+00:00",
+   "last_seen": "2026-11-24T21:11:15+00:00",
+   "title": "OEM Alliance Director",
+   "org": "Canonical",
+   "location": "LATAM, Canada, USA"
+  },
+  "regulatory manager / senior regulatory manager|precision medicine group|uk": {
+   "first_seen": "2026-11-24T21:11:15+00:00",
+   "last_seen": "2026-11-24T21:11:15+00:00",
+   "title": "Regulatory Manager / Senior Regulatory Manager",
+   "org": "Precision Medicine Group",
+   "location": "UK"
+  },
+  "regulatory and start up specialist|precision medicine group|uk": {
+   "first_seen": "2026-11-24T21:11:15+00:00",
+   "last_seen": "2026-11-24T21:11:15+00:00",
+   "title": "Regulatory and Start Up Specialist",
+   "org": "Precision Medicine Group",
+   "location": "UK"
+  },
+  "drug safety specialist (latam)|precision medicine group|mexico": {
+   "first_seen": "2026-11-24T21:11:15+00:00",
+   "last_seen": "2026-11-24T21:11:15+00:00",
+   "title": "Drug Safety Specialist (LATAM)",
+   "org": "Precision Medicine Group",
+   "location": "Mexico"
+  },
+  "sales development representative (sdr)|saas.group|emea": {
+   "first_seen": "2026-11-24T21:11:15+00:00",
+   "last_seen": "2026-11-24T21:11:15+00:00",
+   "title": "Sales Development Representative (SDR)",
+   "org": "saas.group",
+   "location": "EMEA"
+  },
+  "paid media specialist|kinsta|uk": {
+   "first_seen": "2026-11-24T21:11:15+00:00",
+   "last_seen": "2026-11-24T21:11:15+00:00",
+   "title": "Paid Media Specialist",
+   "org": "Kinsta",
+   "location": "UK"
+  },
+  "senior threat intelligence specialist ii (protective security)|coreweave|usa": {
+   "first_seen": "2026-11-24T21:11:15+00:00",
+   "last_seen": "2026-11-24T21:11:15+00:00",
+   "title": "Senior Threat Intelligence Specialist II (Protective Security)",
+   "org": "CoreWeave",
+   "location": "USA"
+  },
+  "vp, strategy and operations|attentive|usa": {
+   "first_seen": "2026-11-24T21:11:15+00:00",
+   "last_seen": "2026-11-24T21:11:15+00:00",
+   "title": "VP, Strategy and Operations",
+   "org": "Attentive",
+   "location": "USA"
+  },
+  "lead data engineer|walker sands|usa": {
+   "first_seen": "2026-11-24T21:11:15+00:00",
+   "last_seen": "2026-11-24T21:11:15+00:00",
+   "title": "Lead Data Engineer",
+   "org": "Walker Sands",
+   "location": "USA"
+  },
+  "financial reporting & technical accounting sr analyst|dropbox|canada": {
+   "first_seen": "2026-11-24T21:11:15+00:00",
+   "last_seen": "2026-11-24T21:11:15+00:00",
+   "title": "Financial Reporting & Technical Accounting Sr Analyst",
+   "org": "Dropbox",
+   "location": "Canada"
+  },
+  "benefits consultant - east region|bennie|usa": {
+   "first_seen": "2026-11-24T21:11:15+00:00",
+   "last_seen": "2026-11-24T21:11:15+00:00",
+   "title": "Benefits Consultant - East Region",
+   "org": "Bennie",
+   "location": "USA"
+  },
+  "senior state government affairs manager, texas & southeast|coreweave|usa": {
+   "first_seen": "2026-11-24T21:11:15+00:00",
+   "last_seen": "2026-11-24T21:11:15+00:00",
+   "title": "Senior State Government Affairs Manager, Texas & Southeast",
+   "org": "CoreWeave",
+   "location": "USA"
+  },
+  "senior software engineer, data platform|attentive|usa": {
+   "first_seen": "2026-11-24T21:11:15+00:00",
+   "last_seen": "2026-11-24T21:11:15+00:00",
+   "title": "Senior Software Engineer, Data Platform",
+   "org": "Attentive",
+   "location": "USA"
+  },
+  "member support specialist|fruitful ventures|usa": {
+   "first_seen": "2026-11-24T21:11:15+00:00",
+   "last_seen": "2026-11-24T21:11:15+00:00",
+   "title": "Member Support Specialist",
+   "org": "Fruitful Ventures",
+   "location": "USA"
+  },
+  "director, strategic ai partnerships|dropbox|usa": {
+   "first_seen": "2026-11-24T21:11:15+00:00",
+   "last_seen": "2026-11-24T21:11:15+00:00",
+   "title": "Director, Strategic AI Partnerships",
+   "org": "Dropbox",
+   "location": "USA"
+  },
+  "benefits analyst - east region|bennie|usa": {
+   "first_seen": "2026-11-24T21:11:15+00:00",
+   "last_seen": "2026-11-24T21:11:15+00:00",
+   "title": "Benefits Analyst - East Region",
+   "org": "Bennie",
+   "location": "USA"
+  },
+  "product designer|binance|singapore": {
+   "first_seen": "2026-11-24T21:11:15+00:00",
+   "last_seen": "2026-11-24T21:11:15+00:00",
+   "title": "Product Designer",
+   "org": "Binance",
+   "location": "Singapore"
+  },
+  "it auditor (apac remote)|binance|apac": {
+   "first_seen": "2026-11-24T21:11:15+00:00",
+   "last_seen": "2026-11-24T21:11:15+00:00",
+   "title": "IT Auditor (APAC Remote)",
+   "org": "Binance",
+   "location": "APAC"
+  },
+  "strategic account executive|twilio|ireland, spain, uk": {
+   "first_seen": "2026-11-24T21:11:15+00:00",
+   "last_seen": "2026-11-24T21:11:15+00:00",
+   "title": "Strategic Account Executive",
+   "org": "Twilio",
+   "location": "Ireland, Spain, UK"
+  },
+  "software engineer (l2) supernetwork|twilio|ireland": {
+   "first_seen": "2026-11-24T21:11:15+00:00",
+   "last_seen": "2026-11-24T21:11:15+00:00",
+   "title": "Software Engineer (L2) Supernetwork",
+   "org": "Twilio",
+   "location": "Ireland"
+  },
+  "strategic account manager - uk|seatgeek|uk": {
+   "first_seen": "2026-11-24T21:11:15+00:00",
+   "last_seen": "2026-11-24T21:11:15+00:00",
+   "title": "Strategic Account Manager - UK",
+   "org": "SeatGeek",
+   "location": "UK"
+  },
+  "senior sales development representative - 4 day week + remote|laminar projects|uk": {
+   "first_seen": "2026-11-24T21:11:15+00:00",
+   "last_seen": "2026-11-24T21:11:15+00:00",
+   "title": "Senior Sales Development Representative - 4 Day Week + Remote",
+   "org": "Laminar Projects",
+   "location": "UK"
+  },
+  "presales architect|twilio|singapore": {
+   "first_seen": "2026-11-24T21:11:15+00:00",
+   "last_seen": "2026-11-24T21:11:15+00:00",
+   "title": "Presales Architect",
+   "org": "Twilio",
+   "location": "Singapore"
+  },
+  "forward deployed engineer|enode|europe": {
+   "first_seen": "2026-11-24T21:11:15+00:00",
+   "last_seen": "2026-11-24T21:11:15+00:00",
+   "title": "Forward Deployed Engineer",
+   "org": "Enode",
+   "location": "Europe"
+  },
+  "account manager - uk|seatgeek|uk": {
+   "first_seen": "2026-11-24T21:11:15+00:00",
+   "last_seen": "2026-11-24T21:11:15+00:00",
+   "title": "Account Manager - UK",
+   "org": "SeatGeek",
+   "location": "UK"
+  },
+  "consultant, stars consulting center of excellence|qualtrics|usa": {
+   "first_seen": "2026-11-24T21:11:15+00:00",
+   "last_seen": "2026-11-24T21:11:15+00:00",
+   "title": "Consultant, Stars Consulting Center of Excellence",
+   "org": "Qualtrics",
+   "location": "USA"
+  },
+  "revenue enablement manager|legion|usa": {
+   "first_seen": "2026-11-24T21:11:15+00:00",
+   "last_seen": "2026-11-24T21:11:15+00:00",
+   "title": "Revenue Enablement Manager",
+   "org": "Legion",
+   "location": "USA"
+  },
+  "gl accountant|teamshares|usa": {
+   "first_seen": "2026-11-24T21:11:15+00:00",
+   "last_seen": "2026-11-24T21:11:15+00:00",
+   "title": "GL Accountant",
+   "org": "Teamshares",
+   "location": "USA"
+  },
+  "account executive - us, remote|eleos health|usa": {
+   "first_seen": "2026-11-24T21:11:15+00:00",
+   "last_seen": "2026-11-24T21:11:15+00:00",
+   "title": "Account Executive - US, Remote",
+   "org": "Eleos Health",
+   "location": "USA"
+  },
+  "sr. contracts manager - renewable energy|sb energy|usa": {
+   "first_seen": "2026-11-24T21:11:15+00:00",
+   "last_seen": "2026-11-24T21:11:15+00:00",
+   "title": "Sr. Contracts Manager - Renewable Energy",
+   "org": "SB Energy",
+   "location": "USA"
+  },
+  "senior recruiter|tremendous|latam, canada, usa": {
+   "first_seen": "2026-11-24T21:11:15+00:00",
+   "last_seen": "2026-11-24T21:11:15+00:00",
+   "title": "Senior Recruiter",
+   "org": "Tremendous",
+   "location": "LATAM, Canada, USA"
+  },
+  "consultant, patient experience|qualtrics|usa": {
+   "first_seen": "2026-11-24T21:11:15+00:00",
+   "last_seen": "2026-11-24T21:11:15+00:00",
+   "title": "Consultant, Patient Experience",
+   "org": "Qualtrics",
+   "location": "USA"
+  },
+  "principal software engineer, devops|legion|usa": {
+   "first_seen": "2026-11-24T21:11:15+00:00",
+   "last_seen": "2026-11-24T21:11:15+00:00",
+   "title": "Principal Software Engineer, DevOps",
+   "org": "Legion",
+   "location": "USA"
+  },
+  "general counsel|teamshares|usa": {
+   "first_seen": "2026-11-24T21:11:15+00:00",
+   "last_seen": "2026-11-24T21:11:15+00:00",
+   "title": "General Counsel",
+   "org": "Teamshares",
+   "location": "USA"
+  },
+  "account executive - home health/hospice (us, remote)|eleos health|usa": {
+   "first_seen": "2026-11-24T21:11:15+00:00",
+   "last_seen": "2026-11-24T21:11:15+00:00",
+   "title": "Account Executive - Home Health/Hospice (US, Remote)",
+   "org": "Eleos Health",
+   "location": "USA"
+  },
+  "senior software engineer, consumer facing web products|nerdwallet|usa": {
+   "first_seen": "2026-11-24T21:11:15+00:00",
+   "last_seen": "2026-11-24T21:11:15+00:00",
+   "title": "Senior Software Engineer, Consumer Facing Web Products",
+   "org": "NerdWallet",
+   "location": "USA"
+  },
+  "clinical informatics specialist \u2014 federal health it|rackner|usa": {
+   "first_seen": "2026-11-24T21:11:15+00:00",
+   "last_seen": "2026-11-24T21:11:15+00:00",
+   "title": "Clinical Informatics Specialist \u2014 Federal Health IT",
+   "org": "Rackner",
+   "location": "USA"
+  },
+  "senior project manager, clinical trials|cogstate|usa": {
+   "first_seen": "2026-11-24T21:11:15+00:00",
+   "last_seen": "2026-11-24T21:11:15+00:00",
+   "title": "Senior Project Manager, Clinical Trials",
+   "org": "Cogstate",
+   "location": "USA"
+  },
+  "member advocate (employee benefits)|ima financial group|usa": {
+   "first_seen": "2026-11-24T21:11:15+00:00",
+   "last_seen": "2026-11-24T21:11:15+00:00",
+   "title": "Member Advocate (Employee Benefits)",
+   "org": "IMA Financial Group",
+   "location": "USA"
+  },
+  "it systems administrator|kairos power|usa": {
+   "first_seen": "2026-11-24T21:11:15+00:00",
+   "last_seen": "2026-11-24T21:11:15+00:00",
+   "title": "IT Systems Administrator",
+   "org": "Kairos Power",
+   "location": "USA"
+  },
+  "sr. growth account executive|skillsoft|usa": {
+   "first_seen": "2026-11-24T21:11:15+00:00",
+   "last_seen": "2026-11-24T21:11:15+00:00",
+   "title": "Sr. Growth Account Executive",
+   "org": "Skillsoft",
+   "location": "USA"
+  },
+  "enterprise sales development representative|toptal|canada": {
+   "first_seen": "2026-11-24T21:11:15+00:00",
+   "last_seen": "2026-11-24T21:11:15+00:00",
+   "title": "Enterprise Sales Development Representative",
+   "org": "Toptal",
+   "location": "Canada"
+  },
+  "vice president, storytelling & communications|6sense|usa": {
+   "first_seen": "2026-11-24T21:11:15+00:00",
+   "last_seen": "2026-11-24T21:11:15+00:00",
+   "title": "Vice President, Storytelling & Communications",
+   "org": "6sense",
+   "location": "USA"
+  },
+  "tech lead manager, consumer facing web products|nerdwallet|usa": {
+   "first_seen": "2026-11-24T21:11:15+00:00",
+   "last_seen": "2026-11-24T21:11:15+00:00",
+   "title": "Tech Lead Manager, Consumer Facing Web Products",
+   "org": "NerdWallet",
+   "location": "USA"
+  },
+  "backend software engineer \u2014 secure mission systems|rackner|usa": {
+   "first_seen": "2026-11-24T21:11:15+00:00",
+   "last_seen": "2026-11-24T21:11:15+00:00",
+   "title": "Backend Software Engineer \u2014 Secure Mission Systems",
+   "org": "Rackner",
+   "location": "USA"
   }
  }
 }

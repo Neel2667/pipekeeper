@@ -3,103 +3,103 @@
  "name": "Himalayas \u2014 remote jobs",
  "category": "jobs",
  "source": "https://himalayas.app/jobs/api",
- "collected_at": "2026-11-24T10:55:01+00:00",
+ "collected_at": "2026-11-24T21:11:16+00:00",
  "jobs_on_board": 20,
  "new_this_run": 20,
- "total_tracked": 615,
+ "total_tracked": 635,
  "jobs": [
   {
-   "title": "Patient Consent Coordinator",
-   "org": "Affinity International",
-   "location": "United States",
+   "title": "HR Service Partner (m/f/d)",
+   "org": "Veralto",
+   "location": "Bulgaria, Croatia, Czechia, Hungary, Poland, Romania, Slovakia",
    "detail": "Full Time",
    "url": null,
    "new_this_run": true
   },
   {
-   "title": "Clinical Pharmacist, Utilization Management (Part B Drugs)",
-   "org": "Devoted Health",
-   "location": "United States",
-   "detail": "$75,000\u2013$140,000/a",
-   "url": null,
-   "new_this_run": true
-  },
-  {
-   "title": "Head of Software Engineering (Hands-on)",
-   "org": "iTalent PLUS",
-   "location": "Albania, Andorra, Austria, Belarus, Belgium, Bosnia and Herzegovina, Bulgaria, Croatia, Cyprus, Czechia, Denmark, Estonia, Faroe Islands, Finland, France, Germany, Gibraltar, Greece, Guernsey, Holy See (Vatican City State), Hungary, Iceland",
+   "title": "Product Manager - S\u00eanior (Vender+ CRM)",
+   "org": "#VemPraSaipos",
+   "location": "Brazil",
    "detail": "Contractor",
    "url": null,
    "new_this_run": true
   },
   {
-   "title": "Blackbaud CRM Business Consultant",
-   "org": "Blackbaud",
-   "location": "United States",
-   "detail": "$77,700\u2013$104,500/a",
+   "title": "Occupational Health and Safety Trainer",
+   "org": "Talent Diamond",
+   "location": "Saudi Arabia",
+   "detail": "Full Time",
    "url": null,
    "new_this_run": true
   },
   {
-   "title": "Remote Life Insurance Agent | Mesa",
-   "org": "Kimbrell Agency",
+   "title": "Data Architect \u2013 Enterprise Asset Management (EAM/CMMS)",
+   "org": "TISTA Science and Technology Corporation",
    "location": "United States",
-   "detail": "$50,000\u2013$100,000/a",
+   "detail": "$86,000\u2013$165,000/a",
    "url": null,
    "new_this_run": true
   },
   {
-   "title": "Medical Policy Business Analyst",
-   "org": "Healthfirst",
+   "title": "RVP Client Engagement - Government",
+   "org": "Cotiviti",
    "location": "United States",
-   "detail": "$61,300\u2013$99,620/a",
+   "detail": "$190,000\u2013$222,000/a",
    "url": null,
    "new_this_run": true
   },
   {
-   "title": "Customer Experience Splunk Core Area TAM Leader",
-   "org": "Cisco",
-   "location": "United States",
-   "detail": "$164,600\u2013$208,900/a",
+   "title": "Staff Software Engineer",
+   "org": "Dispensed",
+   "location": "Australia",
+   "detail": "Full Time",
    "url": null,
    "new_this_run": true
   },
   {
-   "title": "Primary Care NP/PA \u2013 Telehealth, Chronic Disease Management",
-   "org": "Devoted Health",
-   "location": "United States",
-   "detail": "$120,000\u2013$150,000/a",
+   "title": "Senior Data Engineer (Databricks)",
+   "org": "Madiff",
+   "location": "Poland",
+   "detail": "Full Time",
    "url": null,
    "new_this_run": true
   },
   {
-   "title": "Lead Practice Manager, Financial Services",
-   "org": "Snowflake",
-   "location": "United States",
-   "detail": "$198,000\u2013$259,800/a",
-   "url": null,
-   "new_this_run": true
-  },
-  {
-   "title": "Recruiter",
-   "org": "micro1",
+   "title": "Virtual Banker I - Columbus, OH",
+   "org": "JPMorgan Chase & Co.",
    "location": "United States",
    "detail": "Full Time",
    "url": null,
    "new_this_run": true
   },
   {
-   "title": "Solutions Engineer (AI, Identity & Data Security)",
-   "org": "Quilr Inc.",
-   "location": "India",
+   "title": "Director, Strategy and M&A",
+   "org": "J.D. Power",
+   "location": "United States",
+   "detail": "$167,500\u2013$210,000/a",
+   "url": null,
+   "new_this_run": true
+  },
+  {
+   "title": "Freelance Data Product Lead voor Finance, Procurement & Sales (50%)",
+   "org": "EngiFlex",
+   "location": "Belgium",
+   "detail": "Contractor",
+   "url": null,
+   "new_this_run": true
+  },
+  {
+   "title": "Pessoa Analista de Marketing Sr (conte\u00fado) (Remoto) - 7224",
+   "org": "Starian",
+   "location": "Brazil",
    "detail": "Full Time",
    "url": null,
    "new_this_run": true
   },
   {
-   "title": "Senior Estimator",
-   "org": "GrayWolf",
-   "location": "United States",
+   "title": "Analista de Automa\u00e7\u00e3o de Testes Pleno",
+   "org": "Stefanini",
+   "location": "Brazil",
    "detail": "Full Time",
    "url": null,
    "new_this_run": true
@@ -268,6 +268,11 @@
   },
   {
    "at": "2026-11-24T10:55:01+00:00",
+   "jobs": 20,
+   "new": 20
+  },
+  {
+   "at": "2026-11-24T21:11:16+00:00",
    "jobs": 20,
    "new": 20
   }
@@ -4577,6 +4582,146 @@
    "title": "SD US VERIF - Lead Operations Specialist",
    "org": "First Advantage",
    "location": "Philippines"
+  },
+  "hr service partner (m/f/d)|veralto|bulgaria, croatia, czechia, hungary, poland, romania, slovakia": {
+   "first_seen": "2026-11-24T21:11:16+00:00",
+   "last_seen": "2026-11-24T21:11:16+00:00",
+   "title": "HR Service Partner (m/f/d)",
+   "org": "Veralto",
+   "location": "Bulgaria, Croatia, Czechia, Hungary, Poland, Romania, Slovakia"
+  },
+  "product manager - s\u00eanior (vender+ crm)|#vemprasaipos|brazil": {
+   "first_seen": "2026-11-24T21:11:16+00:00",
+   "last_seen": "2026-11-24T21:11:16+00:00",
+   "title": "Product Manager - S\u00eanior (Vender+ CRM)",
+   "org": "#VemPraSaipos",
+   "location": "Brazil"
+  },
+  "occupational health and safety trainer|talent diamond|saudi arabia": {
+   "first_seen": "2026-11-24T21:11:16+00:00",
+   "last_seen": "2026-11-24T21:11:16+00:00",
+   "title": "Occupational Health and Safety Trainer",
+   "org": "Talent Diamond",
+   "location": "Saudi Arabia"
+  },
+  "data architect \u2013 enterprise asset management (eam/cmms)|tista science and technology corporation|united states": {
+   "first_seen": "2026-11-24T21:11:16+00:00",
+   "last_seen": "2026-11-24T21:11:16+00:00",
+   "title": "Data Architect \u2013 Enterprise Asset Management (EAM/CMMS)",
+   "org": "TISTA Science and Technology Corporation",
+   "location": "United States"
+  },
+  "rvp client engagement - government|cotiviti|united states": {
+   "first_seen": "2026-11-24T21:11:16+00:00",
+   "last_seen": "2026-11-24T21:11:16+00:00",
+   "title": "RVP Client Engagement - Government",
+   "org": "Cotiviti",
+   "location": "United States"
+  },
+  "staff software engineer|dispensed|australia": {
+   "first_seen": "2026-11-24T21:11:16+00:00",
+   "last_seen": "2026-11-24T21:11:16+00:00",
+   "title": "Staff Software Engineer",
+   "org": "Dispensed",
+   "location": "Australia"
+  },
+  "senior data engineer (databricks)|madiff|poland": {
+   "first_seen": "2026-11-24T21:11:16+00:00",
+   "last_seen": "2026-11-24T21:11:16+00:00",
+   "title": "Senior Data Engineer (Databricks)",
+   "org": "Madiff",
+   "location": "Poland"
+  },
+  "virtual banker i - columbus, oh|jpmorgan chase & co.|united states": {
+   "first_seen": "2026-11-24T21:11:16+00:00",
+   "last_seen": "2026-11-24T21:11:16+00:00",
+   "title": "Virtual Banker I - Columbus, OH",
+   "org": "JPMorgan Chase & Co.",
+   "location": "United States"
+  },
+  "director, strategy and m&a|j.d. power|united states": {
+   "first_seen": "2026-11-24T21:11:16+00:00",
+   "last_seen": "2026-11-24T21:11:16+00:00",
+   "title": "Director, Strategy and M&A",
+   "org": "J.D. Power",
+   "location": "United States"
+  },
+  "freelance data product lead voor finance, procurement & sales (50%)|engiflex|belgium": {
+   "first_seen": "2026-11-24T21:11:16+00:00",
+   "last_seen": "2026-11-24T21:11:16+00:00",
+   "title": "Freelance Data Product Lead voor Finance, Procurement & Sales (50%)",
+   "org": "EngiFlex",
+   "location": "Belgium"
+  },
+  "pessoa analista de marketing sr (conte\u00fado) (remoto) - 7224|starian|brazil": {
+   "first_seen": "2026-11-24T21:11:16+00:00",
+   "last_seen": "2026-11-24T21:11:16+00:00",
+   "title": "Pessoa Analista de Marketing Sr (conte\u00fado) (Remoto) - 7224",
+   "org": "Starian",
+   "location": "Brazil"
+  },
+  "analista de automa\u00e7\u00e3o de testes pleno|stefanini|brazil": {
+   "first_seen": "2026-11-24T21:11:16+00:00",
+   "last_seen": "2026-11-24T21:11:16+00:00",
+   "title": "Analista de Automa\u00e7\u00e3o de Testes Pleno",
+   "org": "Stefanini",
+   "location": "Brazil"
+  },
+  "data quality engineer qa|dynata|hungary": {
+   "first_seen": "2026-11-24T21:11:16+00:00",
+   "last_seen": "2026-11-24T21:11:16+00:00",
+   "title": "Data Quality Engineer QA",
+   "org": "Dynata",
+   "location": "Hungary"
+  },
+  "integration engineer \u2013 enterprise asset management (eam/cmms)|tista science and technology corporation|united states": {
+   "first_seen": "2026-11-24T21:11:16+00:00",
+   "last_seen": "2026-11-24T21:11:16+00:00",
+   "title": "Integration Engineer \u2013 Enterprise Asset Management (EAM/CMMS)",
+   "org": "TISTA Science and Technology Corporation",
+   "location": "United States"
+  },
+  "technical support engineer (financial consolidation & fpa)|insightsoftware|india": {
+   "first_seen": "2026-11-24T21:11:16+00:00",
+   "last_seen": "2026-11-24T21:11:16+00:00",
+   "title": "Technical Support Engineer (financial consolidation & FPA)",
+   "org": "insightsoftware",
+   "location": "India"
+  },
+  "leadership and management skills trainer|talent diamond|saudi arabia": {
+   "first_seen": "2026-11-24T21:11:16+00:00",
+   "last_seen": "2026-11-24T21:11:16+00:00",
+   "title": "Leadership and Management Skills Trainer",
+   "org": "Talent Diamond",
+   "location": "Saudi Arabia"
+  },
+  "director, denials management|corrohealth|united states": {
+   "first_seen": "2026-11-24T21:11:16+00:00",
+   "last_seen": "2026-11-24T21:11:16+00:00",
+   "title": "Director, Denials Management",
+   "org": "CorroHealth",
+   "location": "United States"
+  },
+  "senior product designer|enlyte group, llc|united states": {
+   "first_seen": "2026-11-24T21:11:16+00:00",
+   "last_seen": "2026-11-24T21:11:16+00:00",
+   "title": "Senior Product Designer",
+   "org": "Enlyte Group, LLC",
+   "location": "United States"
+  },
+  "salesforce administrator|all star healthcare solutions|united states": {
+   "first_seen": "2026-11-24T21:11:16+00:00",
+   "last_seen": "2026-11-24T21:11:16+00:00",
+   "title": "Salesforce Administrator",
+   "org": "All Star Healthcare Solutions",
+   "location": "United States"
+  },
+  "consultor/a de negocio \u2013 dynamics 365 contact center|fistrek|spain": {
+   "first_seen": "2026-11-24T21:11:16+00:00",
+   "last_seen": "2026-11-24T21:11:16+00:00",
+   "title": "Consultor/a de Negocio \u2013 Dynamics 365 Contact Center",
+   "org": "Fistrek",
+   "location": "Spain"
   }
  }
 }

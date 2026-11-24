@@ -3,7 +3,7 @@
  "name": "openFDA \u2014 newest device clearances (510k)",
  "category": "government",
  "source": "https://open.fda.gov/apis/device/510k/",
- "collected_at": "2026-11-24T10:55:05+00:00",
+ "collected_at": "2026-11-24T21:11:20+00:00",
  "jobs_on_board": 100,
  "new_this_run": 0,
  "total_tracked": 112,
@@ -265,607 +265,612 @@
    "at": "2026-11-24T10:55:05+00:00",
    "jobs": 100,
    "new": 0
+  },
+  {
+   "at": "2026-11-24T21:11:20+00:00",
+   "jobs": 100,
+   "new": 0
   }
  ],
  "jobs_seen": {
   "shining3d clear aligner system|hangzhou shining3d dental technology co., ltd.|hangzhou": {
    "first_seen": "2026-11-15T10:14:05+00:00",
-   "last_seen": "2026-11-24T10:55:05+00:00",
+   "last_seen": "2026-11-24T21:11:20+00:00",
    "title": "Shining3D Clear Aligner System",
    "org": "Hangzhou SHINING3D Dental Technology Co., Ltd.",
    "location": "Hangzhou"
   },
   "one coat bond; one coat bond sl|dent4you ag|heerbrugg": {
    "first_seen": "2026-11-15T10:14:05+00:00",
-   "last_seen": "2026-11-24T10:55:05+00:00",
+   "last_seen": "2026-11-24T21:11:20+00:00",
    "title": "One Coat Bond; One Coat Bond SL",
    "org": "Dent4You AG",
    "location": "Heerbrugg"
   },
   "vitrea advanced visualization, version 7.16|canon medical informatics, inc.|minnetonka, mn": {
    "first_seen": "2026-11-15T10:14:05+00:00",
-   "last_seen": "2026-11-24T10:55:05+00:00",
+   "last_seen": "2026-11-24T21:11:20+00:00",
    "title": "Vitrea Advanced Visualization, Version 7.16",
    "org": "Canon Medical Informatics, Inc.",
    "location": "Minnetonka, MN"
   },
   "keriflex\u00ae mcp and pip finger joint prostheses|keri medical sa|plan-les-ouates": {
    "first_seen": "2026-11-15T10:14:05+00:00",
-   "last_seen": "2026-11-24T10:55:05+00:00",
+   "last_seen": "2026-11-24T21:11:20+00:00",
    "title": "KeriFlex\u00ae MCP and PIP Finger Joint Prostheses",
    "org": "Keri Medical SA",
    "location": "Plan-Les-Ouates"
   },
   "arctic sun\u0099 neonatal arcticgel\u0099 pad|medivance, inc.|louisville, co": {
    "first_seen": "2026-11-15T10:14:05+00:00",
-   "last_seen": "2026-11-24T10:55:05+00:00",
+   "last_seen": "2026-11-24T21:11:20+00:00",
    "title": "Arctic Sun\u0099 Neonatal ArcticGel\u0099 Pad",
    "org": "Medivance, Inc.",
    "location": "Louisville, CO"
   },
   "eleos\u0099 limb salvage system with nanocept\u00ae technology (proximal tibia) (am-25002200-c)|onkos surgical, inc.|parsippany, nj": {
    "first_seen": "2026-11-15T10:14:05+00:00",
-   "last_seen": "2026-11-24T10:55:05+00:00",
+   "last_seen": "2026-11-24T21:11:20+00:00",
    "title": "ELEOS\u0099 Limb Salvage System with NanoCept\u00ae Technology (Proximal Tibia) (AM-25002200-C)",
    "org": "Onkos Surgical, Inc.",
    "location": "Parsippany, NJ"
   },
   "vasq|laminate medical technologies|tel aviv": {
    "first_seen": "2026-11-15T10:14:05+00:00",
-   "last_seen": "2026-11-24T10:55:05+00:00",
+   "last_seen": "2026-11-24T21:11:20+00:00",
    "title": "VasQ",
    "org": "Laminate Medical Technologies",
    "location": "Tel Aviv"
   },
   "arthrex plates, screws and pins, and washers|arthrex, inc.|naples, fl": {
    "first_seen": "2026-11-15T10:14:05+00:00",
-   "last_seen": "2026-11-24T10:55:05+00:00",
+   "last_seen": "2026-11-24T21:11:20+00:00",
    "title": "Arthrex Plates, Screws and Pins, and Washers",
    "org": "Arthrex, Inc.",
    "location": "Naples, FL"
   },
   "dlp\u0099 coronary ostial cannulae|medtronic, inc.|brooklyn park, mn": {
    "first_seen": "2026-11-15T10:14:05+00:00",
-   "last_seen": "2026-11-24T10:55:05+00:00",
+   "last_seen": "2026-11-24T21:11:20+00:00",
    "title": "DLP\u0099 Coronary Ostial Cannulae",
    "org": "Medtronic, Inc.",
    "location": "Brooklyn Park, MN"
   },
   "tornier humeral reconstruction system (hrs) tuberosity body|tornier, inc.|bloomington, mn": {
    "first_seen": "2026-11-15T10:14:05+00:00",
-   "last_seen": "2026-11-24T10:55:05+00:00",
+   "last_seen": "2026-11-24T21:11:20+00:00",
    "title": "Tornier Humeral Reconstruction System (HRS) Tuberosity Body",
    "org": "Tornier, Inc.",
    "location": "Bloomington, MN"
   },
   "da vinci xi surgical system (is4000);da vinci x surgical system (is4200)|intuitive surgical, inc.|sunnyvale, ca": {
    "first_seen": "2026-11-15T10:14:05+00:00",
-   "last_seen": "2026-11-24T10:55:05+00:00",
+   "last_seen": "2026-11-24T21:11:20+00:00",
    "title": "da Vinci Xi Surgical System (IS4000);da Vinci X Surgical System (IS4200)",
    "org": "Intuitive Surgical, Inc.",
    "location": "Sunnyvale, CA"
   },
   "v-pro max 2 low temperature sterilization system|steris|mentor, oh": {
    "first_seen": "2026-11-15T10:14:05+00:00",
-   "last_seen": "2026-11-24T10:55:05+00:00",
+   "last_seen": "2026-11-24T21:11:20+00:00",
    "title": "V-Pro maX 2 Low Temperature Sterilization System",
    "org": "STERIS",
    "location": "Mentor, OH"
   },
   "luja female|coloplast corp.|minneapolis, mn": {
    "first_seen": "2026-11-15T10:14:05+00:00",
-   "last_seen": "2026-11-24T10:55:05+00:00",
+   "last_seen": "2026-11-24T21:11:20+00:00",
    "title": "Luja female",
    "org": "Coloplast Corp.",
    "location": "Minneapolis, MN"
   },
   "arthrex fiberbutton|arthrex, inc.|naples, fl": {
    "first_seen": "2026-11-15T10:14:05+00:00",
-   "last_seen": "2026-11-24T10:55:05+00:00",
+   "last_seen": "2026-11-24T21:11:20+00:00",
    "title": "Arthrex FiberButton",
    "org": "Arthrex, Inc.",
    "location": "Naples, FL"
   },
   "tendon anchor|smith & nephew, inc.|andover, ma": {
    "first_seen": "2026-11-15T10:14:05+00:00",
-   "last_seen": "2026-11-24T10:55:05+00:00",
+   "last_seen": "2026-11-24T21:11:20+00:00",
    "title": "Tendon Anchor",
    "org": "Smith & Nephew, Inc.",
    "location": "Andover, MA"
   },
   "swics\u0099|bloom surgical, inc.|salt lake city, ut": {
    "first_seen": "2026-11-15T10:14:05+00:00",
-   "last_seen": "2026-11-24T10:55:05+00:00",
+   "last_seen": "2026-11-24T21:11:20+00:00",
    "title": "SWICS\u0099",
    "org": "Bloom Surgical, Inc.",
    "location": "Salt Lake City, UT"
   },
   "mint ace pump|beta bionics, inc.|irvine, ca": {
    "first_seen": "2026-11-15T10:14:05+00:00",
-   "last_seen": "2026-11-24T10:55:05+00:00",
+   "last_seen": "2026-11-24T21:11:20+00:00",
    "title": "Mint ACE Pump",
    "org": "Beta Bionics, Inc.",
    "location": "Irvine, CA"
   },
   "veritas shoulder system|restor3d, inc.|durham, nc": {
    "first_seen": "2026-11-15T10:14:05+00:00",
-   "last_seen": "2026-11-24T10:55:05+00:00",
+   "last_seen": "2026-11-24T21:11:20+00:00",
    "title": "Veritas Shoulder System",
    "org": "restor3d, inc.",
    "location": "Durham, NC"
   },
   "tempo plating system|pace surgical|malvern, pa": {
    "first_seen": "2026-11-15T10:14:05+00:00",
-   "last_seen": "2026-11-24T10:55:05+00:00",
+   "last_seen": "2026-11-24T21:11:20+00:00",
    "title": "Tempo Plating System",
    "org": "Pace Surgical",
    "location": "Malvern, PA"
   },
   "star apollo\u0099 mapping system|rhythm ai, ltd.|london": {
    "first_seen": "2026-11-15T10:14:05+00:00",
-   "last_seen": "2026-11-24T10:55:05+00:00",
+   "last_seen": "2026-11-24T21:11:20+00:00",
    "title": "STAR Apollo\u0099 Mapping System",
    "org": "Rhythm AI, Ltd.",
    "location": "London"
   },
   "q-fix knotless all-suture anchor, 1.8mm, with one ultrabraid suture, blue; q-fix knotless all-suture anchor, 1.8mm, with|smith & nephew, inc.|andover, ma": {
    "first_seen": "2026-11-15T10:14:05+00:00",
-   "last_seen": "2026-11-24T10:55:05+00:00",
+   "last_seen": "2026-11-24T21:11:20+00:00",
    "title": "Q-FIX KNOTLESS All-Suture Anchor, 1.8mm, with one ULTRABRAID Suture, Blue; Q-FIX KNOTLESS All-Suture Anchor, 1.8mm, with one ULTRABRAID Suture, Cobraid Blue; Q-FIX KNOTLESS All-Suture Anchor, 1.8mm, with one MINITAPE Suture, Blue; Q-FIX KNO",
    "org": "Smith & Nephew, Inc.",
    "location": "Andover, MA"
   },
   "tekbrace knotless anchor|theramicro|cordova, tn": {
    "first_seen": "2026-11-15T10:14:05+00:00",
-   "last_seen": "2026-11-24T10:55:05+00:00",
+   "last_seen": "2026-11-24T21:11:20+00:00",
    "title": "TeKBrace Knotless Anchor",
    "org": "TheraMicro",
    "location": "Cordova, TN"
   },
   "xpert xpress cov-2/flu plus|cepheid\u00ae|sunnyvale, ca": {
    "first_seen": "2026-11-15T10:14:05+00:00",
-   "last_seen": "2026-11-24T10:55:05+00:00",
+   "last_seen": "2026-11-24T21:11:20+00:00",
    "title": "Xpert Xpress CoV-2/Flu plus",
    "org": "Cepheid\u00ae",
    "location": "Sunnyvale, CA"
   },
   "red light therapy hair growth cap (rb-009, rb-011, rb-012, rb-088, rb-089, rb-092)|shenzhen rainbow technology co., ltd.|shenzhen": {
    "first_seen": "2026-11-15T10:14:05+00:00",
-   "last_seen": "2026-11-24T10:55:05+00:00",
+   "last_seen": "2026-11-24T21:11:20+00:00",
    "title": "Red Light Therapy Hair Growth Cap (RB-009, RB-011, RB-012, RB-088, RB-089, RB-092)",
    "org": "Shenzhen Rainbow Technology Co., Ltd.",
    "location": "Shenzhen"
   },
   "achm30 atriclip flex-mini laa exclusion system|atricure, inc.|mason, oh": {
    "first_seen": "2026-11-15T10:14:05+00:00",
-   "last_seen": "2026-11-24T10:55:05+00:00",
+   "last_seen": "2026-11-24T21:11:20+00:00",
    "title": "ACHM30 AtriClip FLEX-Mini LAA Exclusion System",
    "org": "AtriCure, Inc.",
    "location": "Mason, OH"
   },
   "park's pectus system|tdm co., ltd.|gwangju": {
    "first_seen": "2026-11-15T10:14:05+00:00",
-   "last_seen": "2026-11-24T10:55:05+00:00",
+   "last_seen": "2026-11-24T21:11:20+00:00",
    "title": "Park's Pectus System",
    "org": "Tdm Co., Ltd.",
    "location": "Gwangju"
   },
   "endox test strips|ibt scientific|creedmoor, nc": {
    "first_seen": "2026-11-15T10:14:05+00:00",
-   "last_seen": "2026-11-24T10:55:05+00:00",
+   "last_seen": "2026-11-24T21:11:20+00:00",
    "title": "Endox Test Strips",
    "org": "Ibt Scientific",
    "location": "Creedmoor, NC"
   },
   "route 92 medical full length 046 reperfusion system and aspiration tubing set|route 92 medical, inc.|san mateo, ca": {
    "first_seen": "2026-11-15T10:14:05+00:00",
-   "last_seen": "2026-11-24T10:55:05+00:00",
+   "last_seen": "2026-11-24T21:11:20+00:00",
    "title": "Route 92 Medical Full Length 046 Reperfusion System and Aspiration Tubing Set",
    "org": "Route 92 Medical, Inc.",
    "location": "San Mateo, CA"
   },
   "electrically powered wheelchair (yc-01)|yurob rehabilitation medical co., ltd.|kunshan": {
    "first_seen": "2026-11-15T10:14:05+00:00",
-   "last_seen": "2026-11-24T10:55:05+00:00",
+   "last_seen": "2026-11-24T21:11:20+00:00",
    "title": "Electrically Powered Wheelchair (YC-01)",
    "org": "Yurob Rehabilitation Medical Co., Ltd.",
    "location": "Kunshan"
   },
   "disposable manual resuscitator (npvc-001/rtma;npvc-002/rtma;npvc-003/rtma1)|xiamen compower medical tech. co., ltd.|xiamen": {
    "first_seen": "2026-11-15T10:14:05+00:00",
-   "last_seen": "2026-11-24T10:55:05+00:00",
+   "last_seen": "2026-11-24T21:11:20+00:00",
    "title": "Disposable Manual Resuscitator (NPVC-001/RTMA;NPVC-002/RTMA;NPVC-003/RTMA1)",
    "org": "Xiamen Compower Medical Tech. Co., Ltd.",
    "location": "Xiamen"
   },
   "eplex rp3 control m530; eplex rp3 negative|maine molecular quality controls, inc.|saco, me": {
    "first_seen": "2026-11-15T10:14:05+00:00",
-   "last_seen": "2026-11-24T10:55:05+00:00",
+   "last_seen": "2026-11-24T21:11:20+00:00",
    "title": "eplex RP3 Control M530; eplex RP3 Negative",
    "org": "Maine Molecular Quality Controls, Inc.",
    "location": "Saco, ME"
   },
   "tmini miniature robotic system|think surgical, inc.|fremont, ca": {
    "first_seen": "2026-11-15T10:14:05+00:00",
-   "last_seen": "2026-11-24T10:55:05+00:00",
+   "last_seen": "2026-11-24T21:11:20+00:00",
    "title": "TMINI Miniature Robotic System",
    "org": "THINK Surgical, Inc.",
    "location": "Fremont, CA"
   },
   "vantage lumbar decompression kit|surgentec, llc|boca raton, fl": {
    "first_seen": "2026-11-15T10:14:05+00:00",
-   "last_seen": "2026-11-24T10:55:05+00:00",
+   "last_seen": "2026-11-24T21:11:20+00:00",
    "title": "Vantage Lumbar Decompression Kit",
    "org": "SurGenTec, LLC",
    "location": "Boca Raton, FL"
   },
   "evo x30 diagnostic ultrasound system; evo x20 diagnostic ultrasound system; evo x10 diagnostic ultrasound system; evo xp|samsung medison co., ltd.|hongcheon-gun": {
    "first_seen": "2026-11-15T10:14:05+00:00",
-   "last_seen": "2026-11-24T10:55:05+00:00",
+   "last_seen": "2026-11-24T21:11:20+00:00",
    "title": "EVO X30 Diagnostic Ultrasound System; EVO X20 Diagnostic Ultrasound System; EVO X10 Diagnostic Ultrasound System; EVO XP30 Diagnostic Ultrasound System; EVO XP20 Diagnostic Ultrasound System; EVO XP10 Diagnostic Ultrasound System; EVO XC30 ",
    "org": "Samsung Medison Co., Ltd.",
    "location": "Hongcheon-Gun"
   },
   "sas mis pelvic incidence rods|spinal alignment solutions, inc.|wilmington, nc": {
    "first_seen": "2026-11-15T10:14:05+00:00",
-   "last_seen": "2026-11-24T10:55:05+00:00",
+   "last_seen": "2026-11-24T21:11:20+00:00",
    "title": "SAS MIS Pelvic Incidence Rods",
    "org": "Spinal Alignment Solutions, Inc.",
    "location": "Wilmington, NC"
   },
   "carboclear\u00ae cervical navigated instruments|carbofix orhtopedics , ltd.|herzeliya": {
    "first_seen": "2026-11-15T10:14:05+00:00",
-   "last_seen": "2026-11-24T10:55:05+00:00",
+   "last_seen": "2026-11-24T21:11:20+00:00",
    "title": "CarboClear\u00ae Cervical Navigated Instruments",
    "org": "CarboFix Orhtopedics , Ltd.",
    "location": "Herzeliya"
   },
   "prodisc\u00ae c; prodisc\u00ae c sk; prodisc\u00ae c nova; prodisc\u00ae c vivo instruments|centinel spine, llc|west chester, pa": {
    "first_seen": "2026-11-15T10:14:05+00:00",
-   "last_seen": "2026-11-24T10:55:05+00:00",
+   "last_seen": "2026-11-24T21:11:20+00:00",
    "title": "prodisc\u00ae C; prodisc\u00ae C SK; prodisc\u00ae C Nova; prodisc\u00ae C Vivo Instruments",
    "org": "Centinel Spine, LLC",
    "location": "West Chester, PA"
   },
   "v10 diagnostic ultrasound system; cv10 diagnostic ultrasound system; h10 diagnostic ultrasound system; xv10 diagnostic u|samsung medison co., ltd.|hongcheon-gun": {
    "first_seen": "2026-11-15T10:14:05+00:00",
-   "last_seen": "2026-11-24T10:55:05+00:00",
+   "last_seen": "2026-11-24T21:11:20+00:00",
    "title": "V10 Diagnostic Ultrasound System; cV10 Diagnostic Ultrasound System; H10 Diagnostic Ultrasound System; XV10 Diagnostic Ultrasound System; XH10 Diagnostic Ultrasound System; V10 ONE Diagnostic Ultrasound System; cV10 ONE Diagnostic Ultrasoun",
    "org": "Samsung Medison Co., Ltd.",
    "location": "Hongcheon-Gun"
   },
   "efai neurosuite cta lvo assessment system (lvo-cta-100)|ever fortune.ai, co., ltd.|taichung city": {
    "first_seen": "2026-11-15T10:14:05+00:00",
-   "last_seen": "2026-11-24T10:55:05+00:00",
+   "last_seen": "2026-11-24T21:11:20+00:00",
    "title": "EFAI NEUROSUITE CTA LVO ASSESSMENT SYSTEM (LVO-CTA-100)",
    "org": "Ever Fortune.Ai, Co., Ltd.",
    "location": "Taichung City"
   },
   "osteocentric technologies cannulated and soild fasteners with nuts|osteocentric technologies|logan, ut": {
    "first_seen": "2026-11-15T10:14:05+00:00",
-   "last_seen": "2026-11-24T10:55:05+00:00",
+   "last_seen": "2026-11-24T21:11:20+00:00",
    "title": "OsteoCentric Technologies Cannulated and Soild Fasteners with Nuts",
    "org": "OsteoCentric Technologies",
    "location": "Logan, UT"
   },
   "zsalign cervical interbody system|zsfab, inc.|waltham, ma": {
    "first_seen": "2026-11-15T10:14:05+00:00",
-   "last_seen": "2026-11-24T10:55:05+00:00",
+   "last_seen": "2026-11-24T21:11:20+00:00",
    "title": "ZSAlign Cervical Interbody System",
    "org": "ZSFab, Inc.",
    "location": "Waltham, MA"
   },
   "dual stage venous cannulae|sorin group italia s.r.l.|mirandola": {
    "first_seen": "2026-11-15T10:14:05+00:00",
-   "last_seen": "2026-11-24T10:55:05+00:00",
+   "last_seen": "2026-11-24T21:11:20+00:00",
    "title": "Dual Stage Venous Cannulae",
    "org": "Sorin Group Italia S.R.L.",
    "location": "Mirandola"
   },
   "response ortho smart fixator - hexapod system|response ortho solutions, llc|boynton beach, fl": {
    "first_seen": "2026-11-15T10:14:05+00:00",
-   "last_seen": "2026-11-24T10:55:05+00:00",
+   "last_seen": "2026-11-24T21:11:20+00:00",
    "title": "Response Ortho Smart Fixator - Hexapod System",
    "org": "Response Ortho Solutions, LLC",
    "location": "Boynton Beach, FL"
   },
   "altivate reverse\u00ae glenosphere with ravn\u0099 technology|encore medical l.p.|austin, tx": {
    "first_seen": "2026-11-15T10:14:05+00:00",
-   "last_seen": "2026-11-24T10:55:05+00:00",
+   "last_seen": "2026-11-24T21:11:20+00:00",
    "title": "AltiVate Reverse\u00ae Glenosphere with RAVN\u0099 Technology",
    "org": "Encore Medical L.P.",
    "location": "Austin, TX"
   },
   "strauss surgical cystoscope/hysteroscope and accessories instruments|strauss surgical usa|doral, fl": {
    "first_seen": "2026-11-15T10:14:05+00:00",
-   "last_seen": "2026-11-24T10:55:05+00:00",
+   "last_seen": "2026-11-24T21:11:20+00:00",
    "title": "Strauss Surgical Cystoscope/Hysteroscope and Accessories Instruments",
    "org": "Strauss Surgical USA",
    "location": "Doral, FL"
   },
   "b`orze inc laser family (sorren/adonis)|borze, inc.|boise, id": {
    "first_seen": "2026-11-15T10:14:05+00:00",
-   "last_seen": "2026-11-24T10:55:05+00:00",
+   "last_seen": "2026-11-24T21:11:20+00:00",
    "title": "B`orze Inc Laser Family (Sorren/Adonis)",
    "org": "Borze, Inc.",
    "location": "Boise, ID"
   },
   "biofire respiratory panel 2.1 (rp2.1)|biofire diagnostics|salt lake city, ut": {
    "first_seen": "2026-11-15T10:14:05+00:00",
-   "last_seen": "2026-11-24T10:55:05+00:00",
+   "last_seen": "2026-11-24T21:11:20+00:00",
    "title": "BIOFIRE Respiratory Panel 2.1 (RP2.1)",
    "org": "Biofire Diagnostics",
    "location": "Salt Lake City, UT"
   },
   "angiovac f1885|angiodynamics, inc.|queensbury, ny": {
    "first_seen": "2026-11-15T10:14:05+00:00",
-   "last_seen": "2026-11-24T10:55:05+00:00",
+   "last_seen": "2026-11-24T21:11:20+00:00",
    "title": "AngioVac F1885",
    "org": "AngioDynamics, Inc.",
    "location": "Queensbury, NY"
   },
   "novix pedicle screw system|tdm co., ltd.|gwangju": {
    "first_seen": "2026-11-15T10:14:05+00:00",
-   "last_seen": "2026-11-24T10:55:05+00:00",
+   "last_seen": "2026-11-24T21:11:20+00:00",
    "title": "NOVIX Pedicle Screw System",
    "org": "Tdm Co., Ltd.",
    "location": "Gwangju"
   },
   "microport total knee system|suzhou microport orthorecon co., ltd.|suzhou": {
    "first_seen": "2026-11-15T10:14:05+00:00",
-   "last_seen": "2026-11-24T10:55:05+00:00",
+   "last_seen": "2026-11-24T21:11:20+00:00",
    "title": "MicroPort Total Knee System",
    "org": "Suzhou Microport Orthorecon Co., Ltd.",
    "location": "Suzhou"
   },
   "fast absorbing pgla|riverpoint medical, llc|portland, or": {
    "first_seen": "2026-11-15T10:14:05+00:00",
-   "last_seen": "2026-11-24T10:55:05+00:00",
+   "last_seen": "2026-11-24T21:11:20+00:00",
    "title": "Fast Absorbing PGLA",
    "org": "Riverpoint Medical, LLC",
    "location": "Portland, OR"
   },
   "saber-c system|elevation spine|monteray, ca": {
    "first_seen": "2026-11-15T10:14:05+00:00",
-   "last_seen": "2026-11-24T10:55:05+00:00",
+   "last_seen": "2026-11-24T21:11:20+00:00",
    "title": "SABER-C System",
    "org": "Elevation Spine",
    "location": "Monteray, CA"
   },
   "dental computed tomography x-ray system (rubik xsmart, rubik x1, rubik x3) (matrix 7000, matrix 7800)|fussen technology co., ltd.|shenzhen": {
    "first_seen": "2026-11-15T10:14:05+00:00",
-   "last_seen": "2026-11-24T10:55:05+00:00",
+   "last_seen": "2026-11-24T21:11:20+00:00",
    "title": "Dental Computed Tomography X-ray System (Rubik XSmart, Rubik X1, Rubik X3) (Matrix 7000, Matrix 7800)",
    "org": "Fussen Technology Co., Ltd.",
    "location": "Shenzhen"
   },
   "cdc human influenza virus real-time rt-pcr diagnostic panel (includes influenza a/b typing kit, influenza a subtyping ki|centers for disease control and prevention|atlanta, ga": {
    "first_seen": "2026-11-15T10:14:05+00:00",
-   "last_seen": "2026-11-24T10:55:05+00:00",
+   "last_seen": "2026-11-24T21:11:20+00:00",
    "title": "CDC Human Influenza Virus Real-time RT-PCR Diagnostic Panel (includes Influenza A/B Typing Kit, Influenza A Subtyping Kit, Influenza A(H5) Subtyping Kit, and Influenza B Lineage Genotyping Kit)",
    "org": "Centers for Disease Control and Prevention",
    "location": "Atlanta, GA"
   },
   "syngo carbon space (va4)|siemens healthineers ag|forchheim": {
    "first_seen": "2026-11-15T10:14:05+00:00",
-   "last_seen": "2026-11-24T10:55:05+00:00",
+   "last_seen": "2026-11-24T21:11:20+00:00",
    "title": "Syngo Carbon Space (VA4)",
    "org": "Siemens Healthineers AG",
    "location": "Forchheim"
   },
   "electric wheelchair (lw01301a02/lw01301a02l/lw01301a02t)|anhui longway medical technology co., ltd.|mingguang": {
    "first_seen": "2026-11-15T10:14:05+00:00",
-   "last_seen": "2026-11-24T10:55:05+00:00",
+   "last_seen": "2026-11-24T21:11:20+00:00",
    "title": "Electric wheelchair (LW01301A02/LW01301A02L/LW01301A02T)",
    "org": "Anhui Longway Medical Technology Co., Ltd.",
    "location": "Mingguang"
   },
   "intra-operative positioning system (iops) and iops visionary system|centerline biomedical|warrensville heights, oh": {
    "first_seen": "2026-11-15T10:14:05+00:00",
-   "last_seen": "2026-11-24T10:55:05+00:00",
+   "last_seen": "2026-11-24T21:11:20+00:00",
    "title": "Intra-Operative Positioning System (IOPS) and IOPS Visionary System",
    "org": "Centerline Biomedical",
    "location": "Warrensville Heights, OH"
   },
   "isis headboxes, isis neurostimulator, isis xpert plus, isis xpert, isis xpress|inomed medizintechnik gmbh|emmendingen": {
    "first_seen": "2026-11-15T10:14:05+00:00",
-   "last_seen": "2026-11-24T10:55:05+00:00",
+   "last_seen": "2026-11-24T21:11:20+00:00",
    "title": "ISIS Headboxes, ISIS Neurostimulator, ISIS Xpert Plus, ISIS Xpert, ISIS Xpress",
    "org": "inomed Medizintechnik GmbH",
    "location": "Emmendingen"
   },
   "medical monitor (32md08wc)|lg electronics.inc|gumi-si": {
    "first_seen": "2026-11-15T10:14:05+00:00",
-   "last_seen": "2026-11-24T10:55:05+00:00",
+   "last_seen": "2026-11-24T21:11:20+00:00",
    "title": "Medical Monitor (32MD08WC)",
    "org": "Lg Electronics.Inc",
    "location": "Gumi-Si"
   },
   "estemp implant|spident co., ltd.|incheon": {
    "first_seen": "2026-11-15T10:14:05+00:00",
-   "last_seen": "2026-11-24T10:55:05+00:00",
+   "last_seen": "2026-11-24T21:11:20+00:00",
    "title": "EsTemp Implant",
    "org": "Spident Co., Ltd.",
    "location": "Incheon"
   },
   "core\u00b7it dual|spident co., ltd.|incheon": {
    "first_seen": "2026-11-15T10:14:05+00:00",
-   "last_seen": "2026-11-24T10:55:05+00:00",
+   "last_seen": "2026-11-24T21:11:20+00:00",
    "title": "Core\u00b7it Dual",
    "org": "Spident Co., Ltd.",
    "location": "Incheon"
   },
   "red & near infrared led light phototherapy face mask (bway-fm01, bway-fm02, bway-fm03, bway-fm05, bway-fm06, bway-fn01, |shenzhen bway tech co., ltd.|shenzhen": {
    "first_seen": "2026-11-15T10:14:05+00:00",
-   "last_seen": "2026-11-24T10:55:05+00:00",
+   "last_seen": "2026-11-24T21:11:20+00:00",
    "title": "Red & Near Infrared LED Light Phototherapy Face Mask (Bway-FM01, Bway-FM02, Bway-FM03, Bway-FM05, Bway-FM06, Bway-FN01, Bway-E01, Bway-E02)",
    "org": "Shenzhen Bway Tech Co., Ltd.",
    "location": "Shenzhen"
   },
   "inni-cera (bcm-w500, bcm-w1000)|dentmedi co., ltd.|gunposi": {
    "first_seen": "2026-11-15T10:14:05+00:00",
-   "last_seen": "2026-11-24T10:55:05+00:00",
+   "last_seen": "2026-11-24T21:11:20+00:00",
    "title": "INNI-CERA (BCM-W500, BCM-W1000)",
    "org": "DentMedi Co., Ltd.",
    "location": "Gunposi"
   },
   "xpert\u00ae hemorrhagic fever panel|cepheid|sunnyvale, ca": {
    "first_seen": "2026-11-15T10:14:05+00:00",
-   "last_seen": "2026-11-24T10:55:05+00:00",
+   "last_seen": "2026-11-24T21:11:20+00:00",
    "title": "Xpert\u00ae Hemorrhagic Fever Panel",
    "org": "Cepheid",
    "location": "Sunnyvale, CA"
   },
   "arthrex beaming system|arthrex, inc.|naples, fl": {
    "first_seen": "2026-11-15T10:14:05+00:00",
-   "last_seen": "2026-11-24T10:55:05+00:00",
+   "last_seen": "2026-11-24T21:11:20+00:00",
    "title": "Arthrex Beaming System",
    "org": "Arthrex, Inc.",
    "location": "Naples, FL"
   },
   "cerclage cabling system|pioneer surgical technology, inc. dba exalta group|marquette, mi": {
    "first_seen": "2026-11-15T10:14:05+00:00",
-   "last_seen": "2026-11-24T10:55:05+00:00",
+   "last_seen": "2026-11-24T21:11:20+00:00",
    "title": "Cerclage Cabling System",
    "org": "Pioneer Surgical Technology, Inc. dba EXALTA Group",
    "location": "Marquette, MI"
   },
   "tmc implant fixation system|treace medical concepts, inc.|ponte vedra, fl": {
    "first_seen": "2026-11-15T10:14:05+00:00",
-   "last_seen": "2026-11-24T10:55:05+00:00",
+   "last_seen": "2026-11-24T21:11:20+00:00",
    "title": "TMC Implant Fixation System",
    "org": "Treace Medical Concepts, Inc.",
    "location": "Ponte Vedra, FL"
   },
   "osseofit stemless shoulder system|zimmer, inc.|warsaw, in": {
    "first_seen": "2026-11-15T10:14:05+00:00",
-   "last_seen": "2026-11-24T10:55:05+00:00",
+   "last_seen": "2026-11-24T21:11:20+00:00",
    "title": "OsseoFit Stemless Shoulder System",
    "org": "Zimmer, Inc.",
    "location": "Warsaw, IN"
   },
   "cobas eplex respiratory pathogen panel 3|genmark diagnostics, inc.|carlsbad, ca": {
    "first_seen": "2026-11-15T10:14:05+00:00",
-   "last_seen": "2026-11-24T10:55:05+00:00",
+   "last_seen": "2026-11-24T21:11:20+00:00",
    "title": "cobas eplex respiratory pathogen panel 3",
    "org": "GenMark Diagnostics, Inc.",
    "location": "Carlsbad, CA"
   },
   "amiro spectra 10-in-1 led light therapy mask (l3)|shenzhen accompany technology co., ltd.|shenzhen": {
    "first_seen": "2026-11-15T10:14:05+00:00",
-   "last_seen": "2026-11-24T10:55:05+00:00",
+   "last_seen": "2026-11-24T21:11:20+00:00",
    "title": "AMIRO Spectra 10-in-1 LED Light Therapy Mask (L3)",
    "org": "Shenzhen Accompany Technology Co., Ltd.",
    "location": "Shenzhen"
   },
   "pdr airway device|park dental research corp.|ardmore, ok": {
    "first_seen": "2026-11-15T10:14:05+00:00",
-   "last_seen": "2026-11-24T10:55:05+00:00",
+   "last_seen": "2026-11-24T21:11:20+00:00",
    "title": "PDR Airway Device",
    "org": "Park Dental Research Corp.",
    "location": "Ardmore, OK"
   },
   "bausch + lomb multifocal for astigmatism (kalifilcon a) one-day soft (hydrophilic) contact lens|bausch + lomb, inc.|rochester, ny": {
    "first_seen": "2026-11-15T10:14:05+00:00",
-   "last_seen": "2026-11-24T10:55:05+00:00",
+   "last_seen": "2026-11-24T21:11:20+00:00",
    "title": "Bausch + Lomb Multifocal for Astigmatism (kalifilcon A) One-Day Soft (hydrophilic) Contact Lens",
    "org": "Bausch + Lomb, Inc.",
    "location": "Rochester, NY"
   },
   "reprocessed brk transseptal needle|innovative health, llc|scottsdale, az": {
    "first_seen": "2026-11-15T10:14:05+00:00",
-   "last_seen": "2026-11-24T10:55:05+00:00",
+   "last_seen": "2026-11-24T21:11:20+00:00",
    "title": "Reprocessed BRK Transseptal Needle",
    "org": "Innovative Health, LLC",
    "location": "Scottsdale, AZ"
   },
   "prot\u00e9g\u00e9\u0099 everflex\u0099 self-expanding peripheral stent system|medtronic, inc.|plymouth, mn": {
    "first_seen": "2026-11-15T10:14:05+00:00",
-   "last_seen": "2026-11-24T10:55:05+00:00",
+   "last_seen": "2026-11-24T21:11:20+00:00",
    "title": "Prot\u00e9g\u00e9\u0099 EverFlex\u0099 Self-expanding Peripheral Stent System",
    "org": "Medtronic, Inc.",
    "location": "Plymouth, MN"
   },
   "echelon synergy|fujifilm corporation|minato-ku": {
    "first_seen": "2026-11-15T10:14:05+00:00",
-   "last_seen": "2026-11-24T10:55:05+00:00",
+   "last_seen": "2026-11-24T21:11:20+00:00",
    "title": "ECHELON Synergy",
    "org": "Fujifilm Corporation",
    "location": "Minato-Ku"
   },
   "indigo\u00ae aspiration system|penumbra, inc.|alameda, ca": {
    "first_seen": "2026-11-15T10:14:05+00:00",
-   "last_seen": "2026-11-24T10:55:05+00:00",
+   "last_seen": "2026-11-24T21:11:20+00:00",
    "title": "INDIGO\u00ae Aspiration System",
    "org": "Penumbra, Inc.",
    "location": "Alameda, CA"
   },
   "soltive\u0099 laser system (soltive\u0099 pro superpulsed laser, soltive\u0099 premium superpulsed laser, soltive laser fibers, and acc|olympus surgical technologies america|westborough, ma": {
    "first_seen": "2026-11-15T10:14:05+00:00",
-   "last_seen": "2026-11-24T10:55:05+00:00",
+   "last_seen": "2026-11-24T21:11:20+00:00",
    "title": "SOLTIVE\u0099 Laser System (SOLTIVE\u0099 Pro SuperPulsed Laser, SOLTIVE\u0099 Premium SuperPulsed Laser, SOLTIVE Laser Fibers, and Accessories)",
    "org": "Olympus Surgical Technologies America",
    "location": "Westborough, MA"
   },
   "308nm ultraviolet light therapy device (xwyl-401a, xwyl-403a)|guangxi hope medical devices technology co., ltd.|yulin": {
    "first_seen": "2026-11-15T10:14:05+00:00",
-   "last_seen": "2026-11-24T10:55:05+00:00",
+   "last_seen": "2026-11-24T21:11:20+00:00",
    "title": "308nm Ultraviolet Light Therapy Device (XWYL-401A, XWYL-403A)",
    "org": "Guangxi Hope Medical Devices Technology Co., Ltd.",
    "location": "Yulin"
   },
   "eonis\u0099 sma kit|revvity, inc.|waltham, ma": {
    "first_seen": "2026-11-15T10:14:05+00:00",
-   "last_seen": "2026-11-24T10:55:05+00:00",
+   "last_seen": "2026-11-24T21:11:20+00:00",
    "title": "Eonis\u0099 SMA kit",
    "org": "Revvity, Inc.",
    "location": "Waltham, MA"
   },
   "flowrunner aspiration system|expanse medical, inc.|pleasanton, ca": {
    "first_seen": "2026-11-15T10:14:05+00:00",
-   "last_seen": "2026-11-24T10:55:05+00:00",
+   "last_seen": "2026-11-24T21:11:20+00:00",
    "title": "FLOWRUNNER Aspiration System",
    "org": "Expanse Medical, Inc.",
    "location": "Pleasanton, CA"
   },
   "cranius plate|cranius, llc|baltimore, md": {
    "first_seen": "2026-11-15T10:14:05+00:00",
-   "last_seen": "2026-11-24T10:55:05+00:00",
+   "last_seen": "2026-11-24T21:11:20+00:00",
    "title": "CraniUS Plate",
    "org": "CraniUS, LLC",
    "location": "Baltimore, MD"
   },
   "purelift pro max|xtreem pulse, llc|new york, ny": {
    "first_seen": "2026-11-15T10:14:05+00:00",
-   "last_seen": "2026-11-24T10:55:05+00:00",
+   "last_seen": "2026-11-24T21:11:20+00:00",
    "title": "PureLift Pro Max",
    "org": "Xtreem Pulse, LLC",
    "location": "New York, NY"
   },
   "cleerly ischemia|cleerly, inc.|denver, co": {
    "first_seen": "2026-11-15T10:14:05+00:00",
-   "last_seen": "2026-11-24T10:55:05+00:00",
+   "last_seen": "2026-11-24T21:11:20+00:00",
    "title": "Cleerly ISCHEMIA",
    "org": "Cleerly, Inc.",
    "location": "Denver, CO"
   },
   "led and laser hair growth device (h5520, h5521, h5522, h5523, h5524, h5525, h5530, h5605, h5610, h5615, h5620, h5625, h5|shenzhen jianchao intelligent technology co., ltd.|shenzhen": {
    "first_seen": "2026-11-15T10:14:05+00:00",
-   "last_seen": "2026-11-24T10:55:05+00:00",
+   "last_seen": "2026-11-24T21:11:20+00:00",
    "title": "Led and Laser Hair Growth Device (H5520, H5521, H5522, H5523, H5524, H5525, H5530, H5605, H5610, H5615, H5620, H5625, H5630, H6510, H6520, INIA-HM100, ID-FLH-500)",
    "org": "Shenzhen Jianchao Intelligent Technology Co., Ltd.",
    "location": "Shenzhen"
   },
   "nasal aspirator (tlc-n02); electric nosefrida pro (12300400); electric nosefrida (12100401)|zhongshan gl electronics co. , ltd.|zhongshan": {
    "first_seen": "2026-11-15T10:14:05+00:00",
-   "last_seen": "2026-11-24T10:55:05+00:00",
+   "last_seen": "2026-11-24T21:11:20+00:00",
    "title": "Nasal Aspirator (TLC-N02); Electric NoseFrida Pro (12300400); Electric NoseFrida (12100401)",
    "org": "Zhongshan GL Electronics Co. , Ltd.",
    "location": "Zhongshan"
   },
   "kheiron\u00ae spinal fixation system, including patient specific k-rod|s.m.a.i.o|saint-priest": {
    "first_seen": "2026-11-15T10:14:05+00:00",
-   "last_seen": "2026-11-24T10:55:05+00:00",
+   "last_seen": "2026-11-24T21:11:20+00:00",
    "title": "KHEIRON\u00ae Spinal Fixation System, including patient specific K-ROD",
    "org": "S.M.A.I.O",
    "location": "Saint-Priest"
@@ -963,91 +968,91 @@
   },
   "cadai-b dx|beamworks, inc.|daegu": {
    "first_seen": "2026-11-17T03:53:10+00:00",
-   "last_seen": "2026-11-24T10:55:05+00:00",
+   "last_seen": "2026-11-24T21:11:20+00:00",
    "title": "CadAI-B Dx",
    "org": "BeamWorks, Inc.",
    "location": "Daegu"
   },
   "option\u0099elite vena cava filter system; option\u0099elite vena cava filter 100cm system|argon medical devices, inc.|athens, tx": {
    "first_seen": "2026-11-17T03:53:10+00:00",
-   "last_seen": "2026-11-24T10:55:05+00:00",
+   "last_seen": "2026-11-24T21:11:20+00:00",
    "title": "Option\u0099ELITE Vena Cava Filter System; Option\u0099ELITE Vena Cava Filter 100cm System",
    "org": "Argon Medical Devices, Inc.",
    "location": "Athens, TX"
   },
   "biocharge|nanofiber solutions, llc|dublin, oh": {
    "first_seen": "2026-11-17T03:53:10+00:00",
-   "last_seen": "2026-11-24T10:55:05+00:00",
+   "last_seen": "2026-11-24T21:11:20+00:00",
    "title": "BioCharge",
    "org": "Nanofiber Solutions, LLC",
    "location": "Dublin, OH"
   },
   "pre-b seal lung biopsy plug system (model fg0004)|selio medical limited|dublin": {
    "first_seen": "2026-11-17T03:53:10+00:00",
-   "last_seen": "2026-11-24T10:55:05+00:00",
+   "last_seen": "2026-11-24T21:11:20+00:00",
    "title": "Pre-B Seal Lung Biopsy Plug System (Model FG0004)",
    "org": "Selio Medical Limited",
    "location": "Dublin"
   },
   "biowave biowraps|biowave corporation|westport, ct": {
    "first_seen": "2026-11-17T03:53:10+00:00",
-   "last_seen": "2026-11-24T10:55:05+00:00",
+   "last_seen": "2026-11-24T21:11:20+00:00",
    "title": "BioWave BioWraps",
    "org": "Biowave Corporation",
    "location": "Westport, CT"
   },
   "pico 7 single use negative pressure wound therapy system;pico 14 single use negative pressure wound therapy system;pico |smith and nephew medical limited|kingston upon hull": {
    "first_seen": "2026-11-17T03:53:10+00:00",
-   "last_seen": "2026-11-24T10:55:05+00:00",
+   "last_seen": "2026-11-24T21:11:20+00:00",
    "title": "PICO 7 Single Use Negative Pressure Wound Therapy System;PICO 14 Single Use Negative Pressure Wound Therapy System;PICO Fluid Management Packs",
    "org": "Smith and Nephew Medical Limited",
    "location": "Kingston Upon Hull"
   },
   "duocore non-compressive im nail|gm dos reis industria e comercio ltda.|campinas": {
    "first_seen": "2026-11-17T03:53:10+00:00",
-   "last_seen": "2026-11-24T10:55:05+00:00",
+   "last_seen": "2026-11-24T21:11:20+00:00",
    "title": "DuoCore Non-Compressive IM Nail",
    "org": "GM Dos Reis Industria e Comercio Ltda.",
    "location": "Campinas"
   },
   "sf push-in anchor|surgical fusion technologies gmbh|schlieren": {
    "first_seen": "2026-11-17T03:53:10+00:00",
-   "last_seen": "2026-11-24T10:55:05+00:00",
+   "last_seen": "2026-11-24T21:11:20+00:00",
    "title": "SF Push-in Anchor",
    "org": "Surgical Fusion Technologies GmbH",
    "location": "Schlieren"
   },
   "ezi-crown|mediclus|cheongju-si": {
    "first_seen": "2026-11-17T03:53:10+00:00",
-   "last_seen": "2026-11-24T10:55:05+00:00",
+   "last_seen": "2026-11-24T21:11:20+00:00",
    "title": "Ezi-Crown",
    "org": "MEDICLUS",
    "location": "Cheongju-Si"
   },
   "hero sternal closure system|hero orthopedics, llc|winona lake, in": {
    "first_seen": "2026-11-17T03:53:10+00:00",
-   "last_seen": "2026-11-24T10:55:05+00:00",
+   "last_seen": "2026-11-24T21:11:20+00:00",
    "title": "HERO Sternal Closure System",
    "org": "Hero Orthopedics, LLC",
    "location": "Winona Lake, IN"
   },
   "single use optical fiber|quanta system spa|samarate": {
    "first_seen": "2026-11-17T03:53:10+00:00",
-   "last_seen": "2026-11-24T10:55:05+00:00",
+   "last_seen": "2026-11-24T21:11:20+00:00",
    "title": "Single Use Optical Fiber",
    "org": "Quanta System Spa",
    "location": "Samarate"
   },
   "oxysight for moleculightdx+|moleculight, inc.|toronto": {
    "first_seen": "2026-11-17T03:53:10+00:00",
-   "last_seen": "2026-11-24T10:55:05+00:00",
+   "last_seen": "2026-11-24T21:11:20+00:00",
    "title": "OxySight for MolecuLightDX+",
    "org": "MolecuLight, Inc.",
    "location": "Toronto"
   },
   "biofire warrior panel control kit|biofire defense, llc|salt lake city, ut": {
    "first_seen": "2026-11-17T03:53:10+00:00",
-   "last_seen": "2026-11-24T10:55:05+00:00",
+   "last_seen": "2026-11-24T21:11:20+00:00",
    "title": "BioFire Warrior Panel Control Kit",
    "org": "BioFire Defense, LLC",
    "location": "Salt Lake City, UT"

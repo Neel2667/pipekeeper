@@ -3,9 +3,9 @@
  "name": "Federal contracts \u2014 awards >$1M (last 3 days)",
  "category": "funding",
  "source": "https://www.usaspending.gov",
- "collected_at": "2026-11-24T10:55:03+00:00",
+ "collected_at": "2026-11-24T21:11:18+00:00",
  "jobs_on_board": 15,
- "new_this_run": 8,
+ "new_this_run": 0,
  "total_tracked": 629,
  "jobs": [
   {
@@ -14,7 +14,7 @@
    "location": null,
    "detail": "$1,853,378 \u00b7 Department of Energy \u00b7 start 2021-12-30",
    "url": "https://www.usaspending.gov/award/CONT_AWD_89233122CNA000244_8900_-NONE-_-NONE-",
-   "new_this_run": true
+   "new_this_run": false
   },
   {
    "title": "TASK ORDER 1 FOR CORE SURVEY WORK (CLIN0001) AND OPTIONAL SURVEY ADD-ONS (CLIN0002)",
@@ -22,7 +22,7 @@
    "location": null,
    "detail": "$181,869,256 \u00b7 Department of Health and Human Services \u00b7 start 2020-07-13",
    "url": "https://www.usaspending.gov/award/CONT_AWD_75Q80120F32001_7528_75Q80120D00024_7528",
-   "new_this_run": true
+   "new_this_run": false
   },
   {
    "title": "PROTECTIVE SECURITY OFFICER SERVICE THROUGHOUT DALLAS, TX (BUILDING SPECIFIC) - SECTION 2(D)",
@@ -46,7 +46,7 @@
    "location": null,
    "detail": "$135,859,947 \u00b7 Department of Transportation \u00b7 start 2023-02-23",
    "url": "https://www.usaspending.gov/award/CONT_AWD_693C7323C000004_6925_-NONE-_-NONE-",
-   "new_this_run": true
+   "new_this_run": false
   },
   {
    "title": "7A21 - SOFTWARE: ADOBE LICENSE RENEWALS",
@@ -62,7 +62,7 @@
    "location": null,
    "detail": "$1,364,660 \u00b7 Environmental Protection Agency \u00b7 start 2021-07-29",
    "url": "https://www.usaspending.gov/award/CONT_AWD_68HE0521F0091_6800_68HE0118D0016_6800",
-   "new_this_run": true
+   "new_this_run": false
   },
   {
    "title": "HIRSCH SECURITY SYSTEMS UPGRADE",
@@ -70,7 +70,7 @@
    "location": null,
    "detail": "$1,200,757 \u00b7 Department of Veterans Affairs \u00b7 start 2024-01-01",
    "url": "https://www.usaspending.gov/award/CONT_AWD_36C26224P0430_3600_-NONE-_-NONE-",
-   "new_this_run": true
+   "new_this_run": false
   },
   {
    "title": "SPECIAL MODE TRANSPORTATION SERVICES",
@@ -102,7 +102,7 @@
    "location": null,
    "detail": "$11,340,371 \u00b7 Department of State \u00b7 start 2024-09-09",
    "url": "https://www.usaspending.gov/award/CONT_AWD_19AQMM24F1556_1900_47QTCA20D0055_4732",
-   "new_this_run": true
+   "new_this_run": false
   }
  ],
  "runs": [
@@ -250,6 +250,11 @@
    "at": "2026-11-24T10:55:03+00:00",
    "jobs": 15,
    "new": 8
+  },
+  {
+   "at": "2026-11-24T21:11:18+00:00",
+   "jobs": 15,
+   "new": 0
   }
  ],
  "jobs_seen": {
@@ -1347,7 +1352,7 @@
   },
   "the purpose of this order is to provide 18,000 housing inspection services in support of the presidential individual ass|wsp usa services inc.|": {
    "first_seen": "2026-11-16T02:06:51+00:00",
-   "last_seen": "2026-11-24T10:55:03+00:00",
+   "last_seen": "2026-11-24T21:11:18+00:00",
    "title": "THE PURPOSE OF THIS ORDER IS TO PROVIDE 18,000 HOUSING INSPECTION SERVICES IN SUPPORT OF THE PRESIDENTIAL INDIVIDUAL ASSISTANCE DECLARATION FOR DISASTER 4955 FLORIDA.",
    "org": "WSP USA SERVICES INC.",
    "location": null
@@ -4560,98 +4565,98 @@
   },
   "protective security officer service throughout dallas, tx (building specific) - section 2(d)|paragon systems inc|": {
    "first_seen": "2026-11-24T00:50:45+00:00",
-   "last_seen": "2026-11-24T10:55:03+00:00",
+   "last_seen": "2026-11-24T21:11:18+00:00",
    "title": "PROTECTIVE SECURITY OFFICER SERVICE THROUGHOUT DALLAS, TX (BUILDING SPECIFIC) - SECTION 2(D)",
    "org": "PARAGON SYSTEMS INC",
    "location": null
   },
   "7a21 - software: adobe license renewals|redhawk it solutions, llc|": {
    "first_seen": "2026-11-24T00:50:45+00:00",
-   "last_seen": "2026-11-24T10:55:03+00:00",
+   "last_seen": "2026-11-24T21:11:18+00:00",
    "title": "7A21 - SOFTWARE: ADOBE LICENSE RENEWALS",
    "org": "REDHAWK IT SOLUTIONS, LLC",
    "location": null
   },
   "special mode transportation services|journey via gurney, llc|": {
    "first_seen": "2026-11-24T00:50:45+00:00",
-   "last_seen": "2026-11-24T10:55:03+00:00",
+   "last_seen": "2026-11-24T21:11:18+00:00",
    "title": "SPECIAL MODE TRANSPORTATION SERVICES",
    "org": "JOURNEY VIA GURNEY, LLC",
    "location": null
   },
   "parking lot security|servexo, inc.|": {
    "first_seen": "2026-11-24T00:50:45+00:00",
-   "last_seen": "2026-11-24T10:55:03+00:00",
+   "last_seen": "2026-11-24T21:11:18+00:00",
    "title": "PARKING LOT SECURITY",
    "org": "SERVEXO, INC.",
    "location": null
   },
   "waste management and recycling services|sunset scavenger co|": {
    "first_seen": "2026-11-24T00:50:45+00:00",
-   "last_seen": "2026-11-24T10:55:03+00:00",
+   "last_seen": "2026-11-24T21:11:18+00:00",
    "title": "WASTE MANAGEMENT AND RECYCLING SERVICES",
    "org": "SUNSET SCAVENGER CO",
    "location": null
   },
   "hofr- rehabilitate rose garden infrastru|iron sword enterprises, llc|": {
    "first_seen": "2026-11-24T00:50:45+00:00",
-   "last_seen": "2026-11-24T10:55:03+00:00",
+   "last_seen": "2026-11-24T21:11:18+00:00",
    "title": "HOFR- REHABILITATE ROSE GARDEN INFRASTRU",
    "org": "IRON SWORD ENTERPRISES, LLC",
    "location": null
   },
   "u.s. department of energy/national nuclear security administration (doe/nnsa) office of emergency operations (na-40) tec|project enhancement corporation|": {
    "first_seen": "2026-11-24T10:55:03+00:00",
-   "last_seen": "2026-11-24T10:55:03+00:00",
+   "last_seen": "2026-11-24T21:11:18+00:00",
    "title": "U.S. DEPARTMENT OF ENERGY/NATIONAL NUCLEAR SECURITY ADMINISTRATION (DOE/NNSA) OFFICE OF EMERGENCY OPERATIONS (NA-40) TECHNICAL SUPPORT SERVICES",
    "org": "PROJECT ENHANCEMENT CORPORATION",
    "location": null
   },
   "task order 1 for core survey work (clin0001) and optional survey add-ons (clin0002)|westat, inc.|": {
    "first_seen": "2026-11-24T10:55:03+00:00",
-   "last_seen": "2026-11-24T10:55:03+00:00",
+   "last_seen": "2026-11-24T21:11:18+00:00",
    "title": "TASK ORDER 1 FOR CORE SURVEY WORK (CLIN0001) AND OPTIONAL SURVEY ADD-ONS (CLIN0002)",
    "org": "WESTAT, INC.",
    "location": null
   },
   "np-colo 1a21, b42, c18, d51 - the project consists of the rehabilitation of approximately 10.3 miles of the colonial par|wagman heavy civil inc|": {
    "first_seen": "2026-11-24T10:55:03+00:00",
-   "last_seen": "2026-11-24T10:55:03+00:00",
+   "last_seen": "2026-11-24T21:11:18+00:00",
    "title": "NP-COLO 1A21, B42, C18, D51 - THE PROJECT CONSISTS OF THE REHABILITATION OF APPROXIMATELY 10.3 MILES OF THE COLONIAL PARKWAY (PARKWAY) FROM MILEPOST (MP) 0.17 TO MP 1.61 AND MP 6.02 TO MP 14.88 WITHIN COLONIAL NATIONAL HISTORICAL PARK. THE ",
    "org": "WAGMAN HEAVY CIVIL INC",
    "location": null
   },
   "north bronson task order|och jv|": {
    "first_seen": "2026-11-24T10:55:03+00:00",
-   "last_seen": "2026-11-24T10:55:03+00:00",
+   "last_seen": "2026-11-24T21:11:18+00:00",
    "title": "NORTH BRONSON TASK ORDER",
    "org": "OCH JV",
    "location": null
   },
   "hirsch security systems upgrade|chief technical services llc|": {
    "first_seen": "2026-11-24T10:55:03+00:00",
-   "last_seen": "2026-11-24T10:55:03+00:00",
+   "last_seen": "2026-11-24T21:11:18+00:00",
    "title": "HIRSCH SECURITY SYSTEMS UPGRADE",
    "org": "CHIEF TECHNICAL SERVICES LLC",
    "location": null
   },
   "drl gp - professional services|competitive innovations llc|": {
    "first_seen": "2026-11-24T10:55:03+00:00",
-   "last_seen": "2026-11-24T10:55:03+00:00",
+   "last_seen": "2026-11-24T21:11:18+00:00",
    "title": "DRL GP - PROFESSIONAL SERVICES",
    "org": "COMPETITIVE INNOVATIONS LLC",
    "location": null
   },
   "for the operation of the montgomery, al job corp center|education & training resources llc|": {
    "first_seen": "2026-11-24T10:55:03+00:00",
-   "last_seen": "2026-11-24T10:55:03+00:00",
+   "last_seen": "2026-11-24T21:11:18+00:00",
    "title": "FOR THE OPERATION OF THE MONTGOMERY, AL JOB CORP CENTER",
    "org": "EDUCATION & TRAINING RESOURCES LLC",
    "location": null
   },
   "operation of the keystone/red rock job corps centers, outreach/admissions, career transition services|adams and associates inc|": {
    "first_seen": "2026-11-24T10:55:03+00:00",
-   "last_seen": "2026-11-24T10:55:03+00:00",
+   "last_seen": "2026-11-24T21:11:18+00:00",
    "title": "OPERATION OF THE KEYSTONE/RED ROCK JOB CORPS CENTERS, OUTREACH/ADMISSIONS, CAREER TRANSITION SERVICES",
    "org": "ADAMS AND ASSOCIATES INC",
    "location": null

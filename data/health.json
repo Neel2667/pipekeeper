@@ -248,9 +248,15 @@
    "feeds": 15,
    "ok": 15,
    "failed": []
+  },
+  {
+   "at": "2026-11-24T21:11:21+00:00",
+   "feeds": 15,
+   "ok": 15,
+   "failed": []
   }
  ],
- "last_run": "2026-11-24T10:55:06+00:00",
+ "last_run": "2026-11-24T21:11:21+00:00",
  "last_status": {
   "hosthealthcare": true,
   "remoteok": true,
