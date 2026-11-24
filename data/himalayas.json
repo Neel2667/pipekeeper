@@ -3,104 +3,104 @@
  "name": "Himalayas \u2014 remote jobs",
  "category": "jobs",
  "source": "https://himalayas.app/jobs/api",
- "collected_at": "2026-11-24T00:50:43+00:00",
+ "collected_at": "2026-11-24T10:55:01+00:00",
  "jobs_on_board": 20,
  "new_this_run": 20,
- "total_tracked": 595,
+ "total_tracked": 615,
  "jobs": [
   {
-   "title": "Finance Controller Lead (all genders)",
-   "org": "JustPlay GmbH",
-   "location": "Germany",
-   "detail": "Full Time",
-   "url": null,
-   "new_this_run": true
-  },
-  {
-   "title": "IT Project Manager (PMP), Health and Human Services Projects",
-   "org": "Dhaka Technologies Limited Company",
-   "location": "United States",
-   "detail": "$60\u2013$80/h",
-   "url": null,
-   "new_this_run": true
-  },
-  {
-   "title": "Buchhalter:in (m/w/d) - Berlin o. remote",
-   "org": "Tierarzt Plus Partner",
-   "location": "Germany",
-   "detail": "Full Time",
-   "url": null,
-   "new_this_run": true
-  },
-  {
-   "title": "Facility Programs and Services Intern",
-   "org": "Parsons Corporation",
-   "location": "United States",
-   "detail": "$19\u2013$34/h",
-   "url": null,
-   "new_this_run": true
-  },
-  {
-   "title": "IT Project Management Specialist Sr",
-   "org": "Sedgwick",
+   "title": "Patient Consent Coordinator",
+   "org": "Affinity International",
    "location": "United States",
    "detail": "Full Time",
    "url": null,
    "new_this_run": true
   },
   {
-   "title": "InfoSec Engineer",
-   "org": "3iQ",
-   "location": "Mexico",
+   "title": "Clinical Pharmacist, Utilization Management (Part B Drugs)",
+   "org": "Devoted Health",
+   "location": "United States",
+   "detail": "$75,000\u2013$140,000/a",
+   "url": null,
+   "new_this_run": true
+  },
+  {
+   "title": "Head of Software Engineering (Hands-on)",
+   "org": "iTalent PLUS",
+   "location": "Albania, Andorra, Austria, Belarus, Belgium, Bosnia and Herzegovina, Bulgaria, Croatia, Cyprus, Czechia, Denmark, Estonia, Faroe Islands, Finland, France, Germany, Gibraltar, Greece, Guernsey, Holy See (Vatican City State), Hungary, Iceland",
+   "detail": "Contractor",
+   "url": null,
+   "new_this_run": true
+  },
+  {
+   "title": "Blackbaud CRM Business Consultant",
+   "org": "Blackbaud",
+   "location": "United States",
+   "detail": "$77,700\u2013$104,500/a",
+   "url": null,
+   "new_this_run": true
+  },
+  {
+   "title": "Remote Life Insurance Agent | Mesa",
+   "org": "Kimbrell Agency",
+   "location": "United States",
+   "detail": "$50,000\u2013$100,000/a",
+   "url": null,
+   "new_this_run": true
+  },
+  {
+   "title": "Medical Policy Business Analyst",
+   "org": "Healthfirst",
+   "location": "United States",
+   "detail": "$61,300\u2013$99,620/a",
+   "url": null,
+   "new_this_run": true
+  },
+  {
+   "title": "Customer Experience Splunk Core Area TAM Leader",
+   "org": "Cisco",
+   "location": "United States",
+   "detail": "$164,600\u2013$208,900/a",
+   "url": null,
+   "new_this_run": true
+  },
+  {
+   "title": "Primary Care NP/PA \u2013 Telehealth, Chronic Disease Management",
+   "org": "Devoted Health",
+   "location": "United States",
+   "detail": "$120,000\u2013$150,000/a",
+   "url": null,
+   "new_this_run": true
+  },
+  {
+   "title": "Lead Practice Manager, Financial Services",
+   "org": "Snowflake",
+   "location": "United States",
+   "detail": "$198,000\u2013$259,800/a",
+   "url": null,
+   "new_this_run": true
+  },
+  {
+   "title": "Recruiter",
+   "org": "micro1",
+   "location": "United States",
    "detail": "Full Time",
    "url": null,
    "new_this_run": true
   },
   {
-   "title": "Sourcing Manager- Hard Service Lead",
-   "org": "JLL",
-   "location": "United States",
-   "detail": "$110,000\u2013$120,000/a",
-   "url": null,
-   "new_this_run": true
-  },
-  {
-   "title": "Product Owner \u2013 Enterprise Asset Management (EAM/CMMS)",
-   "org": "TISTA Science and Technology Corporation",
-   "location": "United States",
-   "detail": "$80,000\u2013$140,000/a",
-   "url": null,
-   "new_this_run": true
-  },
-  {
-   "title": "Manager, Cash Posting",
-   "org": "QHR",
-   "location": "United States",
-   "detail": "$76,658\u2013$114,987/a",
-   "url": null,
-   "new_this_run": true
-  },
-  {
-   "title": "Workday, Senior Engagement Manager",
-   "org": "Collaborative Solutions",
-   "location": "Australia, New Zealand",
+   "title": "Solutions Engineer (AI, Identity & Data Security)",
+   "org": "Quilr Inc.",
+   "location": "India",
    "detail": "Full Time",
    "url": null,
    "new_this_run": true
   },
   {
-   "title": "Population Health- RN Medical Case Manager",
-   "org": "BlueCross BlueShield of Tennessee",
+   "title": "Senior Estimator",
+   "org": "GrayWolf",
    "location": "United States",
    "detail": "Full Time",
-   "url": null,
-   "new_this_run": true
-  },
-  {
-   "title": "Sr Operations Development Manager",
-   "org": "Jabil",
-   "location": "United States",
-   "detail": "$135,700\u2013$244,300/a",
    "url": null,
    "new_this_run": true
   }
@@ -263,6 +263,11 @@
   },
   {
    "at": "2026-11-24T00:50:43+00:00",
+   "jobs": 20,
+   "new": 20
+  },
+  {
+   "at": "2026-11-24T10:55:01+00:00",
    "jobs": 20,
    "new": 20
   }
@@ -4432,6 +4437,146 @@
    "title": "Senior Manager Channel Programs and Operations",
    "org": "Akamai Technologies",
    "location": "India"
+  },
+  "patient consent coordinator|affinity international|united states": {
+   "first_seen": "2026-11-24T10:55:01+00:00",
+   "last_seen": "2026-11-24T10:55:01+00:00",
+   "title": "Patient Consent Coordinator",
+   "org": "Affinity International",
+   "location": "United States"
+  },
+  "clinical pharmacist, utilization management (part b drugs)|devoted health|united states": {
+   "first_seen": "2026-11-24T10:55:01+00:00",
+   "last_seen": "2026-11-24T10:55:01+00:00",
+   "title": "Clinical Pharmacist, Utilization Management (Part B Drugs)",
+   "org": "Devoted Health",
+   "location": "United States"
+  },
+  "head of software engineering (hands-on)|italent plus|albania, andorra, austria, belarus, belgium, bosnia and herzegovina, bulgaria, croatia, cyprus, czechia, denmark, estoni": {
+   "first_seen": "2026-11-24T10:55:01+00:00",
+   "last_seen": "2026-11-24T10:55:01+00:00",
+   "title": "Head of Software Engineering (Hands-on)",
+   "org": "iTalent PLUS",
+   "location": "Albania, Andorra, Austria, Belarus, Belgium, Bosnia and Herzegovina, Bulgaria, Croatia, Cyprus, Czechia, Denmark, Estonia, Faroe Islands, Finland, France, Germany, Gibraltar, Greece, Guernsey, Holy See (Vatican City State), Hungary, Iceland"
+  },
+  "blackbaud crm business consultant|blackbaud|united states": {
+   "first_seen": "2026-11-24T10:55:01+00:00",
+   "last_seen": "2026-11-24T10:55:01+00:00",
+   "title": "Blackbaud CRM Business Consultant",
+   "org": "Blackbaud",
+   "location": "United States"
+  },
+  "remote life insurance agent | mesa|kimbrell agency|united states": {
+   "first_seen": "2026-11-24T10:55:01+00:00",
+   "last_seen": "2026-11-24T10:55:01+00:00",
+   "title": "Remote Life Insurance Agent | Mesa",
+   "org": "Kimbrell Agency",
+   "location": "United States"
+  },
+  "medical policy business analyst|healthfirst|united states": {
+   "first_seen": "2026-11-24T10:55:01+00:00",
+   "last_seen": "2026-11-24T10:55:01+00:00",
+   "title": "Medical Policy Business Analyst",
+   "org": "Healthfirst",
+   "location": "United States"
+  },
+  "customer experience splunk core area tam leader|cisco|united states": {
+   "first_seen": "2026-11-24T10:55:01+00:00",
+   "last_seen": "2026-11-24T10:55:01+00:00",
+   "title": "Customer Experience Splunk Core Area TAM Leader",
+   "org": "Cisco",
+   "location": "United States"
+  },
+  "primary care np/pa \u2013 telehealth, chronic disease management|devoted health|united states": {
+   "first_seen": "2026-11-24T10:55:01+00:00",
+   "last_seen": "2026-11-24T10:55:01+00:00",
+   "title": "Primary Care NP/PA \u2013 Telehealth, Chronic Disease Management",
+   "org": "Devoted Health",
+   "location": "United States"
+  },
+  "lead practice manager, financial services|snowflake|united states": {
+   "first_seen": "2026-11-24T10:55:01+00:00",
+   "last_seen": "2026-11-24T10:55:01+00:00",
+   "title": "Lead Practice Manager, Financial Services",
+   "org": "Snowflake",
+   "location": "United States"
+  },
+  "recruiter|micro1|united states": {
+   "first_seen": "2026-11-24T10:55:01+00:00",
+   "last_seen": "2026-11-24T10:55:01+00:00",
+   "title": "Recruiter",
+   "org": "micro1",
+   "location": "United States"
+  },
+  "solutions engineer (ai, identity & data security)|quilr inc.|india": {
+   "first_seen": "2026-11-24T10:55:01+00:00",
+   "last_seen": "2026-11-24T10:55:01+00:00",
+   "title": "Solutions Engineer (AI, Identity & Data Security)",
+   "org": "Quilr Inc.",
+   "location": "India"
+  },
+  "senior estimator|graywolf|united states": {
+   "first_seen": "2026-11-24T10:55:01+00:00",
+   "last_seen": "2026-11-24T10:55:01+00:00",
+   "title": "Senior Estimator",
+   "org": "GrayWolf",
+   "location": "United States"
+  },
+  "statistical programmer i/ii/iii - fsp|parexel|south africa": {
+   "first_seen": "2026-11-24T10:55:01+00:00",
+   "last_seen": "2026-11-24T10:55:01+00:00",
+   "title": "Statistical Programmer I/II/III - FSP",
+   "org": "Parexel",
+   "location": "South Africa"
+  },
+  "data engineer|we are next|spain": {
+   "first_seen": "2026-11-24T10:55:01+00:00",
+   "last_seen": "2026-11-24T10:55:01+00:00",
+   "title": "Data Engineer",
+   "org": "WE ARE NEXT",
+   "location": "Spain"
+  },
+  "conseill\u00e8re - conseiller en ressources humaine \u2013 bilingue|acceo|canada, united states": {
+   "first_seen": "2026-11-24T10:55:01+00:00",
+   "last_seen": "2026-11-24T10:55:01+00:00",
+   "title": "Conseill\u00e8re - conseiller en ressources humaine \u2013 Bilingue",
+   "org": "ACCEO",
+   "location": "Canada, United States"
+  },
+  "senior software developer|covius|united states": {
+   "first_seen": "2026-11-24T10:55:01+00:00",
+   "last_seen": "2026-11-24T10:55:01+00:00",
+   "title": "Senior Software Developer",
+   "org": "Covius",
+   "location": "United States"
+  },
+  "area business manager - allergy - macon, ga|sanofi|puerto rico, united states": {
+   "first_seen": "2026-11-24T10:55:01+00:00",
+   "last_seen": "2026-11-24T10:55:01+00:00",
+   "title": "Area Business Manager - Allergy - Macon, GA",
+   "org": "Sanofi",
+   "location": "Puerto Rico, United States"
+  },
+  "product owner - clinical trial supplier enablement|amgen|united kingdom": {
+   "first_seen": "2026-11-24T10:55:01+00:00",
+   "last_seen": "2026-11-24T10:55:01+00:00",
+   "title": "Product Owner - Clinical Trial Supplier Enablement",
+   "org": "Amgen",
+   "location": "United Kingdom"
+  },
+  "merchandising service delivery manager|komforce|australia": {
+   "first_seen": "2026-11-24T10:55:01+00:00",
+   "last_seen": "2026-11-24T10:55:01+00:00",
+   "title": "Merchandising Service Delivery Manager",
+   "org": "Komforce",
+   "location": "Australia"
+  },
+  "sd us verif - lead operations specialist|first advantage|philippines": {
+   "first_seen": "2026-11-24T10:55:01+00:00",
+   "last_seen": "2026-11-24T10:55:01+00:00",
+   "title": "SD US VERIF - Lead Operations Specialist",
+   "org": "First Advantage",
+   "location": "Philippines"
   }
  }
 }

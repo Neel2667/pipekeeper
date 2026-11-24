@@ -3,105 +3,105 @@
  "name": "Jobicy \u2014 remote jobs",
  "category": "jobs",
  "source": "https://jobicy.com/api/v2/remote-jobs",
- "collected_at": "2026-11-24T00:50:42+00:00",
+ "collected_at": "2026-11-24T10:55:00+00:00",
  "jobs_on_board": 50,
  "new_this_run": 50,
- "total_tracked": 945,
+ "total_tracked": 995,
  "jobs": [
   {
-   "title": "New Business Account Executive (Hebrew speaker)",
-   "org": "Twilio",
-   "location": "Ireland, Spain, UK",
-   "detail": "Director",
-   "url": "https://jobicy.com/jobs/164029-new-business-account-executive-hebrew-speaker",
-   "new_this_run": true
-  },
-  {
-   "title": "New Business Account Executive (French speaker)",
-   "org": "Twilio",
-   "location": "Ireland, Spain, UK",
-   "detail": "Director",
-   "url": "https://jobicy.com/jobs/164027-new-business-account-executive-french-speaker",
-   "new_this_run": true
-  },
-  {
-   "title": "Senior Technical Product Manager",
-   "org": "Airalo",
-   "location": "Spain",
-   "detail": "Senior",
-   "url": "https://jobicy.com/jobs/164025-senior-technical-product-manager-3",
-   "new_this_run": true
-  },
-  {
-   "title": "System Software Engineer - GCC/LLVM compiler, tooling, and ecosystem",
-   "org": "Canonical",
-   "location": "LATAM, Canada, USA",
-   "detail": "Senior",
-   "url": "https://jobicy.com/jobs/164022-system-software-engineer-gcc-llvm-compiler-tooling-and-ecosystem",
-   "new_this_run": true
-  },
-  {
-   "title": "Software Engineer - Ubuntu Server Certification",
-   "org": "Canonical",
-   "location": "LATAM, Canada, USA",
-   "detail": "Senior",
-   "url": "https://jobicy.com/jobs/164021-software-engineer-ubuntu-server-certification",
-   "new_this_run": true
-  },
-  {
-   "title": "Software Engineer (Python/Linux/Packaging)",
-   "org": "Canonical",
-   "location": "LATAM, Canada, USA",
-   "detail": "Any",
-   "url": "https://jobicy.com/jobs/164020-software-engineer-python-linux-packaging",
-   "new_this_run": true
-  },
-  {
-   "title": "Software Engineer - Python - Cloud - graduate level",
-   "org": "Canonical",
-   "location": "LATAM, Canada, USA",
-   "detail": "Any",
-   "url": "https://jobicy.com/jobs/164019-software-engineer-python-cloud-graduate-level",
-   "new_this_run": true
-  },
-  {
-   "title": "MuleSoft Development Engineer",
-   "org": "Veeam Software",
-   "location": "Czechia",
+   "title": "Scout Junior Quality Coordinator - Portuguese (Brazil)",
+   "org": "Welo Global",
+   "location": "Brazil",
    "detail": "Entry-Level, Junior",
-   "url": "https://jobicy.com/jobs/164017-mulesoft-development-engineer",
+   "url": "https://jobicy.com/jobs/151333-scout-junior-quality-coordinator-portuguese-brazil",
    "new_this_run": true
   },
   {
-   "title": "Senior Technical Support Engineer, EMEA",
-   "org": "Horizon3.ai",
+   "title": "Revenue Operations Manager",
+   "org": "PolicyMe",
+   "location": "Canada",
+   "detail": "Senior",
+   "url": "https://jobicy.com/jobs/156828-revenue-operations-manager",
+   "new_this_run": true
+  },
+  {
+   "title": "Director, Financial & Corporate Communications",
+   "org": "Motive",
+   "location": "USA",
+   "detail": "Director",
+   "url": "https://jobicy.com/jobs/156864-director-financial-corporate-communications",
+   "new_this_run": true
+  },
+  {
+   "title": "Senior Software Engineer (Fundraising) \u2014 Remote",
+   "org": "GiveDirectly",
+   "location": "Canada, UK, USA",
+   "detail": "Senior",
+   "url": "https://jobicy.com/jobs/156858-senior-software-engineer-fundraising-remote",
+   "new_this_run": true
+  },
+  {
+   "title": "Senior Engineering Manager",
+   "org": "Monzo",
    "location": "UK",
    "detail": "Senior",
-   "url": "https://jobicy.com/jobs/164016-senior-technical-support-engineer-emea",
+   "url": "https://jobicy.com/jobs/156848-senior-engineering-manager-2",
    "new_this_run": true
   },
   {
-   "title": "Solutions Architect, Onchain Compliance - EMEA",
-   "org": "TRM Labs",
-   "location": "EMEA",
-   "detail": "Senior",
-   "url": "https://jobicy.com/jobs/164015-solutions-architect-onchain-compliance-emea",
-   "new_this_run": true
-  },
-  {
-   "title": "Senior Account Executive - ANZ",
-   "org": "Dropbox",
-   "location": "Australia, New Zealand",
+   "title": "New Business Account Executive",
+   "org": "Twilio",
+   "location": "Japan",
    "detail": "Director",
-   "url": "https://jobicy.com/jobs/164013-senior-account-executive-anz",
+   "url": "https://jobicy.com/jobs/156841-new-business-account-executive",
    "new_this_run": true
   },
   {
-   "title": "Technical Fashion Designer",
-   "org": "Fresh Prints",
-   "location": "Philippines",
-   "detail": "Senior",
-   "url": "https://jobicy.com/jobs/164012-technical-fashion-designer",
+   "title": "Technical Sales Engineer/ Lead",
+   "org": "Mattermost",
+   "location": "Japan",
+   "detail": "Director",
+   "url": "https://jobicy.com/jobs/156838-technical-sales-engineer-lead",
+   "new_this_run": true
+  },
+  {
+   "title": "Director, Supplier Relations APAC",
+   "org": "Twilio",
+   "location": "Australia, Japan",
+   "detail": "Director",
+   "url": "https://jobicy.com/jobs/156837-director-supplier-relations-apac",
+   "new_this_run": true
+  },
+  {
+   "title": "AI Agent Engineer",
+   "org": "Binance",
+   "location": "Hong Kong, Singapore",
+   "detail": "Any",
+   "url": "https://jobicy.com/jobs/156835-ai-agent-engineer",
+   "new_this_run": true
+  },
+  {
+   "title": "Enterprise Account Executive",
+   "org": "Axiom",
+   "location": "USA",
+   "detail": "Director",
+   "url": "https://jobicy.com/jobs/156826-enterprise-account-executive-25",
+   "new_this_run": true
+  },
+  {
+   "title": "Director, Workforce Management",
+   "org": "Clover Health",
+   "location": "USA",
+   "detail": "Director",
+   "url": "https://jobicy.com/jobs/156805-director-workforce-management",
+   "new_this_run": true
+  },
+  {
+   "title": "Director, Travel Services",
+   "org": "TripActions",
+   "location": "USA",
+   "detail": "Director",
+   "url": "https://jobicy.com/jobs/156859-director-travel-services",
    "new_this_run": true
   }
  ],
@@ -263,6 +263,11 @@
   },
   {
    "at": "2026-11-24T00:50:42+00:00",
+   "jobs": 50,
+   "new": 50
+  },
+  {
+   "at": "2026-11-24T10:55:00+00:00",
    "jobs": 50,
    "new": 50
   }
@@ -6882,6 +6887,356 @@
    "title": "Territory Manager (Pennsylvania)",
    "org": "Halter",
    "location": "USA"
+  },
+  "scout junior quality coordinator - portuguese (brazil)|welo global|brazil": {
+   "first_seen": "2026-11-24T10:55:00+00:00",
+   "last_seen": "2026-11-24T10:55:00+00:00",
+   "title": "Scout Junior Quality Coordinator - Portuguese (Brazil)",
+   "org": "Welo Global",
+   "location": "Brazil"
+  },
+  "revenue operations manager|policyme|canada": {
+   "first_seen": "2026-11-24T10:55:00+00:00",
+   "last_seen": "2026-11-24T10:55:00+00:00",
+   "title": "Revenue Operations Manager",
+   "org": "PolicyMe",
+   "location": "Canada"
+  },
+  "director, financial & corporate communications|motive|usa": {
+   "first_seen": "2026-11-24T10:55:00+00:00",
+   "last_seen": "2026-11-24T10:55:00+00:00",
+   "title": "Director, Financial & Corporate Communications",
+   "org": "Motive",
+   "location": "USA"
+  },
+  "senior software engineer (fundraising) \u2014 remote|givedirectly|canada, uk, usa": {
+   "first_seen": "2026-11-24T10:55:00+00:00",
+   "last_seen": "2026-11-24T10:55:00+00:00",
+   "title": "Senior Software Engineer (Fundraising) \u2014 Remote",
+   "org": "GiveDirectly",
+   "location": "Canada, UK, USA"
+  },
+  "senior engineering manager|monzo|uk": {
+   "first_seen": "2026-11-24T10:55:00+00:00",
+   "last_seen": "2026-11-24T10:55:00+00:00",
+   "title": "Senior Engineering Manager",
+   "org": "Monzo",
+   "location": "UK"
+  },
+  "new business account executive|twilio|japan": {
+   "first_seen": "2026-11-24T10:55:00+00:00",
+   "last_seen": "2026-11-24T10:55:00+00:00",
+   "title": "New Business Account Executive",
+   "org": "Twilio",
+   "location": "Japan"
+  },
+  "technical sales engineer/ lead|mattermost|japan": {
+   "first_seen": "2026-11-24T10:55:00+00:00",
+   "last_seen": "2026-11-24T10:55:00+00:00",
+   "title": "Technical Sales Engineer/ Lead",
+   "org": "Mattermost",
+   "location": "Japan"
+  },
+  "director, supplier relations apac|twilio|australia, japan": {
+   "first_seen": "2026-11-24T10:55:00+00:00",
+   "last_seen": "2026-11-24T10:55:00+00:00",
+   "title": "Director, Supplier Relations APAC",
+   "org": "Twilio",
+   "location": "Australia, Japan"
+  },
+  "ai agent engineer|binance|hong kong, singapore": {
+   "first_seen": "2026-11-24T10:55:00+00:00",
+   "last_seen": "2026-11-24T10:55:00+00:00",
+   "title": "AI Agent Engineer",
+   "org": "Binance",
+   "location": "Hong Kong, Singapore"
+  },
+  "enterprise account executive|axiom|usa": {
+   "first_seen": "2026-11-24T10:55:00+00:00",
+   "last_seen": "2026-11-24T10:55:00+00:00",
+   "title": "Enterprise Account Executive",
+   "org": "Axiom",
+   "location": "USA"
+  },
+  "director, workforce management|clover health|usa": {
+   "first_seen": "2026-11-24T10:55:00+00:00",
+   "last_seen": "2026-11-24T10:55:00+00:00",
+   "title": "Director, Workforce Management",
+   "org": "Clover Health",
+   "location": "USA"
+  },
+  "director, travel services|tripactions|usa": {
+   "first_seen": "2026-11-24T10:55:00+00:00",
+   "last_seen": "2026-11-24T10:55:00+00:00",
+   "title": "Director, Travel Services",
+   "org": "TripActions",
+   "location": "USA"
+  },
+  "financial analyst|certik|usa": {
+   "first_seen": "2026-11-24T10:55:00+00:00",
+   "last_seen": "2026-11-24T10:55:00+00:00",
+   "title": "Financial Analyst",
+   "org": "CertiK",
+   "location": "USA"
+  },
+  "software engineer|policyme|canada": {
+   "first_seen": "2026-11-24T10:55:00+00:00",
+   "last_seen": "2026-11-24T10:55:00+00:00",
+   "title": "Software Engineer",
+   "org": "PolicyMe",
+   "location": "Canada"
+  },
+  "design engineer - canada|ashby|canada": {
+   "first_seen": "2026-11-24T10:55:00+00:00",
+   "last_seen": "2026-11-24T10:55:00+00:00",
+   "title": "Design Engineer - Canada",
+   "org": "Ashby",
+   "location": "Canada"
+  },
+  "design engineer - americas|ashby|usa": {
+   "first_seen": "2026-11-24T10:55:00+00:00",
+   "last_seen": "2026-11-24T10:55:00+00:00",
+   "title": "Design Engineer - Americas",
+   "org": "Ashby",
+   "location": "USA"
+  },
+  "bilingual (spanish) mid-market account manager, latam|maintainx|usa": {
+   "first_seen": "2026-11-24T10:55:00+00:00",
+   "last_seen": "2026-11-24T10:55:00+00:00",
+   "title": "Bilingual (Spanish) Mid-Market Account Manager, LATAM",
+   "org": "MaintainX",
+   "location": "USA"
+  },
+  "product marketing manager|maintainx|usa": {
+   "first_seen": "2026-11-24T10:55:00+00:00",
+   "last_seen": "2026-11-24T10:55:00+00:00",
+   "title": "Product Marketing Manager",
+   "org": "MaintainX",
+   "location": "USA"
+  },
+  "senior corporate counsel \u2013 legal transactions|five9|usa": {
+   "first_seen": "2026-11-24T10:55:00+00:00",
+   "last_seen": "2026-11-24T10:55:00+00:00",
+   "title": "Senior Corporate Counsel \u2013 Legal Transactions",
+   "org": "Five9",
+   "location": "USA"
+  },
+  "principal presales engineer, product specialist|twilio|brazil": {
+   "first_seen": "2026-11-24T10:55:00+00:00",
+   "last_seen": "2026-11-24T10:55:00+00:00",
+   "title": "Principal Presales Engineer, Product Specialist",
+   "org": "Twilio",
+   "location": "Brazil"
+  },
+  "senior product manager - genai|envato|australia, new zealand": {
+   "first_seen": "2026-11-24T10:55:00+00:00",
+   "last_seen": "2026-11-24T10:55:00+00:00",
+   "title": "Senior Product Manager - GenAI",
+   "org": "Envato",
+   "location": "Australia, New Zealand"
+  },
+  "general manager canada|bird|canada": {
+   "first_seen": "2026-11-24T10:55:00+00:00",
+   "last_seen": "2026-11-24T10:55:00+00:00",
+   "title": "General Manager Canada",
+   "org": "Bird",
+   "location": "Canada"
+  },
+  "senior developer marketing manager, social & content|1password|canada, usa": {
+   "first_seen": "2026-11-24T10:55:00+00:00",
+   "last_seen": "2026-11-24T10:55:00+00:00",
+   "title": "Senior Developer Marketing Manager, Social & Content",
+   "org": "1Password",
+   "location": "Canada, USA"
+  },
+  "billing operations analyst 1|twilio|mexico": {
+   "first_seen": "2026-11-24T10:55:00+00:00",
+   "last_seen": "2026-11-24T10:55:00+00:00",
+   "title": "Billing Operations Analyst 1",
+   "org": "Twilio",
+   "location": "Mexico"
+  },
+  "operations & strategy manager (mexico)|dandy|mexico": {
+   "first_seen": "2026-11-24T10:55:00+00:00",
+   "last_seen": "2026-11-24T10:55:00+00:00",
+   "title": "Operations & Strategy Manager (Mexico)",
+   "org": "Dandy",
+   "location": "Mexico"
+  },
+  "director, sales (nordics & eastern europe)|ping identity|netherlands, norway": {
+   "first_seen": "2026-11-24T10:55:00+00:00",
+   "last_seen": "2026-11-24T10:55:00+00:00",
+   "title": "Director, Sales (Nordics & Eastern Europe)",
+   "org": "Ping Identity",
+   "location": "Netherlands, Norway"
+  },
+  "presales engineer|twilio|ireland, uk": {
+   "first_seen": "2026-11-24T10:55:00+00:00",
+   "last_seen": "2026-11-24T10:55:00+00:00",
+   "title": "Presales Engineer",
+   "org": "Twilio",
+   "location": "Ireland, UK"
+  },
+  "payroll tax and compliance analyst|twilio|ireland": {
+   "first_seen": "2026-11-24T10:55:00+00:00",
+   "last_seen": "2026-11-24T10:55:00+00:00",
+   "title": "Payroll Tax and Compliance Analyst",
+   "org": "Twilio",
+   "location": "Ireland"
+  },
+  "sales engineer - france|zscaler|france": {
+   "first_seen": "2026-11-24T10:55:00+00:00",
+   "last_seen": "2026-11-24T10:55:00+00:00",
+   "title": "Sales Engineer - France",
+   "org": "Zscaler",
+   "location": "France"
+  },
+  "regional director, data security - emea & apj|zscaler|netherlands, uk": {
+   "first_seen": "2026-11-24T10:55:00+00:00",
+   "last_seen": "2026-11-24T10:55:00+00:00",
+   "title": "Regional Director, Data Security - EMEA & APJ",
+   "org": "Zscaler",
+   "location": "Netherlands, UK"
+  },
+  "principal software engineer, siem (ruby/rails)|huntress|usa": {
+   "first_seen": "2026-11-24T10:55:00+00:00",
+   "last_seen": "2026-11-24T10:55:00+00:00",
+   "title": "Principal Software Engineer, SIEM (Ruby/Rails)",
+   "org": "Huntress",
+   "location": "USA"
+  },
+  "principal software engineer - agentic soc|huntress|usa": {
+   "first_seen": "2026-11-24T10:55:00+00:00",
+   "last_seen": "2026-11-24T10:55:00+00:00",
+   "title": "Principal Software Engineer - Agentic SOC",
+   "org": "Huntress",
+   "location": "USA"
+  },
+  "manager, legal lateral recruiting|livinghr|usa": {
+   "first_seen": "2026-11-24T10:55:00+00:00",
+   "last_seen": "2026-11-24T10:55:00+00:00",
+   "title": "Manager, Legal Lateral Recruiting",
+   "org": "livingHR",
+   "location": "USA"
+  },
+  "hr & payroll consultant|livinghr|usa": {
+   "first_seen": "2026-11-24T10:55:00+00:00",
+   "last_seen": "2026-11-24T10:55:00+00:00",
+   "title": "HR & Payroll Consultant",
+   "org": "livingHR",
+   "location": "USA"
+  },
+  "manager, client experience (hr technology, hris/hcm)|livinghr|usa": {
+   "first_seen": "2026-11-24T10:55:00+00:00",
+   "last_seen": "2026-11-24T10:55:00+00:00",
+   "title": "Manager, Client Experience (HR Technology, HRIS/HCM)",
+   "org": "livingHR",
+   "location": "USA"
+  },
+  "licensing operations manager (pooling only)|fresh prints|philippines": {
+   "first_seen": "2026-11-24T10:55:00+00:00",
+   "last_seen": "2026-11-24T10:55:00+00:00",
+   "title": "Licensing Operations Manager (Pooling Only)",
+   "org": "Fresh Prints",
+   "location": "Philippines"
+  },
+  "principal ai security specialist, uk&i|zscaler|ireland, uk": {
+   "first_seen": "2026-11-24T10:55:00+00:00",
+   "last_seen": "2026-11-24T10:55:00+00:00",
+   "title": "Principal AI Security Specialist, UK&I",
+   "org": "Zscaler",
+   "location": "Ireland, UK"
+  },
+  "principal ai security specialist, benelux & nordics|zscaler|belgium, netherlands": {
+   "first_seen": "2026-11-24T10:55:00+00:00",
+   "last_seen": "2026-11-24T10:55:00+00:00",
+   "title": "Principal AI Security Specialist, BeNeLux & Nordics",
+   "org": "Zscaler",
+   "location": "Belgium, Netherlands"
+  },
+  "senior sales engineer|veeam software|germany": {
+   "first_seen": "2026-11-24T10:55:00+00:00",
+   "last_seen": "2026-11-24T10:55:00+00:00",
+   "title": "Senior Sales Engineer",
+   "org": "Veeam Software",
+   "location": "Germany"
+  },
+  "senior account executive|emburse|italy": {
+   "first_seen": "2026-11-24T10:55:00+00:00",
+   "last_seen": "2026-11-24T10:55:00+00:00",
+   "title": "Senior Account Executive",
+   "org": "Emburse",
+   "location": "Italy"
+  },
+  "threat researcher|socket|usa": {
+   "first_seen": "2026-11-24T10:55:00+00:00",
+   "last_seen": "2026-11-24T10:55:00+00:00",
+   "title": "Threat Researcher",
+   "org": "Socket",
+   "location": "USA"
+  },
+  "staff data engineer - us remote|perfectserve|usa": {
+   "first_seen": "2026-11-24T10:55:00+00:00",
+   "last_seen": "2026-11-24T10:55:00+00:00",
+   "title": "Staff Data Engineer - US Remote",
+   "org": "PerfectServe",
+   "location": "USA"
+  },
+  "jr. hr associate (talent acquisition)|fresh prints|philippines": {
+   "first_seen": "2026-11-24T10:55:00+00:00",
+   "last_seen": "2026-11-24T10:55:00+00:00",
+   "title": "Jr. HR Associate (Talent Acquisition)",
+   "org": "Fresh Prints",
+   "location": "Philippines"
+  },
+  "customer success advisor - us remote|perfectserve|usa": {
+   "first_seen": "2026-11-24T10:55:00+00:00",
+   "last_seen": "2026-11-24T10:55:00+00:00",
+   "title": "Customer Success Advisor - US Remote",
+   "org": "PerfectServe",
+   "location": "USA"
+  },
+  "enterprise account executive - south korea|gitlab|south korea": {
+   "first_seen": "2026-11-24T10:55:00+00:00",
+   "last_seen": "2026-11-24T10:55:00+00:00",
+   "title": "Enterprise Account Executive - South Korea",
+   "org": "GitLab",
+   "location": "South Korea"
+  },
+  "national business development manager - fire & life safety products (sydney or melbourne)|ajax systems|australia": {
+   "first_seen": "2026-11-24T10:55:00+00:00",
+   "last_seen": "2026-11-24T10:55:00+00:00",
+   "title": "National Business Development Manager - Fire & Life Safety products (Sydney or Melbourne)",
+   "org": "Ajax Systems",
+   "location": "Australia"
+  },
+  "contract talent acquisition sourcer, sales (apj)|gitlab|australia, singapore": {
+   "first_seen": "2026-11-24T10:55:00+00:00",
+   "last_seen": "2026-11-24T10:55:00+00:00",
+   "title": "Contract Talent Acquisition Sourcer, Sales (APJ)",
+   "org": "GitLab",
+   "location": "Australia, Singapore"
+  },
+  "senior product manager, ad monetization|revenuecat|apac, emea, latam, canada, usa": {
+   "first_seen": "2026-11-24T10:55:00+00:00",
+   "last_seen": "2026-11-24T10:55:00+00:00",
+   "title": "Senior Product Manager, Ad Monetization",
+   "org": "RevenueCat",
+   "location": "APAC, EMEA, LATAM, Canada, USA"
+  },
+  "business development representative, singapore|chainguard|singapore": {
+   "first_seen": "2026-11-24T10:55:00+00:00",
+   "last_seen": "2026-11-24T10:55:00+00:00",
+   "title": "Business Development Representative, Singapore",
+   "org": "Chainguard",
+   "location": "Singapore"
+  },
+  "account manager|kinsta|philippines": {
+   "first_seen": "2026-11-24T10:55:00+00:00",
+   "last_seen": "2026-11-24T10:55:00+00:00",
+   "title": "Account Manager",
+   "org": "Kinsta",
+   "location": "Philippines"
   }
  }
 }
