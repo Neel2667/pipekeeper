@@ -3,106 +3,66 @@
  "name": "Federal contracts \u2014 awards >$1M (last 3 days)",
  "category": "funding",
  "source": "https://www.usaspending.gov",
- "collected_at": "2026-11-23T12:38:22+00:00",
- "jobs_on_board": 100,
- "new_this_run": 0,
- "total_tracked": 615,
+ "collected_at": "2026-11-24T00:50:45+00:00",
+ "jobs_on_board": 7,
+ "new_this_run": 6,
+ "total_tracked": 621,
  "jobs": [
   {
-   "title": "IGF::CT::IGF THIS \"TASK ORDER\" HAS BEEN CREATED IN THE CONTRACT MANAGEMENT MODULE (CMM) SYSTEM FOR FUNDING PURPOSES ONLY AND IS NOT AN ACTUAL TASK ORDER WITH A STATEMENT OF WORK AND OTHER TASK ORDER REQUIREMENTS. THIS \"TASK ORDER\" HAS BEEN ",
-   "org": "AMENTUM TECHNOLOGY, INC.",
+   "title": "PROTECTIVE SECURITY OFFICER SERVICE THROUGHOUT DALLAS, TX (BUILDING SPECIFIC) - SECTION 2(D)",
+   "org": "PARAGON SYSTEMS INC",
    "location": null,
-   "detail": "$124,355,230 \u00b7 National Aeronautics and Space Administration \u00b7 start 2017-01-26",
-   "url": "https://www.usaspending.gov/award/CONT_AWD_NNL17AA43T_8000_NNL13AA14C_8000",
+   "detail": "$7,625,707 \u00b7 Department of Homeland Security \u00b7 start 2025-01-01",
+   "url": "https://www.usaspending.gov/award/CONT_AWD_70RFP425FRE700008_7001_70RFP420DE7000004_7001",
+   "new_this_run": true
+  },
+  {
+   "title": "THE PURPOSE OF THIS ORDER IS TO PROVIDE 18,000 HOUSING INSPECTION SERVICES IN SUPPORT OF THE PRESIDENTIAL INDIVIDUAL ASSISTANCE DECLARATION FOR DISASTER 4955 FLORIDA.",
+   "org": "WSP USA SERVICES INC.",
+   "location": null,
+   "detail": "$6,870,450 \u00b7 Department of Homeland Security \u00b7 start 2026-10-31",
+   "url": "https://www.usaspending.gov/award/CONT_AWD_70FBR427F00000003_7022_70FB8025D00000014_7022",
    "new_this_run": false
   },
   {
-   "title": "IGF::OT::IGF ENERGY SAVINGS PERFORMANCE CONTRACT (ESPC) TASK ORDER NASA JSC COMBINED HEAT AND POWER (CHP) PROJECT",
-   "org": "ENERGY SYSTEMS GROUP, LLC",
+   "title": "7A21 - SOFTWARE: ADOBE LICENSE RENEWALS",
+   "org": "REDHAWK IT SOLUTIONS, LLC",
    "location": null,
-   "detail": "$46,090,804 \u00b7 National Aeronautics and Space Administration \u00b7 start 2015-08-05",
-   "url": "https://www.usaspending.gov/award/CONT_AWD_NNJ15JM10T_8000_DEAM3609GO29030_8900",
-   "new_this_run": false
+   "detail": "$2,620,471 \u00b7 Environmental Protection Agency \u00b7 start 2026-11-27",
+   "url": "https://www.usaspending.gov/award/CONT_AWD_68HERF27F0032_6800_NNG15SD38B_8000",
+   "new_this_run": true
   },
   {
-   "title": "INTERNATIONAL SPACE STATION",
-   "org": "THE BOEING COMPANY",
+   "title": "SPECIAL MODE TRANSPORTATION SERVICES",
+   "org": "JOURNEY VIA GURNEY, LLC",
    "location": null,
-   "detail": "$22,674,757,233 \u00b7 National Aeronautics and Space Administration \u00b7 start 1993-11-15",
-   "url": "https://www.usaspending.gov/award/CONT_AWD_NAS1510000_8000_-NONE-_-NONE-",
-   "new_this_run": false
+   "detail": "$3,878,927 \u00b7 Department of Veterans Affairs \u00b7 start 2025-06-01",
+   "url": "https://www.usaspending.gov/award/CONT_AWD_36C26125N0529_3600_36C26121D0070_3600",
+   "new_this_run": true
   },
   {
-   "title": "LAYOUT/COMPOSITION SOFTWARE, CUSTOMIZATION, TRAINING, MAINTENANCE AND TECHNICAL SUPPORT \"OTHER FUNCTION\" - IGF::OT::IGF",
-   "org": "TYPEFI SYSTEMS, INC",
+   "title": "PARKING LOT SECURITY",
+   "org": "SERVEXO, INC.",
    "location": null,
-   "detail": "$1,646,879 \u00b7 Department of the Interior \u00b7 start 2017-01-01",
-   "url": "https://www.usaspending.gov/award/CONT_AWD_ING17PX00888_1434_-NONE-_-NONE-",
-   "new_this_run": false
+   "detail": "$1,654,331 \u00b7 Department of Veterans Affairs \u00b7 start 2025-04-01",
+   "url": "https://www.usaspending.gov/award/CONT_AWD_36C26125F0230_3600_GS07F168GA_4732",
+   "new_this_run": true
   },
   {
-   "title": "IGF::CT::IGF FINANCIAL OPERATIONS ADMINISTRATIVE SUPPORT SERVICES.",
-   "org": "DEXTERA CORP",
+   "title": "WASTE MANAGEMENT AND RECYCLING SERVICES",
+   "org": "SUNSET SCAVENGER CO",
    "location": null,
-   "detail": "$2,194,914 \u00b7 Department of Homeland Security \u00b7 start 2016-09-26",
-   "url": "https://www.usaspending.gov/award/CONT_AWD_HSBP1016J00945_7014_HSBP1016D00006_7014",
-   "new_this_run": false
+   "detail": "$5,350,568 \u00b7 Department of Veterans Affairs \u00b7 start 2022-04-01",
+   "url": "https://www.usaspending.gov/award/CONT_AWD_36C26122P0602_3600_-NONE-_-NONE-",
+   "new_this_run": true
   },
   {
-   "title": "IGF::OT::IGF PROFESSIONAL SERVICES",
-   "org": "AMENTUM TECHNICAL SERVICES LLC",
+   "title": "HOFR- REHABILITATE ROSE GARDEN INFRASTRU",
+   "org": "IRON SWORD ENTERPRISES, LLC",
    "location": null,
-   "detail": "$1,764,084 \u00b7 Department of Health and Human Services \u00b7 start 2014-05-21",
-   "url": "https://www.usaspending.gov/award/CONT_AWD_HHSD2002014F58925_7523_GS23F0146R_4730",
-   "new_this_run": false
-  },
-  {
-   "title": "IMPLEMENTATION OF A UTILITY ENGERY SERVICES CONTRACT (UESC) TRACON FACILITY SAN DEIGO, CA. IGF::OT::IGF",
-   "org": "SAN DIEGO GAS & ELECTRIC COMPANY",
-   "location": null,
-   "detail": "$7,160,597 \u00b7 Department of Transportation \u00b7 start 2014-08-06",
-   "url": "https://www.usaspending.gov/award/CONT_AWD_DTFACN14F00013_6920_GS00P10BSD0801_4740",
-   "new_this_run": false
-  },
-  {
-   "title": "IGF::OT::IGF ENERGY SAVINGS PERFORMANCE CONTRACT (ESPC) FOR THE MINE ACADEMY IN BEAVER, WEST VIRGINIA",
-   "org": "RWE CLEAN ENERGY SOLUTIONS, INC.",
-   "location": null,
-   "detail": "$6,190,934 \u00b7 Department of Labor \u00b7 start 2016-12-20",
-   "url": "https://www.usaspending.gov/award/CONT_AWD_DOLMSH17F00009_1605_DEAM3609GO29032_8900",
-   "new_this_run": false
-  },
-  {
-   "title": "DCSC-24-SAS-293 COURTVIEW2/INTEGRATED JUSTICE INFORMATION SYSTEM. OPTION YEAR ONE (1) RENEWAL WITH POP 1/1/26 TO 12/31/26. TCV $1,318,847. PO 95C67826P0071 PARTIALLY FUNDING $110,000.00.",
-   "org": "COURTVIEW JUSTICE SOLUTIONS, INC.",
-   "location": null,
-   "detail": "$1,351,816 \u00b7 District of Columbia Courts \u00b7 start 2026-01-01",
-   "url": "https://www.usaspending.gov/award/CONT_AWD_95C67826P0071_9534_-NONE-_-NONE-",
-   "new_this_run": false
-  },
-  {
-   "title": "MIGRANT STUDENT INFORMATION EXCHANGE (MSIX) DEVELOPMENT, MONITORING, AND MAINTENANCE CONTRACT IS TO PERFORM OPERATIONS, DEVELOPMENT, AND MAINTENANCE EFFORTS TO SUPPORT THE MSIX OF TITLE I, PART C, MIGRANT EDUCATION PROGRAMS (MEP).",
-   "org": "DELOITTE CONSULTING LLP",
-   "location": null,
-   "detail": "$25,324,794 \u00b7 Department of Education \u00b7 start 2022-12-15",
-   "url": "https://www.usaspending.gov/award/CONT_AWD_91990023C0007_9100_-NONE-_-NONE-",
-   "new_this_run": false
-  },
-  {
-   "title": "OPERATIONS AND MAINTENANCE (O&M) TASK ORDER FOR STUDENT LOAN SERVICING IN ACCORDANCE WITH THE REQUIREMENTS OF THE USDS CONTRACT. ALL WORK AND DELIVERABLES PROVIDED BY THE USDS SERVICER MUST BE IN ACCORDANCE WITH THE REQUIREMENTS OF THE CONT",
-   "org": "MISSOURI HIGHER EDUCATION LOAN AUTHORITY",
-   "location": null,
-   "detail": "$216,022,864 \u00b7 Department of Education \u00b7 start 2026-04-01",
-   "url": "https://www.usaspending.gov/award/CONT_AWD_91003126F0021_9100_91003123D0004_9100",
-   "new_this_run": false
-  },
-  {
-   "title": "OPERATIONS AND MAINTENANCE (O&M) TASK ORDER FOR STUDENT LOAN SERVICING IN ACCORDANCE WITH THE REQUIREMENTS OF THE USDS CONTRACT. ALL WORK AND DELIVERABLES PROVIDED BY THE USDS SERVICER MUST BE IN ACCORDANCE WITH THE REQUIREMENTS OF THE CONT",
-   "org": "EDFINANCIAL SERVICES LLC",
-   "location": null,
-   "detail": "$194,351,203 \u00b7 Department of Education \u00b7 start 2026-04-01",
-   "url": "https://www.usaspending.gov/award/CONT_AWD_91003126F0020_9100_91003123D0003_9100",
-   "new_this_run": false
+   "detail": "$1,281,400 \u00b7 Department of the Interior \u00b7 start 2025-09-26",
+   "url": "https://www.usaspending.gov/award/CONT_AWD_140P4525C0026_1443_-NONE-_-NONE-",
+   "new_this_run": true
   }
  ],
  "runs": [
@@ -240,6 +200,11 @@
    "at": "2026-11-23T12:38:22+00:00",
    "jobs": 100,
    "new": 0
+  },
+  {
+   "at": "2026-11-24T00:50:45+00:00",
+   "jobs": 7,
+   "new": 6
   }
  ],
  "jobs_seen": {
@@ -1337,7 +1302,7 @@
   },
   "the purpose of this order is to provide 18,000 housing inspection services in support of the presidential individual ass|wsp usa services inc.|": {
    "first_seen": "2026-11-16T02:06:51+00:00",
-   "last_seen": "2026-11-16T20:29:27+00:00",
+   "last_seen": "2026-11-24T00:50:45+00:00",
    "title": "THE PURPOSE OF THIS ORDER IS TO PROVIDE 18,000 HOUSING INSPECTION SERVICES IN SUPPORT OF THE PRESIDENTIAL INDIVIDUAL ASSISTANCE DECLARATION FOR DISASTER 4955 FLORIDA.",
    "org": "WSP USA SERVICES INC.",
    "location": null
@@ -4546,6 +4511,48 @@
    "last_seen": "2026-11-23T12:38:22+00:00",
    "title": "SECURITY PROGRAM SUPPORT SERVICES OFFICE OF SECURITY POLICY AND MANAGEMENT- SPM",
    "org": "SANCORP CONSULTING, LLC",
+   "location": null
+  },
+  "protective security officer service throughout dallas, tx (building specific) - section 2(d)|paragon systems inc|": {
+   "first_seen": "2026-11-24T00:50:45+00:00",
+   "last_seen": "2026-11-24T00:50:45+00:00",
+   "title": "PROTECTIVE SECURITY OFFICER SERVICE THROUGHOUT DALLAS, TX (BUILDING SPECIFIC) - SECTION 2(D)",
+   "org": "PARAGON SYSTEMS INC",
+   "location": null
+  },
+  "7a21 - software: adobe license renewals|redhawk it solutions, llc|": {
+   "first_seen": "2026-11-24T00:50:45+00:00",
+   "last_seen": "2026-11-24T00:50:45+00:00",
+   "title": "7A21 - SOFTWARE: ADOBE LICENSE RENEWALS",
+   "org": "REDHAWK IT SOLUTIONS, LLC",
+   "location": null
+  },
+  "special mode transportation services|journey via gurney, llc|": {
+   "first_seen": "2026-11-24T00:50:45+00:00",
+   "last_seen": "2026-11-24T00:50:45+00:00",
+   "title": "SPECIAL MODE TRANSPORTATION SERVICES",
+   "org": "JOURNEY VIA GURNEY, LLC",
+   "location": null
+  },
+  "parking lot security|servexo, inc.|": {
+   "first_seen": "2026-11-24T00:50:45+00:00",
+   "last_seen": "2026-11-24T00:50:45+00:00",
+   "title": "PARKING LOT SECURITY",
+   "org": "SERVEXO, INC.",
+   "location": null
+  },
+  "waste management and recycling services|sunset scavenger co|": {
+   "first_seen": "2026-11-24T00:50:45+00:00",
+   "last_seen": "2026-11-24T00:50:45+00:00",
+   "title": "WASTE MANAGEMENT AND RECYCLING SERVICES",
+   "org": "SUNSET SCAVENGER CO",
+   "location": null
+  },
+  "hofr- rehabilitate rose garden infrastru|iron sword enterprises, llc|": {
+   "first_seen": "2026-11-24T00:50:45+00:00",
+   "last_seen": "2026-11-24T00:50:45+00:00",
+   "title": "HOFR- REHABILITATE ROSE GARDEN INFRASTRU",
+   "org": "IRON SWORD ENTERPRISES, LLC",
    "location": null
   }
  }

@@ -3,105 +3,105 @@
  "name": "Jobicy \u2014 remote jobs",
  "category": "jobs",
  "source": "https://jobicy.com/api/v2/remote-jobs",
- "collected_at": "2026-11-23T12:38:19+00:00",
+ "collected_at": "2026-11-24T00:50:42+00:00",
  "jobs_on_board": 50,
  "new_this_run": 50,
- "total_tracked": 895,
+ "total_tracked": 945,
  "jobs": [
   {
-   "title": "Product Sales Specialist, EMEA",
-   "org": "Cribl",
-   "location": "Germany, Netherlands, Spain, UK",
+   "title": "New Business Account Executive (Hebrew speaker)",
+   "org": "Twilio",
+   "location": "Ireland, Spain, UK",
    "detail": "Director",
-   "url": "https://jobicy.com/jobs/163903-product-sales-specialist-emea-2",
+   "url": "https://jobicy.com/jobs/164029-new-business-account-executive-hebrew-speaker",
    "new_this_run": true
   },
   {
-   "title": "Sales Development Representative | France | Remote",
-   "org": "Grafana Labs",
-   "location": "France",
+   "title": "New Business Account Executive (French speaker)",
+   "org": "Twilio",
+   "location": "Ireland, Spain, UK",
+   "detail": "Director",
+   "url": "https://jobicy.com/jobs/164027-new-business-account-executive-french-speaker",
+   "new_this_run": true
+  },
+  {
+   "title": "Senior Technical Product Manager",
+   "org": "Airalo",
+   "location": "Spain",
    "detail": "Senior",
-   "url": "https://jobicy.com/jobs/163902-sales-development-representative-france-remote",
+   "url": "https://jobicy.com/jobs/164025-senior-technical-product-manager-3",
    "new_this_run": true
   },
   {
-   "title": "HRIS Associate (Workday)",
-   "org": "Wellhub",
-   "location": "Portugal",
+   "title": "System Software Engineer - GCC/LLVM compiler, tooling, and ecosystem",
+   "org": "Canonical",
+   "location": "LATAM, Canada, USA",
+   "detail": "Senior",
+   "url": "https://jobicy.com/jobs/164022-system-software-engineer-gcc-llvm-compiler-tooling-and-ecosystem",
+   "new_this_run": true
+  },
+  {
+   "title": "Software Engineer - Ubuntu Server Certification",
+   "org": "Canonical",
+   "location": "LATAM, Canada, USA",
+   "detail": "Senior",
+   "url": "https://jobicy.com/jobs/164021-software-engineer-ubuntu-server-certification",
+   "new_this_run": true
+  },
+  {
+   "title": "Software Engineer (Python/Linux/Packaging)",
+   "org": "Canonical",
+   "location": "LATAM, Canada, USA",
    "detail": "Any",
-   "url": "https://jobicy.com/jobs/163901-hris-associate-workday",
+   "url": "https://jobicy.com/jobs/164020-software-engineer-python-linux-packaging",
    "new_this_run": true
   },
   {
-   "title": "International People Ops Analyst, Benefits",
-   "org": "Cribl",
-   "location": "UK",
-   "detail": "Director",
-   "url": "https://jobicy.com/jobs/163900-international-people-ops-analyst-benefits",
+   "title": "Software Engineer - Python - Cloud - graduate level",
+   "org": "Canonical",
+   "location": "LATAM, Canada, USA",
+   "detail": "Any",
+   "url": "https://jobicy.com/jobs/164019-software-engineer-python-cloud-graduate-level",
    "new_this_run": true
   },
   {
-   "title": "Data-driven Digital Consultant (mid to senior level) - UK",
-   "org": "Laminar Projects",
+   "title": "MuleSoft Development Engineer",
+   "org": "Veeam Software",
+   "location": "Czechia",
+   "detail": "Entry-Level, Junior",
+   "url": "https://jobicy.com/jobs/164017-mulesoft-development-engineer",
+   "new_this_run": true
+  },
+  {
+   "title": "Senior Technical Support Engineer, EMEA",
+   "org": "Horizon3.ai",
    "location": "UK",
    "detail": "Senior",
-   "url": "https://jobicy.com/jobs/163899-data-driven-digital-consultant-mid-to-senior-level-uk",
+   "url": "https://jobicy.com/jobs/164016-senior-technical-support-engineer-emea",
    "new_this_run": true
   },
   {
-   "title": "Major Account Executive | Remote | Netherlands",
-   "org": "Grafana Labs",
-   "location": "Netherlands",
-   "detail": "Director",
-   "url": "https://jobicy.com/jobs/163898-major-account-executive-remote-netherlands",
-   "new_this_run": true
-  },
-  {
-   "title": "Clinical Project Manager / Senior Clinical Project Manager",
-   "org": "Precision Medicine Group",
-   "location": "Serbia",
+   "title": "Solutions Architect, Onchain Compliance - EMEA",
+   "org": "TRM Labs",
+   "location": "EMEA",
    "detail": "Senior",
-   "url": "https://jobicy.com/jobs/163897-clinical-project-manager-senior-clinical-project-manager-2",
+   "url": "https://jobicy.com/jobs/164015-solutions-architect-onchain-compliance-emea",
    "new_this_run": true
   },
   {
-   "title": "Senior Infrastructure Software Engineer",
+   "title": "Senior Account Executive - ANZ",
    "org": "Dropbox",
-   "location": "Poland",
+   "location": "Australia, New Zealand",
    "detail": "Director",
-   "url": "https://jobicy.com/jobs/163896-senior-infrastructure-software-engineer-2",
+   "url": "https://jobicy.com/jobs/164013-senior-account-executive-anz",
    "new_this_run": true
   },
   {
-   "title": "Staff Engineer - Telematics",
-   "org": "Samsara",
-   "location": "UK",
+   "title": "Technical Fashion Designer",
+   "org": "Fresh Prints",
+   "location": "Philippines",
    "detail": "Senior",
-   "url": "https://jobicy.com/jobs/163895-staff-engineer-telematics-2",
-   "new_this_run": true
-  },
-  {
-   "title": "Sales Engineer - Germany",
-   "org": "Zscaler",
-   "location": "Germany",
-   "detail": "Any",
-   "url": "https://jobicy.com/jobs/163894-sales-engineer-germany",
-   "new_this_run": true
-  },
-  {
-   "title": "Solutions Engineer - Critical Infrastructure",
-   "org": "Echodyne",
-   "location": "USA",
-   "detail": "Senior",
-   "url": "https://jobicy.com/jobs/156681-solutions-engineer-critical-infrastructure",
-   "new_this_run": true
-  },
-  {
-   "title": "Senior Android Engineer",
-   "org": "Medium",
-   "location": "USA",
-   "detail": "Senior",
-   "url": "https://jobicy.com/jobs/156680-senior-android-engineer-4",
+   "url": "https://jobicy.com/jobs/164012-technical-fashion-designer",
    "new_this_run": true
   }
  ],
@@ -258,6 +258,11 @@
   },
   {
    "at": "2026-11-23T12:38:19+00:00",
+   "jobs": 50,
+   "new": 50
+  },
+  {
+   "at": "2026-11-24T00:50:42+00:00",
    "jobs": 50,
    "new": 50
   }
@@ -6526,6 +6531,356 @@
    "last_seen": "2026-11-23T12:38:19+00:00",
    "title": "Insights Associate - Retail",
    "org": "YipitData",
+   "location": "USA"
+  },
+  "new business account executive (hebrew speaker)|twilio|ireland, spain, uk": {
+   "first_seen": "2026-11-24T00:50:42+00:00",
+   "last_seen": "2026-11-24T00:50:42+00:00",
+   "title": "New Business Account Executive (Hebrew speaker)",
+   "org": "Twilio",
+   "location": "Ireland, Spain, UK"
+  },
+  "new business account executive (french speaker)|twilio|ireland, spain, uk": {
+   "first_seen": "2026-11-24T00:50:42+00:00",
+   "last_seen": "2026-11-24T00:50:42+00:00",
+   "title": "New Business Account Executive (French speaker)",
+   "org": "Twilio",
+   "location": "Ireland, Spain, UK"
+  },
+  "senior technical product manager|airalo|spain": {
+   "first_seen": "2026-11-24T00:50:42+00:00",
+   "last_seen": "2026-11-24T00:50:42+00:00",
+   "title": "Senior Technical Product Manager",
+   "org": "Airalo",
+   "location": "Spain"
+  },
+  "system software engineer - gcc/llvm compiler, tooling, and ecosystem|canonical|latam, canada, usa": {
+   "first_seen": "2026-11-24T00:50:42+00:00",
+   "last_seen": "2026-11-24T00:50:42+00:00",
+   "title": "System Software Engineer - GCC/LLVM compiler, tooling, and ecosystem",
+   "org": "Canonical",
+   "location": "LATAM, Canada, USA"
+  },
+  "software engineer - ubuntu server certification|canonical|latam, canada, usa": {
+   "first_seen": "2026-11-24T00:50:42+00:00",
+   "last_seen": "2026-11-24T00:50:42+00:00",
+   "title": "Software Engineer - Ubuntu Server Certification",
+   "org": "Canonical",
+   "location": "LATAM, Canada, USA"
+  },
+  "software engineer (python/linux/packaging)|canonical|latam, canada, usa": {
+   "first_seen": "2026-11-24T00:50:42+00:00",
+   "last_seen": "2026-11-24T00:50:42+00:00",
+   "title": "Software Engineer (Python/Linux/Packaging)",
+   "org": "Canonical",
+   "location": "LATAM, Canada, USA"
+  },
+  "software engineer - python - cloud - graduate level|canonical|latam, canada, usa": {
+   "first_seen": "2026-11-24T00:50:42+00:00",
+   "last_seen": "2026-11-24T00:50:42+00:00",
+   "title": "Software Engineer - Python - Cloud - graduate level",
+   "org": "Canonical",
+   "location": "LATAM, Canada, USA"
+  },
+  "mulesoft development engineer|veeam software|czechia": {
+   "first_seen": "2026-11-24T00:50:42+00:00",
+   "last_seen": "2026-11-24T00:50:42+00:00",
+   "title": "MuleSoft Development Engineer",
+   "org": "Veeam Software",
+   "location": "Czechia"
+  },
+  "senior technical support engineer, emea|horizon3.ai|uk": {
+   "first_seen": "2026-11-24T00:50:42+00:00",
+   "last_seen": "2026-11-24T00:50:42+00:00",
+   "title": "Senior Technical Support Engineer, EMEA",
+   "org": "Horizon3.ai",
+   "location": "UK"
+  },
+  "solutions architect, onchain compliance - emea|trm labs|emea": {
+   "first_seen": "2026-11-24T00:50:42+00:00",
+   "last_seen": "2026-11-24T00:50:42+00:00",
+   "title": "Solutions Architect, Onchain Compliance - EMEA",
+   "org": "TRM Labs",
+   "location": "EMEA"
+  },
+  "senior account executive - anz|dropbox|australia, new zealand": {
+   "first_seen": "2026-11-24T00:50:42+00:00",
+   "last_seen": "2026-11-24T00:50:42+00:00",
+   "title": "Senior Account Executive - ANZ",
+   "org": "Dropbox",
+   "location": "Australia, New Zealand"
+  },
+  "technical fashion designer|fresh prints|philippines": {
+   "first_seen": "2026-11-24T00:50:42+00:00",
+   "last_seen": "2026-11-24T00:50:42+00:00",
+   "title": "Technical Fashion Designer",
+   "org": "Fresh Prints",
+   "location": "Philippines"
+  },
+  "senior technical recruiter (global)|bjak|singapore": {
+   "first_seen": "2026-11-24T00:50:42+00:00",
+   "last_seen": "2026-11-24T00:50:42+00:00",
+   "title": "Senior Technical Recruiter (Global)",
+   "org": "BJAK",
+   "location": "Singapore"
+  },
+  "apj communications lead|dropbox|australia": {
+   "first_seen": "2026-11-24T00:50:42+00:00",
+   "last_seen": "2026-11-24T00:50:42+00:00",
+   "title": "APJ Communications Lead",
+   "org": "Dropbox",
+   "location": "Australia"
+  },
+  "senior customer ai engineer - token factory|nebius|singapore": {
+   "first_seen": "2026-11-24T00:50:42+00:00",
+   "last_seen": "2026-11-24T00:50:42+00:00",
+   "title": "Senior Customer AI Engineer - Token Factory",
+   "org": "Nebius",
+   "location": "Singapore"
+  },
+  "in-house cra ( australia)|alimentiv|australia": {
+   "first_seen": "2026-11-24T00:50:42+00:00",
+   "last_seen": "2026-11-24T00:50:42+00:00",
+   "title": "In-House CRA ( Australia)",
+   "org": "Alimentiv",
+   "location": "Australia"
+  },
+  "product development associate (fashion designer)|fresh prints|philippines": {
+   "first_seen": "2026-11-24T00:50:42+00:00",
+   "last_seen": "2026-11-24T00:50:42+00:00",
+   "title": "Product Development Associate (Fashion Designer)",
+   "org": "Fresh Prints",
+   "location": "Philippines"
+  },
+  "senior manager, revenue operations systems|karbon|philippines": {
+   "first_seen": "2026-11-24T00:50:42+00:00",
+   "last_seen": "2026-11-24T00:50:42+00:00",
+   "title": "Senior Manager, Revenue Operations Systems",
+   "org": "Karbon",
+   "location": "Philippines"
+  },
+  "vip relationship manager|consensys|apac": {
+   "first_seen": "2026-11-24T00:50:42+00:00",
+   "last_seen": "2026-11-24T00:50:42+00:00",
+   "title": "VIP Relationship Manager",
+   "org": "Consensys",
+   "location": "APAC"
+  },
+  "senior account executive, apac|paddle|singapore": {
+   "first_seen": "2026-11-24T00:50:42+00:00",
+   "last_seen": "2026-11-24T00:50:42+00:00",
+   "title": "Senior Account Executive, APAC",
+   "org": "Paddle",
+   "location": "Singapore"
+  },
+  "key partner executive|rithum|usa": {
+   "first_seen": "2026-11-24T00:50:42+00:00",
+   "last_seen": "2026-11-24T00:50:42+00:00",
+   "title": "Key Partner Executive",
+   "org": "Rithum",
+   "location": "USA"
+  },
+  "director, enhanced care management|vynca|usa": {
+   "first_seen": "2026-11-24T00:50:42+00:00",
+   "last_seen": "2026-11-24T00:50:42+00:00",
+   "title": "Director, Enhanced Care Management",
+   "org": "Vynca",
+   "location": "USA"
+  },
+  "welding sales manager|standard bots|usa": {
+   "first_seen": "2026-11-24T00:50:42+00:00",
+   "last_seen": "2026-11-24T00:50:42+00:00",
+   "title": "Welding Sales Manager",
+   "org": "Standard Bots",
+   "location": "USA"
+  },
+  "enterprise account executive (manufacturing)|assetwatch|usa": {
+   "first_seen": "2026-11-24T00:50:42+00:00",
+   "last_seen": "2026-11-24T00:50:42+00:00",
+   "title": "Enterprise Account Executive (Manufacturing)",
+   "org": "AssetWatch",
+   "location": "USA"
+  },
+  "performance marketer (remote - worldwide)|everai|anywhere": {
+   "first_seen": "2026-11-24T00:50:42+00:00",
+   "last_seen": "2026-11-24T00:50:42+00:00",
+   "title": "Performance Marketer (Remote - Worldwide)",
+   "org": "EverAI",
+   "location": "Anywhere"
+  },
+  "client strategy associate|rithum|usa": {
+   "first_seen": "2026-11-24T00:50:42+00:00",
+   "last_seen": "2026-11-24T00:50:42+00:00",
+   "title": "Client Strategy Associate",
+   "org": "Rithum",
+   "location": "USA"
+  },
+  "software engineer, ai transformation|goodleap|usa": {
+   "first_seen": "2026-11-24T00:50:42+00:00",
+   "last_seen": "2026-11-24T00:50:42+00:00",
+   "title": "Software Engineer, AI Transformation",
+   "org": "Goodleap",
+   "location": "USA"
+  },
+  "visual designer|r/ga|argentina": {
+   "first_seen": "2026-11-24T00:50:42+00:00",
+   "last_seen": "2026-11-24T00:50:42+00:00",
+   "title": "Visual Designer",
+   "org": "R/GA",
+   "location": "Argentina"
+  },
+  "staff ai research engineer|standard bots|usa": {
+   "first_seen": "2026-11-24T00:50:42+00:00",
+   "last_seen": "2026-11-24T00:50:42+00:00",
+   "title": "Staff AI Research Engineer",
+   "org": "Standard Bots",
+   "location": "USA"
+  },
+  "customer success manager|assetwatch|canada, usa": {
+   "first_seen": "2026-11-24T00:50:42+00:00",
+   "last_seen": "2026-11-24T00:50:42+00:00",
+   "title": "Customer Success Manager",
+   "org": "AssetWatch",
+   "location": "Canada, USA"
+  },
+  "reseller sales specialist - chicago, il|huntress|usa": {
+   "first_seen": "2026-11-24T00:50:42+00:00",
+   "last_seen": "2026-11-24T00:50:42+00:00",
+   "title": "Reseller Sales Specialist - Chicago, IL",
+   "org": "Huntress",
+   "location": "USA"
+  },
+  "senior security engineer, threat intelligence (cyber - threat hunting)|coreweave|usa": {
+   "first_seen": "2026-11-24T00:50:42+00:00",
+   "last_seen": "2026-11-24T00:50:42+00:00",
+   "title": "Senior Security Engineer, Threat Intelligence (Cyber - Threat Hunting)",
+   "org": "CoreWeave",
+   "location": "USA"
+  },
+  "growth product leader|ifit|usa": {
+   "first_seen": "2026-11-24T00:50:42+00:00",
+   "last_seen": "2026-11-24T00:50:42+00:00",
+   "title": "Growth Product Leader",
+   "org": "iFIT",
+   "location": "USA"
+  },
+  "reseller sales specialist - austin, tx|huntress|usa": {
+   "first_seen": "2026-11-24T00:50:42+00:00",
+   "last_seen": "2026-11-24T00:50:42+00:00",
+   "title": "Reseller Sales Specialist - Austin, TX",
+   "org": "Huntress",
+   "location": "USA"
+  },
+  "senior security engineer, threat intelligence (cyber - actor analysis)|coreweave|usa": {
+   "first_seen": "2026-11-24T00:50:42+00:00",
+   "last_seen": "2026-11-24T00:50:42+00:00",
+   "title": "Senior Security Engineer, Threat Intelligence (Cyber - Actor Analysis)",
+   "org": "CoreWeave",
+   "location": "USA"
+  },
+  "fp&a manager - subscriptions|ifit|usa": {
+   "first_seen": "2026-11-24T00:50:42+00:00",
+   "last_seen": "2026-11-24T00:50:42+00:00",
+   "title": "FP&A Manager - Subscriptions",
+   "org": "iFIT",
+   "location": "USA"
+  },
+  "gtm systems engineer|roboflow|usa": {
+   "first_seen": "2026-11-24T00:50:42+00:00",
+   "last_seen": "2026-11-24T00:50:42+00:00",
+   "title": "GTM Systems Engineer",
+   "org": "Roboflow",
+   "location": "USA"
+  },
+  "enterprise sales director|chili piper|usa": {
+   "first_seen": "2026-11-24T00:50:42+00:00",
+   "last_seen": "2026-11-24T00:50:42+00:00",
+   "title": "Enterprise Sales Director",
+   "org": "Chili Piper",
+   "location": "USA"
+  },
+  "procurement specialist|huntress|usa": {
+   "first_seen": "2026-11-24T00:50:42+00:00",
+   "last_seen": "2026-11-24T00:50:42+00:00",
+   "title": "Procurement Specialist",
+   "org": "Huntress",
+   "location": "USA"
+  },
+  "senior data platform engineer - weights & biases|coreweave|usa": {
+   "first_seen": "2026-11-24T00:50:42+00:00",
+   "last_seen": "2026-11-24T00:50:42+00:00",
+   "title": "Senior Data Platform Engineer - Weights & Biases",
+   "org": "CoreWeave",
+   "location": "USA"
+  },
+  "staff software engineer, backend|vtex|brazil": {
+   "first_seen": "2026-11-24T00:50:42+00:00",
+   "last_seen": "2026-11-24T00:50:42+00:00",
+   "title": "Staff Software Engineer, Backend",
+   "org": "VTEX",
+   "location": "Brazil"
+  },
+  "solutions partner|skillsoft|usa": {
+   "first_seen": "2026-11-24T00:50:42+00:00",
+   "last_seen": "2026-11-24T00:50:42+00:00",
+   "title": "Solutions Partner",
+   "org": "Skillsoft",
+   "location": "USA"
+  },
+  "senior revenue accountant|cologix, inc.|usa": {
+   "first_seen": "2026-11-24T00:50:42+00:00",
+   "last_seen": "2026-11-24T00:50:42+00:00",
+   "title": "Senior Revenue Accountant",
+   "org": "Cologix, Inc.",
+   "location": "USA"
+  },
+  "sr. human resources business partner|vynca|usa": {
+   "first_seen": "2026-11-24T00:50:42+00:00",
+   "last_seen": "2026-11-24T00:50:42+00:00",
+   "title": "Sr. Human Resources Business Partner",
+   "org": "Vynca",
+   "location": "USA"
+  },
+  "territory manager (south west saskatchewan)|halter|canada": {
+   "first_seen": "2026-11-24T00:50:42+00:00",
+   "last_seen": "2026-11-24T00:50:42+00:00",
+   "title": "Territory Manager (South West Saskatchewan)",
+   "org": "Halter",
+   "location": "Canada"
+  },
+  "senior software engineer (platform engineer), cloud storage|vtex|brazil": {
+   "first_seen": "2026-11-24T00:50:42+00:00",
+   "last_seen": "2026-11-24T00:50:42+00:00",
+   "title": "Senior Software Engineer (Platform Engineer), Cloud Storage",
+   "org": "VTEX",
+   "location": "Brazil"
+  },
+  "senior director, commercial operations|skillsoft|usa": {
+   "first_seen": "2026-11-24T00:50:42+00:00",
+   "last_seen": "2026-11-24T00:50:42+00:00",
+   "title": "Senior Director, Commercial Operations",
+   "org": "Skillsoft",
+   "location": "USA"
+  },
+  "it systems devops engineer|cologix, inc.|usa": {
+   "first_seen": "2026-11-24T00:50:42+00:00",
+   "last_seen": "2026-11-24T00:50:42+00:00",
+   "title": "IT Systems DevOps Engineer",
+   "org": "Cologix, Inc.",
+   "location": "USA"
+  },
+  "data engineering intern|wurl|canada, usa": {
+   "first_seen": "2026-11-24T00:50:42+00:00",
+   "last_seen": "2026-11-24T00:50:42+00:00",
+   "title": "Data Engineering Intern",
+   "org": "Wurl",
+   "location": "Canada, USA"
+  },
+  "territory manager (pennsylvania)|halter|usa": {
+   "first_seen": "2026-11-24T00:50:42+00:00",
+   "last_seen": "2026-11-24T00:50:42+00:00",
+   "title": "Territory Manager (Pennsylvania)",
+   "org": "Halter",
    "location": "USA"
   }
  }

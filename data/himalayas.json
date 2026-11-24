@@ -3,104 +3,104 @@
  "name": "Himalayas \u2014 remote jobs",
  "category": "jobs",
  "source": "https://himalayas.app/jobs/api",
- "collected_at": "2026-11-23T12:38:19+00:00",
+ "collected_at": "2026-11-24T00:50:43+00:00",
  "jobs_on_board": 20,
  "new_this_run": 20,
- "total_tracked": 575,
+ "total_tracked": 595,
  "jobs": [
   {
-   "title": "Medical Doctor / Physician (Mexico Only)",
-   "org": "ELITEBRAIN",
+   "title": "Finance Controller Lead (all genders)",
+   "org": "JustPlay GmbH",
+   "location": "Germany",
+   "detail": "Full Time",
+   "url": null,
+   "new_this_run": true
+  },
+  {
+   "title": "IT Project Manager (PMP), Health and Human Services Projects",
+   "org": "Dhaka Technologies Limited Company",
+   "location": "United States",
+   "detail": "$60\u2013$80/h",
+   "url": null,
+   "new_this_run": true
+  },
+  {
+   "title": "Buchhalter:in (m/w/d) - Berlin o. remote",
+   "org": "Tierarzt Plus Partner",
+   "location": "Germany",
+   "detail": "Full Time",
+   "url": null,
+   "new_this_run": true
+  },
+  {
+   "title": "Facility Programs and Services Intern",
+   "org": "Parsons Corporation",
+   "location": "United States",
+   "detail": "$19\u2013$34/h",
+   "url": null,
+   "new_this_run": true
+  },
+  {
+   "title": "IT Project Management Specialist Sr",
+   "org": "Sedgwick",
+   "location": "United States",
+   "detail": "Full Time",
+   "url": null,
+   "new_this_run": true
+  },
+  {
+   "title": "InfoSec Engineer",
+   "org": "3iQ",
    "location": "Mexico",
-   "detail": "$110\u2013$110/h",
-   "url": null,
-   "new_this_run": true
-  },
-  {
-   "title": "Director of Finance & Accounting, Remote (U.S.)",
-   "org": "CeresAI",
-   "location": "United States",
-   "detail": "$150,000\u2013$185,000/a",
-   "url": null,
-   "new_this_run": true
-  },
-  {
-   "title": "Email & Lifecycle Marketing Manager (HubSpot)",
-   "org": "LevelBlue, LLC.",
-   "location": "United Kingdom",
-   "detail": "$55,000\u2013$65,000/a",
-   "url": null,
-   "new_this_run": true
-  },
-  {
-   "title": "Senior Software Developer, Agentic AI - Canada",
-   "org": "Counterpart Health",
-   "location": "Canada",
    "detail": "Full Time",
    "url": null,
    "new_this_run": true
   },
   {
-   "title": "Advanced Software Engineer",
-   "org": "VERYUX",
-   "location": "Chile",
+   "title": "Sourcing Manager- Hard Service Lead",
+   "org": "JLL",
+   "location": "United States",
+   "detail": "$110,000\u2013$120,000/a",
+   "url": null,
+   "new_this_run": true
+  },
+  {
+   "title": "Product Owner \u2013 Enterprise Asset Management (EAM/CMMS)",
+   "org": "TISTA Science and Technology Corporation",
+   "location": "United States",
+   "detail": "$80,000\u2013$140,000/a",
+   "url": null,
+   "new_this_run": true
+  },
+  {
+   "title": "Manager, Cash Posting",
+   "org": "QHR",
+   "location": "United States",
+   "detail": "$76,658\u2013$114,987/a",
+   "url": null,
+   "new_this_run": true
+  },
+  {
+   "title": "Workday, Senior Engagement Manager",
+   "org": "Collaborative Solutions",
+   "location": "Australia, New Zealand",
    "detail": "Full Time",
    "url": null,
    "new_this_run": true
   },
   {
-   "title": "Accounting Expert - CPA Certified",
-   "org": "mercor",
-   "location": "United States",
-   "detail": "$130\u2013$160/h",
-   "url": null,
-   "new_this_run": true
-  },
-  {
-   "title": "Inside Sales Representative- Advertising Executive",
-   "org": "Guide Book Publishing",
+   "title": "Population Health- RN Medical Case Manager",
+   "org": "BlueCross BlueShield of Tennessee",
    "location": "United States",
    "detail": "Full Time",
    "url": null,
    "new_this_run": true
   },
   {
-   "title": "OT Cybersecurity Architect",
-   "org": "Claroty",
+   "title": "Sr Operations Development Manager",
+   "org": "Jabil",
    "location": "United States",
-   "detail": "$150,000\u2013$160,000/a",
-   "url": null,
-   "new_this_run": true
-  },
-  {
-   "title": "Senior Clinical Research Associate",
-   "org": "ICON",
-   "location": "Spain",
-   "detail": "Full Time",
-   "url": null,
-   "new_this_run": true
-  },
-  {
-   "title": "Entry Level Remote Sales - No Experience Required",
-   "org": "The Semler Agency",
-   "location": "United States",
-   "detail": "Full Time",
-   "url": null,
-   "new_this_run": true
-  },
-  {
-   "title": "Accountant (ACA / ACCA / CIMA)",
-   "org": "Digital Science",
-   "location": "United Kingdom",
-   "detail": "Full Time",
-   "url": null,
-   "new_this_run": true
-  },
-  {
-   "title": "FICO Blaze Domain Specialist (12-month contract)",
-   "org": "DeARX",
-   "location": "South Africa",
-   "detail": "Contractor",
+   "detail": "$135,700\u2013$244,300/a",
    "url": null,
    "new_this_run": true
   }
@@ -258,6 +258,11 @@
   },
   {
    "at": "2026-11-23T12:38:19+00:00",
+   "jobs": 20,
+   "new": 20
+  },
+  {
+   "at": "2026-11-24T00:50:43+00:00",
    "jobs": 20,
    "new": 20
   }
@@ -4287,6 +4292,146 @@
    "title": "MANAGER, MARKET INTELLIGENCE AND DATA GOVERNANCE",
    "org": "Propane Education & Research Council",
    "location": "United States"
+  },
+  "finance controller lead (all genders)|justplay gmbh|germany": {
+   "first_seen": "2026-11-24T00:50:43+00:00",
+   "last_seen": "2026-11-24T00:50:43+00:00",
+   "title": "Finance Controller Lead (all genders)",
+   "org": "JustPlay GmbH",
+   "location": "Germany"
+  },
+  "it project manager (pmp), health and human services projects|dhaka technologies limited company|united states": {
+   "first_seen": "2026-11-24T00:50:43+00:00",
+   "last_seen": "2026-11-24T00:50:43+00:00",
+   "title": "IT Project Manager (PMP), Health and Human Services Projects",
+   "org": "Dhaka Technologies Limited Company",
+   "location": "United States"
+  },
+  "buchhalter:in (m/w/d) - berlin o. remote|tierarzt plus partner|germany": {
+   "first_seen": "2026-11-24T00:50:43+00:00",
+   "last_seen": "2026-11-24T00:50:43+00:00",
+   "title": "Buchhalter:in (m/w/d) - Berlin o. remote",
+   "org": "Tierarzt Plus Partner",
+   "location": "Germany"
+  },
+  "facility programs and services intern|parsons corporation|united states": {
+   "first_seen": "2026-11-24T00:50:43+00:00",
+   "last_seen": "2026-11-24T00:50:43+00:00",
+   "title": "Facility Programs and Services Intern",
+   "org": "Parsons Corporation",
+   "location": "United States"
+  },
+  "it project management specialist sr|sedgwick|united states": {
+   "first_seen": "2026-11-24T00:50:43+00:00",
+   "last_seen": "2026-11-24T00:50:43+00:00",
+   "title": "IT Project Management Specialist Sr",
+   "org": "Sedgwick",
+   "location": "United States"
+  },
+  "infosec engineer|3iq|mexico": {
+   "first_seen": "2026-11-24T00:50:43+00:00",
+   "last_seen": "2026-11-24T00:50:43+00:00",
+   "title": "InfoSec Engineer",
+   "org": "3iQ",
+   "location": "Mexico"
+  },
+  "sourcing manager- hard service lead|jll|united states": {
+   "first_seen": "2026-11-24T00:50:43+00:00",
+   "last_seen": "2026-11-24T00:50:43+00:00",
+   "title": "Sourcing Manager- Hard Service Lead",
+   "org": "JLL",
+   "location": "United States"
+  },
+  "product owner \u2013 enterprise asset management (eam/cmms)|tista science and technology corporation|united states": {
+   "first_seen": "2026-11-24T00:50:43+00:00",
+   "last_seen": "2026-11-24T00:50:43+00:00",
+   "title": "Product Owner \u2013 Enterprise Asset Management (EAM/CMMS)",
+   "org": "TISTA Science and Technology Corporation",
+   "location": "United States"
+  },
+  "manager, cash posting|qhr|united states": {
+   "first_seen": "2026-11-24T00:50:43+00:00",
+   "last_seen": "2026-11-24T00:50:43+00:00",
+   "title": "Manager, Cash Posting",
+   "org": "QHR",
+   "location": "United States"
+  },
+  "workday, senior engagement manager|collaborative solutions|australia, new zealand": {
+   "first_seen": "2026-11-24T00:50:43+00:00",
+   "last_seen": "2026-11-24T00:50:43+00:00",
+   "title": "Workday, Senior Engagement Manager",
+   "org": "Collaborative Solutions",
+   "location": "Australia, New Zealand"
+  },
+  "population health- rn medical case manager|bluecross blueshield of tennessee|united states": {
+   "first_seen": "2026-11-24T00:50:43+00:00",
+   "last_seen": "2026-11-24T00:50:43+00:00",
+   "title": "Population Health- RN Medical Case Manager",
+   "org": "BlueCross BlueShield of Tennessee",
+   "location": "United States"
+  },
+  "sr operations development manager|jabil|united states": {
+   "first_seen": "2026-11-24T00:50:43+00:00",
+   "last_seen": "2026-11-24T00:50:43+00:00",
+   "title": "Sr Operations Development Manager",
+   "org": "Jabil",
+   "location": "United States"
+  },
+  "internal operations senior associate|teya|portugal, united kingdom": {
+   "first_seen": "2026-11-24T00:50:43+00:00",
+   "last_seen": "2026-11-24T00:50:43+00:00",
+   "title": "Internal Operations Senior Associate",
+   "org": "Teya",
+   "location": "Portugal, United Kingdom"
+  },
+  "software developer, cpt / ncrt (scm dso)|tista science and technology corporation|united states": {
+   "first_seen": "2026-11-24T00:50:43+00:00",
+   "last_seen": "2026-11-24T00:50:43+00:00",
+   "title": "Software Developer, CPT / NCRT (SCM DSO)",
+   "org": "TISTA Science and Technology Corporation",
+   "location": "United States"
+  },
+  "(usa) director, technical program management|walmart - internal|united states": {
+   "first_seen": "2026-11-24T00:50:43+00:00",
+   "last_seen": "2026-11-24T00:50:43+00:00",
+   "title": "(USA) Director, Technical Program Management",
+   "org": "Walmart - Internal",
+   "location": "United States"
+  },
+  "associate director, field incentive compensation|beigene|united states": {
+   "first_seen": "2026-11-24T00:50:43+00:00",
+   "last_seen": "2026-11-24T00:50:43+00:00",
+   "title": "Associate Director, Field Incentive Compensation",
+   "org": "BeiGene",
+   "location": "United States"
+  },
+  "seo supervisor|publicis groupe|united states": {
+   "first_seen": "2026-11-24T00:50:43+00:00",
+   "last_seen": "2026-11-24T00:50:43+00:00",
+   "title": "SEO Supervisor",
+   "org": "Publicis Groupe",
+   "location": "United States"
+  },
+  "senior paid search specialist|darkroom|united states": {
+   "first_seen": "2026-11-24T00:50:43+00:00",
+   "last_seen": "2026-11-24T00:50:43+00:00",
+   "title": "Senior Paid Search Specialist",
+   "org": "Darkroom",
+   "location": "United States"
+  },
+  "data scientist|concentrix|colombia, el salvador, nicaragua": {
+   "first_seen": "2026-11-24T00:50:43+00:00",
+   "last_seen": "2026-11-24T00:50:43+00:00",
+   "title": "Data Scientist",
+   "org": "Concentrix",
+   "location": "Colombia, El Salvador, Nicaragua"
+  },
+  "senior manager channel programs and operations|akamai technologies|india": {
+   "first_seen": "2026-11-24T00:50:43+00:00",
+   "last_seen": "2026-11-24T00:50:43+00:00",
+   "title": "Senior Manager Channel Programs and Operations",
+   "org": "Akamai Technologies",
+   "location": "India"
   }
  }
 }
