@@ -3,106 +3,106 @@
  "name": "Jobicy \u2014 remote jobs",
  "category": "jobs",
  "source": "https://jobicy.com/api/v2/remote-jobs",
- "collected_at": "2026-11-25T04:12:46+00:00",
+ "collected_at": "2026-11-25T14:28:37+00:00",
  "jobs_on_board": 50,
- "new_this_run": 9,
- "total_tracked": 1053,
+ "new_this_run": 50,
+ "total_tracked": 1103,
  "jobs": [
   {
-   "title": "Counsel, Commercial & Product",
-   "org": "SeatGeek",
+   "title": "Head of Financial Planning & Analysis",
+   "org": "NetBox Labs",
    "location": "USA",
-   "detail": "Senior",
-   "url": "https://jobicy.com/jobs/164191-counsel-commercial-product",
+   "detail": "Director",
+   "url": "https://jobicy.com/jobs/164223-head-of-financial-planning-analysis",
    "new_this_run": true
   },
   {
-   "title": "Community Engagement and Advocacy Manager",
-   "org": "Tailscale",
+   "title": "Senior Manager, Sales Technology & AI Enablement",
+   "org": "Axiom",
+   "location": "USA",
+   "detail": "Director",
+   "url": "https://jobicy.com/jobs/164222-senior-manager-sales-technology-ai-enablement",
+   "new_this_run": true
+  },
+  {
+   "title": "Senior Field Hardware Engineer",
+   "org": "Geotab",
+   "location": "USA",
+   "detail": "Senior",
+   "url": "https://jobicy.com/jobs/164221-senior-field-hardware-engineer",
+   "new_this_run": true
+  },
+  {
+   "title": "Solutions Consultant",
+   "org": "Rillet",
+   "location": "USA",
+   "detail": "Any",
+   "url": "https://jobicy.com/jobs/164220-solutions-consultant-2",
+   "new_this_run": true
+  },
+  {
+   "title": "Business Development Representative (North America)",
+   "org": "Filigran",
+   "location": "USA",
+   "detail": "Senior",
+   "url": "https://jobicy.com/jobs/164219-business-development-representative-north-america",
+   "new_this_run": true
+  },
+  {
+   "title": "HR Business Partner",
+   "org": "KnowBe4, Inc.",
+   "location": "USA",
+   "detail": "Director",
+   "url": "https://jobicy.com/jobs/164218-hr-business-partner-3",
+   "new_this_run": true
+  },
+  {
+   "title": "Manager, Customer Success",
+   "org": "UpCodes",
+   "location": "Canada, USA",
+   "detail": "Senior",
+   "url": "https://jobicy.com/jobs/164217-manager-customer-success-5",
+   "new_this_run": true
+  },
+  {
+   "title": "Staff Software Engineer, Tech Lead - NetBox Core",
+   "org": "NetBox Labs",
+   "location": "USA",
+   "detail": "Senior",
+   "url": "https://jobicy.com/jobs/164216-staff-software-engineer-tech-lead-netbox-core",
+   "new_this_run": true
+  },
+  {
+   "title": "Marketing Programs Associate",
+   "org": "Axiom",
+   "location": "USA",
+   "detail": "Senior",
+   "url": "https://jobicy.com/jobs/164215-marketing-programs-associate",
+   "new_this_run": true
+  },
+  {
+   "title": "Deployment Lead - Accounting Solutions",
+   "org": "Rillet",
+   "location": "USA",
+   "detail": "Senior",
+   "url": "https://jobicy.com/jobs/164214-deployment-lead-accounting-solutions",
+   "new_this_run": true
+  },
+  {
+   "title": "Enterprise Sales Executive, Banking, Financial Services and Insurance",
+   "org": "Toptal",
    "location": "Canada",
-   "detail": "Senior",
-   "url": "https://jobicy.com/jobs/164190-community-engagement-and-advocacy-manager",
-   "new_this_run": true
-  },
-  {
-   "title": "Senior Architect, Platform Security",
-   "org": "AppOmni",
-   "location": "USA",
-   "detail": "Senior",
-   "url": "https://jobicy.com/jobs/164189-senior-architect-platform-security",
-   "new_this_run": true
-  },
-  {
-   "title": "Client Success Manager",
-   "org": "BlackCloak",
-   "location": "USA",
    "detail": "Director",
-   "url": "https://jobicy.com/jobs/164188-client-success-manager-7",
+   "url": "https://jobicy.com/jobs/157023-enterprise-sales-executive-banking-financial-services-and-insurance",
    "new_this_run": true
   },
   {
-   "title": "Director, Sales (Nordics & Eastern Europe)",
-   "org": "Ping Identity",
-   "location": "Netherlands, Norway",
-   "detail": "Director",
-   "url": "https://jobicy.com/jobs/164187-director-sales-nordics-eastern-europe-2",
-   "new_this_run": false
-  },
-  {
-   "title": "Client Success Manager",
-   "org": "SeatGeek",
+   "title": "Sr. Account Manager - Health Plans",
+   "org": "H1",
    "location": "USA",
    "detail": "Senior",
-   "url": "https://jobicy.com/jobs/164186-client-success-manager-6",
+   "url": "https://jobicy.com/jobs/157006-sr-account-manager-health-plans",
    "new_this_run": true
-  },
-  {
-   "title": "Tax Lead, Nino",
-   "org": "CoinTracker",
-   "location": "USA",
-   "detail": "Senior",
-   "url": "https://jobicy.com/jobs/164184-tax-lead-nino",
-   "new_this_run": true
-  },
-  {
-   "title": "Billing Engineer",
-   "org": "Tailscale",
-   "location": "USA",
-   "detail": "Senior",
-   "url": "https://jobicy.com/jobs/164183-billing-engineer-2",
-   "new_this_run": true
-  },
-  {
-   "title": "Cloud Security Lead",
-   "org": "AppOmni",
-   "location": "USA",
-   "detail": "Senior",
-   "url": "https://jobicy.com/jobs/164182-cloud-security-lead",
-   "new_this_run": true
-  },
-  {
-   "title": "Client Account Manager",
-   "org": "BlackCloak",
-   "location": "USA",
-   "detail": "Director",
-   "url": "https://jobicy.com/jobs/164181-client-account-manager",
-   "new_this_run": true
-  },
-  {
-   "title": "Senior HPC Cluster Engineer",
-   "org": "Nebius",
-   "location": "Europe",
-   "detail": "Senior",
-   "url": "https://jobicy.com/jobs/164170-senior-hpc-cluster-engineer-2",
-   "new_this_run": false
-  },
-  {
-   "title": "Senior Data Engineer",
-   "org": "Nebius",
-   "location": "Europe, Israel",
-   "detail": "Senior",
-   "url": "https://jobicy.com/jobs/164169-senior-data-engineer-10",
-   "new_this_run": false
   }
  ],
  "runs": [
@@ -280,6 +280,11 @@
    "at": "2026-11-25T04:12:46+00:00",
    "jobs": 50,
    "new": 9
+  },
+  {
+   "at": "2026-11-25T14:28:37+00:00",
+   "jobs": 50,
+   "new": 50
   }
  ],
  "jobs_seen": {
@@ -7653,6 +7658,356 @@
    "title": "Client Account Manager",
    "org": "BlackCloak",
    "location": "USA"
+  },
+  "head of financial planning & analysis|netbox labs|usa": {
+   "first_seen": "2026-11-25T14:28:37+00:00",
+   "last_seen": "2026-11-25T14:28:37+00:00",
+   "title": "Head of Financial Planning & Analysis",
+   "org": "NetBox Labs",
+   "location": "USA"
+  },
+  "senior manager, sales technology & ai enablement|axiom|usa": {
+   "first_seen": "2026-11-25T14:28:37+00:00",
+   "last_seen": "2026-11-25T14:28:37+00:00",
+   "title": "Senior Manager, Sales Technology & AI Enablement",
+   "org": "Axiom",
+   "location": "USA"
+  },
+  "senior field hardware engineer|geotab|usa": {
+   "first_seen": "2026-11-25T14:28:37+00:00",
+   "last_seen": "2026-11-25T14:28:37+00:00",
+   "title": "Senior Field Hardware Engineer",
+   "org": "Geotab",
+   "location": "USA"
+  },
+  "solutions consultant|rillet|usa": {
+   "first_seen": "2026-11-25T14:28:37+00:00",
+   "last_seen": "2026-11-25T14:28:37+00:00",
+   "title": "Solutions Consultant",
+   "org": "Rillet",
+   "location": "USA"
+  },
+  "business development representative (north america)|filigran|usa": {
+   "first_seen": "2026-11-25T14:28:37+00:00",
+   "last_seen": "2026-11-25T14:28:37+00:00",
+   "title": "Business Development Representative (North America)",
+   "org": "Filigran",
+   "location": "USA"
+  },
+  "hr business partner|knowbe4, inc.|usa": {
+   "first_seen": "2026-11-25T14:28:37+00:00",
+   "last_seen": "2026-11-25T14:28:37+00:00",
+   "title": "HR Business Partner",
+   "org": "KnowBe4, Inc.",
+   "location": "USA"
+  },
+  "manager, customer success|upcodes|canada, usa": {
+   "first_seen": "2026-11-25T14:28:37+00:00",
+   "last_seen": "2026-11-25T14:28:37+00:00",
+   "title": "Manager, Customer Success",
+   "org": "UpCodes",
+   "location": "Canada, USA"
+  },
+  "staff software engineer, tech lead - netbox core|netbox labs|usa": {
+   "first_seen": "2026-11-25T14:28:37+00:00",
+   "last_seen": "2026-11-25T14:28:37+00:00",
+   "title": "Staff Software Engineer, Tech Lead - NetBox Core",
+   "org": "NetBox Labs",
+   "location": "USA"
+  },
+  "marketing programs associate|axiom|usa": {
+   "first_seen": "2026-11-25T14:28:37+00:00",
+   "last_seen": "2026-11-25T14:28:37+00:00",
+   "title": "Marketing Programs Associate",
+   "org": "Axiom",
+   "location": "USA"
+  },
+  "deployment lead - accounting solutions|rillet|usa": {
+   "first_seen": "2026-11-25T14:28:37+00:00",
+   "last_seen": "2026-11-25T14:28:37+00:00",
+   "title": "Deployment Lead - Accounting Solutions",
+   "org": "Rillet",
+   "location": "USA"
+  },
+  "enterprise sales executive, banking, financial services and insurance|toptal|canada": {
+   "first_seen": "2026-11-25T14:28:37+00:00",
+   "last_seen": "2026-11-25T14:28:37+00:00",
+   "title": "Enterprise Sales Executive, Banking, Financial Services and Insurance",
+   "org": "Toptal",
+   "location": "Canada"
+  },
+  "sr. account manager - health plans|h1|usa": {
+   "first_seen": "2026-11-25T14:28:37+00:00",
+   "last_seen": "2026-11-25T14:28:37+00:00",
+   "title": "Sr. Account Manager - Health Plans",
+   "org": "H1",
+   "location": "USA"
+  },
+  "enterprise sales executive, consumer products and services|toptal|canada": {
+   "first_seen": "2026-11-25T14:28:37+00:00",
+   "last_seen": "2026-11-25T14:28:37+00:00",
+   "title": "Enterprise Sales Executive, Consumer Products and Services",
+   "org": "Toptal",
+   "location": "Canada"
+  },
+  "enterprise sales executive, banking, financial services and insurance - us-based|toptal|usa": {
+   "first_seen": "2026-11-25T14:28:37+00:00",
+   "last_seen": "2026-11-25T14:28:37+00:00",
+   "title": "Enterprise Sales Executive, Banking, Financial Services and Insurance - US-Based",
+   "org": "Toptal",
+   "location": "USA"
+  },
+  "technical consultant, enterprise, oracle cloud|ramp|canada, usa": {
+   "first_seen": "2026-11-25T14:28:37+00:00",
+   "last_seen": "2026-11-25T14:28:37+00:00",
+   "title": "Technical Consultant, Enterprise, Oracle Cloud",
+   "org": "Ramp",
+   "location": "Canada, USA"
+  },
+  "procurement solutions architect|ramp|usa": {
+   "first_seen": "2026-11-25T14:28:37+00:00",
+   "last_seen": "2026-11-25T14:28:37+00:00",
+   "title": "Procurement Solutions Architect",
+   "org": "Ramp",
+   "location": "USA"
+  },
+  "senior software engineer|cyware|usa": {
+   "first_seen": "2026-11-25T14:28:37+00:00",
+   "last_seen": "2026-11-25T14:28:37+00:00",
+   "title": "Senior Software Engineer",
+   "org": "Cyware",
+   "location": "USA"
+  },
+  "senior product manager|thinkific|canada": {
+   "first_seen": "2026-11-25T14:28:37+00:00",
+   "last_seen": "2026-11-25T14:28:37+00:00",
+   "title": "Senior Product Manager",
+   "org": "Thinkific",
+   "location": "Canada"
+  },
+  "account executive|thinkific|canada": {
+   "first_seen": "2026-11-25T14:28:37+00:00",
+   "last_seen": "2026-11-25T14:28:37+00:00",
+   "title": "Account Executive",
+   "org": "Thinkific",
+   "location": "Canada"
+  },
+  "linux software engineer - ubuntu for next-gen silicon (multiple roles and seniority levels)|canonical|anywhere": {
+   "first_seen": "2026-11-25T14:28:37+00:00",
+   "last_seen": "2026-11-25T14:28:37+00:00",
+   "title": "Linux Software Engineer - Ubuntu for Next-Gen Silicon (multiple roles and seniority levels)",
+   "org": "Canonical",
+   "location": "Anywhere"
+  },
+  "iot field engineer - china & region|canonical|china": {
+   "first_seen": "2026-11-25T14:28:37+00:00",
+   "last_seen": "2026-11-25T14:28:37+00:00",
+   "title": "IoT Field Engineer - China & Region",
+   "org": "Canonical",
+   "location": "China"
+  },
+  "senior product manager, user acquisition|revenuecat|apac, emea, latam, canada, usa": {
+   "first_seen": "2026-11-25T14:28:37+00:00",
+   "last_seen": "2026-11-25T14:28:37+00:00",
+   "title": "Senior Product Manager, User Acquisition",
+   "org": "RevenueCat",
+   "location": "APAC, EMEA, LATAM, Canada, USA"
+  },
+  "senior solutions engineer | tokyo, japan | remote|grafana labs|japan": {
+   "first_seen": "2026-11-25T14:28:37+00:00",
+   "last_seen": "2026-11-25T14:28:37+00:00",
+   "title": "Senior Solutions Engineer | Tokyo, Japan | Remote",
+   "org": "Grafana Labs",
+   "location": "Japan"
+  },
+  "senior financial analyst (fp&a)|thumbtack|philippines": {
+   "first_seen": "2026-11-25T14:28:37+00:00",
+   "last_seen": "2026-11-25T14:28:37+00:00",
+   "title": "Senior Financial Analyst (FP&A)",
+   "org": "Thumbtack",
+   "location": "Philippines"
+  },
+  "people operations partner|playson|europe": {
+   "first_seen": "2026-11-25T14:28:37+00:00",
+   "last_seen": "2026-11-25T14:28:37+00:00",
+   "title": "People Operations Partner",
+   "org": "Playson",
+   "location": "Europe"
+  },
+  "senior product manager ii - vendor spend|wrapbook|canada, usa": {
+   "first_seen": "2026-11-25T14:28:37+00:00",
+   "last_seen": "2026-11-25T14:28:37+00:00",
+   "title": "Senior Product Manager II - Vendor Spend",
+   "org": "Wrapbook",
+   "location": "Canada, USA"
+  },
+  "senior product designer ii|wrapbook|canada, usa": {
+   "first_seen": "2026-11-25T14:28:37+00:00",
+   "last_seen": "2026-11-25T14:28:37+00:00",
+   "title": "Senior Product Designer II",
+   "org": "Wrapbook",
+   "location": "Canada, USA"
+  },
+  "solution architect|smartling|usa": {
+   "first_seen": "2026-11-25T14:28:37+00:00",
+   "last_seen": "2026-11-25T14:28:37+00:00",
+   "title": "Solution Architect",
+   "org": "Smartling",
+   "location": "USA"
+  },
+  "enterprise sales account executive (federal)|keyfactor, inc.|usa": {
+   "first_seen": "2026-11-25T14:28:37+00:00",
+   "last_seen": "2026-11-25T14:28:37+00:00",
+   "title": "Enterprise Sales Account Executive (Federal)",
+   "org": "Keyfactor, Inc.",
+   "location": "USA"
+  },
+  "staff accountant|h1|usa": {
+   "first_seen": "2026-11-25T14:28:37+00:00",
+   "last_seen": "2026-11-25T14:28:37+00:00",
+   "title": "Staff Accountant",
+   "org": "H1",
+   "location": "USA"
+  },
+  "sr. account manager - enterprise|h1|usa": {
+   "first_seen": "2026-11-25T14:28:37+00:00",
+   "last_seen": "2026-11-25T14:28:37+00:00",
+   "title": "Sr. Account Manager - Enterprise",
+   "org": "H1",
+   "location": "USA"
+  },
+  "senior automation & process specialist|thumbtack|philippines": {
+   "first_seen": "2026-11-25T14:28:37+00:00",
+   "last_seen": "2026-11-25T14:28:37+00:00",
+   "title": "Senior Automation & Process Specialist",
+   "org": "Thumbtack",
+   "location": "Philippines"
+  },
+  "account executive|thumbtack|philippines": {
+   "first_seen": "2026-11-25T14:28:37+00:00",
+   "last_seen": "2026-11-25T14:28:37+00:00",
+   "title": "Account Executive",
+   "org": "Thumbtack",
+   "location": "Philippines"
+  },
+  "project manager (service operations)|thumbtack|philippines": {
+   "first_seen": "2026-11-25T14:28:37+00:00",
+   "last_seen": "2026-11-25T14:28:37+00:00",
+   "title": "Project Manager (Service Operations)",
+   "org": "Thumbtack",
+   "location": "Philippines"
+  },
+  "strategic account executive (netherlands)|ping identity|netherlands": {
+   "first_seen": "2026-11-25T14:28:37+00:00",
+   "last_seen": "2026-11-25T14:28:37+00:00",
+   "title": "Strategic Account Executive (Netherlands)",
+   "org": "Ping Identity",
+   "location": "Netherlands"
+  },
+  "strategic account executive (middle east)|ping identity|france, uk": {
+   "first_seen": "2026-11-25T14:28:37+00:00",
+   "last_seen": "2026-11-25T14:28:37+00:00",
+   "title": "Strategic Account Executive (Middle East)",
+   "org": "Ping Identity",
+   "location": "France, UK"
+  },
+  "strategic account executive (belgium)|ping identity|belgium": {
+   "first_seen": "2026-11-25T14:28:37+00:00",
+   "last_seen": "2026-11-25T14:28:37+00:00",
+   "title": "Strategic Account Executive (Belgium)",
+   "org": "Ping Identity",
+   "location": "Belgium"
+  },
+  "senior site reliability engineer|ping identity|italy": {
+   "first_seen": "2026-11-25T14:28:37+00:00",
+   "last_seen": "2026-11-25T14:28:37+00:00",
+   "title": "Senior Site Reliability Engineer",
+   "org": "Ping Identity",
+   "location": "Italy"
+  },
+  "senior field marketing manager|ping identity|uk": {
+   "first_seen": "2026-11-25T14:28:37+00:00",
+   "last_seen": "2026-11-25T14:28:37+00:00",
+   "title": "Senior Field Marketing Manager",
+   "org": "Ping Identity",
+   "location": "UK"
+  },
+  "sales specialist (italy)|ping identity|italy": {
+   "first_seen": "2026-11-25T14:28:37+00:00",
+   "last_seen": "2026-11-25T14:28:37+00:00",
+   "title": "Sales Specialist (Italy)",
+   "org": "Ping Identity",
+   "location": "Italy"
+  },
+  "dental field trainer - birmingham|dandy|uk": {
+   "first_seen": "2026-11-25T14:28:37+00:00",
+   "last_seen": "2026-11-25T14:28:37+00:00",
+   "title": "Dental Field Trainer - Birmingham",
+   "org": "Dandy",
+   "location": "UK"
+  },
+  "senior technical support engineer|zscaler|australia": {
+   "first_seen": "2026-11-25T14:28:37+00:00",
+   "last_seen": "2026-11-25T14:28:37+00:00",
+   "title": "Senior Technical Support Engineer",
+   "org": "Zscaler",
+   "location": "Australia"
+  },
+  "sales development - anz|elevenlabs|australia, new zealand": {
+   "first_seen": "2026-11-25T14:28:37+00:00",
+   "last_seen": "2026-11-25T14:28:37+00:00",
+   "title": "Sales Development - ANZ",
+   "org": "Elevenlabs",
+   "location": "Australia, New Zealand"
+  },
+  "strategic account executive - singapore|elevenlabs|singapore": {
+   "first_seen": "2026-11-25T14:28:37+00:00",
+   "last_seen": "2026-11-25T14:28:37+00:00",
+   "title": "Strategic Account Executive - Singapore",
+   "org": "Elevenlabs",
+   "location": "Singapore"
+  },
+  "global investigator - triage (apac)|trm labs|apac": {
+   "first_seen": "2026-11-25T14:28:37+00:00",
+   "last_seen": "2026-11-25T14:28:37+00:00",
+   "title": "Global Investigator - Triage (APAC)",
+   "org": "TRM Labs",
+   "location": "APAC"
+  },
+  "platform engineer - compute capacity|supabase|anywhere": {
+   "first_seen": "2026-11-25T14:28:37+00:00",
+   "last_seen": "2026-11-25T14:28:37+00:00",
+   "title": "Platform Engineer - Compute Capacity",
+   "org": "Supabase",
+   "location": "Anywhere"
+  },
+  "distributed systems engineer|canonical|anywhere": {
+   "first_seen": "2026-11-25T14:28:37+00:00",
+   "last_seen": "2026-11-25T14:28:37+00:00",
+   "title": "Distributed Systems Engineer",
+   "org": "Canonical",
+   "location": "Anywhere"
+  },
+  "product manager - realtime|supabase|anywhere": {
+   "first_seen": "2026-11-25T14:28:37+00:00",
+   "last_seen": "2026-11-25T14:28:37+00:00",
+   "title": "Product Manager - Realtime",
+   "org": "Supabase",
+   "location": "Anywhere"
+  },
+  "software engineer - storage|supabase|anywhere": {
+   "first_seen": "2026-11-25T14:28:37+00:00",
+   "last_seen": "2026-11-25T14:28:37+00:00",
+   "title": "Software Engineer - Storage",
+   "org": "Supabase",
+   "location": "Anywhere"
+  },
+  "data api engineer|supabase|anywhere": {
+   "first_seen": "2026-11-25T14:28:37+00:00",
+   "last_seen": "2026-11-25T14:28:37+00:00",
+   "title": "Data API Engineer",
+   "org": "Supabase",
+   "location": "Anywhere"
   }
  }
 }

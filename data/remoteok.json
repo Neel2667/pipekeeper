@@ -3,106 +3,106 @@
  "name": "RemoteOK \u2014 remote tech jobs",
  "category": "jobs",
  "source": "https://remoteok.com/api",
- "collected_at": "2026-11-25T04:12:46+00:00",
+ "collected_at": "2026-11-25T14:28:36+00:00",
  "jobs_on_board": 100,
- "new_this_run": 5,
- "total_tracked": 283,
+ "new_this_run": 18,
+ "total_tracked": 301,
  "jobs": [
   {
-   "title": "Senior Manager, Enterprise Application Development Engineering",
-   "org": "GitLab",
+   "title": "Senior Global Partner Specialist - USA",
+   "org": "Storyblok",
+   "location": "Worldwide",
+   "detail": "other",
+   "url": "https://remoteOK.com/remote-jobs/remote-senior-global-partner-specialist-usa-storyblok-1138100",
+   "new_this_run": true
+  },
+  {
+   "title": "Senior Corporate Accountant - Tax",
+   "org": "Salesloft",
    "location": "US Only",
-   "detail": "devops",
-   "url": "https://remoteOK.com/remote-jobs/remote-senior-manager-enterprise-application-development-engineering-gitlab-1138079",
+   "detail": "finance",
+   "url": "https://remoteOK.com/remote-jobs/remote-senior-corporate-accountant-tax-salesloft-1138099",
    "new_this_run": true
   },
   {
-   "title": "Real Estate Executive Assistant 21370",
-   "org": "Wing Assistant",
-   "location": "Philippines",
-   "detail": "virtual assistant, sys admin, infosec",
-   "url": "https://remoteOK.com/remote-jobs/remote-real-estate-executive-assistant-21370-wing-assistant-1138078",
-   "new_this_run": true
-  },
-  {
-   "title": "Senior Tax Associate",
-   "org": "Real REMAX Group",
-   "location": "Newark",
-   "detail": "$118,000\u2013$150,000",
-   "url": "https://remoteOK.com/remote-jobs/remote-senior-tax-associate-real-remax-group-1138077",
-   "new_this_run": true
-  },
-  {
-   "title": "Revenue Operations Manager",
-   "org": "GitLab",
+   "title": "Sr EHR Implementation Manager",
+   "org": "Natera",
    "location": "US Only",
    "detail": "exec",
-   "url": "https://remoteOK.com/remote-jobs/remote-revenue-operations-manager-gitlab-1138076",
+   "url": "https://remoteOK.com/remote-jobs/remote-sr-ehr-implementation-manager-natera-1138098",
    "new_this_run": true
   },
   {
-   "title": "Senior CX Platform Engineer",
-   "org": "GitLab",
-   "location": "Canada Only",
-   "detail": "devops",
-   "url": "https://remoteOK.com/remote-jobs/remote-senior-cx-platform-engineer-gitlab-1138075",
-   "new_this_run": true
-  },
-  {
-   "title": "Strategic Technical Advisor",
-   "org": "Thrive",
-   "location": "remote",
-   "detail": "$128,091\u2013$128,091",
-   "url": "https://remoteOK.com/remote-jobs/remote-strategic-technical-advisor-thrive-1138074",
-   "new_this_run": false
-  },
-  {
-   "title": "Senior Software Engineer, Agentic AI",
-   "org": "Clover Health",
-   "location": "US Only",
-   "detail": "programming",
-   "url": "https://remoteOK.com/remote-jobs/remote-senior-software-engineer-agentic-ai-clover-health-1138070",
-   "new_this_run": false
-  },
-  {
-   "title": "Senior Software Developer, Agentic AI - Canada",
-   "org": "Clover Health",
-   "location": "Canada Only",
-   "detail": "programming",
-   "url": "https://remoteOK.com/remote-jobs/remote-senior-software-developer-agentic-ai-canada-clover-health-1138068",
-   "new_this_run": false
-  },
-  {
-   "title": "Threat Research Engineer, Security Factory: Threat Research",
-   "org": "GitLab",
-   "location": "EMEA",
-   "detail": "programming",
-   "url": "https://remoteOK.com/remote-jobs/remote-threat-research-engineer-security-factory-threat-research-gitlab-1138067",
-   "new_this_run": false
-  },
-  {
-   "title": "Staff Backend Engineer, Performance Enablement",
-   "org": "GitLab",
-   "location": "Europe",
-   "detail": "programming",
-   "url": "https://remoteOK.com/remote-jobs/remote-staff-backend-engineer-performance-enablement-gitlab-1138066",
-   "new_this_run": false
-  },
-  {
-   "title": "Renewals Manager - LATAM",
-   "org": "GitLab",
-   "location": "Latin America",
-   "detail": "programming",
-   "url": "https://remoteOK.com/remote-jobs/remote-renewals-manager-latam-gitlab-1138065",
-   "new_this_run": false
-  },
-  {
-   "title": "Product Manager, Developer Ecosystem",
-   "org": "Reddit",
+   "title": "Regional Vice President, Biddable",
+   "org": "Doximity",
    "location": "US Only",
    "detail": "product",
-   "url": "https://remoteOK.com/remote-jobs/remote-product-manager-developer-ecosystem-reddit-1137977",
-   "new_this_run": false
+   "url": "https://remoteOK.com/remote-jobs/remote-regional-vice-president-biddable-doximity-1138097",
+   "new_this_run": true
+  },
+  {
+   "title": "Security Engineer, Offensive Security",
+   "org": "Dropbox",
+   "location": "North America",
+   "detail": "devops",
+   "url": "https://remoteOK.com/remote-jobs/remote-security-engineer-offensive-security-dropbox-1138096",
+   "new_this_run": true
+  },
+  {
+   "title": "Principal Software Engineer",
+   "org": "Ping Identity",
+   "location": "US Only",
+   "detail": "devops",
+   "url": "https://remoteOK.com/remote-jobs/remote-principal-software-engineer-ping-identity-1138095",
+   "new_this_run": true
+  },
+  {
+   "title": "Senior Software Engineer, AI & Science Platform",
+   "org": "Reddit",
+   "location": "US Only",
+   "detail": "programming",
+   "url": "https://remoteOK.com/remote-jobs/remote-senior-software-engineer-ai-science-platform-reddit-1138093",
+   "new_this_run": true
+  },
+  {
+   "title": "Staff Software Engineer, Control Plane",
+   "org": "Cribl",
+   "location": "US Only",
+   "detail": "programming",
+   "url": "https://remoteOK.com/remote-jobs/remote-staff-software-engineer-control-plane-cribl-1138092",
+   "new_this_run": true
+  },
+  {
+   "title": "Senior Web Engineer, Profile & Community",
+   "org": "Airbnb",
+   "location": "US Only",
+   "detail": "programming",
+   "url": "https://remoteOK.com/remote-jobs/remote-senior-web-engineer-profile-community-airbnb-1138091",
+   "new_this_run": true
+  },
+  {
+   "title": "Associate, Payment Integrity",
+   "org": "Oscar Health",
+   "location": "Worldwide",
+   "detail": "programming",
+   "url": "https://remoteOK.com/remote-jobs/remote-associate-payment-integrity-oscar-health-1138090",
+   "new_this_run": true
+  },
+  {
+   "title": "District Manager, Enterprise - Healthcare (Southeast)",
+   "org": "Everpure",
+   "location": "US Only",
+   "detail": "sales",
+   "url": "https://remoteOK.com/remote-jobs/remote-district-manager-enterprise-healthcare-southeast-everpure-1138089",
+   "new_this_run": true
+  },
+  {
+   "title": "Senior Account Executive - SaaS Industrials",
+   "org": "Salsify",
+   "location": "US Only",
+   "detail": "sales",
+   "url": "https://remoteOK.com/remote-jobs/remote-senior-account-executive-saas-industrials-salsify-1138088",
+   "new_this_run": true
   }
  ],
  "runs": [
@@ -280,6 +280,11 @@
    "at": "2026-11-25T04:12:46+00:00",
    "jobs": 100,
    "new": 5
+  },
+  {
+   "at": "2026-11-25T14:28:36+00:00",
+   "jobs": 100,
+   "new": 18
   }
  ],
  "jobs_seen": {
@@ -1503,77 +1508,77 @@
   },
   "global tax manager|ensono|us only": {
    "first_seen": "2026-11-21T09:54:43+00:00",
-   "last_seen": "2026-11-25T04:12:46+00:00",
+   "last_seen": "2026-11-25T14:28:36+00:00",
    "title": "Global Tax Manager",
    "org": "Ensono",
    "location": "US Only"
   },
   "senior sales engineer|natera|us only": {
    "first_seen": "2026-11-21T09:54:43+00:00",
-   "last_seen": "2026-11-25T04:12:46+00:00",
+   "last_seen": "2026-11-25T14:28:36+00:00",
    "title": "Senior Sales Engineer",
    "org": "Natera",
    "location": "US Only"
   },
   "senior associate, finance and accounting operations|ensono|latin america": {
    "first_seen": "2026-11-21T09:54:43+00:00",
-   "last_seen": "2026-11-25T04:12:46+00:00",
+   "last_seen": "2026-11-25T14:28:36+00:00",
    "title": "Senior Associate, Finance and Accounting Operations",
    "org": "Ensono",
    "location": "Latin America"
   },
   "data strategy operations manager|abnormal|us only": {
    "first_seen": "2026-11-21T09:54:43+00:00",
-   "last_seen": "2026-11-25T04:12:46+00:00",
+   "last_seen": "2026-11-25T14:28:36+00:00",
    "title": "Data Strategy Operations Manager",
    "org": "Abnormal",
    "location": "US Only"
   },
   "sr sales ops analyst|beyondtrust|us only": {
    "first_seen": "2026-11-21T09:54:43+00:00",
-   "last_seen": "2026-11-25T04:12:46+00:00",
+   "last_seen": "2026-11-25T14:28:36+00:00",
    "title": "Sr Sales Ops Analyst",
    "org": "BeyondTrust",
    "location": "US Only"
   },
   "art director|abnormal|us only": {
    "first_seen": "2026-11-21T09:54:43+00:00",
-   "last_seen": "2026-11-25T04:12:46+00:00",
+   "last_seen": "2026-11-25T14:28:36+00:00",
    "title": "Art Director",
    "org": "Abnormal",
    "location": "US Only"
   },
   "senior product architect|storyblok|worldwide": {
    "first_seen": "2026-11-21T09:54:43+00:00",
-   "last_seen": "2026-11-25T04:12:46+00:00",
+   "last_seen": "2026-11-25T14:28:36+00:00",
    "title": "Senior Product Architect",
    "org": "Storyblok",
    "location": "Worldwide"
   },
   "senior customer marketing manager|bitwarden|us only": {
    "first_seen": "2026-11-21T09:54:43+00:00",
-   "last_seen": "2026-11-25T04:12:46+00:00",
+   "last_seen": "2026-11-25T14:28:36+00:00",
    "title": "Senior Customer Marketing Manager",
    "org": "Bitwarden",
    "location": "US Only"
   },
   "security analyst - governance, risk, and compliance|launchdarkly|us only": {
    "first_seen": "2026-11-21T09:54:43+00:00",
-   "last_seen": "2026-11-25T04:12:46+00:00",
+   "last_seen": "2026-11-25T14:28:36+00:00",
    "title": "Security Analyst - Governance, Risk, and Compliance",
    "org": "LaunchDarkly",
    "location": "US Only"
   },
   "staff security engineer - appsec|6sense|us only": {
    "first_seen": "2026-11-21T09:54:43+00:00",
-   "last_seen": "2026-11-25T04:12:46+00:00",
+   "last_seen": "2026-11-25T14:28:36+00:00",
    "title": "Staff Security Engineer - AppSec",
    "org": "6sense",
    "location": "US Only"
   },
   "advisory solutions architect, msp (new product intro)|rubrik job board|us only": {
    "first_seen": "2026-11-21T09:54:43+00:00",
-   "last_seen": "2026-11-25T04:12:46+00:00",
+   "last_seen": "2026-11-25T14:28:36+00:00",
    "title": "Advisory Solutions Architect, MSP (New Product Intro)",
    "org": "Rubrik Job Board",
    "location": "US Only"
@@ -1587,14 +1592,14 @@
   },
   "product manager, ecosystem relevance|reddit|us only": {
    "first_seen": "2026-11-21T09:54:43+00:00",
-   "last_seen": "2026-11-25T04:12:46+00:00",
+   "last_seen": "2026-11-25T14:28:36+00:00",
    "title": "Product Manager, Ecosystem Relevance",
    "org": "Reddit",
    "location": "US Only"
   },
   "product manager, ai foundations|reddit|us only": {
    "first_seen": "2026-11-21T09:54:43+00:00",
-   "last_seen": "2026-11-25T04:12:46+00:00",
+   "last_seen": "2026-11-25T14:28:36+00:00",
    "title": "Product Manager, AI Foundations",
    "org": "Reddit",
    "location": "US Only"
@@ -1720,21 +1725,21 @@
   },
   "quality engineer|quartermaster|arlington": {
    "first_seen": "2026-11-21T17:31:39+00:00",
-   "last_seen": "2026-11-25T04:12:46+00:00",
+   "last_seen": "2026-11-25T14:28:36+00:00",
    "title": "Quality Engineer",
    "org": "Quartermaster",
    "location": "Arlington"
   },
   "account director|princeton10|remote, est united states": {
    "first_seen": "2026-11-21T17:31:39+00:00",
-   "last_seen": "2026-11-25T04:12:46+00:00",
+   "last_seen": "2026-11-25T14:28:36+00:00",
    "title": "Account Director",
    "org": "Princeton10",
    "location": "Remote, EST United States"
   },
   "senior manager, product analytics (growth)|ifit|worldwide": {
    "first_seen": "2026-11-21T17:31:39+00:00",
-   "last_seen": "2026-11-25T04:12:46+00:00",
+   "last_seen": "2026-11-25T14:28:36+00:00",
    "title": "Senior Manager, Product Analytics (Growth)",
    "org": "iFIT",
    "location": "Worldwide"
@@ -1748,91 +1753,91 @@
   },
   "sea p2p business development specialist|bybit|asia": {
    "first_seen": "2026-11-21T17:31:39+00:00",
-   "last_seen": "2026-11-25T04:12:46+00:00",
+   "last_seen": "2026-11-25T14:28:36+00:00",
    "title": "SEA P2P Business Development Specialist",
    "org": "Bybit",
    "location": "Asia"
   },
   "customer success manager|salsify|europe": {
    "first_seen": "2026-11-21T17:31:39+00:00",
-   "last_seen": "2026-11-25T04:12:46+00:00",
+   "last_seen": "2026-11-25T14:28:36+00:00",
    "title": "Customer Success Manager",
    "org": "Salsify",
    "location": "Europe"
   },
   "technical architect|dropbox|europe": {
    "first_seen": "2026-11-21T17:31:39+00:00",
-   "last_seen": "2026-11-25T04:12:46+00:00",
+   "last_seen": "2026-11-25T14:28:36+00:00",
    "title": "Technical Architect",
    "org": "Dropbox",
    "location": "Europe"
   },
   "revenue operations leader, strategy & planning|contentstack|us only": {
    "first_seen": "2026-11-22T06:46:24+00:00",
-   "last_seen": "2026-11-25T04:12:46+00:00",
+   "last_seen": "2026-11-25T14:28:36+00:00",
    "title": "Revenue Operations Leader, Strategy & Planning",
    "org": "Contentstack",
    "location": "US Only"
   },
   "vp, customer experience operations|ping identity|us only": {
    "first_seen": "2026-11-22T06:46:24+00:00",
-   "last_seen": "2026-11-25T04:12:46+00:00",
+   "last_seen": "2026-11-25T14:28:36+00:00",
    "title": "VP, Customer Experience Operations",
    "org": "Ping Identity",
    "location": "US Only"
   },
   "senior software engineer - behavioral security products|abnormal|uk only": {
    "first_seen": "2026-11-22T06:46:24+00:00",
-   "last_seen": "2026-11-25T04:12:46+00:00",
+   "last_seen": "2026-11-25T14:28:36+00:00",
    "title": "Senior Software Engineer - Behavioral Security Products",
    "org": "Abnormal",
    "location": "UK Only"
   },
   "senior manager, financial reporting|\u00e5\u008cura|us only": {
    "first_seen": "2026-11-22T06:46:24+00:00",
-   "last_seen": "2026-11-25T04:12:46+00:00",
+   "last_seen": "2026-11-25T14:28:36+00:00",
    "title": "Senior Manager, Financial Reporting",
    "org": "\u00c5\u008cURA",
    "location": "US Only"
   },
   "engineering manager, ranking platform|reddit|us only": {
    "first_seen": "2026-11-22T06:46:24+00:00",
-   "last_seen": "2026-11-25T04:12:46+00:00",
+   "last_seen": "2026-11-25T14:28:36+00:00",
    "title": "Engineering Manager, Ranking Platform",
    "org": "Reddit",
    "location": "US Only"
   },
   "principal software engineer, infrastructure|reddit|us only": {
    "first_seen": "2026-11-22T06:46:24+00:00",
-   "last_seen": "2026-11-25T04:12:46+00:00",
+   "last_seen": "2026-11-25T14:28:36+00:00",
    "title": "Principal Software Engineer, Infrastructure",
    "org": "Reddit",
    "location": "US Only"
   },
   "enterprise performance lead|clover health|us only": {
    "first_seen": "2026-11-22T06:46:24+00:00",
-   "last_seen": "2026-11-25T04:12:46+00:00",
+   "last_seen": "2026-11-25T14:28:36+00:00",
    "title": "Enterprise Performance Lead",
    "org": "Clover Health",
    "location": "US Only"
   },
   "global tax intern|ensono|us only": {
    "first_seen": "2026-11-22T06:46:24+00:00",
-   "last_seen": "2026-11-25T04:12:46+00:00",
+   "last_seen": "2026-11-25T14:28:36+00:00",
    "title": "Global Tax Intern",
    "org": "Ensono",
    "location": "US Only"
   },
   "sr. technology partner director, product partnerships|databricks|us only": {
    "first_seen": "2026-11-22T06:46:24+00:00",
-   "last_seen": "2026-11-25T04:12:46+00:00",
+   "last_seen": "2026-11-25T14:28:36+00:00",
    "title": "Sr. Technology Partner Director, Product Partnerships",
    "org": "Databricks",
    "location": "US Only"
   },
   "lead, office of software assurance|natera|us only": {
    "first_seen": "2026-11-22T06:46:24+00:00",
-   "last_seen": "2026-11-25T04:12:46+00:00",
+   "last_seen": "2026-11-25T14:28:36+00:00",
    "title": "Lead, Office of Software Assurance",
    "org": "Natera",
    "location": "US Only"
@@ -1860,14 +1865,14 @@
   },
   "business services assistant|ping identity|uk only": {
    "first_seen": "2026-11-22T06:46:24+00:00",
-   "last_seen": "2026-11-25T04:12:46+00:00",
+   "last_seen": "2026-11-25T14:28:36+00:00",
    "title": "Business Services Assistant",
    "org": "Ping Identity",
    "location": "UK Only"
   },
   "senior financial analyst|\u00e5\u008cura|us only": {
    "first_seen": "2026-11-22T06:46:24+00:00",
-   "last_seen": "2026-11-25T04:12:46+00:00",
+   "last_seen": "2026-11-25T14:28:36+00:00",
    "title": "Senior Financial Analyst",
    "org": "\u00c5\u008cURA",
    "location": "US Only"
@@ -1881,98 +1886,98 @@
   },
   "associate counsel, vendor and provider contracting|clover health|us only": {
    "first_seen": "2026-11-22T06:46:24+00:00",
-   "last_seen": "2026-11-25T04:12:46+00:00",
+   "last_seen": "2026-11-25T14:28:36+00:00",
    "title": "Associate Counsel, Vendor and Provider Contracting",
    "org": "Clover Health",
    "location": "US Only"
   },
   "senior staff machine learning engineer, ads ranking|reddit|us only": {
    "first_seen": "2026-11-22T06:46:24+00:00",
-   "last_seen": "2026-11-25T04:12:46+00:00",
+   "last_seen": "2026-11-25T14:28:36+00:00",
    "title": "Senior Staff Machine Learning Engineer, Ads Ranking",
    "org": "Reddit",
    "location": "US Only"
   },
   "sr. product marketing manager, secrets manager|bitwarden|us only": {
    "first_seen": "2026-11-22T06:46:24+00:00",
-   "last_seen": "2026-11-25T04:12:46+00:00",
+   "last_seen": "2026-11-25T14:28:36+00:00",
    "title": "Sr. Product Marketing Manager, Secrets Manager",
    "org": "Bitwarden",
    "location": "US Only"
   },
   "sr. security operations manager|carrot|worldwide": {
    "first_seen": "2026-11-22T06:46:24+00:00",
-   "last_seen": "2026-11-25T04:12:46+00:00",
+   "last_seen": "2026-11-25T14:28:36+00:00",
    "title": "Sr. Security Operations Manager",
    "org": "Carrot",
    "location": "Worldwide"
   },
   "part-time temporary hr business partner / hr generalist|elation health|us only": {
    "first_seen": "2026-11-22T06:46:24+00:00",
-   "last_seen": "2026-11-25T04:12:46+00:00",
+   "last_seen": "2026-11-25T14:28:36+00:00",
    "title": "Part-Time Temporary HR Business Partner / HR Generalist",
    "org": "Elation Health",
    "location": "US Only"
   },
   "senior product design manager|lastpass|europe": {
    "first_seen": "2026-11-22T06:46:24+00:00",
-   "last_seen": "2026-11-25T04:12:46+00:00",
+   "last_seen": "2026-11-25T14:28:36+00:00",
    "title": "Senior Product Design Manager",
    "org": "LastPass",
    "location": "Europe"
   },
   "manager, product design|carrot|worldwide": {
    "first_seen": "2026-11-22T06:46:24+00:00",
-   "last_seen": "2026-11-25T04:12:46+00:00",
+   "last_seen": "2026-11-25T14:28:36+00:00",
    "title": "Manager, Product Design",
    "org": "Carrot",
    "location": "Worldwide"
   },
   "staff scientist, machine learning (genomics)|natera|us only": {
    "first_seen": "2026-11-22T06:46:24+00:00",
-   "last_seen": "2026-11-25T04:12:46+00:00",
+   "last_seen": "2026-11-25T14:28:36+00:00",
    "title": "Staff Scientist, Machine Learning (Genomics)",
    "org": "Natera",
    "location": "US Only"
   },
   "manager, network contracting (southeast region)|oscar health|worldwide": {
    "first_seen": "2026-11-22T06:46:24+00:00",
-   "last_seen": "2026-11-25T04:12:46+00:00",
+   "last_seen": "2026-11-25T14:28:36+00:00",
    "title": "Manager, Network Contracting (Southeast Region)",
    "org": "Oscar Health",
    "location": "Worldwide"
   },
   "senior software engineer ii - agentic intelligence|honeycomb.io|canada only": {
    "first_seen": "2026-11-22T06:46:24+00:00",
-   "last_seen": "2026-11-25T04:12:46+00:00",
+   "last_seen": "2026-11-25T14:28:36+00:00",
    "title": "Senior Software Engineer II - Agentic Intelligence",
    "org": "Honeycomb.io",
    "location": "Canada Only"
   },
   "sr mgr, software engineering (cribl detect)|cribl|us only": {
    "first_seen": "2026-11-22T06:46:24+00:00",
-   "last_seen": "2026-11-25T04:12:46+00:00",
+   "last_seen": "2026-11-25T14:28:36+00:00",
    "title": "Sr Mgr, Software Engineering (Cribl Detect)",
    "org": "Cribl",
    "location": "US Only"
   },
   "technical solutions engineer|stripe|us only": {
    "first_seen": "2026-11-22T06:46:24+00:00",
-   "last_seen": "2026-11-25T04:12:46+00:00",
+   "last_seen": "2026-11-25T14:28:36+00:00",
    "title": "Technical Solutions Engineer",
    "org": "Stripe",
    "location": "US Only"
   },
   "global account manager, strategics (ny/nj)|everpure|us only": {
    "first_seen": "2026-11-22T06:46:24+00:00",
-   "last_seen": "2026-11-25T04:12:46+00:00",
+   "last_seen": "2026-11-25T14:28:36+00:00",
    "title": "Global Account Manager, Strategics (NY/NJ)",
    "org": "Everpure",
    "location": "US Only"
   },
   "senior pre-sales systems engineer, federal civilian|everpure|us only": {
    "first_seen": "2026-11-22T06:46:24+00:00",
-   "last_seen": "2026-11-25T04:12:46+00:00",
+   "last_seen": "2026-11-25T14:28:36+00:00",
    "title": "Senior Pre-Sales Systems Engineer, Federal Civilian",
    "org": "Everpure",
    "location": "US Only"
@@ -1986,28 +1991,28 @@
   },
   "regional msp partner manager, germany|everpure|europe": {
    "first_seen": "2026-11-22T06:46:24+00:00",
-   "last_seen": "2026-11-25T04:12:46+00:00",
+   "last_seen": "2026-11-25T14:28:36+00:00",
    "title": "Regional MSP Partner Manager, Germany",
    "org": "Everpure",
    "location": "Europe"
   },
   "senior applied ai engineer|wemolo|m\u00e3\u00bcnchen": {
    "first_seen": "2026-11-22T06:46:24+00:00",
-   "last_seen": "2026-11-25T04:12:46+00:00",
+   "last_seen": "2026-11-25T14:28:36+00:00",
    "title": "Senior Applied AI Engineer",
    "org": "Wemolo",
    "location": "M\u00c3\u00bcnchen"
   },
   "strategic account executive, financial services - us central|gitlab|us only": {
    "first_seen": "2026-11-22T06:46:24+00:00",
-   "last_seen": "2026-11-25T04:12:46+00:00",
+   "last_seen": "2026-11-25T14:28:36+00:00",
    "title": "Strategic Account Executive, Financial Services - US Central",
    "org": "GitLab",
    "location": "US Only"
   },
   "new business account executive - nordics|gitlab|emea": {
    "first_seen": "2026-11-22T06:46:24+00:00",
-   "last_seen": "2026-11-25T04:12:46+00:00",
+   "last_seen": "2026-11-25T14:28:36+00:00",
    "title": "New Business Account Executive - Nordics",
    "org": "GitLab",
    "location": "EMEA"
@@ -2021,119 +2026,119 @@
   },
   "deal desk analyst (eastern time zone preferred)|mixpanel|us only": {
    "first_seen": "2026-11-22T15:16:55+00:00",
-   "last_seen": "2026-11-25T04:12:46+00:00",
+   "last_seen": "2026-11-25T14:28:36+00:00",
    "title": "Deal Desk Analyst (Eastern Time Zone Preferred)",
    "org": "Mixpanel",
    "location": "US Only"
   },
   "director, revenue accounting|6sense|us only": {
    "first_seen": "2026-11-22T15:16:55+00:00",
-   "last_seen": "2026-11-25T04:12:46+00:00",
+   "last_seen": "2026-11-25T14:28:36+00:00",
    "title": "Director, Revenue Accounting",
    "org": "6sense",
    "location": "US Only"
   },
   "corporate counsel, commercial|carrot|worldwide": {
    "first_seen": "2026-11-22T15:16:55+00:00",
-   "last_seen": "2026-11-25T04:12:46+00:00",
+   "last_seen": "2026-11-25T14:28:36+00:00",
    "title": "Corporate Counsel, Commercial",
    "org": "Carrot",
    "location": "Worldwide"
   },
   "release strategist, professional services|launchdarkly|us only": {
    "first_seen": "2026-11-22T15:16:55+00:00",
-   "last_seen": "2026-11-25T04:12:46+00:00",
+   "last_seen": "2026-11-25T14:28:36+00:00",
    "title": "Release Strategist, Professional Services",
    "org": "LaunchDarkly",
    "location": "US Only"
   },
   "senior database engineer|bitwarden|us only": {
    "first_seen": "2026-11-22T15:16:55+00:00",
-   "last_seen": "2026-11-25T04:12:46+00:00",
+   "last_seen": "2026-11-25T14:28:36+00:00",
    "title": "Senior Database Engineer",
    "org": "Bitwarden",
    "location": "US Only"
   },
   "staff data scientist - martech platform (ml/algos)|airbnb|us only": {
    "first_seen": "2026-11-22T15:16:55+00:00",
-   "last_seen": "2026-11-25T04:12:46+00:00",
+   "last_seen": "2026-11-25T14:28:36+00:00",
    "title": "Staff Data Scientist - Martech Platform (ML/Algos)",
    "org": "Airbnb",
    "location": "US Only"
   },
   "staff software engineer, agentic tools|cribl|us only": {
    "first_seen": "2026-11-22T15:16:55+00:00",
-   "last_seen": "2026-11-25T04:12:46+00:00",
+   "last_seen": "2026-11-25T14:28:36+00:00",
    "title": "Staff Software Engineer, Agentic Tools",
    "org": "Cribl",
    "location": "US Only"
   },
   "senior software engineer, partner integrations|airbnb|us only": {
    "first_seen": "2026-11-22T15:16:55+00:00",
-   "last_seen": "2026-11-25T04:12:46+00:00",
+   "last_seen": "2026-11-25T14:28:36+00:00",
    "title": "Senior Software Engineer, Partner Integrations",
    "org": "Airbnb",
    "location": "US Only"
   },
   "vice president, storytelling & communications|6sense|us only": {
    "first_seen": "2026-11-22T15:16:55+00:00",
-   "last_seen": "2026-11-25T04:12:46+00:00",
+   "last_seen": "2026-11-25T14:28:36+00:00",
    "title": "Vice President, Storytelling & Communications",
    "org": "6sense",
    "location": "US Only"
   },
   "private practice enablement specialist (pst)|healthie|worldwide": {
    "first_seen": "2026-11-22T15:16:55+00:00",
-   "last_seen": "2026-11-25T04:12:46+00:00",
+   "last_seen": "2026-11-25T14:28:36+00:00",
    "title": "Private Practice Enablement Specialist (PST)",
    "org": "Healthie",
    "location": "Worldwide"
   },
   "product manager, developer ecosystem|reddit|us only": {
    "first_seen": "2026-11-23T02:44:52+00:00",
-   "last_seen": "2026-11-25T04:12:46+00:00",
+   "last_seen": "2026-11-25T14:28:36+00:00",
    "title": "Product Manager, Developer Ecosystem",
    "org": "Reddit",
    "location": "US Only"
   },
   "manager, technical accounting and equity reporting|\u00e5\u008cura|us only": {
    "first_seen": "2026-11-23T02:44:52+00:00",
-   "last_seen": "2026-11-25T04:12:46+00:00",
+   "last_seen": "2026-11-25T14:28:36+00:00",
    "title": "Manager, Technical Accounting and Equity Reporting",
    "org": "\u00c5\u008cURA",
    "location": "US Only"
   },
   "senior sre, site experience|reddit|us only": {
    "first_seen": "2026-11-23T02:44:52+00:00",
-   "last_seen": "2026-11-25T04:12:46+00:00",
+   "last_seen": "2026-11-25T14:28:36+00:00",
    "title": "Senior SRE, Site Experience",
    "org": "Reddit",
    "location": "US Only"
   },
   "senior staff sre, site experience|reddit|us only": {
    "first_seen": "2026-11-23T02:44:52+00:00",
-   "last_seen": "2026-11-25T04:12:46+00:00",
+   "last_seen": "2026-11-25T14:28:36+00:00",
    "title": "Senior Staff SRE, Site Experience",
    "org": "Reddit",
    "location": "US Only"
   },
   "drg inpatient coding validator|clover health|us only": {
    "first_seen": "2026-11-23T02:44:52+00:00",
-   "last_seen": "2026-11-25T04:12:46+00:00",
+   "last_seen": "2026-11-25T14:28:36+00:00",
    "title": "DRG Inpatient Coding Validator",
    "org": "Clover Health",
    "location": "US Only"
   },
   "drg validation auditor|clover health|us only": {
    "first_seen": "2026-11-23T02:44:52+00:00",
-   "last_seen": "2026-11-25T04:12:46+00:00",
+   "last_seen": "2026-11-25T14:28:36+00:00",
    "title": "DRG Validation Auditor",
    "org": "Clover Health",
    "location": "US Only"
   },
   "sr. forward deployed data engineer|natera|us only": {
    "first_seen": "2026-11-23T02:44:52+00:00",
-   "last_seen": "2026-11-25T04:12:46+00:00",
+   "last_seen": "2026-11-25T14:28:36+00:00",
    "title": "Sr. Forward Deployed Data Engineer",
    "org": "Natera",
    "location": "US Only"
@@ -2154,115 +2159,241 @@
   },
   "senior clinical trials systems manager|natera|us only": {
    "first_seen": "2026-11-23T02:44:52+00:00",
-   "last_seen": "2026-11-25T04:12:46+00:00",
+   "last_seen": "2026-11-25T14:28:36+00:00",
    "title": "Senior Clinical Trials Systems Manager",
    "org": "Natera",
    "location": "US Only"
   },
   "supv, prior authorization|natera|us only": {
    "first_seen": "2026-11-23T02:44:52+00:00",
-   "last_seen": "2026-11-25T04:12:46+00:00",
+   "last_seen": "2026-11-25T14:28:36+00:00",
    "title": "Supv, Prior Authorization",
    "org": "Natera",
    "location": "US Only"
   },
   "business development representative, sled - west|gitlab|us only": {
    "first_seen": "2026-11-23T02:44:52+00:00",
-   "last_seen": "2026-11-25T04:12:46+00:00",
+   "last_seen": "2026-11-25T14:28:36+00:00",
    "title": "Business Development Representative, SLED - West",
    "org": "GitLab",
    "location": "US Only"
   },
   "regional sales director, canada|gitlab|canada only": {
    "first_seen": "2026-11-23T02:44:52+00:00",
-   "last_seen": "2026-11-25T04:12:46+00:00",
+   "last_seen": "2026-11-25T14:28:36+00:00",
    "title": "Regional Sales Director, Canada",
    "org": "GitLab",
    "location": "Canada Only"
   },
   "strategic account executive - spain|gitlab|europe": {
    "first_seen": "2026-11-23T02:44:52+00:00",
-   "last_seen": "2026-11-25T04:12:46+00:00",
+   "last_seen": "2026-11-25T14:28:36+00:00",
    "title": "Strategic Account Executive - Spain",
    "org": "GitLab",
    "location": "Europe"
   },
   "threat research engineer, security factory: threat research|gitlab|emea": {
    "first_seen": "2026-11-24T00:50:41+00:00",
-   "last_seen": "2026-11-25T04:12:46+00:00",
+   "last_seen": "2026-11-25T14:28:36+00:00",
    "title": "Threat Research Engineer, Security Factory: Threat Research",
    "org": "GitLab",
    "location": "EMEA"
   },
   "staff backend engineer, performance enablement|gitlab|europe": {
    "first_seen": "2026-11-24T00:50:41+00:00",
-   "last_seen": "2026-11-25T04:12:46+00:00",
+   "last_seen": "2026-11-25T14:28:36+00:00",
    "title": "Staff Backend Engineer, Performance Enablement",
    "org": "GitLab",
    "location": "Europe"
   },
   "renewals manager - latam|gitlab|latin america": {
    "first_seen": "2026-11-24T00:50:41+00:00",
-   "last_seen": "2026-11-25T04:12:46+00:00",
+   "last_seen": "2026-11-25T14:28:36+00:00",
    "title": "Renewals Manager - LATAM",
    "org": "GitLab",
    "location": "Latin America"
   },
   "senior software engineer, agentic ai|clover health|us only": {
    "first_seen": "2026-11-24T10:54:59+00:00",
-   "last_seen": "2026-11-25T04:12:46+00:00",
+   "last_seen": "2026-11-25T14:28:36+00:00",
    "title": "Senior Software Engineer, Agentic AI",
    "org": "Clover Health",
    "location": "US Only"
   },
   "senior software developer, agentic ai - canada|clover health|canada only": {
    "first_seen": "2026-11-24T10:54:59+00:00",
-   "last_seen": "2026-11-25T04:12:46+00:00",
+   "last_seen": "2026-11-25T14:28:36+00:00",
    "title": "Senior Software Developer, Agentic AI - Canada",
    "org": "Clover Health",
    "location": "Canada Only"
   },
   "strategic technical advisor|thrive|remote": {
    "first_seen": "2026-11-24T21:11:14+00:00",
-   "last_seen": "2026-11-25T04:12:46+00:00",
+   "last_seen": "2026-11-25T14:28:36+00:00",
    "title": "Strategic Technical Advisor",
    "org": "Thrive",
    "location": "remote"
   },
   "senior manager, enterprise application development engineering|gitlab|us only": {
    "first_seen": "2026-11-25T04:12:46+00:00",
-   "last_seen": "2026-11-25T04:12:46+00:00",
+   "last_seen": "2026-11-25T14:28:36+00:00",
    "title": "Senior Manager, Enterprise Application Development Engineering",
    "org": "GitLab",
    "location": "US Only"
   },
   "real estate executive assistant 21370|wing assistant|philippines": {
    "first_seen": "2026-11-25T04:12:46+00:00",
-   "last_seen": "2026-11-25T04:12:46+00:00",
+   "last_seen": "2026-11-25T14:28:36+00:00",
    "title": "Real Estate Executive Assistant 21370",
    "org": "Wing Assistant",
    "location": "Philippines"
   },
   "senior tax associate|real remax group|newark": {
    "first_seen": "2026-11-25T04:12:46+00:00",
-   "last_seen": "2026-11-25T04:12:46+00:00",
+   "last_seen": "2026-11-25T14:28:36+00:00",
    "title": "Senior Tax Associate",
    "org": "Real REMAX Group",
    "location": "Newark"
   },
   "revenue operations manager|gitlab|us only": {
    "first_seen": "2026-11-25T04:12:46+00:00",
-   "last_seen": "2026-11-25T04:12:46+00:00",
+   "last_seen": "2026-11-25T14:28:36+00:00",
    "title": "Revenue Operations Manager",
    "org": "GitLab",
    "location": "US Only"
   },
   "senior cx platform engineer|gitlab|canada only": {
    "first_seen": "2026-11-25T04:12:46+00:00",
-   "last_seen": "2026-11-25T04:12:46+00:00",
+   "last_seen": "2026-11-25T14:28:36+00:00",
    "title": "Senior CX Platform Engineer",
    "org": "GitLab",
    "location": "Canada Only"
+  },
+  "senior global partner specialist - usa|storyblok|worldwide": {
+   "first_seen": "2026-11-25T14:28:36+00:00",
+   "last_seen": "2026-11-25T14:28:36+00:00",
+   "title": "Senior Global Partner Specialist - USA",
+   "org": "Storyblok",
+   "location": "Worldwide"
+  },
+  "senior corporate accountant - tax|salesloft|us only": {
+   "first_seen": "2026-11-25T14:28:36+00:00",
+   "last_seen": "2026-11-25T14:28:36+00:00",
+   "title": "Senior Corporate Accountant - Tax",
+   "org": "Salesloft",
+   "location": "US Only"
+  },
+  "sr ehr implementation manager|natera|us only": {
+   "first_seen": "2026-11-25T14:28:36+00:00",
+   "last_seen": "2026-11-25T14:28:36+00:00",
+   "title": "Sr EHR Implementation Manager",
+   "org": "Natera",
+   "location": "US Only"
+  },
+  "regional vice president, biddable|doximity|us only": {
+   "first_seen": "2026-11-25T14:28:36+00:00",
+   "last_seen": "2026-11-25T14:28:36+00:00",
+   "title": "Regional Vice President, Biddable",
+   "org": "Doximity",
+   "location": "US Only"
+  },
+  "security engineer, offensive security|dropbox|north america": {
+   "first_seen": "2026-11-25T14:28:36+00:00",
+   "last_seen": "2026-11-25T14:28:36+00:00",
+   "title": "Security Engineer, Offensive Security",
+   "org": "Dropbox",
+   "location": "North America"
+  },
+  "principal software engineer|ping identity|us only": {
+   "first_seen": "2026-11-25T14:28:36+00:00",
+   "last_seen": "2026-11-25T14:28:36+00:00",
+   "title": "Principal Software Engineer",
+   "org": "Ping Identity",
+   "location": "US Only"
+  },
+  "senior software engineer, ai & science platform|reddit|us only": {
+   "first_seen": "2026-11-25T14:28:36+00:00",
+   "last_seen": "2026-11-25T14:28:36+00:00",
+   "title": "Senior Software Engineer, AI & Science Platform",
+   "org": "Reddit",
+   "location": "US Only"
+  },
+  "staff software engineer, control plane|cribl|us only": {
+   "first_seen": "2026-11-25T14:28:36+00:00",
+   "last_seen": "2026-11-25T14:28:36+00:00",
+   "title": "Staff Software Engineer, Control Plane",
+   "org": "Cribl",
+   "location": "US Only"
+  },
+  "senior web engineer, profile & community|airbnb|us only": {
+   "first_seen": "2026-11-25T14:28:36+00:00",
+   "last_seen": "2026-11-25T14:28:36+00:00",
+   "title": "Senior Web Engineer, Profile & Community",
+   "org": "Airbnb",
+   "location": "US Only"
+  },
+  "associate, payment integrity|oscar health|worldwide": {
+   "first_seen": "2026-11-25T14:28:36+00:00",
+   "last_seen": "2026-11-25T14:28:36+00:00",
+   "title": "Associate, Payment Integrity",
+   "org": "Oscar Health",
+   "location": "Worldwide"
+  },
+  "district manager, enterprise - healthcare (southeast)|everpure|us only": {
+   "first_seen": "2026-11-25T14:28:36+00:00",
+   "last_seen": "2026-11-25T14:28:36+00:00",
+   "title": "District Manager, Enterprise - Healthcare (Southeast)",
+   "org": "Everpure",
+   "location": "US Only"
+  },
+  "senior account executive - saas industrials|salsify|us only": {
+   "first_seen": "2026-11-25T14:28:36+00:00",
+   "last_seen": "2026-11-25T14:28:36+00:00",
+   "title": "Senior Account Executive - SaaS Industrials",
+   "org": "Salsify",
+   "location": "US Only"
+  },
+  "partner sales manager (hindi speaking) - singapore|dropbox|asia": {
+   "first_seen": "2026-11-25T14:28:36+00:00",
+   "last_seen": "2026-11-25T14:28:36+00:00",
+   "title": "Partner Sales Manager (Hindi Speaking) - Singapore",
+   "org": "Dropbox",
+   "location": "Asia"
+  },
+  "sr. account executive, ai & hpc|everpure|us only": {
+   "first_seen": "2026-11-25T14:28:36+00:00",
+   "last_seen": "2026-11-25T14:28:36+00:00",
+   "title": "Sr. Account Executive, AI & HPC",
+   "org": "Everpure",
+   "location": "US Only"
+  },
+  "director, product marketing (contractor)|glossier|us only": {
+   "first_seen": "2026-11-25T14:28:36+00:00",
+   "last_seen": "2026-11-25T14:28:36+00:00",
+   "title": "Director, Product Marketing (Contractor)",
+   "org": "Glossier",
+   "location": "US Only"
+  },
+  "portfolio customer success manager|lastpass|canada only": {
+   "first_seen": "2026-11-25T14:28:36+00:00",
+   "last_seen": "2026-11-25T14:28:36+00:00",
+   "title": "Portfolio Customer Success Manager",
+   "org": "LastPass",
+   "location": "Canada Only"
+  },
+  "region head, asia|dropbox|asia": {
+   "first_seen": "2026-11-25T14:28:36+00:00",
+   "last_seen": "2026-11-25T14:28:36+00:00",
+   "title": "Region Head, Asia",
+   "org": "Dropbox",
+   "location": "Asia"
+  },
+  "revenue operations analyst|augment|remote": {
+   "first_seen": "2026-11-25T14:28:36+00:00",
+   "last_seen": "2026-11-25T14:28:36+00:00",
+   "title": "Revenue Operations Analyst",
+   "org": "Augment",
+   "location": "remote"
   }
  }
 }

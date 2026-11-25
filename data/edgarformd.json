@@ -3,9 +3,9 @@
  "name": "SEC EDGAR \u2014 new private funding rounds (Form D, 7 days)",
  "category": "funding",
  "source": "https://efts.sec.gov/LATEST/search-index",
- "collected_at": "2026-11-25T04:12:49+00:00",
+ "collected_at": "2026-11-25T14:28:44+00:00",
  "jobs_on_board": 14,
- "new_this_run": 3,
+ "new_this_run": 0,
  "total_tracked": 27,
  "jobs": [
   {
@@ -14,7 +14,7 @@
    "location": "Encinitas, CA",
    "detail": "SEC Form D \u00b7 filed 2026-11-24",
    "url": "https://www.sec.gov/Archives/edgar/data/2166927/000216692726000001/0002166927-26-000001-index.htm",
-   "new_this_run": true
+   "new_this_run": false
   },
   {
    "title": "Fairly Inc./WY raised (Form D)",
@@ -62,7 +62,7 @@
    "location": "Kirkland, WA",
    "detail": "SEC Form D \u00b7 filed 2026-11-24",
    "url": "https://www.sec.gov/Archives/edgar/data/1512803/000151280326000001/0001512803-26-000001-index.htm",
-   "new_this_run": true
+   "new_this_run": false
   },
   {
    "title": "American Atomics Inc. raised (Form D)",
@@ -78,7 +78,7 @@
    "location": "Toronto",
    "detail": "SEC Form D \u00b7 filed 2026-11-24",
    "url": "https://www.sec.gov/Archives/edgar/data/2159202/000149315226054043/0001493152-26-054043-index.htm",
-   "new_this_run": true
+   "new_this_run": false
   },
   {
    "title": "Godspeed Capital Fund IV (Parallel) LP raised (Form D)",
@@ -280,6 +280,11 @@
    "at": "2026-11-25T04:12:49+00:00",
    "jobs": 14,
    "new": 3
+  },
+  {
+   "at": "2026-11-25T14:28:44+00:00",
+   "jobs": 14,
+   "new": 0
   }
  ],
  "jobs_seen": {
@@ -376,98 +381,98 @@
   },
   "vesalius longevity labs inc. raised (form d)|vesalius longevity labs inc.|vancouver": {
    "first_seen": "2026-11-18T21:56:26+00:00",
-   "last_seen": "2026-11-25T04:12:49+00:00",
+   "last_seen": "2026-11-25T14:28:44+00:00",
    "title": "Vesalius Longevity Labs Inc. raised (Form D)",
    "org": "Vesalius Longevity Labs Inc.",
    "location": "Vancouver"
   },
   "international environmental standards, pbc raised (form d)|international environmental standards, pbc|denver, co": {
    "first_seen": "2026-11-19T21:33:38+00:00",
-   "last_seen": "2026-11-25T04:12:49+00:00",
+   "last_seen": "2026-11-25T14:28:44+00:00",
    "title": "International Environmental Standards, PBC raised (Form D)",
    "org": "International Environmental Standards, PBC",
    "location": "Denver, CO"
   },
   "rochefort virtus 9 co-investment fund lp raised (form d)|rochefort virtus 9 co-investment fund lp|west palm beach, fl": {
    "first_seen": "2026-11-19T21:33:38+00:00",
-   "last_seen": "2026-11-25T04:12:49+00:00",
+   "last_seen": "2026-11-25T14:28:44+00:00",
    "title": "Rochefort Virtus 9 Co-Investment Fund LP raised (Form D)",
    "org": "Rochefort Virtus 9 Co-Investment Fund LP",
    "location": "West Palm Beach, FL"
   },
   "extend enterprises, inc. raised (form d)|extend enterprises, inc.|new york, ny": {
    "first_seen": "2026-11-19T21:33:38+00:00",
-   "last_seen": "2026-11-25T04:12:49+00:00",
+   "last_seen": "2026-11-25T14:28:44+00:00",
    "title": "Extend Enterprises, Inc. raised (Form D)",
    "org": "Extend Enterprises, Inc.",
    "location": "New York, NY"
   },
   "peachtree credit fund iv, lp raised (form d)|peachtree credit fund iv, lp|atlanta, ga": {
    "first_seen": "2026-11-19T21:33:38+00:00",
-   "last_seen": "2026-11-25T04:12:49+00:00",
+   "last_seen": "2026-11-25T14:28:44+00:00",
    "title": "Peachtree Credit Fund IV, LP raised (Form D)",
    "org": "Peachtree Credit Fund IV, LP",
    "location": "Atlanta, GA"
   },
   "godspeed capital fund iv (parallel) lp raised (form d)|godspeed capital fund iv (parallel) lp|washington, dc": {
    "first_seen": "2026-11-20T03:14:18+00:00",
-   "last_seen": "2026-11-25T04:12:49+00:00",
+   "last_seen": "2026-11-25T14:28:44+00:00",
    "title": "Godspeed Capital Fund IV (Parallel) LP raised (Form D)",
    "org": "Godspeed Capital Fund IV (Parallel) LP",
    "location": "Washington, DC"
   },
   "godspeed capital fund iv lp raised (form d)|godspeed capital fund iv lp|washington, dc": {
    "first_seen": "2026-11-20T03:14:18+00:00",
-   "last_seen": "2026-11-25T04:12:49+00:00",
+   "last_seen": "2026-11-25T14:28:44+00:00",
    "title": "Godspeed Capital Fund IV LP raised (Form D)",
    "org": "Godspeed Capital Fund IV LP",
    "location": "Washington, DC"
   },
   "fairly inc./wy raised (form d)|fairly inc./wy|portland, or": {
    "first_seen": "2026-11-20T11:50:17+00:00",
-   "last_seen": "2026-11-25T04:12:49+00:00",
+   "last_seen": "2026-11-25T14:28:44+00:00",
    "title": "Fairly Inc./WY raised (Form D)",
    "org": "Fairly Inc./WY",
    "location": "Portland, OR"
   },
   "uield inc raised (form d)|uield inc|seattle, wa": {
    "first_seen": "2026-11-20T11:50:17+00:00",
-   "last_seen": "2026-11-25T04:12:49+00:00",
+   "last_seen": "2026-11-25T14:28:44+00:00",
    "title": "UIELD Inc raised (Form D)",
    "org": "UIELD Inc",
    "location": "Seattle, WA"
   },
   "3g langtry fund 3, llc raised (form d)|3g langtry fund 3, llc|san francisco, ca": {
    "first_seen": "2026-11-24T00:50:45+00:00",
-   "last_seen": "2026-11-25T04:12:49+00:00",
+   "last_seen": "2026-11-25T14:28:44+00:00",
    "title": "3G Langtry Fund 3, LLC raised (Form D)",
    "org": "3G Langtry Fund 3, LLC",
    "location": "San Francisco, CA"
   },
   "american atomics inc. raised (form d)|american atomics inc.|vancouver": {
    "first_seen": "2026-11-24T21:11:18+00:00",
-   "last_seen": "2026-11-25T04:12:49+00:00",
+   "last_seen": "2026-11-25T14:28:44+00:00",
    "title": "American Atomics Inc. raised (Form D)",
    "org": "American Atomics Inc.",
    "location": "Vancouver"
   },
   "bebemos inc. raised (form d)|bebemos inc.|encinitas, ca": {
    "first_seen": "2026-11-25T04:12:49+00:00",
-   "last_seen": "2026-11-25T04:12:49+00:00",
+   "last_seen": "2026-11-25T14:28:44+00:00",
    "title": "Bebemos Inc. raised (Form D)",
    "org": "Bebemos Inc.",
    "location": "Encinitas, CA"
   },
   "rain city capital, llc raised (form d)|rain city capital, llc|kirkland, wa": {
    "first_seen": "2026-11-25T04:12:49+00:00",
-   "last_seen": "2026-11-25T04:12:49+00:00",
+   "last_seen": "2026-11-25T14:28:44+00:00",
    "title": "Rain City Capital, LLC raised (Form D)",
    "org": "Rain City Capital, LLC",
    "location": "Kirkland, WA"
   },
   "vimy pharmaceuticals corp. raised (form d)|vimy pharmaceuticals corp.|toronto": {
    "first_seen": "2026-11-25T04:12:49+00:00",
-   "last_seen": "2026-11-25T04:12:49+00:00",
+   "last_seen": "2026-11-25T14:28:44+00:00",
    "title": "Vimy Pharmaceuticals Corp. raised (Form D)",
    "org": "Vimy Pharmaceuticals Corp.",
    "location": "Toronto"

@@ -3,104 +3,104 @@
  "name": "Himalayas \u2014 remote jobs",
  "category": "jobs",
  "source": "https://himalayas.app/jobs/api",
- "collected_at": "2026-11-25T04:12:46+00:00",
+ "collected_at": "2026-11-25T14:28:38+00:00",
  "jobs_on_board": 20,
  "new_this_run": 20,
- "total_tracked": 655,
+ "total_tracked": 675,
  "jobs": [
   {
-   "title": "QA Engineer (Salesforce)",
-   "org": "Dfbooking Recruitment Services",
+   "title": "Sr. Channel Manager",
+   "org": "Dropzone AI",
    "location": "United States",
-   "detail": "Full Time",
+   "detail": "$120,000\u2013$150,000/a",
    "url": null,
    "new_this_run": true
   },
   {
-   "title": "Software Development Engineer IV - Windows Instrumentation and Automation",
-   "org": "Bruker",
+   "title": "Staff Performance & Reliability Engineer",
+   "org": "Domino Data Lab",
    "location": "United States",
-   "detail": "$107,100\u2013$190,000/a",
+   "detail": "$185,000\u2013$210,000/a",
    "url": null,
    "new_this_run": true
   },
   {
-   "title": "Freelance of vast - Specialist MSAT Resource Management - Pharma - Beerse",
-   "org": "EngiFlex",
-   "location": "Belgium",
+   "title": "Senior Enterprise Account Executive - Indiana",
+   "org": "Harness",
+   "location": "United States",
+   "detail": "$150,000\u2013$162,500/a",
+   "url": null,
+   "new_this_run": true
+  },
+  {
+   "title": "Customer Support Specialist (Bilingual/Spanish)",
+   "org": "Super Dispatch",
+   "location": "United States",
+   "detail": "$45,000\u2013$50,000/a",
+   "url": null,
+   "new_this_run": true
+  },
+  {
+   "title": "QA Analyst",
+   "org": "Digital United",
+   "location": "United States",
+   "detail": "$60,000\u2013$75,000/a",
+   "url": null,
+   "new_this_run": true
+  },
+  {
+   "title": "MSK Teletherapy Physical Therapist / PTA \u2014 Long Beach, CA",
+   "org": "PeteHealth",
+   "location": "United States",
    "detail": "Contractor",
    "url": null,
    "new_this_run": true
   },
   {
-   "title": "Audio Engineer - Fully Remote | Upto $15/hr",
-   "org": "mercor",
-   "location": "United Kingdom",
-   "detail": "$15\u2013$15/h",
-   "url": null,
-   "new_this_run": true
-  },
-  {
-   "title": "Regional Data Center Practice Leader",
-   "org": "Geosyntec Consultants",
+   "title": "RVP of Sales, Strategic",
+   "org": "Hyro",
    "location": "United States",
    "detail": "Full Time",
    "url": null,
    "new_this_run": true
   },
   {
-   "title": "Senior iOS Developer (SwiftUI)",
-   "org": "AccelOne",
-   "location": "Anguilla, Antigua and Barbuda, Argentina, Aruba, Bahamas, Barbados, Belize, Bermuda, Bolivia, Bonaire, Sint Eustatius and Saba, Brazil, Cayman Islands, Chile, Colombia, Costa Rica, Cuba, Dominica, Dominican Republic, Ecuador, El Salvador, F",
-   "detail": "Contractor",
+   "title": "Manager, GTM Engineering (TAM & Outbound)",
+   "org": "Tebra",
+   "location": "United States",
+   "detail": "$142,000\u2013$160,000/a",
    "url": null,
    "new_this_run": true
   },
   {
-   "title": "MDM Tester",
-   "org": "Marlabs Inc.",
+   "title": "Regional Sales Director - Prostate Specialty",
+   "org": "Axogen",
    "location": "United States",
+   "detail": "$135,000\u2013$135,000/a",
+   "url": null,
+   "new_this_run": true
+  },
+  {
+   "title": "Sr Account Executive - VIP Segment",
+   "org": "albo",
+   "location": "Mexico",
    "detail": "Full Time",
    "url": null,
    "new_this_run": true
   },
   {
-   "title": "Director of Operations / Senior Operations Manager",
-   "org": "Remote Employee PH",
-   "location": "Philippines",
+   "title": "Senior Manager, Market Access & Government Affairs, Oncology, Quebec & Atlantic",
+   "org": "AbbVie",
+   "location": "Canada",
    "detail": "Full Time",
    "url": null,
    "new_this_run": true
   },
   {
-   "title": "Associate Key Account Director",
-   "org": "Lifelancer",
+   "title": "Senior Azure Engineer",
+   "org": "Bright Vision Technologies",
    "location": "United States",
-   "detail": "$89,900\u2013$250,400/a",
-   "url": null,
-   "new_this_run": true
-  },
-  {
-   "title": "Administrative Logistics Specialist",
-   "org": "Sourcefit",
-   "location": "Philippines",
-   "detail": "Full Time",
-   "url": null,
-   "new_this_run": true
-  },
-  {
-   "title": "UX/UI Designer (1 day per week contract)",
-   "org": "Trideca",
-   "location": "Australia",
-   "detail": "Contractor",
-   "url": null,
-   "new_this_run": true
-  },
-  {
-   "title": "Summer Internship | NextGen Marketing",
-   "org": "LifeWay Christian Resources",
-   "location": "United States",
-   "detail": "Intern",
+   "detail": "$115,000\u2013$165,000/a",
    "url": null,
    "new_this_run": true
   }
@@ -278,6 +278,11 @@
   },
   {
    "at": "2026-11-25T04:12:46+00:00",
+   "jobs": 20,
+   "new": 20
+  },
+  {
+   "at": "2026-11-25T14:28:38+00:00",
    "jobs": 20,
    "new": 20
   }
@@ -4867,6 +4872,146 @@
    "title": "Head of Freight Brokerage (US Market)",
    "org": "United Fleet Corp",
    "location": "United States"
+  },
+  "sr. channel manager|dropzone ai|united states": {
+   "first_seen": "2026-11-25T14:28:38+00:00",
+   "last_seen": "2026-11-25T14:28:38+00:00",
+   "title": "Sr. Channel Manager",
+   "org": "Dropzone AI",
+   "location": "United States"
+  },
+  "staff performance & reliability engineer|domino data lab|united states": {
+   "first_seen": "2026-11-25T14:28:38+00:00",
+   "last_seen": "2026-11-25T14:28:38+00:00",
+   "title": "Staff Performance & Reliability Engineer",
+   "org": "Domino Data Lab",
+   "location": "United States"
+  },
+  "senior enterprise account executive - indiana|harness|united states": {
+   "first_seen": "2026-11-25T14:28:38+00:00",
+   "last_seen": "2026-11-25T14:28:38+00:00",
+   "title": "Senior Enterprise Account Executive - Indiana",
+   "org": "Harness",
+   "location": "United States"
+  },
+  "customer support specialist (bilingual/spanish)|super dispatch|united states": {
+   "first_seen": "2026-11-25T14:28:38+00:00",
+   "last_seen": "2026-11-25T14:28:38+00:00",
+   "title": "Customer Support Specialist (Bilingual/Spanish)",
+   "org": "Super Dispatch",
+   "location": "United States"
+  },
+  "qa analyst|digital united|united states": {
+   "first_seen": "2026-11-25T14:28:38+00:00",
+   "last_seen": "2026-11-25T14:28:38+00:00",
+   "title": "QA Analyst",
+   "org": "Digital United",
+   "location": "United States"
+  },
+  "msk teletherapy physical therapist / pta \u2014 long beach, ca|petehealth|united states": {
+   "first_seen": "2026-11-25T14:28:38+00:00",
+   "last_seen": "2026-11-25T14:28:38+00:00",
+   "title": "MSK Teletherapy Physical Therapist / PTA \u2014 Long Beach, CA",
+   "org": "PeteHealth",
+   "location": "United States"
+  },
+  "rvp of sales, strategic|hyro|united states": {
+   "first_seen": "2026-11-25T14:28:38+00:00",
+   "last_seen": "2026-11-25T14:28:38+00:00",
+   "title": "RVP of Sales, Strategic",
+   "org": "Hyro",
+   "location": "United States"
+  },
+  "manager, gtm engineering (tam & outbound)|tebra|united states": {
+   "first_seen": "2026-11-25T14:28:38+00:00",
+   "last_seen": "2026-11-25T14:28:38+00:00",
+   "title": "Manager, GTM Engineering (TAM & Outbound)",
+   "org": "Tebra",
+   "location": "United States"
+  },
+  "regional sales director - prostate specialty|axogen|united states": {
+   "first_seen": "2026-11-25T14:28:38+00:00",
+   "last_seen": "2026-11-25T14:28:38+00:00",
+   "title": "Regional Sales Director - Prostate Specialty",
+   "org": "Axogen",
+   "location": "United States"
+  },
+  "sr account executive - vip segment|albo|mexico": {
+   "first_seen": "2026-11-25T14:28:38+00:00",
+   "last_seen": "2026-11-25T14:28:38+00:00",
+   "title": "Sr Account Executive - VIP Segment",
+   "org": "albo",
+   "location": "Mexico"
+  },
+  "senior manager, market access & government affairs, oncology, quebec & atlantic|abbvie|canada": {
+   "first_seen": "2026-11-25T14:28:38+00:00",
+   "last_seen": "2026-11-25T14:28:38+00:00",
+   "title": "Senior Manager, Market Access & Government Affairs, Oncology, Quebec & Atlantic",
+   "org": "AbbVie",
+   "location": "Canada"
+  },
+  "senior azure engineer|bright vision technologies|united states": {
+   "first_seen": "2026-11-25T14:28:38+00:00",
+   "last_seen": "2026-11-25T14:28:38+00:00",
+   "title": "Senior Azure Engineer",
+   "org": "Bright Vision Technologies",
+   "location": "United States"
+  },
+  "remote telemedicine physician \u2013 men's hormone specialist (md/do)|hone health|united states": {
+   "first_seen": "2026-11-25T14:28:38+00:00",
+   "last_seen": "2026-11-25T14:28:38+00:00",
+   "title": "Remote Telemedicine Physician \u2013 Men's Hormone Specialist (MD/DO)",
+   "org": "Hone Health",
+   "location": "United States"
+  },
+  "senior jira administrator|canonical|afghanistan, albania, algeria, andorra, angola, antarctica, armenia, austria, azerbaijan, bahrain, belarus, belgium, ben": {
+   "first_seen": "2026-11-25T14:28:38+00:00",
+   "last_seen": "2026-11-25T14:28:38+00:00",
+   "title": "Senior Jira Administrator",
+   "org": "Canonical",
+   "location": "Afghanistan, Albania, Algeria, Andorra, Angola, Antarctica, Armenia, Austria, Azerbaijan, Bahrain, Belarus, Belgium, Benin, Bosnia and Herzegovina, Botswana, Bouvet Island, Bulgaria, Burkina Faso, Burundi, Cabo Verde, Cameroon, Central Afri"
+  },
+  "senior executive assistant, office of the cro (est / cst)|gitlab|united states": {
+   "first_seen": "2026-11-25T14:28:38+00:00",
+   "last_seen": "2026-11-25T14:28:38+00:00",
+   "title": "Senior Executive Assistant, Office of the CRO (EST / CST)",
+   "org": "GitLab",
+   "location": "United States"
+  },
+  "enterprise customer success manager, eu and eastern us (london or u.s. remote)|fusionauth|united kingdom, united states": {
+   "first_seen": "2026-11-25T14:28:38+00:00",
+   "last_seen": "2026-11-25T14:28:38+00:00",
+   "title": "Enterprise Customer Success Manager, EU and Eastern US (London or U.S. remote)",
+   "org": "FusionAuth",
+   "location": "United Kingdom, United States"
+  },
+  "senior machine learning engineer, ai safety evaluations|nvidia|united states": {
+   "first_seen": "2026-11-25T14:28:38+00:00",
+   "last_seen": "2026-11-25T14:28:38+00:00",
+   "title": "Senior Machine Learning Engineer, AI Safety Evaluations",
+   "org": "NVIDIA",
+   "location": "United States"
+  },
+  "operations team lead, field services|servicelink|united states": {
+   "first_seen": "2026-11-25T14:28:38+00:00",
+   "last_seen": "2026-11-25T14:28:38+00:00",
+   "title": "Operations Team Lead, Field Services",
+   "org": "ServiceLink",
+   "location": "United States"
+  },
+  "training isd senior consultant|guidehouse|united states": {
+   "first_seen": "2026-11-25T14:28:38+00:00",
+   "last_seen": "2026-11-25T14:28:38+00:00",
+   "title": "Training ISD Senior Consultant",
+   "org": "Guidehouse",
+   "location": "United States"
+  },
+  "senior software developer, agentic ai - canada|clover health|canada": {
+   "first_seen": "2026-11-25T14:28:38+00:00",
+   "last_seen": "2026-11-25T14:28:38+00:00",
+   "title": "Senior Software Developer, Agentic AI - Canada",
+   "org": "Clover Health",
+   "location": "Canada"
   }
  }
 }
