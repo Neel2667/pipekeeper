@@ -3,105 +3,105 @@
  "name": "Jobicy \u2014 remote jobs",
  "category": "jobs",
  "source": "https://jobicy.com/api/v2/remote-jobs",
- "collected_at": "2026-11-25T14:28:37+00:00",
+ "collected_at": "2026-11-25T23:36:50+00:00",
  "jobs_on_board": 50,
  "new_this_run": 50,
- "total_tracked": 1103,
+ "total_tracked": 1153,
  "jobs": [
   {
-   "title": "Head of Financial Planning & Analysis",
-   "org": "NetBox Labs",
-   "location": "USA",
-   "detail": "Director",
-   "url": "https://jobicy.com/jobs/164223-head-of-financial-planning-analysis",
-   "new_this_run": true
-  },
-  {
-   "title": "Senior Manager, Sales Technology & AI Enablement",
-   "org": "Axiom",
-   "location": "USA",
-   "detail": "Director",
-   "url": "https://jobicy.com/jobs/164222-senior-manager-sales-technology-ai-enablement",
-   "new_this_run": true
-  },
-  {
-   "title": "Senior Field Hardware Engineer",
-   "org": "Geotab",
-   "location": "USA",
-   "detail": "Senior",
-   "url": "https://jobicy.com/jobs/164221-senior-field-hardware-engineer",
-   "new_this_run": true
-  },
-  {
-   "title": "Solutions Consultant",
+   "title": "Deployment Associate - Accounting Solutions",
    "org": "Rillet",
    "location": "USA",
-   "detail": "Any",
-   "url": "https://jobicy.com/jobs/164220-solutions-consultant-2",
+   "detail": "Senior",
+   "url": "https://jobicy.com/jobs/164315-deployment-associate-accounting-solutions",
    "new_this_run": true
   },
   {
-   "title": "Business Development Representative (North America)",
-   "org": "Filigran",
+   "title": "Senior Product Manager I, Expert Apply",
+   "org": "BOLD",
    "location": "USA",
    "detail": "Senior",
-   "url": "https://jobicy.com/jobs/164219-business-development-representative-north-america",
+   "url": "https://jobicy.com/jobs/164314-senior-product-manager-i-expert-apply",
    "new_this_run": true
   },
   {
-   "title": "HR Business Partner",
-   "org": "KnowBe4, Inc.",
-   "location": "USA",
-   "detail": "Director",
-   "url": "https://jobicy.com/jobs/164218-hr-business-partner-3",
-   "new_this_run": true
-  },
-  {
-   "title": "Manager, Customer Success",
-   "org": "UpCodes",
+   "title": "Physician Assistant (PA) Admissions Consultant",
+   "org": "Inspira Education",
    "location": "Canada, USA",
-   "detail": "Senior",
-   "url": "https://jobicy.com/jobs/164217-manager-customer-success-5",
+   "detail": "Any",
+   "url": "https://jobicy.com/jobs/164313-physician-assistant-pa-admissions-consultant",
    "new_this_run": true
   },
   {
-   "title": "Staff Software Engineer, Tech Lead - NetBox Core",
-   "org": "NetBox Labs",
-   "location": "USA",
-   "detail": "Senior",
-   "url": "https://jobicy.com/jobs/164216-staff-software-engineer-tech-lead-netbox-core",
-   "new_this_run": true
-  },
-  {
-   "title": "Marketing Programs Associate",
-   "org": "Axiom",
-   "location": "USA",
-   "detail": "Senior",
-   "url": "https://jobicy.com/jobs/164215-marketing-programs-associate",
-   "new_this_run": true
-  },
-  {
-   "title": "Deployment Lead - Accounting Solutions",
+   "title": "Deployment Lead - ERP Solutions",
    "org": "Rillet",
    "location": "USA",
    "detail": "Senior",
-   "url": "https://jobicy.com/jobs/164214-deployment-lead-accounting-solutions",
+   "url": "https://jobicy.com/jobs/164312-deployment-lead-erp-solutions",
    "new_this_run": true
   },
   {
-   "title": "Enterprise Sales Executive, Banking, Financial Services and Insurance",
-   "org": "Toptal",
-   "location": "Canada",
+   "title": "Senior Data Scientist, Product Analytics",
+   "org": "BOLD",
+   "location": "USA",
    "detail": "Director",
-   "url": "https://jobicy.com/jobs/157023-enterprise-sales-executive-banking-financial-services-and-insurance",
+   "url": "https://jobicy.com/jobs/164311-senior-data-scientist-product-analytics",
    "new_this_run": true
   },
   {
-   "title": "Sr. Account Manager - Health Plans",
-   "org": "H1",
+   "title": "Customer Experience Associate",
+   "org": "Peerspace",
    "location": "USA",
    "detail": "Senior",
-   "url": "https://jobicy.com/jobs/157006-sr-account-manager-health-plans",
+   "url": "https://jobicy.com/jobs/164310-customer-experience-associate-5",
+   "new_this_run": true
+  },
+  {
+   "title": "Full-Time MCAT Tutor",
+   "org": "Inspira Education",
+   "location": "Canada, USA",
+   "detail": "Any",
+   "url": "https://jobicy.com/jobs/164309-full-time-mcat-tutor-2",
+   "new_this_run": true
+  },
+  {
+   "title": "Account Executive",
+   "org": "Rillet",
+   "location": "USA",
+   "detail": "Director",
+   "url": "https://jobicy.com/jobs/164308-account-executive-41",
+   "new_this_run": true
+  },
+  {
+   "title": "Director, Product Management - Search & Match",
+   "org": "BOLD",
+   "location": "USA",
+   "detail": "Director",
+   "url": "https://jobicy.com/jobs/164307-director-product-management-search-match",
+   "new_this_run": true
+  },
+  {
+   "title": "Lifecycle Marketing Manager",
+   "org": "AlertMedia",
+   "location": "USA",
+   "detail": "Senior",
+   "url": "https://jobicy.com/jobs/164306-lifecycle-marketing-manager-2",
+   "new_this_run": true
+  },
+  {
+   "title": "Contract Senior Software Engineer, Firefox",
+   "org": "Mozilla",
+   "location": "France",
+   "detail": "Senior",
+   "url": "https://jobicy.com/jobs/164305-contract-senior-software-engineer-firefox",
+   "new_this_run": true
+  },
+  {
+   "title": "Senior Sales Engineer, Enterprise",
+   "org": "Fivetran",
+   "location": "Germany",
+   "detail": "Senior",
+   "url": "https://jobicy.com/jobs/164303-senior-sales-engineer-enterprise-3",
    "new_this_run": true
   }
  ],
@@ -283,6 +283,11 @@
   },
   {
    "at": "2026-11-25T14:28:37+00:00",
+   "jobs": 50,
+   "new": 50
+  },
+  {
+   "at": "2026-11-25T23:36:50+00:00",
    "jobs": 50,
    "new": 50
   }
@@ -8008,6 +8013,356 @@
    "title": "Data API Engineer",
    "org": "Supabase",
    "location": "Anywhere"
+  },
+  "deployment associate - accounting solutions|rillet|usa": {
+   "first_seen": "2026-11-25T23:36:50+00:00",
+   "last_seen": "2026-11-25T23:36:50+00:00",
+   "title": "Deployment Associate - Accounting Solutions",
+   "org": "Rillet",
+   "location": "USA"
+  },
+  "senior product manager i, expert apply|bold|usa": {
+   "first_seen": "2026-11-25T23:36:50+00:00",
+   "last_seen": "2026-11-25T23:36:50+00:00",
+   "title": "Senior Product Manager I, Expert Apply",
+   "org": "BOLD",
+   "location": "USA"
+  },
+  "physician assistant (pa) admissions consultant|inspira education|canada, usa": {
+   "first_seen": "2026-11-25T23:36:50+00:00",
+   "last_seen": "2026-11-25T23:36:50+00:00",
+   "title": "Physician Assistant (PA) Admissions Consultant",
+   "org": "Inspira Education",
+   "location": "Canada, USA"
+  },
+  "deployment lead - erp solutions|rillet|usa": {
+   "first_seen": "2026-11-25T23:36:50+00:00",
+   "last_seen": "2026-11-25T23:36:50+00:00",
+   "title": "Deployment Lead - ERP Solutions",
+   "org": "Rillet",
+   "location": "USA"
+  },
+  "senior data scientist, product analytics|bold|usa": {
+   "first_seen": "2026-11-25T23:36:50+00:00",
+   "last_seen": "2026-11-25T23:36:50+00:00",
+   "title": "Senior Data Scientist, Product Analytics",
+   "org": "BOLD",
+   "location": "USA"
+  },
+  "customer experience associate|peerspace|usa": {
+   "first_seen": "2026-11-25T23:36:50+00:00",
+   "last_seen": "2026-11-25T23:36:50+00:00",
+   "title": "Customer Experience Associate",
+   "org": "Peerspace",
+   "location": "USA"
+  },
+  "full-time mcat tutor|inspira education|canada, usa": {
+   "first_seen": "2026-11-25T23:36:50+00:00",
+   "last_seen": "2026-11-25T23:36:50+00:00",
+   "title": "Full-Time MCAT Tutor",
+   "org": "Inspira Education",
+   "location": "Canada, USA"
+  },
+  "account executive|rillet|usa": {
+   "first_seen": "2026-11-25T23:36:50+00:00",
+   "last_seen": "2026-11-25T23:36:50+00:00",
+   "title": "Account Executive",
+   "org": "Rillet",
+   "location": "USA"
+  },
+  "director, product management - search & match|bold|usa": {
+   "first_seen": "2026-11-25T23:36:50+00:00",
+   "last_seen": "2026-11-25T23:36:50+00:00",
+   "title": "Director, Product Management - Search & Match",
+   "org": "BOLD",
+   "location": "USA"
+  },
+  "lifecycle marketing manager|alertmedia|usa": {
+   "first_seen": "2026-11-25T23:36:50+00:00",
+   "last_seen": "2026-11-25T23:36:50+00:00",
+   "title": "Lifecycle Marketing Manager",
+   "org": "AlertMedia",
+   "location": "USA"
+  },
+  "contract senior software engineer, firefox|mozilla|france": {
+   "first_seen": "2026-11-25T23:36:50+00:00",
+   "last_seen": "2026-11-25T23:36:50+00:00",
+   "title": "Contract Senior Software Engineer, Firefox",
+   "org": "Mozilla",
+   "location": "France"
+  },
+  "senior sales engineer, enterprise|fivetran|germany": {
+   "first_seen": "2026-11-25T23:36:50+00:00",
+   "last_seen": "2026-11-25T23:36:50+00:00",
+   "title": "Senior Sales Engineer, Enterprise",
+   "org": "Fivetran",
+   "location": "Germany"
+  },
+  "sr data platform engineer|dataiku|france, spain, uk": {
+   "first_seen": "2026-11-25T23:36:50+00:00",
+   "last_seen": "2026-11-25T23:36:50+00:00",
+   "title": "Sr Data Platform Engineer",
+   "org": "Dataiku",
+   "location": "France, Spain, UK"
+  },
+  "senior sales manager (nsw)|stackadapt|australia": {
+   "first_seen": "2026-11-25T23:36:50+00:00",
+   "last_seen": "2026-11-25T23:36:50+00:00",
+   "title": "Senior Sales Manager (NSW)",
+   "org": "StackAdapt",
+   "location": "Australia"
+  },
+  "customer engineering manager|cloudflare, inc.|mexico": {
+   "first_seen": "2026-11-25T23:36:50+00:00",
+   "last_seen": "2026-11-25T23:36:50+00:00",
+   "title": "Customer Engineering Manager",
+   "org": "Cloudflare, Inc.",
+   "location": "Mexico"
+  },
+  "distributor channel manager|huntress|uk": {
+   "first_seen": "2026-11-25T23:36:50+00:00",
+   "last_seen": "2026-11-25T23:36:50+00:00",
+   "title": "Distributor Channel Manager",
+   "org": "Huntress",
+   "location": "UK"
+  },
+  "certificate authority program steward|mozilla|germany": {
+   "first_seen": "2026-11-25T23:36:50+00:00",
+   "last_seen": "2026-11-25T23:36:50+00:00",
+   "title": "Certificate Authority Program Steward",
+   "org": "Mozilla",
+   "location": "Germany"
+  },
+  "talent consultant - zartis|zartis|ireland": {
+   "first_seen": "2026-11-25T23:36:50+00:00",
+   "last_seen": "2026-11-25T23:36:50+00:00",
+   "title": "Talent Consultant - Zartis",
+   "org": "Zartis",
+   "location": "Ireland"
+  },
+  "outreach marketing specialist (maternity leave cover)|bold|poland": {
+   "first_seen": "2026-11-25T23:36:50+00:00",
+   "last_seen": "2026-11-25T23:36:50+00:00",
+   "title": "Outreach Marketing Specialist (Maternity Leave Cover)",
+   "org": "BOLD",
+   "location": "Poland"
+  },
+  "customer marketing manager, emea|horizon3.ai|france, netherlands, uk": {
+   "first_seen": "2026-11-25T23:36:50+00:00",
+   "last_seen": "2026-11-25T23:36:50+00:00",
+   "title": "Customer Marketing Manager, EMEA",
+   "org": "Horizon3.ai",
+   "location": "France, Netherlands, UK"
+  },
+  "sr. customer success manager|bigid|usa": {
+   "first_seen": "2026-11-25T23:36:50+00:00",
+   "last_seen": "2026-11-25T23:36:50+00:00",
+   "title": "Sr. Customer Success Manager",
+   "org": "BigID",
+   "location": "USA"
+  },
+  "paralegal|teamshares|usa": {
+   "first_seen": "2026-11-25T23:36:50+00:00",
+   "last_seen": "2026-11-25T23:36:50+00:00",
+   "title": "Paralegal",
+   "org": "Teamshares",
+   "location": "USA"
+  },
+  "principal product manager|findem|usa": {
+   "first_seen": "2026-11-25T23:36:50+00:00",
+   "last_seen": "2026-11-25T23:36:50+00:00",
+   "title": "Principal Product Manager",
+   "org": "Findem",
+   "location": "USA"
+  },
+  "svp, north america sales|skillsoft|usa": {
+   "first_seen": "2026-11-25T23:36:50+00:00",
+   "last_seen": "2026-11-25T23:36:50+00:00",
+   "title": "SVP, North America Sales",
+   "org": "Skillsoft",
+   "location": "USA"
+  },
+  "associate customer support specialist|fleetio|canada, usa": {
+   "first_seen": "2026-11-25T23:36:50+00:00",
+   "last_seen": "2026-11-25T23:36:50+00:00",
+   "title": "Associate Customer Support Specialist",
+   "org": "Fleetio",
+   "location": "Canada, USA"
+  },
+  "global account manager|acquia, inc.|usa": {
+   "first_seen": "2026-11-25T23:36:50+00:00",
+   "last_seen": "2026-11-25T23:36:50+00:00",
+   "title": "Global Account Manager",
+   "org": "Acquia, Inc.",
+   "location": "USA"
+  },
+  "senior engineer, saas security integrations|appomni|usa": {
+   "first_seen": "2026-11-25T23:36:50+00:00",
+   "last_seen": "2026-11-25T23:36:50+00:00",
+   "title": "Senior Engineer, SaaS Security Integrations",
+   "org": "AppOmni",
+   "location": "USA"
+  },
+  "senior software engineer|bigid|argentina": {
+   "first_seen": "2026-11-25T23:36:50+00:00",
+   "last_seen": "2026-11-25T23:36:50+00:00",
+   "title": "Senior Software Engineer",
+   "org": "BigID",
+   "location": "Argentina"
+  },
+  "m&a attorney|teamshares|usa": {
+   "first_seen": "2026-11-25T23:36:50+00:00",
+   "last_seen": "2026-11-25T23:36:50+00:00",
+   "title": "M&A Attorney",
+   "org": "Teamshares",
+   "location": "USA"
+  },
+  "benefits coordinator|quantum metric|usa": {
+   "first_seen": "2026-11-25T23:36:50+00:00",
+   "last_seen": "2026-11-25T23:36:50+00:00",
+   "title": "Benefits Coordinator",
+   "org": "Quantum Metric",
+   "location": "USA"
+  },
+  "project beid - korean e-commerce product matching annotator|welo global|australia, canada, china, usa": {
+   "first_seen": "2026-11-25T23:36:50+00:00",
+   "last_seen": "2026-11-25T23:36:50+00:00",
+   "title": "Project Beid - Korean E-commerce Product Matching Annotator",
+   "org": "Welo Global",
+   "location": "Australia, Canada, China, USA"
+  },
+  "project beid - korean e-commerce product matching annotation reviewer|welo global|australia, canada, china, usa": {
+   "first_seen": "2026-11-25T23:36:50+00:00",
+   "last_seen": "2026-11-25T23:36:50+00:00",
+   "title": "Project Beid - Korean E-commerce Product Matching Annotation Reviewer",
+   "org": "Welo Global",
+   "location": "Australia, Canada, China, USA"
+  },
+  "marketing acquisition manager|welo global|uk": {
+   "first_seen": "2026-11-25T23:36:50+00:00",
+   "last_seen": "2026-11-25T23:36:50+00:00",
+   "title": "Marketing Acquisition Manager",
+   "org": "Welo Global",
+   "location": "UK"
+  },
+  "localization quoting specialist|welo global|argentina, mexico": {
+   "first_seen": "2026-11-25T23:36:50+00:00",
+   "last_seen": "2026-11-25T23:36:50+00:00",
+   "title": "Localization Quoting Specialist",
+   "org": "Welo Global",
+   "location": "Argentina, Mexico"
+  },
+  "localization production coordinator|welo global|greece, romania": {
+   "first_seen": "2026-11-25T23:36:50+00:00",
+   "last_seen": "2026-11-25T23:36:50+00:00",
+   "title": "Localization Production Coordinator",
+   "org": "Welo Global",
+   "location": "Greece, Romania"
+  },
+  "crux - video and audio raters - german (germany)|welo global|germany": {
+   "first_seen": "2026-11-25T23:36:50+00:00",
+   "last_seen": "2026-11-25T23:36:50+00:00",
+   "title": "Crux - Video and Audio Raters - German (Germany)",
+   "org": "Welo Global",
+   "location": "Germany"
+  },
+  "crux - video and audio raters - french (france)|welo global|france": {
+   "first_seen": "2026-11-25T23:36:50+00:00",
+   "last_seen": "2026-11-25T23:36:50+00:00",
+   "title": "Crux - Video and Audio Raters - French (France)",
+   "org": "Welo Global",
+   "location": "France"
+  },
+  "staff qe, mobile|alphasense|uk": {
+   "first_seen": "2026-11-25T23:36:50+00:00",
+   "last_seen": "2026-11-25T23:36:50+00:00",
+   "title": "Staff QE, Mobile",
+   "org": "AlphaSense",
+   "location": "UK"
+  },
+  "principal engineer, balance of plant auxiliary systems|kairos power|mexico, usa": {
+   "first_seen": "2026-11-25T23:36:50+00:00",
+   "last_seen": "2026-11-25T23:36:50+00:00",
+   "title": "Principal Engineer, Balance of Plant Auxiliary Systems",
+   "org": "Kairos Power",
+   "location": "Mexico, USA"
+  },
+  "technical account manager (ai driven) - curveglass|ae studio|brazil": {
+   "first_seen": "2026-11-25T23:36:50+00:00",
+   "last_seen": "2026-11-25T23:36:50+00:00",
+   "title": "Technical Account Manager (AI Driven) - Curveglass",
+   "org": "AE Studio",
+   "location": "Brazil"
+  },
+  "software engineer iii | framework|extrahop|usa": {
+   "first_seen": "2026-11-25T23:36:50+00:00",
+   "last_seen": "2026-11-25T23:36:50+00:00",
+   "title": "Software Engineer III | Framework",
+   "org": "ExtraHop",
+   "location": "USA"
+  },
+  "staff software engineer, performance- weights & biases|coreweave|usa": {
+   "first_seen": "2026-11-25T23:36:50+00:00",
+   "last_seen": "2026-11-25T23:36:50+00:00",
+   "title": "Staff Software Engineer, Performance- Weights & Biases",
+   "org": "CoreWeave",
+   "location": "USA"
+  },
+  "clinical workflow analyst \u2014 federal health it|rackner|usa": {
+   "first_seen": "2026-11-25T23:36:50+00:00",
+   "last_seen": "2026-11-25T23:36:50+00:00",
+   "title": "Clinical Workflow Analyst \u2014 Federal Health IT",
+   "org": "Rackner",
+   "location": "USA"
+  },
+  "business development lead|fin|usa": {
+   "first_seen": "2026-11-25T23:36:50+00:00",
+   "last_seen": "2026-11-25T23:36:50+00:00",
+   "title": "Business Development Lead",
+   "org": "Fin",
+   "location": "USA"
+  },
+  "senior product engineer|teachstone|usa": {
+   "first_seen": "2026-11-25T23:36:50+00:00",
+   "last_seen": "2026-11-25T23:36:50+00:00",
+   "title": "Senior Product Engineer",
+   "org": "Teachstone",
+   "location": "USA"
+  },
+  "senior solutions architect|extrahop|usa": {
+   "first_seen": "2026-11-25T23:36:50+00:00",
+   "last_seen": "2026-11-25T23:36:50+00:00",
+   "title": "Senior Solutions Architect",
+   "org": "ExtraHop",
+   "location": "USA"
+  },
+  "staff business systems engineer \u2013 tax technology|coreweave|usa": {
+   "first_seen": "2026-11-25T23:36:50+00:00",
+   "last_seen": "2026-11-25T23:36:50+00:00",
+   "title": "Staff Business Systems Engineer \u2013 Tax Technology",
+   "org": "CoreWeave",
+   "location": "USA"
+  },
+  "ai engineer \u2014 federal health it|rackner|usa": {
+   "first_seen": "2026-11-25T23:36:50+00:00",
+   "last_seen": "2026-11-25T23:36:50+00:00",
+   "title": "AI Engineer \u2014 Federal Health IT",
+   "org": "Rackner",
+   "location": "USA"
+  },
+  "account executive, field sales|fin|usa": {
+   "first_seen": "2026-11-25T23:36:50+00:00",
+   "last_seen": "2026-11-25T23:36:50+00:00",
+   "title": "Account Executive, Field Sales",
+   "org": "Fin",
+   "location": "USA"
+  },
+  "regional sales manager, sled (chicago or texas)|extrahop|usa": {
+   "first_seen": "2026-11-25T23:36:50+00:00",
+   "last_seen": "2026-11-25T23:36:50+00:00",
+   "title": "Regional Sales Manager, SLED (Chicago or Texas)",
+   "org": "ExtraHop",
+   "location": "USA"
   }
  }
 }

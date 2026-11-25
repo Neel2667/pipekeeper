@@ -3,104 +3,104 @@
  "name": "Himalayas \u2014 remote jobs",
  "category": "jobs",
  "source": "https://himalayas.app/jobs/api",
- "collected_at": "2026-11-25T14:28:38+00:00",
+ "collected_at": "2026-11-25T23:36:50+00:00",
  "jobs_on_board": 20,
  "new_this_run": 20,
- "total_tracked": 675,
+ "total_tracked": 695,
  "jobs": [
   {
-   "title": "Sr. Channel Manager",
-   "org": "Dropzone AI",
-   "location": "United States",
-   "detail": "$120,000\u2013$150,000/a",
-   "url": null,
-   "new_this_run": true
-  },
-  {
-   "title": "Staff Performance & Reliability Engineer",
-   "org": "Domino Data Lab",
-   "location": "United States",
-   "detail": "$185,000\u2013$210,000/a",
-   "url": null,
-   "new_this_run": true
-  },
-  {
-   "title": "Senior Enterprise Account Executive - Indiana",
-   "org": "Harness",
-   "location": "United States",
-   "detail": "$150,000\u2013$162,500/a",
-   "url": null,
-   "new_this_run": true
-  },
-  {
-   "title": "Customer Support Specialist (Bilingual/Spanish)",
-   "org": "Super Dispatch",
-   "location": "United States",
-   "detail": "$45,000\u2013$50,000/a",
-   "url": null,
-   "new_this_run": true
-  },
-  {
-   "title": "QA Analyst",
-   "org": "Digital United",
-   "location": "United States",
-   "detail": "$60,000\u2013$75,000/a",
-   "url": null,
-   "new_this_run": true
-  },
-  {
-   "title": "MSK Teletherapy Physical Therapist / PTA \u2014 Long Beach, CA",
-   "org": "PeteHealth",
-   "location": "United States",
-   "detail": "Contractor",
-   "url": null,
-   "new_this_run": true
-  },
-  {
-   "title": "RVP of Sales, Strategic",
-   "org": "Hyro",
-   "location": "United States",
-   "detail": "Full Time",
-   "url": null,
-   "new_this_run": true
-  },
-  {
-   "title": "Manager, GTM Engineering (TAM & Outbound)",
-   "org": "Tebra",
-   "location": "United States",
-   "detail": "$142,000\u2013$160,000/a",
-   "url": null,
-   "new_this_run": true
-  },
-  {
-   "title": "Regional Sales Director - Prostate Specialty",
-   "org": "Axogen",
-   "location": "United States",
-   "detail": "$135,000\u2013$135,000/a",
-   "url": null,
-   "new_this_run": true
-  },
-  {
-   "title": "Sr Account Executive - VIP Segment",
-   "org": "albo",
-   "location": "Mexico",
-   "detail": "Full Time",
-   "url": null,
-   "new_this_run": true
-  },
-  {
-   "title": "Senior Manager, Market Access & Government Affairs, Oncology, Quebec & Atlantic",
-   "org": "AbbVie",
+   "title": "Sr. Director of AI Software Engineering",
+   "org": "CloudWerx, Inc.",
    "location": "Canada",
    "detail": "Full Time",
    "url": null,
    "new_this_run": true
   },
   {
-   "title": "Senior Azure Engineer",
-   "org": "Bright Vision Technologies",
+   "title": "Sales Executive (WFH based in Maha Sarakham)",
+   "org": "Cartrack",
+   "location": "Thailand",
+   "detail": "Full Time",
+   "url": null,
+   "new_this_run": true
+  },
+  {
+   "title": "Senior UI/UX Designer",
+   "org": "Colab",
+   "location": "Pakistan",
+   "detail": "Full Time",
+   "url": null,
+   "new_this_run": true
+  },
+  {
+   "title": "Legal Billing Coordinator (Billing Specialist)",
+   "org": "RR Donnelley",
    "location": "United States",
-   "detail": "$115,000\u2013$165,000/a",
+   "detail": "$32\u2013$33/h",
+   "url": null,
+   "new_this_run": true
+  },
+  {
+   "title": "Digital Engagement Specialist (CRM), IS-2210-11",
+   "org": "Smithsonian Institution",
+   "location": "United States",
+   "detail": "$73,678\u2013$108,921/a",
+   "url": null,
+   "new_this_run": true
+  },
+  {
+   "title": "Director Channel Partnerships",
+   "org": "Versapay",
+   "location": "Canada",
+   "detail": "$125,000\u2013$135,000/a",
+   "url": null,
+   "new_this_run": true
+  },
+  {
+   "title": "Sr. Director, Portfolio Marketing",
+   "org": "Cisco",
+   "location": "Canada",
+   "detail": "$236,000\u2013$298,500/a",
+   "url": null,
+   "new_this_run": true
+  },
+  {
+   "title": "Presales Manager, Solutions Consulting - Netherlands",
+   "org": "Palo Alto Networks",
+   "location": "Netherlands",
+   "detail": "Full Time",
+   "url": null,
+   "new_this_run": true
+  },
+  {
+   "title": "Amazon PPC Pod Leader",
+   "org": "ScaleJet",
+   "location": "South Africa",
+   "detail": "Full Time",
+   "url": null,
+   "new_this_run": true
+  },
+  {
+   "title": "Senior Data Analyst - AI & Data Quality (Healthcare Data) - Remote (Plano, TX, U",
+   "org": "NTT DATA",
+   "location": "United States",
+   "detail": "$111,172\u2013$205,875/a",
+   "url": null,
+   "new_this_run": true
+  },
+  {
+   "title": "Senior Regional Sales Manager \u2013 Diabetes Care Division (Ontario and Western Cana",
+   "org": "Abbott",
+   "location": "Canada",
+   "detail": "Full Time",
+   "url": null,
+   "new_this_run": true
+  },
+  {
+   "title": "Scrum Master",
+   "org": "Lingaro",
+   "location": "India",
+   "detail": "Full Time",
    "url": null,
    "new_this_run": true
   }
@@ -283,6 +283,11 @@
   },
   {
    "at": "2026-11-25T14:28:38+00:00",
+   "jobs": 20,
+   "new": 20
+  },
+  {
+   "at": "2026-11-25T23:36:50+00:00",
    "jobs": 20,
    "new": 20
   }
@@ -5012,6 +5017,146 @@
    "title": "Senior Software Developer, Agentic AI - Canada",
    "org": "Clover Health",
    "location": "Canada"
+  },
+  "sr. director of ai software engineering|cloudwerx, inc.|canada": {
+   "first_seen": "2026-11-25T23:36:50+00:00",
+   "last_seen": "2026-11-25T23:36:50+00:00",
+   "title": "Sr. Director of AI Software Engineering",
+   "org": "CloudWerx, Inc.",
+   "location": "Canada"
+  },
+  "sales executive (wfh based in maha sarakham)|cartrack|thailand": {
+   "first_seen": "2026-11-25T23:36:50+00:00",
+   "last_seen": "2026-11-25T23:36:50+00:00",
+   "title": "Sales Executive (WFH based in Maha Sarakham)",
+   "org": "Cartrack",
+   "location": "Thailand"
+  },
+  "senior ui/ux designer|colab|pakistan": {
+   "first_seen": "2026-11-25T23:36:50+00:00",
+   "last_seen": "2026-11-25T23:36:50+00:00",
+   "title": "Senior UI/UX Designer",
+   "org": "Colab",
+   "location": "Pakistan"
+  },
+  "legal billing coordinator (billing specialist)|rr donnelley|united states": {
+   "first_seen": "2026-11-25T23:36:50+00:00",
+   "last_seen": "2026-11-25T23:36:50+00:00",
+   "title": "Legal Billing Coordinator (Billing Specialist)",
+   "org": "RR Donnelley",
+   "location": "United States"
+  },
+  "digital engagement specialist (crm), is-2210-11|smithsonian institution|united states": {
+   "first_seen": "2026-11-25T23:36:50+00:00",
+   "last_seen": "2026-11-25T23:36:50+00:00",
+   "title": "Digital Engagement Specialist (CRM), IS-2210-11",
+   "org": "Smithsonian Institution",
+   "location": "United States"
+  },
+  "director channel partnerships|versapay|canada": {
+   "first_seen": "2026-11-25T23:36:50+00:00",
+   "last_seen": "2026-11-25T23:36:50+00:00",
+   "title": "Director Channel Partnerships",
+   "org": "Versapay",
+   "location": "Canada"
+  },
+  "sr. director, portfolio marketing|cisco|canada": {
+   "first_seen": "2026-11-25T23:36:50+00:00",
+   "last_seen": "2026-11-25T23:36:50+00:00",
+   "title": "Sr. Director, Portfolio Marketing",
+   "org": "Cisco",
+   "location": "Canada"
+  },
+  "presales manager, solutions consulting - netherlands|palo alto networks|netherlands": {
+   "first_seen": "2026-11-25T23:36:50+00:00",
+   "last_seen": "2026-11-25T23:36:50+00:00",
+   "title": "Presales Manager, Solutions Consulting - Netherlands",
+   "org": "Palo Alto Networks",
+   "location": "Netherlands"
+  },
+  "amazon ppc pod leader|scalejet|south africa": {
+   "first_seen": "2026-11-25T23:36:50+00:00",
+   "last_seen": "2026-11-25T23:36:50+00:00",
+   "title": "Amazon PPC Pod Leader",
+   "org": "ScaleJet",
+   "location": "South Africa"
+  },
+  "senior data analyst - ai & data quality (healthcare data) - remote (plano, tx, u|ntt data|united states": {
+   "first_seen": "2026-11-25T23:36:50+00:00",
+   "last_seen": "2026-11-25T23:36:50+00:00",
+   "title": "Senior Data Analyst - AI & Data Quality (Healthcare Data) - Remote (Plano, TX, U",
+   "org": "NTT DATA",
+   "location": "United States"
+  },
+  "senior regional sales manager \u2013 diabetes care division (ontario and western cana|abbott|canada": {
+   "first_seen": "2026-11-25T23:36:50+00:00",
+   "last_seen": "2026-11-25T23:36:50+00:00",
+   "title": "Senior Regional Sales Manager \u2013 Diabetes Care Division (Ontario and Western Cana",
+   "org": "Abbott",
+   "location": "Canada"
+  },
+  "scrum master|lingaro|india": {
+   "first_seen": "2026-11-25T23:36:50+00:00",
+   "last_seen": "2026-11-25T23:36:50+00:00",
+   "title": "Scrum Master",
+   "org": "Lingaro",
+   "location": "India"
+  },
+  "qa analyst-ambulatory ops|the henry ford health system|united states": {
+   "first_seen": "2026-11-25T23:36:50+00:00",
+   "last_seen": "2026-11-25T23:36:50+00:00",
+   "title": "QA Analyst-Ambulatory Ops",
+   "org": "The Henry Ford Health System",
+   "location": "United States"
+  },
+  "azure cloud engineer|bright vision technologies|united states": {
+   "first_seen": "2026-11-25T23:36:50+00:00",
+   "last_seen": "2026-11-25T23:36:50+00:00",
+   "title": "Azure Cloud Engineer",
+   "org": "Bright Vision Technologies",
+   "location": "United States"
+  },
+  "growth & demand generation manager|transcend|united states": {
+   "first_seen": "2026-11-25T23:36:50+00:00",
+   "last_seen": "2026-11-25T23:36:50+00:00",
+   "title": "Growth & Demand Generation Manager",
+   "org": "Transcend",
+   "location": "United States"
+  },
+  "senior software engineer|pavago|philippines": {
+   "first_seen": "2026-11-25T23:36:50+00:00",
+   "last_seen": "2026-11-25T23:36:50+00:00",
+   "title": "Senior Software Engineer",
+   "org": "Pavago",
+   "location": "Philippines"
+  },
+  "senior legal counsel, real estate|chep|canada, united states": {
+   "first_seen": "2026-11-25T23:36:50+00:00",
+   "last_seen": "2026-11-25T23:36:50+00:00",
+   "title": "Senior Legal Counsel, Real Estate",
+   "org": "CHEP",
+   "location": "Canada, United States"
+  },
+  "plan build specialist|voya financial|united states": {
+   "first_seen": "2026-11-25T23:36:50+00:00",
+   "last_seen": "2026-11-25T23:36:50+00:00",
+   "title": "Plan Build Specialist",
+   "org": "Voya Financial",
+   "location": "United States"
+  },
+  "solution deployment and engineering manager|agilent technologies|malaysia, thailand": {
+   "first_seen": "2026-11-25T23:36:50+00:00",
+   "last_seen": "2026-11-25T23:36:50+00:00",
+   "title": "Solution Deployment and Engineering Manager",
+   "org": "Agilent Technologies",
+   "location": "Malaysia, Thailand"
+  },
+  "associate director, scientific & site partnerships lead, global clinical operati|beigene|france, italy, spain, switzerland": {
+   "first_seen": "2026-11-25T23:36:50+00:00",
+   "last_seen": "2026-11-25T23:36:50+00:00",
+   "title": "Associate Director, Scientific & Site Partnerships Lead, Global Clinical Operati",
+   "org": "BeiGene",
+   "location": "France, Italy, Spain, Switzerland"
   }
  }
 }
