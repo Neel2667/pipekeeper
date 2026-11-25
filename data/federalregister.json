@@ -3,7 +3,7 @@
  "name": "Federal Register \u2014 newest federal documents",
  "category": "government",
  "source": "https://www.federalregister.gov",
- "collected_at": "2026-11-24T21:11:21+00:00",
+ "collected_at": "2026-11-25T04:12:51+00:00",
  "jobs_on_board": 100,
  "new_this_run": 0,
  "total_tracked": 569,
@@ -275,6 +275,11 @@
    "at": "2026-11-24T21:11:21+00:00",
    "jobs": 100,
    "new": 0
+  },
+  {
+   "at": "2026-11-25T04:12:51+00:00",
+   "jobs": 100,
+   "new": 0
   }
  ],
  "jobs_seen": {
@@ -420,7 +425,7 @@
   },
   "combined notice of filings|energy department, federal energy regulatory commission|": {
    "first_seen": "2026-11-15T10:14:08+00:00",
-   "last_seen": "2026-11-24T21:11:21+00:00",
+   "last_seen": "2026-11-25T04:12:51+00:00",
    "title": "Combined Notice of Filings",
    "org": "Energy Department, Federal Energy Regulatory Commission",
    "location": null
@@ -434,7 +439,7 @@
   },
   "combined notice of filings #1|energy department, federal energy regulatory commission|": {
    "first_seen": "2026-11-15T10:14:08+00:00",
-   "last_seen": "2026-11-24T21:11:21+00:00",
+   "last_seen": "2026-11-25T04:12:51+00:00",
    "title": "Combined Notice of Filings #1",
    "org": "Energy Department, Federal Energy Regulatory Commission",
    "location": null
@@ -476,7 +481,7 @@
   },
   "certain oil country tubular goods from the united arab emirates: postponement of final determination of sales at less th|commerce department, international trade administration|": {
    "first_seen": "2026-11-15T10:14:08+00:00",
-   "last_seen": "2026-11-24T21:11:21+00:00",
+   "last_seen": "2026-11-25T04:12:51+00:00",
    "title": "Certain Oil Country Tubular Goods From the United Arab Emirates: Postponement of Final Determination of Sales at Less Than Fair Value Investigation and Extension of Provisional Measures",
    "org": "Commerce Department, International Trade Administration",
    "location": null
@@ -644,7 +649,7 @@
   },
   "new postal products|postal regulatory commission|": {
    "first_seen": "2026-11-15T10:14:08+00:00",
-   "last_seen": "2026-11-24T21:11:21+00:00",
+   "last_seen": "2026-11-25T04:12:51+00:00",
    "title": "New Postal Products",
    "org": "Postal Regulatory Commission",
    "location": null
@@ -700,7 +705,7 @@
   },
   "change in bank control notices; acquisitions of shares of a bank or bank holding company|federal reserve system|": {
    "first_seen": "2026-11-15T10:14:08+00:00",
-   "last_seen": "2026-11-24T21:11:21+00:00",
+   "last_seen": "2026-11-25T04:12:51+00:00",
    "title": "Change in Bank Control Notices; Acquisitions of Shares of a Bank or Bank Holding Company",
    "org": "Federal Reserve System",
    "location": null
@@ -749,7 +754,7 @@
   },
   "sunshine act meetings|nuclear regulatory commission|": {
    "first_seen": "2026-11-15T10:14:08+00:00",
-   "last_seen": "2026-11-24T21:11:21+00:00",
+   "last_seen": "2026-11-25T04:12:51+00:00",
    "title": "Sunshine Act Meetings",
    "org": "Nuclear Regulatory Commission",
    "location": null
@@ -896,14 +901,14 @@
   },
   "airworthiness directives; airbus helicopters deutschland gmbh (ahd) helicopters|transportation department, federal aviation administration|": {
    "first_seen": "2026-11-15T10:14:08+00:00",
-   "last_seen": "2026-11-24T21:11:21+00:00",
+   "last_seen": "2026-11-25T04:12:51+00:00",
    "title": "Airworthiness Directives; Airbus Helicopters Deutschland GmbH (AHD) Helicopters",
    "org": "Transportation Department, Federal Aviation Administration",
    "location": null
   },
   "airworthiness directives; airbus helicopters|transportation department, federal aviation administration|": {
    "first_seen": "2026-11-15T10:14:08+00:00",
-   "last_seen": "2026-11-24T21:11:21+00:00",
+   "last_seen": "2026-11-25T04:12:51+00:00",
    "title": "Airworthiness Directives; Airbus Helicopters",
    "org": "Transportation Department, Federal Aviation Administration",
    "location": null
@@ -1155,7 +1160,7 @@
   },
   "center for scientific review; notice of closed meeting|health and human services department, national institutes of health|": {
    "first_seen": "2026-11-17T13:26:15+00:00",
-   "last_seen": "2026-11-24T21:11:21+00:00",
+   "last_seen": "2026-11-25T04:12:51+00:00",
    "title": "Center for Scientific Review; Notice of Closed Meeting",
    "org": "Health and Human Services Department, National Institutes of Health",
    "location": null
@@ -1365,14 +1370,14 @@
   },
   "self-regulatory organizations; the nasdaq stock market llc; notice of filing and immediate effectiveness of proposed rul|securities and exchange commission|": {
    "first_seen": "2026-11-17T13:26:15+00:00",
-   "last_seen": "2026-11-24T21:11:21+00:00",
+   "last_seen": "2026-11-25T04:12:51+00:00",
    "title": "Self-Regulatory Organizations; The Nasdaq Stock Market LLC; Notice of Filing and Immediate Effectiveness of Proposed Rule Change To Amend Rule General 8 Regarding Fees for Interfirm Cabinet Connectivity",
    "org": "Securities and Exchange Commission",
    "location": null
   },
   "self-regulatory organizations; financial industry regulatory authority, inc.; notice of filing and immediate effectivene|securities and exchange commission|": {
    "first_seen": "2026-11-17T13:26:15+00:00",
-   "last_seen": "2026-11-24T21:11:21+00:00",
+   "last_seen": "2026-11-25T04:12:51+00:00",
    "title": "Self-Regulatory Organizations; Financial Industry Regulatory Authority, Inc.; Notice of Filing and Immediate Effectiveness of Proposed Rule Change To Amend FINRA Rule 6121.02 Concerning the Resumption of Trading Following a Level 3 Market-W",
    "org": "Securities and Exchange Commission",
    "location": null
@@ -1393,7 +1398,7 @@
   },
   "self-regulatory organizations; new york stock exchange llc; notice of filing and immediate effectiveness of proposed rul|securities and exchange commission|": {
    "first_seen": "2026-11-17T13:26:15+00:00",
-   "last_seen": "2026-11-24T21:11:21+00:00",
+   "last_seen": "2026-11-25T04:12:51+00:00",
    "title": "Self-Regulatory Organizations; New York Stock Exchange LLC; Notice of Filing and Immediate Effectiveness of Proposed Rule Change To Amend its Price List",
    "org": "Securities and Exchange Commission",
    "location": null
@@ -1512,7 +1517,7 @@
   },
   "sunshine act meetings|securities and exchange commission|": {
    "first_seen": "2026-11-17T13:26:15+00:00",
-   "last_seen": "2026-11-24T21:11:21+00:00",
+   "last_seen": "2026-11-25T04:12:51+00:00",
    "title": "Sunshine Act Meetings",
    "org": "Securities and Exchange Commission",
    "location": null
@@ -1876,7 +1881,7 @@
   },
   "submission for omb review; comment request|defense department,|": {
    "first_seen": "2026-11-18T13:57:54+00:00",
-   "last_seen": "2026-11-24T21:11:21+00:00",
+   "last_seen": "2026-11-25T04:12:51+00:00",
    "title": "Submission for OMB Review; Comment Request",
    "org": "Defense Department,",
    "location": null
@@ -2009,7 +2014,7 @@
   },
   "notice of ofac sanctions action|treasury department, foreign assets control office|": {
    "first_seen": "2026-11-18T13:57:54+00:00",
-   "last_seen": "2026-11-24T21:11:21+00:00",
+   "last_seen": "2026-11-25T04:12:51+00:00",
    "title": "Notice of OFAC Sanctions Action",
    "org": "Treasury Department, Foreign Assets Control Office",
    "location": null
@@ -2107,7 +2112,7 @@
   },
   "agency information collection activities; submission to the office of management and budget (omb) for review and approva|commerce department, national oceanic and atmospheric administration|": {
    "first_seen": "2026-11-18T13:57:54+00:00",
-   "last_seen": "2026-11-24T21:11:21+00:00",
+   "last_seen": "2026-11-25T04:12:51+00:00",
    "title": "Agency Information Collection Activities; Submission to the Office of Management and Budget (OMB) for Review and Approval; Comment Request; Type-Approval Requirements for Vessel Monitoring Systems (VMS)",
    "org": "Commerce Department, National Oceanic and Atmospheric Administration",
    "location": null
@@ -2583,7 +2588,7 @@
   },
   "self-regulatory organizations; cboe bzx exchange, inc.; notice of filing and immediate effectiveness of a proposed rule |securities and exchange commission|": {
    "first_seen": "2026-11-19T13:05:40+00:00",
-   "last_seen": "2026-11-24T21:11:21+00:00",
+   "last_seen": "2026-11-25T04:12:51+00:00",
    "title": "Self-Regulatory Organizations; Cboe BZX Exchange, Inc.; Notice of Filing and Immediate Effectiveness of a Proposed Rule Change To Amend the Invesco Galaxy Bitcoin ETF and the Invesco Galaxy Ethereum ETF",
    "org": "Securities and Exchange Commission",
    "location": null
@@ -2947,7 +2952,7 @@
   },
   "airworthiness directives; the boeing company airplanes|transportation department, federal aviation administration|": {
    "first_seen": "2026-11-20T11:50:20+00:00",
-   "last_seen": "2026-11-24T21:11:21+00:00",
+   "last_seen": "2026-11-25T04:12:51+00:00",
    "title": "Airworthiness Directives; The Boeing Company Airplanes",
    "org": "Transportation Department, Federal Aviation Administration",
    "location": null
@@ -3458,7 +3463,7 @@
   },
   "notice of department of state sanctions actions|state department|": {
    "first_seen": "2026-11-21T09:54:51+00:00",
-   "last_seen": "2026-11-24T21:11:21+00:00",
+   "last_seen": "2026-11-25T04:12:51+00:00",
    "title": "Notice of Department of State Sanctions Actions",
    "org": "State Department",
    "location": null
@@ -3787,476 +3792,476 @@
   },
   "safety zone; pasquotank river harbor, elizabeth city, nc|homeland security department, coast guard|": {
    "first_seen": "2026-11-24T10:55:06+00:00",
-   "last_seen": "2026-11-24T21:11:21+00:00",
+   "last_seen": "2026-11-25T04:12:51+00:00",
    "title": "Safety Zone; Pasquotank River Harbor, Elizabeth City, NC",
    "org": "Homeland Security Department, Coast Guard",
    "location": null
   },
   "restructuring the governance and funding model of the consolidated audit trail|securities and exchange commission|": {
    "first_seen": "2026-11-24T10:55:06+00:00",
-   "last_seen": "2026-11-24T21:11:21+00:00",
+   "last_seen": "2026-11-25T04:12:51+00:00",
    "title": "Restructuring the Governance and Funding Model of the Consolidated Audit Trail",
    "org": "Securities and Exchange Commission",
    "location": null
   },
   "amendment of class d airspace and class e airspace over tri-cities, tn|transportation department, federal aviation administration|": {
    "first_seen": "2026-11-24T10:55:06+00:00",
-   "last_seen": "2026-11-24T21:11:21+00:00",
+   "last_seen": "2026-11-25T04:12:51+00:00",
    "title": "Amendment of Class D Airspace and Class E Airspace Over Tri-Cities, TN",
    "org": "Transportation Department, Federal Aviation Administration",
    "location": null
   },
   "renewal of department of defense federal advisory committees-defense health board|defense department,|": {
    "first_seen": "2026-11-24T10:55:06+00:00",
-   "last_seen": "2026-11-24T21:11:21+00:00",
+   "last_seen": "2026-11-25T04:12:51+00:00",
    "title": "Renewal of Department of Defense Federal Advisory Committees-Defense Health Board",
    "org": "Defense Department,",
    "location": null
   },
   "renewal of department of defense federal advisory committees-department of defense wage committee|defense department,|": {
    "first_seen": "2026-11-24T10:55:06+00:00",
-   "last_seen": "2026-11-24T21:11:21+00:00",
+   "last_seen": "2026-11-25T04:12:51+00:00",
    "title": "Renewal of Department of Defense Federal Advisory Committees-Department of Defense Wage Committee",
    "org": "Defense Department,",
    "location": null
   },
   "certain corrosion-resistant steel products from the socialist republic of vietnam: preliminary negative determination of|commerce department, international trade administration|": {
    "first_seen": "2026-11-24T10:55:06+00:00",
-   "last_seen": "2026-11-24T21:11:21+00:00",
+   "last_seen": "2026-11-25T04:12:51+00:00",
    "title": "Certain Corrosion-Resistant Steel Products From the Socialist Republic of Vietnam: Preliminary Negative Determination of Circumvention of the Antidumping Duty and Countervailing Duty Orders",
    "org": "Commerce Department, International Trade Administration",
    "location": null
   },
   "certain steel wheels from the people's republic of china: preliminary affirmative determination of circumvention of the |commerce department, international trade administration|": {
    "first_seen": "2026-11-24T10:55:06+00:00",
-   "last_seen": "2026-11-24T21:11:21+00:00",
+   "last_seen": "2026-11-25T04:12:51+00:00",
    "title": "Certain Steel Wheels from the People's Republic of China: Preliminary Affirmative Determination of Circumvention of the Antidumping Duty and Countervailing Duty Orders",
    "org": "Commerce Department, International Trade Administration",
    "location": null
   },
   "certain corrosion-resistant steel products from the people's republic of china: preliminary negative determination of ci|commerce department, international trade administration|": {
    "first_seen": "2026-11-24T10:55:06+00:00",
-   "last_seen": "2026-11-24T21:11:21+00:00",
+   "last_seen": "2026-11-25T04:12:51+00:00",
    "title": "Certain Corrosion-Resistant Steel Products From the People's Republic of China: Preliminary Negative Determination of Circumvention of the Antidumping Duty and Countervailing Duty Orders",
    "org": "Commerce Department, International Trade Administration",
    "location": null
   },
   "hydrofluorocarbon blends from the people's republic of china: final results of antidumping duty administrative review; 2|commerce department, international trade administration|": {
    "first_seen": "2026-11-24T10:55:06+00:00",
-   "last_seen": "2026-11-24T21:11:21+00:00",
+   "last_seen": "2026-11-25T04:12:51+00:00",
    "title": "Hydrofluorocarbon Blends From the People's Republic of China: Final Results of Antidumping Duty Administrative Review; 2024-2025",
    "org": "Commerce Department, International Trade Administration",
    "location": null
   },
   "light-walled rectangular pipe and tube from the people's republic of china: final results of countervailing duty adminis|commerce department, international trade administration|": {
    "first_seen": "2026-11-24T10:55:06+00:00",
-   "last_seen": "2026-11-24T21:11:21+00:00",
+   "last_seen": "2026-11-25T04:12:51+00:00",
    "title": "Light-Walled Rectangular Pipe and Tube From the People's Republic of China: Final Results of Countervailing Duty Administrative Review; 2024",
    "org": "Commerce Department, International Trade Administration",
    "location": null
   },
   "certain passenger vehicle and light truck tires from the people's republic of china: final results of antidumping duty a|commerce department, international trade administration|": {
    "first_seen": "2026-11-24T10:55:06+00:00",
-   "last_seen": "2026-11-24T21:11:21+00:00",
+   "last_seen": "2026-11-25T04:12:51+00:00",
    "title": "Certain Passenger Vehicle and Light Truck Tires From the People's Republic of China: Final Results of Antidumping Duty Administrative Review; 2024-2025",
    "org": "Commerce Department, International Trade Administration",
    "location": null
   },
   "foreign-trade zone subzone 21; application for subzone expansion; dma industries, llc; mullins, south carolina|commerce department, foreign-trade zones board|": {
    "first_seen": "2026-11-24T10:55:06+00:00",
-   "last_seen": "2026-11-24T21:11:21+00:00",
+   "last_seen": "2026-11-25T04:12:51+00:00",
    "title": "Foreign-Trade Zone Subzone 21; Application for Subzone Expansion; DMA Industries, LLC; Mullins, South Carolina",
    "org": "Commerce Department, Foreign-Trade Zones Board",
    "location": null
   },
   "foreign-trade zone 143; application for subzone; peak energy technologies inc.; sacramento, california|commerce department, foreign-trade zones board|": {
    "first_seen": "2026-11-24T10:55:06+00:00",
-   "last_seen": "2026-11-24T21:11:21+00:00",
+   "last_seen": "2026-11-25T04:12:51+00:00",
    "title": "Foreign-Trade Zone 143; Application for Subzone; Peak Energy Technologies Inc.; Sacramento, California",
    "org": "Commerce Department, Foreign-Trade Zones Board",
    "location": null
   },
   "loyalty and the exclusive purpose rule in selecting plan investments and exercising shareholder rights|labor department, employee benefits security administration|": {
    "first_seen": "2026-11-24T10:55:06+00:00",
-   "last_seen": "2026-11-24T21:11:21+00:00",
+   "last_seen": "2026-11-25T04:12:51+00:00",
    "title": "Loyalty and the Exclusive Purpose Rule in Selecting Plan Investments and Exercising Shareholder Rights",
    "org": "Labor Department, Employee Benefits Security Administration",
    "location": null
   },
   "new england fishery management council; public meeting|commerce department, national oceanic and atmospheric administration|": {
    "first_seen": "2026-11-24T10:55:06+00:00",
-   "last_seen": "2026-11-24T21:11:21+00:00",
+   "last_seen": "2026-11-25T04:12:51+00:00",
    "title": "New England Fishery Management Council; Public Meeting",
    "org": "Commerce Department, National Oceanic and Atmospheric Administration",
    "location": null
   },
   "national institute of dental & craniofacial research; notice of meeting|health and human services department, national institutes of health|": {
    "first_seen": "2026-11-24T10:55:06+00:00",
-   "last_seen": "2026-11-24T21:11:21+00:00",
+   "last_seen": "2026-11-25T04:12:51+00:00",
    "title": "National Institute of Dental & Craniofacial Research; Notice of Meeting",
    "org": "Health and Human Services Department, National Institutes of Health",
    "location": null
   },
   "records schedules; availability and request for comments|national archives and records administration|": {
    "first_seen": "2026-11-24T10:55:06+00:00",
-   "last_seen": "2026-11-24T21:11:21+00:00",
+   "last_seen": "2026-11-25T04:12:51+00:00",
    "title": "Records Schedules; Availability and Request for Comments",
    "org": "National Archives and Records Administration",
    "location": null
   },
   "proposed collection; comment request|defense department,|": {
    "first_seen": "2026-11-24T10:55:06+00:00",
-   "last_seen": "2026-11-24T21:11:21+00:00",
+   "last_seen": "2026-11-25T04:12:51+00:00",
    "title": "Proposed Collection; Comment Request",
    "org": "Defense Department,",
    "location": null
   },
   "commercial driver's license: nick castello; application for exemption|transportation department, federal motor carrier safety administration|": {
    "first_seen": "2026-11-24T10:55:06+00:00",
-   "last_seen": "2026-11-24T21:11:21+00:00",
+   "last_seen": "2026-11-25T04:12:51+00:00",
    "title": "Commercial Driver's License: Nick Castello; Application for Exemption",
    "org": "Transportation Department, Federal Motor Carrier Safety Administration",
    "location": null
   },
   "commercial driver's license: nikolai kostarev; application for exemption|transportation department, federal motor carrier safety administration|": {
    "first_seen": "2026-11-24T10:55:06+00:00",
-   "last_seen": "2026-11-24T21:11:21+00:00",
+   "last_seen": "2026-11-25T04:12:51+00:00",
    "title": "Commercial Driver's License: Nikolai Kostarev; Application for Exemption",
    "org": "Transportation Department, Federal Motor Carrier Safety Administration",
    "location": null
   },
   "commercial driver's license: luca donati; application for exemption|transportation department, federal motor carrier safety administration|": {
    "first_seen": "2026-11-24T10:55:06+00:00",
-   "last_seen": "2026-11-24T21:11:21+00:00",
+   "last_seen": "2026-11-25T04:12:51+00:00",
    "title": "Commercial Driver's License: Luca Donati; Application for Exemption",
    "org": "Transportation Department, Federal Motor Carrier Safety Administration",
    "location": null
   },
   "commercial driver's license: yehonatan kapach; application for exemption|transportation department, federal motor carrier safety administration|": {
    "first_seen": "2026-11-24T10:55:06+00:00",
-   "last_seen": "2026-11-24T21:11:21+00:00",
+   "last_seen": "2026-11-25T04:12:51+00:00",
    "title": "Commercial Driver's License: Yehonatan Kapach; Application for Exemption",
    "org": "Transportation Department, Federal Motor Carrier Safety Administration",
    "location": null
   },
   "commercial driver's license: amiran morchiladze; application for exemption|transportation department, federal motor carrier safety administration|": {
    "first_seen": "2026-11-24T10:55:06+00:00",
-   "last_seen": "2026-11-24T21:11:21+00:00",
+   "last_seen": "2026-11-25T04:12:51+00:00",
    "title": "Commercial Driver's License: Amiran Morchiladze; Application for Exemption",
    "org": "Transportation Department, Federal Motor Carrier Safety Administration",
    "location": null
   },
   "international proof of delivery service|postal service|": {
    "first_seen": "2026-11-24T10:55:06+00:00",
-   "last_seen": "2026-11-24T21:11:21+00:00",
+   "last_seen": "2026-11-25T04:12:51+00:00",
    "title": "International Proof of Delivery Service",
    "org": "Postal Service",
    "location": null
   },
   "fiscal year 2026 senior executive service performance review boards|homeland security department|": {
    "first_seen": "2026-11-24T10:55:06+00:00",
-   "last_seen": "2026-11-24T21:11:21+00:00",
+   "last_seen": "2026-11-25T04:12:51+00:00",
    "title": "Fiscal Year 2026 Senior Executive Service Performance Review Boards",
    "org": "Homeland Security Department",
    "location": null
   },
   "proposed agency information collection activities; comment request|transportation department, federal railroad administration|": {
    "first_seen": "2026-11-24T10:55:06+00:00",
-   "last_seen": "2026-11-24T21:11:21+00:00",
+   "last_seen": "2026-11-25T04:12:51+00:00",
    "title": "Proposed Agency Information Collection Activities; Comment Request",
    "org": "Transportation Department, Federal Railroad Administration",
    "location": null
   },
   "proposed data collection submitted for public comment and recommendations|health and human services department, centers for disease control and prevention|": {
    "first_seen": "2026-11-24T10:55:06+00:00",
-   "last_seen": "2026-11-24T21:11:21+00:00",
+   "last_seen": "2026-11-25T04:12:51+00:00",
    "title": "Proposed Data Collection Submitted for Public Comment and Recommendations",
    "org": "Health and Human Services Department, Centers for Disease Control and Prevention",
    "location": null
   },
   "submission for omb review; comment request|defense department, navy department|": {
    "first_seen": "2026-11-24T10:55:06+00:00",
-   "last_seen": "2026-11-24T21:11:21+00:00",
+   "last_seen": "2026-11-25T04:12:51+00:00",
    "title": "Submission for OMB Review; Comment Request",
    "org": "Defense Department, Navy Department",
    "location": null
   },
   "wireless telecommunications bureau seeks comment on whether proposed upper c-band relocation coordinator satisfies selec|federal communications commission|": {
    "first_seen": "2026-11-24T10:55:06+00:00",
-   "last_seen": "2026-11-24T21:11:21+00:00",
+   "last_seen": "2026-11-25T04:12:51+00:00",
    "title": "Wireless Telecommunications Bureau Seeks Comment on Whether Proposed Upper C-Band Relocation Coordinator Satisfies Selection Criteria",
    "org": "Federal Communications Commission",
    "location": null
   },
   "proposed collection; comment request|defense department, air force department|": {
    "first_seen": "2026-11-24T10:55:06+00:00",
-   "last_seen": "2026-11-24T21:11:21+00:00",
+   "last_seen": "2026-11-25T04:12:51+00:00",
    "title": "Proposed Collection; Comment Request",
    "org": "Defense Department, Air Force Department",
    "location": null
   },
   "ifr altitudes; miscellaneous amendments|transportation department, federal aviation administration|": {
    "first_seen": "2026-11-24T10:55:06+00:00",
-   "last_seen": "2026-11-24T21:11:21+00:00",
+   "last_seen": "2026-11-25T04:12:51+00:00",
    "title": "IFR Altitudes; Miscellaneous Amendments",
    "org": "Transportation Department, Federal Aviation Administration",
    "location": null
   },
   "notice of petition for waiver of compliance|transportation department, federal railroad administration|": {
    "first_seen": "2026-11-24T10:55:06+00:00",
-   "last_seen": "2026-11-24T21:11:21+00:00",
+   "last_seen": "2026-11-25T04:12:51+00:00",
    "title": "Notice of Petition for Waiver of Compliance",
    "org": "Transportation Department, Federal Railroad Administration",
    "location": null
   },
   "notice of petition for extension of waiver of compliance|transportation department, federal railroad administration|": {
    "first_seen": "2026-11-24T10:55:06+00:00",
-   "last_seen": "2026-11-24T21:11:21+00:00",
+   "last_seen": "2026-11-25T04:12:51+00:00",
    "title": "Notice of Petition for Extension of Waiver of Compliance",
    "org": "Transportation Department, Federal Railroad Administration",
    "location": null
   },
   "southern star central gas pipeline, inc.; notice of schedule for the preparation of an environmental assessment for the |energy department, federal energy regulatory commission|": {
    "first_seen": "2026-11-24T10:55:06+00:00",
-   "last_seen": "2026-11-24T21:11:21+00:00",
+   "last_seen": "2026-11-25T04:12:51+00:00",
    "title": "Southern Star Central Gas Pipeline, Inc.; Notice of Schedule for the Preparation of an Environmental Assessment for the Evergy Mcnew Power Plant Delivery Project",
    "org": "Energy Department, Federal Energy Regulatory Commission",
    "location": null
   },
   "eastern gas transmission and storage, inc.; notice of application and establishing intervention deadline|energy department, federal energy regulatory commission|": {
    "first_seen": "2026-11-24T10:55:06+00:00",
-   "last_seen": "2026-11-24T21:11:21+00:00",
+   "last_seen": "2026-11-25T04:12:51+00:00",
    "title": "Eastern Gas Transmission and Storage, Inc.; Notice of Application and Establishing Intervention Deadline",
    "org": "Energy Department, Federal Energy Regulatory Commission",
    "location": null
   },
   "columbia gas transmission, llc; notice of request under blanket authorization and establishing intervention and protest |energy department, federal energy regulatory commission|": {
    "first_seen": "2026-11-24T10:55:06+00:00",
-   "last_seen": "2026-11-24T21:11:21+00:00",
+   "last_seen": "2026-11-25T04:12:51+00:00",
    "title": "Columbia Gas Transmission, LLC; Notice of Request Under Blanket Authorization and Establishing Intervention and Protest Deadline",
    "org": "Energy Department, Federal Energy Regulatory Commission",
    "location": null
   },
   "enable gas transmission, llc; notice of request under blanket authorization and establishing intervention and protest de|energy department, federal energy regulatory commission|": {
    "first_seen": "2026-11-24T10:55:06+00:00",
-   "last_seen": "2026-11-24T21:11:21+00:00",
+   "last_seen": "2026-11-25T04:12:51+00:00",
    "title": "Enable Gas Transmission, LLC; Notice of Request Under Blanket Authorization and Establishing Intervention and Protest Deadline",
    "org": "Energy Department, Federal Energy Regulatory Commission",
    "location": null
   },
   "bonneville power administration; notice of filing|energy department, federal energy regulatory commission|": {
    "first_seen": "2026-11-24T10:55:06+00:00",
-   "last_seen": "2026-11-24T21:11:21+00:00",
+   "last_seen": "2026-11-25T04:12:51+00:00",
    "title": "Bonneville Power Administration; Notice of Filing",
    "org": "Energy Department, Federal Energy Regulatory Commission",
    "location": null
   },
   "the city of columbus, ohio; notice of intent to prepare an environmental assessment|energy department, federal energy regulatory commission|": {
    "first_seen": "2026-11-24T10:55:06+00:00",
-   "last_seen": "2026-11-24T21:11:21+00:00",
+   "last_seen": "2026-11-25T04:12:51+00:00",
    "title": "The City of Columbus, Ohio; Notice of Intent To Prepare an Environmental Assessment",
    "org": "Energy Department, Federal Energy Regulatory Commission",
    "location": null
   },
   "forestport hydro, llc; notice of availability of environmental assessment|energy department, federal energy regulatory commission|": {
    "first_seen": "2026-11-24T10:55:06+00:00",
-   "last_seen": "2026-11-24T21:11:21+00:00",
+   "last_seen": "2026-11-25T04:12:51+00:00",
    "title": "Forestport Hydro, LLC; Notice of Availability of Environmental Assessment",
    "org": "Energy Department, Federal Energy Regulatory Commission",
    "location": null
   },
   "southern nuclear operating company; vogtle electric generating plant, units 3 and 4; exemptions|nuclear regulatory commission|": {
    "first_seen": "2026-11-24T10:55:06+00:00",
-   "last_seen": "2026-11-24T21:11:21+00:00",
+   "last_seen": "2026-11-25T04:12:51+00:00",
    "title": "Southern Nuclear Operating Company; Vogtle Electric Generating Plant, Units 3 and 4; Exemptions",
    "org": "Nuclear Regulatory Commission",
    "location": null
   },
   "streamlining the application process for grants for adaptive sports programs for disabled veterans and disabled members |veterans affairs department|": {
    "first_seen": "2026-11-24T10:55:06+00:00",
-   "last_seen": "2026-11-24T21:11:21+00:00",
+   "last_seen": "2026-11-25T04:12:51+00:00",
    "title": "Streamlining the Application Process for Grants for Adaptive Sports Programs for Disabled Veterans and Disabled Members of the Armed Forces",
    "org": "Veterans Affairs Department",
    "location": null
   },
   "denial of rehearing requests by operation of law under the commission's rules of practice and procedure|energy department, federal energy regulatory commission|": {
    "first_seen": "2026-11-24T10:55:06+00:00",
-   "last_seen": "2026-11-24T21:11:21+00:00",
+   "last_seen": "2026-11-25T04:12:51+00:00",
    "title": "Denial of Rehearing Requests by Operation of Law Under the Commission's Rules of Practice and Procedure",
    "org": "Energy Department, Federal Energy Regulatory Commission",
    "location": null
   },
   "streamlining and improving efficiencies in the rcra hazardous waste permitting program; notice of virtual public meeting|environmental protection agency|": {
    "first_seen": "2026-11-24T10:55:06+00:00",
-   "last_seen": "2026-11-24T21:11:21+00:00",
+   "last_seen": "2026-11-25T04:12:51+00:00",
    "title": "Streamlining and Improving Efficiencies in the RCRA Hazardous Waste Permitting Program; Notice of Virtual Public Meetings and Request for Information",
    "org": "Environmental Protection Agency",
    "location": null
   },
   "30-day notice of proposed information collection: housing finance agency risk-sharing program|housing and urban development department|": {
    "first_seen": "2026-11-24T10:55:06+00:00",
-   "last_seen": "2026-11-24T21:11:21+00:00",
+   "last_seen": "2026-11-25T04:12:51+00:00",
    "title": "30-Day Notice of Proposed Information Collection: Housing Finance Agency Risk-Sharing Program",
    "org": "Housing and Urban Development Department",
    "location": null
   },
   "airworthiness directives; bell textron canada limited helicopters|transportation department, federal aviation administration|": {
    "first_seen": "2026-11-24T10:55:06+00:00",
-   "last_seen": "2026-11-24T21:11:21+00:00",
+   "last_seen": "2026-11-25T04:12:51+00:00",
    "title": "Airworthiness Directives; Bell Textron Canada Limited Helicopters",
    "org": "Transportation Department, Federal Aviation Administration",
    "location": null
   },
   "30-day notice of proposed information collection: evaluation of the community choice demonstration|housing and urban development department|": {
    "first_seen": "2026-11-24T10:55:06+00:00",
-   "last_seen": "2026-11-24T21:11:21+00:00",
+   "last_seen": "2026-11-25T04:12:51+00:00",
    "title": "30-Day Notice of Proposed Information Collection: Evaluation of the Community Choice Demonstration",
    "org": "Housing and Urban Development Department",
    "location": null
   },
   "va's national academic affiliations council, notice of meeting|veterans affairs department|": {
    "first_seen": "2026-11-24T10:55:06+00:00",
-   "last_seen": "2026-11-24T21:11:21+00:00",
+   "last_seen": "2026-11-25T04:12:51+00:00",
    "title": "VA's National Academic Affiliations Council, Notice of Meeting",
    "org": "Veterans Affairs Department",
    "location": null
   },
   "notice of request for a revision of a currently approved information collection; livestock, poultry, and grain market ne|agriculture department, agricultural marketing service|": {
    "first_seen": "2026-11-24T10:55:06+00:00",
-   "last_seen": "2026-11-24T21:11:21+00:00",
+   "last_seen": "2026-11-25T04:12:51+00:00",
    "title": "Notice of Request for a Revision of a Currently Approved Information Collection; Livestock, Poultry, and Grain Market News",
    "org": "Agriculture Department, Agricultural Marketing Service",
    "location": null
   },
   "establishment of class e airspace over hardy, va|transportation department, federal aviation administration|": {
    "first_seen": "2026-11-24T10:55:06+00:00",
-   "last_seen": "2026-11-24T21:11:21+00:00",
+   "last_seen": "2026-11-25T04:12:51+00:00",
    "title": "Establishment of Class E Airspace Over Hardy, VA",
    "org": "Transportation Department, Federal Aviation Administration",
    "location": null
   },
   "proposed information collection activity; voluntary agencies matching grant program data reporting|health and human services department, children and families administration|": {
    "first_seen": "2026-11-24T10:55:06+00:00",
-   "last_seen": "2026-11-24T21:11:21+00:00",
+   "last_seen": "2026-11-25T04:12:51+00:00",
    "title": "Proposed Information Collection Activity; Voluntary Agencies Matching Grant Program Data Reporting",
    "org": "Health and Human Services Department, Children and Families Administration",
    "location": null
   },
   "agency information collection activities; submission for omb review; comment request; medical travel refund request|labor department|": {
    "first_seen": "2026-11-24T10:55:06+00:00",
-   "last_seen": "2026-11-24T21:11:21+00:00",
+   "last_seen": "2026-11-25T04:12:51+00:00",
    "title": "Agency Information Collection Activities; Submission for OMB Review; Comment Request; Medical Travel Refund Request",
    "org": "Labor Department",
    "location": null
   },
   "personnel appeals board; procedural rules|government accountability office|": {
    "first_seen": "2026-11-24T10:55:06+00:00",
-   "last_seen": "2026-11-24T21:11:21+00:00",
+   "last_seen": "2026-11-25T04:12:51+00:00",
    "title": "Personnel Appeals Board; Procedural Rules",
    "org": "Government Accountability Office",
    "location": null
   },
   "international isotopes fluorine products, inc.; consideration of approval of transfer of control of license|nuclear regulatory commission|": {
    "first_seen": "2026-11-24T10:55:06+00:00",
-   "last_seen": "2026-11-24T21:11:21+00:00",
+   "last_seen": "2026-11-25T04:12:51+00:00",
    "title": "International Isotopes Fluorine Products, Inc.; Consideration of Approval of Transfer of Control of License",
    "org": "Nuclear Regulatory Commission",
    "location": null
   },
   "60-day notice: renewal information collection: generic solution for solicitation for hud's competitive discretionary fun|housing and urban development department|": {
    "first_seen": "2026-11-24T10:55:06+00:00",
-   "last_seen": "2026-11-24T21:11:21+00:00",
+   "last_seen": "2026-11-25T04:12:51+00:00",
    "title": "60-Day Notice: Renewal Information Collection: Generic Solution for Solicitation for HUD's Competitive Discretionary Funding Opportunity Announcements",
    "org": "Housing and Urban Development Department",
    "location": null
   },
   "certain dynamic random access memory (dram) devices, products containing the same, and components thereof (iii); notice |international trade commission|": {
    "first_seen": "2026-11-24T10:55:06+00:00",
-   "last_seen": "2026-11-24T21:11:21+00:00",
+   "last_seen": "2026-11-25T04:12:51+00:00",
    "title": "Certain Dynamic Random Access Memory (DRAM) Devices, Products Containing the Same, and Components Thereof (III); Notice of a Commission Determination Not To Review an Initial Determination Granting a Joint Motion To Terminate the Investigat",
    "org": "International Trade Commission",
    "location": null
   },
   "notice concerning the commission's appointment of two administrative law judges for section 337 investigations|international trade commission|": {
    "first_seen": "2026-11-24T10:55:06+00:00",
-   "last_seen": "2026-11-24T21:11:21+00:00",
+   "last_seen": "2026-11-25T04:12:51+00:00",
    "title": "Notice Concerning the Commission's Appointment of Two Administrative Law Judges for Section 337 Investigations",
    "org": "International Trade Commission",
    "location": null
   },
   "certain medical imaging devices; notice of commission determination not to review an initial determination granting a jo|international trade commission|": {
    "first_seen": "2026-11-24T10:55:06+00:00",
-   "last_seen": "2026-11-24T21:11:21+00:00",
+   "last_seen": "2026-11-25T04:12:51+00:00",
    "title": "Certain Medical Imaging Devices; Notice of Commission Determination Not to Review an Initial Determination Granting a Joint Motion To Terminate the Investigation Based on Settlement; Termination of Investigation",
    "org": "International Trade Commission",
    "location": null
   },
   "airworthiness directives; cfm international, s.a. engines|transportation department, federal aviation administration|": {
    "first_seen": "2026-11-24T10:55:06+00:00",
-   "last_seen": "2026-11-24T21:11:21+00:00",
+   "last_seen": "2026-11-25T04:12:51+00:00",
    "title": "Airworthiness Directives; CFM International, S.A. Engines",
    "org": "Transportation Department, Federal Aviation Administration",
    "location": null
   },
   "oil and gas and sulfur operations in the outer continental shelf-documents incorporated by reference|interior department, safety and environmental enforcement bureau|": {
    "first_seen": "2026-11-24T10:55:06+00:00",
-   "last_seen": "2026-11-24T21:11:21+00:00",
+   "last_seen": "2026-11-25T04:12:51+00:00",
    "title": "Oil and Gas and Sulfur Operations in the Outer Continental Shelf-Documents Incorporated by Reference",
    "org": "Interior Department, Safety and Environmental Enforcement Bureau",
    "location": null
   },
   "agency information collection activities; submission to the office of management and budget; marine mammal marking, tagg|interior department, fish and wildlife service|": {
    "first_seen": "2026-11-24T10:55:06+00:00",
-   "last_seen": "2026-11-24T21:11:21+00:00",
+   "last_seen": "2026-11-25T04:12:51+00:00",
    "title": "Agency Information Collection Activities; Submission to the Office of Management and Budget; Marine Mammal Marking, Tagging, and Reporting Certificates, and Registration of Certain Dead Marine Mammal Hard Parts",
    "org": "Interior Department, Fish and Wildlife Service",
    "location": null
   },
   "agency information collection activities; submission to the office of management and budget; policy regarding voluntary |interior department, fish and wildlife service|": {
    "first_seen": "2026-11-24T10:55:06+00:00",
-   "last_seen": "2026-11-24T21:11:21+00:00",
+   "last_seen": "2026-11-25T04:12:51+00:00",
    "title": "Agency Information Collection Activities; Submission to the Office of Management and Budget; Policy Regarding Voluntary Prelisting Conservation Actions",
    "org": "Interior Department, Fish and Wildlife Service",
    "location": null
   },
   "agency information collection activities; submission to the office of management and budget; alaska native handicrafts|interior department, fish and wildlife service|": {
    "first_seen": "2026-11-24T10:55:06+00:00",
-   "last_seen": "2026-11-24T21:11:21+00:00",
+   "last_seen": "2026-11-25T04:12:51+00:00",
    "title": "Agency Information Collection Activities; Submission to the Office of Management and Budget; Alaska Native Handicrafts",
    "org": "Interior Department, Fish and Wildlife Service",
    "location": null
   },
   "self-regulatory organizations; mx2 llc; notice of filing and immediate effectiveness of a proposed rule change to amend |securities and exchange commission|": {
    "first_seen": "2026-11-24T10:55:06+00:00",
-   "last_seen": "2026-11-24T21:11:21+00:00",
+   "last_seen": "2026-11-25T04:12:51+00:00",
    "title": "Self-Regulatory Organizations; MX2 LLC; Notice of Filing and Immediate Effectiveness of a Proposed Rule Change To Amend the Exchange's Fee Schedule",
    "org": "Securities and Exchange Commission",
    "location": null
   },
   "notification of inflation adjustments for civil money penalties|treasury department, comptroller of the currency|": {
    "first_seen": "2026-11-24T10:55:06+00:00",
-   "last_seen": "2026-11-24T21:11:21+00:00",
+   "last_seen": "2026-11-25T04:12:51+00:00",
    "title": "Notification of Inflation Adjustments for Civil Money Penalties",
    "org": "Treasury Department, Comptroller of the Currency",
    "location": null
   },
   "self-regulatory organizations; cboe exchange, inc.; notice of filing of amendment no. 2 and order granting accelerated a|securities and exchange commission|": {
    "first_seen": "2026-11-24T10:55:06+00:00",
-   "last_seen": "2026-11-24T21:11:21+00:00",
+   "last_seen": "2026-11-25T04:12:51+00:00",
    "title": "Self-Regulatory Organizations; Cboe Exchange, Inc.; Notice of Filing of Amendment No. 2 and Order Granting Accelerated Approval of a Proposed Rule Change, as Modified by Amendment No. 2, To Allow Stop-Limit Complex Orders and Establish Stop",
    "org": "Securities and Exchange Commission",
    "location": null
   },
   "self-regulatory organizations; miami international securities exchange llc; notice of filing and immediate effectiveness|securities and exchange commission|": {
    "first_seen": "2026-11-24T10:55:06+00:00",
-   "last_seen": "2026-11-24T21:11:21+00:00",
+   "last_seen": "2026-11-25T04:12:51+00:00",
    "title": "Self-Regulatory Organizations; Miami International Securities Exchange LLC; Notice of Filing and Immediate Effectiveness of a Proposed Rule Change To Permit the Listing and Trading of Binary Options on Broad-Based Indexes",
    "org": "Securities and Exchange Commission",
    "location": null
   },
   "self-regulatory organizations; long-term stock exchange, inc.; notice of filing and immediate effectiveness of proposed |securities and exchange commission|": {
    "first_seen": "2026-11-24T10:55:06+00:00",
-   "last_seen": "2026-11-24T21:11:21+00:00",
+   "last_seen": "2026-11-25T04:12:51+00:00",
    "title": "Self-Regulatory Organizations; Long-Term Stock Exchange, Inc.; Notice of Filing and Immediate Effectiveness of Proposed Rule Change To Amend the LTSE Fee Schedule To Modify Certain Transaction Fees and Rebates",
    "org": "Securities and Exchange Commission",
    "location": null

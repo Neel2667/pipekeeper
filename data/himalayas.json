@@ -3,85 +3,29 @@
  "name": "Himalayas \u2014 remote jobs",
  "category": "jobs",
  "source": "https://himalayas.app/jobs/api",
- "collected_at": "2026-11-24T21:11:16+00:00",
+ "collected_at": "2026-11-25T04:12:46+00:00",
  "jobs_on_board": 20,
  "new_this_run": 20,
- "total_tracked": 635,
+ "total_tracked": 655,
  "jobs": [
   {
-   "title": "HR Service Partner (m/f/d)",
-   "org": "Veralto",
-   "location": "Bulgaria, Croatia, Czechia, Hungary, Poland, Romania, Slovakia",
-   "detail": "Full Time",
-   "url": null,
-   "new_this_run": true
-  },
-  {
-   "title": "Product Manager - S\u00eanior (Vender+ CRM)",
-   "org": "#VemPraSaipos",
-   "location": "Brazil",
-   "detail": "Contractor",
-   "url": null,
-   "new_this_run": true
-  },
-  {
-   "title": "Occupational Health and Safety Trainer",
-   "org": "Talent Diamond",
-   "location": "Saudi Arabia",
-   "detail": "Full Time",
-   "url": null,
-   "new_this_run": true
-  },
-  {
-   "title": "Data Architect \u2013 Enterprise Asset Management (EAM/CMMS)",
-   "org": "TISTA Science and Technology Corporation",
-   "location": "United States",
-   "detail": "$86,000\u2013$165,000/a",
-   "url": null,
-   "new_this_run": true
-  },
-  {
-   "title": "RVP Client Engagement - Government",
-   "org": "Cotiviti",
-   "location": "United States",
-   "detail": "$190,000\u2013$222,000/a",
-   "url": null,
-   "new_this_run": true
-  },
-  {
-   "title": "Staff Software Engineer",
-   "org": "Dispensed",
-   "location": "Australia",
-   "detail": "Full Time",
-   "url": null,
-   "new_this_run": true
-  },
-  {
-   "title": "Senior Data Engineer (Databricks)",
-   "org": "Madiff",
-   "location": "Poland",
-   "detail": "Full Time",
-   "url": null,
-   "new_this_run": true
-  },
-  {
-   "title": "Virtual Banker I - Columbus, OH",
-   "org": "JPMorgan Chase & Co.",
+   "title": "QA Engineer (Salesforce)",
+   "org": "Dfbooking Recruitment Services",
    "location": "United States",
    "detail": "Full Time",
    "url": null,
    "new_this_run": true
   },
   {
-   "title": "Director, Strategy and M&A",
-   "org": "J.D. Power",
+   "title": "Software Development Engineer IV - Windows Instrumentation and Automation",
+   "org": "Bruker",
    "location": "United States",
-   "detail": "$167,500\u2013$210,000/a",
+   "detail": "$107,100\u2013$190,000/a",
    "url": null,
    "new_this_run": true
   },
   {
-   "title": "Freelance Data Product Lead voor Finance, Procurement & Sales (50%)",
+   "title": "Freelance of vast - Specialist MSAT Resource Management - Pharma - Beerse",
    "org": "EngiFlex",
    "location": "Belgium",
    "detail": "Contractor",
@@ -89,18 +33,74 @@
    "new_this_run": true
   },
   {
-   "title": "Pessoa Analista de Marketing Sr (conte\u00fado) (Remoto) - 7224",
-   "org": "Starian",
-   "location": "Brazil",
+   "title": "Audio Engineer - Fully Remote | Upto $15/hr",
+   "org": "mercor",
+   "location": "United Kingdom",
+   "detail": "$15\u2013$15/h",
+   "url": null,
+   "new_this_run": true
+  },
+  {
+   "title": "Regional Data Center Practice Leader",
+   "org": "Geosyntec Consultants",
+   "location": "United States",
    "detail": "Full Time",
    "url": null,
    "new_this_run": true
   },
   {
-   "title": "Analista de Automa\u00e7\u00e3o de Testes Pleno",
-   "org": "Stefanini",
-   "location": "Brazil",
+   "title": "Senior iOS Developer (SwiftUI)",
+   "org": "AccelOne",
+   "location": "Anguilla, Antigua and Barbuda, Argentina, Aruba, Bahamas, Barbados, Belize, Bermuda, Bolivia, Bonaire, Sint Eustatius and Saba, Brazil, Cayman Islands, Chile, Colombia, Costa Rica, Cuba, Dominica, Dominican Republic, Ecuador, El Salvador, F",
+   "detail": "Contractor",
+   "url": null,
+   "new_this_run": true
+  },
+  {
+   "title": "MDM Tester",
+   "org": "Marlabs Inc.",
+   "location": "United States",
    "detail": "Full Time",
+   "url": null,
+   "new_this_run": true
+  },
+  {
+   "title": "Director of Operations / Senior Operations Manager",
+   "org": "Remote Employee PH",
+   "location": "Philippines",
+   "detail": "Full Time",
+   "url": null,
+   "new_this_run": true
+  },
+  {
+   "title": "Associate Key Account Director",
+   "org": "Lifelancer",
+   "location": "United States",
+   "detail": "$89,900\u2013$250,400/a",
+   "url": null,
+   "new_this_run": true
+  },
+  {
+   "title": "Administrative Logistics Specialist",
+   "org": "Sourcefit",
+   "location": "Philippines",
+   "detail": "Full Time",
+   "url": null,
+   "new_this_run": true
+  },
+  {
+   "title": "UX/UI Designer (1 day per week contract)",
+   "org": "Trideca",
+   "location": "Australia",
+   "detail": "Contractor",
+   "url": null,
+   "new_this_run": true
+  },
+  {
+   "title": "Summer Internship | NextGen Marketing",
+   "org": "LifeWay Christian Resources",
+   "location": "United States",
+   "detail": "Intern",
    "url": null,
    "new_this_run": true
   }
@@ -273,6 +273,11 @@
   },
   {
    "at": "2026-11-24T21:11:16+00:00",
+   "jobs": 20,
+   "new": 20
+  },
+  {
+   "at": "2026-11-25T04:12:46+00:00",
    "jobs": 20,
    "new": 20
   }
@@ -4722,6 +4727,146 @@
    "title": "Consultor/a de Negocio \u2013 Dynamics 365 Contact Center",
    "org": "Fistrek",
    "location": "Spain"
+  },
+  "qa engineer (salesforce)|dfbooking recruitment services|united states": {
+   "first_seen": "2026-11-25T04:12:46+00:00",
+   "last_seen": "2026-11-25T04:12:46+00:00",
+   "title": "QA Engineer (Salesforce)",
+   "org": "Dfbooking Recruitment Services",
+   "location": "United States"
+  },
+  "software development engineer iv - windows instrumentation and automation|bruker|united states": {
+   "first_seen": "2026-11-25T04:12:46+00:00",
+   "last_seen": "2026-11-25T04:12:46+00:00",
+   "title": "Software Development Engineer IV - Windows Instrumentation and Automation",
+   "org": "Bruker",
+   "location": "United States"
+  },
+  "freelance of vast - specialist msat resource management - pharma - beerse|engiflex|belgium": {
+   "first_seen": "2026-11-25T04:12:46+00:00",
+   "last_seen": "2026-11-25T04:12:46+00:00",
+   "title": "Freelance of vast - Specialist MSAT Resource Management - Pharma - Beerse",
+   "org": "EngiFlex",
+   "location": "Belgium"
+  },
+  "audio engineer - fully remote | upto $15/hr|mercor|united kingdom": {
+   "first_seen": "2026-11-25T04:12:46+00:00",
+   "last_seen": "2026-11-25T04:12:46+00:00",
+   "title": "Audio Engineer - Fully Remote | Upto $15/hr",
+   "org": "mercor",
+   "location": "United Kingdom"
+  },
+  "regional data center practice leader|geosyntec consultants|united states": {
+   "first_seen": "2026-11-25T04:12:46+00:00",
+   "last_seen": "2026-11-25T04:12:46+00:00",
+   "title": "Regional Data Center Practice Leader",
+   "org": "Geosyntec Consultants",
+   "location": "United States"
+  },
+  "senior ios developer (swiftui)|accelone|anguilla, antigua and barbuda, argentina, aruba, bahamas, barbados, belize, bermuda, bolivia, bonaire, sint eustatius an": {
+   "first_seen": "2026-11-25T04:12:46+00:00",
+   "last_seen": "2026-11-25T04:12:46+00:00",
+   "title": "Senior iOS Developer (SwiftUI)",
+   "org": "AccelOne",
+   "location": "Anguilla, Antigua and Barbuda, Argentina, Aruba, Bahamas, Barbados, Belize, Bermuda, Bolivia, Bonaire, Sint Eustatius and Saba, Brazil, Cayman Islands, Chile, Colombia, Costa Rica, Cuba, Dominica, Dominican Republic, Ecuador, El Salvador, F"
+  },
+  "mdm tester|marlabs inc.|united states": {
+   "first_seen": "2026-11-25T04:12:46+00:00",
+   "last_seen": "2026-11-25T04:12:46+00:00",
+   "title": "MDM Tester",
+   "org": "Marlabs Inc.",
+   "location": "United States"
+  },
+  "director of operations / senior operations manager|remote employee ph|philippines": {
+   "first_seen": "2026-11-25T04:12:46+00:00",
+   "last_seen": "2026-11-25T04:12:46+00:00",
+   "title": "Director of Operations / Senior Operations Manager",
+   "org": "Remote Employee PH",
+   "location": "Philippines"
+  },
+  "associate key account director|lifelancer|united states": {
+   "first_seen": "2026-11-25T04:12:46+00:00",
+   "last_seen": "2026-11-25T04:12:46+00:00",
+   "title": "Associate Key Account Director",
+   "org": "Lifelancer",
+   "location": "United States"
+  },
+  "administrative logistics specialist|sourcefit|philippines": {
+   "first_seen": "2026-11-25T04:12:46+00:00",
+   "last_seen": "2026-11-25T04:12:46+00:00",
+   "title": "Administrative Logistics Specialist",
+   "org": "Sourcefit",
+   "location": "Philippines"
+  },
+  "ux/ui designer (1 day per week contract)|trideca|australia": {
+   "first_seen": "2026-11-25T04:12:46+00:00",
+   "last_seen": "2026-11-25T04:12:46+00:00",
+   "title": "UX/UI Designer (1 day per week contract)",
+   "org": "Trideca",
+   "location": "Australia"
+  },
+  "summer internship | nextgen marketing|lifeway christian resources|united states": {
+   "first_seen": "2026-11-25T04:12:46+00:00",
+   "last_seen": "2026-11-25T04:12:46+00:00",
+   "title": "Summer Internship | NextGen Marketing",
+   "org": "LifeWay Christian Resources",
+   "location": "United States"
+  },
+  "accounting specialist - workflow analyst|mercor|australia": {
+   "first_seen": "2026-11-25T04:12:46+00:00",
+   "last_seen": "2026-11-25T04:12:46+00:00",
+   "title": "Accounting Specialist - Workflow Analyst",
+   "org": "mercor",
+   "location": "Australia"
+  },
+  "clinical program manager, rwe (fsp)\u2013 oncology|lifelancer|united kingdom": {
+   "first_seen": "2026-11-25T04:12:46+00:00",
+   "last_seen": "2026-11-25T04:12:46+00:00",
+   "title": "Clinical Program Manager, RWE (FSP)\u2013 Oncology",
+   "org": "Lifelancer",
+   "location": "United Kingdom"
+  },
+  "fund accounting manager|finstrat management|philippines": {
+   "first_seen": "2026-11-25T04:12:46+00:00",
+   "last_seen": "2026-11-25T04:12:46+00:00",
+   "title": "Fund Accounting Manager",
+   "org": "FinStrat Management",
+   "location": "Philippines"
+  },
+  "remote business development specialist \u2013 clinical trials (part-time/full-time)|angel city va|philippines": {
+   "first_seen": "2026-11-25T04:12:46+00:00",
+   "last_seen": "2026-11-25T04:12:46+00:00",
+   "title": "Remote Business Development Specialist \u2013 Clinical Trials (Part-Time/Full-Time)",
+   "org": "Angel City VA",
+   "location": "Philippines"
+  },
+  "senior agile program manager - senior associate - telecommuncation|publicis groupe|italy": {
+   "first_seen": "2026-11-25T04:12:46+00:00",
+   "last_seen": "2026-11-25T04:12:46+00:00",
+   "title": "Senior Agile Program Manager - Senior Associate - Telecommuncation",
+   "org": "Publicis Groupe",
+   "location": "Italy"
+  },
+  "vice president strategic accounts|exl|united states": {
+   "first_seen": "2026-11-25T04:12:46+00:00",
+   "last_seen": "2026-11-25T04:12:46+00:00",
+   "title": "Vice President Strategic Accounts",
+   "org": "EXL",
+   "location": "United States"
+  },
+  "timekeeping specialist - remote|ttec|philippines": {
+   "first_seen": "2026-11-25T04:12:46+00:00",
+   "last_seen": "2026-11-25T04:12:46+00:00",
+   "title": "Timekeeping Specialist - Remote",
+   "org": "TTEC",
+   "location": "Philippines"
+  },
+  "head of freight brokerage (us market)|united fleet corp|united states": {
+   "first_seen": "2026-11-25T04:12:46+00:00",
+   "last_seen": "2026-11-25T04:12:46+00:00",
+   "title": "Head of Freight Brokerage (US Market)",
+   "org": "United Fleet Corp",
+   "location": "United States"
   }
  }
 }

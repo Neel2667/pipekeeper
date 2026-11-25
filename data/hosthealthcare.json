@@ -1,6 +1,6 @@
 {
  "source": "https://www.hosthealthcare.com/jobs/",
- "collected_at": "2026-11-24T21:11:14+00:00",
+ "collected_at": "2026-11-25T04:12:45+00:00",
  "jobs_on_board": 15,
  "new_this_run": 0,
  "total_tracked": 20,
@@ -69,6 +69,24 @@
    "new_this_run": false
   },
   {
+   "title": "RN - Operating Room",
+   "location": "Denver, CO",
+   "pay_amount": "80.0",
+   "pay_unit": "hour",
+   "weeks": 8,
+   "kind": "local",
+   "new_this_run": false
+  },
+  {
+   "title": "RN - Operating Room",
+   "location": "Denver, CO",
+   "pay_amount": "4,411.4",
+   "pay_unit": "week",
+   "weeks": 8,
+   "kind": "travel",
+   "new_this_run": false
+  },
+  {
    "title": "Cath Lab Tech",
    "location": "Bakersfield, CA",
    "pay_amount": "4,409.1",
@@ -119,24 +137,6 @@
    "pay_amount": "4,089.6",
    "pay_unit": "week",
    "weeks": 13,
-   "kind": "travel",
-   "new_this_run": false
-  },
-  {
-   "title": "RN - Labor and Delivery",
-   "location": "Saint Paul, MN",
-   "pay_amount": "4,079.9",
-   "pay_unit": "week",
-   "weeks": 8,
-   "kind": "travel",
-   "new_this_run": false
-  },
-  {
-   "title": "RN - Labor and Delivery",
-   "location": "New Ulm, MN",
-   "pay_amount": "4,079.9",
-   "pay_unit": "week",
-   "weeks": 8,
    "kind": "travel",
    "new_this_run": false
   }
@@ -341,18 +341,23 @@
    "at": "2026-11-24T21:11:14+00:00",
    "jobs": 15,
    "new": 0
+  },
+  {
+   "at": "2026-11-25T04:12:45+00:00",
+   "jobs": 15,
+   "new": 0
   }
  ],
  "jobs_seen": {
   "physical therapist - allied|seattle, wa": {
    "first_seen": "2026-11-15T09:21:04+00:00",
-   "last_seen": "2026-11-24T21:11:14+00:00",
+   "last_seen": "2026-11-25T04:12:45+00:00",
    "title": "Physical Therapist - Allied",
    "location": "Seattle, WA"
   },
   "crna|bigfork, mn": {
    "first_seen": "2026-11-15T09:21:04+00:00",
-   "last_seen": "2026-11-24T21:11:14+00:00",
+   "last_seen": "2026-11-25T04:12:45+00:00",
    "title": "CRNA",
    "location": "Bigfork, MN"
   },
@@ -370,7 +375,7 @@
   },
   "director of oncology - executive leadership|santa maria, ca": {
    "first_seen": "2026-11-15T09:21:04+00:00",
-   "last_seen": "2026-11-24T21:11:14+00:00",
+   "last_seen": "2026-11-25T04:12:45+00:00",
    "title": "Director of Oncology - Executive Leadership",
    "location": "Santa Maria, CA"
   },
@@ -388,7 +393,7 @@
   },
   "cath lab tech|bakersfield, ca": {
    "first_seen": "2026-11-15T09:21:04+00:00",
-   "last_seen": "2026-11-24T21:11:14+00:00",
+   "last_seen": "2026-11-25T04:12:45+00:00",
    "title": "Cath Lab Tech",
    "location": "Bakersfield, CA"
   },
@@ -418,37 +423,37 @@
   },
   "rn - operating room|denver, co": {
    "first_seen": "2026-11-17T03:53:05+00:00",
-   "last_seen": "2026-11-20T11:50:13+00:00",
+   "last_seen": "2026-11-25T04:12:45+00:00",
    "title": "RN - Operating Room",
    "location": "Denver, CO"
   },
   "rn - nurse educator|new york, ny": {
    "first_seen": "2026-11-17T22:23:59+00:00",
-   "last_seen": "2026-11-24T21:11:14+00:00",
+   "last_seen": "2026-11-25T04:12:45+00:00",
    "title": "RN - Nurse Educator",
    "location": "New York, NY"
   },
   "rn - picu|new haven, ct": {
    "first_seen": "2026-11-17T22:23:59+00:00",
-   "last_seen": "2026-11-24T21:11:14+00:00",
+   "last_seen": "2026-11-25T04:12:45+00:00",
    "title": "RN - PICU",
    "location": "New Haven, CT"
   },
   "eeg technologist|houston, tx": {
    "first_seen": "2026-11-19T03:27:09+00:00",
-   "last_seen": "2026-11-24T21:11:14+00:00",
+   "last_seen": "2026-11-25T04:12:45+00:00",
    "title": "EEG Technologist",
    "location": "Houston, TX"
   },
   "rn - picu|lebanon, nh": {
    "first_seen": "2026-11-21T23:15:20+00:00",
-   "last_seen": "2026-11-24T21:11:14+00:00",
+   "last_seen": "2026-11-25T04:12:45+00:00",
    "title": "RN - PICU",
    "location": "Lebanon, NH"
   },
   "cath lab tech|coon rapids, mn": {
    "first_seen": "2026-11-24T00:50:40+00:00",
-   "last_seen": "2026-11-24T21:11:14+00:00",
+   "last_seen": "2026-11-25T04:12:45+00:00",
    "title": "Cath Lab Tech",
    "location": "Coon Rapids, MN"
   },
