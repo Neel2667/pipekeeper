@@ -3,105 +3,105 @@
  "name": "Jobicy \u2014 remote jobs",
  "category": "jobs",
  "source": "https://jobicy.com/api/v2/remote-jobs",
- "collected_at": "2026-11-25T23:36:50+00:00",
+ "collected_at": "2026-11-26T08:16:49+00:00",
  "jobs_on_board": 50,
  "new_this_run": 50,
- "total_tracked": 1153,
+ "total_tracked": 1203,
  "jobs": [
   {
-   "title": "Deployment Associate - Accounting Solutions",
-   "org": "Rillet",
-   "location": "USA",
+   "title": "Senior Data Engineer, Datacraft team",
+   "org": "Bloomreach",
+   "location": "Czechia",
    "detail": "Senior",
-   "url": "https://jobicy.com/jobs/164315-deployment-associate-accounting-solutions",
+   "url": "https://jobicy.com/jobs/157270-senior-data-engineer-datacraft-team",
    "new_this_run": true
   },
   {
-   "title": "Senior Product Manager I, Expert Apply",
-   "org": "BOLD",
-   "location": "USA",
-   "detail": "Senior",
-   "url": "https://jobicy.com/jobs/164314-senior-product-manager-i-expert-apply",
+   "title": "Strategic Sales Director, EMEA",
+   "org": "Cresta",
+   "location": "UK",
+   "detail": "Director",
+   "url": "https://jobicy.com/jobs/157268-strategic-sales-director-emea",
    "new_this_run": true
   },
   {
-   "title": "Physician Assistant (PA) Admissions Consultant",
-   "org": "Inspira Education",
-   "location": "Canada, USA",
-   "detail": "Any",
-   "url": "https://jobicy.com/jobs/164313-physician-assistant-pa-admissions-consultant",
+   "title": "Senior Data Analyst (Customer Success Operations)",
+   "org": "Docplanner",
+   "location": "Spain",
+   "detail": "Director",
+   "url": "https://jobicy.com/jobs/157257-senior-data-analyst-customer-success-operations",
    "new_this_run": true
   },
   {
-   "title": "Deployment Lead - ERP Solutions",
-   "org": "Rillet",
-   "location": "USA",
-   "detail": "Senior",
-   "url": "https://jobicy.com/jobs/164312-deployment-lead-erp-solutions",
-   "new_this_run": true
-  },
-  {
-   "title": "Senior Data Scientist, Product Analytics",
-   "org": "BOLD",
+   "title": "Enterprise Sales Director - Majors, Retail",
+   "org": "Sierra",
    "location": "USA",
    "detail": "Director",
-   "url": "https://jobicy.com/jobs/164311-senior-data-scientist-product-analytics",
+   "url": "https://jobicy.com/jobs/157236-enterprise-sales-director-majors-retail",
    "new_this_run": true
   },
   {
-   "title": "Customer Experience Associate",
-   "org": "Peerspace",
-   "location": "USA",
-   "detail": "Senior",
-   "url": "https://jobicy.com/jobs/164310-customer-experience-associate-5",
+   "title": "Head of Communications",
+   "org": "Tailscale",
+   "location": "Canada",
+   "detail": "Director",
+   "url": "https://jobicy.com/jobs/157250-head-of-communications-2",
    "new_this_run": true
   },
   {
-   "title": "Full-Time MCAT Tutor",
-   "org": "Inspira Education",
-   "location": "Canada, USA",
-   "detail": "Any",
-   "url": "https://jobicy.com/jobs/164309-full-time-mcat-tutor-2",
-   "new_this_run": true
-  },
-  {
-   "title": "Account Executive",
-   "org": "Rillet",
+   "title": "Manager, Software Engineering - Developer Experience",
+   "org": "ClickUp",
    "location": "USA",
    "detail": "Director",
-   "url": "https://jobicy.com/jobs/164308-account-executive-41",
+   "url": "https://jobicy.com/jobs/157235-manager-software-engineering-developer-experience",
    "new_this_run": true
   },
   {
-   "title": "Director, Product Management - Search & Match",
-   "org": "BOLD",
+   "title": "Account Executive - Northern California",
+   "org": "Dutchie",
    "location": "USA",
    "detail": "Director",
-   "url": "https://jobicy.com/jobs/164307-director-product-management-search-match",
+   "url": "https://jobicy.com/jobs/157234-account-executive-northern-california-2",
    "new_this_run": true
   },
   {
-   "title": "Lifecycle Marketing Manager",
-   "org": "AlertMedia",
+   "title": "Account Executive, Illinois",
+   "org": "Dutchie",
    "location": "USA",
-   "detail": "Senior",
-   "url": "https://jobicy.com/jobs/164306-lifecycle-marketing-manager-2",
+   "detail": "Director",
+   "url": "https://jobicy.com/jobs/157233-account-executive-illinois",
    "new_this_run": true
   },
   {
-   "title": "Contract Senior Software Engineer, Firefox",
-   "org": "Mozilla",
-   "location": "France",
-   "detail": "Senior",
-   "url": "https://jobicy.com/jobs/164305-contract-senior-software-engineer-firefox",
+   "title": "Director, Paid Marketing - Subscription (US Remote)",
+   "org": "DuckDuckGo",
+   "location": "USA",
+   "detail": "Director",
+   "url": "https://jobicy.com/jobs/157232-director-paid-marketing-subscription-us-remote",
    "new_this_run": true
   },
   {
-   "title": "Senior Sales Engineer, Enterprise",
-   "org": "Fivetran",
-   "location": "Germany",
+   "title": "Sr. Customer Success Manager - EMEA",
+   "org": "Chili Piper",
+   "location": "EMEA",
    "detail": "Senior",
-   "url": "https://jobicy.com/jobs/164303-senior-sales-engineer-enterprise-3",
+   "url": "https://jobicy.com/jobs/157224-sr-customer-success-manager-emea",
+   "new_this_run": true
+  },
+  {
+   "title": "Major Account Executive, UK Public Sector",
+   "org": "GitLab",
+   "location": "UK",
+   "detail": "Director",
+   "url": "https://jobicy.com/jobs/157216-major-account-executive-uk-public-sector",
+   "new_this_run": true
+  },
+  {
+   "title": "Major Account Executive Netherlands",
+   "org": "GitLab",
+   "location": "Netherlands",
+   "detail": "Director",
+   "url": "https://jobicy.com/jobs/157215-major-account-executive-netherlands",
    "new_this_run": true
   }
  ],
@@ -288,6 +288,11 @@
   },
   {
    "at": "2026-11-25T23:36:50+00:00",
+   "jobs": 50,
+   "new": 50
+  },
+  {
+   "at": "2026-11-26T08:16:49+00:00",
    "jobs": 50,
    "new": 50
   }
@@ -8363,6 +8368,356 @@
    "title": "Regional Sales Manager, SLED (Chicago or Texas)",
    "org": "ExtraHop",
    "location": "USA"
+  },
+  "senior data engineer, datacraft team|bloomreach|czechia": {
+   "first_seen": "2026-11-26T08:16:49+00:00",
+   "last_seen": "2026-11-26T08:16:49+00:00",
+   "title": "Senior Data Engineer, Datacraft team",
+   "org": "Bloomreach",
+   "location": "Czechia"
+  },
+  "strategic sales director, emea|cresta|uk": {
+   "first_seen": "2026-11-26T08:16:49+00:00",
+   "last_seen": "2026-11-26T08:16:49+00:00",
+   "title": "Strategic Sales Director, EMEA",
+   "org": "Cresta",
+   "location": "UK"
+  },
+  "senior data analyst (customer success operations)|docplanner|spain": {
+   "first_seen": "2026-11-26T08:16:49+00:00",
+   "last_seen": "2026-11-26T08:16:49+00:00",
+   "title": "Senior Data Analyst (Customer Success Operations)",
+   "org": "Docplanner",
+   "location": "Spain"
+  },
+  "enterprise sales director - majors, retail|sierra|usa": {
+   "first_seen": "2026-11-26T08:16:49+00:00",
+   "last_seen": "2026-11-26T08:16:49+00:00",
+   "title": "Enterprise Sales Director - Majors, Retail",
+   "org": "Sierra",
+   "location": "USA"
+  },
+  "head of communications|tailscale|canada": {
+   "first_seen": "2026-11-26T08:16:49+00:00",
+   "last_seen": "2026-11-26T08:16:49+00:00",
+   "title": "Head of Communications",
+   "org": "Tailscale",
+   "location": "Canada"
+  },
+  "manager, software engineering - developer experience|clickup|usa": {
+   "first_seen": "2026-11-26T08:16:49+00:00",
+   "last_seen": "2026-11-26T08:16:49+00:00",
+   "title": "Manager, Software Engineering - Developer Experience",
+   "org": "ClickUp",
+   "location": "USA"
+  },
+  "account executive - northern california|dutchie|usa": {
+   "first_seen": "2026-11-26T08:16:49+00:00",
+   "last_seen": "2026-11-26T08:16:49+00:00",
+   "title": "Account Executive - Northern California",
+   "org": "Dutchie",
+   "location": "USA"
+  },
+  "account executive, illinois|dutchie|usa": {
+   "first_seen": "2026-11-26T08:16:49+00:00",
+   "last_seen": "2026-11-26T08:16:49+00:00",
+   "title": "Account Executive, Illinois",
+   "org": "Dutchie",
+   "location": "USA"
+  },
+  "director, paid marketing - subscription (us remote)|duckduckgo|usa": {
+   "first_seen": "2026-11-26T08:16:49+00:00",
+   "last_seen": "2026-11-26T08:16:49+00:00",
+   "title": "Director, Paid Marketing - Subscription (US Remote)",
+   "org": "DuckDuckGo",
+   "location": "USA"
+  },
+  "sr. customer success manager - emea|chili piper|emea": {
+   "first_seen": "2026-11-26T08:16:49+00:00",
+   "last_seen": "2026-11-26T08:16:49+00:00",
+   "title": "Sr. Customer Success Manager - EMEA",
+   "org": "Chili Piper",
+   "location": "EMEA"
+  },
+  "major account executive, uk public sector|gitlab|uk": {
+   "first_seen": "2026-11-26T08:16:49+00:00",
+   "last_seen": "2026-11-26T08:16:49+00:00",
+   "title": "Major Account Executive, UK Public Sector",
+   "org": "GitLab",
+   "location": "UK"
+  },
+  "major account executive netherlands|gitlab|netherlands": {
+   "first_seen": "2026-11-26T08:16:49+00:00",
+   "last_seen": "2026-11-26T08:16:49+00:00",
+   "title": "Major Account Executive Netherlands",
+   "org": "GitLab",
+   "location": "Netherlands"
+  },
+  "major account executive, france|gitlab|france": {
+   "first_seen": "2026-11-26T08:16:49+00:00",
+   "last_seen": "2026-11-26T08:16:49+00:00",
+   "title": "Major Account Executive, France",
+   "org": "GitLab",
+   "location": "France"
+  },
+  "product expert|revenuecat|emea, latam, canada, usa": {
+   "first_seen": "2026-11-26T08:16:49+00:00",
+   "last_seen": "2026-11-26T08:16:49+00:00",
+   "title": "Product Expert",
+   "org": "RevenueCat",
+   "location": "EMEA, LATAM, Canada, USA"
+  },
+  "social media senior associate|fanduel|usa": {
+   "first_seen": "2026-11-26T08:16:49+00:00",
+   "last_seen": "2026-11-26T08:16:49+00:00",
+   "title": "Social Media Senior Associate",
+   "org": "FanDuel",
+   "location": "USA"
+  },
+  "senior accountant|eight sleep|canada, mexico, usa": {
+   "first_seen": "2026-11-26T08:16:49+00:00",
+   "last_seen": "2026-11-26T08:16:49+00:00",
+   "title": "Senior Accountant",
+   "org": "Eight Sleep",
+   "location": "Canada, Mexico, USA"
+  },
+  "major account manager, sweden|gitlab|sweden": {
+   "first_seen": "2026-11-26T08:16:49+00:00",
+   "last_seen": "2026-11-26T08:16:49+00:00",
+   "title": "Major Account Manager, Sweden",
+   "org": "GitLab",
+   "location": "Sweden"
+  },
+  "manager, assigned support engineering (emea)|gitlab|uk": {
+   "first_seen": "2026-11-26T08:16:49+00:00",
+   "last_seen": "2026-11-26T08:16:49+00:00",
+   "title": "Manager, Assigned Support Engineering (EMEA)",
+   "org": "GitLab",
+   "location": "UK"
+  },
+  "commercial account executive, named - west|gitlab|usa": {
+   "first_seen": "2026-11-26T08:16:49+00:00",
+   "last_seen": "2026-11-26T08:16:49+00:00",
+   "title": "Commercial Account Executive, Named - West",
+   "org": "GitLab",
+   "location": "USA"
+  },
+  "demand generation manager|osano|usa": {
+   "first_seen": "2026-11-26T08:16:49+00:00",
+   "last_seen": "2026-11-26T08:16:49+00:00",
+   "title": "Demand Generation Manager",
+   "org": "Osano",
+   "location": "USA"
+  },
+  "customer success director|disqo|usa": {
+   "first_seen": "2026-11-26T08:16:49+00:00",
+   "last_seen": "2026-11-26T08:16:49+00:00",
+   "title": "Customer Success Director",
+   "org": "DISQO",
+   "location": "USA"
+  },
+  "major account executive|gitlab|germany": {
+   "first_seen": "2026-11-26T08:16:49+00:00",
+   "last_seen": "2026-11-26T08:16:49+00:00",
+   "title": "Major Account Executive",
+   "org": "GitLab",
+   "location": "Germany"
+  },
+  "vp, product|serve robotics|usa": {
+   "first_seen": "2026-11-26T08:16:49+00:00",
+   "last_seen": "2026-11-26T08:16:49+00:00",
+   "title": "VP, Product",
+   "org": "Serve Robotics",
+   "location": "USA"
+  },
+  "customer success architect|gitlab|usa": {
+   "first_seen": "2026-11-26T08:16:49+00:00",
+   "last_seen": "2026-11-26T08:16:49+00:00",
+   "title": "Customer Success Architect",
+   "org": "GitLab",
+   "location": "USA"
+  },
+  "cloud platform engineer|gitlab|canada, usa": {
+   "first_seen": "2026-11-26T08:16:49+00:00",
+   "last_seen": "2026-11-26T08:16:49+00:00",
+   "title": "Cloud Platform Engineer",
+   "org": "GitLab",
+   "location": "Canada, USA"
+  },
+  "candidate experience specialist, contractor|gitlab|usa": {
+   "first_seen": "2026-11-26T08:16:49+00:00",
+   "last_seen": "2026-11-26T08:16:49+00:00",
+   "title": "Candidate Experience Specialist, Contractor",
+   "org": "GitLab",
+   "location": "USA"
+  },
+  "enterprise account executive, (san francisco bay area remote)|astronomer|usa": {
+   "first_seen": "2026-11-26T08:16:49+00:00",
+   "last_seen": "2026-11-26T08:16:49+00:00",
+   "title": "Enterprise Account Executive, (San Francisco Bay Area remote)",
+   "org": "Astronomer",
+   "location": "USA"
+  },
+  "senior manager, accounting|wrapbook|canada, usa": {
+   "first_seen": "2026-11-26T08:16:49+00:00",
+   "last_seen": "2026-11-26T08:16:49+00:00",
+   "title": "Senior Manager, Accounting",
+   "org": "Wrapbook",
+   "location": "Canada, USA"
+  },
+  "senior product manager ii - fraud & identity|wrapbook|canada, usa": {
+   "first_seen": "2026-11-26T08:16:49+00:00",
+   "last_seen": "2026-11-26T08:16:49+00:00",
+   "title": "Senior Product Manager II - Fraud & Identity",
+   "org": "Wrapbook",
+   "location": "Canada, USA"
+  },
+  "web integrations support engineer|smartling|usa": {
+   "first_seen": "2026-11-26T08:16:49+00:00",
+   "last_seen": "2026-11-26T08:16:49+00:00",
+   "title": "Web Integrations Support Engineer",
+   "org": "Smartling",
+   "location": "USA"
+  },
+  "senior smb digital success lead, commercial|wrapbook|canada, usa": {
+   "first_seen": "2026-11-26T08:16:49+00:00",
+   "last_seen": "2026-11-26T08:16:49+00:00",
+   "title": "Senior SMB Digital Success Lead, Commercial",
+   "org": "Wrapbook",
+   "location": "Canada, USA"
+  },
+  "account director, private sector (cee & central asia)|trm labs|poland": {
+   "first_seen": "2026-11-26T08:16:49+00:00",
+   "last_seen": "2026-11-26T08:16:49+00:00",
+   "title": "Account Director, Private Sector (CEE & Central Asia)",
+   "org": "TRM Labs",
+   "location": "Poland"
+  },
+  "vp of communications|trm labs|uk, usa": {
+   "first_seen": "2026-11-26T08:16:49+00:00",
+   "last_seen": "2026-11-26T08:16:49+00:00",
+   "title": "VP of Communications",
+   "org": "TRM Labs",
+   "location": "UK, USA"
+  },
+  "senior field marketing manager - north|twilio|uk": {
+   "first_seen": "2026-11-26T08:16:49+00:00",
+   "last_seen": "2026-11-26T08:16:49+00:00",
+   "title": "Senior Field Marketing Manager - North",
+   "org": "Twilio",
+   "location": "UK"
+  },
+  "senior software engineer ii, applied ai|wrapbook|canada, usa": {
+   "first_seen": "2026-11-26T08:16:49+00:00",
+   "last_seen": "2026-11-26T08:16:49+00:00",
+   "title": "Senior Software Engineer II, Applied AI",
+   "org": "Wrapbook",
+   "location": "Canada, USA"
+  },
+  "strategic account executive (dach)|datadog|austria, germany, poland": {
+   "first_seen": "2026-11-26T08:16:49+00:00",
+   "last_seen": "2026-11-26T08:16:49+00:00",
+   "title": "Strategic Account Executive (DACH)",
+   "org": "Datadog",
+   "location": "Austria, Germany, Poland"
+  },
+  "senior field marketing manager - dach|twilio|uk": {
+   "first_seen": "2026-11-26T08:16:49+00:00",
+   "last_seen": "2026-11-26T08:16:49+00:00",
+   "title": "Senior Field Marketing Manager - DACH",
+   "org": "Twilio",
+   "location": "UK"
+  },
+  "manager, customer support|wrapbook|canada, usa": {
+   "first_seen": "2026-11-26T08:16:49+00:00",
+   "last_seen": "2026-11-26T08:16:49+00:00",
+   "title": "Manager, Customer Support",
+   "org": "Wrapbook",
+   "location": "Canada, USA"
+  },
+  "strategic account executive - israel|datadog|israel": {
+   "first_seen": "2026-11-26T08:16:49+00:00",
+   "last_seen": "2026-11-26T08:16:49+00:00",
+   "title": "Strategic Account Executive - Israel",
+   "org": "Datadog",
+   "location": "Israel"
+  },
+  "account director, southern europe - public sector|trm labs|italy": {
+   "first_seen": "2026-11-26T08:16:49+00:00",
+   "last_seen": "2026-11-26T08:16:49+00:00",
+   "title": "Account Director, Southern Europe - Public Sector",
+   "org": "TRM Labs",
+   "location": "Italy"
+  },
+  "senior customer success manager - emea|launchdarkly|emea": {
+   "first_seen": "2026-11-26T08:16:49+00:00",
+   "last_seen": "2026-11-26T08:16:49+00:00",
+   "title": "Senior Customer Success Manager - EMEA",
+   "org": "LaunchDarkly",
+   "location": "EMEA"
+  },
+  "senior solutions architect (singapore)|gitlab|singapore": {
+   "first_seen": "2026-11-26T08:16:49+00:00",
+   "last_seen": "2026-11-26T08:16:49+00:00",
+   "title": "Senior Solutions Architect (Singapore)",
+   "org": "GitLab",
+   "location": "Singapore"
+  },
+  "senior clinical project manager|precision medicine group|china": {
+   "first_seen": "2026-11-26T08:16:49+00:00",
+   "last_seen": "2026-11-26T08:16:49+00:00",
+   "title": "Senior Clinical Project Manager",
+   "org": "Precision Medicine Group",
+   "location": "China"
+  },
+  "senior solutions architect - japan|gitlab|japan": {
+   "first_seen": "2026-11-26T08:16:49+00:00",
+   "last_seen": "2026-11-26T08:16:49+00:00",
+   "title": "Senior Solutions Architect - Japan",
+   "org": "GitLab",
+   "location": "Japan"
+  },
+  "senior solutions architect|gitlab|south korea": {
+   "first_seen": "2026-11-26T08:16:49+00:00",
+   "last_seen": "2026-11-26T08:16:49+00:00",
+   "title": "Senior Solutions Architect",
+   "org": "GitLab",
+   "location": "South Korea"
+  },
+  "cx technology lead|who gives a crap|philippines": {
+   "first_seen": "2026-11-26T08:16:49+00:00",
+   "last_seen": "2026-11-26T08:16:49+00:00",
+   "title": "CX Technology Lead",
+   "org": "Who Gives A Crap",
+   "location": "Philippines"
+  },
+  "senior professional services engineer, japan|gitlab|japan": {
+   "first_seen": "2026-11-26T08:16:49+00:00",
+   "last_seen": "2026-11-26T08:16:49+00:00",
+   "title": "Senior Professional Services Engineer, Japan",
+   "org": "GitLab",
+   "location": "Japan"
+  },
+  "cx data analytics and insights lead|who gives a crap|philippines": {
+   "first_seen": "2026-11-26T08:16:49+00:00",
+   "last_seen": "2026-11-26T08:16:49+00:00",
+   "title": "CX Data Analytics and Insights Lead",
+   "org": "Who Gives A Crap",
+   "location": "Philippines"
+  },
+  "binance acceleration program - product data analyst|binance|singapore": {
+   "first_seen": "2026-11-26T08:16:49+00:00",
+   "last_seen": "2026-11-26T08:16:49+00:00",
+   "title": "Binance Acceleration Program - Product Data Analyst",
+   "org": "Binance",
+   "location": "Singapore"
+  },
+  "backend engineer, java - web 3 wallet|binance|hong kong, singapore": {
+   "first_seen": "2026-11-26T08:16:49+00:00",
+   "last_seen": "2026-11-26T08:16:49+00:00",
+   "title": "Backend Engineer, Java - Web 3 Wallet",
+   "org": "Binance",
+   "location": "Hong Kong, Singapore"
   }
  }
 }

@@ -3,103 +3,103 @@
  "name": "Himalayas \u2014 remote jobs",
  "category": "jobs",
  "source": "https://himalayas.app/jobs/api",
- "collected_at": "2026-11-25T23:36:50+00:00",
+ "collected_at": "2026-11-26T08:16:49+00:00",
  "jobs_on_board": 20,
  "new_this_run": 20,
- "total_tracked": 695,
+ "total_tracked": 715,
  "jobs": [
   {
-   "title": "Sr. Director of AI Software Engineering",
-   "org": "CloudWerx, Inc.",
+   "title": "Kreditorenbuchhalter:in (m/w/d) - 100% Remote",
+   "org": "1KOMMA5\u02da",
+   "location": "Germany",
+   "detail": "Full Time",
+   "url": null,
+   "new_this_run": true
+  },
+  {
+   "title": "Data Scientist",
+   "org": "Goldbelt",
+   "location": "United States",
+   "detail": "$120,000\u2013$125,000/a",
+   "url": null,
+   "new_this_run": true
+  },
+  {
+   "title": "Segment Manager-Oversea Offshore",
+   "org": "Armacell",
+   "location": "China",
+   "detail": "Full Time",
+   "url": null,
+   "new_this_run": true
+  },
+  {
+   "title": "Principal Archeologist",
+   "org": "Onterris",
+   "location": "United States",
+   "detail": "$120,000\u2013$150,000/a",
+   "url": null,
+   "new_this_run": true
+  },
+  {
+   "title": "Director / Senior Director \u2013 Vertical AI Product Lead (Energy & Utilities)",
+   "org": "HYREON TALENT SOLUTIONS INC.",
+   "location": "United States",
+   "detail": "Full Time",
+   "url": null,
+   "new_this_run": true
+  },
+  {
+   "title": "SEM Manager, Global Markets",
+   "org": "GE HealthCare",
+   "location": "Brazil, Hungary, Mexico, Portugal, Spain, Turkey",
+   "detail": "Full Time",
+   "url": null,
+   "new_this_run": true
+  },
+  {
+   "title": "C/C++ Developer & DevOps Engineer",
+   "org": "Knowit Group",
+   "location": "Poland",
+   "detail": "Full Time",
+   "url": null,
+   "new_this_run": true
+  },
+  {
+   "title": "Security Officer",
+   "org": "Bosch Group",
+   "location": "Romania",
+   "detail": "Full Time",
+   "url": null,
+   "new_this_run": true
+  },
+  {
+   "title": "DevOps Engineer_Joule for Consultants_Germany",
+   "org": "X2 Nations",
+   "location": "Germany",
+   "detail": "Contractor",
+   "url": null,
+   "new_this_run": true
+  },
+  {
+   "title": "First Nations, Inuit, or M\u00e9tis Students Co-op and Internship Opportunities (Summ",
+   "org": "CIBC",
    "location": "Canada",
+   "detail": "Temporary",
+   "url": null,
+   "new_this_run": true
+  },
+  {
+   "title": "ICT Sales Leader",
+   "org": "Honeywell International Inc.",
+   "location": "United States",
    "detail": "Full Time",
    "url": null,
    "new_this_run": true
   },
   {
-   "title": "Sales Executive (WFH based in Maha Sarakham)",
-   "org": "Cartrack",
-   "location": "Thailand",
-   "detail": "Full Time",
-   "url": null,
-   "new_this_run": true
-  },
-  {
-   "title": "Senior UI/UX Designer",
+   "title": "Video Lead",
    "org": "Colab",
    "location": "Pakistan",
-   "detail": "Full Time",
-   "url": null,
-   "new_this_run": true
-  },
-  {
-   "title": "Legal Billing Coordinator (Billing Specialist)",
-   "org": "RR Donnelley",
-   "location": "United States",
-   "detail": "$32\u2013$33/h",
-   "url": null,
-   "new_this_run": true
-  },
-  {
-   "title": "Digital Engagement Specialist (CRM), IS-2210-11",
-   "org": "Smithsonian Institution",
-   "location": "United States",
-   "detail": "$73,678\u2013$108,921/a",
-   "url": null,
-   "new_this_run": true
-  },
-  {
-   "title": "Director Channel Partnerships",
-   "org": "Versapay",
-   "location": "Canada",
-   "detail": "$125,000\u2013$135,000/a",
-   "url": null,
-   "new_this_run": true
-  },
-  {
-   "title": "Sr. Director, Portfolio Marketing",
-   "org": "Cisco",
-   "location": "Canada",
-   "detail": "$236,000\u2013$298,500/a",
-   "url": null,
-   "new_this_run": true
-  },
-  {
-   "title": "Presales Manager, Solutions Consulting - Netherlands",
-   "org": "Palo Alto Networks",
-   "location": "Netherlands",
-   "detail": "Full Time",
-   "url": null,
-   "new_this_run": true
-  },
-  {
-   "title": "Amazon PPC Pod Leader",
-   "org": "ScaleJet",
-   "location": "South Africa",
-   "detail": "Full Time",
-   "url": null,
-   "new_this_run": true
-  },
-  {
-   "title": "Senior Data Analyst - AI & Data Quality (Healthcare Data) - Remote (Plano, TX, U",
-   "org": "NTT DATA",
-   "location": "United States",
-   "detail": "$111,172\u2013$205,875/a",
-   "url": null,
-   "new_this_run": true
-  },
-  {
-   "title": "Senior Regional Sales Manager \u2013 Diabetes Care Division (Ontario and Western Cana",
-   "org": "Abbott",
-   "location": "Canada",
-   "detail": "Full Time",
-   "url": null,
-   "new_this_run": true
-  },
-  {
-   "title": "Scrum Master",
-   "org": "Lingaro",
-   "location": "India",
    "detail": "Full Time",
    "url": null,
    "new_this_run": true
@@ -288,6 +288,11 @@
   },
   {
    "at": "2026-11-25T23:36:50+00:00",
+   "jobs": 20,
+   "new": 20
+  },
+  {
+   "at": "2026-11-26T08:16:49+00:00",
    "jobs": 20,
    "new": 20
   }
@@ -5157,6 +5162,146 @@
    "title": "Associate Director, Scientific & Site Partnerships Lead, Global Clinical Operati",
    "org": "BeiGene",
    "location": "France, Italy, Spain, Switzerland"
+  },
+  "kreditorenbuchhalter:in (m/w/d) - 100% remote|1komma5\u02da|germany": {
+   "first_seen": "2026-11-26T08:16:49+00:00",
+   "last_seen": "2026-11-26T08:16:49+00:00",
+   "title": "Kreditorenbuchhalter:in (m/w/d) - 100% Remote",
+   "org": "1KOMMA5\u02da",
+   "location": "Germany"
+  },
+  "data scientist|goldbelt|united states": {
+   "first_seen": "2026-11-26T08:16:49+00:00",
+   "last_seen": "2026-11-26T08:16:49+00:00",
+   "title": "Data Scientist",
+   "org": "Goldbelt",
+   "location": "United States"
+  },
+  "segment manager-oversea offshore|armacell|china": {
+   "first_seen": "2026-11-26T08:16:49+00:00",
+   "last_seen": "2026-11-26T08:16:49+00:00",
+   "title": "Segment Manager-Oversea Offshore",
+   "org": "Armacell",
+   "location": "China"
+  },
+  "principal archeologist|onterris|united states": {
+   "first_seen": "2026-11-26T08:16:49+00:00",
+   "last_seen": "2026-11-26T08:16:49+00:00",
+   "title": "Principal Archeologist",
+   "org": "Onterris",
+   "location": "United States"
+  },
+  "director / senior director \u2013 vertical ai product lead (energy & utilities)|hyreon talent solutions inc.|united states": {
+   "first_seen": "2026-11-26T08:16:49+00:00",
+   "last_seen": "2026-11-26T08:16:49+00:00",
+   "title": "Director / Senior Director \u2013 Vertical AI Product Lead (Energy & Utilities)",
+   "org": "HYREON TALENT SOLUTIONS INC.",
+   "location": "United States"
+  },
+  "sem manager, global markets|ge healthcare|brazil, hungary, mexico, portugal, spain, turkey": {
+   "first_seen": "2026-11-26T08:16:49+00:00",
+   "last_seen": "2026-11-26T08:16:49+00:00",
+   "title": "SEM Manager, Global Markets",
+   "org": "GE HealthCare",
+   "location": "Brazil, Hungary, Mexico, Portugal, Spain, Turkey"
+  },
+  "c/c++ developer & devops engineer|knowit group|poland": {
+   "first_seen": "2026-11-26T08:16:49+00:00",
+   "last_seen": "2026-11-26T08:16:49+00:00",
+   "title": "C/C++ Developer & DevOps Engineer",
+   "org": "Knowit Group",
+   "location": "Poland"
+  },
+  "security officer|bosch group|romania": {
+   "first_seen": "2026-11-26T08:16:49+00:00",
+   "last_seen": "2026-11-26T08:16:49+00:00",
+   "title": "Security Officer",
+   "org": "Bosch Group",
+   "location": "Romania"
+  },
+  "devops engineer_joule for consultants_germany|x2 nations|germany": {
+   "first_seen": "2026-11-26T08:16:49+00:00",
+   "last_seen": "2026-11-26T08:16:49+00:00",
+   "title": "DevOps Engineer_Joule for Consultants_Germany",
+   "org": "X2 Nations",
+   "location": "Germany"
+  },
+  "first nations, inuit, or m\u00e9tis students co-op and internship opportunities (summ|cibc|canada": {
+   "first_seen": "2026-11-26T08:16:49+00:00",
+   "last_seen": "2026-11-26T08:16:49+00:00",
+   "title": "First Nations, Inuit, or M\u00e9tis Students Co-op and Internship Opportunities (Summ",
+   "org": "CIBC",
+   "location": "Canada"
+  },
+  "ict sales leader|honeywell international inc.|united states": {
+   "first_seen": "2026-11-26T08:16:49+00:00",
+   "last_seen": "2026-11-26T08:16:49+00:00",
+   "title": "ICT Sales Leader",
+   "org": "Honeywell International Inc.",
+   "location": "United States"
+  },
+  "video lead|colab|pakistan": {
+   "first_seen": "2026-11-26T08:16:49+00:00",
+   "last_seen": "2026-11-26T08:16:49+00:00",
+   "title": "Video Lead",
+   "org": "Colab",
+   "location": "Pakistan"
+  },
+  "area service supervisor|electrolux group|indonesia": {
+   "first_seen": "2026-11-26T08:16:49+00:00",
+   "last_seen": "2026-11-26T08:16:49+00:00",
+   "title": "Area Service Supervisor",
+   "org": "Electrolux Group",
+   "location": "Indonesia"
+  },
+  "director of it, enterprise architecture|wcm white cap management llc|united states": {
+   "first_seen": "2026-11-26T08:16:49+00:00",
+   "last_seen": "2026-11-26T08:16:49+00:00",
+   "title": "Director of IT, Enterprise Architecture",
+   "org": "WCM White Cap Management LLC",
+   "location": "United States"
+  },
+  "facharzt/oberarzt f\u00fcr radiologie (m/w/d)|raya-diagnostics|germany": {
+   "first_seen": "2026-11-26T08:16:49+00:00",
+   "last_seen": "2026-11-26T08:16:49+00:00",
+   "title": "Facharzt/Oberarzt f\u00fcr Radiologie (m/w/d)",
+   "org": "Raya-Diagnostics",
+   "location": "Germany"
+  },
+  "assistant cra|200510503z thermo fisher scientific pte. ltd.|spain": {
+   "first_seen": "2026-11-26T08:16:49+00:00",
+   "last_seen": "2026-11-26T08:16:49+00:00",
+   "title": "Assistant CRA",
+   "org": "200510503Z Thermo Fisher Scientific Pte. Ltd.",
+   "location": "Spain"
+  },
+  "chief operations officer|interdot solutions|south africa": {
+   "first_seen": "2026-11-26T08:16:49+00:00",
+   "last_seen": "2026-11-26T08:16:49+00:00",
+   "title": "Chief Operations Officer",
+   "org": "Interdot Solutions",
+   "location": "South Africa"
+  },
+  "copywriter & social media manager|pavago|philippines": {
+   "first_seen": "2026-11-26T08:16:49+00:00",
+   "last_seen": "2026-11-26T08:16:49+00:00",
+   "title": "Copywriter & Social Media Manager",
+   "org": "Pavago",
+   "location": "Philippines"
+  },
+  "purdue global full-time faculty, science (remote/virtual, in, us)|purdue university|united states": {
+   "first_seen": "2026-11-26T08:16:49+00:00",
+   "last_seen": "2026-11-26T08:16:49+00:00",
+   "title": "Purdue Global Full-Time Faculty, Science (Remote/Virtual, IN, US)",
+   "org": "Purdue University",
+   "location": "United States"
+  },
+  "associate field service engineer|danaher|japan": {
+   "first_seen": "2026-11-26T08:16:49+00:00",
+   "last_seen": "2026-11-26T08:16:49+00:00",
+   "title": "Associate Field Service Engineer",
+   "org": "Danaher",
+   "location": "Japan"
   }
  }
 }
