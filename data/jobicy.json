@@ -3,105 +3,105 @@
  "name": "Jobicy \u2014 remote jobs",
  "category": "jobs",
  "source": "https://jobicy.com/api/v2/remote-jobs",
- "collected_at": "2026-11-26T08:16:49+00:00",
+ "collected_at": "2026-11-26T18:59:48+00:00",
  "jobs_on_board": 50,
- "new_this_run": 50,
- "total_tracked": 1203,
+ "new_this_run": 47,
+ "total_tracked": 1250,
  "jobs": [
   {
-   "title": "Senior Data Engineer, Datacraft team",
-   "org": "Bloomreach",
-   "location": "Czechia",
+   "title": "Talent Acquisition Partner/Senior Recruiter, Technical and Product",
+   "org": "D2L",
+   "location": "Canada",
    "detail": "Senior",
-   "url": "https://jobicy.com/jobs/157270-senior-data-engineer-datacraft-team",
+   "url": "https://jobicy.com/jobs/164454-talent-acquisition-partner-senior-recruiter-technical-and-product",
    "new_this_run": true
   },
   {
-   "title": "Strategic Sales Director, EMEA",
-   "org": "Cresta",
-   "location": "UK",
-   "detail": "Director",
-   "url": "https://jobicy.com/jobs/157268-strategic-sales-director-emea",
+   "title": "Agent Engineer - US Remote",
+   "org": "TRM Labs",
+   "location": "USA",
+   "detail": "Senior",
+   "url": "https://jobicy.com/jobs/164452-agent-engineer-us-remote",
    "new_this_run": true
   },
   {
-   "title": "Senior Data Analyst (Customer Success Operations)",
-   "org": "Docplanner",
-   "location": "Spain",
-   "detail": "Director",
-   "url": "https://jobicy.com/jobs/157257-senior-data-analyst-customer-success-operations",
+   "title": "Talent Acquisition Partner/Senior Recruiter, Go to Market (12 Month Contract)",
+   "org": "D2L",
+   "location": "Canada",
+   "detail": "Senior",
+   "url": "https://jobicy.com/jobs/164451-talent-acquisition-partner-senior-recruiter-go-to-market-12-month-contract",
    "new_this_run": true
   },
   {
-   "title": "Enterprise Sales Director - Majors, Retail",
-   "org": "Sierra",
+   "title": "Senior Software Engineer, Data Infrastructure (RDBMS)",
+   "org": "TRM Labs",
+   "location": "Canada, USA",
+   "detail": "Senior",
+   "url": "https://jobicy.com/jobs/164449-senior-software-engineer-data-infrastructure-rdbms",
+   "new_this_run": true
+  },
+  {
+   "title": "End User Support Program Manager (6 Month Contract)",
+   "org": "D2L",
+   "location": "Canada",
+   "detail": "Senior",
+   "url": "https://jobicy.com/jobs/164448-end-user-support-program-manager-6-month-contract",
+   "new_this_run": true
+  },
+  {
+   "title": "Personal Assistant",
+   "org": "Ruby Labs",
+   "location": "Europe",
+   "detail": "Senior",
+   "url": "https://jobicy.com/jobs/164447-personal-assistant",
+   "new_this_run": true
+  },
+  {
+   "title": "Sales Director - Wirehouse (Southeast)",
+   "org": "WisdomTree",
    "location": "USA",
    "detail": "Director",
-   "url": "https://jobicy.com/jobs/157236-enterprise-sales-director-majors-retail",
+   "url": "https://jobicy.com/jobs/164446-sales-director-wirehouse-southeast",
    "new_this_run": true
   },
   {
-   "title": "Head of Communications",
-   "org": "Tailscale",
+   "title": "Deployment Strategist, Public Sector (Regulators)",
+   "org": "TRM Labs",
+   "location": "USA",
+   "detail": "Director",
+   "url": "https://jobicy.com/jobs/164444-deployment-strategist-public-sector-regulators",
+   "new_this_run": true
+  },
+  {
+   "title": "Early Talent Acquisition Specialist (12 Month Contract)",
+   "org": "D2L",
    "location": "Canada",
    "detail": "Director",
-   "url": "https://jobicy.com/jobs/157250-head-of-communications-2",
+   "url": "https://jobicy.com/jobs/164443-early-talent-acquisition-specialist-12-month-contract",
    "new_this_run": true
   },
   {
-   "title": "Manager, Software Engineering - Developer Experience",
-   "org": "ClickUp",
-   "location": "USA",
+   "title": "Non-Executive Director (Cyprus)",
+   "org": "Ruby Labs",
+   "location": "Cyprus",
    "detail": "Director",
-   "url": "https://jobicy.com/jobs/157235-manager-software-engineering-developer-experience",
+   "url": "https://jobicy.com/jobs/164442-non-executive-director-cyprus",
    "new_this_run": true
   },
   {
-   "title": "Account Executive - Northern California",
-   "org": "Dutchie",
+   "title": "Sr. Application Security Engineer",
+   "org": "Prosper",
    "location": "USA",
-   "detail": "Director",
-   "url": "https://jobicy.com/jobs/157234-account-executive-northern-california-2",
-   "new_this_run": true
-  },
-  {
-   "title": "Account Executive, Illinois",
-   "org": "Dutchie",
-   "location": "USA",
-   "detail": "Director",
-   "url": "https://jobicy.com/jobs/157233-account-executive-illinois",
-   "new_this_run": true
-  },
-  {
-   "title": "Director, Paid Marketing - Subscription (US Remote)",
-   "org": "DuckDuckGo",
-   "location": "USA",
-   "detail": "Director",
-   "url": "https://jobicy.com/jobs/157232-director-paid-marketing-subscription-us-remote",
-   "new_this_run": true
-  },
-  {
-   "title": "Sr. Customer Success Manager - EMEA",
-   "org": "Chili Piper",
-   "location": "EMEA",
    "detail": "Senior",
-   "url": "https://jobicy.com/jobs/157224-sr-customer-success-manager-emea",
+   "url": "https://jobicy.com/jobs/164440-sr-application-security-engineer-2",
    "new_this_run": true
   },
   {
-   "title": "Major Account Executive, UK Public Sector",
-   "org": "GitLab",
-   "location": "UK",
-   "detail": "Director",
-   "url": "https://jobicy.com/jobs/157216-major-account-executive-uk-public-sector",
-   "new_this_run": true
-  },
-  {
-   "title": "Major Account Executive Netherlands",
-   "org": "GitLab",
-   "location": "Netherlands",
-   "detail": "Director",
-   "url": "https://jobicy.com/jobs/157215-major-account-executive-netherlands",
+   "title": "Associate Insurance Product Manager, Car",
+   "org": "Lemonade",
+   "location": "USA",
+   "detail": "Any",
+   "url": "https://jobicy.com/jobs/164438-associate-insurance-product-manager-car",
    "new_this_run": true
   }
  ],
@@ -295,6 +295,11 @@
    "at": "2026-11-26T08:16:49+00:00",
    "jobs": 50,
    "new": 50
+  },
+  {
+   "at": "2026-11-26T18:59:48+00:00",
+   "jobs": 50,
+   "new": 47
   }
  ],
  "jobs_seen": {
@@ -496,7 +501,7 @@
   },
   "business operations manager|motive|usa": {
    "first_seen": "2026-11-15T10:13:35+00:00",
-   "last_seen": "2026-11-15T12:05:29+00:00",
+   "last_seen": "2026-11-26T18:59:48+00:00",
    "title": "Business Operations Manager",
    "org": "Motive",
    "location": "USA"
@@ -1903,7 +1908,7 @@
   },
   "insurance product manager, car|lemonade|usa": {
    "first_seen": "2026-11-17T13:26:09+00:00",
-   "last_seen": "2026-11-17T13:26:09+00:00",
+   "last_seen": "2026-11-26T18:59:48+00:00",
    "title": "Insurance Product Manager, Car",
    "org": "Lemonade",
    "location": "USA"
@@ -2603,7 +2608,7 @@
   },
   "full stack software engineer|betterhelp|usa": {
    "first_seen": "2026-11-18T13:57:48+00:00",
-   "last_seen": "2026-11-18T13:57:48+00:00",
+   "last_seen": "2026-11-26T18:59:48+00:00",
    "title": "Full Stack Software Engineer",
    "org": "BetterHelp",
    "location": "USA"
@@ -8718,6 +8723,335 @@
    "title": "Backend Engineer, Java - Web 3 Wallet",
    "org": "Binance",
    "location": "Hong Kong, Singapore"
+  },
+  "talent acquisition partner/senior recruiter, technical and product|d2l|canada": {
+   "first_seen": "2026-11-26T18:59:48+00:00",
+   "last_seen": "2026-11-26T18:59:48+00:00",
+   "title": "Talent Acquisition Partner/Senior Recruiter, Technical and Product",
+   "org": "D2L",
+   "location": "Canada"
+  },
+  "agent engineer - us remote|trm labs|usa": {
+   "first_seen": "2026-11-26T18:59:48+00:00",
+   "last_seen": "2026-11-26T18:59:48+00:00",
+   "title": "Agent Engineer - US Remote",
+   "org": "TRM Labs",
+   "location": "USA"
+  },
+  "talent acquisition partner/senior recruiter, go to market (12 month contract)|d2l|canada": {
+   "first_seen": "2026-11-26T18:59:48+00:00",
+   "last_seen": "2026-11-26T18:59:48+00:00",
+   "title": "Talent Acquisition Partner/Senior Recruiter, Go to Market (12 Month Contract)",
+   "org": "D2L",
+   "location": "Canada"
+  },
+  "senior software engineer, data infrastructure (rdbms)|trm labs|canada, usa": {
+   "first_seen": "2026-11-26T18:59:48+00:00",
+   "last_seen": "2026-11-26T18:59:48+00:00",
+   "title": "Senior Software Engineer, Data Infrastructure (RDBMS)",
+   "org": "TRM Labs",
+   "location": "Canada, USA"
+  },
+  "end user support program manager (6 month contract)|d2l|canada": {
+   "first_seen": "2026-11-26T18:59:48+00:00",
+   "last_seen": "2026-11-26T18:59:48+00:00",
+   "title": "End User Support Program Manager (6 Month Contract)",
+   "org": "D2L",
+   "location": "Canada"
+  },
+  "personal assistant|ruby labs|europe": {
+   "first_seen": "2026-11-26T18:59:48+00:00",
+   "last_seen": "2026-11-26T18:59:48+00:00",
+   "title": "Personal Assistant",
+   "org": "Ruby Labs",
+   "location": "Europe"
+  },
+  "sales director - wirehouse (southeast)|wisdomtree|usa": {
+   "first_seen": "2026-11-26T18:59:48+00:00",
+   "last_seen": "2026-11-26T18:59:48+00:00",
+   "title": "Sales Director - Wirehouse (Southeast)",
+   "org": "WisdomTree",
+   "location": "USA"
+  },
+  "deployment strategist, public sector (regulators)|trm labs|usa": {
+   "first_seen": "2026-11-26T18:59:48+00:00",
+   "last_seen": "2026-11-26T18:59:48+00:00",
+   "title": "Deployment Strategist, Public Sector (Regulators)",
+   "org": "TRM Labs",
+   "location": "USA"
+  },
+  "early talent acquisition specialist (12 month contract)|d2l|canada": {
+   "first_seen": "2026-11-26T18:59:48+00:00",
+   "last_seen": "2026-11-26T18:59:48+00:00",
+   "title": "Early Talent Acquisition Specialist (12 Month Contract)",
+   "org": "D2L",
+   "location": "Canada"
+  },
+  "non-executive director (cyprus)|ruby labs|cyprus": {
+   "first_seen": "2026-11-26T18:59:48+00:00",
+   "last_seen": "2026-11-26T18:59:48+00:00",
+   "title": "Non-Executive Director (Cyprus)",
+   "org": "Ruby Labs",
+   "location": "Cyprus"
+  },
+  "sr. application security engineer|prosper|usa": {
+   "first_seen": "2026-11-26T18:59:48+00:00",
+   "last_seen": "2026-11-26T18:59:48+00:00",
+   "title": "Sr. Application Security Engineer",
+   "org": "Prosper",
+   "location": "USA"
+  },
+  "associate insurance product manager, car|lemonade|usa": {
+   "first_seen": "2026-11-26T18:59:48+00:00",
+   "last_seen": "2026-11-26T18:59:48+00:00",
+   "title": "Associate Insurance Product Manager, Car",
+   "org": "Lemonade",
+   "location": "USA"
+  },
+  "ai brand design lead|nash|usa": {
+   "first_seen": "2026-11-26T18:59:48+00:00",
+   "last_seen": "2026-11-26T18:59:48+00:00",
+   "title": "AI Brand Design Lead",
+   "org": "Nash",
+   "location": "USA"
+  },
+  "director, credit risk analytics|prosper|usa": {
+   "first_seen": "2026-11-26T18:59:48+00:00",
+   "last_seen": "2026-11-26T18:59:48+00:00",
+   "title": "Director, Credit Risk Analytics",
+   "org": "Prosper",
+   "location": "USA"
+  },
+  "virtual assistant - ai, marketing and operations|fresh prints|philippines": {
+   "first_seen": "2026-11-26T18:59:48+00:00",
+   "last_seen": "2026-11-26T18:59:48+00:00",
+   "title": "Virtual Assistant - AI, Marketing and Operations",
+   "org": "Fresh Prints",
+   "location": "Philippines"
+  },
+  "forward deployed engineer|mattermost|canada": {
+   "first_seen": "2026-11-26T18:59:48+00:00",
+   "last_seen": "2026-11-26T18:59:48+00:00",
+   "title": "Forward Deployed Engineer",
+   "org": "Mattermost",
+   "location": "Canada"
+  },
+  "engagement manager, customer success|nash|usa": {
+   "first_seen": "2026-11-26T18:59:48+00:00",
+   "last_seen": "2026-11-26T18:59:48+00:00",
+   "title": "Engagement Manager, Customer Success",
+   "org": "Nash",
+   "location": "USA"
+  },
+  "data scientist, credit risk analytics (sr. level open)|prosper|usa": {
+   "first_seen": "2026-11-26T18:59:48+00:00",
+   "last_seen": "2026-11-26T18:59:48+00:00",
+   "title": "Data Scientist, Credit Risk Analytics (Sr. level open)",
+   "org": "Prosper",
+   "location": "USA"
+  },
+  "business development representative - north america|emplifi|canada, usa": {
+   "first_seen": "2026-11-26T18:59:48+00:00",
+   "last_seen": "2026-11-26T18:59:48+00:00",
+   "title": "Business Development Representative - North America",
+   "org": "Emplifi",
+   "location": "Canada, USA"
+  },
+  "gtm ai lead|valdera|usa": {
+   "first_seen": "2026-11-26T18:59:48+00:00",
+   "last_seen": "2026-11-26T18:59:48+00:00",
+   "title": "GTM AI Lead",
+   "org": "Valdera",
+   "location": "USA"
+  },
+  "enterprise support engineer, apac|jamf|australia": {
+   "first_seen": "2026-11-26T18:59:48+00:00",
+   "last_seen": "2026-11-26T18:59:48+00:00",
+   "title": "Enterprise Support Engineer, APAC",
+   "org": "Jamf",
+   "location": "Australia"
+  },
+  "cobalt core pentester|cobalt|apac, emea, latam, canada": {
+   "first_seen": "2026-11-26T18:59:48+00:00",
+   "last_seen": "2026-11-26T18:59:48+00:00",
+   "title": "Cobalt Core Pentester",
+   "org": "Cobalt",
+   "location": "APAC, EMEA, LATAM, Canada"
+  },
+  "associate director, music policy, spotify for artists|spotify|latam, canada, usa": {
+   "first_seen": "2026-11-26T18:59:48+00:00",
+   "last_seen": "2026-11-26T18:59:48+00:00",
+   "title": "Associate Director, Music Policy, Spotify for Artists",
+   "org": "Spotify",
+   "location": "LATAM, Canada, USA"
+  },
+  "senior director, new vertical sales- mortgage|flex|usa": {
+   "first_seen": "2026-11-26T18:59:48+00:00",
+   "last_seen": "2026-11-26T18:59:48+00:00",
+   "title": "Senior Director, New Vertical Sales- Mortgage",
+   "org": "Flex",
+   "location": "USA"
+  },
+  "solutions consultant, commercial|ramp|canada, usa": {
+   "first_seen": "2026-11-26T18:59:48+00:00",
+   "last_seen": "2026-11-26T18:59:48+00:00",
+   "title": "Solutions Consultant, Commercial",
+   "org": "Ramp",
+   "location": "Canada, USA"
+  },
+  "enterprise account executive (north america)|valdera|usa": {
+   "first_seen": "2026-11-26T18:59:48+00:00",
+   "last_seen": "2026-11-26T18:59:48+00:00",
+   "title": "Enterprise Account Executive (North America)",
+   "org": "Valdera",
+   "location": "USA"
+  },
+  "account executive | hcls | new logo|jamf|usa": {
+   "first_seen": "2026-11-26T18:59:48+00:00",
+   "last_seen": "2026-11-26T18:59:48+00:00",
+   "title": "Account Executive | HCLS | New Logo",
+   "org": "Jamf",
+   "location": "USA"
+  },
+  "account executive - enterprise, spotify technology|spotify|canada, usa": {
+   "first_seen": "2026-11-26T18:59:48+00:00",
+   "last_seen": "2026-11-26T18:59:48+00:00",
+   "title": "Account Executive - Enterprise, Spotify Technology",
+   "org": "Spotify",
+   "location": "Canada, USA"
+  },
+  "director, new vertical sales - auto loans|flex|usa": {
+   "first_seen": "2026-11-26T18:59:48+00:00",
+   "last_seen": "2026-11-26T18:59:48+00:00",
+   "title": "Director, New Vertical Sales - Auto Loans",
+   "org": "Flex",
+   "location": "USA"
+  },
+  "vp, sales|banyan software|usa": {
+   "first_seen": "2026-11-26T18:59:48+00:00",
+   "last_seen": "2026-11-26T18:59:48+00:00",
+   "title": "VP, Sales",
+   "org": "Banyan Software",
+   "location": "USA"
+  },
+  "machine learning engineer, robotics|path robotics|usa": {
+   "first_seen": "2026-11-26T18:59:48+00:00",
+   "last_seen": "2026-11-26T18:59:48+00:00",
+   "title": "Machine Learning Engineer, Robotics",
+   "org": "Path Robotics",
+   "location": "USA"
+  },
+  "head of channel sales & alliances|salesloft|usa": {
+   "first_seen": "2026-11-26T18:59:48+00:00",
+   "last_seen": "2026-11-26T18:59:48+00:00",
+   "title": "Head of Channel Sales & Alliances",
+   "org": "Salesloft",
+   "location": "USA"
+  },
+  "director, fp&a|motive|usa": {
+   "first_seen": "2026-11-26T18:59:48+00:00",
+   "last_seen": "2026-11-26T18:59:48+00:00",
+   "title": "Director, FP&A",
+   "org": "Motive",
+   "location": "USA"
+  },
+  "staff software engineer - revenue intelligence|cloudbeds|europe": {
+   "first_seen": "2026-11-26T18:59:48+00:00",
+   "last_seen": "2026-11-26T18:59:48+00:00",
+   "title": "Staff Software Engineer - Revenue Intelligence",
+   "org": "Cloudbeds",
+   "location": "Europe"
+  },
+  "account executive - banking vertical|banyan software|usa": {
+   "first_seen": "2026-11-26T18:59:48+00:00",
+   "last_seen": "2026-11-26T18:59:48+00:00",
+   "title": "Account Executive - Banking vertical",
+   "org": "Banyan Software",
+   "location": "USA"
+  },
+  "senior forward deployed engineer \u2014 full stack & ai|oowlish technology|argentina, brazil": {
+   "first_seen": "2026-11-26T18:59:48+00:00",
+   "last_seen": "2026-11-26T18:59:48+00:00",
+   "title": "Senior Forward Deployed Engineer \u2014 Full Stack & AI",
+   "org": "Oowlish Technology",
+   "location": "Argentina, Brazil"
+  },
+  "enterprise account director|salesloft|usa": {
+   "first_seen": "2026-11-26T18:59:48+00:00",
+   "last_seen": "2026-11-26T18:59:48+00:00",
+   "title": "Enterprise Account Director",
+   "org": "Salesloft",
+   "location": "USA"
+  },
+  "senior ux designer (contractor)|findem|usa": {
+   "first_seen": "2026-11-26T18:59:48+00:00",
+   "last_seen": "2026-11-26T18:59:48+00:00",
+   "title": "Senior UX Designer (Contractor)",
+   "org": "Findem",
+   "location": "USA"
+  },
+  "federal emerging partner business developer (bd)|echodyne|usa": {
+   "first_seen": "2026-11-26T18:59:48+00:00",
+   "last_seen": "2026-11-26T18:59:48+00:00",
+   "title": "Federal Emerging Partner Business Developer (BD)",
+   "org": "Echodyne",
+   "location": "USA"
+  },
+  "principal machine learning engineer|hims &#038; hers|usa": {
+   "first_seen": "2026-11-26T18:59:48+00:00",
+   "last_seen": "2026-11-26T18:59:48+00:00",
+   "title": "Principal Machine Learning Engineer",
+   "org": "hims &#038; hers",
+   "location": "USA"
+  },
+  "enterprise account executive (houston, texas)|blackcloak|usa": {
+   "first_seen": "2026-11-26T18:59:48+00:00",
+   "last_seen": "2026-11-26T18:59:48+00:00",
+   "title": "Enterprise Account Executive (Houston, Texas)",
+   "org": "BlackCloak",
+   "location": "USA"
+  },
+  "enterprise account executive, central us and tola|astronomer|usa": {
+   "first_seen": "2026-11-26T18:59:48+00:00",
+   "last_seen": "2026-11-26T18:59:48+00:00",
+   "title": "Enterprise Account Executive, Central US and TOLA",
+   "org": "Astronomer",
+   "location": "USA"
+  },
+  "certification program lead|datadog|usa": {
+   "first_seen": "2026-11-26T18:59:48+00:00",
+   "last_seen": "2026-11-26T18:59:48+00:00",
+   "title": "Certification Program Lead",
+   "org": "Datadog",
+   "location": "USA"
+  },
+  "army strategic partner business developer (bd)|echodyne|usa": {
+   "first_seen": "2026-11-26T18:59:48+00:00",
+   "last_seen": "2026-11-26T18:59:48+00:00",
+   "title": "Army Strategic Partner Business Developer (BD)",
+   "org": "Echodyne",
+   "location": "USA"
+  },
+  "product manager, platform|hims &#038; hers|usa": {
+   "first_seen": "2026-11-26T18:59:48+00:00",
+   "last_seen": "2026-11-26T18:59:48+00:00",
+   "title": "Product Manager, Platform",
+   "org": "hims &#038; hers",
+   "location": "USA"
+  },
+  "hr business partner|missionwired|usa": {
+   "first_seen": "2026-11-26T18:59:48+00:00",
+   "last_seen": "2026-11-26T18:59:48+00:00",
+   "title": "HR Business Partner",
+   "org": "MissionWired",
+   "location": "USA"
+  },
+  "enterprise account executive (chicago)|blackcloak|usa": {
+   "first_seen": "2026-11-26T18:59:48+00:00",
+   "last_seen": "2026-11-26T18:59:48+00:00",
+   "title": "Enterprise Account Executive (Chicago)",
+   "org": "BlackCloak",
+   "location": "USA"
   }
  }
 }

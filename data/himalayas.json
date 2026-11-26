@@ -3,104 +3,104 @@
  "name": "Himalayas \u2014 remote jobs",
  "category": "jobs",
  "source": "https://himalayas.app/jobs/api",
- "collected_at": "2026-11-26T08:16:49+00:00",
+ "collected_at": "2026-11-26T18:59:48+00:00",
  "jobs_on_board": 20,
  "new_this_run": 20,
- "total_tracked": 715,
+ "total_tracked": 735,
  "jobs": [
   {
-   "title": "Kreditorenbuchhalter:in (m/w/d) - 100% Remote",
-   "org": "1KOMMA5\u02da",
+   "title": "Principal Network Engineer",
+   "org": "Florida Blue",
+   "location": "United States",
+   "detail": "$153,800\u2013$249,900/a",
+   "url": null,
+   "new_this_run": true
+  },
+  {
+   "title": "Senior Corporate Finance Manager (m/w/d)",
+   "org": "empact",
    "location": "Germany",
    "detail": "Full Time",
    "url": null,
    "new_this_run": true
   },
   {
-   "title": "Data Scientist",
-   "org": "Goldbelt",
-   "location": "United States",
-   "detail": "$120,000\u2013$125,000/a",
-   "url": null,
-   "new_this_run": true
-  },
-  {
-   "title": "Segment Manager-Oversea Offshore",
-   "org": "Armacell",
-   "location": "China",
+   "title": "B2B Lead Gen Specialist - Full Remote",
+   "org": "Cube Care",
+   "location": "Philippines",
    "detail": "Full Time",
    "url": null,
    "new_this_run": true
   },
   {
-   "title": "Principal Archeologist",
-   "org": "Onterris",
-   "location": "United States",
-   "detail": "$120,000\u2013$150,000/a",
-   "url": null,
-   "new_this_run": true
-  },
-  {
-   "title": "Director / Senior Director \u2013 Vertical AI Product Lead (Energy & Utilities)",
-   "org": "HYREON TALENT SOLUTIONS INC.",
-   "location": "United States",
-   "detail": "Full Time",
-   "url": null,
-   "new_this_run": true
-  },
-  {
-   "title": "SEM Manager, Global Markets",
-   "org": "GE HealthCare",
-   "location": "Brazil, Hungary, Mexico, Portugal, Spain, Turkey",
-   "detail": "Full Time",
-   "url": null,
-   "new_this_run": true
-  },
-  {
-   "title": "C/C++ Developer & DevOps Engineer",
-   "org": "Knowit Group",
-   "location": "Poland",
-   "detail": "Full Time",
-   "url": null,
-   "new_this_run": true
-  },
-  {
-   "title": "Security Officer",
-   "org": "Bosch Group",
-   "location": "Romania",
-   "detail": "Full Time",
-   "url": null,
-   "new_this_run": true
-  },
-  {
-   "title": "DevOps Engineer_Joule for Consultants_Germany",
-   "org": "X2 Nations",
+   "title": "CRO & Product Experimentation Manager (m/w/d) - Remote (Deutschlandweit)",
+   "org": "Next Lotto GmbH",
    "location": "Germany",
+   "detail": "Full Time",
+   "url": null,
+   "new_this_run": true
+  },
+  {
+   "title": "Chief of Staff, Marketing",
+   "org": "Cardinal Group Companies",
+   "location": "United States",
+   "detail": "$135,000\u2013$145,000/a",
+   "url": null,
+   "new_this_run": true
+  },
+  {
+   "title": "Backend Engineer",
+   "org": "Xpert Development",
+   "location": "United States",
+   "detail": "$150,000\u2013$200,000/a",
+   "url": null,
+   "new_this_run": true
+  },
+  {
+   "title": "Trainee Flutter Developer",
+   "org": "NetForemost, Inc",
+   "location": "Anguilla, Antigua and Barbuda, Argentina, Aruba, Bahamas, Barbados, Belize, Bermuda, Bolivia, Bonaire, Sint Eustatius and Saba, Brazil, Cayman Islands, Chile, Colombia, Costa Rica, Cuba, Dominica, Dominican Republic, Ecuador, El Salvador, F",
+   "detail": "Intern",
+   "url": null,
+   "new_this_run": true
+  },
+  {
+   "title": "Lead Java Developer with IRS MBI Clearance needed",
+   "org": "3M Consultancy",
+   "location": "United States",
+   "detail": "Full Time",
+   "url": null,
+   "new_this_run": true
+  },
+  {
+   "title": "TEST Customer Support Specialist",
+   "org": "Talent First",
+   "location": "Ukraine",
+   "detail": "$1,000\u2013$1,200/m",
+   "url": null,
+   "new_this_run": true
+  },
+  {
+   "title": "Steuerberater (m/w/d) in Euskirchen - 100% remote m\u00f6glich",
+   "org": "PMPG",
+   "location": "Germany",
+   "detail": "Full Time",
+   "url": null,
+   "new_this_run": true
+  },
+  {
+   "title": "Japanese Voice Actor - Freelance AI Trainer Project",
+   "org": "Invisible Technologies",
+   "location": "remote",
    "detail": "Contractor",
    "url": null,
    "new_this_run": true
   },
   {
-   "title": "First Nations, Inuit, or M\u00e9tis Students Co-op and Internship Opportunities (Summ",
-   "org": "CIBC",
-   "location": "Canada",
-   "detail": "Temporary",
-   "url": null,
-   "new_this_run": true
-  },
-  {
-   "title": "ICT Sales Leader",
-   "org": "Honeywell International Inc.",
-   "location": "United States",
-   "detail": "Full Time",
-   "url": null,
-   "new_this_run": true
-  },
-  {
-   "title": "Video Lead",
-   "org": "Colab",
-   "location": "Pakistan",
-   "detail": "Full Time",
+   "title": "Registered Nurse - AI Trainer",
+   "org": "Invisible Technologies",
+   "location": "remote",
+   "detail": "Contractor",
    "url": null,
    "new_this_run": true
   }
@@ -293,6 +293,11 @@
   },
   {
    "at": "2026-11-26T08:16:49+00:00",
+   "jobs": 20,
+   "new": 20
+  },
+  {
+   "at": "2026-11-26T18:59:48+00:00",
    "jobs": 20,
    "new": 20
   }
@@ -5302,6 +5307,146 @@
    "title": "Associate Field Service Engineer",
    "org": "Danaher",
    "location": "Japan"
+  },
+  "principal network engineer|florida blue|united states": {
+   "first_seen": "2026-11-26T18:59:48+00:00",
+   "last_seen": "2026-11-26T18:59:48+00:00",
+   "title": "Principal Network Engineer",
+   "org": "Florida Blue",
+   "location": "United States"
+  },
+  "senior corporate finance manager (m/w/d)|empact|germany": {
+   "first_seen": "2026-11-26T18:59:48+00:00",
+   "last_seen": "2026-11-26T18:59:48+00:00",
+   "title": "Senior Corporate Finance Manager (m/w/d)",
+   "org": "empact",
+   "location": "Germany"
+  },
+  "b2b lead gen specialist - full remote|cube care|philippines": {
+   "first_seen": "2026-11-26T18:59:48+00:00",
+   "last_seen": "2026-11-26T18:59:48+00:00",
+   "title": "B2B Lead Gen Specialist - Full Remote",
+   "org": "Cube Care",
+   "location": "Philippines"
+  },
+  "cro & product experimentation manager (m/w/d) - remote (deutschlandweit)|next lotto gmbh|germany": {
+   "first_seen": "2026-11-26T18:59:48+00:00",
+   "last_seen": "2026-11-26T18:59:48+00:00",
+   "title": "CRO & Product Experimentation Manager (m/w/d) - Remote (Deutschlandweit)",
+   "org": "Next Lotto GmbH",
+   "location": "Germany"
+  },
+  "chief of staff, marketing|cardinal group companies|united states": {
+   "first_seen": "2026-11-26T18:59:48+00:00",
+   "last_seen": "2026-11-26T18:59:48+00:00",
+   "title": "Chief of Staff, Marketing",
+   "org": "Cardinal Group Companies",
+   "location": "United States"
+  },
+  "backend engineer|xpert development|united states": {
+   "first_seen": "2026-11-26T18:59:48+00:00",
+   "last_seen": "2026-11-26T18:59:48+00:00",
+   "title": "Backend Engineer",
+   "org": "Xpert Development",
+   "location": "United States"
+  },
+  "trainee flutter developer|netforemost, inc|anguilla, antigua and barbuda, argentina, aruba, bahamas, barbados, belize, bermuda, bolivia, bonaire, sint eustatius an": {
+   "first_seen": "2026-11-26T18:59:48+00:00",
+   "last_seen": "2026-11-26T18:59:48+00:00",
+   "title": "Trainee Flutter Developer",
+   "org": "NetForemost, Inc",
+   "location": "Anguilla, Antigua and Barbuda, Argentina, Aruba, Bahamas, Barbados, Belize, Bermuda, Bolivia, Bonaire, Sint Eustatius and Saba, Brazil, Cayman Islands, Chile, Colombia, Costa Rica, Cuba, Dominica, Dominican Republic, Ecuador, El Salvador, F"
+  },
+  "lead java developer with irs mbi clearance needed|3m consultancy|united states": {
+   "first_seen": "2026-11-26T18:59:48+00:00",
+   "last_seen": "2026-11-26T18:59:48+00:00",
+   "title": "Lead Java Developer with IRS MBI Clearance needed",
+   "org": "3M Consultancy",
+   "location": "United States"
+  },
+  "test customer support specialist|talent first|ukraine": {
+   "first_seen": "2026-11-26T18:59:48+00:00",
+   "last_seen": "2026-11-26T18:59:48+00:00",
+   "title": "TEST Customer Support Specialist",
+   "org": "Talent First",
+   "location": "Ukraine"
+  },
+  "steuerberater (m/w/d) in euskirchen - 100% remote m\u00f6glich|pmpg|germany": {
+   "first_seen": "2026-11-26T18:59:48+00:00",
+   "last_seen": "2026-11-26T18:59:48+00:00",
+   "title": "Steuerberater (m/w/d) in Euskirchen - 100% remote m\u00f6glich",
+   "org": "PMPG",
+   "location": "Germany"
+  },
+  "japanese voice actor - freelance ai trainer project|invisible technologies|remote": {
+   "first_seen": "2026-11-26T18:59:48+00:00",
+   "last_seen": "2026-11-26T18:59:48+00:00",
+   "title": "Japanese Voice Actor - Freelance AI Trainer Project",
+   "org": "Invisible Technologies",
+   "location": "remote"
+  },
+  "registered nurse - ai trainer|invisible technologies|remote": {
+   "first_seen": "2026-11-26T18:59:48+00:00",
+   "last_seen": "2026-11-26T18:59:48+00:00",
+   "title": "Registered Nurse - AI Trainer",
+   "org": "Invisible Technologies",
+   "location": "remote"
+  },
+  "slovene voice actor - freelance ai trainer project|invisible technologies|remote": {
+   "first_seen": "2026-11-26T18:59:48+00:00",
+   "last_seen": "2026-11-26T18:59:48+00:00",
+   "title": "Slovene Voice Actor - Freelance AI Trainer Project",
+   "org": "Invisible Technologies",
+   "location": "remote"
+  },
+  "apptio targetprocess (atp) implementation lead|cprime|india": {
+   "first_seen": "2026-11-26T18:59:48+00:00",
+   "last_seen": "2026-11-26T18:59:48+00:00",
+   "title": "Apptio Targetprocess (ATP) Implementation Lead",
+   "org": "Cprime",
+   "location": "India"
+  },
+  "associate client services director|boldscience|united kingdom": {
+   "first_seen": "2026-11-26T18:59:48+00:00",
+   "last_seen": "2026-11-26T18:59:48+00:00",
+   "title": "Associate Client Services Director",
+   "org": "BOLDSCIENCE",
+   "location": "United Kingdom"
+  },
+  "zendesk administrator (remote - latam)|maxana|argentina, belize, bolivia, brazil, chile, colombia, costa rica, ecuador, el salvador, falkland islands (malvinas), fren": {
+   "first_seen": "2026-11-26T18:59:48+00:00",
+   "last_seen": "2026-11-26T18:59:48+00:00",
+   "title": "Zendesk Administrator (Remote - LATAM)",
+   "org": "Maxana",
+   "location": "Argentina, Belize, Bolivia, Brazil, Chile, Colombia, Costa Rica, Ecuador, El Salvador, Falkland Islands (Malvinas), French Guiana, Guatemala, Guyana, Honduras, Nicaragua, Panama, Paraguay, Peru, Suriname, Uruguay, Venezuela"
+  },
+  "senior network engineer (aruba wireless - isp/wisp exposure)|pavago|united states": {
+   "first_seen": "2026-11-26T18:59:48+00:00",
+   "last_seen": "2026-11-26T18:59:48+00:00",
+   "title": "Senior Network Engineer (Aruba Wireless - ISP/WISP Exposure)",
+   "org": "Pavago",
+   "location": "United States"
+  },
+  "laravel developer + react - remote, latin america|bluelight consulting|anguilla, antigua and barbuda, argentina, aruba, bahamas, barbados, belize, bermuda, bolivia, bonaire, sint eustatius an": {
+   "first_seen": "2026-11-26T18:59:48+00:00",
+   "last_seen": "2026-11-26T18:59:48+00:00",
+   "title": "Laravel Developer + React - Remote, Latin America",
+   "org": "Bluelight Consulting",
+   "location": "Anguilla, Antigua and Barbuda, Argentina, Aruba, Bahamas, Barbados, Belize, Bermuda, Bolivia, Bonaire, Sint Eustatius and Saba, Brazil, Cayman Islands, Chile, Colombia, Costa Rica, Cuba, Dominica, Dominican Republic, Ecuador, El Salvador, F"
+  },
+  "account executive, retail|jane technologies|united states": {
+   "first_seen": "2026-11-26T18:59:48+00:00",
+   "last_seen": "2026-11-26T18:59:48+00:00",
+   "title": "Account Executive, Retail",
+   "org": "Jane Technologies",
+   "location": "United States"
+  },
+  "engagement manager (professional services sales)|cresta|united states": {
+   "first_seen": "2026-11-26T18:59:48+00:00",
+   "last_seen": "2026-11-26T18:59:48+00:00",
+   "title": "Engagement Manager (Professional Services Sales)",
+   "org": "Cresta",
+   "location": "United States"
   }
  }
 }
