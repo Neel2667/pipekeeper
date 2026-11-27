@@ -3,104 +3,104 @@
  "name": "Himalayas \u2014 remote jobs",
  "category": "jobs",
  "source": "https://himalayas.app/jobs/api",
- "collected_at": "2026-11-27T10:51:52+00:00",
+ "collected_at": "2026-11-27T19:56:36+00:00",
  "jobs_on_board": 20,
  "new_this_run": 20,
- "total_tracked": 775,
+ "total_tracked": 795,
  "jobs": [
   {
-   "title": "Senior Reward Manager",
-   "org": "Digital Science",
-   "location": "United Kingdom",
+   "title": "Sales Associate \u2013 (Sales Development)",
+   "org": "Gannett",
+   "location": "United States",
+   "detail": "$21\u2013$24/h",
+   "url": null,
+   "new_this_run": true
+  },
+  {
+   "title": "Data Entry Specialist",
+   "org": "Pavago",
+   "location": "Pakistan",
    "detail": "Full Time",
    "url": null,
    "new_this_run": true
   },
   {
-   "title": "IT Solutions Engineer Principal",
-   "org": "CommonSpirit Health",
-   "location": "United States",
-   "detail": "Other",
-   "url": null,
-   "new_this_run": true
-  },
-  {
-   "title": "R1562169 Sr.Consultant(e) en s\u00e9mantique des donn\u00e9es de sant\u00e9/Senior Advisor",
-   "org": "Lifelancer",
-   "location": "Canada",
-   "detail": "$87,400\u2013$116,500/a",
-   "url": null,
-   "new_this_run": true
-  },
-  {
-   "title": "KI-Spezialist (m/w/d) - Prompt Engineering & ChatGPT, 100 % remote",
-   "org": "Mentify Learn GmbH",
-   "location": "Germany",
-   "detail": "$50,000\u2013$60,000/a",
-   "url": null,
-   "new_this_run": true
-  },
-  {
-   "title": "Cold Caller / Setter & Opener im Vertrieb - Vollzeit, Remote (m/w/d)",
-   "org": "Roemer Capital GmbH",
-   "location": "Germany",
+   "title": "Medical Billing Team Lead",
+   "org": "Pavago",
+   "location": "Pakistan",
    "detail": "Full Time",
    "url": null,
    "new_this_run": true
   },
   {
-   "title": "Remote Account Executive Opportunity",
-   "org": "ReminderMedia",
-   "location": "United States",
-   "detail": "$65,000\u2013$125,000/a",
-   "url": null,
-   "new_this_run": true
-  },
-  {
-   "title": "Implementation Lead",
-   "org": "Case IQ",
-   "location": "Canada",
-   "detail": "$80,000\u2013$100,000/a",
-   "url": null,
-   "new_this_run": true
-  },
-  {
-   "title": "Procurement and Commercial Manager Senior Consultant - Nuclear",
-   "org": "Sargent & Lundy",
-   "location": "United States",
-   "detail": "$165,610\u2013$253,015/a",
-   "url": null,
-   "new_this_run": true
-  },
-  {
-   "title": "German & English Customer Service Agent | Remote from Portugal",
-   "org": "Lingonova",
-   "location": "Portugal",
-   "detail": "$1,055\u2013$1,055/m",
-   "url": null,
-   "new_this_run": true
-  },
-  {
-   "title": "Regional Sales Manager",
-   "org": "Tufin",
-   "location": "United Kingdom",
-   "detail": "Full Time",
-   "url": null,
-   "new_this_run": true
-  },
-  {
-   "title": "Budget Analyst - Contract",
-   "org": "Mfinite Consulting",
-   "location": "United States",
+   "title": "Executive Assistant to Board and Leadership | Philippines",
+   "org": "HireHawk",
+   "location": "Philippines",
    "detail": "Contractor",
    "url": null,
    "new_this_run": true
   },
   {
-   "title": "Developer Advocate (MCP & AI agents)",
-   "org": "byline.fyi",
+   "title": "Onboarding Manager",
+   "org": "Fetch Package",
    "location": "United States",
-   "detail": "$185,000\u2013$200,000/a",
+   "detail": "$70,000\u2013$80,000/a",
+   "url": null,
+   "new_this_run": true
+  },
+  {
+   "title": "Patient Access Scheduler",
+   "org": "Fairview Health Services",
+   "location": "United States",
+   "detail": "Full Time",
+   "url": null,
+   "new_this_run": true
+  },
+  {
+   "title": "(Freelance) Charg\u00e9\u00b7e de relations clients e-commerce",
+   "org": "Circles - Better Womanhood",
+   "location": "France",
+   "detail": "Contractor",
+   "url": null,
+   "new_this_run": true
+  },
+  {
+   "title": "Clinical Research Associate II - FSP",
+   "org": "Parexel",
+   "location": "Brazil",
+   "detail": "Full Time",
+   "url": null,
+   "new_this_run": true
+  },
+  {
+   "title": "Senior Project Manager Consultant \u2013 IT & Manufacturing",
+   "org": "Eraneos",
+   "location": "Spain",
+   "detail": "Full Time",
+   "url": null,
+   "new_this_run": true
+  },
+  {
+   "title": "Operations & HR Manager | Russian Speaker",
+   "org": "Whizz",
+   "location": "Croatia, Cyprus, Poland, Portugal, Serbia, Slovakia",
+   "detail": "$1,000\u2013$1,500/m",
+   "url": null,
+   "new_this_run": true
+  },
+  {
+   "title": "Network Solution Architekt, Cloud & AI (m/w/d)",
+   "org": "Yorizon",
+   "location": "Austria, Germany",
+   "detail": "Full Time",
+   "url": null,
+   "new_this_run": true
+  },
+  {
+   "title": "Director, Advocacy & Communications",
+   "org": "VillageReach",
+   "location": "United States",
+   "detail": "Full Time",
    "url": null,
    "new_this_run": true
   }
@@ -308,6 +308,11 @@
   },
   {
    "at": "2026-11-27T10:51:52+00:00",
+   "jobs": 20,
+   "new": 20
+  },
+  {
+   "at": "2026-11-27T19:56:36+00:00",
    "jobs": 20,
    "new": 20
   }
@@ -5737,6 +5742,146 @@
    "title": "Managing DFIR Consultant",
    "org": "NCC Group",
    "location": "United States"
+  },
+  "sales associate \u2013 (sales development)|gannett|united states": {
+   "first_seen": "2026-11-27T19:56:36+00:00",
+   "last_seen": "2026-11-27T19:56:36+00:00",
+   "title": "Sales Associate \u2013 (Sales Development)",
+   "org": "Gannett",
+   "location": "United States"
+  },
+  "data entry specialist|pavago|pakistan": {
+   "first_seen": "2026-11-27T19:56:36+00:00",
+   "last_seen": "2026-11-27T19:56:36+00:00",
+   "title": "Data Entry Specialist",
+   "org": "Pavago",
+   "location": "Pakistan"
+  },
+  "medical billing team lead|pavago|pakistan": {
+   "first_seen": "2026-11-27T19:56:36+00:00",
+   "last_seen": "2026-11-27T19:56:36+00:00",
+   "title": "Medical Billing Team Lead",
+   "org": "Pavago",
+   "location": "Pakistan"
+  },
+  "executive assistant to board and leadership | philippines|hirehawk|philippines": {
+   "first_seen": "2026-11-27T19:56:36+00:00",
+   "last_seen": "2026-11-27T19:56:36+00:00",
+   "title": "Executive Assistant to Board and Leadership | Philippines",
+   "org": "HireHawk",
+   "location": "Philippines"
+  },
+  "onboarding manager|fetch package|united states": {
+   "first_seen": "2026-11-27T19:56:36+00:00",
+   "last_seen": "2026-11-27T19:56:36+00:00",
+   "title": "Onboarding Manager",
+   "org": "Fetch Package",
+   "location": "United States"
+  },
+  "patient access scheduler|fairview health services|united states": {
+   "first_seen": "2026-11-27T19:56:36+00:00",
+   "last_seen": "2026-11-27T19:56:36+00:00",
+   "title": "Patient Access Scheduler",
+   "org": "Fairview Health Services",
+   "location": "United States"
+  },
+  "(freelance) charg\u00e9\u00b7e de relations clients e-commerce|circles - better womanhood|france": {
+   "first_seen": "2026-11-27T19:56:36+00:00",
+   "last_seen": "2026-11-27T19:56:36+00:00",
+   "title": "(Freelance) Charg\u00e9\u00b7e de relations clients e-commerce",
+   "org": "Circles - Better Womanhood",
+   "location": "France"
+  },
+  "clinical research associate ii - fsp|parexel|brazil": {
+   "first_seen": "2026-11-27T19:56:36+00:00",
+   "last_seen": "2026-11-27T19:56:36+00:00",
+   "title": "Clinical Research Associate II - FSP",
+   "org": "Parexel",
+   "location": "Brazil"
+  },
+  "senior project manager consultant \u2013 it & manufacturing|eraneos|spain": {
+   "first_seen": "2026-11-27T19:56:36+00:00",
+   "last_seen": "2026-11-27T19:56:36+00:00",
+   "title": "Senior Project Manager Consultant \u2013 IT & Manufacturing",
+   "org": "Eraneos",
+   "location": "Spain"
+  },
+  "operations & hr manager | russian speaker|whizz|croatia, cyprus, poland, portugal, serbia, slovakia": {
+   "first_seen": "2026-11-27T19:56:36+00:00",
+   "last_seen": "2026-11-27T19:56:36+00:00",
+   "title": "Operations & HR Manager | Russian Speaker",
+   "org": "Whizz",
+   "location": "Croatia, Cyprus, Poland, Portugal, Serbia, Slovakia"
+  },
+  "network solution architekt, cloud & ai (m/w/d)|yorizon|austria, germany": {
+   "first_seen": "2026-11-27T19:56:36+00:00",
+   "last_seen": "2026-11-27T19:56:36+00:00",
+   "title": "Network Solution Architekt, Cloud & AI (m/w/d)",
+   "org": "Yorizon",
+   "location": "Austria, Germany"
+  },
+  "director, advocacy & communications|villagereach|united states": {
+   "first_seen": "2026-11-27T19:56:36+00:00",
+   "last_seen": "2026-11-27T19:56:36+00:00",
+   "title": "Director, Advocacy & Communications",
+   "org": "VillageReach",
+   "location": "United States"
+  },
+  "account executive, saas/new curriculum (inside)|cambium learning group|united states": {
+   "first_seen": "2026-11-27T19:56:36+00:00",
+   "last_seen": "2026-11-27T19:56:36+00:00",
+   "title": "Account Executive, SaaS/New Curriculum (Inside)",
+   "org": "Cambium Learning Group",
+   "location": "United States"
+  },
+  "marketing specialist|true vet solutions|united states": {
+   "first_seen": "2026-11-27T19:56:36+00:00",
+   "last_seen": "2026-11-27T19:56:36+00:00",
+   "title": "Marketing Specialist",
+   "org": "True Vet Solutions",
+   "location": "United States"
+  },
+  "docker engineer|bright vision technologies|united states": {
+   "first_seen": "2026-11-27T19:56:36+00:00",
+   "last_seen": "2026-11-27T19:56:36+00:00",
+   "title": "Docker Engineer",
+   "org": "Bright Vision Technologies",
+   "location": "United States"
+  },
+  "enterprise sales executive|redpoint global inc.|united states": {
+   "first_seen": "2026-11-27T19:56:36+00:00",
+   "last_seen": "2026-11-27T19:56:36+00:00",
+   "title": "Enterprise Sales Executive",
+   "org": "Redpoint Global Inc.",
+   "location": "United States"
+  },
+  "senior platform engineer (w/m/d) (remote within the eu)|weflow|albania, andorra, austria, belarus, belgium, bosnia and herzegovina, bulgaria, croatia, cyprus, czechia, denmark, estoni": {
+   "first_seen": "2026-11-27T19:56:36+00:00",
+   "last_seen": "2026-11-27T19:56:36+00:00",
+   "title": "Senior Platform Engineer (w/m/d) (remote within the EU)",
+   "org": "Weflow",
+   "location": "Albania, Andorra, Austria, Belarus, Belgium, Bosnia and Herzegovina, Bulgaria, Croatia, Cyprus, Czechia, Denmark, Estonia, Faroe Islands, Finland, France, Germany, Gibraltar, Greece, Guernsey, Holy See (Vatican City State), Hungary, Iceland"
+  },
+  "test architect|tiger analytics|united states": {
+   "first_seen": "2026-11-27T19:56:36+00:00",
+   "last_seen": "2026-11-27T19:56:36+00:00",
+   "title": "Test Architect",
+   "org": "Tiger Analytics",
+   "location": "United States"
+  },
+  "data scientist - core analytics|ripjar|united kingdom": {
+   "first_seen": "2026-11-27T19:56:36+00:00",
+   "last_seen": "2026-11-27T19:56:36+00:00",
+   "title": "Data Scientist - Core Analytics",
+   "org": "Ripjar",
+   "location": "United Kingdom"
+  },
+  "senior business development manager (m/w/d)|bits&birds|germany": {
+   "first_seen": "2026-11-27T19:56:36+00:00",
+   "last_seen": "2026-11-27T19:56:36+00:00",
+   "title": "Senior Business Development Manager (m/w/d)",
+   "org": "bits&birds",
+   "location": "Germany"
   }
  }
 }

@@ -3,105 +3,105 @@
  "name": "Jobicy \u2014 remote jobs",
  "category": "jobs",
  "source": "https://jobicy.com/api/v2/remote-jobs",
- "collected_at": "2026-11-27T10:51:51+00:00",
+ "collected_at": "2026-11-27T19:56:36+00:00",
  "jobs_on_board": 50,
  "new_this_run": 50,
- "total_tracked": 1310,
+ "total_tracked": 1360,
  "jobs": [
   {
-   "title": "Sales Development - UK/I",
-   "org": "Elevenlabs",
-   "location": "Ireland, UK",
+   "title": "Country Manager, Japan",
+   "org": "UpGuard",
+   "location": "Japan",
    "detail": "Director",
-   "url": "https://jobicy.com/jobs/164044-sales-development-uk-i",
+   "url": "https://jobicy.com/jobs/164583-country-manager-japan",
    "new_this_run": true
   },
   {
-   "title": "Lead Growth Analyst",
-   "org": "TrustedHousesitters",
-   "location": "UK",
+   "title": "Product Lead - AI Finance",
+   "org": "BJAK",
+   "location": "Vietnam",
    "detail": "Senior",
-   "url": "https://jobicy.com/jobs/157427-lead-growth-analyst",
+   "url": "https://jobicy.com/jobs/164582-product-lead-ai-finance",
    "new_this_run": true
   },
   {
-   "title": "Sr. Security Engineer (Penetration Testing)",
-   "org": "CertiK",
-   "location": "USA",
-   "detail": "Any",
-   "url": "https://jobicy.com/jobs/157443-sr-security-engineer-penetration-testing",
-   "new_this_run": true
-  },
-  {
-   "title": "Senior Product Manager, Data Products",
-   "org": "Mural",
-   "location": "USA",
-   "detail": "Senior",
-   "url": "https://jobicy.com/jobs/157445-senior-product-manager-data-products",
-   "new_this_run": true
-  },
-  {
-   "title": "Account Executive, Enterprise Suite - Financial Services",
-   "org": "AlphaSense",
-   "location": "USA",
-   "detail": "Director",
-   "url": "https://jobicy.com/jobs/157444-account-executive-enterprise-suite-financial-services",
-   "new_this_run": true
-  },
-  {
-   "title": "Account Executive, Influencer Marketing",
-   "org": "Acceleration Partners",
-   "location": "UK",
-   "detail": "Director",
-   "url": "https://jobicy.com/jobs/157442-account-executive-influencer-marketing",
-   "new_this_run": true
-  },
-  {
-   "title": "Channel Account Manager",
-   "org": "Ping Identity",
+   "title": "Lead Data Engineer",
+   "org": "UpGuard",
    "location": "Australia",
    "detail": "Director",
-   "url": "https://jobicy.com/jobs/157441-channel-account-manager-3",
+   "url": "https://jobicy.com/jobs/164581-lead-data-engineer-3",
    "new_this_run": true
   },
   {
-   "title": "Senior Account Executive (Education) - ROMENA",
-   "org": "Instructure",
-   "location": "UAE",
-   "detail": "Director",
-   "url": "https://jobicy.com/jobs/157432-senior-account-executive-education-romena",
+   "title": "Software Engineer",
+   "org": "Vonage",
+   "location": "Spain",
+   "detail": "Senior",
+   "url": "https://jobicy.com/jobs/164580-software-engineer-16",
    "new_this_run": true
   },
   {
-   "title": "Senior Business Value Engineer | UK | Remote",
-   "org": "Grafana Labs",
-   "location": "UK",
-   "detail": "Director",
-   "url": "https://jobicy.com/jobs/157404-senior-business-value-engineer-uk-remote",
+   "title": "Strategy & Operations Associate",
+   "org": "BJAK",
+   "location": "China",
+   "detail": "Senior",
+   "url": "https://jobicy.com/jobs/164579-strategy-operations-associate",
    "new_this_run": true
   },
   {
-   "title": "Account Executive, Enterprise Suite - Corporate",
-   "org": "AlphaSense",
-   "location": "USA",
-   "detail": "Director",
-   "url": "https://jobicy.com/jobs/157435-account-executive-enterprise-suite-corporate",
+   "title": "Senior Frontend Engineer",
+   "org": "LastPass",
+   "location": "Hungary",
+   "detail": "Senior",
+   "url": "https://jobicy.com/jobs/164578-senior-frontend-engineer-3",
    "new_this_run": true
   },
   {
-   "title": "VP of Partnerships, EMEA",
-   "org": "Cresta",
-   "location": "UK",
+   "title": "Workforce Management - Real Time Analyst",
+   "org": "Clipboard",
+   "location": "APAC",
    "detail": "Director",
-   "url": "https://jobicy.com/jobs/157428-vp-of-partnerships-emea",
+   "url": "https://jobicy.com/jobs/164577-workforce-management-real-time-analyst-3",
    "new_this_run": true
   },
   {
-   "title": "Enterprise Account Executive",
-   "org": "Cresta",
-   "location": "USA",
-   "detail": "Director",
-   "url": "https://jobicy.com/jobs/157386-enterprise-account-executive-29",
+   "title": "Customer Success Manager",
+   "org": "UpGuard",
+   "location": "Singapore",
+   "detail": "Senior",
+   "url": "https://jobicy.com/jobs/164576-customer-success-manager-67",
+   "new_this_run": true
+  },
+  {
+   "title": "Senior Software Engineer",
+   "org": "Vonage",
+   "location": "Spain",
+   "detail": "Senior",
+   "url": "https://jobicy.com/jobs/164575-senior-software-engineer-33",
+   "new_this_run": true
+  },
+  {
+   "title": "Tech Support Specialist I (Spanish Bilingual)",
+   "org": "Palmetto Clean Technology",
+   "location": "Philippines",
+   "detail": "Any",
+   "url": "https://jobicy.com/jobs/164574-tech-support-specialist-i-spanish-bilingual",
+   "new_this_run": true
+  },
+  {
+   "title": "Brazilian Subject Matter Expert in TV & Movies",
+   "org": "Welo Global",
+   "location": "Brazil",
+   "detail": "Any",
+   "url": "https://jobicy.com/jobs/164570-brazilian-subject-matter-expert-in-tv-movies",
+   "new_this_run": true
+  },
+  {
+   "title": "Brazilian Subject Matter Expert in Literature and Linguistics",
+   "org": "Welo Global",
+   "location": "Europe",
+   "detail": "Any",
+   "url": "https://jobicy.com/jobs/164569-brazilian-subject-matter-expert-in-literature-and-linguistics",
    "new_this_run": true
   }
  ],
@@ -308,6 +308,11 @@
   },
   {
    "at": "2026-11-27T10:51:51+00:00",
+   "jobs": 50,
+   "new": 50
+  },
+  {
+   "at": "2026-11-27T19:56:36+00:00",
    "jobs": 50,
    "new": 50
   }
@@ -9482,6 +9487,356 @@
    "title": "Principal Product Security Engineer",
    "org": "Chainguard",
    "location": "UK"
+  },
+  "country manager, japan|upguard|japan": {
+   "first_seen": "2026-11-27T19:56:36+00:00",
+   "last_seen": "2026-11-27T19:56:36+00:00",
+   "title": "Country Manager, Japan",
+   "org": "UpGuard",
+   "location": "Japan"
+  },
+  "product lead - ai finance|bjak|vietnam": {
+   "first_seen": "2026-11-27T19:56:36+00:00",
+   "last_seen": "2026-11-27T19:56:36+00:00",
+   "title": "Product Lead - AI Finance",
+   "org": "BJAK",
+   "location": "Vietnam"
+  },
+  "lead data engineer|upguard|australia": {
+   "first_seen": "2026-11-27T19:56:36+00:00",
+   "last_seen": "2026-11-27T19:56:36+00:00",
+   "title": "Lead Data Engineer",
+   "org": "UpGuard",
+   "location": "Australia"
+  },
+  "software engineer|vonage|spain": {
+   "first_seen": "2026-11-27T19:56:36+00:00",
+   "last_seen": "2026-11-27T19:56:36+00:00",
+   "title": "Software Engineer",
+   "org": "Vonage",
+   "location": "Spain"
+  },
+  "strategy & operations associate|bjak|china": {
+   "first_seen": "2026-11-27T19:56:36+00:00",
+   "last_seen": "2026-11-27T19:56:36+00:00",
+   "title": "Strategy & Operations Associate",
+   "org": "BJAK",
+   "location": "China"
+  },
+  "senior frontend engineer|lastpass|hungary": {
+   "first_seen": "2026-11-27T19:56:36+00:00",
+   "last_seen": "2026-11-27T19:56:36+00:00",
+   "title": "Senior Frontend Engineer",
+   "org": "LastPass",
+   "location": "Hungary"
+  },
+  "workforce management - real time analyst|clipboard|apac": {
+   "first_seen": "2026-11-27T19:56:36+00:00",
+   "last_seen": "2026-11-27T19:56:36+00:00",
+   "title": "Workforce Management - Real Time Analyst",
+   "org": "Clipboard",
+   "location": "APAC"
+  },
+  "customer success manager|upguard|singapore": {
+   "first_seen": "2026-11-27T19:56:36+00:00",
+   "last_seen": "2026-11-27T19:56:36+00:00",
+   "title": "Customer Success Manager",
+   "org": "UpGuard",
+   "location": "Singapore"
+  },
+  "senior software engineer|vonage|spain": {
+   "first_seen": "2026-11-27T19:56:36+00:00",
+   "last_seen": "2026-11-27T19:56:36+00:00",
+   "title": "Senior Software Engineer",
+   "org": "Vonage",
+   "location": "Spain"
+  },
+  "tech support specialist i (spanish bilingual)|palmetto clean technology|philippines": {
+   "first_seen": "2026-11-27T19:56:36+00:00",
+   "last_seen": "2026-11-27T19:56:36+00:00",
+   "title": "Tech Support Specialist I (Spanish Bilingual)",
+   "org": "Palmetto Clean Technology",
+   "location": "Philippines"
+  },
+  "brazilian subject matter expert in tv & movies|welo global|brazil": {
+   "first_seen": "2026-11-27T19:56:36+00:00",
+   "last_seen": "2026-11-27T19:56:36+00:00",
+   "title": "Brazilian Subject Matter Expert in TV & Movies",
+   "org": "Welo Global",
+   "location": "Brazil"
+  },
+  "brazilian subject matter expert in literature and linguistics|welo global|europe": {
+   "first_seen": "2026-11-27T19:56:36+00:00",
+   "last_seen": "2026-11-27T19:56:36+00:00",
+   "title": "Brazilian Subject Matter Expert in Literature and Linguistics",
+   "org": "Welo Global",
+   "location": "Europe"
+  },
+  "brazilian subject matter expert in home & garden|welo global|brazil": {
+   "first_seen": "2026-11-27T19:56:36+00:00",
+   "last_seen": "2026-11-27T19:56:36+00:00",
+   "title": "Brazilian Subject Matter Expert in Home & Garden",
+   "org": "Welo Global",
+   "location": "Brazil"
+  },
+  "brazilian subject matter expert in games, puzzles & play|welo global|brazil": {
+   "first_seen": "2026-11-27T19:56:36+00:00",
+   "last_seen": "2026-11-27T19:56:36+00:00",
+   "title": "Brazilian Subject Matter Expert in Games, Puzzles & Play",
+   "org": "Welo Global",
+   "location": "Brazil"
+  },
+  "brazilian subject matter expert in fashion & style|welo global|brazil": {
+   "first_seen": "2026-11-27T19:56:36+00:00",
+   "last_seen": "2026-11-27T19:56:36+00:00",
+   "title": "Brazilian Subject Matter Expert in Fashion & Style",
+   "org": "Welo Global",
+   "location": "Brazil"
+  },
+  "japan marketing manager|cresta|japan": {
+   "first_seen": "2026-11-27T19:56:36+00:00",
+   "last_seen": "2026-11-27T19:56:36+00:00",
+   "title": "Japan Marketing Manager",
+   "org": "Cresta",
+   "location": "Japan"
+  },
+  "talent sourcer|caylent|mexico": {
+   "first_seen": "2026-11-27T19:56:36+00:00",
+   "last_seen": "2026-11-27T19:56:36+00:00",
+   "title": "Talent Sourcer",
+   "org": "Caylent",
+   "location": "Mexico"
+  },
+  "workforce management planning analyst|thumbtack|philippines": {
+   "first_seen": "2026-11-27T19:56:36+00:00",
+   "last_seen": "2026-11-27T19:56:36+00:00",
+   "title": "Workforce Management Planning Analyst",
+   "org": "Thumbtack",
+   "location": "Philippines"
+  },
+  "inside sales representative, germany (m/f/d)|plasmidsaurus|germany": {
+   "first_seen": "2026-11-27T19:56:36+00:00",
+   "last_seen": "2026-11-27T19:56:36+00:00",
+   "title": "Inside Sales Representative, Germany (m/f/d)",
+   "org": "Plasmidsaurus",
+   "location": "Germany"
+  },
+  "customer service advocate (multi-channel support)|thumbtack|philippines": {
+   "first_seen": "2026-11-27T19:56:36+00:00",
+   "last_seen": "2026-11-27T19:56:36+00:00",
+   "title": "Customer Service Advocate (Multi-Channel Support)",
+   "org": "Thumbtack",
+   "location": "Philippines"
+  },
+  "abm specialist|maintainx|usa": {
+   "first_seen": "2026-11-27T19:56:36+00:00",
+   "last_seen": "2026-11-27T19:56:36+00:00",
+   "title": "ABM Specialist",
+   "org": "MaintainX",
+   "location": "USA"
+  },
+  "technical support specialist|elation health|canada": {
+   "first_seen": "2026-11-27T19:56:36+00:00",
+   "last_seen": "2026-11-27T19:56:36+00:00",
+   "title": "Technical Support Specialist",
+   "org": "Elation Health",
+   "location": "Canada"
+  },
+  "senior software engineer|jamf|usa": {
+   "first_seen": "2026-11-27T19:56:36+00:00",
+   "last_seen": "2026-11-27T19:56:36+00:00",
+   "title": "Senior Software Engineer",
+   "org": "Jamf",
+   "location": "USA"
+  },
+  "staff software engineer|elation health|canada, new zealand, usa": {
+   "first_seen": "2026-11-27T19:56:36+00:00",
+   "last_seen": "2026-11-27T19:56:36+00:00",
+   "title": "Staff Software Engineer",
+   "org": "Elation Health",
+   "location": "Canada, New Zealand, USA"
+  },
+  "senior sales compensation analyst|jamf|usa": {
+   "first_seen": "2026-11-27T19:56:36+00:00",
+   "last_seen": "2026-11-27T19:56:36+00:00",
+   "title": "Senior Sales Compensation Analyst",
+   "org": "Jamf",
+   "location": "USA"
+  },
+  "associate geo and seo specialist|maintainx|usa": {
+   "first_seen": "2026-11-27T19:56:36+00:00",
+   "last_seen": "2026-11-27T19:56:36+00:00",
+   "title": "Associate GEO and SEO Specialist",
+   "org": "MaintainX",
+   "location": "USA"
+  },
+  "senior or staff product designer|elation health|canada, usa": {
+   "first_seen": "2026-11-27T19:56:36+00:00",
+   "last_seen": "2026-11-27T19:56:36+00:00",
+   "title": "Senior OR Staff Product Designer",
+   "org": "Elation Health",
+   "location": "Canada, USA"
+  },
+  "senior event specialist|jamf|usa": {
+   "first_seen": "2026-11-27T19:56:36+00:00",
+   "last_seen": "2026-11-27T19:56:36+00:00",
+   "title": "Senior Event Specialist",
+   "org": "Jamf",
+   "location": "USA"
+  },
+  "account executive - operators|maintainx|usa": {
+   "first_seen": "2026-11-27T19:56:36+00:00",
+   "last_seen": "2026-11-27T19:56:36+00:00",
+   "title": "Account Executive - Operators",
+   "org": "MaintainX",
+   "location": "USA"
+  },
+  "senior manager, commercial learning and development|elation health|usa": {
+   "first_seen": "2026-11-27T19:56:36+00:00",
+   "last_seen": "2026-11-27T19:56:36+00:00",
+   "title": "Senior Manager, Commercial Learning and Development",
+   "org": "Elation Health",
+   "location": "USA"
+  },
+  "senior enterprise new logo account executive | federal government|jamf|usa": {
+   "first_seen": "2026-11-27T19:56:36+00:00",
+   "last_seen": "2026-11-27T19:56:36+00:00",
+   "title": "Senior Enterprise New Logo Account Executive | Federal Government",
+   "org": "Jamf",
+   "location": "USA"
+  },
+  "senior analytics engineer, finance|airalo|spain, uk": {
+   "first_seen": "2026-11-27T19:56:36+00:00",
+   "last_seen": "2026-11-27T19:56:36+00:00",
+   "title": "Senior Analytics Engineer, Finance",
+   "org": "Airalo",
+   "location": "Spain, UK"
+  },
+  "tax manager|kaseya|usa": {
+   "first_seen": "2026-11-27T19:56:36+00:00",
+   "last_seen": "2026-11-27T19:56:36+00:00",
+   "title": "Tax Manager",
+   "org": "Kaseya",
+   "location": "USA"
+  },
+  "sales engineer - billing|elation health|usa": {
+   "first_seen": "2026-11-27T19:56:36+00:00",
+   "last_seen": "2026-11-27T19:56:36+00:00",
+   "title": "Sales Engineer - Billing",
+   "org": "Elation Health",
+   "location": "USA"
+  },
+  "sales engineer ii | edu|jamf|usa": {
+   "first_seen": "2026-11-27T19:56:36+00:00",
+   "last_seen": "2026-11-27T19:56:36+00:00",
+   "title": "Sales Engineer II | EDU",
+   "org": "Jamf",
+   "location": "USA"
+  },
+  "senior accountant|dandy|usa": {
+   "first_seen": "2026-11-27T19:56:36+00:00",
+   "last_seen": "2026-11-27T19:56:36+00:00",
+   "title": "Senior Accountant",
+   "org": "Dandy",
+   "location": "USA"
+  },
+  "demand generation manager, auto|upgrade|usa": {
+   "first_seen": "2026-11-27T19:56:36+00:00",
+   "last_seen": "2026-11-27T19:56:36+00:00",
+   "title": "Demand Generation Manager, Auto",
+   "org": "Upgrade",
+   "location": "USA"
+  },
+  "staff software engineer|kaseya|canada": {
+   "first_seen": "2026-11-27T19:56:36+00:00",
+   "last_seen": "2026-11-27T19:56:36+00:00",
+   "title": "Staff Software Engineer",
+   "org": "Kaseya",
+   "location": "Canada"
+  },
+  "recruiter|elation health|usa": {
+   "first_seen": "2026-11-27T19:56:36+00:00",
+   "last_seen": "2026-11-27T19:56:36+00:00",
+   "title": "Recruiter",
+   "org": "Elation Health",
+   "location": "USA"
+  },
+  "payroll tax analyst|jamf|usa": {
+   "first_seen": "2026-11-27T19:56:36+00:00",
+   "last_seen": "2026-11-27T19:56:36+00:00",
+   "title": "Payroll Tax Analyst",
+   "org": "Jamf",
+   "location": "USA"
+  },
+  "senior field marketing manager - public sector|tines|usa": {
+   "first_seen": "2026-11-27T19:56:36+00:00",
+   "last_seen": "2026-11-27T19:56:36+00:00",
+   "title": "Senior Field Marketing Manager - Public Sector",
+   "org": "Tines",
+   "location": "USA"
+  },
+  "procurement lead|dandy|usa": {
+   "first_seen": "2026-11-27T19:56:36+00:00",
+   "last_seen": "2026-11-27T19:56:36+00:00",
+   "title": "Procurement Lead",
+   "org": "Dandy",
+   "location": "USA"
+  },
+  "dealer development manager (portland, or)|upgrade|usa": {
+   "first_seen": "2026-11-27T19:56:36+00:00",
+   "last_seen": "2026-11-27T19:56:36+00:00",
+   "title": "Dealer Development Manager (Portland, OR)",
+   "org": "Upgrade",
+   "location": "USA"
+  },
+  "sr events manager|kaseya|usa": {
+   "first_seen": "2026-11-27T19:56:36+00:00",
+   "last_seen": "2026-11-27T19:56:36+00:00",
+   "title": "Sr Events Manager",
+   "org": "Kaseya",
+   "location": "USA"
+  },
+  "part-time temporary hr business partner / hr generalist|elation health|usa": {
+   "first_seen": "2026-11-27T19:56:36+00:00",
+   "last_seen": "2026-11-27T19:56:36+00:00",
+   "title": "Part-Time Temporary HR Business Partner / HR Generalist",
+   "org": "Elation Health",
+   "location": "USA"
+  },
+  "director, customer adoption & digital success|automox|usa": {
+   "first_seen": "2026-11-27T19:56:36+00:00",
+   "last_seen": "2026-11-27T19:56:36+00:00",
+   "title": "Director, Customer Adoption & Digital Success",
+   "org": "Automox",
+   "location": "USA"
+  },
+  "financial analyst|jamf|usa": {
+   "first_seen": "2026-11-27T19:56:36+00:00",
+   "last_seen": "2026-11-27T19:56:36+00:00",
+   "title": "Financial Analyst",
+   "org": "Jamf",
+   "location": "USA"
+  },
+  "regional vice president of sales - west|tines|usa": {
+   "first_seen": "2026-11-27T19:56:36+00:00",
+   "last_seen": "2026-11-27T19:56:36+00:00",
+   "title": "Regional Vice President of Sales - West",
+   "org": "Tines",
+   "location": "USA"
+  },
+  "dental sales engineer|dandy|usa": {
+   "first_seen": "2026-11-27T19:56:36+00:00",
+   "last_seen": "2026-11-27T19:56:36+00:00",
+   "title": "Dental Sales Engineer",
+   "org": "Dandy",
+   "location": "USA"
+  },
+  "dealer development manager (las vegas, nv)|upgrade|usa": {
+   "first_seen": "2026-11-27T19:56:36+00:00",
+   "last_seen": "2026-11-27T19:56:36+00:00",
+   "title": "Dealer Development Manager (Las Vegas, NV)",
+   "org": "Upgrade",
+   "location": "USA"
   }
  }
 }
