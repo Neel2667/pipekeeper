@@ -3,53 +3,21 @@
  "name": "Himalayas \u2014 remote jobs",
  "category": "jobs",
  "source": "https://himalayas.app/jobs/api",
- "collected_at": "2026-11-27T02:10:25+00:00",
+ "collected_at": "2026-11-27T10:51:52+00:00",
  "jobs_on_board": 20,
  "new_this_run": 20,
- "total_tracked": 755,
+ "total_tracked": 775,
  "jobs": [
   {
-   "title": "Principal Consultant, Technical Architect",
-   "org": "Ellucian Company LLC",
+   "title": "Senior Reward Manager",
+   "org": "Digital Science",
    "location": "United Kingdom",
    "detail": "Full Time",
    "url": null,
    "new_this_run": true
   },
   {
-   "title": "Android Software Engineer",
-   "org": "Bjak",
-   "location": "India",
-   "detail": "Full Time",
-   "url": null,
-   "new_this_run": true
-  },
-  {
-   "title": "Chief of Staff",
-   "org": "Bjak",
-   "location": "Singapore",
-   "detail": "Full Time",
-   "url": null,
-   "new_this_run": true
-  },
-  {
-   "title": "Remote Sales Agent (Insurtech Startup)",
-   "org": "Jerry",
-   "location": "United States",
-   "detail": "$19\u2013$21/h",
-   "url": null,
-   "new_this_run": true
-  },
-  {
-   "title": "Android Developer - AI Finance Agent",
-   "org": "Bjak",
-   "location": "Thailand",
-   "detail": "Full Time",
-   "url": null,
-   "new_this_run": true
-  },
-  {
-   "title": "System Director Formation Innovative Technology-Analytics",
+   "title": "IT Solutions Engineer Principal",
    "org": "CommonSpirit Health",
    "location": "United States",
    "detail": "Other",
@@ -57,50 +25,82 @@
    "new_this_run": true
   },
   {
-   "title": "Program Manager",
-   "org": "Mano Lani LLC",
+   "title": "R1562169 Sr.Consultant(e) en s\u00e9mantique des donn\u00e9es de sant\u00e9/Senior Advisor",
+   "org": "Lifelancer",
+   "location": "Canada",
+   "detail": "$87,400\u2013$116,500/a",
+   "url": null,
+   "new_this_run": true
+  },
+  {
+   "title": "KI-Spezialist (m/w/d) - Prompt Engineering & ChatGPT, 100 % remote",
+   "org": "Mentify Learn GmbH",
+   "location": "Germany",
+   "detail": "$50,000\u2013$60,000/a",
+   "url": null,
+   "new_this_run": true
+  },
+  {
+   "title": "Cold Caller / Setter & Opener im Vertrieb - Vollzeit, Remote (m/w/d)",
+   "org": "Roemer Capital GmbH",
+   "location": "Germany",
+   "detail": "Full Time",
+   "url": null,
+   "new_this_run": true
+  },
+  {
+   "title": "Remote Account Executive Opportunity",
+   "org": "ReminderMedia",
    "location": "United States",
-   "detail": "$100,000\u2013$120,000/a",
+   "detail": "$65,000\u2013$125,000/a",
    "url": null,
    "new_this_run": true
   },
   {
-   "title": "CEO Office - AI Neobank App",
-   "org": "Bjak",
-   "location": "Singapore",
-   "detail": "Full Time",
+   "title": "Implementation Lead",
+   "org": "Case IQ",
+   "location": "Canada",
+   "detail": "$80,000\u2013$100,000/a",
    "url": null,
    "new_this_run": true
   },
   {
-   "title": "Revenue Enablement Lead",
-   "org": "abridge",
+   "title": "Procurement and Commercial Manager Senior Consultant - Nuclear",
+   "org": "Sargent & Lundy",
    "location": "United States",
-   "detail": "$145,000\u2013$195,000/a",
+   "detail": "$165,610\u2013$253,015/a",
    "url": null,
    "new_this_run": true
   },
   {
-   "title": "Technical Lead",
-   "org": "Bjak",
-   "location": "Vietnam",
+   "title": "German & English Customer Service Agent | Remote from Portugal",
+   "org": "Lingonova",
+   "location": "Portugal",
+   "detail": "$1,055\u2013$1,055/m",
+   "url": null,
+   "new_this_run": true
+  },
+  {
+   "title": "Regional Sales Manager",
+   "org": "Tufin",
+   "location": "United Kingdom",
    "detail": "Full Time",
    "url": null,
    "new_this_run": true
   },
   {
-   "title": "Security Engineer (Remote - Poland)",
-   "org": "EverAI",
-   "location": "Poland",
-   "detail": "$65,000\u2013$115,000/a",
+   "title": "Budget Analyst - Contract",
+   "org": "Mfinite Consulting",
+   "location": "United States",
+   "detail": "Contractor",
    "url": null,
    "new_this_run": true
   },
   {
-   "title": "Product Manager - AI Neobank App",
-   "org": "Bjak",
-   "location": "Indonesia",
-   "detail": "Full Time",
+   "title": "Developer Advocate (MCP & AI agents)",
+   "org": "byline.fyi",
+   "location": "United States",
+   "detail": "$185,000\u2013$200,000/a",
    "url": null,
    "new_this_run": true
   }
@@ -303,6 +303,11 @@
   },
   {
    "at": "2026-11-27T02:10:25+00:00",
+   "jobs": 20,
+   "new": 20
+  },
+  {
+   "at": "2026-11-27T10:51:52+00:00",
    "jobs": 20,
    "new": 20
   }
@@ -5592,6 +5597,146 @@
    "title": "Strategy & Operations Lead",
    "org": "Bjak",
    "location": "China"
+  },
+  "senior reward manager|digital science|united kingdom": {
+   "first_seen": "2026-11-27T10:51:52+00:00",
+   "last_seen": "2026-11-27T10:51:52+00:00",
+   "title": "Senior Reward Manager",
+   "org": "Digital Science",
+   "location": "United Kingdom"
+  },
+  "it solutions engineer principal|commonspirit health|united states": {
+   "first_seen": "2026-11-27T10:51:52+00:00",
+   "last_seen": "2026-11-27T10:51:52+00:00",
+   "title": "IT Solutions Engineer Principal",
+   "org": "CommonSpirit Health",
+   "location": "United States"
+  },
+  "r1562169 sr.consultant(e) en s\u00e9mantique des donn\u00e9es de sant\u00e9/senior advisor|lifelancer|canada": {
+   "first_seen": "2026-11-27T10:51:52+00:00",
+   "last_seen": "2026-11-27T10:51:52+00:00",
+   "title": "R1562169 Sr.Consultant(e) en s\u00e9mantique des donn\u00e9es de sant\u00e9/Senior Advisor",
+   "org": "Lifelancer",
+   "location": "Canada"
+  },
+  "ki-spezialist (m/w/d) - prompt engineering & chatgpt, 100 % remote|mentify learn gmbh|germany": {
+   "first_seen": "2026-11-27T10:51:52+00:00",
+   "last_seen": "2026-11-27T10:51:52+00:00",
+   "title": "KI-Spezialist (m/w/d) - Prompt Engineering & ChatGPT, 100 % remote",
+   "org": "Mentify Learn GmbH",
+   "location": "Germany"
+  },
+  "cold caller / setter & opener im vertrieb - vollzeit, remote (m/w/d)|roemer capital gmbh|germany": {
+   "first_seen": "2026-11-27T10:51:52+00:00",
+   "last_seen": "2026-11-27T10:51:52+00:00",
+   "title": "Cold Caller / Setter & Opener im Vertrieb - Vollzeit, Remote (m/w/d)",
+   "org": "Roemer Capital GmbH",
+   "location": "Germany"
+  },
+  "remote account executive opportunity|remindermedia|united states": {
+   "first_seen": "2026-11-27T10:51:52+00:00",
+   "last_seen": "2026-11-27T10:51:52+00:00",
+   "title": "Remote Account Executive Opportunity",
+   "org": "ReminderMedia",
+   "location": "United States"
+  },
+  "implementation lead|case iq|canada": {
+   "first_seen": "2026-11-27T10:51:52+00:00",
+   "last_seen": "2026-11-27T10:51:52+00:00",
+   "title": "Implementation Lead",
+   "org": "Case IQ",
+   "location": "Canada"
+  },
+  "procurement and commercial manager senior consultant - nuclear|sargent & lundy|united states": {
+   "first_seen": "2026-11-27T10:51:52+00:00",
+   "last_seen": "2026-11-27T10:51:52+00:00",
+   "title": "Procurement and Commercial Manager Senior Consultant - Nuclear",
+   "org": "Sargent & Lundy",
+   "location": "United States"
+  },
+  "german & english customer service agent | remote from portugal|lingonova|portugal": {
+   "first_seen": "2026-11-27T10:51:52+00:00",
+   "last_seen": "2026-11-27T10:51:52+00:00",
+   "title": "German & English Customer Service Agent | Remote from Portugal",
+   "org": "Lingonova",
+   "location": "Portugal"
+  },
+  "regional sales manager|tufin|united kingdom": {
+   "first_seen": "2026-11-27T10:51:52+00:00",
+   "last_seen": "2026-11-27T10:51:52+00:00",
+   "title": "Regional Sales Manager",
+   "org": "Tufin",
+   "location": "United Kingdom"
+  },
+  "budget analyst - contract|mfinite consulting|united states": {
+   "first_seen": "2026-11-27T10:51:52+00:00",
+   "last_seen": "2026-11-27T10:51:52+00:00",
+   "title": "Budget Analyst - Contract",
+   "org": "Mfinite Consulting",
+   "location": "United States"
+  },
+  "developer advocate (mcp & ai agents)|byline.fyi|united states": {
+   "first_seen": "2026-11-27T10:51:52+00:00",
+   "last_seen": "2026-11-27T10:51:52+00:00",
+   "title": "Developer Advocate (MCP & AI agents)",
+   "org": "byline.fyi",
+   "location": "United States"
+  },
+  "account executive - ohio valley|notraffic|united states": {
+   "first_seen": "2026-11-27T10:51:52+00:00",
+   "last_seen": "2026-11-27T10:51:52+00:00",
+   "title": "Account Executive - Ohio Valley",
+   "org": "NoTraffic",
+   "location": "United States"
+  },
+  "licensed clinical psychologist|hansel union consulting, pllc|united states": {
+   "first_seen": "2026-11-27T10:51:52+00:00",
+   "last_seen": "2026-11-27T10:51:52+00:00",
+   "title": "Licensed Clinical Psychologist",
+   "org": "Hansel Union Consulting, PLLC",
+   "location": "United States"
+  },
+  "support engineer|description ciklum|ukraine": {
+   "first_seen": "2026-11-27T10:51:52+00:00",
+   "last_seen": "2026-11-27T10:51:52+00:00",
+   "title": "Support Engineer",
+   "org": "Description Ciklum",
+   "location": "Ukraine"
+  },
+  "analyste senior en qualit\u00e9 des donn\u00e9es (salari\u00e9 ou ind\u00e9pendant)|engiflex|belgium": {
+   "first_seen": "2026-11-27T10:51:52+00:00",
+   "last_seen": "2026-11-27T10:51:52+00:00",
+   "title": "Analyste senior en qualit\u00e9 des donn\u00e9es (Salari\u00e9 ou ind\u00e9pendant)",
+   "org": "EngiFlex",
+   "location": "Belgium"
+  },
+  "senior product marketing manager, market & competitive intelligence|zenity|united states": {
+   "first_seen": "2026-11-27T10:51:52+00:00",
+   "last_seen": "2026-11-27T10:51:52+00:00",
+   "title": "Senior Product Marketing Manager, Market & Competitive Intelligence",
+   "org": "Zenity",
+   "location": "United States"
+  },
+  "financial educator remote|shady grove fertility|united states": {
+   "first_seen": "2026-11-27T10:51:52+00:00",
+   "last_seen": "2026-11-27T10:51:52+00:00",
+   "title": "Financial Educator Remote",
+   "org": "Shady Grove Fertility",
+   "location": "United States"
+  },
+  "national internal traveler staffing program manager|commonspirit health|united states": {
+   "first_seen": "2026-11-27T10:51:52+00:00",
+   "last_seen": "2026-11-27T10:51:52+00:00",
+   "title": "National Internal Traveler Staffing Program Manager",
+   "org": "CommonSpirit Health",
+   "location": "United States"
+  },
+  "managing dfir consultant|ncc group|united states": {
+   "first_seen": "2026-11-27T10:51:52+00:00",
+   "last_seen": "2026-11-27T10:51:52+00:00",
+   "title": "Managing DFIR Consultant",
+   "org": "NCC Group",
+   "location": "United States"
   }
  }
 }

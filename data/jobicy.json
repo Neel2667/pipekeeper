@@ -3,106 +3,106 @@
  "name": "Jobicy \u2014 remote jobs",
  "category": "jobs",
  "source": "https://jobicy.com/api/v2/remote-jobs",
- "collected_at": "2026-11-27T02:10:24+00:00",
+ "collected_at": "2026-11-27T10:51:51+00:00",
  "jobs_on_board": 50,
- "new_this_run": 10,
- "total_tracked": 1260,
+ "new_this_run": 50,
+ "total_tracked": 1310,
  "jobs": [
   {
-   "title": "Account Manager (Northland)",
-   "org": "Halter",
-   "location": "New Zealand",
-   "detail": "Senior",
-   "url": "https://jobicy.com/jobs/164468-account-manager-northland",
-   "new_this_run": true
-  },
-  {
-   "title": "Brazilian Subject Matter Expert in Fandoms (Music, Pop, Disney & Political Memes)",
-   "org": "Welo Global",
-   "location": "Brazil",
-   "detail": "Any",
-   "url": "https://jobicy.com/jobs/164467-brazilian-subject-matter-expert-in-fandoms-music-pop-disney-political-memes",
-   "new_this_run": true
-  },
-  {
-   "title": "Business Development Executive (Northland)",
-   "org": "Halter",
-   "location": "New Zealand",
+   "title": "Sales Development - UK/I",
+   "org": "Elevenlabs",
+   "location": "Ireland, UK",
    "detail": "Director",
-   "url": "https://jobicy.com/jobs/164466-business-development-executive-northland",
+   "url": "https://jobicy.com/jobs/164044-sales-development-uk-i",
    "new_this_run": true
   },
   {
-   "title": "Technical Sales Specialist (Electrical Market)",
-   "org": "Ajax Systems",
-   "location": "France",
-   "detail": "Any",
-   "url": "https://jobicy.com/jobs/164465-technical-sales-specialist-electrical-market-2",
-   "new_this_run": true
-  },
-  {
-   "title": "Field Operations Team Lead",
-   "org": "Halter",
-   "location": "Australia",
-   "detail": "Senior",
-   "url": "https://jobicy.com/jobs/164464-field-operations-team-lead",
-   "new_this_run": true
-  },
-  {
-   "title": "Graphic Designer (Permanent work from home)",
-   "org": "Lightspeed Commerce",
-   "location": "Philippines",
-   "detail": "Any",
-   "url": "https://jobicy.com/jobs/164463-graphic-designer-permanent-work-from-home-2",
-   "new_this_run": true
-  },
-  {
-   "title": "Technical Pre-Sales Engineer (Greece)",
-   "org": "Ajax Systems",
-   "location": "Greece",
-   "detail": "Senior",
-   "url": "https://jobicy.com/jobs/164462-technical-pre-sales-engineer-greece-2",
-   "new_this_run": true
-  },
-  {
-   "title": "Enterprise Key Account Manager - Beef (New Zealand)",
-   "org": "Halter",
-   "location": "New Zealand",
-   "detail": "Director",
-   "url": "https://jobicy.com/jobs/164461-enterprise-key-account-manager-beef-new-zealand",
-   "new_this_run": true
-  },
-  {
-   "title": "Territory Manager (Mount Gambier)",
-   "org": "Halter",
-   "location": "Australia",
-   "detail": "Senior",
-   "url": "https://jobicy.com/jobs/164460-territory-manager-mount-gambier",
-   "new_this_run": true
-  },
-  {
-   "title": "Analyst - FRENCH speaking",
-   "org": "Cision",
+   "title": "Lead Growth Analyst",
+   "org": "TrustedHousesitters",
    "location": "UK",
-   "detail": "Any",
-   "url": "https://jobicy.com/jobs/164458-analyst-french-speaking",
+   "detail": "Senior",
+   "url": "https://jobicy.com/jobs/157427-lead-growth-analyst",
    "new_this_run": true
   },
   {
-   "title": "Talent Acquisition Partner/Senior Recruiter, Technical and Product",
-   "org": "D2L",
-   "location": "Canada",
-   "detail": "Senior",
-   "url": "https://jobicy.com/jobs/164454-talent-acquisition-partner-senior-recruiter-technical-and-product",
-   "new_this_run": false
+   "title": "Sr. Security Engineer (Penetration Testing)",
+   "org": "CertiK",
+   "location": "USA",
+   "detail": "Any",
+   "url": "https://jobicy.com/jobs/157443-sr-security-engineer-penetration-testing",
+   "new_this_run": true
   },
   {
-   "title": "Agent Engineer - US Remote",
-   "org": "TRM Labs",
+   "title": "Senior Product Manager, Data Products",
+   "org": "Mural",
    "location": "USA",
    "detail": "Senior",
-   "url": "https://jobicy.com/jobs/164452-agent-engineer-us-remote",
-   "new_this_run": false
+   "url": "https://jobicy.com/jobs/157445-senior-product-manager-data-products",
+   "new_this_run": true
+  },
+  {
+   "title": "Account Executive, Enterprise Suite - Financial Services",
+   "org": "AlphaSense",
+   "location": "USA",
+   "detail": "Director",
+   "url": "https://jobicy.com/jobs/157444-account-executive-enterprise-suite-financial-services",
+   "new_this_run": true
+  },
+  {
+   "title": "Account Executive, Influencer Marketing",
+   "org": "Acceleration Partners",
+   "location": "UK",
+   "detail": "Director",
+   "url": "https://jobicy.com/jobs/157442-account-executive-influencer-marketing",
+   "new_this_run": true
+  },
+  {
+   "title": "Channel Account Manager",
+   "org": "Ping Identity",
+   "location": "Australia",
+   "detail": "Director",
+   "url": "https://jobicy.com/jobs/157441-channel-account-manager-3",
+   "new_this_run": true
+  },
+  {
+   "title": "Senior Account Executive (Education) - ROMENA",
+   "org": "Instructure",
+   "location": "UAE",
+   "detail": "Director",
+   "url": "https://jobicy.com/jobs/157432-senior-account-executive-education-romena",
+   "new_this_run": true
+  },
+  {
+   "title": "Senior Business Value Engineer | UK | Remote",
+   "org": "Grafana Labs",
+   "location": "UK",
+   "detail": "Director",
+   "url": "https://jobicy.com/jobs/157404-senior-business-value-engineer-uk-remote",
+   "new_this_run": true
+  },
+  {
+   "title": "Account Executive, Enterprise Suite - Corporate",
+   "org": "AlphaSense",
+   "location": "USA",
+   "detail": "Director",
+   "url": "https://jobicy.com/jobs/157435-account-executive-enterprise-suite-corporate",
+   "new_this_run": true
+  },
+  {
+   "title": "VP of Partnerships, EMEA",
+   "org": "Cresta",
+   "location": "UK",
+   "detail": "Director",
+   "url": "https://jobicy.com/jobs/157428-vp-of-partnerships-emea",
+   "new_this_run": true
+  },
+  {
+   "title": "Enterprise Account Executive",
+   "org": "Cresta",
+   "location": "USA",
+   "detail": "Director",
+   "url": "https://jobicy.com/jobs/157386-enterprise-account-executive-29",
+   "new_this_run": true
   }
  ],
  "runs": [
@@ -305,6 +305,11 @@
    "at": "2026-11-27T02:10:24+00:00",
    "jobs": 50,
    "new": 10
+  },
+  {
+   "at": "2026-11-27T10:51:51+00:00",
+   "jobs": 50,
+   "new": 50
   }
  ],
  "jobs_seen": {
@@ -9126,6 +9131,356 @@
    "last_seen": "2026-11-27T02:10:24+00:00",
    "title": "Analyst - FRENCH speaking",
    "org": "Cision",
+   "location": "UK"
+  },
+  "sales development - uk/i|elevenlabs|ireland, uk": {
+   "first_seen": "2026-11-27T10:51:51+00:00",
+   "last_seen": "2026-11-27T10:51:51+00:00",
+   "title": "Sales Development - UK/I",
+   "org": "Elevenlabs",
+   "location": "Ireland, UK"
+  },
+  "lead growth analyst|trustedhousesitters|uk": {
+   "first_seen": "2026-11-27T10:51:51+00:00",
+   "last_seen": "2026-11-27T10:51:51+00:00",
+   "title": "Lead Growth Analyst",
+   "org": "TrustedHousesitters",
+   "location": "UK"
+  },
+  "sr. security engineer (penetration testing)|certik|usa": {
+   "first_seen": "2026-11-27T10:51:51+00:00",
+   "last_seen": "2026-11-27T10:51:51+00:00",
+   "title": "Sr. Security Engineer (Penetration Testing)",
+   "org": "CertiK",
+   "location": "USA"
+  },
+  "senior product manager, data products|mural|usa": {
+   "first_seen": "2026-11-27T10:51:51+00:00",
+   "last_seen": "2026-11-27T10:51:51+00:00",
+   "title": "Senior Product Manager, Data Products",
+   "org": "Mural",
+   "location": "USA"
+  },
+  "account executive, enterprise suite - financial services|alphasense|usa": {
+   "first_seen": "2026-11-27T10:51:51+00:00",
+   "last_seen": "2026-11-27T10:51:51+00:00",
+   "title": "Account Executive, Enterprise Suite - Financial Services",
+   "org": "AlphaSense",
+   "location": "USA"
+  },
+  "account executive, influencer marketing|acceleration partners|uk": {
+   "first_seen": "2026-11-27T10:51:51+00:00",
+   "last_seen": "2026-11-27T10:51:51+00:00",
+   "title": "Account Executive, Influencer Marketing",
+   "org": "Acceleration Partners",
+   "location": "UK"
+  },
+  "channel account manager|ping identity|australia": {
+   "first_seen": "2026-11-27T10:51:51+00:00",
+   "last_seen": "2026-11-27T10:51:51+00:00",
+   "title": "Channel Account Manager",
+   "org": "Ping Identity",
+   "location": "Australia"
+  },
+  "senior account executive (education) - romena|instructure|uae": {
+   "first_seen": "2026-11-27T10:51:51+00:00",
+   "last_seen": "2026-11-27T10:51:51+00:00",
+   "title": "Senior Account Executive (Education) - ROMENA",
+   "org": "Instructure",
+   "location": "UAE"
+  },
+  "senior business value engineer | uk | remote|grafana labs|uk": {
+   "first_seen": "2026-11-27T10:51:51+00:00",
+   "last_seen": "2026-11-27T10:51:51+00:00",
+   "title": "Senior Business Value Engineer | UK | Remote",
+   "org": "Grafana Labs",
+   "location": "UK"
+  },
+  "account executive, enterprise suite - corporate|alphasense|usa": {
+   "first_seen": "2026-11-27T10:51:51+00:00",
+   "last_seen": "2026-11-27T10:51:51+00:00",
+   "title": "Account Executive, Enterprise Suite - Corporate",
+   "org": "AlphaSense",
+   "location": "USA"
+  },
+  "vp of partnerships, emea|cresta|uk": {
+   "first_seen": "2026-11-27T10:51:51+00:00",
+   "last_seen": "2026-11-27T10:51:51+00:00",
+   "title": "VP of Partnerships, EMEA",
+   "org": "Cresta",
+   "location": "UK"
+  },
+  "enterprise account executive|cresta|usa": {
+   "first_seen": "2026-11-27T10:51:51+00:00",
+   "last_seen": "2026-11-27T10:51:51+00:00",
+   "title": "Enterprise Account Executive",
+   "org": "Cresta",
+   "location": "USA"
+  },
+  "senior machine learning manager, borrowing|monzo|uk": {
+   "first_seen": "2026-11-27T10:51:51+00:00",
+   "last_seen": "2026-11-27T10:51:51+00:00",
+   "title": "Senior Machine Learning Manager, Borrowing",
+   "org": "Monzo",
+   "location": "UK"
+  },
+  "senior security grc engineer|mozilla|uk": {
+   "first_seen": "2026-11-27T10:51:51+00:00",
+   "last_seen": "2026-11-27T10:51:51+00:00",
+   "title": "Senior Security GRC Engineer",
+   "org": "Mozilla",
+   "location": "UK"
+  },
+  "engagement manager (professional services sales)|cresta|usa": {
+   "first_seen": "2026-11-27T10:51:51+00:00",
+   "last_seen": "2026-11-27T10:51:51+00:00",
+   "title": "Engagement Manager (Professional Services Sales)",
+   "org": "Cresta",
+   "location": "USA"
+  },
+  "senior product manager|rithum|usa": {
+   "first_seen": "2026-11-27T10:51:51+00:00",
+   "last_seen": "2026-11-27T10:51:51+00:00",
+   "title": "Senior Product Manager",
+   "org": "Rithum",
+   "location": "USA"
+  },
+  "customer success manager|tenable|australia": {
+   "first_seen": "2026-11-27T10:51:51+00:00",
+   "last_seen": "2026-11-27T10:51:51+00:00",
+   "title": "Customer Success Manager",
+   "org": "Tenable",
+   "location": "Australia"
+  },
+  "regional marketing manager, anz|cloudbeds|australia, new zealand": {
+   "first_seen": "2026-11-27T10:51:51+00:00",
+   "last_seen": "2026-11-27T10:51:51+00:00",
+   "title": "Regional Marketing Manager, ANZ",
+   "org": "Cloudbeds",
+   "location": "Australia, New Zealand"
+  },
+  "senior engineering manager, grafana frontend | germany | remote|grafana labs|germany": {
+   "first_seen": "2026-11-27T10:51:51+00:00",
+   "last_seen": "2026-11-27T10:51:51+00:00",
+   "title": "Senior Engineering Manager, Grafana Frontend | Germany | Remote",
+   "org": "Grafana Labs",
+   "location": "Germany"
+  },
+  "general manager, industrial products & services - us based|toptal|usa": {
+   "first_seen": "2026-11-27T10:51:51+00:00",
+   "last_seen": "2026-11-27T10:51:51+00:00",
+   "title": "General Manager, Industrial Products & Services - US Based",
+   "org": "Toptal",
+   "location": "USA"
+  },
+  "senior software engineer, firefox security|mozilla|france": {
+   "first_seen": "2026-11-27T10:51:51+00:00",
+   "last_seen": "2026-11-27T10:51:51+00:00",
+   "title": "Senior Software Engineer, Firefox Security",
+   "org": "Mozilla",
+   "location": "France"
+  },
+  "executive search lead - technology|canonical|emea": {
+   "first_seen": "2026-11-27T10:51:51+00:00",
+   "last_seen": "2026-11-27T10:51:51+00:00",
+   "title": "Executive Search Lead - Technology",
+   "org": "Canonical",
+   "location": "EMEA"
+  },
+  "engineering manager - ubuntu core|canonical|emea, latam, canada, usa": {
+   "first_seen": "2026-11-27T10:51:51+00:00",
+   "last_seen": "2026-11-27T10:51:51+00:00",
+   "title": "Engineering Manager - Ubuntu Core",
+   "org": "Canonical",
+   "location": "EMEA, LATAM, Canada, USA"
+  },
+  "senior security engineer - secops|mozilla|sweden": {
+   "first_seen": "2026-11-27T10:51:51+00:00",
+   "last_seen": "2026-11-27T10:51:51+00:00",
+   "title": "Senior Security Engineer - SecOps",
+   "org": "Mozilla",
+   "location": "Sweden"
+  },
+  "director, project management|precision medicine group|usa": {
+   "first_seen": "2026-11-27T10:51:51+00:00",
+   "last_seen": "2026-11-27T10:51:51+00:00",
+   "title": "Director, Project Management",
+   "org": "Precision Medicine Group",
+   "location": "USA"
+  },
+  "forward deployed product manager, ai agent|cresta|usa": {
+   "first_seen": "2026-11-27T10:51:51+00:00",
+   "last_seen": "2026-11-27T10:51:51+00:00",
+   "title": "Forward Deployed Product Manager, AI Agent",
+   "org": "Cresta",
+   "location": "USA"
+  },
+  "technical account manager, enterprise|socket|canada, usa": {
+   "first_seen": "2026-11-27T10:51:51+00:00",
+   "last_seen": "2026-11-27T10:51:51+00:00",
+   "title": "Technical Account Manager, Enterprise",
+   "org": "Socket",
+   "location": "Canada, USA"
+  },
+  "engineering manager|socket|usa": {
+   "first_seen": "2026-11-27T10:51:51+00:00",
+   "last_seen": "2026-11-27T10:51:51+00:00",
+   "title": "Engineering Manager",
+   "org": "Socket",
+   "location": "USA"
+  },
+  "kyb/aml analyst, sweden|ramp|sweden": {
+   "first_seen": "2026-11-27T10:51:51+00:00",
+   "last_seen": "2026-11-27T10:51:51+00:00",
+   "title": "KYB/AML Analyst, Sweden",
+   "org": "Ramp",
+   "location": "Sweden"
+  },
+  "manager, technical account teams (commercial)|socket|canada, usa": {
+   "first_seen": "2026-11-27T10:51:51+00:00",
+   "last_seen": "2026-11-27T10:51:51+00:00",
+   "title": "Manager, Technical Account Teams (Commercial)",
+   "org": "Socket",
+   "location": "Canada, USA"
+  },
+  "manager, technical account teams (enterprise)|socket|canada, usa": {
+   "first_seen": "2026-11-27T10:51:51+00:00",
+   "last_seen": "2026-11-27T10:51:51+00:00",
+   "title": "Manager, Technical Account Teams (Enterprise)",
+   "org": "Socket",
+   "location": "Canada, USA"
+  },
+  "technical account manager, commercial|socket|canada, usa": {
+   "first_seen": "2026-11-27T10:51:51+00:00",
+   "last_seen": "2026-11-27T10:51:51+00:00",
+   "title": "Technical Account Manager, Commercial",
+   "org": "Socket",
+   "location": "Canada, USA"
+  },
+  "collaborative l&d specialist|laminar projects|czechia, hungary, poland, romania, slovakia": {
+   "first_seen": "2026-11-27T10:51:51+00:00",
+   "last_seen": "2026-11-27T10:51:51+00:00",
+   "title": "Collaborative L&D Specialist",
+   "org": "Laminar Projects",
+   "location": "Czechia, Hungary, Poland, Romania, Slovakia"
+  },
+  "project manager|superside|latam": {
+   "first_seen": "2026-11-27T10:51:51+00:00",
+   "last_seen": "2026-11-27T10:51:51+00:00",
+   "title": "Project Manager",
+   "org": "Superside",
+   "location": "LATAM"
+  },
+  "sales engineer, smb|socket|usa": {
+   "first_seen": "2026-11-27T10:51:51+00:00",
+   "last_seen": "2026-11-27T10:51:51+00:00",
+   "title": "Sales Engineer, SMB",
+   "org": "Socket",
+   "location": "USA"
+  },
+  "junior website builder|luxury presence|philippines": {
+   "first_seen": "2026-11-27T10:51:51+00:00",
+   "last_seen": "2026-11-27T10:51:51+00:00",
+   "title": "Junior Website Builder",
+   "org": "Luxury Presence",
+   "location": "Philippines"
+  },
+  "director, enterprise sales, west|cresta|usa": {
+   "first_seen": "2026-11-27T10:51:51+00:00",
+   "last_seen": "2026-11-27T10:51:51+00:00",
+   "title": "Director, Enterprise Sales, West",
+   "org": "Cresta",
+   "location": "USA"
+  },
+  "senior growth marketing manager|rithum|usa": {
+   "first_seen": "2026-11-27T10:51:51+00:00",
+   "last_seen": "2026-11-27T10:51:51+00:00",
+   "title": "Senior Growth Marketing Manager",
+   "org": "Rithum",
+   "location": "USA"
+  },
+  "clinical research associate ii - fsp|precision medicine group|usa": {
+   "first_seen": "2026-11-27T10:51:51+00:00",
+   "last_seen": "2026-11-27T10:51:51+00:00",
+   "title": "Clinical Research Associate II - FSP",
+   "org": "Precision Medicine Group",
+   "location": "USA"
+  },
+  "account manager (west coast, nz)|halter|new zealand": {
+   "first_seen": "2026-11-27T10:51:51+00:00",
+   "last_seen": "2026-11-27T10:51:51+00:00",
+   "title": "Account Manager (West Coast, NZ)",
+   "org": "Halter",
+   "location": "New Zealand"
+  },
+  "account manager (north waikato)|halter|new zealand": {
+   "first_seen": "2026-11-27T10:51:51+00:00",
+   "last_seen": "2026-11-27T10:51:51+00:00",
+   "title": "Account Manager (North Waikato)",
+   "org": "Halter",
+   "location": "New Zealand"
+  },
+  "regional sales manager (north queensland)|halter|australia": {
+   "first_seen": "2026-11-27T10:51:51+00:00",
+   "last_seen": "2026-11-27T10:51:51+00:00",
+   "title": "Regional Sales Manager (North Queensland)",
+   "org": "Halter",
+   "location": "Australia"
+  },
+  "territory manager (south canterbury)|halter|new zealand": {
+   "first_seen": "2026-11-27T10:51:51+00:00",
+   "last_seen": "2026-11-27T10:51:51+00:00",
+   "title": "Territory Manager (South Canterbury)",
+   "org": "Halter",
+   "location": "New Zealand"
+  },
+  "technical account manager|ping identity|uk": {
+   "first_seen": "2026-11-27T10:51:51+00:00",
+   "last_seen": "2026-11-27T10:51:51+00:00",
+   "title": "Technical Account Manager",
+   "org": "Ping Identity",
+   "location": "UK"
+  },
+  "global controller|customer.io|latam, canada, usa": {
+   "first_seen": "2026-11-27T10:51:51+00:00",
+   "last_seen": "2026-11-27T10:51:51+00:00",
+   "title": "Global Controller",
+   "org": "Customer.io",
+   "location": "LATAM, Canada, USA"
+  },
+  "senior phishing tradecraft researcher|huntress|usa": {
+   "first_seen": "2026-11-27T10:51:51+00:00",
+   "last_seen": "2026-11-27T10:51:51+00:00",
+   "title": "Senior Phishing Tradecraft Researcher",
+   "org": "Huntress",
+   "location": "USA"
+  },
+  "engineering manager|customer.io|latam, canada, usa": {
+   "first_seen": "2026-11-27T10:51:51+00:00",
+   "last_seen": "2026-11-27T10:51:51+00:00",
+   "title": "Engineering Manager",
+   "org": "Customer.io",
+   "location": "LATAM, Canada, USA"
+  },
+  "senior sales engineer|commvault|usa": {
+   "first_seen": "2026-11-27T10:51:51+00:00",
+   "last_seen": "2026-11-27T10:51:51+00:00",
+   "title": "Senior Sales Engineer",
+   "org": "Commvault",
+   "location": "USA"
+  },
+  "senior account executive|mozilla|uk": {
+   "first_seen": "2026-11-27T10:51:51+00:00",
+   "last_seen": "2026-11-27T10:51:51+00:00",
+   "title": "Senior Account Executive",
+   "org": "Mozilla",
+   "location": "UK"
+  },
+  "principal product security engineer|chainguard|uk": {
+   "first_seen": "2026-11-27T10:51:51+00:00",
+   "last_seen": "2026-11-27T10:51:51+00:00",
+   "title": "Principal Product Security Engineer",
+   "org": "Chainguard",
    "location": "UK"
   }
  }
