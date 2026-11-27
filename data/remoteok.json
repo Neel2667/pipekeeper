@@ -3,18 +3,50 @@
  "name": "RemoteOK \u2014 remote tech jobs",
  "category": "jobs",
  "source": "https://remoteok.com/api",
- "collected_at": "2026-11-26T18:59:47+00:00",
+ "collected_at": "2026-11-27T02:10:23+00:00",
  "jobs_on_board": 100,
- "new_this_run": 39,
- "total_tracked": 349,
+ "new_this_run": 4,
+ "total_tracked": 353,
  "jobs": [
+  {
+   "title": "Client Account Executive",
+   "org": "Jobgether",
+   "location": "US Only",
+   "detail": "sales",
+   "url": "https://remoteOK.com/remote-jobs/remote-client-account-executive-jobgether-1138156",
+   "new_this_run": true
+  },
+  {
+   "title": "Director of Strategic Accounts, South/Central (TOLA)",
+   "org": "Jobgether",
+   "location": "US Only",
+   "detail": "sales",
+   "url": "https://remoteOK.com/remote-jobs/remote-director-of-strategic-accounts-south-central-tola-jobgether-1138155",
+   "new_this_run": true
+  },
+  {
+   "title": "Traveling Account Executive - Neurology/Rare Disease",
+   "org": "Jobgether",
+   "location": "US Only",
+   "detail": "sales",
+   "url": "https://remoteOK.com/remote-jobs/remote-traveling-account-executive-neurology-rare-disease-jobgether-1138154",
+   "new_this_run": true
+  },
+  {
+   "title": "Product Marketing Manager - Ostro",
+   "org": "Veeva Systems",
+   "location": "US Only",
+   "detail": "marketing",
+   "url": "https://remoteOK.com/remote-jobs/remote-product-marketing-manager-ostro-veeva-systems-1138153",
+   "new_this_run": true
+  },
   {
    "title": "Commercial Manager - Europe",
    "org": "Lyra Health",
    "location": "UK Only",
    "detail": "$51,000\u2013$70,000",
    "url": "https://remoteOK.com/remote-jobs/remote-commercial-manager-europe-lyra-health-1138149",
-   "new_this_run": true
+   "new_this_run": false
   },
   {
    "title": "SEO - Manager",
@@ -22,7 +54,7 @@
    "location": "US Only",
    "detail": "marketing",
    "url": "https://remoteOK.com/remote-jobs/remote-seo-manager-bounteous-1138148",
-   "new_this_run": true
+   "new_this_run": false
   },
   {
    "title": "Manager, Account Managment",
@@ -30,7 +62,7 @@
    "location": "US Only",
    "detail": "sales",
    "url": "https://remoteOK.com/remote-jobs/remote-manager-account-managment-agiloft-1138147",
-   "new_this_run": true
+   "new_this_run": false
   },
   {
    "title": "Creative Director",
@@ -38,7 +70,7 @@
    "location": "US Only",
    "detail": "$185,000\u2013$215,000",
    "url": "https://remoteOK.com/remote-jobs/remote-creative-director-luxury-presence-1138146",
-   "new_this_run": true
+   "new_this_run": false
   },
   {
    "title": "Account Executive",
@@ -46,7 +78,7 @@
    "location": "US Only",
    "detail": "sales",
    "url": "https://remoteOK.com/remote-jobs/remote-account-executive-idmworks-1138145",
-   "new_this_run": true
+   "new_this_run": false
   },
   {
    "title": "Lifecycle Marketing Manager",
@@ -54,7 +86,7 @@
    "location": "US Only",
    "detail": "$85,000\u2013$135,000",
    "url": "https://remoteOK.com/remote-jobs/remote-lifecycle-marketing-manager-lifeforce-1138144",
-   "new_this_run": true
+   "new_this_run": false
   },
   {
    "title": "Director of Sales, North America",
@@ -62,7 +94,7 @@
    "location": "US Only",
    "detail": "sales",
    "url": "https://remoteOK.com/remote-jobs/remote-director-of-sales-north-america-insider-one-1138143",
-   "new_this_run": true
+   "new_this_run": false
   },
   {
    "title": "Regional Sales Manager (Automotive Software Sales)",
@@ -70,39 +102,7 @@
    "location": "Canada Only",
    "detail": "sales",
    "url": "https://remoteOK.com/remote-jobs/remote-regional-sales-manager-automotive-software-sales-keyloop-1138142",
-   "new_this_run": true
-  },
-  {
-   "title": "Enterprise Sales Executive",
-   "org": "Loadsmart",
-   "location": "US Only",
-   "detail": "$127,000\u2013$150,000",
-   "url": "https://remoteOK.com/remote-jobs/remote-enterprise-sales-executive-loadsmart-1138141",
-   "new_this_run": true
-  },
-  {
-   "title": "English to Belarusian Review Lead for UI, Marketing & Product Content",
-   "org": "Welo Data",
-   "location": "UK Only",
-   "detail": "marketing",
-   "url": "https://remoteOK.com/remote-jobs/remote-english-to-belarusian-review-lead-for-ui-marketing-product-content-welo-data-1138140",
-   "new_this_run": true
-  },
-  {
-   "title": "Enterprise Account Executive - Southeast",
-   "org": "agiloft",
-   "location": "US Only",
-   "detail": "sales",
-   "url": "https://remoteOK.com/remote-jobs/remote-enterprise-account-executive-southeast-agiloft-1138139",
-   "new_this_run": true
-  },
-  {
-   "title": "Sr. Manager, Revenue Enablement",
-   "org": "Secure Code Warrior",
-   "location": "US Only",
-   "detail": "marketing",
-   "url": "https://remoteOK.com/remote-jobs/remote-sr-manager-revenue-enablement-secure-code-warrior-1138138",
-   "new_this_run": true
+   "new_this_run": false
   }
  ],
  "runs": [
@@ -300,6 +300,11 @@
    "at": "2026-11-26T18:59:47+00:00",
    "jobs": 100,
    "new": 39
+  },
+  {
+   "at": "2026-11-27T02:10:23+00:00",
+   "jobs": 100,
+   "new": 4
   }
  ],
  "jobs_seen": {
@@ -1789,7 +1794,7 @@
   },
   "revenue operations leader, strategy & planning|contentstack|us only": {
    "first_seen": "2026-11-22T06:46:24+00:00",
-   "last_seen": "2026-11-26T18:59:47+00:00",
+   "last_seen": "2026-11-27T02:10:23+00:00",
    "title": "Revenue Operations Leader, Strategy & Planning",
    "org": "Contentstack",
    "location": "US Only"
@@ -1803,7 +1808,7 @@
   },
   "senior software engineer - behavioral security products|abnormal|uk only": {
    "first_seen": "2026-11-22T06:46:24+00:00",
-   "last_seen": "2026-11-26T18:59:47+00:00",
+   "last_seen": "2026-11-27T02:10:23+00:00",
    "title": "Senior Software Engineer - Behavioral Security Products",
    "org": "Abnormal",
    "location": "UK Only"
@@ -2041,119 +2046,119 @@
   },
   "deal desk analyst (eastern time zone preferred)|mixpanel|us only": {
    "first_seen": "2026-11-22T15:16:55+00:00",
-   "last_seen": "2026-11-26T18:59:47+00:00",
+   "last_seen": "2026-11-27T02:10:23+00:00",
    "title": "Deal Desk Analyst (Eastern Time Zone Preferred)",
    "org": "Mixpanel",
    "location": "US Only"
   },
   "director, revenue accounting|6sense|us only": {
    "first_seen": "2026-11-22T15:16:55+00:00",
-   "last_seen": "2026-11-26T18:59:47+00:00",
+   "last_seen": "2026-11-27T02:10:23+00:00",
    "title": "Director, Revenue Accounting",
    "org": "6sense",
    "location": "US Only"
   },
   "corporate counsel, commercial|carrot|worldwide": {
    "first_seen": "2026-11-22T15:16:55+00:00",
-   "last_seen": "2026-11-26T18:59:47+00:00",
+   "last_seen": "2026-11-27T02:10:23+00:00",
    "title": "Corporate Counsel, Commercial",
    "org": "Carrot",
    "location": "Worldwide"
   },
   "release strategist, professional services|launchdarkly|us only": {
    "first_seen": "2026-11-22T15:16:55+00:00",
-   "last_seen": "2026-11-26T18:59:47+00:00",
+   "last_seen": "2026-11-27T02:10:23+00:00",
    "title": "Release Strategist, Professional Services",
    "org": "LaunchDarkly",
    "location": "US Only"
   },
   "senior database engineer|bitwarden|us only": {
    "first_seen": "2026-11-22T15:16:55+00:00",
-   "last_seen": "2026-11-26T18:59:47+00:00",
+   "last_seen": "2026-11-27T02:10:23+00:00",
    "title": "Senior Database Engineer",
    "org": "Bitwarden",
    "location": "US Only"
   },
   "staff data scientist - martech platform (ml/algos)|airbnb|us only": {
    "first_seen": "2026-11-22T15:16:55+00:00",
-   "last_seen": "2026-11-26T18:59:47+00:00",
+   "last_seen": "2026-11-27T02:10:23+00:00",
    "title": "Staff Data Scientist - Martech Platform (ML/Algos)",
    "org": "Airbnb",
    "location": "US Only"
   },
   "staff software engineer, agentic tools|cribl|us only": {
    "first_seen": "2026-11-22T15:16:55+00:00",
-   "last_seen": "2026-11-26T18:59:47+00:00",
+   "last_seen": "2026-11-27T02:10:23+00:00",
    "title": "Staff Software Engineer, Agentic Tools",
    "org": "Cribl",
    "location": "US Only"
   },
   "senior software engineer, partner integrations|airbnb|us only": {
    "first_seen": "2026-11-22T15:16:55+00:00",
-   "last_seen": "2026-11-26T18:59:47+00:00",
+   "last_seen": "2026-11-27T02:10:23+00:00",
    "title": "Senior Software Engineer, Partner Integrations",
    "org": "Airbnb",
    "location": "US Only"
   },
   "vice president, storytelling & communications|6sense|us only": {
    "first_seen": "2026-11-22T15:16:55+00:00",
-   "last_seen": "2026-11-26T18:59:47+00:00",
+   "last_seen": "2026-11-27T02:10:23+00:00",
    "title": "Vice President, Storytelling & Communications",
    "org": "6sense",
    "location": "US Only"
   },
   "private practice enablement specialist (pst)|healthie|worldwide": {
    "first_seen": "2026-11-22T15:16:55+00:00",
-   "last_seen": "2026-11-26T18:59:47+00:00",
+   "last_seen": "2026-11-27T02:10:23+00:00",
    "title": "Private Practice Enablement Specialist (PST)",
    "org": "Healthie",
    "location": "Worldwide"
   },
   "product manager, developer ecosystem|reddit|us only": {
    "first_seen": "2026-11-23T02:44:52+00:00",
-   "last_seen": "2026-11-26T18:59:47+00:00",
+   "last_seen": "2026-11-27T02:10:23+00:00",
    "title": "Product Manager, Developer Ecosystem",
    "org": "Reddit",
    "location": "US Only"
   },
   "manager, technical accounting and equity reporting|\u00e5\u008cura|us only": {
    "first_seen": "2026-11-23T02:44:52+00:00",
-   "last_seen": "2026-11-26T18:59:47+00:00",
+   "last_seen": "2026-11-27T02:10:23+00:00",
    "title": "Manager, Technical Accounting and Equity Reporting",
    "org": "\u00c5\u008cURA",
    "location": "US Only"
   },
   "senior sre, site experience|reddit|us only": {
    "first_seen": "2026-11-23T02:44:52+00:00",
-   "last_seen": "2026-11-26T18:59:47+00:00",
+   "last_seen": "2026-11-27T02:10:23+00:00",
    "title": "Senior SRE, Site Experience",
    "org": "Reddit",
    "location": "US Only"
   },
   "senior staff sre, site experience|reddit|us only": {
    "first_seen": "2026-11-23T02:44:52+00:00",
-   "last_seen": "2026-11-26T18:59:47+00:00",
+   "last_seen": "2026-11-27T02:10:23+00:00",
    "title": "Senior Staff SRE, Site Experience",
    "org": "Reddit",
    "location": "US Only"
   },
   "drg inpatient coding validator|clover health|us only": {
    "first_seen": "2026-11-23T02:44:52+00:00",
-   "last_seen": "2026-11-26T18:59:47+00:00",
+   "last_seen": "2026-11-27T02:10:23+00:00",
    "title": "DRG Inpatient Coding Validator",
    "org": "Clover Health",
    "location": "US Only"
   },
   "drg validation auditor|clover health|us only": {
    "first_seen": "2026-11-23T02:44:52+00:00",
-   "last_seen": "2026-11-26T18:59:47+00:00",
+   "last_seen": "2026-11-27T02:10:23+00:00",
    "title": "DRG Validation Auditor",
    "org": "Clover Health",
    "location": "US Only"
   },
   "sr. forward deployed data engineer|natera|us only": {
    "first_seen": "2026-11-23T02:44:52+00:00",
-   "last_seen": "2026-11-26T18:59:47+00:00",
+   "last_seen": "2026-11-27T02:10:23+00:00",
    "title": "Sr. Forward Deployed Data Engineer",
    "org": "Natera",
    "location": "US Only"
@@ -2174,112 +2179,112 @@
   },
   "senior clinical trials systems manager|natera|us only": {
    "first_seen": "2026-11-23T02:44:52+00:00",
-   "last_seen": "2026-11-26T18:59:47+00:00",
+   "last_seen": "2026-11-27T02:10:23+00:00",
    "title": "Senior Clinical Trials Systems Manager",
    "org": "Natera",
    "location": "US Only"
   },
   "supv, prior authorization|natera|us only": {
    "first_seen": "2026-11-23T02:44:52+00:00",
-   "last_seen": "2026-11-26T18:59:47+00:00",
+   "last_seen": "2026-11-27T02:10:23+00:00",
    "title": "Supv, Prior Authorization",
    "org": "Natera",
    "location": "US Only"
   },
   "business development representative, sled - west|gitlab|us only": {
    "first_seen": "2026-11-23T02:44:52+00:00",
-   "last_seen": "2026-11-26T18:59:47+00:00",
+   "last_seen": "2026-11-27T02:10:23+00:00",
    "title": "Business Development Representative, SLED - West",
    "org": "GitLab",
    "location": "US Only"
   },
   "regional sales director, canada|gitlab|canada only": {
    "first_seen": "2026-11-23T02:44:52+00:00",
-   "last_seen": "2026-11-26T18:59:47+00:00",
+   "last_seen": "2026-11-27T02:10:23+00:00",
    "title": "Regional Sales Director, Canada",
    "org": "GitLab",
    "location": "Canada Only"
   },
   "strategic account executive - spain|gitlab|europe": {
    "first_seen": "2026-11-23T02:44:52+00:00",
-   "last_seen": "2026-11-26T18:59:47+00:00",
+   "last_seen": "2026-11-27T02:10:23+00:00",
    "title": "Strategic Account Executive - Spain",
    "org": "GitLab",
    "location": "Europe"
   },
   "threat research engineer, security factory: threat research|gitlab|emea": {
    "first_seen": "2026-11-24T00:50:41+00:00",
-   "last_seen": "2026-11-26T18:59:47+00:00",
+   "last_seen": "2026-11-27T02:10:23+00:00",
    "title": "Threat Research Engineer, Security Factory: Threat Research",
    "org": "GitLab",
    "location": "EMEA"
   },
   "staff backend engineer, performance enablement|gitlab|europe": {
    "first_seen": "2026-11-24T00:50:41+00:00",
-   "last_seen": "2026-11-26T18:59:47+00:00",
+   "last_seen": "2026-11-27T02:10:23+00:00",
    "title": "Staff Backend Engineer, Performance Enablement",
    "org": "GitLab",
    "location": "Europe"
   },
   "renewals manager - latam|gitlab|latin america": {
    "first_seen": "2026-11-24T00:50:41+00:00",
-   "last_seen": "2026-11-26T18:59:47+00:00",
+   "last_seen": "2026-11-27T02:10:23+00:00",
    "title": "Renewals Manager - LATAM",
    "org": "GitLab",
    "location": "Latin America"
   },
   "senior software engineer, agentic ai|clover health|us only": {
    "first_seen": "2026-11-24T10:54:59+00:00",
-   "last_seen": "2026-11-26T18:59:47+00:00",
+   "last_seen": "2026-11-27T02:10:23+00:00",
    "title": "Senior Software Engineer, Agentic AI",
    "org": "Clover Health",
    "location": "US Only"
   },
   "senior software developer, agentic ai - canada|clover health|canada only": {
    "first_seen": "2026-11-24T10:54:59+00:00",
-   "last_seen": "2026-11-26T18:59:47+00:00",
+   "last_seen": "2026-11-27T02:10:23+00:00",
    "title": "Senior Software Developer, Agentic AI - Canada",
    "org": "Clover Health",
    "location": "Canada Only"
   },
   "strategic technical advisor|thrive|remote": {
    "first_seen": "2026-11-24T21:11:14+00:00",
-   "last_seen": "2026-11-26T18:59:47+00:00",
+   "last_seen": "2026-11-27T02:10:23+00:00",
    "title": "Strategic Technical Advisor",
    "org": "Thrive",
    "location": "remote"
   },
   "senior manager, enterprise application development engineering|gitlab|us only": {
    "first_seen": "2026-11-25T04:12:46+00:00",
-   "last_seen": "2026-11-26T18:59:47+00:00",
+   "last_seen": "2026-11-27T02:10:23+00:00",
    "title": "Senior Manager, Enterprise Application Development Engineering",
    "org": "GitLab",
    "location": "US Only"
   },
   "real estate executive assistant 21370|wing assistant|philippines": {
    "first_seen": "2026-11-25T04:12:46+00:00",
-   "last_seen": "2026-11-26T18:59:47+00:00",
+   "last_seen": "2026-11-27T02:10:23+00:00",
    "title": "Real Estate Executive Assistant 21370",
    "org": "Wing Assistant",
    "location": "Philippines"
   },
   "senior tax associate|real remax group|newark": {
    "first_seen": "2026-11-25T04:12:46+00:00",
-   "last_seen": "2026-11-26T18:59:47+00:00",
+   "last_seen": "2026-11-27T02:10:23+00:00",
    "title": "Senior Tax Associate",
    "org": "Real REMAX Group",
    "location": "Newark"
   },
   "revenue operations manager|gitlab|us only": {
    "first_seen": "2026-11-25T04:12:46+00:00",
-   "last_seen": "2026-11-26T18:59:47+00:00",
+   "last_seen": "2026-11-27T02:10:23+00:00",
    "title": "Revenue Operations Manager",
    "org": "GitLab",
    "location": "US Only"
   },
   "senior cx platform engineer|gitlab|canada only": {
    "first_seen": "2026-11-25T04:12:46+00:00",
-   "last_seen": "2026-11-26T18:59:47+00:00",
+   "last_seen": "2026-11-27T02:10:23+00:00",
    "title": "Senior CX Platform Engineer",
    "org": "GitLab",
    "location": "Canada Only"
@@ -2293,7 +2298,7 @@
   },
   "senior corporate accountant - tax|salesloft|us only": {
    "first_seen": "2026-11-25T14:28:36+00:00",
-   "last_seen": "2026-11-26T18:59:47+00:00",
+   "last_seen": "2026-11-27T02:10:23+00:00",
    "title": "Senior Corporate Accountant - Tax",
    "org": "Salesloft",
    "location": "US Only"
@@ -2307,105 +2312,105 @@
   },
   "regional vice president, biddable|doximity|us only": {
    "first_seen": "2026-11-25T14:28:36+00:00",
-   "last_seen": "2026-11-26T18:59:47+00:00",
+   "last_seen": "2026-11-27T02:10:23+00:00",
    "title": "Regional Vice President, Biddable",
    "org": "Doximity",
    "location": "US Only"
   },
   "security engineer, offensive security|dropbox|north america": {
    "first_seen": "2026-11-25T14:28:36+00:00",
-   "last_seen": "2026-11-26T18:59:47+00:00",
+   "last_seen": "2026-11-27T02:10:23+00:00",
    "title": "Security Engineer, Offensive Security",
    "org": "Dropbox",
    "location": "North America"
   },
   "principal software engineer|ping identity|us only": {
    "first_seen": "2026-11-25T14:28:36+00:00",
-   "last_seen": "2026-11-26T18:59:47+00:00",
+   "last_seen": "2026-11-27T02:10:23+00:00",
    "title": "Principal Software Engineer",
    "org": "Ping Identity",
    "location": "US Only"
   },
   "senior software engineer, ai & science platform|reddit|us only": {
    "first_seen": "2026-11-25T14:28:36+00:00",
-   "last_seen": "2026-11-26T18:59:47+00:00",
+   "last_seen": "2026-11-27T02:10:23+00:00",
    "title": "Senior Software Engineer, AI & Science Platform",
    "org": "Reddit",
    "location": "US Only"
   },
   "staff software engineer, control plane|cribl|us only": {
    "first_seen": "2026-11-25T14:28:36+00:00",
-   "last_seen": "2026-11-26T18:59:47+00:00",
+   "last_seen": "2026-11-27T02:10:23+00:00",
    "title": "Staff Software Engineer, Control Plane",
    "org": "Cribl",
    "location": "US Only"
   },
   "senior web engineer, profile & community|airbnb|us only": {
    "first_seen": "2026-11-25T14:28:36+00:00",
-   "last_seen": "2026-11-26T18:59:47+00:00",
+   "last_seen": "2026-11-27T02:10:23+00:00",
    "title": "Senior Web Engineer, Profile & Community",
    "org": "Airbnb",
    "location": "US Only"
   },
   "associate, payment integrity|oscar health|worldwide": {
    "first_seen": "2026-11-25T14:28:36+00:00",
-   "last_seen": "2026-11-26T18:59:47+00:00",
+   "last_seen": "2026-11-27T02:10:23+00:00",
    "title": "Associate, Payment Integrity",
    "org": "Oscar Health",
    "location": "Worldwide"
   },
   "district manager, enterprise - healthcare (southeast)|everpure|us only": {
    "first_seen": "2026-11-25T14:28:36+00:00",
-   "last_seen": "2026-11-26T18:59:47+00:00",
+   "last_seen": "2026-11-27T02:10:23+00:00",
    "title": "District Manager, Enterprise - Healthcare (Southeast)",
    "org": "Everpure",
    "location": "US Only"
   },
   "senior account executive - saas industrials|salsify|us only": {
    "first_seen": "2026-11-25T14:28:36+00:00",
-   "last_seen": "2026-11-26T18:59:47+00:00",
+   "last_seen": "2026-11-27T02:10:23+00:00",
    "title": "Senior Account Executive - SaaS Industrials",
    "org": "Salsify",
    "location": "US Only"
   },
   "partner sales manager (hindi speaking) - singapore|dropbox|asia": {
    "first_seen": "2026-11-25T14:28:36+00:00",
-   "last_seen": "2026-11-26T18:59:47+00:00",
+   "last_seen": "2026-11-27T02:10:23+00:00",
    "title": "Partner Sales Manager (Hindi Speaking) - Singapore",
    "org": "Dropbox",
    "location": "Asia"
   },
   "sr. account executive, ai & hpc|everpure|us only": {
    "first_seen": "2026-11-25T14:28:36+00:00",
-   "last_seen": "2026-11-26T18:59:47+00:00",
+   "last_seen": "2026-11-27T02:10:23+00:00",
    "title": "Sr. Account Executive, AI & HPC",
    "org": "Everpure",
    "location": "US Only"
   },
   "director, product marketing (contractor)|glossier|us only": {
    "first_seen": "2026-11-25T14:28:36+00:00",
-   "last_seen": "2026-11-26T18:59:47+00:00",
+   "last_seen": "2026-11-27T02:10:23+00:00",
    "title": "Director, Product Marketing (Contractor)",
    "org": "Glossier",
    "location": "US Only"
   },
   "portfolio customer success manager|lastpass|canada only": {
    "first_seen": "2026-11-25T14:28:36+00:00",
-   "last_seen": "2026-11-26T18:59:47+00:00",
+   "last_seen": "2026-11-27T02:10:23+00:00",
    "title": "Portfolio Customer Success Manager",
    "org": "LastPass",
    "location": "Canada Only"
   },
   "region head, asia|dropbox|asia": {
    "first_seen": "2026-11-25T14:28:36+00:00",
-   "last_seen": "2026-11-26T18:59:47+00:00",
+   "last_seen": "2026-11-27T02:10:23+00:00",
    "title": "Region Head, Asia",
    "org": "Dropbox",
    "location": "Asia"
   },
   "revenue operations analyst|augment|remote": {
    "first_seen": "2026-11-25T14:28:36+00:00",
-   "last_seen": "2026-11-26T18:59:47+00:00",
+   "last_seen": "2026-11-27T02:10:23+00:00",
    "title": "Revenue Operations Analyst",
    "org": "Augment",
    "location": "remote"
@@ -2433,317 +2438,345 @@
   },
   "solution consultant - site solutions|veeva systems|us only": {
    "first_seen": "2026-11-26T08:16:48+00:00",
-   "last_seen": "2026-11-26T18:59:47+00:00",
+   "last_seen": "2026-11-27T02:10:23+00:00",
    "title": "Solution Consultant - Site Solutions",
    "org": "Veeva Systems",
    "location": "US Only"
   },
   "sr. customer success manager i|lyra health|us only": {
    "first_seen": "2026-11-26T08:16:48+00:00",
-   "last_seen": "2026-11-26T18:59:47+00:00",
+   "last_seen": "2026-11-27T02:10:23+00:00",
    "title": "Sr. Customer Success Manager I",
    "org": "Lyra Health",
    "location": "US Only"
   },
   "knowledge engineer|jobgether|us only": {
    "first_seen": "2026-11-26T08:16:48+00:00",
-   "last_seen": "2026-11-26T18:59:47+00:00",
+   "last_seen": "2026-11-27T02:10:23+00:00",
    "title": "Knowledge Engineer",
    "org": "Jobgether",
    "location": "US Only"
   },
   "intermediate security engineer, security incident response team (sirt)|gitlab|us only": {
    "first_seen": "2026-11-26T08:16:48+00:00",
-   "last_seen": "2026-11-26T18:59:47+00:00",
+   "last_seen": "2026-11-27T02:10:23+00:00",
    "title": "Intermediate Security Engineer, Security Incident Response Team (SIRT)",
    "org": "GitLab",
    "location": "US Only"
   },
   "senior executive assistant, office of the cro (est / cst)|gitlab|us only": {
    "first_seen": "2026-11-26T08:16:48+00:00",
-   "last_seen": "2026-11-26T18:59:47+00:00",
+   "last_seen": "2026-11-27T02:10:23+00:00",
    "title": "Senior Executive Assistant, Office of the CRO (EST / CST)",
    "org": "GitLab",
    "location": "US Only"
   },
   "junior talent operations specialist|gitlab|us only": {
    "first_seen": "2026-11-26T08:16:48+00:00",
-   "last_seen": "2026-11-26T18:59:47+00:00",
+   "last_seen": "2026-11-27T02:10:23+00:00",
    "title": "Junior Talent Operations Specialist",
    "org": "GitLab",
    "location": "US Only"
   },
   "commercial manager - europe|lyra health|uk only": {
    "first_seen": "2026-11-26T18:59:47+00:00",
-   "last_seen": "2026-11-26T18:59:47+00:00",
+   "last_seen": "2026-11-27T02:10:23+00:00",
    "title": "Commercial Manager - Europe",
    "org": "Lyra Health",
    "location": "UK Only"
   },
   "seo - manager|bounteous|us only": {
    "first_seen": "2026-11-26T18:59:47+00:00",
-   "last_seen": "2026-11-26T18:59:47+00:00",
+   "last_seen": "2026-11-27T02:10:23+00:00",
    "title": "SEO - Manager",
    "org": "Bounteous",
    "location": "US Only"
   },
   "manager, account managment|agiloft|us only": {
    "first_seen": "2026-11-26T18:59:47+00:00",
-   "last_seen": "2026-11-26T18:59:47+00:00",
+   "last_seen": "2026-11-27T02:10:23+00:00",
    "title": "Manager, Account Managment",
    "org": "agiloft",
    "location": "US Only"
   },
   "creative director|luxury presence|us only": {
    "first_seen": "2026-11-26T18:59:47+00:00",
-   "last_seen": "2026-11-26T18:59:47+00:00",
+   "last_seen": "2026-11-27T02:10:23+00:00",
    "title": "Creative Director",
    "org": "Luxury Presence",
    "location": "US Only"
   },
   "account executive|idmworks|us only": {
    "first_seen": "2026-11-26T18:59:47+00:00",
-   "last_seen": "2026-11-26T18:59:47+00:00",
+   "last_seen": "2026-11-27T02:10:23+00:00",
    "title": "Account Executive",
    "org": "IDMWORKS",
    "location": "US Only"
   },
   "lifecycle marketing manager|lifeforce|us only": {
    "first_seen": "2026-11-26T18:59:47+00:00",
-   "last_seen": "2026-11-26T18:59:47+00:00",
+   "last_seen": "2026-11-27T02:10:23+00:00",
    "title": "Lifecycle Marketing Manager",
    "org": "Lifeforce",
    "location": "US Only"
   },
   "director of sales, north america|insider one|us only": {
    "first_seen": "2026-11-26T18:59:47+00:00",
-   "last_seen": "2026-11-26T18:59:47+00:00",
+   "last_seen": "2026-11-27T02:10:23+00:00",
    "title": "Director of Sales, North America",
    "org": "Insider One",
    "location": "US Only"
   },
   "regional sales manager (automotive software sales)|keyloop|canada only": {
    "first_seen": "2026-11-26T18:59:47+00:00",
-   "last_seen": "2026-11-26T18:59:47+00:00",
+   "last_seen": "2026-11-27T02:10:23+00:00",
    "title": "Regional Sales Manager (Automotive Software Sales)",
    "org": "Keyloop",
    "location": "Canada Only"
   },
   "enterprise sales executive|loadsmart|us only": {
    "first_seen": "2026-11-26T18:59:47+00:00",
-   "last_seen": "2026-11-26T18:59:47+00:00",
+   "last_seen": "2026-11-27T02:10:23+00:00",
    "title": "Enterprise Sales Executive",
    "org": "Loadsmart",
    "location": "US Only"
   },
   "english to belarusian review lead for ui, marketing & product content|welo data|uk only": {
    "first_seen": "2026-11-26T18:59:47+00:00",
-   "last_seen": "2026-11-26T18:59:47+00:00",
+   "last_seen": "2026-11-27T02:10:23+00:00",
    "title": "English to Belarusian Review Lead for UI, Marketing & Product Content",
    "org": "Welo Data",
    "location": "UK Only"
   },
   "enterprise account executive - southeast|agiloft|us only": {
    "first_seen": "2026-11-26T18:59:47+00:00",
-   "last_seen": "2026-11-26T18:59:47+00:00",
+   "last_seen": "2026-11-27T02:10:23+00:00",
    "title": "Enterprise Account Executive - Southeast",
    "org": "agiloft",
    "location": "US Only"
   },
   "sr. manager, revenue enablement|secure code warrior|us only": {
    "first_seen": "2026-11-26T18:59:47+00:00",
-   "last_seen": "2026-11-26T18:59:47+00:00",
+   "last_seen": "2026-11-27T02:10:23+00:00",
    "title": "Sr. Manager, Revenue Enablement",
    "org": "Secure Code Warrior",
    "location": "US Only"
   },
   "channel manager, north america midwest (with latam partner coverage)|secure code warrior|us only": {
    "first_seen": "2026-11-26T18:59:47+00:00",
-   "last_seen": "2026-11-26T18:59:47+00:00",
+   "last_seen": "2026-11-27T02:10:23+00:00",
    "title": "Channel Manager, North America Midwest (with LATAM Partner Coverage)",
    "org": "Secure Code Warrior",
    "location": "US Only"
   },
   "regional account manager - canada (technical/cybersecurity)|zimperium|canada only": {
    "first_seen": "2026-11-26T18:59:47+00:00",
-   "last_seen": "2026-11-26T18:59:47+00:00",
+   "last_seen": "2026-11-27T02:10:23+00:00",
    "title": "Regional Account Manager - Canada (Technical/Cybersecurity)",
    "org": "zimperium",
    "location": "Canada Only"
   },
   "account manager|everbridge|uk only": {
    "first_seen": "2026-11-26T18:59:47+00:00",
-   "last_seen": "2026-11-26T18:59:47+00:00",
+   "last_seen": "2026-11-27T02:10:23+00:00",
    "title": "Account Manager",
    "org": "Everbridge",
    "location": "UK Only"
   },
   "federal account executive|metabase|us only": {
    "first_seen": "2026-11-26T18:59:47+00:00",
-   "last_seen": "2026-11-26T18:59:47+00:00",
+   "last_seen": "2026-11-27T02:10:23+00:00",
    "title": "Federal Account Executive",
    "org": "Metabase",
    "location": "US Only"
   },
   "b2b sales representative (legal industry) part-time | 21428|wing|us only": {
    "first_seen": "2026-11-26T18:59:47+00:00",
-   "last_seen": "2026-11-26T18:59:47+00:00",
+   "last_seen": "2026-11-27T02:10:23+00:00",
    "title": "B2B Sales Representative (Legal Industry) Part-time | 21428",
    "org": "Wing",
    "location": "US Only"
   },
   "account executive i - 1096 (remote)|lightcast|us only": {
    "first_seen": "2026-11-26T18:59:47+00:00",
-   "last_seen": "2026-11-26T18:59:47+00:00",
+   "last_seen": "2026-11-27T02:10:23+00:00",
    "title": "Account Executive I - 1096 (Remote)",
    "org": "Lightcast",
    "location": "US Only"
   },
   "enterprise account executive - (illinois, wisconsin, indiana and michigan)|sonatype|us only": {
    "first_seen": "2026-11-26T18:59:47+00:00",
-   "last_seen": "2026-11-26T18:59:47+00:00",
+   "last_seen": "2026-11-27T02:10:23+00:00",
    "title": "Enterprise Account Executive - (Illinois, Wisconsin, Indiana and Michigan)",
    "org": "Sonatype",
    "location": "US Only"
   },
   "seo manager (remote)|silverback strategies|us only": {
    "first_seen": "2026-11-26T18:59:47+00:00",
-   "last_seen": "2026-11-26T18:59:47+00:00",
+   "last_seen": "2026-11-27T02:10:23+00:00",
    "title": "SEO Manager (Remote)",
    "org": "Silverback Strategies",
    "location": "US Only"
   },
   "senior seo manager (remote)|silverback strategies|us only": {
    "first_seen": "2026-11-26T18:59:47+00:00",
-   "last_seen": "2026-11-26T18:59:47+00:00",
+   "last_seen": "2026-11-27T02:10:23+00:00",
    "title": "Senior SEO Manager (Remote)",
    "org": "Silverback Strategies",
    "location": "US Only"
   },
   "senior paid media manager (remote)|silverback strategies|us only": {
    "first_seen": "2026-11-26T18:59:47+00:00",
-   "last_seen": "2026-11-26T18:59:47+00:00",
+   "last_seen": "2026-11-27T02:10:23+00:00",
    "title": "Senior Paid Media Manager (Remote)",
    "org": "Silverback Strategies",
    "location": "US Only"
   },
   "commercial account executive|apryse|canada only": {
    "first_seen": "2026-11-26T18:59:47+00:00",
-   "last_seen": "2026-11-26T18:59:47+00:00",
+   "last_seen": "2026-11-27T02:10:23+00:00",
    "title": "Commercial Account Executive",
    "org": "Apryse",
    "location": "Canada Only"
   },
   "paid media specialist|kinsta|uk only": {
    "first_seen": "2026-11-26T18:59:47+00:00",
-   "last_seen": "2026-11-26T18:59:47+00:00",
+   "last_seen": "2026-11-27T02:10:23+00:00",
    "title": "Paid Media Specialist",
    "org": "Kinsta",
    "location": "UK Only"
   },
   "regional vice president, field sales|saviynt|us only": {
    "first_seen": "2026-11-26T18:59:47+00:00",
-   "last_seen": "2026-11-26T18:59:47+00:00",
+   "last_seen": "2026-11-27T02:10:23+00:00",
    "title": "Regional Vice President, Field Sales",
    "org": "Saviynt",
    "location": "US Only"
   },
   "north america alliance and partnerships director (remote)|vendavo|us only": {
    "first_seen": "2026-11-26T18:59:47+00:00",
-   "last_seen": "2026-11-26T18:59:47+00:00",
+   "last_seen": "2026-11-27T02:10:23+00:00",
    "title": "North America Alliance and Partnerships Director (Remote)",
    "org": "Vendavo",
    "location": "US Only"
   },
   "alliance manager iii, public sector (r-20221)|dun & bradstreet|us only": {
    "first_seen": "2026-11-26T18:59:47+00:00",
-   "last_seen": "2026-11-26T18:59:47+00:00",
+   "last_seen": "2026-11-27T02:10:23+00:00",
    "title": "Alliance Manager III, Public Sector (R-20221)",
    "org": "Dun & Bradstreet",
    "location": "US Only"
   },
   "client acquisitions specialist, inside sales|koala health|us only": {
    "first_seen": "2026-11-26T18:59:47+00:00",
-   "last_seen": "2026-11-26T18:59:47+00:00",
+   "last_seen": "2026-11-27T02:10:23+00:00",
    "title": "Client Acquisitions Specialist, Inside Sales",
    "org": "Koala Health",
    "location": "US Only"
   },
   "associate director of field marketing - quality cloud - europe|veeva systems|uk only": {
    "first_seen": "2026-11-26T18:59:47+00:00",
-   "last_seen": "2026-11-26T18:59:47+00:00",
+   "last_seen": "2026-11-27T02:10:23+00:00",
    "title": "Associate Director of Field Marketing - Quality Cloud - Europe",
    "org": "Veeva Systems",
    "location": "UK Only"
   },
   "senior sales engineer - atlanta|saviynt|us only": {
    "first_seen": "2026-11-26T18:59:47+00:00",
-   "last_seen": "2026-11-26T18:59:47+00:00",
+   "last_seen": "2026-11-27T02:10:23+00:00",
    "title": "Senior Sales Engineer - Atlanta",
    "org": "Saviynt",
    "location": "US Only"
   },
   "senior sales engineer - chicago|saviynt|us only": {
    "first_seen": "2026-11-26T18:59:47+00:00",
-   "last_seen": "2026-11-26T18:59:47+00:00",
+   "last_seen": "2026-11-27T02:10:23+00:00",
    "title": "Senior Sales Engineer - Chicago",
    "org": "Saviynt",
    "location": "US Only"
   },
   "sales enablement director|jobgether|uk only": {
    "first_seen": "2026-11-26T18:59:47+00:00",
-   "last_seen": "2026-11-26T18:59:47+00:00",
+   "last_seen": "2026-11-27T02:10:23+00:00",
    "title": "Sales Enablement Director",
    "org": "Jobgether",
    "location": "UK Only"
   },
   "account director (network testing & planning)|jobgether|uk only": {
    "first_seen": "2026-11-26T18:59:47+00:00",
-   "last_seen": "2026-11-26T18:59:47+00:00",
+   "last_seen": "2026-11-27T02:10:23+00:00",
    "title": "Account Director (Network Testing & Planning)",
    "org": "Jobgether",
    "location": "UK Only"
   },
   "client success director, west (r-20150)|dun & bradstreet|us only": {
    "first_seen": "2026-11-26T18:59:47+00:00",
-   "last_seen": "2026-11-26T18:59:47+00:00",
+   "last_seen": "2026-11-27T02:10:23+00:00",
    "title": "Client Success Director, West (R-20150)",
    "org": "Dun & Bradstreet",
    "location": "US Only"
   },
   "senior implementation consultant - pharmacovigilance reporting (remote)|veeva systems|uk only": {
    "first_seen": "2026-11-26T18:59:47+00:00",
-   "last_seen": "2026-11-26T18:59:47+00:00",
+   "last_seen": "2026-11-27T02:10:23+00:00",
    "title": "Senior Implementation Consultant - Pharmacovigilance Reporting (Remote)",
    "org": "Veeva Systems",
    "location": "UK Only"
   },
   "client success manager, chicago/midwest (r-20152)|dun & bradstreet|us only": {
    "first_seen": "2026-11-26T18:59:47+00:00",
-   "last_seen": "2026-11-26T18:59:47+00:00",
+   "last_seen": "2026-11-27T02:10:23+00:00",
    "title": "Client Success Manager, Chicago/Midwest (R-20152)",
    "org": "Dun & Bradstreet",
    "location": "US Only"
   },
   "technical customer success manager - xmatters|everbridge|us only": {
    "first_seen": "2026-11-26T18:59:47+00:00",
-   "last_seen": "2026-11-26T18:59:47+00:00",
+   "last_seen": "2026-11-27T02:10:23+00:00",
    "title": "Technical Customer Success Manager - xMatters",
    "org": "Everbridge",
    "location": "US Only"
   },
   "customer success engineer|ethena|us only": {
    "first_seen": "2026-11-26T18:59:47+00:00",
-   "last_seen": "2026-11-26T18:59:47+00:00",
+   "last_seen": "2026-11-27T02:10:23+00:00",
    "title": "Customer Success Engineer",
    "org": "Ethena",
    "location": "US Only"
   },
   "sr. account manager - mid market|h1|us only": {
    "first_seen": "2026-11-26T18:59:47+00:00",
-   "last_seen": "2026-11-26T18:59:47+00:00",
+   "last_seen": "2026-11-27T02:10:23+00:00",
    "title": "Sr. Account Manager - Mid Market",
    "org": "H1",
+   "location": "US Only"
+  },
+  "client account executive|jobgether|us only": {
+   "first_seen": "2026-11-27T02:10:23+00:00",
+   "last_seen": "2026-11-27T02:10:23+00:00",
+   "title": "Client Account Executive",
+   "org": "Jobgether",
+   "location": "US Only"
+  },
+  "director of strategic accounts, south/central (tola)|jobgether|us only": {
+   "first_seen": "2026-11-27T02:10:23+00:00",
+   "last_seen": "2026-11-27T02:10:23+00:00",
+   "title": "Director of Strategic Accounts, South/Central (TOLA)",
+   "org": "Jobgether",
+   "location": "US Only"
+  },
+  "traveling account executive - neurology/rare disease|jobgether|us only": {
+   "first_seen": "2026-11-27T02:10:23+00:00",
+   "last_seen": "2026-11-27T02:10:23+00:00",
+   "title": "Traveling Account Executive - Neurology/Rare Disease",
+   "org": "Jobgether",
+   "location": "US Only"
+  },
+  "product marketing manager - ostro|veeva systems|us only": {
+   "first_seen": "2026-11-27T02:10:23+00:00",
+   "last_seen": "2026-11-27T02:10:23+00:00",
+   "title": "Product Marketing Manager - Ostro",
+   "org": "Veeva Systems",
    "location": "US Only"
   }
  }

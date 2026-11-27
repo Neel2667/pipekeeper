@@ -3,104 +3,104 @@
  "name": "Himalayas \u2014 remote jobs",
  "category": "jobs",
  "source": "https://himalayas.app/jobs/api",
- "collected_at": "2026-11-26T18:59:48+00:00",
+ "collected_at": "2026-11-27T02:10:25+00:00",
  "jobs_on_board": 20,
  "new_this_run": 20,
- "total_tracked": 735,
+ "total_tracked": 755,
  "jobs": [
   {
-   "title": "Principal Network Engineer",
-   "org": "Florida Blue",
+   "title": "Principal Consultant, Technical Architect",
+   "org": "Ellucian Company LLC",
+   "location": "United Kingdom",
+   "detail": "Full Time",
+   "url": null,
+   "new_this_run": true
+  },
+  {
+   "title": "Android Software Engineer",
+   "org": "Bjak",
+   "location": "India",
+   "detail": "Full Time",
+   "url": null,
+   "new_this_run": true
+  },
+  {
+   "title": "Chief of Staff",
+   "org": "Bjak",
+   "location": "Singapore",
+   "detail": "Full Time",
+   "url": null,
+   "new_this_run": true
+  },
+  {
+   "title": "Remote Sales Agent (Insurtech Startup)",
+   "org": "Jerry",
    "location": "United States",
-   "detail": "$153,800\u2013$249,900/a",
+   "detail": "$19\u2013$21/h",
    "url": null,
    "new_this_run": true
   },
   {
-   "title": "Senior Corporate Finance Manager (m/w/d)",
-   "org": "empact",
-   "location": "Germany",
+   "title": "Android Developer - AI Finance Agent",
+   "org": "Bjak",
+   "location": "Thailand",
    "detail": "Full Time",
    "url": null,
    "new_this_run": true
   },
   {
-   "title": "B2B Lead Gen Specialist - Full Remote",
-   "org": "Cube Care",
-   "location": "Philippines",
-   "detail": "Full Time",
-   "url": null,
-   "new_this_run": true
-  },
-  {
-   "title": "CRO & Product Experimentation Manager (m/w/d) - Remote (Deutschlandweit)",
-   "org": "Next Lotto GmbH",
-   "location": "Germany",
-   "detail": "Full Time",
-   "url": null,
-   "new_this_run": true
-  },
-  {
-   "title": "Chief of Staff, Marketing",
-   "org": "Cardinal Group Companies",
+   "title": "System Director Formation Innovative Technology-Analytics",
+   "org": "CommonSpirit Health",
    "location": "United States",
-   "detail": "$135,000\u2013$145,000/a",
+   "detail": "Other",
    "url": null,
    "new_this_run": true
   },
   {
-   "title": "Backend Engineer",
-   "org": "Xpert Development",
+   "title": "Program Manager",
+   "org": "Mano Lani LLC",
    "location": "United States",
-   "detail": "$150,000\u2013$200,000/a",
+   "detail": "$100,000\u2013$120,000/a",
    "url": null,
    "new_this_run": true
   },
   {
-   "title": "Trainee Flutter Developer",
-   "org": "NetForemost, Inc",
-   "location": "Anguilla, Antigua and Barbuda, Argentina, Aruba, Bahamas, Barbados, Belize, Bermuda, Bolivia, Bonaire, Sint Eustatius and Saba, Brazil, Cayman Islands, Chile, Colombia, Costa Rica, Cuba, Dominica, Dominican Republic, Ecuador, El Salvador, F",
-   "detail": "Intern",
-   "url": null,
-   "new_this_run": true
-  },
-  {
-   "title": "Lead Java Developer with IRS MBI Clearance needed",
-   "org": "3M Consultancy",
-   "location": "United States",
+   "title": "CEO Office - AI Neobank App",
+   "org": "Bjak",
+   "location": "Singapore",
    "detail": "Full Time",
    "url": null,
    "new_this_run": true
   },
   {
-   "title": "TEST Customer Support Specialist",
-   "org": "Talent First",
-   "location": "Ukraine",
-   "detail": "$1,000\u2013$1,200/m",
+   "title": "Revenue Enablement Lead",
+   "org": "abridge",
+   "location": "United States",
+   "detail": "$145,000\u2013$195,000/a",
    "url": null,
    "new_this_run": true
   },
   {
-   "title": "Steuerberater (m/w/d) in Euskirchen - 100% remote m\u00f6glich",
-   "org": "PMPG",
-   "location": "Germany",
+   "title": "Technical Lead",
+   "org": "Bjak",
+   "location": "Vietnam",
    "detail": "Full Time",
    "url": null,
    "new_this_run": true
   },
   {
-   "title": "Japanese Voice Actor - Freelance AI Trainer Project",
-   "org": "Invisible Technologies",
-   "location": "remote",
-   "detail": "Contractor",
+   "title": "Security Engineer (Remote - Poland)",
+   "org": "EverAI",
+   "location": "Poland",
+   "detail": "$65,000\u2013$115,000/a",
    "url": null,
    "new_this_run": true
   },
   {
-   "title": "Registered Nurse - AI Trainer",
-   "org": "Invisible Technologies",
-   "location": "remote",
-   "detail": "Contractor",
+   "title": "Product Manager - AI Neobank App",
+   "org": "Bjak",
+   "location": "Indonesia",
+   "detail": "Full Time",
    "url": null,
    "new_this_run": true
   }
@@ -298,6 +298,11 @@
   },
   {
    "at": "2026-11-26T18:59:48+00:00",
+   "jobs": 20,
+   "new": 20
+  },
+  {
+   "at": "2026-11-27T02:10:25+00:00",
    "jobs": 20,
    "new": 20
   }
@@ -5447,6 +5452,146 @@
    "title": "Engagement Manager (Professional Services Sales)",
    "org": "Cresta",
    "location": "United States"
+  },
+  "principal consultant, technical architect|ellucian company llc|united kingdom": {
+   "first_seen": "2026-11-27T02:10:25+00:00",
+   "last_seen": "2026-11-27T02:10:25+00:00",
+   "title": "Principal Consultant, Technical Architect",
+   "org": "Ellucian Company LLC",
+   "location": "United Kingdom"
+  },
+  "android software engineer|bjak|india": {
+   "first_seen": "2026-11-27T02:10:25+00:00",
+   "last_seen": "2026-11-27T02:10:25+00:00",
+   "title": "Android Software Engineer",
+   "org": "Bjak",
+   "location": "India"
+  },
+  "chief of staff|bjak|singapore": {
+   "first_seen": "2026-11-27T02:10:25+00:00",
+   "last_seen": "2026-11-27T02:10:25+00:00",
+   "title": "Chief of Staff",
+   "org": "Bjak",
+   "location": "Singapore"
+  },
+  "remote sales agent (insurtech startup)|jerry|united states": {
+   "first_seen": "2026-11-27T02:10:25+00:00",
+   "last_seen": "2026-11-27T02:10:25+00:00",
+   "title": "Remote Sales Agent (Insurtech Startup)",
+   "org": "Jerry",
+   "location": "United States"
+  },
+  "android developer - ai finance agent|bjak|thailand": {
+   "first_seen": "2026-11-27T02:10:25+00:00",
+   "last_seen": "2026-11-27T02:10:25+00:00",
+   "title": "Android Developer - AI Finance Agent",
+   "org": "Bjak",
+   "location": "Thailand"
+  },
+  "system director formation innovative technology-analytics|commonspirit health|united states": {
+   "first_seen": "2026-11-27T02:10:25+00:00",
+   "last_seen": "2026-11-27T02:10:25+00:00",
+   "title": "System Director Formation Innovative Technology-Analytics",
+   "org": "CommonSpirit Health",
+   "location": "United States"
+  },
+  "program manager|mano lani llc|united states": {
+   "first_seen": "2026-11-27T02:10:25+00:00",
+   "last_seen": "2026-11-27T02:10:25+00:00",
+   "title": "Program Manager",
+   "org": "Mano Lani LLC",
+   "location": "United States"
+  },
+  "ceo office - ai neobank app|bjak|singapore": {
+   "first_seen": "2026-11-27T02:10:25+00:00",
+   "last_seen": "2026-11-27T02:10:25+00:00",
+   "title": "CEO Office - AI Neobank App",
+   "org": "Bjak",
+   "location": "Singapore"
+  },
+  "revenue enablement lead|abridge|united states": {
+   "first_seen": "2026-11-27T02:10:25+00:00",
+   "last_seen": "2026-11-27T02:10:25+00:00",
+   "title": "Revenue Enablement Lead",
+   "org": "abridge",
+   "location": "United States"
+  },
+  "technical lead|bjak|vietnam": {
+   "first_seen": "2026-11-27T02:10:25+00:00",
+   "last_seen": "2026-11-27T02:10:25+00:00",
+   "title": "Technical Lead",
+   "org": "Bjak",
+   "location": "Vietnam"
+  },
+  "security engineer (remote - poland)|everai|poland": {
+   "first_seen": "2026-11-27T02:10:25+00:00",
+   "last_seen": "2026-11-27T02:10:25+00:00",
+   "title": "Security Engineer (Remote - Poland)",
+   "org": "EverAI",
+   "location": "Poland"
+  },
+  "product manager - ai neobank app|bjak|indonesia": {
+   "first_seen": "2026-11-27T02:10:25+00:00",
+   "last_seen": "2026-11-27T02:10:25+00:00",
+   "title": "Product Manager - AI Neobank App",
+   "org": "Bjak",
+   "location": "Indonesia"
+  },
+  "associate media buyer, podcast|oxford road|united states": {
+   "first_seen": "2026-11-27T02:10:25+00:00",
+   "last_seen": "2026-11-27T02:10:25+00:00",
+   "title": "Associate Media Buyer, Podcast",
+   "org": "Oxford Road",
+   "location": "United States"
+  },
+  "founding engineer, ai and geometry / cad|clera|united kingdom": {
+   "first_seen": "2026-11-27T02:10:25+00:00",
+   "last_seen": "2026-11-27T02:10:25+00:00",
+   "title": "Founding Engineer, AI and Geometry / CAD",
+   "org": "Clera",
+   "location": "United Kingdom"
+  },
+  "senior manager - amex ads product, offsite|american express company|united states": {
+   "first_seen": "2026-11-27T02:10:25+00:00",
+   "last_seen": "2026-11-27T02:10:25+00:00",
+   "title": "Senior Manager - Amex Ads Product, Offsite",
+   "org": "American Express Company",
+   "location": "United States"
+  },
+  "android software engineer - ai finance agent|bjak|spain": {
+   "first_seen": "2026-11-27T02:10:25+00:00",
+   "last_seen": "2026-11-27T02:10:25+00:00",
+   "title": "Android Software Engineer - AI Finance Agent",
+   "org": "Bjak",
+   "location": "Spain"
+  },
+  "technical lead|bjak|south korea": {
+   "first_seen": "2026-11-27T02:10:25+00:00",
+   "last_seen": "2026-11-27T02:10:25+00:00",
+   "title": "Technical Lead",
+   "org": "Bjak",
+   "location": "South Korea"
+  },
+  "product manager - ai neobank app|bjak|philippines": {
+   "first_seen": "2026-11-27T02:10:25+00:00",
+   "last_seen": "2026-11-27T02:10:25+00:00",
+   "title": "Product Manager - AI Neobank App",
+   "org": "Bjak",
+   "location": "Philippines"
+  },
+  "field sales & operations representative|the global talent co.|mexico": {
+   "first_seen": "2026-11-27T02:10:25+00:00",
+   "last_seen": "2026-11-27T02:10:25+00:00",
+   "title": "Field Sales & Operations Representative",
+   "org": "The Global Talent Co.",
+   "location": "Mexico"
+  },
+  "strategy & operations lead|bjak|china": {
+   "first_seen": "2026-11-27T02:10:25+00:00",
+   "last_seen": "2026-11-27T02:10:25+00:00",
+   "title": "Strategy & Operations Lead",
+   "org": "Bjak",
+   "location": "China"
   }
  }
 }
