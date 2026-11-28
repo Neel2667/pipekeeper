@@ -3,8 +3,8 @@
  "name": "SEC EDGAR \u2014 new private funding rounds (Form D, 7 days)",
  "category": "funding",
  "source": "https://efts.sec.gov/LATEST/search-index",
- "collected_at": "2026-11-27T19:56:38+00:00",
- "jobs_on_board": 7,
+ "collected_at": "2026-11-28T02:40:30+00:00",
+ "jobs_on_board": 5,
  "new_this_run": 0,
  "total_tracked": 27,
  "jobs": [
@@ -14,22 +14,6 @@
    "location": "Encinitas, CA",
    "detail": "SEC Form D \u00b7 filed 2026-11-24",
    "url": "https://www.sec.gov/Archives/edgar/data/2166927/000216692726000001/0002166927-26-000001-index.htm",
-   "new_this_run": false
-  },
-  {
-   "title": "Fairly Inc./WY raised (Form D)",
-   "org": "Fairly Inc./WY",
-   "location": "Portland, OR",
-   "detail": "SEC Form D \u00b7 filed 2026-11-20",
-   "url": "https://www.sec.gov/Archives/edgar/data/2028927/000202892726000006/0002028927-26-000006-index.htm",
-   "new_this_run": false
-  },
-  {
-   "title": "UIELD Inc raised (Form D)",
-   "org": "UIELD Inc",
-   "location": "Seattle, WA",
-   "detail": "SEC Form D \u00b7 filed 2026-11-20",
-   "url": "https://www.sec.gov/Archives/edgar/data/2166002/000216600226000001/0002166002-26-000001-index.htm",
    "new_this_run": false
   },
   {
@@ -275,6 +259,11 @@
    "at": "2026-11-27T19:56:38+00:00",
    "jobs": 7,
    "new": 0
+  },
+  {
+   "at": "2026-11-28T02:40:30+00:00",
+   "jobs": 5,
+   "new": 0
   }
  ],
  "jobs_seen": {
@@ -434,35 +423,35 @@
   },
   "3g langtry fund 3, llc raised (form d)|3g langtry fund 3, llc|san francisco, ca": {
    "first_seen": "2026-11-24T00:50:45+00:00",
-   "last_seen": "2026-11-27T19:56:38+00:00",
+   "last_seen": "2026-11-28T02:40:30+00:00",
    "title": "3G Langtry Fund 3, LLC raised (Form D)",
    "org": "3G Langtry Fund 3, LLC",
    "location": "San Francisco, CA"
   },
   "american atomics inc. raised (form d)|american atomics inc.|vancouver": {
    "first_seen": "2026-11-24T21:11:18+00:00",
-   "last_seen": "2026-11-27T19:56:38+00:00",
+   "last_seen": "2026-11-28T02:40:30+00:00",
    "title": "American Atomics Inc. raised (Form D)",
    "org": "American Atomics Inc.",
    "location": "Vancouver"
   },
   "bebemos inc. raised (form d)|bebemos inc.|encinitas, ca": {
    "first_seen": "2026-11-25T04:12:49+00:00",
-   "last_seen": "2026-11-27T19:56:38+00:00",
+   "last_seen": "2026-11-28T02:40:30+00:00",
    "title": "Bebemos Inc. raised (Form D)",
    "org": "Bebemos Inc.",
    "location": "Encinitas, CA"
   },
   "rain city capital, llc raised (form d)|rain city capital, llc|kirkland, wa": {
    "first_seen": "2026-11-25T04:12:49+00:00",
-   "last_seen": "2026-11-27T19:56:38+00:00",
+   "last_seen": "2026-11-28T02:40:30+00:00",
    "title": "Rain City Capital, LLC raised (Form D)",
    "org": "Rain City Capital, LLC",
    "location": "Kirkland, WA"
   },
   "vimy pharmaceuticals corp. raised (form d)|vimy pharmaceuticals corp.|toronto": {
    "first_seen": "2026-11-25T04:12:49+00:00",
-   "last_seen": "2026-11-27T19:56:38+00:00",
+   "last_seen": "2026-11-28T02:40:30+00:00",
    "title": "Vimy Pharmaceuticals Corp. raised (Form D)",
    "org": "Vimy Pharmaceuticals Corp.",
    "location": "Toronto"

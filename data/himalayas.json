@@ -3,104 +3,104 @@
  "name": "Himalayas \u2014 remote jobs",
  "category": "jobs",
  "source": "https://himalayas.app/jobs/api",
- "collected_at": "2026-11-27T19:56:36+00:00",
+ "collected_at": "2026-11-28T02:40:28+00:00",
  "jobs_on_board": 20,
  "new_this_run": 20,
- "total_tracked": 795,
+ "total_tracked": 815,
  "jobs": [
   {
-   "title": "Sales Associate \u2013 (Sales Development)",
-   "org": "Gannett",
-   "location": "United States",
-   "detail": "$21\u2013$24/h",
+   "title": "Closer / Account Executive (m/w/d) \u2013 B2B SaaS DigitalCheckIn",
+   "org": "DigitalCheckIn",
+   "location": "Germany",
+   "detail": "$60,000\u2013$150,000/a",
    "url": null,
    "new_this_run": true
   },
   {
-   "title": "Data Entry Specialist",
-   "org": "Pavago",
-   "location": "Pakistan",
-   "detail": "Full Time",
-   "url": null,
-   "new_this_run": true
-  },
-  {
-   "title": "Medical Billing Team Lead",
-   "org": "Pavago",
-   "location": "Pakistan",
-   "detail": "Full Time",
-   "url": null,
-   "new_this_run": true
-  },
-  {
-   "title": "Executive Assistant to Board and Leadership | Philippines",
-   "org": "HireHawk",
-   "location": "Philippines",
-   "detail": "Contractor",
-   "url": null,
-   "new_this_run": true
-  },
-  {
-   "title": "Onboarding Manager",
-   "org": "Fetch Package",
-   "location": "United States",
-   "detail": "$70,000\u2013$80,000/a",
-   "url": null,
-   "new_this_run": true
-  },
-  {
-   "title": "Patient Access Scheduler",
-   "org": "Fairview Health Services",
+   "title": "Senior Agent Engineer",
+   "org": "Clera",
    "location": "United States",
    "detail": "Full Time",
    "url": null,
    "new_this_run": true
   },
   {
-   "title": "(Freelance) Charg\u00e9\u00b7e de relations clients e-commerce",
-   "org": "Circles - Better Womanhood",
-   "location": "France",
-   "detail": "Contractor",
-   "url": null,
-   "new_this_run": true
-  },
-  {
-   "title": "Clinical Research Associate II - FSP",
-   "org": "Parexel",
-   "location": "Brazil",
-   "detail": "Full Time",
-   "url": null,
-   "new_this_run": true
-  },
-  {
-   "title": "Senior Project Manager Consultant \u2013 IT & Manufacturing",
-   "org": "Eraneos",
-   "location": "Spain",
-   "detail": "Full Time",
-   "url": null,
-   "new_this_run": true
-  },
-  {
-   "title": "Operations & HR Manager | Russian Speaker",
-   "org": "Whizz",
-   "location": "Croatia, Cyprus, Poland, Portugal, Serbia, Slovakia",
-   "detail": "$1,000\u2013$1,500/m",
-   "url": null,
-   "new_this_run": true
-  },
-  {
-   "title": "Network Solution Architekt, Cloud & AI (m/w/d)",
-   "org": "Yorizon",
-   "location": "Austria, Germany",
-   "detail": "Full Time",
-   "url": null,
-   "new_this_run": true
-  },
-  {
-   "title": "Director, Advocacy & Communications",
-   "org": "VillageReach",
+   "title": "Counsel, Product",
+   "org": "YipitData",
    "location": "United States",
    "detail": "Full Time",
+   "url": null,
+   "new_this_run": true
+  },
+  {
+   "title": "Greenhouse ATS Specialist, Remote - Contract",
+   "org": "Xperteez Technology",
+   "location": "United States",
+   "detail": "$90\u2013$170/h",
+   "url": null,
+   "new_this_run": true
+  },
+  {
+   "title": "Change Management Specialist, Project Delivery",
+   "org": "Stantec",
+   "location": "Canada",
+   "detail": "Full Time",
+   "url": null,
+   "new_this_run": true
+  },
+  {
+   "title": "Business Development & Chief of Staff",
+   "org": "The Global Talent Co.",
+   "location": "South Africa",
+   "detail": "Full Time",
+   "url": null,
+   "new_this_run": true
+  },
+  {
+   "title": "Account Quality Manager",
+   "org": "Acclaro",
+   "location": "Argentina",
+   "detail": "Full Time",
+   "url": null,
+   "new_this_run": true
+  },
+  {
+   "title": "Field Marketing Manager - Central Europe",
+   "org": "Danaher",
+   "location": "Austria, Germany, Switzerland",
+   "detail": "Full Time",
+   "url": null,
+   "new_this_run": true
+  },
+  {
+   "title": "Business Development Representative (m/w/d) REMOTE",
+   "org": "Heycare",
+   "location": "Germany",
+   "detail": "Full Time",
+   "url": null,
+   "new_this_run": true
+  },
+  {
+   "title": "Senior Product Manager",
+   "org": "Care Access",
+   "location": "United States",
+   "detail": "$120,000\u2013$160,000/a",
+   "url": null,
+   "new_this_run": true
+  },
+  {
+   "title": "Senior Product Manager, Analytics",
+   "org": "Daikin Applied",
+   "location": "United States",
+   "detail": "$113,800\u2013$193,900/a",
+   "url": null,
+   "new_this_run": true
+  },
+  {
+   "title": "Senior Motion Designer",
+   "org": "Vibrant Emotional Health",
+   "location": "United States",
+   "detail": "$70\u2013$80/h",
    "url": null,
    "new_this_run": true
   }
@@ -313,6 +313,11 @@
   },
   {
    "at": "2026-11-27T19:56:36+00:00",
+   "jobs": 20,
+   "new": 20
+  },
+  {
+   "at": "2026-11-28T02:40:28+00:00",
    "jobs": 20,
    "new": 20
   }
@@ -5882,6 +5887,146 @@
    "title": "Senior Business Development Manager (m/w/d)",
    "org": "bits&birds",
    "location": "Germany"
+  },
+  "closer / account executive (m/w/d) \u2013 b2b saas digitalcheckin|digitalcheckin|germany": {
+   "first_seen": "2026-11-28T02:40:28+00:00",
+   "last_seen": "2026-11-28T02:40:28+00:00",
+   "title": "Closer / Account Executive (m/w/d) \u2013 B2B SaaS DigitalCheckIn",
+   "org": "DigitalCheckIn",
+   "location": "Germany"
+  },
+  "senior agent engineer|clera|united states": {
+   "first_seen": "2026-11-28T02:40:28+00:00",
+   "last_seen": "2026-11-28T02:40:28+00:00",
+   "title": "Senior Agent Engineer",
+   "org": "Clera",
+   "location": "United States"
+  },
+  "counsel, product|yipitdata|united states": {
+   "first_seen": "2026-11-28T02:40:28+00:00",
+   "last_seen": "2026-11-28T02:40:28+00:00",
+   "title": "Counsel, Product",
+   "org": "YipitData",
+   "location": "United States"
+  },
+  "greenhouse ats specialist, remote - contract|xperteez technology|united states": {
+   "first_seen": "2026-11-28T02:40:28+00:00",
+   "last_seen": "2026-11-28T02:40:28+00:00",
+   "title": "Greenhouse ATS Specialist, Remote - Contract",
+   "org": "Xperteez Technology",
+   "location": "United States"
+  },
+  "change management specialist, project delivery|stantec|canada": {
+   "first_seen": "2026-11-28T02:40:28+00:00",
+   "last_seen": "2026-11-28T02:40:28+00:00",
+   "title": "Change Management Specialist, Project Delivery",
+   "org": "Stantec",
+   "location": "Canada"
+  },
+  "business development & chief of staff|the global talent co.|south africa": {
+   "first_seen": "2026-11-28T02:40:28+00:00",
+   "last_seen": "2026-11-28T02:40:28+00:00",
+   "title": "Business Development & Chief of Staff",
+   "org": "The Global Talent Co.",
+   "location": "South Africa"
+  },
+  "account quality manager|acclaro|argentina": {
+   "first_seen": "2026-11-28T02:40:28+00:00",
+   "last_seen": "2026-11-28T02:40:28+00:00",
+   "title": "Account Quality Manager",
+   "org": "Acclaro",
+   "location": "Argentina"
+  },
+  "field marketing manager - central europe|danaher|austria, germany, switzerland": {
+   "first_seen": "2026-11-28T02:40:28+00:00",
+   "last_seen": "2026-11-28T02:40:28+00:00",
+   "title": "Field Marketing Manager - Central Europe",
+   "org": "Danaher",
+   "location": "Austria, Germany, Switzerland"
+  },
+  "business development representative (m/w/d) remote|heycare|germany": {
+   "first_seen": "2026-11-28T02:40:28+00:00",
+   "last_seen": "2026-11-28T02:40:28+00:00",
+   "title": "Business Development Representative (m/w/d) REMOTE",
+   "org": "Heycare",
+   "location": "Germany"
+  },
+  "senior product manager|care access|united states": {
+   "first_seen": "2026-11-28T02:40:28+00:00",
+   "last_seen": "2026-11-28T02:40:28+00:00",
+   "title": "Senior Product Manager",
+   "org": "Care Access",
+   "location": "United States"
+  },
+  "senior product manager, analytics|daikin applied|united states": {
+   "first_seen": "2026-11-28T02:40:28+00:00",
+   "last_seen": "2026-11-28T02:40:28+00:00",
+   "title": "Senior Product Manager, Analytics",
+   "org": "Daikin Applied",
+   "location": "United States"
+  },
+  "senior motion designer|vibrant emotional health|united states": {
+   "first_seen": "2026-11-28T02:40:28+00:00",
+   "last_seen": "2026-11-28T02:40:28+00:00",
+   "title": "Senior Motion Designer",
+   "org": "Vibrant Emotional Health",
+   "location": "United States"
+  },
+  "senior director, pmo, strategic projects (remote, us)|ohmconnect|united states": {
+   "first_seen": "2026-11-28T02:40:28+00:00",
+   "last_seen": "2026-11-28T02:40:28+00:00",
+   "title": "Senior Director, PMO, Strategic Projects (Remote, US)",
+   "org": "OhmConnect",
+   "location": "United States"
+  },
+  "senior account executive|inspira education|united states": {
+   "first_seen": "2026-11-28T02:40:28+00:00",
+   "last_seen": "2026-11-28T02:40:28+00:00",
+   "title": "Senior Account Executive",
+   "org": "Inspira Education",
+   "location": "United States"
+  },
+  "data science analyst|temenos|canada": {
+   "first_seen": "2026-11-28T02:40:28+00:00",
+   "last_seen": "2026-11-28T02:40:28+00:00",
+   "title": "Data Science Analyst",
+   "org": "Temenos",
+   "location": "Canada"
+  },
+  "account manager (corporate)|billtrust|united states": {
+   "first_seen": "2026-11-28T02:40:28+00:00",
+   "last_seen": "2026-11-28T02:40:28+00:00",
+   "title": "Account Manager (Corporate)",
+   "org": "Billtrust",
+   "location": "United States"
+  },
+  "founding full-stack engineer|planqor.ai|germany": {
+   "first_seen": "2026-11-28T02:40:28+00:00",
+   "last_seen": "2026-11-28T02:40:28+00:00",
+   "title": "Founding Full-Stack Engineer",
+   "org": "planqor.ai",
+   "location": "Germany"
+  },
+  "senior product manager reusable kyc gateway|sumsub|cyprus": {
+   "first_seen": "2026-11-28T02:40:28+00:00",
+   "last_seen": "2026-11-28T02:40:28+00:00",
+   "title": "Senior Product Manager Reusable KYC Gateway",
+   "org": "Sumsub",
+   "location": "Cyprus"
+  },
+  "medical science liaison|abbvie|china": {
+   "first_seen": "2026-11-28T02:40:28+00:00",
+   "last_seen": "2026-11-28T02:40:28+00:00",
+   "title": "Medical Science Liaison",
+   "org": "AbbVie",
+   "location": "China"
+  },
+  "activ - senior creative strategist|jobrack|serbia": {
+   "first_seen": "2026-11-28T02:40:28+00:00",
+   "last_seen": "2026-11-28T02:40:28+00:00",
+   "title": "ACTIV - Senior Creative Strategist",
+   "org": "JobRack",
+   "location": "Serbia"
   }
  }
 }

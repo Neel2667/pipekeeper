@@ -1,9 +1,9 @@
 {
  "source": "https://www.hosthealthcare.com/jobs/",
- "collected_at": "2026-11-27T19:56:35+00:00",
+ "collected_at": "2026-11-28T02:40:27+00:00",
  "jobs_on_board": 15,
- "new_this_run": 0,
- "total_tracked": 21,
+ "new_this_run": 1,
+ "total_tracked": 22,
  "jobs": [
   {
    "title": "RN - Nurse Educator",
@@ -33,8 +33,8 @@
    "new_this_run": false
   },
   {
-   "title": "EEG Technologist",
-   "location": "Houston, TX",
+   "title": "CRNA",
+   "location": "Bigfork, MN",
    "pay_amount": "6,212.5",
    "pay_unit": "week",
    "weeks": 13,
@@ -42,8 +42,8 @@
    "new_this_run": false
   },
   {
-   "title": "CRNA",
-   "location": "Bigfork, MN",
+   "title": "EEG Technologist",
+   "location": "Houston, TX",
    "pay_amount": "6,212.5",
    "pay_unit": "week",
    "weeks": 13,
@@ -63,15 +63,6 @@
    "title": "Director of Oncology - Executive Leadership",
    "location": "Santa Maria, CA",
    "pay_amount": "4,463.2",
-   "pay_unit": "week",
-   "weeks": 13,
-   "kind": "travel",
-   "new_this_run": false
-  },
-  {
-   "title": "Cath Lab Tech",
-   "location": "Bakersfield, CA",
-   "pay_amount": "4,409.1",
    "pay_unit": "week",
    "weeks": 13,
    "kind": "travel",
@@ -139,6 +130,15 @@
    "weeks": 8,
    "kind": "travel",
    "new_this_run": false
+  },
+  {
+   "title": "RN - Labor and Delivery",
+   "location": "Coon Rapids, MN",
+   "pay_amount": "4,079.9",
+   "pay_unit": "week",
+   "weeks": 8,
+   "kind": "travel",
+   "new_this_run": true
   }
  ],
  "runs": [
@@ -381,18 +381,23 @@
    "at": "2026-11-27T19:56:35+00:00",
    "jobs": 15,
    "new": 0
+  },
+  {
+   "at": "2026-11-28T02:40:27+00:00",
+   "jobs": 15,
+   "new": 1
   }
  ],
  "jobs_seen": {
   "physical therapist - allied|seattle, wa": {
    "first_seen": "2026-11-15T09:21:04+00:00",
-   "last_seen": "2026-11-27T19:56:35+00:00",
+   "last_seen": "2026-11-28T02:40:27+00:00",
    "title": "Physical Therapist - Allied",
    "location": "Seattle, WA"
   },
   "crna|bigfork, mn": {
    "first_seen": "2026-11-15T09:21:04+00:00",
-   "last_seen": "2026-11-27T19:56:35+00:00",
+   "last_seen": "2026-11-28T02:40:27+00:00",
    "title": "CRNA",
    "location": "Bigfork, MN"
   },
@@ -410,7 +415,7 @@
   },
   "director of oncology - executive leadership|santa maria, ca": {
    "first_seen": "2026-11-15T09:21:04+00:00",
-   "last_seen": "2026-11-27T19:56:35+00:00",
+   "last_seen": "2026-11-28T02:40:27+00:00",
    "title": "Director of Oncology - Executive Leadership",
    "location": "Santa Maria, CA"
   },
@@ -428,7 +433,7 @@
   },
   "cath lab tech|bakersfield, ca": {
    "first_seen": "2026-11-15T09:21:04+00:00",
-   "last_seen": "2026-11-27T19:56:35+00:00",
+   "last_seen": "2026-11-28T02:40:27+00:00",
    "title": "Cath Lab Tech",
    "location": "Bakersfield, CA"
   },
@@ -464,31 +469,31 @@
   },
   "rn - nurse educator|new york, ny": {
    "first_seen": "2026-11-17T22:23:59+00:00",
-   "last_seen": "2026-11-27T19:56:35+00:00",
+   "last_seen": "2026-11-28T02:40:27+00:00",
    "title": "RN - Nurse Educator",
    "location": "New York, NY"
   },
   "rn - picu|new haven, ct": {
    "first_seen": "2026-11-17T22:23:59+00:00",
-   "last_seen": "2026-11-27T19:56:35+00:00",
+   "last_seen": "2026-11-28T02:40:27+00:00",
    "title": "RN - PICU",
    "location": "New Haven, CT"
   },
   "eeg technologist|houston, tx": {
    "first_seen": "2026-11-19T03:27:09+00:00",
-   "last_seen": "2026-11-27T19:56:35+00:00",
+   "last_seen": "2026-11-28T02:40:27+00:00",
    "title": "EEG Technologist",
    "location": "Houston, TX"
   },
   "rn - picu|lebanon, nh": {
    "first_seen": "2026-11-21T23:15:20+00:00",
-   "last_seen": "2026-11-27T19:56:35+00:00",
+   "last_seen": "2026-11-28T02:40:27+00:00",
    "title": "RN - PICU",
    "location": "Lebanon, NH"
   },
   "cath lab tech|coon rapids, mn": {
    "first_seen": "2026-11-24T00:50:40+00:00",
-   "last_seen": "2026-11-27T19:56:35+00:00",
+   "last_seen": "2026-11-28T02:40:27+00:00",
    "title": "Cath Lab Tech",
    "location": "Coon Rapids, MN"
   },
@@ -500,15 +505,21 @@
   },
   "rn - labor and delivery|new ulm, mn": {
    "first_seen": "2026-11-24T00:50:40+00:00",
-   "last_seen": "2026-11-27T19:56:35+00:00",
+   "last_seen": "2026-11-28T02:40:27+00:00",
    "title": "RN - Labor and Delivery",
    "location": "New Ulm, MN"
   },
   "rn - labor and delivery|minneapolis, mn": {
    "first_seen": "2026-11-25T23:36:48+00:00",
-   "last_seen": "2026-11-27T19:56:35+00:00",
+   "last_seen": "2026-11-28T02:40:27+00:00",
    "title": "RN - Labor and Delivery",
    "location": "Minneapolis, MN"
+  },
+  "rn - labor and delivery|coon rapids, mn": {
+   "first_seen": "2026-11-28T02:40:27+00:00",
+   "last_seen": "2026-11-28T02:40:27+00:00",
+   "title": "RN - Labor and Delivery",
+   "location": "Coon Rapids, MN"
   }
  }
 }

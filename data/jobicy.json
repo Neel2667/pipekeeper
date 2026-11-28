@@ -3,18 +3,98 @@
  "name": "Jobicy \u2014 remote jobs",
  "category": "jobs",
  "source": "https://jobicy.com/api/v2/remote-jobs",
- "collected_at": "2026-11-27T19:56:36+00:00",
+ "collected_at": "2026-11-28T02:40:28+00:00",
  "jobs_on_board": 50,
- "new_this_run": 50,
- "total_tracked": 1360,
+ "new_this_run": 10,
+ "total_tracked": 1370,
  "jobs": [
+  {
+   "title": "Licensed Independent Mental Health Practitioner",
+   "org": "BetterHelp",
+   "location": "USA",
+   "detail": "Entry-Level, Junior",
+   "url": "https://jobicy.com/jobs/164597-licensed-independent-mental-health-practitioner",
+   "new_this_run": true
+  },
+  {
+   "title": "Air Account Executive",
+   "org": "Axon",
+   "location": "USA",
+   "detail": "Director",
+   "url": "https://jobicy.com/jobs/164596-air-account-executive",
+   "new_this_run": true
+  },
+  {
+   "title": "Lead/Principal Product Manager, Tax Agents",
+   "org": "Fieldguide",
+   "location": "USA",
+   "detail": "Senior",
+   "url": "https://jobicy.com/jobs/164595-lead-principal-product-manager-tax-agents-2",
+   "new_this_run": true
+  },
+  {
+   "title": "Account Manager, Majors",
+   "org": "Axon",
+   "location": "USA",
+   "detail": "Director",
+   "url": "https://jobicy.com/jobs/164593-account-manager-majors",
+   "new_this_run": true
+  },
+  {
+   "title": "SOX AI Specialist (Contractor)",
+   "org": "Fieldguide",
+   "location": "USA",
+   "detail": "Senior",
+   "url": "https://jobicy.com/jobs/164592-sox-ai-specialist-contractor",
+   "new_this_run": true
+  },
+  {
+   "title": "Licensed Clinical Social Worker (LCSW)",
+   "org": "BetterHelp",
+   "location": "USA",
+   "detail": "Entry-Level, Junior",
+   "url": "https://jobicy.com/jobs/164591-licensed-clinical-social-worker-lcsw-2",
+   "new_this_run": true
+  },
+  {
+   "title": "Senior or Staff Infrastructure Engineer",
+   "org": "Fieldguide",
+   "location": "USA",
+   "detail": "Senior",
+   "url": "https://jobicy.com/jobs/164589-senior-or-staff-infrastructure-engineer",
+   "new_this_run": true
+  },
+  {
+   "title": "Senior Technical Documentation Specialist \u2013 Data Center Operations",
+   "org": "Cologix, Inc.",
+   "location": "USA",
+   "detail": "Senior",
+   "url": "https://jobicy.com/jobs/164588-senior-technical-documentation-specialist-data-center-operations",
+   "new_this_run": true
+  },
+  {
+   "title": "Software Engineer",
+   "org": "Quest Analytics",
+   "location": "USA",
+   "detail": "Director",
+   "url": "https://jobicy.com/jobs/164587-software-engineer-17",
+   "new_this_run": true
+  },
+  {
+   "title": "Licensed Clinical Professional Counselor",
+   "org": "BetterHelp",
+   "location": "USA",
+   "detail": "Entry-Level, Junior",
+   "url": "https://jobicy.com/jobs/164586-licensed-clinical-professional-counselor-2",
+   "new_this_run": true
+  },
   {
    "title": "Country Manager, Japan",
    "org": "UpGuard",
    "location": "Japan",
    "detail": "Director",
    "url": "https://jobicy.com/jobs/164583-country-manager-japan",
-   "new_this_run": true
+   "new_this_run": false
   },
   {
    "title": "Product Lead - AI Finance",
@@ -22,87 +102,7 @@
    "location": "Vietnam",
    "detail": "Senior",
    "url": "https://jobicy.com/jobs/164582-product-lead-ai-finance",
-   "new_this_run": true
-  },
-  {
-   "title": "Lead Data Engineer",
-   "org": "UpGuard",
-   "location": "Australia",
-   "detail": "Director",
-   "url": "https://jobicy.com/jobs/164581-lead-data-engineer-3",
-   "new_this_run": true
-  },
-  {
-   "title": "Software Engineer",
-   "org": "Vonage",
-   "location": "Spain",
-   "detail": "Senior",
-   "url": "https://jobicy.com/jobs/164580-software-engineer-16",
-   "new_this_run": true
-  },
-  {
-   "title": "Strategy & Operations Associate",
-   "org": "BJAK",
-   "location": "China",
-   "detail": "Senior",
-   "url": "https://jobicy.com/jobs/164579-strategy-operations-associate",
-   "new_this_run": true
-  },
-  {
-   "title": "Senior Frontend Engineer",
-   "org": "LastPass",
-   "location": "Hungary",
-   "detail": "Senior",
-   "url": "https://jobicy.com/jobs/164578-senior-frontend-engineer-3",
-   "new_this_run": true
-  },
-  {
-   "title": "Workforce Management - Real Time Analyst",
-   "org": "Clipboard",
-   "location": "APAC",
-   "detail": "Director",
-   "url": "https://jobicy.com/jobs/164577-workforce-management-real-time-analyst-3",
-   "new_this_run": true
-  },
-  {
-   "title": "Customer Success Manager",
-   "org": "UpGuard",
-   "location": "Singapore",
-   "detail": "Senior",
-   "url": "https://jobicy.com/jobs/164576-customer-success-manager-67",
-   "new_this_run": true
-  },
-  {
-   "title": "Senior Software Engineer",
-   "org": "Vonage",
-   "location": "Spain",
-   "detail": "Senior",
-   "url": "https://jobicy.com/jobs/164575-senior-software-engineer-33",
-   "new_this_run": true
-  },
-  {
-   "title": "Tech Support Specialist I (Spanish Bilingual)",
-   "org": "Palmetto Clean Technology",
-   "location": "Philippines",
-   "detail": "Any",
-   "url": "https://jobicy.com/jobs/164574-tech-support-specialist-i-spanish-bilingual",
-   "new_this_run": true
-  },
-  {
-   "title": "Brazilian Subject Matter Expert in TV & Movies",
-   "org": "Welo Global",
-   "location": "Brazil",
-   "detail": "Any",
-   "url": "https://jobicy.com/jobs/164570-brazilian-subject-matter-expert-in-tv-movies",
-   "new_this_run": true
-  },
-  {
-   "title": "Brazilian Subject Matter Expert in Literature and Linguistics",
-   "org": "Welo Global",
-   "location": "Europe",
-   "detail": "Any",
-   "url": "https://jobicy.com/jobs/164569-brazilian-subject-matter-expert-in-literature-and-linguistics",
-   "new_this_run": true
+   "new_this_run": false
   }
  ],
  "runs": [
@@ -315,6 +315,11 @@
    "at": "2026-11-27T19:56:36+00:00",
    "jobs": 50,
    "new": 50
+  },
+  {
+   "at": "2026-11-28T02:40:28+00:00",
+   "jobs": 50,
+   "new": 10
   }
  ],
  "jobs_seen": {
@@ -9490,280 +9495,280 @@
   },
   "country manager, japan|upguard|japan": {
    "first_seen": "2026-11-27T19:56:36+00:00",
-   "last_seen": "2026-11-27T19:56:36+00:00",
+   "last_seen": "2026-11-28T02:40:28+00:00",
    "title": "Country Manager, Japan",
    "org": "UpGuard",
    "location": "Japan"
   },
   "product lead - ai finance|bjak|vietnam": {
    "first_seen": "2026-11-27T19:56:36+00:00",
-   "last_seen": "2026-11-27T19:56:36+00:00",
+   "last_seen": "2026-11-28T02:40:28+00:00",
    "title": "Product Lead - AI Finance",
    "org": "BJAK",
    "location": "Vietnam"
   },
   "lead data engineer|upguard|australia": {
    "first_seen": "2026-11-27T19:56:36+00:00",
-   "last_seen": "2026-11-27T19:56:36+00:00",
+   "last_seen": "2026-11-28T02:40:28+00:00",
    "title": "Lead Data Engineer",
    "org": "UpGuard",
    "location": "Australia"
   },
   "software engineer|vonage|spain": {
    "first_seen": "2026-11-27T19:56:36+00:00",
-   "last_seen": "2026-11-27T19:56:36+00:00",
+   "last_seen": "2026-11-28T02:40:28+00:00",
    "title": "Software Engineer",
    "org": "Vonage",
    "location": "Spain"
   },
   "strategy & operations associate|bjak|china": {
    "first_seen": "2026-11-27T19:56:36+00:00",
-   "last_seen": "2026-11-27T19:56:36+00:00",
+   "last_seen": "2026-11-28T02:40:28+00:00",
    "title": "Strategy & Operations Associate",
    "org": "BJAK",
    "location": "China"
   },
   "senior frontend engineer|lastpass|hungary": {
    "first_seen": "2026-11-27T19:56:36+00:00",
-   "last_seen": "2026-11-27T19:56:36+00:00",
+   "last_seen": "2026-11-28T02:40:28+00:00",
    "title": "Senior Frontend Engineer",
    "org": "LastPass",
    "location": "Hungary"
   },
   "workforce management - real time analyst|clipboard|apac": {
    "first_seen": "2026-11-27T19:56:36+00:00",
-   "last_seen": "2026-11-27T19:56:36+00:00",
+   "last_seen": "2026-11-28T02:40:28+00:00",
    "title": "Workforce Management - Real Time Analyst",
    "org": "Clipboard",
    "location": "APAC"
   },
   "customer success manager|upguard|singapore": {
    "first_seen": "2026-11-27T19:56:36+00:00",
-   "last_seen": "2026-11-27T19:56:36+00:00",
+   "last_seen": "2026-11-28T02:40:28+00:00",
    "title": "Customer Success Manager",
    "org": "UpGuard",
    "location": "Singapore"
   },
   "senior software engineer|vonage|spain": {
    "first_seen": "2026-11-27T19:56:36+00:00",
-   "last_seen": "2026-11-27T19:56:36+00:00",
+   "last_seen": "2026-11-28T02:40:28+00:00",
    "title": "Senior Software Engineer",
    "org": "Vonage",
    "location": "Spain"
   },
   "tech support specialist i (spanish bilingual)|palmetto clean technology|philippines": {
    "first_seen": "2026-11-27T19:56:36+00:00",
-   "last_seen": "2026-11-27T19:56:36+00:00",
+   "last_seen": "2026-11-28T02:40:28+00:00",
    "title": "Tech Support Specialist I (Spanish Bilingual)",
    "org": "Palmetto Clean Technology",
    "location": "Philippines"
   },
   "brazilian subject matter expert in tv & movies|welo global|brazil": {
    "first_seen": "2026-11-27T19:56:36+00:00",
-   "last_seen": "2026-11-27T19:56:36+00:00",
+   "last_seen": "2026-11-28T02:40:28+00:00",
    "title": "Brazilian Subject Matter Expert in TV & Movies",
    "org": "Welo Global",
    "location": "Brazil"
   },
   "brazilian subject matter expert in literature and linguistics|welo global|europe": {
    "first_seen": "2026-11-27T19:56:36+00:00",
-   "last_seen": "2026-11-27T19:56:36+00:00",
+   "last_seen": "2026-11-28T02:40:28+00:00",
    "title": "Brazilian Subject Matter Expert in Literature and Linguistics",
    "org": "Welo Global",
    "location": "Europe"
   },
   "brazilian subject matter expert in home & garden|welo global|brazil": {
    "first_seen": "2026-11-27T19:56:36+00:00",
-   "last_seen": "2026-11-27T19:56:36+00:00",
+   "last_seen": "2026-11-28T02:40:28+00:00",
    "title": "Brazilian Subject Matter Expert in Home & Garden",
    "org": "Welo Global",
    "location": "Brazil"
   },
   "brazilian subject matter expert in games, puzzles & play|welo global|brazil": {
    "first_seen": "2026-11-27T19:56:36+00:00",
-   "last_seen": "2026-11-27T19:56:36+00:00",
+   "last_seen": "2026-11-28T02:40:28+00:00",
    "title": "Brazilian Subject Matter Expert in Games, Puzzles & Play",
    "org": "Welo Global",
    "location": "Brazil"
   },
   "brazilian subject matter expert in fashion & style|welo global|brazil": {
    "first_seen": "2026-11-27T19:56:36+00:00",
-   "last_seen": "2026-11-27T19:56:36+00:00",
+   "last_seen": "2026-11-28T02:40:28+00:00",
    "title": "Brazilian Subject Matter Expert in Fashion & Style",
    "org": "Welo Global",
    "location": "Brazil"
   },
   "japan marketing manager|cresta|japan": {
    "first_seen": "2026-11-27T19:56:36+00:00",
-   "last_seen": "2026-11-27T19:56:36+00:00",
+   "last_seen": "2026-11-28T02:40:28+00:00",
    "title": "Japan Marketing Manager",
    "org": "Cresta",
    "location": "Japan"
   },
   "talent sourcer|caylent|mexico": {
    "first_seen": "2026-11-27T19:56:36+00:00",
-   "last_seen": "2026-11-27T19:56:36+00:00",
+   "last_seen": "2026-11-28T02:40:28+00:00",
    "title": "Talent Sourcer",
    "org": "Caylent",
    "location": "Mexico"
   },
   "workforce management planning analyst|thumbtack|philippines": {
    "first_seen": "2026-11-27T19:56:36+00:00",
-   "last_seen": "2026-11-27T19:56:36+00:00",
+   "last_seen": "2026-11-28T02:40:28+00:00",
    "title": "Workforce Management Planning Analyst",
    "org": "Thumbtack",
    "location": "Philippines"
   },
   "inside sales representative, germany (m/f/d)|plasmidsaurus|germany": {
    "first_seen": "2026-11-27T19:56:36+00:00",
-   "last_seen": "2026-11-27T19:56:36+00:00",
+   "last_seen": "2026-11-28T02:40:28+00:00",
    "title": "Inside Sales Representative, Germany (m/f/d)",
    "org": "Plasmidsaurus",
    "location": "Germany"
   },
   "customer service advocate (multi-channel support)|thumbtack|philippines": {
    "first_seen": "2026-11-27T19:56:36+00:00",
-   "last_seen": "2026-11-27T19:56:36+00:00",
+   "last_seen": "2026-11-28T02:40:28+00:00",
    "title": "Customer Service Advocate (Multi-Channel Support)",
    "org": "Thumbtack",
    "location": "Philippines"
   },
   "abm specialist|maintainx|usa": {
    "first_seen": "2026-11-27T19:56:36+00:00",
-   "last_seen": "2026-11-27T19:56:36+00:00",
+   "last_seen": "2026-11-28T02:40:28+00:00",
    "title": "ABM Specialist",
    "org": "MaintainX",
    "location": "USA"
   },
   "technical support specialist|elation health|canada": {
    "first_seen": "2026-11-27T19:56:36+00:00",
-   "last_seen": "2026-11-27T19:56:36+00:00",
+   "last_seen": "2026-11-28T02:40:28+00:00",
    "title": "Technical Support Specialist",
    "org": "Elation Health",
    "location": "Canada"
   },
   "senior software engineer|jamf|usa": {
    "first_seen": "2026-11-27T19:56:36+00:00",
-   "last_seen": "2026-11-27T19:56:36+00:00",
+   "last_seen": "2026-11-28T02:40:28+00:00",
    "title": "Senior Software Engineer",
    "org": "Jamf",
    "location": "USA"
   },
   "staff software engineer|elation health|canada, new zealand, usa": {
    "first_seen": "2026-11-27T19:56:36+00:00",
-   "last_seen": "2026-11-27T19:56:36+00:00",
+   "last_seen": "2026-11-28T02:40:28+00:00",
    "title": "Staff Software Engineer",
    "org": "Elation Health",
    "location": "Canada, New Zealand, USA"
   },
   "senior sales compensation analyst|jamf|usa": {
    "first_seen": "2026-11-27T19:56:36+00:00",
-   "last_seen": "2026-11-27T19:56:36+00:00",
+   "last_seen": "2026-11-28T02:40:28+00:00",
    "title": "Senior Sales Compensation Analyst",
    "org": "Jamf",
    "location": "USA"
   },
   "associate geo and seo specialist|maintainx|usa": {
    "first_seen": "2026-11-27T19:56:36+00:00",
-   "last_seen": "2026-11-27T19:56:36+00:00",
+   "last_seen": "2026-11-28T02:40:28+00:00",
    "title": "Associate GEO and SEO Specialist",
    "org": "MaintainX",
    "location": "USA"
   },
   "senior or staff product designer|elation health|canada, usa": {
    "first_seen": "2026-11-27T19:56:36+00:00",
-   "last_seen": "2026-11-27T19:56:36+00:00",
+   "last_seen": "2026-11-28T02:40:28+00:00",
    "title": "Senior OR Staff Product Designer",
    "org": "Elation Health",
    "location": "Canada, USA"
   },
   "senior event specialist|jamf|usa": {
    "first_seen": "2026-11-27T19:56:36+00:00",
-   "last_seen": "2026-11-27T19:56:36+00:00",
+   "last_seen": "2026-11-28T02:40:28+00:00",
    "title": "Senior Event Specialist",
    "org": "Jamf",
    "location": "USA"
   },
   "account executive - operators|maintainx|usa": {
    "first_seen": "2026-11-27T19:56:36+00:00",
-   "last_seen": "2026-11-27T19:56:36+00:00",
+   "last_seen": "2026-11-28T02:40:28+00:00",
    "title": "Account Executive - Operators",
    "org": "MaintainX",
    "location": "USA"
   },
   "senior manager, commercial learning and development|elation health|usa": {
    "first_seen": "2026-11-27T19:56:36+00:00",
-   "last_seen": "2026-11-27T19:56:36+00:00",
+   "last_seen": "2026-11-28T02:40:28+00:00",
    "title": "Senior Manager, Commercial Learning and Development",
    "org": "Elation Health",
    "location": "USA"
   },
   "senior enterprise new logo account executive | federal government|jamf|usa": {
    "first_seen": "2026-11-27T19:56:36+00:00",
-   "last_seen": "2026-11-27T19:56:36+00:00",
+   "last_seen": "2026-11-28T02:40:28+00:00",
    "title": "Senior Enterprise New Logo Account Executive | Federal Government",
    "org": "Jamf",
    "location": "USA"
   },
   "senior analytics engineer, finance|airalo|spain, uk": {
    "first_seen": "2026-11-27T19:56:36+00:00",
-   "last_seen": "2026-11-27T19:56:36+00:00",
+   "last_seen": "2026-11-28T02:40:28+00:00",
    "title": "Senior Analytics Engineer, Finance",
    "org": "Airalo",
    "location": "Spain, UK"
   },
   "tax manager|kaseya|usa": {
    "first_seen": "2026-11-27T19:56:36+00:00",
-   "last_seen": "2026-11-27T19:56:36+00:00",
+   "last_seen": "2026-11-28T02:40:28+00:00",
    "title": "Tax Manager",
    "org": "Kaseya",
    "location": "USA"
   },
   "sales engineer - billing|elation health|usa": {
    "first_seen": "2026-11-27T19:56:36+00:00",
-   "last_seen": "2026-11-27T19:56:36+00:00",
+   "last_seen": "2026-11-28T02:40:28+00:00",
    "title": "Sales Engineer - Billing",
    "org": "Elation Health",
    "location": "USA"
   },
   "sales engineer ii | edu|jamf|usa": {
    "first_seen": "2026-11-27T19:56:36+00:00",
-   "last_seen": "2026-11-27T19:56:36+00:00",
+   "last_seen": "2026-11-28T02:40:28+00:00",
    "title": "Sales Engineer II | EDU",
    "org": "Jamf",
    "location": "USA"
   },
   "senior accountant|dandy|usa": {
    "first_seen": "2026-11-27T19:56:36+00:00",
-   "last_seen": "2026-11-27T19:56:36+00:00",
+   "last_seen": "2026-11-28T02:40:28+00:00",
    "title": "Senior Accountant",
    "org": "Dandy",
    "location": "USA"
   },
   "demand generation manager, auto|upgrade|usa": {
    "first_seen": "2026-11-27T19:56:36+00:00",
-   "last_seen": "2026-11-27T19:56:36+00:00",
+   "last_seen": "2026-11-28T02:40:28+00:00",
    "title": "Demand Generation Manager, Auto",
    "org": "Upgrade",
    "location": "USA"
   },
   "staff software engineer|kaseya|canada": {
    "first_seen": "2026-11-27T19:56:36+00:00",
-   "last_seen": "2026-11-27T19:56:36+00:00",
+   "last_seen": "2026-11-28T02:40:28+00:00",
    "title": "Staff Software Engineer",
    "org": "Kaseya",
    "location": "Canada"
   },
   "recruiter|elation health|usa": {
    "first_seen": "2026-11-27T19:56:36+00:00",
-   "last_seen": "2026-11-27T19:56:36+00:00",
+   "last_seen": "2026-11-28T02:40:28+00:00",
    "title": "Recruiter",
    "org": "Elation Health",
    "location": "USA"
   },
   "payroll tax analyst|jamf|usa": {
    "first_seen": "2026-11-27T19:56:36+00:00",
-   "last_seen": "2026-11-27T19:56:36+00:00",
+   "last_seen": "2026-11-28T02:40:28+00:00",
    "title": "Payroll Tax Analyst",
    "org": "Jamf",
    "location": "USA"
@@ -9836,6 +9841,76 @@
    "last_seen": "2026-11-27T19:56:36+00:00",
    "title": "Dealer Development Manager (Las Vegas, NV)",
    "org": "Upgrade",
+   "location": "USA"
+  },
+  "licensed independent mental health practitioner|betterhelp|usa": {
+   "first_seen": "2026-11-28T02:40:28+00:00",
+   "last_seen": "2026-11-28T02:40:28+00:00",
+   "title": "Licensed Independent Mental Health Practitioner",
+   "org": "BetterHelp",
+   "location": "USA"
+  },
+  "air account executive|axon|usa": {
+   "first_seen": "2026-11-28T02:40:28+00:00",
+   "last_seen": "2026-11-28T02:40:28+00:00",
+   "title": "Air Account Executive",
+   "org": "Axon",
+   "location": "USA"
+  },
+  "lead/principal product manager, tax agents|fieldguide|usa": {
+   "first_seen": "2026-11-28T02:40:28+00:00",
+   "last_seen": "2026-11-28T02:40:28+00:00",
+   "title": "Lead/Principal Product Manager, Tax Agents",
+   "org": "Fieldguide",
+   "location": "USA"
+  },
+  "account manager, majors|axon|usa": {
+   "first_seen": "2026-11-28T02:40:28+00:00",
+   "last_seen": "2026-11-28T02:40:28+00:00",
+   "title": "Account Manager, Majors",
+   "org": "Axon",
+   "location": "USA"
+  },
+  "sox ai specialist (contractor)|fieldguide|usa": {
+   "first_seen": "2026-11-28T02:40:28+00:00",
+   "last_seen": "2026-11-28T02:40:28+00:00",
+   "title": "SOX AI Specialist (Contractor)",
+   "org": "Fieldguide",
+   "location": "USA"
+  },
+  "licensed clinical social worker (lcsw)|betterhelp|usa": {
+   "first_seen": "2026-11-28T02:40:28+00:00",
+   "last_seen": "2026-11-28T02:40:28+00:00",
+   "title": "Licensed Clinical Social Worker (LCSW)",
+   "org": "BetterHelp",
+   "location": "USA"
+  },
+  "senior or staff infrastructure engineer|fieldguide|usa": {
+   "first_seen": "2026-11-28T02:40:28+00:00",
+   "last_seen": "2026-11-28T02:40:28+00:00",
+   "title": "Senior or Staff Infrastructure Engineer",
+   "org": "Fieldguide",
+   "location": "USA"
+  },
+  "senior technical documentation specialist \u2013 data center operations|cologix, inc.|usa": {
+   "first_seen": "2026-11-28T02:40:28+00:00",
+   "last_seen": "2026-11-28T02:40:28+00:00",
+   "title": "Senior Technical Documentation Specialist \u2013 Data Center Operations",
+   "org": "Cologix, Inc.",
+   "location": "USA"
+  },
+  "software engineer|quest analytics|usa": {
+   "first_seen": "2026-11-28T02:40:28+00:00",
+   "last_seen": "2026-11-28T02:40:28+00:00",
+   "title": "Software Engineer",
+   "org": "Quest Analytics",
+   "location": "USA"
+  },
+  "licensed clinical professional counselor|betterhelp|usa": {
+   "first_seen": "2026-11-28T02:40:28+00:00",
+   "last_seen": "2026-11-28T02:40:28+00:00",
+   "title": "Licensed Clinical Professional Counselor",
+   "org": "BetterHelp",
    "location": "USA"
   }
  }
