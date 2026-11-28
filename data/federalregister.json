@@ -3,106 +3,106 @@
  "name": "Federal Register \u2014 newest federal documents",
  "category": "government",
  "source": "https://www.federalregister.gov",
- "collected_at": "2026-11-28T02:40:33+00:00",
+ "collected_at": "2026-11-28T11:44:00+00:00",
  "jobs_on_board": 100,
- "new_this_run": 0,
- "total_tracked": 709,
+ "new_this_run": 75,
+ "total_tracked": 784,
  "jobs": [
   {
-   "title": "Expeditious Enforcement of Capital Sentences and the Pursuit of Justice for Victims of Heinous Crimes",
-   "org": "Executive Office of the President",
+   "title": "Truth in Lending (Regulation Z)",
+   "org": "Federal Reserve System, Consumer Financial Protection Bureau",
    "location": null,
-   "detail": "Presidential Document \u00b7 published 2026-11-27",
-   "url": "https://www.federalregister.gov/documents/2026/11/27/2026-24236/expeditious-enforcement-of-capital-sentences-and-the-pursuit-of-justice-for-victims-of-heinous",
+   "detail": "Rule \u00b7 published 2026-11-30",
+   "url": "https://www.federalregister.gov/documents/2026/11/30/2026-24346/truth-in-lending-regulation-z",
+   "new_this_run": true
+  },
+  {
+   "title": "Consumer Leasing (Regulation M)",
+   "org": "Federal Reserve System, Consumer Financial Protection Bureau",
+   "location": null,
+   "detail": "Rule \u00b7 published 2026-11-30",
+   "url": "https://www.federalregister.gov/documents/2026/11/30/2026-24345/consumer-leasing-regulation-m",
+   "new_this_run": true
+  },
+  {
+   "title": "Appraisals for Higher-Priced Mortgage Loans Exemption Threshold",
+   "org": "Treasury Department, Comptroller of the Currency",
+   "location": null,
+   "detail": "Rule \u00b7 published 2026-11-30",
+   "url": "https://www.federalregister.gov/documents/2026/11/30/2026-24344/appraisals-for-higher-priced-mortgage-loans-exemption-threshold",
+   "new_this_run": true
+  },
+  {
+   "title": "Notice of Inventory Completion: University of Cincinnati, Cincinnati, OH",
+   "org": "Interior Department, National Park Service",
+   "location": null,
+   "detail": "Notice \u00b7 published 2026-11-30",
+   "url": "https://www.federalregister.gov/documents/2026/11/30/2026-24323/notice-of-inventory-completion-university-of-cincinnati-cincinnati-oh",
+   "new_this_run": true
+  },
+  {
+   "title": "Notice of Inventory Completion: University of Cincinnati, Cincinnati, OH",
+   "org": "Interior Department, National Park Service",
+   "location": null,
+   "detail": "Notice \u00b7 published 2026-11-30",
+   "url": "https://www.federalregister.gov/documents/2026/11/30/2026-24322/notice-of-inventory-completion-university-of-cincinnati-cincinnati-oh",
    "new_this_run": false
   },
   {
-   "title": "Sunshine Act Meetings",
-   "org": "Securities and Exchange Commission",
+   "title": "Notice of Intended Repatriation: University of California, Berkeley, Berkeley, CA",
+   "org": "Interior Department, National Park Service",
    "location": null,
-   "detail": "Notice \u00b7 published 2026-11-27",
-   "url": "https://www.federalregister.gov/documents/2026/11/27/2026-24202/sunshine-act-meetings",
+   "detail": "Notice \u00b7 published 2026-11-30",
+   "url": "https://www.federalregister.gov/documents/2026/11/30/2026-24321/notice-of-intended-repatriation-university-of-california-berkeley-berkeley-ca",
+   "new_this_run": true
+  },
+  {
+   "title": "Notice of Intended Repatriation: Fowler Museum at University of California Los Angeles, Los Angeles, CA",
+   "org": "Interior Department, National Park Service",
+   "location": null,
+   "detail": "Notice \u00b7 published 2026-11-30",
+   "url": "https://www.federalregister.gov/documents/2026/11/30/2026-24320/notice-of-intended-repatriation-fowler-museum-at-university-of-california-los-angeles-los-angeles-ca",
+   "new_this_run": true
+  },
+  {
+   "title": "Notice of Inventory Completion: University of Pennsylvania Museum of Archaeology and Anthropology, Philadelphia, PA",
+   "org": "Interior Department, National Park Service",
+   "location": null,
+   "detail": "Notice \u00b7 published 2026-11-30",
+   "url": "https://www.federalregister.gov/documents/2026/11/30/2026-24319/notice-of-inventory-completion-university-of-pennsylvania-museum-of-archaeology-and-anthropology",
+   "new_this_run": true
+  },
+  {
+   "title": "Notice of Inventory Completion: University of Pennsylvania Museum of Archaeology and Anthropology, Philadelphia, PA",
+   "org": "Interior Department, National Park Service",
+   "location": null,
+   "detail": "Notice \u00b7 published 2026-11-30",
+   "url": "https://www.federalregister.gov/documents/2026/11/30/2026-24318/notice-of-inventory-completion-university-of-pennsylvania-museum-of-archaeology-and-anthropology",
    "new_this_run": false
   },
   {
-   "title": "Lake Providence Port Commission-Feeder Line Application-Line of Delta Southern Railroad Located in East Carroll and Madison Parishes, LA",
-   "org": "Surface Transportation Board",
+   "title": "Notice of Inventory Completion: U.S. Department of the Interior, Bureau of Reclamation, California-Great Basin Region, Sacramento, CA",
+   "org": "Interior Department, National Park Service",
    "location": null,
-   "detail": "Notice \u00b7 published 2026-11-27",
-   "url": "https://www.federalregister.gov/documents/2026/11/27/2026-24165/lake-providence-port-commission-feeder-line-application-line-of-delta-southern-railroad-located-in",
-   "new_this_run": false
+   "detail": "Notice \u00b7 published 2026-11-30",
+   "url": "https://www.federalregister.gov/documents/2026/11/30/2026-24317/notice-of-inventory-completion-us-department-of-the-interior-bureau-of-reclamation-california-great",
+   "new_this_run": true
   },
   {
-   "title": "Permits; Foreign Fishing",
-   "org": "Commerce Department, National Oceanic and Atmospheric Administration",
+   "title": "Notice of Intended Repatriation: Museum of the Grand Prairie, Mahomet, IL",
+   "org": "Interior Department, National Park Service",
    "location": null,
-   "detail": "Notice \u00b7 published 2026-11-27",
-   "url": "https://www.federalregister.gov/documents/2026/11/27/2026-24164/permits-foreign-fishing",
-   "new_this_run": false
+   "detail": "Notice \u00b7 published 2026-11-30",
+   "url": "https://www.federalregister.gov/documents/2026/11/30/2026-24316/notice-of-intended-repatriation-museum-of-the-grand-prairie-mahomet-il",
+   "new_this_run": true
   },
   {
-   "title": "Notice of Proposed Information Collection Requests: IMLS Grants to States Five-Year State Plan Guidelines for State Library Administrative Agencies for Fiscal Years 2028-2032",
-   "org": "National Foundation on the Arts and the Humanities, Institute of Museum and Library Services",
+   "title": "Notice of Intended Repatriation: Rochester Museum & Science Center, Rochester, NY",
+   "org": "Interior Department, National Park Service",
    "location": null,
-   "detail": "Notice \u00b7 published 2026-11-27",
-   "url": "https://www.federalregister.gov/documents/2026/11/27/2026-24163/notice-of-proposed-information-collection-requests-imls-grants-to-states-five-year-state-plan",
-   "new_this_run": false
-  },
-  {
-   "title": "Administrative Declaration of an Economic Injury Disaster for the State of Idaho",
-   "org": "Small Business Administration",
-   "location": null,
-   "detail": "Notice \u00b7 published 2026-11-27",
-   "url": "https://www.federalregister.gov/documents/2026/11/27/2026-24161/administrative-declaration-of-an-economic-injury-disaster-for-the-state-of-idaho",
-   "new_this_run": false
-  },
-  {
-   "title": "Enhanced-Use Lease (EUL) of Department of Veterans Affairs (VA) Real Property at the Clement J. Zablocki VA Medical Center, Milwaukee, Wisconsin",
-   "org": "Veterans Affairs Department",
-   "location": null,
-   "detail": "Notice \u00b7 published 2026-11-27",
-   "url": "https://www.federalregister.gov/documents/2026/11/27/2026-24160/enhanced-use-lease-eul-of-department-of-veterans-affairs-va-real-property-at-the-clement-j-zablocki",
-   "new_this_run": false
-  },
-  {
-   "title": "Agency Information Collection Activities; Proposed Collection; Comment Request; Extension",
-   "org": "Federal Trade Commission",
-   "location": null,
-   "detail": "Notice \u00b7 published 2026-11-27",
-   "url": "https://www.federalregister.gov/documents/2026/11/27/2026-24159/agency-information-collection-activities-proposed-collection-comment-request-extension",
-   "new_this_run": false
-  },
-  {
-   "title": "Information Collection: Suspicious Activity Reporting Using the Protective Web Server",
-   "org": "Nuclear Regulatory Commission",
-   "location": null,
-   "detail": "Notice \u00b7 published 2026-11-27",
-   "url": "https://www.federalregister.gov/documents/2026/11/27/2026-24158/information-collection-suspicious-activity-reporting-using-the-protective-web-server",
-   "new_this_run": false
-  },
-  {
-   "title": "Notice of Request for Extension of Currently Approved Information Collection",
-   "org": "Agriculture Department, Foreign Agricultural Service",
-   "location": null,
-   "detail": "Notice \u00b7 published 2026-11-27",
-   "url": "https://www.federalregister.gov/documents/2026/11/27/2026-24157/notice-of-request-for-extension-of-currently-approved-information-collection",
-   "new_this_run": false
-  },
-  {
-   "title": "Fisheries of the Exclusive Economic Zone Off Alaska; Bering Sea and Aleutian Islands Management Area; 2026 Cost Recovery Fee Notice for the Western Alaska Community Development Quota and Trawl Limited Access Privilege Programs",
-   "org": "Commerce Department, National Oceanic and Atmospheric Administration",
-   "location": null,
-   "detail": "Notice \u00b7 published 2026-11-27",
-   "url": "https://www.federalregister.gov/documents/2026/11/27/2026-24156/fisheries-of-the-exclusive-economic-zone-off-alaska-bering-sea-and-aleutian-islands-management-area",
-   "new_this_run": false
-  },
-  {
-   "title": "Polytetramethylene Ether Glycol (PTMEG) From China, South Korea, Taiwan, and Vietnam; Scheduling of the Final Phase of Antidumping Duty Investigations; Correction",
-   "org": "International Trade Commission",
-   "location": null,
-   "detail": "Notice \u00b7 published 2026-11-27",
-   "url": "https://www.federalregister.gov/documents/2026/11/27/2026-24155/polytetramethylene-ether-glycol-ptmeg-from-china-south-korea-taiwan-and-vietnam-scheduling-of-the",
-   "new_this_run": false
+   "detail": "Notice \u00b7 published 2026-11-30",
+   "url": "https://www.federalregister.gov/documents/2026/11/30/2026-24315/notice-of-intended-repatriation-rochester-museum-and-science-center-rochester-ny",
+   "new_this_run": true
   }
  ],
  "runs": [
@@ -320,6 +320,11 @@
    "at": "2026-11-28T02:40:33+00:00",
    "jobs": 100,
    "new": 0
+  },
+  {
+   "at": "2026-11-28T11:44:00+00:00",
+   "jobs": 100,
+   "new": 75
   }
  ],
  "jobs_seen": {
@@ -465,7 +470,7 @@
   },
   "combined notice of filings|energy department, federal energy regulatory commission|": {
    "first_seen": "2026-11-15T10:14:08+00:00",
-   "last_seen": "2026-11-28T02:40:33+00:00",
+   "last_seen": "2026-11-28T11:44:00+00:00",
    "title": "Combined Notice of Filings",
    "org": "Energy Department, Federal Energy Regulatory Commission",
    "location": null
@@ -479,7 +484,7 @@
   },
   "combined notice of filings #1|energy department, federal energy regulatory commission|": {
    "first_seen": "2026-11-15T10:14:08+00:00",
-   "last_seen": "2026-11-28T02:40:33+00:00",
+   "last_seen": "2026-11-28T11:44:00+00:00",
    "title": "Combined Notice of Filings #1",
    "org": "Energy Department, Federal Energy Regulatory Commission",
    "location": null
@@ -794,7 +799,7 @@
   },
   "sunshine act meetings|nuclear regulatory commission|": {
    "first_seen": "2026-11-15T10:14:08+00:00",
-   "last_seen": "2026-11-25T04:12:51+00:00",
+   "last_seen": "2026-11-28T11:44:00+00:00",
    "title": "Sunshine Act Meetings",
    "org": "Nuclear Regulatory Commission",
    "location": null
@@ -1123,7 +1128,7 @@
   },
   "information collection being reviewed by the federal communications commission|federal communications commission|": {
    "first_seen": "2026-11-17T13:26:15+00:00",
-   "last_seen": "2026-11-25T23:36:55+00:00",
+   "last_seen": "2026-11-28T11:44:00+00:00",
    "title": "Information Collection Being Reviewed by the Federal Communications Commission",
    "org": "Federal Communications Commission",
    "location": null
@@ -1235,7 +1240,7 @@
   },
   "notice of agreements filed|federal maritime commission|": {
    "first_seen": "2026-11-17T13:26:15+00:00",
-   "last_seen": "2026-11-18T04:20:24+00:00",
+   "last_seen": "2026-11-28T11:44:00+00:00",
    "title": "Notice of Agreements Filed",
    "org": "Federal Maritime Commission",
    "location": null
@@ -1410,7 +1415,7 @@
   },
   "self-regulatory organizations; the nasdaq stock market llc; notice of filing and immediate effectiveness of proposed rul|securities and exchange commission|": {
    "first_seen": "2026-11-17T13:26:15+00:00",
-   "last_seen": "2026-11-28T02:40:33+00:00",
+   "last_seen": "2026-11-28T11:44:00+00:00",
    "title": "Self-Regulatory Organizations; The Nasdaq Stock Market LLC; Notice of Filing and Immediate Effectiveness of Proposed Rule Change To Amend Rule General 8 Regarding Fees for Interfirm Cabinet Connectivity",
    "org": "Securities and Exchange Commission",
    "location": null
@@ -1424,7 +1429,7 @@
   },
   "self-regulatory organizations; 24x national exchange llc; notice of filing and immediate effectiveness of proposed rule |securities and exchange commission|": {
    "first_seen": "2026-11-17T13:26:15+00:00",
-   "last_seen": "2026-11-28T02:40:33+00:00",
+   "last_seen": "2026-11-28T11:44:00+00:00",
    "title": "Self-Regulatory Organizations; 24X National Exchange LLC; Notice of Filing and Immediate Effectiveness of Proposed Rule Change To Amend the Warrant Performance Incentive Program",
    "org": "Securities and Exchange Commission",
    "location": null
@@ -1438,7 +1443,7 @@
   },
   "self-regulatory organizations; new york stock exchange llc; notice of filing and immediate effectiveness of proposed rul|securities and exchange commission|": {
    "first_seen": "2026-11-17T13:26:15+00:00",
-   "last_seen": "2026-11-25T04:12:51+00:00",
+   "last_seen": "2026-11-28T11:44:00+00:00",
    "title": "Self-Regulatory Organizations; New York Stock Exchange LLC; Notice of Filing and Immediate Effectiveness of Proposed Rule Change To Amend its Price List",
    "org": "Securities and Exchange Commission",
    "location": null
@@ -1627,7 +1632,7 @@
   },
   "agency forms undergoing paperwork reduction act review|health and human services department, centers for disease control and prevention|": {
    "first_seen": "2026-11-17T13:26:15+00:00",
-   "last_seen": "2026-11-18T04:20:24+00:00",
+   "last_seen": "2026-11-28T11:44:00+00:00",
    "title": "Agency Forms Undergoing Paperwork Reduction Act Review",
    "org": "Health and Human Services Department, Centers for Disease Control and Prevention",
    "location": null
@@ -1914,7 +1919,7 @@
   },
   "information collection being submitted for review and approval to office of management and budget|federal communications commission|": {
    "first_seen": "2026-11-18T13:57:54+00:00",
-   "last_seen": "2026-11-19T03:27:15+00:00",
+   "last_seen": "2026-11-28T11:44:00+00:00",
    "title": "Information Collection Being Submitted for Review and Approval to Office of Management and Budget",
    "org": "Federal Communications Commission",
    "location": null
@@ -2173,7 +2178,7 @@
   },
   "self-regulatory organizations; nyse arca, inc.; notice of filing and immediate effectiveness of proposed rule change to |securities and exchange commission|": {
    "first_seen": "2026-11-18T13:57:54+00:00",
-   "last_seen": "2026-11-19T03:27:15+00:00",
+   "last_seen": "2026-11-28T11:44:00+00:00",
    "title": "Self-Regulatory Organizations; NYSE Arca, Inc.; Notice of Filing and Immediate Effectiveness of Proposed Rule Change To Amend Its Rules its Rules To Permit the Listing of Binary Options Overlying Key Performance Indicators",
    "org": "Securities and Exchange Commission",
    "location": null
@@ -2187,7 +2192,7 @@
   },
   "self-regulatory organizations; nyse american llc; notice of filing and immediate effectiveness of proposed change to ame|securities and exchange commission|": {
    "first_seen": "2026-11-18T13:57:54+00:00",
-   "last_seen": "2026-11-19T03:27:15+00:00",
+   "last_seen": "2026-11-28T11:44:00+00:00",
    "title": "Self-Regulatory Organizations; NYSE American LLC; Notice of Filing and Immediate Effectiveness of Proposed Change To Amend Its Rules To Permit the Listing of Binary Options Overlying Key Performance Indicators",
    "org": "Securities and Exchange Commission",
    "location": null
@@ -3006,7 +3011,7 @@
   },
   "submission for omb review; comment request|agriculture department|": {
    "first_seen": "2026-11-20T11:50:20+00:00",
-   "last_seen": "2026-11-28T02:40:33+00:00",
+   "last_seen": "2026-11-28T11:44:00+00:00",
    "title": "Submission for OMB Review; Comment Request",
    "org": "Agriculture Department",
    "location": null
@@ -3244,7 +3249,7 @@
   },
   "self-regulatory organizations; investors exchange llc; notice of filing and immediate effectiveness of proposed rule cha|securities and exchange commission|": {
    "first_seen": "2026-11-20T11:50:20+00:00",
-   "last_seen": "2026-11-21T02:13:56+00:00",
+   "last_seen": "2026-11-28T11:44:00+00:00",
    "title": "Self-Regulatory Organizations; Investors Exchange LLC; Notice of Filing and Immediate Effectiveness of Proposed Rule Change To Amend Rule 11.270 Clearly Erroneous Executions",
    "org": "Securities and Exchange Commission",
    "location": null
@@ -3363,7 +3368,7 @@
   },
   "notice of receipt of complaint; solicitation of comments relating to the public interest|international trade commission|": {
    "first_seen": "2026-11-21T09:54:51+00:00",
-   "last_seen": "2026-11-24T00:50:47+00:00",
+   "last_seen": "2026-11-28T11:44:00+00:00",
    "title": "Notice of Receipt of Complaint; Solicitation of Comments Relating to the Public Interest",
    "org": "International Trade Commission",
    "location": null
@@ -5284,6 +5289,531 @@
    "last_seen": "2026-11-28T02:40:33+00:00",
    "title": "Self-Regulatory Organizations; Financial Industry Regulatory Authority, Inc.; Order Approving a Proposed Rule Change To Amend FINRA Rule 4522 (Periodic Security Counts, Verifications and Comparisons) To Modify Position Statement and Reconci",
    "org": "Securities and Exchange Commission",
+   "location": null
+  },
+  "truth in lending (regulation z)|federal reserve system, consumer financial protection bureau|": {
+   "first_seen": "2026-11-28T11:44:00+00:00",
+   "last_seen": "2026-11-28T11:44:00+00:00",
+   "title": "Truth in Lending (Regulation Z)",
+   "org": "Federal Reserve System, Consumer Financial Protection Bureau",
+   "location": null
+  },
+  "consumer leasing (regulation m)|federal reserve system, consumer financial protection bureau|": {
+   "first_seen": "2026-11-28T11:44:00+00:00",
+   "last_seen": "2026-11-28T11:44:00+00:00",
+   "title": "Consumer Leasing (Regulation M)",
+   "org": "Federal Reserve System, Consumer Financial Protection Bureau",
+   "location": null
+  },
+  "appraisals for higher-priced mortgage loans exemption threshold|treasury department, comptroller of the currency|": {
+   "first_seen": "2026-11-28T11:44:00+00:00",
+   "last_seen": "2026-11-28T11:44:00+00:00",
+   "title": "Appraisals for Higher-Priced Mortgage Loans Exemption Threshold",
+   "org": "Treasury Department, Comptroller of the Currency",
+   "location": null
+  },
+  "notice of inventory completion: university of cincinnati, cincinnati, oh|interior department, national park service|": {
+   "first_seen": "2026-11-28T11:44:00+00:00",
+   "last_seen": "2026-11-28T11:44:00+00:00",
+   "title": "Notice of Inventory Completion: University of Cincinnati, Cincinnati, OH",
+   "org": "Interior Department, National Park Service",
+   "location": null
+  },
+  "notice of intended repatriation: university of california, berkeley, berkeley, ca|interior department, national park service|": {
+   "first_seen": "2026-11-28T11:44:00+00:00",
+   "last_seen": "2026-11-28T11:44:00+00:00",
+   "title": "Notice of Intended Repatriation: University of California, Berkeley, Berkeley, CA",
+   "org": "Interior Department, National Park Service",
+   "location": null
+  },
+  "notice of intended repatriation: fowler museum at university of california los angeles, los angeles, ca|interior department, national park service|": {
+   "first_seen": "2026-11-28T11:44:00+00:00",
+   "last_seen": "2026-11-28T11:44:00+00:00",
+   "title": "Notice of Intended Repatriation: Fowler Museum at University of California Los Angeles, Los Angeles, CA",
+   "org": "Interior Department, National Park Service",
+   "location": null
+  },
+  "notice of inventory completion: university of pennsylvania museum of archaeology and anthropology, philadelphia, pa|interior department, national park service|": {
+   "first_seen": "2026-11-28T11:44:00+00:00",
+   "last_seen": "2026-11-28T11:44:00+00:00",
+   "title": "Notice of Inventory Completion: University of Pennsylvania Museum of Archaeology and Anthropology, Philadelphia, PA",
+   "org": "Interior Department, National Park Service",
+   "location": null
+  },
+  "notice of inventory completion: u.s. department of the interior, bureau of reclamation, california-great basin region, s|interior department, national park service|": {
+   "first_seen": "2026-11-28T11:44:00+00:00",
+   "last_seen": "2026-11-28T11:44:00+00:00",
+   "title": "Notice of Inventory Completion: U.S. Department of the Interior, Bureau of Reclamation, California-Great Basin Region, Sacramento, CA",
+   "org": "Interior Department, National Park Service",
+   "location": null
+  },
+  "notice of intended repatriation: museum of the grand prairie, mahomet, il|interior department, national park service|": {
+   "first_seen": "2026-11-28T11:44:00+00:00",
+   "last_seen": "2026-11-28T11:44:00+00:00",
+   "title": "Notice of Intended Repatriation: Museum of the Grand Prairie, Mahomet, IL",
+   "org": "Interior Department, National Park Service",
+   "location": null
+  },
+  "notice of intended repatriation: rochester museum & science center, rochester, ny|interior department, national park service|": {
+   "first_seen": "2026-11-28T11:44:00+00:00",
+   "last_seen": "2026-11-28T11:44:00+00:00",
+   "title": "Notice of Intended Repatriation: Rochester Museum & Science Center, Rochester, NY",
+   "org": "Interior Department, National Park Service",
+   "location": null
+  },
+  "notice of intended repatriation: california state university, sacramento, sacramento, ca|interior department, national park service|": {
+   "first_seen": "2026-11-28T11:44:00+00:00",
+   "last_seen": "2026-11-28T11:44:00+00:00",
+   "title": "Notice of Intended Repatriation: California State University, Sacramento, Sacramento, CA",
+   "org": "Interior Department, National Park Service",
+   "location": null
+  },
+  "notice of inventory completion: texas archeological research laboratory, university of texas at austin, austin, tx, and |interior department, national park service|": {
+   "first_seen": "2026-11-28T11:44:00+00:00",
+   "last_seen": "2026-11-28T11:44:00+00:00",
+   "title": "Notice of Inventory Completion: Texas Archeological Research Laboratory, University of Texas at Austin, Austin, TX, and University of Texas at San Antonio Center for Archaeological Research, San Antonio, TX",
+   "org": "Interior Department, National Park Service",
+   "location": null
+  },
+  "notice of inventory completion: university of wisconsin-stevens point, madison, wi|interior department, national park service|": {
+   "first_seen": "2026-11-28T11:44:00+00:00",
+   "last_seen": "2026-11-28T11:44:00+00:00",
+   "title": "Notice of Inventory Completion: University of Wisconsin-Stevens Point, Madison, WI",
+   "org": "Interior Department, National Park Service",
+   "location": null
+  },
+  "notice of intended repatriation: california department of parks and recreation, sacramento, ca|interior department, national park service|": {
+   "first_seen": "2026-11-28T11:44:00+00:00",
+   "last_seen": "2026-11-28T11:44:00+00:00",
+   "title": "Notice of Intended Repatriation: California Department of Parks and Recreation, Sacramento, CA",
+   "org": "Interior Department, National Park Service",
+   "location": null
+  },
+  "notice of intended repatriation: peabody museum of archaeology and ethnology, harvard university, cambridge, ma|interior department, national park service|": {
+   "first_seen": "2026-11-28T11:44:00+00:00",
+   "last_seen": "2026-11-28T11:44:00+00:00",
+   "title": "Notice of Intended Repatriation: Peabody Museum of Archaeology and Ethnology, Harvard University, Cambridge, MA",
+   "org": "Interior Department, National Park Service",
+   "location": null
+  },
+  "notice of intended repatriation: santa barbara museum of natural history, santa barbara, ca|interior department, national park service|": {
+   "first_seen": "2026-11-28T11:44:00+00:00",
+   "last_seen": "2026-11-28T11:44:00+00:00",
+   "title": "Notice of Intended Repatriation: Santa Barbara Museum of Natural History, Santa Barbara, CA",
+   "org": "Interior Department, National Park Service",
+   "location": null
+  },
+  "notice of inventory completion: pennsylvania historical and museum commission, state museum of pennsylvania, harrisburg,|interior department, national park service|": {
+   "first_seen": "2026-11-28T11:44:00+00:00",
+   "last_seen": "2026-11-28T11:44:00+00:00",
+   "title": "Notice of Inventory Completion: Pennsylvania Historical and Museum Commission, State Museum of Pennsylvania, Harrisburg, PA",
+   "org": "Interior Department, National Park Service",
+   "location": null
+  },
+  "notice of inventory completion: university of michigan, ann arbor, mi|interior department, national park service|": {
+   "first_seen": "2026-11-28T11:44:00+00:00",
+   "last_seen": "2026-11-28T11:44:00+00:00",
+   "title": "Notice of Inventory Completion: University of Michigan, Ann Arbor, MI",
+   "org": "Interior Department, National Park Service",
+   "location": null
+  },
+  "notice of intended disposition: u.s. department of the interior, national park service, lake roosevelt national recreati|interior department, national park service|": {
+   "first_seen": "2026-11-28T11:44:00+00:00",
+   "last_seen": "2026-11-28T11:44:00+00:00",
+   "title": "Notice of Intended Disposition: U.S. Department of the Interior, National Park Service, Lake Roosevelt National Recreation Area, Coulee Dam, WA",
+   "org": "Interior Department, National Park Service",
+   "location": null
+  },
+  "endangered and threatened wildlife and plants; threatened species status for streaked horned lark with a section 4(d) ru|interior department, fish and wildlife service|": {
+   "first_seen": "2026-11-28T11:44:00+00:00",
+   "last_seen": "2026-11-28T11:44:00+00:00",
+   "title": "Endangered and Threatened Wildlife and Plants; Threatened Species Status for Streaked Horned Lark With a Section 4(d) Rule",
+   "org": "Interior Department, Fish and Wildlife Service",
+   "location": null
+  },
+  "self-regulatory organizations; fixed income clearing corporation; order approving a proposed rule change, as modified by|securities and exchange commission|": {
+   "first_seen": "2026-11-28T11:44:00+00:00",
+   "last_seen": "2026-11-28T11:44:00+00:00",
+   "title": "Self-Regulatory Organizations; Fixed Income Clearing Corporation; Order Approving a Proposed Rule Change, as Modified by Partial Amendment No. 1, To Modify the GSD Rules To Adopt a U.S. Treasury Clearing Trade Submission Requirement",
+   "org": "Securities and Exchange Commission",
+   "location": null
+  },
+  "self-regulatory organizations; memx llc; notice of filing and immediate effectiveness of a proposal to amend rule 14.1(b|securities and exchange commission|": {
+   "first_seen": "2026-11-28T11:44:00+00:00",
+   "last_seen": "2026-11-28T11:44:00+00:00",
+   "title": "Self-Regulatory Organizations; MEMX LLC; Notice of Filing and Immediate Effectiveness of a Proposal To Amend Rule 14.1(b)(1)(B)",
+   "org": "Securities and Exchange Commission",
+   "location": null
+  },
+  "self-regulatory organizations; nyse texas, inc.; notice of filing and immediate effectiveness of proposed rule change to|securities and exchange commission|": {
+   "first_seen": "2026-11-28T11:44:00+00:00",
+   "last_seen": "2026-11-28T11:44:00+00:00",
+   "title": "Self-Regulatory Organizations; NYSE Texas, Inc.; Notice of Filing and Immediate Effectiveness of Proposed Rule Change To Amend Rule 7.18 Trading Halts",
+   "org": "Securities and Exchange Commission",
+   "location": null
+  },
+  "endangered and threatened wildlife and plants; threatened species status with section 4(d) rule for the piebald madtom|interior department, fish and wildlife service|": {
+   "first_seen": "2026-11-28T11:44:00+00:00",
+   "last_seen": "2026-11-28T11:44:00+00:00",
+   "title": "Endangered and Threatened Wildlife and Plants; Threatened Species Status With Section 4(d) Rule for the Piebald Madtom",
+   "org": "Interior Department, Fish and Wildlife Service",
+   "location": null
+  },
+  "notice of inventory completion: san diego state university, san diego, ca|interior department, national park service|": {
+   "first_seen": "2026-11-28T11:44:00+00:00",
+   "last_seen": "2026-11-28T11:44:00+00:00",
+   "title": "Notice of Inventory Completion: San Diego State University, San Diego, CA",
+   "org": "Interior Department, National Park Service",
+   "location": null
+  },
+  "notice of intended repatriation: san joaquin county, stockton, ca|interior department, national park service|": {
+   "first_seen": "2026-11-28T11:44:00+00:00",
+   "last_seen": "2026-11-28T11:44:00+00:00",
+   "title": "Notice of Intended Repatriation: San Joaquin County, Stockton, CA",
+   "org": "Interior Department, National Park Service",
+   "location": null
+  },
+  "st. paul & pacific railroad company, llc-discontinuance of service exemption-in santa cruz county, cal.|surface transportation board|": {
+   "first_seen": "2026-11-28T11:44:00+00:00",
+   "last_seen": "2026-11-28T11:44:00+00:00",
+   "title": "St. Paul & Pacific Railroad Company, LLC-Discontinuance of Service Exemption-in Santa Cruz County, Cal.",
+   "org": "Surface Transportation Board",
+   "location": null
+  },
+  "mandatory survey of u.s. ownership of foreign securities as of december 31, 2026|treasury department|": {
+   "first_seen": "2026-11-28T11:44:00+00:00",
+   "last_seen": "2026-11-28T11:44:00+00:00",
+   "title": "Mandatory Survey of U.S. Ownership of Foreign Securities as of December 31, 2026",
+   "org": "Treasury Department",
+   "location": null
+  },
+  "etf series solutions and aptus capital advisors llc|securities and exchange commission|": {
+   "first_seen": "2026-11-28T11:44:00+00:00",
+   "last_seen": "2026-11-28T11:44:00+00:00",
+   "title": "ETF Series Solutions and APTUS Capital Advisors LLC",
+   "org": "Securities and Exchange Commission",
+   "location": null
+  },
+  "agency information collection activities; 30 cfr 764-state processes for designating areas unsuitable for surface coal m|interior department, surface mining reclamation and enforcement office|": {
+   "first_seen": "2026-11-28T11:44:00+00:00",
+   "last_seen": "2026-11-28T11:44:00+00:00",
+   "title": "Agency Information Collection Activities; 30 CFR 764-State Processes for Designating Areas Unsuitable for Surface Coal Mining Operations",
+   "org": "Interior Department, Surface Mining Reclamation and Enforcement Office",
+   "location": null
+  },
+  "proposed withdrawal extension and opportunity for public meeting for the sugarloaf petroglyphs and pine spring archeolog|interior department, land management bureau|": {
+   "first_seen": "2026-11-28T11:44:00+00:00",
+   "last_seen": "2026-11-28T11:44:00+00:00",
+   "title": "Proposed Withdrawal Extension and Opportunity for Public Meeting for the Sugarloaf Petroglyphs and Pine Spring Archeological Sites, Wyoming",
+   "org": "Interior Department, Land Management Bureau",
+   "location": null
+  },
+  "application for final commitment for a long-term loan or financial guarantee in excess of $100 million: ap089509xx|export-import bank|": {
+   "first_seen": "2026-11-28T11:44:00+00:00",
+   "last_seen": "2026-11-28T11:44:00+00:00",
+   "title": "Application for Final Commitment for a Long-Term Loan or Financial Guarantee in Excess of $100 Million: AP089509XX",
+   "org": "Export-Import Bank",
+   "location": null
+  },
+  "shopping carts and parts thereof from china; revised schedule for the subject investigations|international trade commission|": {
+   "first_seen": "2026-11-28T11:44:00+00:00",
+   "last_seen": "2026-11-28T11:44:00+00:00",
+   "title": "Shopping Carts and Parts Thereof From China; Revised Schedule for the Subject Investigations",
+   "org": "International Trade Commission",
+   "location": null
+  },
+  "application for renewal of authorization to export electric energy; trafigura trading llc|energy department|": {
+   "first_seen": "2026-11-28T11:44:00+00:00",
+   "last_seen": "2026-11-28T11:44:00+00:00",
+   "title": "Application for Renewal of Authorization To Export Electric Energy; Trafigura Trading LLC",
+   "org": "Energy Department",
+   "location": null
+  },
+  "application for renewal of authorization to export electric energy; socivolta, inc.|energy department|": {
+   "first_seen": "2026-11-28T11:44:00+00:00",
+   "last_seen": "2026-11-28T11:44:00+00:00",
+   "title": "Application for Renewal of Authorization To Export Electric Energy; SociVolta, Inc.",
+   "org": "Energy Department",
+   "location": null
+  },
+  "application to amend authorization to export electric energy; hill county electric cooperative, incorporated|energy department|": {
+   "first_seen": "2026-11-28T11:44:00+00:00",
+   "last_seen": "2026-11-28T11:44:00+00:00",
+   "title": "Application To Amend Authorization To Export Electric Energy; Hill County Electric Cooperative, Incorporated",
+   "org": "Energy Department",
+   "location": null
+  },
+  "agency information collection activities; submission for omb review; comment request; uses of award report form|treasury department|": {
+   "first_seen": "2026-11-28T11:44:00+00:00",
+   "last_seen": "2026-11-28T11:44:00+00:00",
+   "title": "Agency Information Collection Activities; Submission for OMB Review; Comment Request; Uses of Award Report Form",
+   "org": "Treasury Department",
+   "location": null
+  },
+  "reportable events and certain other notification requirements|pension benefit guaranty corporation|": {
+   "first_seen": "2026-11-28T11:44:00+00:00",
+   "last_seen": "2026-11-28T11:44:00+00:00",
+   "title": "Reportable Events and Certain Other Notification Requirements",
+   "org": "Pension Benefit Guaranty Corporation",
+   "location": null
+  },
+  "international competitive services product and price changes|postal service|": {
+   "first_seen": "2026-11-28T11:44:00+00:00",
+   "last_seen": "2026-11-28T11:44:00+00:00",
+   "title": "International Competitive Services Product and Price Changes",
+   "org": "Postal Service",
+   "location": null
+  },
+  "airworthiness directives; grob aircraft ag gliders|transportation department, federal aviation administration|": {
+   "first_seen": "2026-11-28T11:44:00+00:00",
+   "last_seen": "2026-11-28T11:44:00+00:00",
+   "title": "Airworthiness Directives; GROB Aircraft AG Gliders",
+   "org": "Transportation Department, Federal Aviation Administration",
+   "location": null
+  },
+  "agency information collection activities; smcra grants to states and tribes|interior department, surface mining reclamation and enforcement office|": {
+   "first_seen": "2026-11-28T11:44:00+00:00",
+   "last_seen": "2026-11-28T11:44:00+00:00",
+   "title": "Agency Information Collection Activities; SMCRA Grants to States and Tribes",
+   "org": "Interior Department, Surface Mining Reclamation and Enforcement Office",
+   "location": null
+  },
+  "agency information collection activities; submission for omb review; comment request; fraud.gov tip intake and referral |treasury department|": {
+   "first_seen": "2026-11-28T11:44:00+00:00",
+   "last_seen": "2026-11-28T11:44:00+00:00",
+   "title": "Agency Information Collection Activities; Submission for OMB Review; Comment Request; Fraud.gov Tip Intake and Referral Form",
+   "org": "Treasury Department",
+   "location": null
+  },
+  "agency information collection activities; 30 cfr part 705-restriction on financial interests of state employees|interior department, surface mining reclamation and enforcement office|": {
+   "first_seen": "2026-11-28T11:44:00+00:00",
+   "last_seen": "2026-11-28T11:44:00+00:00",
+   "title": "Agency Information Collection Activities; 30 CFR Part 705-Restriction on Financial Interests of State Employees",
+   "org": "Interior Department, Surface Mining Reclamation and Enforcement Office",
+   "location": null
+  },
+  "30-day notice of proposed information collection: generic information collection for post-award reporting for hud's disc|housing and urban development department|": {
+   "first_seen": "2026-11-28T11:44:00+00:00",
+   "last_seen": "2026-11-28T11:44:00+00:00",
+   "title": "30-Day Notice of Proposed Information Collection: Generic Information Collection for Post-Award Reporting for HUD's Discretionary Programs",
+   "org": "Housing and Urban Development Department",
+   "location": null
+  },
+  "magnuson-stevens act provisions; fisheries off west coast states; pacific coast groundfish fishery; pacific coast ground|commerce department, national oceanic and atmospheric administration|": {
+   "first_seen": "2026-11-28T11:44:00+00:00",
+   "last_seen": "2026-11-28T11:44:00+00:00",
+   "title": "Magnuson-Stevens Act Provisions; Fisheries Off West Coast States; Pacific Coast Groundfish Fishery; Pacific Coast Groundfish Fishery Management Plan; Amendment 38; 2027-28 Biennial Specifications and Management Measures",
+   "org": "Commerce Department, National Oceanic and Atmospheric Administration",
+   "location": null
+  },
+  "fisheries of the exclusive economic zone off alaska; gulf of alaska; 2027 and 2028 harvest specifications for groundfish|commerce department, national oceanic and atmospheric administration|": {
+   "first_seen": "2026-11-28T11:44:00+00:00",
+   "last_seen": "2026-11-28T11:44:00+00:00",
+   "title": "Fisheries of the Exclusive Economic Zone Off Alaska; Gulf of Alaska; 2027 and 2028 Harvest Specifications for Groundfish",
+   "org": "Commerce Department, National Oceanic and Atmospheric Administration",
+   "location": null
+  },
+  "supplemental nutrition assistance program: state of nebraska snap demonstration project|agriculture department, food and nutrition administration|": {
+   "first_seen": "2026-11-28T11:44:00+00:00",
+   "last_seen": "2026-11-28T11:44:00+00:00",
+   "title": "Supplemental Nutrition Assistance Program: State of Nebraska SNAP Demonstration Project",
+   "org": "Agriculture Department, Food and Nutrition Administration",
+   "location": null
+  },
+  "supplemental nutrition assistance program: state of west virginia snap demonstration project|agriculture department, food and nutrition administration|": {
+   "first_seen": "2026-11-28T11:44:00+00:00",
+   "last_seen": "2026-11-28T11:44:00+00:00",
+   "title": "Supplemental Nutrition Assistance Program: State of West Virginia SNAP Demonstration Project",
+   "org": "Agriculture Department, Food and Nutrition Administration",
+   "location": null
+  },
+  "supplemental nutrition assistance program: state of arkansas snap demonstration project|agriculture department, food and nutrition administration|": {
+   "first_seen": "2026-11-28T11:44:00+00:00",
+   "last_seen": "2026-11-28T11:44:00+00:00",
+   "title": "Supplemental Nutrition Assistance Program: State of Arkansas SNAP Demonstration Project",
+   "org": "Agriculture Department, Food and Nutrition Administration",
+   "location": null
+  },
+  "supplemental nutrition assistance program: state of iowa snap demonstration project|agriculture department, food and nutrition administration|": {
+   "first_seen": "2026-11-28T11:44:00+00:00",
+   "last_seen": "2026-11-28T11:44:00+00:00",
+   "title": "Supplemental Nutrition Assistance Program: State of Iowa SNAP Demonstration Project",
+   "org": "Agriculture Department, Food and Nutrition Administration",
+   "location": null
+  },
+  "supplemental nutrition assistance program: state of tennessee snap demonstration project|agriculture department, food and nutrition administration|": {
+   "first_seen": "2026-11-28T11:44:00+00:00",
+   "last_seen": "2026-11-28T11:44:00+00:00",
+   "title": "Supplemental Nutrition Assistance Program: State of Tennessee SNAP Demonstration Project",
+   "org": "Agriculture Department, Food and Nutrition Administration",
+   "location": null
+  },
+  "large-bank deposit insurance determination modernization; extension of comment period|federal deposit insurance corporation|": {
+   "first_seen": "2026-11-28T11:44:00+00:00",
+   "last_seen": "2026-11-28T11:44:00+00:00",
+   "title": "Large-Bank Deposit Insurance Determination Modernization; Extension of Comment Period",
+   "org": "Federal Deposit Insurance Corporation",
+   "location": null
+  },
+  "information collection being reviewed by the federal communications commission under delegated authority|federal communications commission|": {
+   "first_seen": "2026-11-28T11:44:00+00:00",
+   "last_seen": "2026-11-28T11:44:00+00:00",
+   "title": "Information Collection Being Reviewed by the Federal Communications Commission Under Delegated Authority",
+   "org": "Federal Communications Commission",
+   "location": null
+  },
+  "further reducing bureaucracy and burden in part 1370|health and human services department, children and families administration|": {
+   "first_seen": "2026-11-28T11:44:00+00:00",
+   "last_seen": "2026-11-28T11:44:00+00:00",
+   "title": "Further Reducing Bureaucracy and Burden in Part 1370",
+   "org": "Health and Human Services Department, Children and Families Administration",
+   "location": null
+  },
+  "agency information collection activities; earth explorer user registration service|interior department, geological survey|": {
+   "first_seen": "2026-11-28T11:44:00+00:00",
+   "last_seen": "2026-11-28T11:44:00+00:00",
+   "title": "Agency Information Collection Activities; Earth Explorer User Registration Service",
+   "org": "Interior Department, Geological Survey",
+   "location": null
+  },
+  "antidumping or countervailing duty order, finding, or suspended investigation; opportunity to request administrative rev|commerce department, international trade administration|": {
+   "first_seen": "2026-11-28T11:44:00+00:00",
+   "last_seen": "2026-11-28T11:44:00+00:00",
+   "title": "Antidumping or Countervailing Duty Order, Finding, or Suspended Investigation; Opportunity To Request Administrative Review and Join Annual Inquiry Service List; Note Regarding Format of Review Requests",
+   "org": "Commerce Department, International Trade Administration",
+   "location": null
+  },
+  "constellation energy generation, llc; nine mile point nuclear station unit 1; environmental assessment and finding of no|nuclear regulatory commission|": {
+   "first_seen": "2026-11-28T11:44:00+00:00",
+   "last_seen": "2026-11-28T11:44:00+00:00",
+   "title": "Constellation Energy Generation, LLC; Nine Mile Point Nuclear Station Unit 1; Environmental Assessment and Finding of No Significant Impact",
+   "org": "Nuclear Regulatory Commission",
+   "location": null
+  },
+  "request for comments concerning proposed modification of section 301 action on brazil's acts, policies, and practices re|trade representative, office of united states|": {
+   "first_seen": "2026-11-28T11:44:00+00:00",
+   "last_seen": "2026-11-28T11:44:00+00:00",
+   "title": "Request for Comments Concerning Proposed Modification of Section 301 Action on Brazil's Acts, Policies, and Practices Related to Digital Trade and Electronic Payment Services; Unfair, Preferential Tariffs; Anti-Corruption Enforcement; Intel",
+   "org": "Trade Representative, Office of United States",
+   "location": null
+  },
+  "repowered hydro llc; notice of application tendered for filing with the commission and soliciting additional study reque|energy department, federal energy regulatory commission|": {
+   "first_seen": "2026-11-28T11:44:00+00:00",
+   "last_seen": "2026-11-28T11:44:00+00:00",
+   "title": "Repowered Hydro LLC; Notice of Application Tendered for Filing With the Commission and Soliciting Additional Study Requests",
+   "org": "Energy Department, Federal Energy Regulatory Commission",
+   "location": null
+  },
+  "boralex hydro operations, inc.; notice of application ready for environmental analysis and soliciting comments, recommen|energy department, federal energy regulatory commission|": {
+   "first_seen": "2026-11-28T11:44:00+00:00",
+   "last_seen": "2026-11-28T11:44:00+00:00",
+   "title": "Boralex Hydro Operations, Inc.; Notice of Application Ready for Environmental Analysis and Soliciting Comments, Recommendations, Terms and Conditions, and Prescriptions",
+   "org": "Energy Department, Federal Energy Regulatory Commission",
+   "location": null
+  },
+  "the safer affordable fuel-efficient (safe) vehicles rule iii for model years 2022 to 2031 passenger cars and light truck|transportation department, national highway traffic safety administration|": {
+   "first_seen": "2026-11-28T11:44:00+00:00",
+   "last_seen": "2026-11-28T11:44:00+00:00",
+   "title": "The Safer Affordable Fuel-Efficient (SAFE) Vehicles Rule III for Model Years 2022 to 2031 Passenger Cars and Light Trucks; Correction",
+   "org": "Transportation Department, National Highway Traffic Safety Administration",
+   "location": null
+  },
+  "greenwood county, south carolina; notice of intent to prepare an environmental assessment|energy department, federal energy regulatory commission|": {
+   "first_seen": "2026-11-28T11:44:00+00:00",
+   "last_seen": "2026-11-28T11:44:00+00:00",
+   "title": "Greenwood County, South Carolina; Notice of Intent To Prepare an Environmental Assessment",
+   "org": "Energy Department, Federal Energy Regulatory Commission",
+   "location": null
+  },
+  "notice to solicit nominations for membership on the national sea grant advisory board (nsgab)|commerce department, national oceanic and atmospheric administration|": {
+   "first_seen": "2026-11-28T11:44:00+00:00",
+   "last_seen": "2026-11-28T11:44:00+00:00",
+   "title": "Notice To Solicit Nominations for Membership on the National Sea Grant Advisory Board (NSGAB)",
+   "org": "Commerce Department, National Oceanic and Atmospheric Administration",
+   "location": null
+  },
+  "notice of availability: national interest electric transmission corridor report|energy department|": {
+   "first_seen": "2026-11-28T11:44:00+00:00",
+   "last_seen": "2026-11-28T11:44:00+00:00",
+   "title": "Notice of Availability: National Interest Electric Transmission Corridor Report",
+   "org": "Energy Department",
+   "location": null
+  },
+  "endangered and threatened wildlife and plants; threatened species status with a section 4(d) rule for blanding's turtle|interior department, fish and wildlife service|": {
+   "first_seen": "2026-11-28T11:44:00+00:00",
+   "last_seen": "2026-11-28T11:44:00+00:00",
+   "title": "Endangered and Threatened Wildlife and Plants; Threatened Species Status With a Section 4(d) Rule for Blanding's Turtle",
+   "org": "Interior Department, Fish and Wildlife Service",
+   "location": null
+  },
+  "endangered and threatened wildlife and plants; threatened species status with section 4(d) rule for the cascade and colu|interior department, fish and wildlife service|": {
+   "first_seen": "2026-11-28T11:44:00+00:00",
+   "last_seen": "2026-11-28T11:44:00+00:00",
+   "title": "Endangered and Threatened Wildlife and Plants; Threatened Species Status With Section 4(d) Rule for the Cascade and Columbia Torrent Salamanders",
+   "org": "Interior Department, Fish and Wildlife Service",
+   "location": null
+  },
+  "endangered and threatened wildlife and plants; threatened species status with section 4(d) rule for ferris's copper|interior department, fish and wildlife service|": {
+   "first_seen": "2026-11-28T11:44:00+00:00",
+   "last_seen": "2026-11-28T11:44:00+00:00",
+   "title": "Endangered and Threatened Wildlife and Plants; Threatened Species Status With Section 4(d) Rule for Ferris's Copper",
+   "org": "Interior Department, Fish and Wildlife Service",
+   "location": null
+  },
+  "endangered and threatened wildlife and plants; endangered species status for tharp's bluestar|interior department, fish and wildlife service|": {
+   "first_seen": "2026-11-28T11:44:00+00:00",
+   "last_seen": "2026-11-28T11:44:00+00:00",
+   "title": "Endangered and Threatened Wildlife and Plants; Endangered Species Status for Tharp's Bluestar",
+   "org": "Interior Department, Fish and Wildlife Service",
+   "location": null
+  },
+  "application for amendment to facility operating licenses involving proposed no significant hazards consideration determi|nuclear regulatory commission|": {
+   "first_seen": "2026-11-28T11:44:00+00:00",
+   "last_seen": "2026-11-28T11:44:00+00:00",
+   "title": "Application for Amendment to Facility Operating Licenses Involving Proposed No Significant Hazards Consideration Determination and Containing Sensitive Unclassified Non-Safeguards Information and Order Imposing Procedures for Access to Sens",
+   "org": "Nuclear Regulatory Commission",
+   "location": null
+  },
+  "standard instrument approach procedures, and takeoff minimums and obstacle departure procedures; miscellaneous amendment|transportation department, federal aviation administration|": {
+   "first_seen": "2026-11-28T11:44:00+00:00",
+   "last_seen": "2026-11-28T11:44:00+00:00",
+   "title": "Standard Instrument Approach Procedures, and Takeoff Minimums and Obstacle Departure Procedures; Miscellaneous Amendments",
+   "org": "Transportation Department, Federal Aviation Administration",
+   "location": null
+  },
+  "medical devices; radiology devices; classification of the post-ablation tissue response prediction software|health and human services department, food and drug administration|": {
+   "first_seen": "2026-11-28T11:44:00+00:00",
+   "last_seen": "2026-11-28T11:44:00+00:00",
+   "title": "Medical Devices; Radiology Devices; Classification of the Post-Ablation Tissue Response Prediction Software",
+   "org": "Health and Human Services Department, Food and Drug Administration",
+   "location": null
+  },
+  "medical devices; gastroenterology-urology devices; classification of the gastrointestinal capsule endoscopy analysis sof|health and human services department, food and drug administration|": {
+   "first_seen": "2026-11-28T11:44:00+00:00",
+   "last_seen": "2026-11-28T11:44:00+00:00",
+   "title": "Medical Devices; Gastroenterology-Urology Devices; Classification of the Gastrointestinal Capsule Endoscopy Analysis Software Device",
+   "org": "Health and Human Services Department, Food and Drug Administration",
+   "location": null
+  },
+  "evaluation of the pennsylvania coastal zone management program; notice of public meeting; request for comments|commerce department, national oceanic and atmospheric administration|": {
+   "first_seen": "2026-11-28T11:44:00+00:00",
+   "last_seen": "2026-11-28T11:44:00+00:00",
+   "title": "Evaluation of the Pennsylvania Coastal Zone Management Program; Notice of Public Meeting; Request for Comments",
+   "org": "Commerce Department, National Oceanic and Atmospheric Administration",
+   "location": null
+  },
+  "evaluation of the washington coastal zone management program; notice of public meeting; request for comments|commerce department, national oceanic and atmospheric administration|": {
+   "first_seen": "2026-11-28T11:44:00+00:00",
+   "last_seen": "2026-11-28T11:44:00+00:00",
+   "title": "Evaluation of the Washington Coastal Zone Management Program; Notice of Public Meeting; Request for Comments",
+   "org": "Commerce Department, National Oceanic and Atmospheric Administration",
+   "location": null
+  },
+  "evaluation of the hudson river national estuarine research reserve; notice of public meeting; request for comments|commerce department, national oceanic and atmospheric administration|": {
+   "first_seen": "2026-11-28T11:44:00+00:00",
+   "last_seen": "2026-11-28T11:44:00+00:00",
+   "title": "Evaluation of the Hudson River National Estuarine Research Reserve; Notice of Public Meeting; Request for Comments",
+   "org": "Commerce Department, National Oceanic and Atmospheric Administration",
    "location": null
   }
  }

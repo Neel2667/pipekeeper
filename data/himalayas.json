@@ -3,104 +3,104 @@
  "name": "Himalayas \u2014 remote jobs",
  "category": "jobs",
  "source": "https://himalayas.app/jobs/api",
- "collected_at": "2026-11-28T02:40:28+00:00",
+ "collected_at": "2026-11-28T11:43:56+00:00",
  "jobs_on_board": 20,
  "new_this_run": 20,
- "total_tracked": 815,
+ "total_tracked": 835,
  "jobs": [
   {
-   "title": "Closer / Account Executive (m/w/d) \u2013 B2B SaaS DigitalCheckIn",
-   "org": "DigitalCheckIn",
-   "location": "Germany",
-   "detail": "$60,000\u2013$150,000/a",
+   "title": "Named Account Manager",
+   "org": "Palo Alto Networks",
+   "location": "United States",
+   "detail": "$272,000\u2013$374,000/a",
    "url": null,
    "new_this_run": true
   },
   {
-   "title": "Senior Agent Engineer",
-   "org": "Clera",
+   "title": "Senior Alternate Delivery Geotechnical Engineer",
+   "org": "Terracon",
    "location": "United States",
    "detail": "Full Time",
    "url": null,
    "new_this_run": true
   },
   {
-   "title": "Counsel, Product",
-   "org": "YipitData",
-   "location": "United States",
+   "title": "(English C1) Technical Support Consultant, VPS & Trading",
+   "org": "SupportYourApp",
+   "location": "Cyprus",
+   "detail": "Contractor",
+   "url": null,
+   "new_this_run": true
+  },
+  {
+   "title": "Part-time Event & Communications Coordinator",
+   "org": "VirtuHire",
+   "location": "South Africa",
+   "detail": "Part Time",
+   "url": null,
+   "new_this_run": true
+  },
+  {
+   "title": "Hitss | Arquiteto de Solu\u00e7\u00f5es",
+   "org": "Hitss Brasil",
+   "location": "Brazil",
    "detail": "Full Time",
    "url": null,
    "new_this_run": true
   },
   {
-   "title": "Greenhouse ATS Specialist, Remote - Contract",
-   "org": "Xperteez Technology",
-   "location": "United States",
-   "detail": "$90\u2013$170/h",
+   "title": "Growth Key Account Manager - 100% Remote (m/f/d)",
+   "org": "Digistore",
+   "location": "Albania, Andorra, Austria, Belarus, Belgium, Bosnia and Herzegovina, Bulgaria, Croatia, Cyprus, Czechia, Denmark, Estonia, Faroe Islands, Finland, France, Germany, Gibraltar, Greece, Guernsey, Holy See (Vatican City State), Hungary, Iceland",
+   "detail": "$45,000\u2013$60,000/a",
    "url": null,
    "new_this_run": true
   },
   {
-   "title": "Change Management Specialist, Project Delivery",
-   "org": "Stantec",
+   "title": "Bilingual French Support Representative - Streaming Services",
+   "org": "Sutherland",
    "location": "Canada",
    "detail": "Full Time",
    "url": null,
    "new_this_run": true
   },
   {
-   "title": "Business Development & Chief of Staff",
-   "org": "The Global Talent Co.",
-   "location": "South Africa",
-   "detail": "Full Time",
-   "url": null,
-   "new_this_run": true
-  },
-  {
-   "title": "Account Quality Manager",
-   "org": "Acclaro",
-   "location": "Argentina",
-   "detail": "Full Time",
-   "url": null,
-   "new_this_run": true
-  },
-  {
-   "title": "Field Marketing Manager - Central Europe",
-   "org": "Danaher",
-   "location": "Austria, Germany, Switzerland",
-   "detail": "Full Time",
-   "url": null,
-   "new_this_run": true
-  },
-  {
-   "title": "Business Development Representative (m/w/d) REMOTE",
-   "org": "Heycare",
+   "title": "Senior Dynamics 365 Consultant (m/w/d)",
+   "org": "audius",
    "location": "Germany",
    "detail": "Full Time",
    "url": null,
    "new_this_run": true
   },
   {
-   "title": "Senior Product Manager",
-   "org": "Care Access",
-   "location": "United States",
-   "detail": "$120,000\u2013$160,000/a",
+   "title": "IT Support Associate - Buenos Aires",
+   "org": "Interlaced",
+   "location": "Argentina",
+   "detail": "$16,000\u2013$19,000/a",
    "url": null,
    "new_this_run": true
   },
   {
-   "title": "Senior Product Manager, Analytics",
-   "org": "Daikin Applied",
+   "title": "Turkish-English Interpreter",
+   "org": "Magi-K",
    "location": "United States",
-   "detail": "$113,800\u2013$193,900/a",
+   "detail": "Contractor",
    "url": null,
    "new_this_run": true
   },
   {
-   "title": "Senior Motion Designer",
-   "org": "Vibrant Emotional Health",
-   "location": "United States",
-   "detail": "$70\u2013$80/h",
+   "title": "DESARROLLADOR/A PHP SYMPHONY",
+   "org": "knowmad mood",
+   "location": "Spain",
+   "detail": "Full Time",
+   "url": null,
+   "new_this_run": true
+  },
+  {
+   "title": "Staff Engineer (remote work)",
+   "org": "TuxCare Inc.",
+   "location": "Spain",
+   "detail": "Full Time",
    "url": null,
    "new_this_run": true
   }
@@ -318,6 +318,11 @@
   },
   {
    "at": "2026-11-28T02:40:28+00:00",
+   "jobs": 20,
+   "new": 20
+  },
+  {
+   "at": "2026-11-28T11:43:56+00:00",
    "jobs": 20,
    "new": 20
   }
@@ -6027,6 +6032,146 @@
    "title": "ACTIV - Senior Creative Strategist",
    "org": "JobRack",
    "location": "Serbia"
+  },
+  "named account manager|palo alto networks|united states": {
+   "first_seen": "2026-11-28T11:43:56+00:00",
+   "last_seen": "2026-11-28T11:43:56+00:00",
+   "title": "Named Account Manager",
+   "org": "Palo Alto Networks",
+   "location": "United States"
+  },
+  "senior alternate delivery geotechnical engineer|terracon|united states": {
+   "first_seen": "2026-11-28T11:43:56+00:00",
+   "last_seen": "2026-11-28T11:43:56+00:00",
+   "title": "Senior Alternate Delivery Geotechnical Engineer",
+   "org": "Terracon",
+   "location": "United States"
+  },
+  "(english c1) technical support consultant, vps & trading|supportyourapp|cyprus": {
+   "first_seen": "2026-11-28T11:43:56+00:00",
+   "last_seen": "2026-11-28T11:43:56+00:00",
+   "title": "(English C1) Technical Support Consultant, VPS & Trading",
+   "org": "SupportYourApp",
+   "location": "Cyprus"
+  },
+  "part-time event & communications coordinator|virtuhire|south africa": {
+   "first_seen": "2026-11-28T11:43:56+00:00",
+   "last_seen": "2026-11-28T11:43:56+00:00",
+   "title": "Part-time Event & Communications Coordinator",
+   "org": "VirtuHire",
+   "location": "South Africa"
+  },
+  "hitss | arquiteto de solu\u00e7\u00f5es|hitss brasil|brazil": {
+   "first_seen": "2026-11-28T11:43:56+00:00",
+   "last_seen": "2026-11-28T11:43:56+00:00",
+   "title": "Hitss | Arquiteto de Solu\u00e7\u00f5es",
+   "org": "Hitss Brasil",
+   "location": "Brazil"
+  },
+  "growth key account manager - 100% remote (m/f/d)|digistore|albania, andorra, austria, belarus, belgium, bosnia and herzegovina, bulgaria, croatia, cyprus, czechia, denmark, estoni": {
+   "first_seen": "2026-11-28T11:43:56+00:00",
+   "last_seen": "2026-11-28T11:43:56+00:00",
+   "title": "Growth Key Account Manager - 100% Remote (m/f/d)",
+   "org": "Digistore",
+   "location": "Albania, Andorra, Austria, Belarus, Belgium, Bosnia and Herzegovina, Bulgaria, Croatia, Cyprus, Czechia, Denmark, Estonia, Faroe Islands, Finland, France, Germany, Gibraltar, Greece, Guernsey, Holy See (Vatican City State), Hungary, Iceland"
+  },
+  "bilingual french support representative - streaming services|sutherland|canada": {
+   "first_seen": "2026-11-28T11:43:56+00:00",
+   "last_seen": "2026-11-28T11:43:56+00:00",
+   "title": "Bilingual French Support Representative - Streaming Services",
+   "org": "Sutherland",
+   "location": "Canada"
+  },
+  "senior dynamics 365 consultant (m/w/d)|audius|germany": {
+   "first_seen": "2026-11-28T11:43:56+00:00",
+   "last_seen": "2026-11-28T11:43:56+00:00",
+   "title": "Senior Dynamics 365 Consultant (m/w/d)",
+   "org": "audius",
+   "location": "Germany"
+  },
+  "it support associate - buenos aires|interlaced|argentina": {
+   "first_seen": "2026-11-28T11:43:56+00:00",
+   "last_seen": "2026-11-28T11:43:56+00:00",
+   "title": "IT Support Associate - Buenos Aires",
+   "org": "Interlaced",
+   "location": "Argentina"
+  },
+  "turkish-english interpreter|magi-k|united states": {
+   "first_seen": "2026-11-28T11:43:56+00:00",
+   "last_seen": "2026-11-28T11:43:56+00:00",
+   "title": "Turkish-English Interpreter",
+   "org": "Magi-K",
+   "location": "United States"
+  },
+  "desarrollador/a php symphony|knowmad mood|spain": {
+   "first_seen": "2026-11-28T11:43:56+00:00",
+   "last_seen": "2026-11-28T11:43:56+00:00",
+   "title": "DESARROLLADOR/A PHP SYMPHONY",
+   "org": "knowmad mood",
+   "location": "Spain"
+  },
+  "staff engineer (remote work)|tuxcare inc.|spain": {
+   "first_seen": "2026-11-28T11:43:56+00:00",
+   "last_seen": "2026-11-28T11:43:56+00:00",
+   "title": "Staff Engineer (remote work)",
+   "org": "TuxCare Inc.",
+   "location": "Spain"
+  },
+  "teacher (m/w/d) data engineer|digital career institute|germany": {
+   "first_seen": "2026-11-28T11:43:56+00:00",
+   "last_seen": "2026-11-28T11:43:56+00:00",
+   "title": "Teacher (m/w/d) Data Engineer",
+   "org": "Digital Career Institute",
+   "location": "Germany"
+  },
+  "client services senior project manager|epiq|united kingdom": {
+   "first_seen": "2026-11-28T11:43:56+00:00",
+   "last_seen": "2026-11-28T11:43:56+00:00",
+   "title": "Client Services Senior Project Manager",
+   "org": "Epiq",
+   "location": "United Kingdom"
+  },
+  "study design lead|labcorp|united kingdom": {
+   "first_seen": "2026-11-28T11:43:56+00:00",
+   "last_seen": "2026-11-28T11:43:56+00:00",
+   "title": "Study Design Lead",
+   "org": "Labcorp",
+   "location": "United Kingdom"
+  },
+  "outbound sdr ksa -v2|in2|saudi arabia": {
+   "first_seen": "2026-11-28T11:43:56+00:00",
+   "last_seen": "2026-11-28T11:43:56+00:00",
+   "title": "Outbound SDR KSA -v2",
+   "org": "In2",
+   "location": "Saudi Arabia"
+  },
+  "project delivery manager (tech & ai)|innovate now|new zealand": {
+   "first_seen": "2026-11-28T11:43:56+00:00",
+   "last_seen": "2026-11-28T11:43:56+00:00",
+   "title": "Project Delivery Manager (Tech & AI)",
+   "org": "Innovate Now",
+   "location": "New Zealand"
+  },
+  "analista de infraestrutura|dxc technology|brazil": {
+   "first_seen": "2026-11-28T11:43:56+00:00",
+   "last_seen": "2026-11-28T11:43:56+00:00",
+   "title": "Analista de Infraestrutura",
+   "org": "DXC Technology",
+   "location": "Brazil"
+  },
+  "c developer intern (remote work)|tuxcare inc.|georgia": {
+   "first_seen": "2026-11-28T11:43:56+00:00",
+   "last_seen": "2026-11-28T11:43:56+00:00",
+   "title": "C Developer Intern (remote work)",
+   "org": "TuxCare Inc.",
+   "location": "Georgia"
+  },
+  "bookkeeper / financial administrator (spa and maintenance)|d2b|philippines": {
+   "first_seen": "2026-11-28T11:43:56+00:00",
+   "last_seen": "2026-11-28T11:43:56+00:00",
+   "title": "Bookkeeper / Financial Administrator (Spa and Maintenance)",
+   "org": "D2B",
+   "location": "Philippines"
   }
  }
 }

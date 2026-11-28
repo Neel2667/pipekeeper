@@ -3,10 +3,10 @@
  "name": "Federal contracts \u2014 awards >$1M (last 3 days)",
  "category": "funding",
  "source": "https://www.usaspending.gov",
- "collected_at": "2026-11-28T02:40:31+00:00",
+ "collected_at": "2026-11-28T11:43:58+00:00",
  "jobs_on_board": 100,
- "new_this_run": 51,
- "total_tracked": 898,
+ "new_this_run": 2,
+ "total_tracked": 900,
  "jobs": [
   {
    "title": "TASK ORDER 4 OF HHSP233201700027I DPAA CASE MANAGEMENT SYSTEM SUPPORT (DCMSS)",
@@ -300,6 +300,11 @@
    "at": "2026-11-28T02:40:31+00:00",
    "jobs": 100,
    "new": 51
+  },
+  {
+   "at": "2026-11-28T11:43:58+00:00",
+   "jobs": 100,
+   "new": 2
   }
  ],
  "jobs_seen": {
@@ -389,7 +394,7 @@
   },
   "igf::cl,ct::igf contract award de-na0003624 to the mission support and test services llc (msts) for the management and o|mission support & test services llc|": {
    "first_seen": "2026-11-15T10:13:50+00:00",
-   "last_seen": "2026-11-28T02:40:31+00:00",
+   "last_seen": "2026-11-28T11:43:58+00:00",
    "title": "IGF::CL,CT::IGF CONTRACT AWARD DE-NA0003624 TO THE MISSION SUPPORT AND TEST SERVICES LLC (MSTS) FOR THE MANAGEMENT AND OPERATION OF THE DEPARTMENT OF ENERGY NATIONAL NUCLEAR SECURITY ADMINISTRATION'S NEVADA NATIONAL SECURITY SITE.",
    "org": "MISSION SUPPORT & TEST SERVICES LLC",
    "location": null
@@ -522,7 +527,7 @@
   },
   "labor program management/it support enterprise information technology support services to include software development a|bluewater federal solutions, inc.|": {
    "first_seen": "2026-11-15T10:13:50+00:00",
-   "last_seen": "2026-11-28T02:40:31+00:00",
+   "last_seen": "2026-11-28T11:43:58+00:00",
    "title": "LABOR PROGRAM MANAGEMENT/IT SUPPORT ENTERPRISE INFORMATION TECHNOLOGY SUPPORT SERVICES TO INCLUDE SOFTWARE DEVELOPMENT AND INTEGRATION, INFRASTRUCTURE ENGINEERING, SYSTEM MANAGEMENT AND HOSTING, DESKTOP SUPPORT, SERVICE DESK SUPPORT AND IT ",
    "org": "BLUEWATER FEDERAL SOLUTIONS, INC.",
    "location": null
@@ -585,7 +590,7 @@
   },
   "technical support services to maintain and improve the lanmas 4.0 program|wyant data systems, inc.|": {
    "first_seen": "2026-11-15T10:13:50+00:00",
-   "last_seen": "2026-11-28T02:40:31+00:00",
+   "last_seen": "2026-11-28T11:43:58+00:00",
    "title": "TECHNICAL SUPPORT SERVICES TO MAINTAIN AND IMPROVE THE LANMAS 4.0 PROGRAM",
    "org": "WYANT DATA SYSTEMS, INC.",
    "location": null
@@ -697,7 +702,7 @@
   },
   "marshall space flight center pp&c ii task order|ares technical services corporation|": {
    "first_seen": "2026-11-15T10:13:50+00:00",
-   "last_seen": "2026-11-28T02:40:31+00:00",
+   "last_seen": "2026-11-28T11:43:58+00:00",
    "title": "MARSHALL SPACE FLIGHT CENTER PP&C II TASK ORDER",
    "org": "ARES TECHNICAL SERVICES CORPORATION",
    "location": null
@@ -739,7 +744,7 @@
   },
   "center maintenance, operation and engineering ii (cmoe-ii) support services.|amentum technology, inc.|": {
    "first_seen": "2026-11-15T10:13:50+00:00",
-   "last_seen": "2026-11-28T02:40:31+00:00",
+   "last_seen": "2026-11-28T11:43:58+00:00",
    "title": "CENTER MAINTENANCE, OPERATION AND ENGINEERING II (CMOE-II) SUPPORT SERVICES.",
    "org": "AMENTUM TECHNOLOGY, INC.",
    "location": null
@@ -2251,7 +2256,7 @@
   },
   "management and operating contract for the savannah river site.|savannah river nuclear solutions llc|": {
    "first_seen": "2026-11-19T13:05:38+00:00",
-   "last_seen": "2026-11-28T02:40:31+00:00",
+   "last_seen": "2026-11-28T11:43:58+00:00",
    "title": "MANAGEMENT AND OPERATING CONTRACT FOR THE SAVANNAH RIVER SITE.",
    "org": "SAVANNAH RIVER NUCLEAR SOLUTIONS LLC",
    "location": null
@@ -4029,7 +4034,7 @@
   },
   "combined operations, services, maintenance, and infrastructure contract (cosmic) base year - core cost-plus incentive fe|nova space solutions, llc|": {
    "first_seen": "2026-11-22T06:46:27+00:00",
-   "last_seen": "2026-11-28T02:40:31+00:00",
+   "last_seen": "2026-11-28T11:43:58+00:00",
    "title": "COMBINED OPERATIONS, SERVICES, MAINTENANCE, AND INFRASTRUCTURE CONTRACT (COSMIC) BASE YEAR - CORE COST-PLUS INCENTIVE FEE (CPIF) FUNDING ORDER",
    "org": "NOVA SPACE SOLUTIONS, LLC",
    "location": null
@@ -4855,7 +4860,7 @@
   },
   "programmatic, operational, and management support for the office of electricity|guidehouse inc.|": {
    "first_seen": "2026-11-25T14:28:45+00:00",
-   "last_seen": "2026-11-28T02:40:31+00:00",
+   "last_seen": "2026-11-28T11:43:58+00:00",
    "title": "PROGRAMMATIC, OPERATIONAL, AND MANAGEMENT SUPPORT FOR THE OFFICE OF ELECTRICITY",
    "org": "GUIDEHOUSE INC.",
    "location": null
@@ -5422,7 +5427,7 @@
   },
   "operation and maintenance linear accellerator|the leland stanford junior university|": {
    "first_seen": "2026-11-26T08:16:52+00:00",
-   "last_seen": "2026-11-28T02:40:31+00:00",
+   "last_seen": "2026-11-28T11:43:58+00:00",
    "title": "OPERATION AND MAINTENANCE LINEAR ACCELLERATOR",
    "org": "THE LELAND STANFORD JUNIOR UNIVERSITY",
    "location": null
@@ -5436,7 +5441,7 @@
   },
   "multi-program national physical research including rare earths and use of ames mpc.|iowa state university of science and technology|": {
    "first_seen": "2026-11-26T08:16:52+00:00",
-   "last_seen": "2026-11-28T02:40:31+00:00",
+   "last_seen": "2026-11-28T11:43:58+00:00",
    "title": "MULTI-PROGRAM NATIONAL PHYSICAL RESEARCH INCLUDING RARE EARTHS AND USE OF AMES MPC.",
    "org": "IOWA STATE UNIVERSITY OF SCIENCE AND TECHNOLOGY",
    "location": null
@@ -5954,35 +5959,35 @@
   },
   "task order 4 of hhsp233201700027i dpaa case management system support (dcmss)|na alii consulting & sales llc|": {
    "first_seen": "2026-11-27T10:51:54+00:00",
-   "last_seen": "2026-11-28T02:40:31+00:00",
+   "last_seen": "2026-11-28T11:43:58+00:00",
    "title": "TASK ORDER 4 OF HHSP233201700027I DPAA CASE MANAGEMENT SYSTEM SUPPORT (DCMSS)",
    "org": "NA ALII CONSULTING & SALES LLC",
    "location": null
   },
   "igf::ct::igf it cms services to 2|na alii consulting & sales llc|": {
    "first_seen": "2026-11-27T10:51:54+00:00",
-   "last_seen": "2026-11-28T02:40:31+00:00",
+   "last_seen": "2026-11-28T11:43:58+00:00",
    "title": "IGF::CT::IGF IT CMS SERVICES TO 2",
    "org": "NA ALII CONSULTING & SALES LLC",
    "location": null
   },
   "igf::ct::igf it cms services to 1|na alii consulting & sales llc|": {
    "first_seen": "2026-11-27T10:51:54+00:00",
-   "last_seen": "2026-11-28T02:40:31+00:00",
+   "last_seen": "2026-11-28T11:43:58+00:00",
    "title": "IGF::CT::IGF IT CMS SERVICES TO 1",
    "org": "NA ALII CONSULTING & SALES LLC",
    "location": null
   },
   "igf::cl::igfpatient engagement strategic communications|versatech inc|": {
    "first_seen": "2026-11-27T10:51:54+00:00",
-   "last_seen": "2026-11-28T02:40:31+00:00",
+   "last_seen": "2026-11-28T11:43:58+00:00",
    "title": "IGF::CL::IGFPATIENT ENGAGEMENT STRATEGIC COMMUNICATIONS",
    "org": "VERSATECH INC",
    "location": null
   },
   "igf::ot::igf it data system development services|booz allen hamilton inc|": {
    "first_seen": "2026-11-27T10:51:54+00:00",
-   "last_seen": "2026-11-28T02:40:31+00:00",
+   "last_seen": "2026-11-28T11:43:58+00:00",
    "title": "IGF::OT::IGF IT DATA SYSTEM DEVELOPMENT SERVICES",
    "org": "BOOZ ALLEN HAMILTON INC",
    "location": null
@@ -5996,105 +6001,105 @@
   },
   "geo 5/6 service leases igf::ot::igf|raytheon company|": {
    "first_seen": "2026-11-27T10:51:54+00:00",
-   "last_seen": "2026-11-28T02:40:31+00:00",
+   "last_seen": "2026-11-28T11:43:58+00:00",
    "title": "GEO 5/6 SERVICE LEASES IGF::OT::IGF",
    "org": "RAYTHEON COMPANY",
    "location": null
   },
   "gary job corps center with oa/cts igf::ot::igf|management & training corporation|": {
    "first_seen": "2026-11-27T10:51:54+00:00",
-   "last_seen": "2026-11-28T02:40:31+00:00",
+   "last_seen": "2026-11-28T11:43:58+00:00",
    "title": "GARY JOB CORPS CENTER WITH OA/CTS IGF::OT::IGF",
    "org": "MANAGEMENT & TRAINING CORPORATION",
    "location": null
   },
   "igf::ot::igf tas::89 0222::tas m&o contract for bnl|brookhaven science associates llc|": {
    "first_seen": "2026-11-27T10:51:54+00:00",
-   "last_seen": "2026-11-28T02:40:31+00:00",
+   "last_seen": "2026-11-28T11:43:58+00:00",
    "title": "IGF::OT::IGF TAS::89 0222::TAS M&O CONTRACT FOR BNL",
    "org": "BROOKHAVEN SCIENCE ASSOCIATES LLC",
    "location": null
   },
   "igf::cl,ct::igf contract award de-na0003525 to the national technology&engineering solutions of sandia, llc (ntess) for |national technology & engineering solutions of sandia, llc|": {
    "first_seen": "2026-11-27T10:51:54+00:00",
-   "last_seen": "2026-11-28T02:40:31+00:00",
+   "last_seen": "2026-11-28T11:43:58+00:00",
    "title": "IGF::CL,CT::IGF CONTRACT AWARD DE-NA0003525 TO THE NATIONAL TECHNOLOGY&ENGINEERING SOLUTIONS OF SANDIA, LLC (NTESS) FOR THE MANAGEMENT AND OPERATION OF THE DEPARTMENT OF ENERGY, NATIONAL NUCLEAR SECURITY ADMINISTRATION'S SANDIA NATIONAL LAB",
    "org": "NATIONAL TECHNOLOGY & ENGINEERING SOLUTIONS OF SANDIA, LLC",
    "location": null
   },
   "igf::cl,ct::igf management and operating contract for y-12 national security complex, pantex plant, with an option for s|consolidated nuclear security, llc|": {
    "first_seen": "2026-11-27T10:51:54+00:00",
-   "last_seen": "2026-11-28T02:40:31+00:00",
+   "last_seen": "2026-11-28T11:43:58+00:00",
    "title": "IGF::CL,CT::IGF MANAGEMENT AND OPERATING CONTRACT FOR Y-12 NATIONAL SECURITY COMPLEX, PANTEX PLANT, WITH AN OPTION FOR SAVANNAH RIVER TRITIUM OPERATIONS",
    "org": "CONSOLIDATED NUCLEAR SECURITY, LLC",
    "location": null
   },
   "this performance-based management contract (pbmc) is for the management and operation of the ernest orlando lawrence ber|the regents of the university of california|": {
    "first_seen": "2026-11-27T10:51:54+00:00",
-   "last_seen": "2026-11-28T02:40:31+00:00",
+   "last_seen": "2026-11-28T11:43:58+00:00",
    "title": "THIS PERFORMANCE-BASED MANAGEMENT CONTRACT (PBMC) IS FOR THE MANAGEMENT AND OPERATION OF THE ERNEST ORLANDO LAWRENCE BERKELEY NATIONAL LABORATORY (LBNL). THE CONTRACTOR SHALL, IN ACCORDANCE WITH THE PROVISIONS OF THIS CONTRACT, ACCOMPLISH T",
    "org": "THE REGENTS OF THE UNIVERSITY OF CALIFORNIA",
    "location": null
   },
   "contract line item 0001 enterprise system management, service center, information technology (it) capital planning contr|dni emerging technologies, llc|": {
    "first_seen": "2026-11-27T10:51:54+00:00",
-   "last_seen": "2026-11-28T02:40:31+00:00",
+   "last_seen": "2026-11-28T11:43:58+00:00",
    "title": "CONTRACT LINE ITEM 0001 ENTERPRISE SYSTEM MANAGEMENT, SERVICE CENTER, INFORMATION TECHNOLOGY (IT) CAPITAL PLANNING CONTRACT LINE ITEM 0002 CYBER SECURITY SUPPORT SERVICES CONTRACT LINE ITEM 0003 OTHER DIRECT COSTS (ODCS)",
    "org": "DNI EMERGING TECHNOLOGIES, LLC",
    "location": null
   },
   "enverus data subscription license renewal|enverus, inc.|": {
    "first_seen": "2026-11-27T10:51:54+00:00",
-   "last_seen": "2026-11-28T02:40:31+00:00",
+   "last_seen": "2026-11-28T11:43:58+00:00",
    "title": "ENVERUS DATA SUBSCRIPTION LICENSE RENEWAL",
    "org": "ENVERUS, INC.",
    "location": null
   },
   "project management and technical support services|techsource, llc|": {
    "first_seen": "2026-11-27T10:51:54+00:00",
-   "last_seen": "2026-11-28T02:40:31+00:00",
+   "last_seen": "2026-11-28T11:43:58+00:00",
    "title": "PROJECT MANAGEMENT AND TECHNICAL SUPPORT SERVICES",
    "org": "TECHSOURCE, LLC",
    "location": null
   },
   "project management and technical support services|technomics inc|": {
    "first_seen": "2026-11-27T10:51:54+00:00",
-   "last_seen": "2026-11-28T02:40:31+00:00",
+   "last_seen": "2026-11-28T11:43:58+00:00",
    "title": "PROJECT MANAGEMENT AND TECHNICAL SUPPORT SERVICES",
    "org": "TECHNOMICS INC",
    "location": null
   },
   "project management and technical support services|tecolote research, inc.|": {
    "first_seen": "2026-11-27T10:51:54+00:00",
-   "last_seen": "2026-11-28T02:40:31+00:00",
+   "last_seen": "2026-11-28T11:43:58+00:00",
    "title": "PROJECT MANAGEMENT AND TECHNICAL SUPPORT SERVICES",
    "org": "TECOLOTE RESEARCH, INC.",
    "location": null
   },
   "the contractor shall provide all management, supervision, labor, materials, supplies, repair parts, tools, and equipment|quality elevator co., llc|": {
    "first_seen": "2026-11-27T10:51:54+00:00",
-   "last_seen": "2026-11-28T02:40:31+00:00",
+   "last_seen": "2026-11-28T11:43:58+00:00",
    "title": "THE CONTRACTOR SHALL PROVIDE ALL MANAGEMENT, SUPERVISION, LABOR, MATERIALS, SUPPLIES, REPAIR PARTS, TOOLS, AND EQUIPMENT, AND SHALL PLAN, COORDINATE, AND ENSURE THE EFFECTIVE AND ECONOMICAL OPERATION, MAINTENANCE, AND REPAIR OF DOE ELEVATOR",
    "org": "QUALITY ELEVATOR CO., LLC",
    "location": null
   },
   "the purpose of the delivery/task order is to provide financial statement audit services to the u.s. department of energy|kpmg llp|": {
    "first_seen": "2026-11-27T10:51:54+00:00",
-   "last_seen": "2026-11-28T02:40:31+00:00",
+   "last_seen": "2026-11-28T11:43:58+00:00",
    "title": "THE PURPOSE OF THE DELIVERY/TASK ORDER IS TO PROVIDE FINANCIAL STATEMENT AUDIT SERVICES TO THE U.S. DEPARTMENT OF ENERGY, OFFICE OF INSPECTOR GENERAL.",
    "org": "KPMG LLP",
    "location": null
   },
   "igf::ct::igf the purpose of this requisition is to add funding in the amount of $508,014.78 in order to renew software l|regan technologies corp|": {
    "first_seen": "2026-11-27T10:51:54+00:00",
-   "last_seen": "2026-11-28T02:40:31+00:00",
+   "last_seen": "2026-11-28T11:43:58+00:00",
    "title": "IGF::CT::IGF THE PURPOSE OF THIS REQUISITION IS TO ADD FUNDING IN THE AMOUNT OF $508,014.78 IN ORDER TO RENEW SOFTWARE LICENSES UNDER REGAN TECHNOLOGIES/MICROSOFT, CONTRACT NUMBER 8930319AIM000008. REFERENCE ATTACHED QUOTE. DOE CONTRACTING ",
    "org": "REGAN TECHNOLOGIES CORP",
    "location": null
   },
   "the purpose of this task order (to) is to establish new annual domestic commercial high-assay low-enriched uranium (hale|american centrifuge operating, llc|": {
    "first_seen": "2026-11-27T10:51:54+00:00",
-   "last_seen": "2026-11-28T02:40:31+00:00",
+   "last_seen": "2026-11-28T11:43:58+00:00",
    "title": "THE PURPOSE OF THIS TASK ORDER (TO) IS TO ESTABLISH NEW ANNUAL DOMESTIC COMMERCIAL HIGH-ASSAY LOW-ENRICHED URANIUM (HALEU) CAPACITY AND BEGIN PRODUCTION OF HALEU UF6 FOR PURCHASE BY DOE.",
    "org": "AMERICAN CENTRIFUGE OPERATING, LLC",
    "location": null
@@ -6108,469 +6113,469 @@
   },
   "the nnsa ocio is in need of it operations to include: service operations and management services, patch management, host|accenture federal services llc|": {
    "first_seen": "2026-11-27T10:51:54+00:00",
-   "last_seen": "2026-11-28T02:40:31+00:00",
+   "last_seen": "2026-11-28T11:43:58+00:00",
    "title": "THE NNSA OCIO IS IN NEED OF IT OPERATIONS TO INCLUDE: SERVICE OPERATIONS AND MANAGEMENT SERVICES, PATCH MANAGEMENT, HOSTING AND CLOUD SERVICES, CYBERSECURITY SUPPORT SERVICES, UNIFIED COMMUNICATIONS AND MESSAGING SERVICES (UCMS) AND SOFTWAR",
    "org": "ACCENTURE FEDERAL SERVICES LLC",
    "location": null
   },
   "nara espc through ameresco doe contract de-ee0008027 copy of de-ee0008027/88310324f00050|ameresco inc|": {
    "first_seen": "2026-11-27T10:51:54+00:00",
-   "last_seen": "2026-11-28T02:40:31+00:00",
+   "last_seen": "2026-11-28T11:43:58+00:00",
    "title": "NARA ESPC THROUGH AMERESCO DOE CONTRACT DE-EE0008027 COPY OF DE-EE0008027/88310324F00050",
    "org": "AMERESCO INC",
    "location": null
   },
   "new o&m contract for gerald r ford museum.|correct mechanical services inc|": {
    "first_seen": "2026-11-27T10:51:54+00:00",
-   "last_seen": "2026-11-28T02:40:31+00:00",
+   "last_seen": "2026-11-28T11:43:58+00:00",
    "title": "NEW O&M CONTRACT FOR GERALD R FORD MUSEUM.",
    "org": "CORRECT MECHANICAL SERVICES INC",
    "location": null
   },
   "new core interface solution (ncis) for operations and maintenance (o&m) sba requirement # gg1665073878z|arlluk technology solutions llc|": {
    "first_seen": "2026-11-27T10:51:54+00:00",
-   "last_seen": "2026-11-28T02:40:31+00:00",
+   "last_seen": "2026-11-28T11:43:58+00:00",
    "title": "NEW CORE INTERFACE SOLUTION (NCIS) FOR OPERATIONS AND MAINTENANCE (O&M) SBA REQUIREMENT # GG1665073878Z",
    "org": "ARLLUK TECHNOLOGY SOLUTIONS LLC",
    "location": null
   },
   "fha total mortgage scorecard|integrated financial engineering inc.|": {
    "first_seen": "2026-11-27T10:51:54+00:00",
-   "last_seen": "2026-11-28T02:40:31+00:00",
+   "last_seen": "2026-11-28T11:43:58+00:00",
    "title": "FHA TOTAL MORTGAGE SCORECARD",
    "org": "INTEGRATED FINANCIAL ENGINEERING INC.",
    "location": null
   },
   "this bpa call is for the annual nasa agency-wide adobe renewal per quotes # 61953055 and 69134420 dated 11/20/2026.|nextrow inc|": {
    "first_seen": "2026-11-27T10:51:54+00:00",
-   "last_seen": "2026-11-28T02:40:31+00:00",
+   "last_seen": "2026-11-28T11:43:58+00:00",
    "title": "THIS BPA CALL IS FOR THE ANNUAL NASA AGENCY-WIDE ADOBE RENEWAL PER QUOTES # 61953055 AND 69134420 DATED 11/20/2026.",
    "org": "NEXTROW INC",
    "location": null
   },
   "sbir phase ii - autonomous platform for monitoring in space habitats|advanced growing resources inc.|": {
    "first_seen": "2026-11-27T10:51:54+00:00",
-   "last_seen": "2026-11-28T02:40:31+00:00",
+   "last_seen": "2026-11-28T11:43:58+00:00",
    "title": "SBIR PHASE II - AUTONOMOUS PLATFORM FOR MONITORING IN SPACE HABITATS",
    "org": "ADVANCED GROWING RESOURCES INC.",
    "location": null
   },
   "sbir phase ii - wireless instrumentation for sensing of parachute systems (wisps)|interdisciplinary consulting corporation|": {
    "first_seen": "2026-11-27T10:51:54+00:00",
-   "last_seen": "2026-11-28T02:40:31+00:00",
+   "last_seen": "2026-11-28T11:43:58+00:00",
    "title": "SBIR PHASE II - WIRELESS INSTRUMENTATION FOR SENSING OF PARACHUTE SYSTEMS (WISPS)",
    "org": "INTERDISCIPLINARY CONSULTING CORPORATION",
    "location": null
   },
   "sbir phase ii thin-film lithium niobate single-crystal growth via liquid phase epitaxy for iss-based manufacturing|goeppert llc|": {
    "first_seen": "2026-11-27T10:51:54+00:00",
-   "last_seen": "2026-11-28T02:40:31+00:00",
+   "last_seen": "2026-11-28T11:43:58+00:00",
    "title": "SBIR PHASE II THIN-FILM LITHIUM NIOBATE SINGLE-CRYSTAL GROWTH VIA LIQUID PHASE EPITAXY FOR ISS-BASED MANUFACTURING",
    "org": "GOEPPERT LLC",
    "location": null
   },
   "phase ii sbir ai-enhanced digital twin framework for uas component reliability in support of in-time aviation safety man|alarispro, inc.|": {
    "first_seen": "2026-11-27T10:51:54+00:00",
-   "last_seen": "2026-11-28T02:40:31+00:00",
+   "last_seen": "2026-11-28T11:43:58+00:00",
    "title": "PHASE II SBIR AI-ENHANCED DIGITAL TWIN FRAMEWORK FOR UAS COMPONENT RELIABILITY IN SUPPORT OF IN-TIME AVIATION SAFETY MANAGEMENT SYSTEMS (IASMS)",
    "org": "ALARISPRO, INC.",
    "location": null
   },
   "jpl support to exploration systems development mission directorate (esdmd) mars campaign office (mco) earth independent |california institute of technology|": {
    "first_seen": "2026-11-27T10:51:54+00:00",
-   "last_seen": "2026-11-28T02:40:31+00:00",
+   "last_seen": "2026-11-28T11:43:58+00:00",
    "title": "JPL SUPPORT TO EXPLORATION SYSTEMS DEVELOPMENT MISSION DIRECTORATE (ESDMD) MARS CAMPAIGN OFFICE (MCO) EARTH INDEPENDENT OPERATIONS (EIO) DOMAIN (40-226867)",
    "org": "CALIFORNIA INSTITUTE OF TECHNOLOGY",
    "location": null
   },
   "astronaut spacesuit materail joint cycle testing (40-226690)|california institute of technology|": {
    "first_seen": "2026-11-27T10:51:54+00:00",
-   "last_seen": "2026-11-28T02:40:31+00:00",
+   "last_seen": "2026-11-28T11:43:58+00:00",
    "title": "ASTRONAUT SPACESUIT MATERAIL JOINT CYCLE TESTING (40-226690)",
    "org": "CALIFORNIA INSTITUTE OF TECHNOLOGY",
    "location": null
   },
   "laser interferometer space antenna (lisa) (71-224611)|california institute of technology|": {
    "first_seen": "2026-11-27T10:51:54+00:00",
-   "last_seen": "2026-11-28T02:40:31+00:00",
+   "last_seen": "2026-11-28T11:43:58+00:00",
    "title": "LASER INTERFEROMETER SPACE ANTENNA (LISA) (71-224611)",
    "org": "CALIFORNIA INSTITUTE OF TECHNOLOGY",
    "location": null
   },
   "maximizing cosmological science with the roman high latitude imaging survey (hlis) project infrastructure team (70-21023|california institute of technology|": {
    "first_seen": "2026-11-27T10:51:54+00:00",
-   "last_seen": "2026-11-28T02:40:31+00:00",
+   "last_seen": "2026-11-28T11:43:58+00:00",
    "title": "MAXIMIZING COSMOLOGICAL SCIENCE WITH THE ROMAN HIGH LATITUDE IMAGING SURVEY (HLIS) PROJECT INFRASTRUCTURE TEAM (70-210230)",
    "org": "CALIFORNIA INSTITUTE OF TECHNOLOGY",
    "location": null
   },
   "jpl support to the human exploration and operations mission directorate gateway program contamination control (40-110763|california institute of technology|": {
    "first_seen": "2026-11-27T10:51:54+00:00",
-   "last_seen": "2026-11-28T02:40:31+00:00",
+   "last_seen": "2026-11-28T11:43:58+00:00",
    "title": "JPL SUPPORT TO THE HUMAN EXPLORATION AND OPERATIONS MISSION DIRECTORATE GATEWAY PROGRAM CONTAMINATION CONTROL (40-110763)",
    "org": "CALIFORNIA INSTITUTE OF TECHNOLOGY",
    "location": null
   },
   "jpl support to blue fed for human landing system base period (40-109108)|california institute of technology|": {
    "first_seen": "2026-11-27T10:51:54+00:00",
-   "last_seen": "2026-11-28T02:40:31+00:00",
+   "last_seen": "2026-11-28T11:43:58+00:00",
    "title": "JPL SUPPORT TO BLUE FED FOR HUMAN LANDING SYSTEM BASE PERIOD (40-109108)",
    "org": "CALIFORNIA INSTITUTE OF TECHNOLOGY",
    "location": null
   },
   "jpl support to spacex for human landing system base period (40-109107)|california institute of technology|": {
    "first_seen": "2026-11-27T10:51:54+00:00",
-   "last_seen": "2026-11-28T02:40:31+00:00",
+   "last_seen": "2026-11-28T11:43:58+00:00",
    "title": "JPL SUPPORT TO SPACEX FOR HUMAN LANDING SYSTEM BASE PERIOD (40-109107)",
    "org": "CALIFORNIA INSTITUTE OF TECHNOLOGY",
    "location": null
   },
   "exoplanet exploration ion program (exep) science&research technology (st&t) the contract is the sponsoring agreement bet|california institute of technology|": {
    "first_seen": "2026-11-27T10:51:54+00:00",
-   "last_seen": "2026-11-28T02:40:31+00:00",
+   "last_seen": "2026-11-28T11:43:58+00:00",
    "title": "EXOPLANET EXPLORATION ION PROGRAM (EXEP) SCIENCE&RESEARCH TECHNOLOGY (ST&T) THE CONTRACT IS THE SPONSORING AGREEMENT BETWEEN THE NATIONAL AERONAUTICS AND SPACE ADMINISTRATION (NASA) AND THE CALIFORNIA INSTITUTE OF TECHNOLOGY (CONTRACTOR), A",
    "org": "CALIFORNIA INSTITUTE OF TECHNOLOGY",
    "location": null
   },
   "emit (earth surface mineral dust source investigation) the contract is the sponsoring agreement between the national aer|california institute of technology|": {
    "first_seen": "2026-11-28T02:40:31+00:00",
-   "last_seen": "2026-11-28T02:40:31+00:00",
+   "last_seen": "2026-11-28T11:43:58+00:00",
    "title": "EMIT (EARTH SURFACE MINERAL DUST SOURCE INVESTIGATION) THE CONTRACT IS THE SPONSORING AGREEMENT BETWEEN THE NATIONAL AERONAUTICS AND SPACE ADMINISTRATION (NASA) AND THE CALIFORNIA INSTITUTE OF TECHNOLOGY (CONTRACTOR), A PRIVATE NONPROFIT ED",
    "org": "CALIFORNIA INSTITUTE OF TECHNOLOGY",
    "location": null
   },
   "mars science laboratory 67-8636|california institute of technology|": {
    "first_seen": "2026-11-28T02:40:31+00:00",
-   "last_seen": "2026-11-28T02:40:31+00:00",
+   "last_seen": "2026-11-28T11:43:58+00:00",
    "title": "MARS SCIENCE LABORATORY 67-8636",
    "org": "CALIFORNIA INSTITUTE OF TECHNOLOGY",
    "location": null
   },
   "planetary science program support 40-15961|california institute of technology|": {
    "first_seen": "2026-11-28T02:40:31+00:00",
-   "last_seen": "2026-11-28T02:40:31+00:00",
+   "last_seen": "2026-11-28T11:43:58+00:00",
    "title": "PLANETARY SCIENCE PROGRAM SUPPORT 40-15961",
    "org": "CALIFORNIA INSTITUTE OF TECHNOLOGY",
    "location": null
   },
   "assurance technology program office (atpo) 50-13143|california institute of technology|": {
    "first_seen": "2026-11-28T02:40:31+00:00",
-   "last_seen": "2026-11-28T02:40:31+00:00",
+   "last_seen": "2026-11-28T11:43:58+00:00",
    "title": "ASSURANCE TECHNOLOGY PROGRAM OFFICE (ATPO) 50-13143",
    "org": "CALIFORNIA INSTITUTE OF TECHNOLOGY",
    "location": null
   },
   "the purpose of this task order is to acquire prototype demonstrations and special topic efforts that address critical ar|yank technologies, inc.|": {
    "first_seen": "2026-11-28T02:40:31+00:00",
-   "last_seen": "2026-11-28T02:40:31+00:00",
+   "last_seen": "2026-11-28T11:43:58+00:00",
    "title": "THE PURPOSE OF THIS TASK ORDER IS TO ACQUIRE PROTOTYPE DEMONSTRATIONS AND SPECIAL TOPIC EFFORTS THAT ADDRESS CRITICAL ARCHITECTURE GAPS IDENTIFIED FOR THE LUNAR MOON BASE.",
    "org": "YANK TECHNOLOGIES, INC.",
    "location": null
   },
   "the purpose of this solicitation is to acquire prototype demonstrations and special topic efforts that address critical |redwire space enterprises, inc.|": {
    "first_seen": "2026-11-28T02:40:31+00:00",
-   "last_seen": "2026-11-28T02:40:31+00:00",
+   "last_seen": "2026-11-28T11:43:58+00:00",
    "title": "THE PURPOSE OF THIS SOLICITATION IS TO ACQUIRE PROTOTYPE DEMONSTRATIONS AND SPECIAL TOPIC EFFORTS THAT ADDRESS CRITICAL ARCHITECTURE GAPS IDENTIFIED FOR THE LUNAR MOON BASE.",
    "org": "REDWIRE SPACE ENTERPRISES, INC.",
    "location": null
   },
   "delivery order for the bulk purchase of helium for marshall space flight center.|messer llc|": {
    "first_seen": "2026-11-28T02:40:31+00:00",
-   "last_seen": "2026-11-28T02:40:31+00:00",
+   "last_seen": "2026-11-28T11:43:58+00:00",
    "title": "DELIVERY ORDER FOR THE BULK PURCHASE OF HELIUM FOR MARSHALL SPACE FLIGHT CENTER.",
    "org": "MESSER LLC",
    "location": null
   },
   "simulation and support services for langley research center.|metis technology solutions, inc.|": {
    "first_seen": "2026-11-28T02:40:31+00:00",
-   "last_seen": "2026-11-28T02:40:31+00:00",
+   "last_seen": "2026-11-28T11:43:58+00:00",
    "title": "SIMULATION AND SUPPORT SERVICES FOR LANGLEY RESEARCH CENTER.",
    "org": "METIS TECHNOLOGY SOLUTIONS, INC.",
    "location": null
   },
   "the vendor shall deliver and activate a fully fabricated, ready-to-connect compressed-air system to generate clean, dry |abl contracting llc|": {
    "first_seen": "2026-11-28T02:40:31+00:00",
-   "last_seen": "2026-11-28T02:40:31+00:00",
+   "last_seen": "2026-11-28T11:43:58+00:00",
    "title": "THE VENDOR SHALL DELIVER AND ACTIVATE A FULLY FABRICATED, READY-TO-CONNECT COMPRESSED-AIR SYSTEM TO GENERATE CLEAN, DRY AIR FOR USE AT LC-39B, KENNEDY SPACE CENTER, FL",
    "org": "ABL CONTRACTING LLC",
    "location": null
   },
   "design, develop, manufacture, test, integrate, achieve nasa acceptance, deliver, and sustain its united states deorbit v|space exploration technologies corp.|": {
    "first_seen": "2026-11-28T02:40:31+00:00",
-   "last_seen": "2026-11-28T02:40:31+00:00",
+   "last_seen": "2026-11-28T11:43:58+00:00",
    "title": "DESIGN, DEVELOP, MANUFACTURE, TEST, INTEGRATE, ACHIEVE NASA ACCEPTANCE, DELIVER, AND SUSTAIN ITS UNITED STATES DEORBIT VEHICLE (USDV) SUCH THAT THE USDV CAN PERFORM THE FINAL DEORBIT OF THE INTERNATIONAL SPACE STATION (ISS)",
    "org": "SPACE EXPLORATION TECHNOLOGIES CORP.",
    "location": null
   },
   "development of the quicksounder sc and the quicksounder satellite, integration of the atms edu, shipment to the launch s|southwest research institute|": {
    "first_seen": "2026-11-28T02:40:31+00:00",
-   "last_seen": "2026-11-28T02:40:31+00:00",
+   "last_seen": "2026-11-28T11:43:58+00:00",
    "title": "DEVELOPMENT OF THE QUICKSOUNDER SC AND THE QUICKSOUNDER SATELLITE, INTEGRATION OF THE ATMS EDU, SHIPMENT TO THE LAUNCH SITE SUPPORT OF LAUNCH OPS & SATELLITE ACTIVATION, 3 YRS OF MISSION OPS & PERFORM DECOMMISSIONING OPERATION",
    "org": "SOUTHWEST RESEARCH INSTITUTE",
    "location": null
   },
   "the contractor shall (a) supply landfill gas (lfg) to nasa's goddard space flight center (gsfc) (b) perform maintenance |toro partners ii, lp|": {
    "first_seen": "2026-11-28T02:40:31+00:00",
-   "last_seen": "2026-11-28T02:40:31+00:00",
+   "last_seen": "2026-11-28T11:43:58+00:00",
    "title": "THE CONTRACTOR SHALL (A) SUPPLY LANDFILL GAS (LFG) TO NASA'S GODDARD SPACE FLIGHT CENTER (GSFC) (B) PERFORM MAINTENANCE AND REPAIR ON CONTRACTOR-OWNED EQUIPMENT AT GSFC AND (C) REMOVE LFG CONDENSATE FROM GSFC FOR DISPOSAL.",
    "org": "TORO PARTNERS II, LP",
    "location": null
   },
   "dragonfly mass spectrometer (drams) microvalves|mindrum precision inc.|": {
    "first_seen": "2026-11-28T02:40:31+00:00",
-   "last_seen": "2026-11-28T02:40:31+00:00",
+   "last_seen": "2026-11-28T11:43:58+00:00",
    "title": "DRAGONFLY MASS SPECTROMETER (DRAMS) MICROVALVES",
    "org": "MINDRUM PRECISION INC.",
    "location": null
   },
   "earth observing system data and information system (eosdis) evolution and development (eed)-3 eosdis eed-3 services|raytheon company|": {
    "first_seen": "2026-11-28T02:40:31+00:00",
-   "last_seen": "2026-11-28T02:40:31+00:00",
+   "last_seen": "2026-11-28T11:43:58+00:00",
    "title": "EARTH OBSERVING SYSTEM DATA AND INFORMATION SYSTEM (EOSDIS) EVOLUTION AND DEVELOPMENT (EED)-3 EOSDIS EED-3 SERVICES",
    "org": "RAYTHEON COMPANY",
    "location": null
   },
   "this task order will be providing support in development and engineering in computational fluid dynamics to the nasa adv|analytical mechanics associates, inc.|": {
    "first_seen": "2026-11-28T02:40:31+00:00",
-   "last_seen": "2026-11-28T02:40:31+00:00",
+   "last_seen": "2026-11-28T11:43:58+00:00",
    "title": "THIS TASK ORDER WILL BE PROVIDING SUPPORT IN DEVELOPMENT AND ENGINEERING IN COMPUTATIONAL FLUID DYNAMICS TO THE NASA ADVANCED SUPERCOMPUTING COMPUTATIONAL AEROSCIENCES BRANCH, AND COMPUTATIONAL PHYSICS BRANCH.",
    "org": "ANALYTICAL MECHANICS ASSOCIATES, INC.",
    "location": null
   },
   "the purpose of the csap: program evaluation, effectiveness and review services (csap-peers) is to conduct data collectio|westat, inc.|": {
    "first_seen": "2026-11-28T02:40:31+00:00",
-   "last_seen": "2026-11-28T02:40:31+00:00",
+   "last_seen": "2026-11-28T11:43:58+00:00",
    "title": "THE PURPOSE OF THE CSAP: PROGRAM EVALUATION, EFFECTIVENESS AND REVIEW SERVICES (CSAP-PEERS) IS TO CONDUCT DATA COLLECTION AND ANALYSIS FOR PREVENTION PROGRAMS WITHIN THE CENTER FOR SUBSTANCE ABUSE PREVENTION (CSAP). THIS IS A TASK ORDER CON",
    "org": "WESTAT, INC.",
    "location": null
   },
   "bhw90 c 7333 fy26 npdb - dme call order|general dynamics information technology, inc.|": {
    "first_seen": "2026-11-28T02:40:31+00:00",
-   "last_seen": "2026-11-28T02:40:31+00:00",
+   "last_seen": "2026-11-28T11:43:58+00:00",
    "title": "BHW90 C 7333 FY26 NPDB - DME CALL ORDER",
    "org": "GENERAL DYNAMICS INFORMATION TECHNOLOGY, INC.",
    "location": null
   },
   "bhw90 c 7287 fy26 npdb - o&m call order|general dynamics information technology, inc.|": {
    "first_seen": "2026-11-28T02:40:31+00:00",
-   "last_seen": "2026-11-28T02:40:31+00:00",
+   "last_seen": "2026-11-28T11:43:58+00:00",
    "title": "BHW90 C 7287 FY26 NPDB - O&M CALL ORDER",
    "org": "GENERAL DYNAMICS INFORMATION TECHNOLOGY, INC.",
    "location": null
   },
   "mchb58 c 6003 maternal mental health hotline-operations|postpartum support international|": {
    "first_seen": "2026-11-28T02:40:31+00:00",
-   "last_seen": "2026-11-28T02:40:31+00:00",
+   "last_seen": "2026-11-28T11:43:58+00:00",
    "title": "MCHB58 C 6003 MATERNAL MENTAL HEALTH HOTLINE-OPERATIONS",
    "org": "POSTPARTUM SUPPORT INTERNATIONAL",
    "location": null
   },
   "task order 2 - clin0001 survey option periods 1-4 - clins 0001b, 0001c, 0001d and 0001e.|westat, inc.|": {
    "first_seen": "2026-11-28T02:40:31+00:00",
-   "last_seen": "2026-11-28T02:40:31+00:00",
+   "last_seen": "2026-11-28T11:43:58+00:00",
    "title": "TASK ORDER 2 - CLIN0001 SURVEY OPTION PERIODS 1-4 - CLINS 0001B, 0001C, 0001D AND 0001E.",
    "org": "WESTAT, INC.",
    "location": null
   },
   "cusp for hai prevention|national opinion research center|": {
    "first_seen": "2026-11-28T02:40:31+00:00",
-   "last_seen": "2026-11-28T02:40:31+00:00",
+   "last_seen": "2026-11-28T11:43:58+00:00",
    "title": "CUSP FOR HAI PREVENTION",
    "org": "NATIONAL OPINION RESEARCH CENTER",
    "location": null
   },
   "cusp for telemedicine: diagnostic accuracy (da) and antibiotic stewardship (as)|national opinion research center|": {
    "first_seen": "2026-11-28T02:40:31+00:00",
-   "last_seen": "2026-11-28T02:40:31+00:00",
+   "last_seen": "2026-11-28T11:43:58+00:00",
    "title": "CUSP FOR TELEMEDICINE: DIAGNOSTIC ACCURACY (DA) AND ANTIBIOTIC STEWARDSHIP (AS)",
    "org": "NATIONAL OPINION RESEARCH CENTER",
    "location": null
   },
   "next generation it services (ngits) operations services|science applications international corporation|": {
    "first_seen": "2026-11-28T02:40:31+00:00",
-   "last_seen": "2026-11-28T02:40:31+00:00",
+   "last_seen": "2026-11-28T11:43:58+00:00",
    "title": "NEXT GENERATION IT SERVICES (NGITS) OPERATIONS SERVICES",
    "org": "SCIENCE APPLICATIONS INTERNATIONAL CORPORATION",
    "location": null
   },
   "protection and security guard services (hubert h. humphrey building and parklawn complex)|the whitestone group, inc.|": {
    "first_seen": "2026-11-28T02:40:31+00:00",
-   "last_seen": "2026-11-28T02:40:31+00:00",
+   "last_seen": "2026-11-28T11:43:58+00:00",
    "title": "PROTECTION AND SECURITY GUARD SERVICES (HUBERT H. HUMPHREY BUILDING AND PARKLAWN COMPLEX)",
    "org": "THE WHITESTONE GROUP, INC.",
    "location": null
   },
   "protect data analysis|improvix technologies inc|": {
    "first_seen": "2026-11-28T02:40:31+00:00",
-   "last_seen": "2026-11-28T02:40:31+00:00",
+   "last_seen": "2026-11-28T11:43:58+00:00",
    "title": "PROTECT DATA ANALYSIS",
    "org": "IMPROVIX TECHNOLOGIES INC",
    "location": null
   },
   "office of acquisitions (oa) staffing study and technical support services|deloitte consulting llp|": {
    "first_seen": "2026-11-28T02:40:31+00:00",
-   "last_seen": "2026-11-28T02:40:31+00:00",
+   "last_seen": "2026-11-28T11:43:58+00:00",
    "title": "OFFICE OF ACQUISITIONS (OA) STAFFING STUDY AND TECHNICAL SUPPORT SERVICES",
    "org": "DELOITTE CONSULTING LLP",
    "location": null
   },
   "to exercise bpa call oy4 november 1, 2026, thru october 31, 2027.|xpect solutions llc|": {
    "first_seen": "2026-11-28T02:40:31+00:00",
-   "last_seen": "2026-11-28T02:40:31+00:00",
+   "last_seen": "2026-11-28T11:43:58+00:00",
    "title": "TO EXERCISE BPA CALL OY4 NOVEMBER 1, 2026, THRU OCTOBER 31, 2027.",
    "org": "XPECT SOLUTIONS LLC",
    "location": null
   },
   "emergency repairs for central utility plant.|treon support services jv, llc|": {
    "first_seen": "2026-11-28T02:40:31+00:00",
-   "last_seen": "2026-11-28T02:40:31+00:00",
+   "last_seen": "2026-11-28T11:43:58+00:00",
    "title": "EMERGENCY REPAIRS FOR CENTRAL UTILITY PLANT.",
    "org": "TREON SUPPORT SERVICES JV, LLC",
    "location": null
   },
   "c107213 - construction for nei suite located in bldg.31a 6th floor - naseera moore|belt built cfm government services jv llc|": {
    "first_seen": "2026-11-28T02:40:31+00:00",
-   "last_seen": "2026-11-28T02:40:31+00:00",
+   "last_seen": "2026-11-28T11:43:58+00:00",
    "title": "C107213 - CONSTRUCTION FOR NEI SUITE LOCATED IN BLDG.31A 6TH FLOOR - NASEERA MOORE",
    "org": "BELT BUILT CFM GOVERNMENT SERVICES JV LLC",
    "location": null
   },
   "hhs/ihs npirs operations and maintenance support services|microhealth llc|": {
    "first_seen": "2026-11-28T02:40:31+00:00",
-   "last_seen": "2026-11-28T02:40:31+00:00",
+   "last_seen": "2026-11-28T11:43:58+00:00",
    "title": "HHS/IHS NPIRS OPERATIONS AND MAINTENANCE SUPPORT SERVICES",
    "org": "MICROHEALTH LLC",
    "location": null
   },
   "healthcare staffing services|glc on-the-go, inc.|": {
    "first_seen": "2026-11-28T02:40:31+00:00",
-   "last_seen": "2026-11-28T02:40:31+00:00",
+   "last_seen": "2026-11-28T11:43:58+00:00",
    "title": "HEALTHCARE STAFFING SERVICES",
    "org": "GLC ON-THE-GO, INC.",
    "location": null
   },
   "net esolutions corporation:1163428 [21-000383]|ntt data services federal government, llc|": {
    "first_seen": "2026-11-28T02:40:31+00:00",
-   "last_seen": "2026-11-28T02:40:31+00:00",
+   "last_seen": "2026-11-28T11:43:58+00:00",
    "title": "NET ESOLUTIONS CORPORATION:1163428 [21-000383]",
    "org": "NTT DATA SERVICES FEDERAL GOVERNMENT, LLC",
    "location": null
   },
   "soar-d10-01377 axle -- task order # 385|axle informatics, llc|": {
    "first_seen": "2026-11-28T02:40:31+00:00",
-   "last_seen": "2026-11-28T02:40:31+00:00",
+   "last_seen": "2026-11-28T11:43:58+00:00",
    "title": "SOAR-D10-01377 AXLE -- TASK ORDER # 385",
    "org": "AXLE INFORMATICS, LLC",
    "location": null
   },
   "provide services and deliverables through performance of technical services specifically focused on website development,|futrend technology inc.|": {
    "first_seen": "2026-11-28T02:40:31+00:00",
-   "last_seen": "2026-11-28T02:40:31+00:00",
+   "last_seen": "2026-11-28T11:43:58+00:00",
    "title": "PROVIDE SERVICES AND DELIVERABLES THROUGH PERFORMANCE OF TECHNICAL SERVICES SPECIFICALLY FOCUSED ON WEBSITE DEVELOPMENT, DATA/DATABASE MANAGEMENT, AND SYSTEM INTEGRATION AND MAINTENANCE",
    "org": "FUTREND TECHNOLOGY INC.",
    "location": null
   },
   "novel mucosal vaccine approaches for pneumonia.|the administrators of tulane educational fund|": {
    "first_seen": "2026-11-28T02:40:31+00:00",
-   "last_seen": "2026-11-28T02:40:31+00:00",
+   "last_seen": "2026-11-28T11:43:58+00:00",
    "title": "NOVEL MUCOSAL VACCINE APPROACHES FOR PNEUMONIA.",
    "org": "THE ADMINISTRATORS OF TULANE EDUCATIONAL FUND",
    "location": null
   },
   "syphilis specimen collection|university of north carolina at chapel hill|": {
    "first_seen": "2026-11-28T02:40:31+00:00",
-   "last_seen": "2026-11-28T02:40:31+00:00",
+   "last_seen": "2026-11-28T11:43:58+00:00",
    "title": "SYPHILIS SPECIMEN COLLECTION",
    "org": "UNIVERSITY OF NORTH CAROLINA AT CHAPEL HILL",
    "location": null
   },
   "hispanic community health study - study of latinos (hchs-sol) san diego field center - task area a - core study operatio|san diego state university foundation|": {
    "first_seen": "2026-11-28T02:40:31+00:00",
-   "last_seen": "2026-11-28T02:40:31+00:00",
+   "last_seen": "2026-11-28T11:43:58+00:00",
    "title": "HISPANIC COMMUNITY HEALTH STUDY - STUDY OF LATINOS (HCHS-SOL) SAN DIEGO FIELD CENTER - TASK AREA A - CORE STUDY OPERATIONS",
    "org": "SAN DIEGO STATE UNIVERSITY FOUNDATION",
    "location": null
   },
   "hispanic community health study - study of latinos (hchs-sol) miami field center - task area a - core study operations|university of miami|": {
    "first_seen": "2026-11-28T02:40:31+00:00",
-   "last_seen": "2026-11-28T02:40:31+00:00",
+   "last_seen": "2026-11-28T11:43:58+00:00",
    "title": "HISPANIC COMMUNITY HEALTH STUDY - STUDY OF LATINOS (HCHS-SOL) MIAMI FIELD CENTER - TASK AREA A - CORE STUDY OPERATIONS",
    "org": "UNIVERSITY OF MIAMI",
    "location": null
   },
   "hispanic community health study - study of latinos (hchs-sol) chicago field center - task area a - core study operations|university of illinois|": {
    "first_seen": "2026-11-28T02:40:31+00:00",
-   "last_seen": "2026-11-28T02:40:31+00:00",
+   "last_seen": "2026-11-28T11:43:58+00:00",
    "title": "HISPANIC COMMUNITY HEALTH STUDY - STUDY OF LATINOS (HCHS-SOL) CHICAGO FIELD CENTER - TASK AREA A - CORE STUDY OPERATIONS",
    "org": "UNIVERSITY OF ILLINOIS",
    "location": null
   },
   "hispanic community health study - study of latinos (hchs-sol) bronx field center|albert einstein college of medicine|": {
    "first_seen": "2026-11-28T02:40:31+00:00",
-   "last_seen": "2026-11-28T02:40:31+00:00",
+   "last_seen": "2026-11-28T11:43:58+00:00",
    "title": "HISPANIC COMMUNITY HEALTH STUDY - STUDY OF LATINOS (HCHS-SOL) BRONX FIELD CENTER",
    "org": "ALBERT EINSTEIN COLLEGE OF MEDICINE",
    "location": null
   },
   "hispanic community health study - study of latinos (hchs-sol) coordinating center - task area a - core study operations|university of north carolina at chapel hill|": {
    "first_seen": "2026-11-28T02:40:31+00:00",
-   "last_seen": "2026-11-28T02:40:31+00:00",
+   "last_seen": "2026-11-28T11:43:58+00:00",
    "title": "HISPANIC COMMUNITY HEALTH STUDY - STUDY OF LATINOS (HCHS-SOL) COORDINATING CENTER - TASK AREA A - CORE STUDY OPERATIONS",
    "org": "UNIVERSITY OF NORTH CAROLINA AT CHAPEL HILL",
    "location": null
   },
   "aps electrical service for hhcc ihs housing base plus 4 option years beginning 7 1 2020 act's 1) 7069141000 2) 891015000|arizona public service company|": {
    "first_seen": "2026-11-28T02:40:31+00:00",
-   "last_seen": "2026-11-28T02:40:31+00:00",
+   "last_seen": "2026-11-28T11:43:58+00:00",
    "title": "APS ELECTRICAL SERVICE FOR HHCC IHS HOUSING BASE PLUS 4 OPTION YEARS BEGINNING 7 1 2020 ACT'S 1) 7069141000 2) 8910150000 3) 6067760000 4 ) 0972430000 5) 6806071221 BASE YR: 7/1/2020 -6/30/2021 OP YR 1: 7/1/2021 -6/30/2022 OP YR 2:",
    "org": "ARIZONA PUBLIC SERVICE COMPANY",
    "location": null
   },
   "utilites at phc 2024|navajo tribal utility authority|": {
    "first_seen": "2026-11-28T02:40:31+00:00",
-   "last_seen": "2026-11-28T02:40:31+00:00",
+   "last_seen": "2026-11-28T11:43:58+00:00",
    "title": "UTILITES AT PHC 2024",
    "org": "NAVAJO TRIBAL UTILITY AUTHORITY",
    "location": null
   },
   "certified registered nurse anesthetist (crna) services eo 14398|sopor, llc|": {
    "first_seen": "2026-11-28T02:40:31+00:00",
-   "last_seen": "2026-11-28T02:40:31+00:00",
+   "last_seen": "2026-11-28T11:43:58+00:00",
    "title": "CERTIFIED REGISTERED NURSE ANESTHETIST (CRNA) SERVICES EO 14398",
    "org": "SOPOR, LLC",
    "location": null
   },
   "provide opd rn/lpn services for rosebud ihs hospital|bay area anesthesia llc|": {
    "first_seen": "2026-11-28T02:40:31+00:00",
-   "last_seen": "2026-11-28T02:40:31+00:00",
+   "last_seen": "2026-11-28T11:43:58+00:00",
    "title": "PROVIDE OPD RN/LPN SERVICES FOR ROSEBUD IHS HOSPITAL",
    "org": "BAY AREA ANESTHESIA LLC",
    "location": null
   },
   "ocps ddtp multiple services award.|the hill group inc|": {
    "first_seen": "2026-11-28T02:40:31+00:00",
-   "last_seen": "2026-11-28T02:40:31+00:00",
+   "last_seen": "2026-11-28T11:43:58+00:00",
    "title": "OCPS DDTP MULTIPLE SERVICES AWARD.",
    "org": "THE HILL GROUP INC",
    "location": null
   },
   "dry creek water treatment plant 100% design|bai engineers llc|": {
    "first_seen": "2026-11-28T02:40:31+00:00",
-   "last_seen": "2026-11-28T02:40:31+00:00",
+   "last_seen": "2026-11-28T11:43:58+00:00",
    "title": "DRY CREEK WATER TREATMENT PLANT 100% DESIGN",
    "org": "BAI ENGINEERS LLC",
    "location": null
   },
   "common working file (cwf) is a medicare part a and part b benefit coordination and pre-payment claims validation system |oddball, inc.|": {
    "first_seen": "2026-11-28T02:40:31+00:00",
-   "last_seen": "2026-11-28T02:40:31+00:00",
+   "last_seen": "2026-11-28T11:43:58+00:00",
    "title": "COMMON WORKING FILE (CWF) IS A MEDICARE PART A AND PART B BENEFIT COORDINATION AND PRE-PAYMENT CLAIMS VALIDATION SYSTEM WHICH USES LOCALIZED DATABASES MAINTAINED BY DESIGNATED CONTRACTORS CALLED 'CWF HOSTS'",
    "org": "ODDBALL, INC.",
    "location": null
   },
   "recompete for the national plan and provider enumeration system (nppes) program. nppes supports software development, ma|mx federal, llc|": {
    "first_seen": "2026-11-28T02:40:31+00:00",
-   "last_seen": "2026-11-28T02:40:31+00:00",
+   "last_seen": "2026-11-28T11:43:58+00:00",
    "title": "RECOMPETE FOR THE NATIONAL PLAN AND PROVIDER ENUMERATION SYSTEM (NPPES) PROGRAM. NPPES SUPPORTS SOFTWARE DEVELOPMENT, MAINTENANCE, AND OPERATIONAL SUPPORT AND ENUMERATOR SERVICES. THE MISSION- CRITICAL NATURE AND COMPLEXITY LEVEL OF NPPES, ",
    "org": "MX FEDERAL, LLC",
    "location": null
@@ -6587,6 +6592,20 @@
    "last_seen": "2026-11-28T02:40:31+00:00",
    "title": "NATIONAL PLAN AND PROVIDER ENUMERATION SYSTEM (NPPES) OPERATIONS & MAINTENANCE (O&M). THE GOVERNMENT IS ISSUING A SOLE SOURCE FOLLOW ON UNDER THE STRATEGIC PARTNERS ACQUISITION READINESS CONTRACT (SPARC) INDEFINITE DELIVERY/INDEFINITE QUANT",
    "org": "RELI GROUP INC",
+   "location": null
+  },
+  "behavioral health services information system (bhsis) bridge contract|hendall inc|": {
+   "first_seen": "2026-11-28T11:43:58+00:00",
+   "last_seen": "2026-11-28T11:43:58+00:00",
+   "title": "BEHAVIORAL HEALTH SERVICES INFORMATION SYSTEM (BHSIS) BRIDGE CONTRACT",
+   "org": "HENDALL INC",
+   "location": null
+  },
+  "nichd: r&d: core nichd network clinical site support for impaact related studies: severable|westat, inc.|": {
+   "first_seen": "2026-11-28T11:43:58+00:00",
+   "last_seen": "2026-11-28T11:43:58+00:00",
+   "title": "NICHD: R&D: CORE NICHD NETWORK CLINICAL SITE SUPPORT FOR IMPAACT RELATED STUDIES: SEVERABLE",
+   "org": "WESTAT, INC.",
    "location": null
   }
  }

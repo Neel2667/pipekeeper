@@ -3,106 +3,106 @@
  "name": "Jobicy \u2014 remote jobs",
  "category": "jobs",
  "source": "https://jobicy.com/api/v2/remote-jobs",
- "collected_at": "2026-11-28T02:40:28+00:00",
+ "collected_at": "2026-11-28T11:43:55+00:00",
  "jobs_on_board": 50,
- "new_this_run": 10,
- "total_tracked": 1370,
+ "new_this_run": 50,
+ "total_tracked": 1420,
  "jobs": [
   {
-   "title": "Licensed Independent Mental Health Practitioner",
-   "org": "BetterHelp",
-   "location": "USA",
-   "detail": "Entry-Level, Junior",
-   "url": "https://jobicy.com/jobs/164597-licensed-independent-mental-health-practitioner",
-   "new_this_run": true
-  },
-  {
-   "title": "Air Account Executive",
-   "org": "Axon",
-   "location": "USA",
-   "detail": "Director",
-   "url": "https://jobicy.com/jobs/164596-air-account-executive",
-   "new_this_run": true
-  },
-  {
-   "title": "Lead/Principal Product Manager, Tax Agents",
-   "org": "Fieldguide",
-   "location": "USA",
+   "title": "Staff Product Manager | Referral Program and Client Management",
+   "org": "Wellhub",
+   "location": "Brazil",
    "detail": "Senior",
-   "url": "https://jobicy.com/jobs/164595-lead-principal-product-manager-tax-agents-2",
+   "url": "https://jobicy.com/jobs/164624-staff-product-manager-referral-program-and-client-management",
    "new_this_run": true
   },
   {
-   "title": "Account Manager, Majors",
-   "org": "Axon",
-   "location": "USA",
-   "detail": "Director",
-   "url": "https://jobicy.com/jobs/164593-account-manager-majors",
-   "new_this_run": true
-  },
-  {
-   "title": "SOX AI Specialist (Contractor)",
-   "org": "Fieldguide",
-   "location": "USA",
-   "detail": "Senior",
-   "url": "https://jobicy.com/jobs/164592-sox-ai-specialist-contractor",
-   "new_this_run": true
-  },
-  {
-   "title": "Licensed Clinical Social Worker (LCSW)",
-   "org": "BetterHelp",
-   "location": "USA",
-   "detail": "Entry-Level, Junior",
-   "url": "https://jobicy.com/jobs/164591-licensed-clinical-social-worker-lcsw-2",
-   "new_this_run": true
-  },
-  {
-   "title": "Senior or Staff Infrastructure Engineer",
-   "org": "Fieldguide",
-   "location": "USA",
-   "detail": "Senior",
-   "url": "https://jobicy.com/jobs/164589-senior-or-staff-infrastructure-engineer",
-   "new_this_run": true
-  },
-  {
-   "title": "Senior Technical Documentation Specialist \u2013 Data Center Operations",
-   "org": "Cologix, Inc.",
-   "location": "USA",
-   "detail": "Senior",
-   "url": "https://jobicy.com/jobs/164588-senior-technical-documentation-specialist-data-center-operations",
-   "new_this_run": true
-  },
-  {
-   "title": "Software Engineer",
-   "org": "Quest Analytics",
-   "location": "USA",
-   "detail": "Director",
-   "url": "https://jobicy.com/jobs/164587-software-engineer-17",
-   "new_this_run": true
-  },
-  {
-   "title": "Licensed Clinical Professional Counselor",
-   "org": "BetterHelp",
-   "location": "USA",
-   "detail": "Entry-Level, Junior",
-   "url": "https://jobicy.com/jobs/164586-licensed-clinical-professional-counselor-2",
-   "new_this_run": true
-  },
-  {
-   "title": "Country Manager, Japan",
-   "org": "UpGuard",
+   "title": "Compliance Lead, Japan",
+   "org": "Binance",
    "location": "Japan",
-   "detail": "Director",
-   "url": "https://jobicy.com/jobs/164583-country-manager-japan",
-   "new_this_run": false
+   "detail": "Senior",
+   "url": "https://jobicy.com/jobs/164620-compliance-lead-japan",
+   "new_this_run": true
   },
   {
-   "title": "Product Lead - AI Finance",
-   "org": "BJAK",
-   "location": "Vietnam",
+   "title": "Staff Platform Engineer | Observability",
+   "org": "Wellhub",
+   "location": "Brazil",
    "detail": "Senior",
-   "url": "https://jobicy.com/jobs/164582-product-lead-ai-finance",
-   "new_this_run": false
+   "url": "https://jobicy.com/jobs/164619-staff-platform-engineer-observability",
+   "new_this_run": true
+  },
+  {
+   "title": "Staff Platform Engineer",
+   "org": "Wellhub",
+   "location": "Brazil",
+   "detail": "Senior",
+   "url": "https://jobicy.com/jobs/164617-staff-platform-engineer-5",
+   "new_this_run": true
+  },
+  {
+   "title": "Staff Corporate Network Engineer | CorpIT",
+   "org": "Wellhub",
+   "location": "Brazil",
+   "detail": "Senior",
+   "url": "https://jobicy.com/jobs/164615-staff-corporate-network-engineer-corpit",
+   "new_this_run": true
+  },
+  {
+   "title": "Senior Director of Growth, Web Strategy & Operations",
+   "org": "Wellhub",
+   "location": "Brazil",
+   "detail": "Director",
+   "url": "https://jobicy.com/jobs/164613-senior-director-of-growth-web-strategy-operations",
+   "new_this_run": true
+  },
+  {
+   "title": "Binance Accelerator Program - User Communications Specialist (Chinese Content)",
+   "org": "Binance",
+   "location": "Hong Kong, Malaysia, Singapore",
+   "detail": "Entry-Level, Junior",
+   "url": "https://jobicy.com/jobs/164612-binance-accelerator-program-user-communications-specialist-chinese-content",
+   "new_this_run": true
+  },
+  {
+   "title": "Head of Growth, Web Strategy & Digital Experience",
+   "org": "Wellhub",
+   "location": "Brazil",
+   "detail": "Director",
+   "url": "https://jobicy.com/jobs/164611-head-of-growth-web-strategy-digital-experience",
+   "new_this_run": true
+  },
+  {
+   "title": "Director of Brand Strategy",
+   "org": "Who Gives A Crap",
+   "location": "Australia",
+   "detail": "Director",
+   "url": "https://jobicy.com/jobs/164609-director-of-brand-strategy",
+   "new_this_run": true
+  },
+  {
+   "title": "Enterprise Account Executive, CEE",
+   "org": "Horizon3.ai",
+   "location": "Poland",
+   "detail": "Director",
+   "url": "https://jobicy.com/jobs/164608-enterprise-account-executive-cee",
+   "new_this_run": true
+  },
+  {
+   "title": "Sr. Customer Success Manager",
+   "org": "Firework",
+   "location": "Bulgaria, Romania",
+   "detail": "Director",
+   "url": "https://jobicy.com/jobs/164607-sr-customer-success-manager-11",
+   "new_this_run": true
+  },
+  {
+   "title": "Strategic Account Executive 3 (Central EMEA)",
+   "org": "Twilio",
+   "location": "UK",
+   "detail": "Director",
+   "url": "https://jobicy.com/jobs/164606-strategic-account-executive-3-central-emea",
+   "new_this_run": true
   }
  ],
  "runs": [
@@ -320,6 +320,11 @@
    "at": "2026-11-28T02:40:28+00:00",
    "jobs": 50,
    "new": 10
+  },
+  {
+   "at": "2026-11-28T11:43:55+00:00",
+   "jobs": 50,
+   "new": 50
   }
  ],
  "jobs_seen": {
@@ -9911,6 +9916,356 @@
    "last_seen": "2026-11-28T02:40:28+00:00",
    "title": "Licensed Clinical Professional Counselor",
    "org": "BetterHelp",
+   "location": "USA"
+  },
+  "staff product manager | referral program and client management|wellhub|brazil": {
+   "first_seen": "2026-11-28T11:43:55+00:00",
+   "last_seen": "2026-11-28T11:43:55+00:00",
+   "title": "Staff Product Manager | Referral Program and Client Management",
+   "org": "Wellhub",
+   "location": "Brazil"
+  },
+  "compliance lead, japan|binance|japan": {
+   "first_seen": "2026-11-28T11:43:55+00:00",
+   "last_seen": "2026-11-28T11:43:55+00:00",
+   "title": "Compliance Lead, Japan",
+   "org": "Binance",
+   "location": "Japan"
+  },
+  "staff platform engineer | observability|wellhub|brazil": {
+   "first_seen": "2026-11-28T11:43:55+00:00",
+   "last_seen": "2026-11-28T11:43:55+00:00",
+   "title": "Staff Platform Engineer | Observability",
+   "org": "Wellhub",
+   "location": "Brazil"
+  },
+  "staff platform engineer|wellhub|brazil": {
+   "first_seen": "2026-11-28T11:43:55+00:00",
+   "last_seen": "2026-11-28T11:43:55+00:00",
+   "title": "Staff Platform Engineer",
+   "org": "Wellhub",
+   "location": "Brazil"
+  },
+  "staff corporate network engineer | corpit|wellhub|brazil": {
+   "first_seen": "2026-11-28T11:43:55+00:00",
+   "last_seen": "2026-11-28T11:43:55+00:00",
+   "title": "Staff Corporate Network Engineer | CorpIT",
+   "org": "Wellhub",
+   "location": "Brazil"
+  },
+  "senior director of growth, web strategy & operations|wellhub|brazil": {
+   "first_seen": "2026-11-28T11:43:55+00:00",
+   "last_seen": "2026-11-28T11:43:55+00:00",
+   "title": "Senior Director of Growth, Web Strategy & Operations",
+   "org": "Wellhub",
+   "location": "Brazil"
+  },
+  "binance accelerator program - user communications specialist (chinese content)|binance|hong kong, malaysia, singapore": {
+   "first_seen": "2026-11-28T11:43:55+00:00",
+   "last_seen": "2026-11-28T11:43:55+00:00",
+   "title": "Binance Accelerator Program - User Communications Specialist (Chinese Content)",
+   "org": "Binance",
+   "location": "Hong Kong, Malaysia, Singapore"
+  },
+  "head of growth, web strategy & digital experience|wellhub|brazil": {
+   "first_seen": "2026-11-28T11:43:55+00:00",
+   "last_seen": "2026-11-28T11:43:55+00:00",
+   "title": "Head of Growth, Web Strategy & Digital Experience",
+   "org": "Wellhub",
+   "location": "Brazil"
+  },
+  "director of brand strategy|who gives a crap|australia": {
+   "first_seen": "2026-11-28T11:43:55+00:00",
+   "last_seen": "2026-11-28T11:43:55+00:00",
+   "title": "Director of Brand Strategy",
+   "org": "Who Gives A Crap",
+   "location": "Australia"
+  },
+  "enterprise account executive, cee|horizon3.ai|poland": {
+   "first_seen": "2026-11-28T11:43:55+00:00",
+   "last_seen": "2026-11-28T11:43:55+00:00",
+   "title": "Enterprise Account Executive, CEE",
+   "org": "Horizon3.ai",
+   "location": "Poland"
+  },
+  "sr. customer success manager|firework|bulgaria, romania": {
+   "first_seen": "2026-11-28T11:43:55+00:00",
+   "last_seen": "2026-11-28T11:43:55+00:00",
+   "title": "Sr. Customer Success Manager",
+   "org": "Firework",
+   "location": "Bulgaria, Romania"
+  },
+  "strategic account executive 3 (central emea)|twilio|uk": {
+   "first_seen": "2026-11-28T11:43:55+00:00",
+   "last_seen": "2026-11-28T11:43:55+00:00",
+   "title": "Strategic Account Executive 3 (Central EMEA)",
+   "org": "Twilio",
+   "location": "UK"
+  },
+  "threat intelligence analyst, crypto (transnational crime organizations)|trm labs|emea, usa": {
+   "first_seen": "2026-11-28T11:43:55+00:00",
+   "last_seen": "2026-11-28T11:43:55+00:00",
+   "title": "Threat Intelligence Analyst, Crypto (Transnational Crime Organizations)",
+   "org": "TRM Labs",
+   "location": "EMEA, USA"
+  },
+  "staff data engineer|twilio|ireland": {
+   "first_seen": "2026-11-28T11:43:55+00:00",
+   "last_seen": "2026-11-28T11:43:55+00:00",
+   "title": "Staff Data Engineer",
+   "org": "Twilio",
+   "location": "Ireland"
+  },
+  "staff security engineer|paddle|ireland, portugal, uk": {
+   "first_seen": "2026-11-28T11:43:55+00:00",
+   "last_seen": "2026-11-28T11:43:55+00:00",
+   "title": "Staff Security Engineer",
+   "org": "Paddle",
+   "location": "Ireland, Portugal, UK"
+  },
+  "manager, business development, apj|temporal technologies|singapore": {
+   "first_seen": "2026-11-28T11:43:55+00:00",
+   "last_seen": "2026-11-28T11:43:55+00:00",
+   "title": "Manager, Business Development, APJ",
+   "org": "Temporal Technologies",
+   "location": "Singapore"
+  },
+  "customer success manager, israel|trm labs|israel": {
+   "first_seen": "2026-11-28T11:43:55+00:00",
+   "last_seen": "2026-11-28T11:43:55+00:00",
+   "title": "Customer Success Manager, Israel",
+   "org": "TRM Labs",
+   "location": "Israel"
+  },
+  "presales engineer|twilio|ireland, spain, uk": {
+   "first_seen": "2026-11-28T11:43:55+00:00",
+   "last_seen": "2026-11-28T11:43:55+00:00",
+   "title": "Presales Engineer",
+   "org": "Twilio",
+   "location": "Ireland, Spain, UK"
+  },
+  "business development representative|paddle|uk": {
+   "first_seen": "2026-11-28T11:43:55+00:00",
+   "last_seen": "2026-11-28T11:43:55+00:00",
+   "title": "Business Development Representative",
+   "org": "Paddle",
+   "location": "UK"
+  },
+  "wordpress advanced support guide|godaddy|serbia": {
+   "first_seen": "2026-11-28T11:43:55+00:00",
+   "last_seen": "2026-11-28T11:43:55+00:00",
+   "title": "WordPress Advanced Support Guide",
+   "org": "GoDaddy",
+   "location": "Serbia"
+  },
+  "strategic project lead - speech & audio ai (london)|appen|uk": {
+   "first_seen": "2026-11-28T11:43:55+00:00",
+   "last_seen": "2026-11-28T11:43:55+00:00",
+   "title": "Strategic Project Lead - Speech & Audio AI (London)",
+   "org": "Appen",
+   "location": "UK"
+  },
+  "strategic project lead - multimodal ai (london)|appen|uk": {
+   "first_seen": "2026-11-28T11:43:55+00:00",
+   "last_seen": "2026-11-28T11:43:55+00:00",
+   "title": "Strategic Project Lead - Multimodal AI (London)",
+   "org": "Appen",
+   "location": "UK"
+  },
+  "strategic project lead - ai post-training (london)|appen|uk": {
+   "first_seen": "2026-11-28T11:43:55+00:00",
+   "last_seen": "2026-11-28T11:43:55+00:00",
+   "title": "Strategic Project Lead - AI Post-Training (London)",
+   "org": "Appen",
+   "location": "UK"
+  },
+  "senior product marketing manager | sweden | remote|grafana labs|europe": {
+   "first_seen": "2026-11-28T11:43:55+00:00",
+   "last_seen": "2026-11-28T11:43:55+00:00",
+   "title": "Senior Product Marketing Manager | Sweden | Remote",
+   "org": "Grafana Labs",
+   "location": "Europe"
+  },
+  "senior product marketing manager | spain | remote|grafana labs|spain": {
+   "first_seen": "2026-11-28T11:43:55+00:00",
+   "last_seen": "2026-11-28T11:43:55+00:00",
+   "title": "Senior Product Marketing Manager | Spain | Remote",
+   "org": "Grafana Labs",
+   "location": "Spain"
+  },
+  "senior product marketing manager | ireland | remote|grafana labs|ireland": {
+   "first_seen": "2026-11-28T11:43:55+00:00",
+   "last_seen": "2026-11-28T11:43:55+00:00",
+   "title": "Senior Product Marketing Manager | Ireland | Remote",
+   "org": "Grafana Labs",
+   "location": "Ireland"
+  },
+  "senior product marketing manager | germany | remote|grafana labs|germany": {
+   "first_seen": "2026-11-28T11:43:55+00:00",
+   "last_seen": "2026-11-28T11:43:55+00:00",
+   "title": "Senior Product Marketing Manager | Germany | Remote",
+   "org": "Grafana Labs",
+   "location": "Germany"
+  },
+  "senior engineering manager, grafana frontend | united kingdom | remote|grafana labs|uk": {
+   "first_seen": "2026-11-28T11:43:55+00:00",
+   "last_seen": "2026-11-28T11:43:55+00:00",
+   "title": "Senior Engineering Manager, Grafana Frontend | United Kingdom | Remote",
+   "org": "Grafana Labs",
+   "location": "UK"
+  },
+  "senior engineering manager, grafana frontend | sweden | remote|grafana labs|sweden": {
+   "first_seen": "2026-11-28T11:43:55+00:00",
+   "last_seen": "2026-11-28T11:43:55+00:00",
+   "title": "Senior Engineering Manager, Grafana Frontend | Sweden | Remote",
+   "org": "Grafana Labs",
+   "location": "Sweden"
+  },
+  "principal software architect|testlio|emea, usa": {
+   "first_seen": "2026-11-28T11:43:55+00:00",
+   "last_seen": "2026-11-28T11:43:55+00:00",
+   "title": "Principal Software Architect",
+   "org": "Testlio",
+   "location": "EMEA, USA"
+  },
+  "senior engineering manager, grafana frontend | spain | remote|grafana labs|spain": {
+   "first_seen": "2026-11-28T11:43:55+00:00",
+   "last_seen": "2026-11-28T11:43:55+00:00",
+   "title": "Senior Engineering Manager, Grafana Frontend | Spain | Remote",
+   "org": "Grafana Labs",
+   "location": "Spain"
+  },
+  "senior clinical research associate|precision medicine group|germany": {
+   "first_seen": "2026-11-28T11:43:55+00:00",
+   "last_seen": "2026-11-28T11:43:55+00:00",
+   "title": "Senior Clinical Research Associate",
+   "org": "Precision Medicine Group",
+   "location": "Germany"
+  },
+  "senior engineering manager, grafana frontend | ireland | remote|grafana labs|europe": {
+   "first_seen": "2026-11-28T11:43:55+00:00",
+   "last_seen": "2026-11-28T11:43:55+00:00",
+   "title": "Senior Engineering Manager, Grafana Frontend | Ireland | Remote",
+   "org": "Grafana Labs",
+   "location": "Europe"
+  },
+  "senior software engineer - search infrastructure|algolia|france": {
+   "first_seen": "2026-11-28T11:43:55+00:00",
+   "last_seen": "2026-11-28T11:43:55+00:00",
+   "title": "Senior Software Engineer - Search Infrastructure",
+   "org": "Algolia",
+   "location": "France"
+  },
+  "senior software engineer, containers|chainguard|canada, germany, uk, usa": {
+   "first_seen": "2026-11-28T11:43:55+00:00",
+   "last_seen": "2026-11-28T11:43:55+00:00",
+   "title": "Senior Software Engineer, Containers",
+   "org": "Chainguard",
+   "location": "Canada, Germany, UK, USA"
+  },
+  "account manager, western canada|stackadapt|canada": {
+   "first_seen": "2026-11-28T11:43:55+00:00",
+   "last_seen": "2026-11-28T11:43:55+00:00",
+   "title": "Account Manager, Western Canada",
+   "org": "StackAdapt",
+   "location": "Canada"
+  },
+  "federal health (va, dha, hhs) account executive (remote: dc/md/va)|veeam software|usa": {
+   "first_seen": "2026-11-28T11:43:55+00:00",
+   "last_seen": "2026-11-28T11:43:55+00:00",
+   "title": "Federal Health (VA, DHA, HHS) Account Executive (Remote: DC/MD/VA)",
+   "org": "Veeam Software",
+   "location": "USA"
+  },
+  "digital web research analyst|veeam software|usa": {
+   "first_seen": "2026-11-28T11:43:55+00:00",
+   "last_seen": "2026-11-28T11:43:55+00:00",
+   "title": "Digital Web Research Analyst",
+   "org": "Veeam Software",
+   "location": "USA"
+  },
+  "art director|stackadapt|canada, usa": {
+   "first_seen": "2026-11-28T11:43:55+00:00",
+   "last_seen": "2026-11-28T11:43:55+00:00",
+   "title": "Art Director",
+   "org": "StackAdapt",
+   "location": "Canada, USA"
+  },
+  "account manager, socal|stackadapt|usa": {
+   "first_seen": "2026-11-28T11:43:55+00:00",
+   "last_seen": "2026-11-28T11:43:55+00:00",
+   "title": "Account Manager, SoCal",
+   "org": "StackAdapt",
+   "location": "USA"
+  },
+  "threat investigator team lead|discord|usa": {
+   "first_seen": "2026-11-28T11:43:55+00:00",
+   "last_seen": "2026-11-28T11:43:55+00:00",
+   "title": "Threat Investigator Team Lead",
+   "org": "Discord",
+   "location": "USA"
+  },
+  "account manager, enterprise|stackadapt|usa": {
+   "first_seen": "2026-11-28T11:43:55+00:00",
+   "last_seen": "2026-11-28T11:43:55+00:00",
+   "title": "Account Manager, Enterprise",
+   "org": "StackAdapt",
+   "location": "USA"
+  },
+  "director, customer support|wheel|usa": {
+   "first_seen": "2026-11-28T11:43:55+00:00",
+   "last_seen": "2026-11-28T11:43:55+00:00",
+   "title": "Director, Customer Support",
+   "org": "Wheel",
+   "location": "USA"
+  },
+  "account executive, vertical|stackadapt|usa": {
+   "first_seen": "2026-11-28T11:43:55+00:00",
+   "last_seen": "2026-11-28T11:43:55+00:00",
+   "title": "Account Executive, Vertical",
+   "org": "StackAdapt",
+   "location": "USA"
+  },
+  "senior associate, fund administration (accounting)|juniper square|canada, usa": {
+   "first_seen": "2026-11-28T11:43:55+00:00",
+   "last_seen": "2026-11-28T11:43:55+00:00",
+   "title": "Senior Associate, Fund Administration (Accounting)",
+   "org": "Juniper Square",
+   "location": "Canada, USA"
+  },
+  "international remote yupik interpreter|language services associates|usa": {
+   "first_seen": "2026-11-28T11:43:55+00:00",
+   "last_seen": "2026-11-28T11:43:55+00:00",
+   "title": "International Remote Yupik Interpreter",
+   "org": "Language Services Associates",
+   "location": "USA"
+  },
+  "international remote kizigua interpreter|language services associates|usa": {
+   "first_seen": "2026-11-28T11:43:55+00:00",
+   "last_seen": "2026-11-28T11:43:55+00:00",
+   "title": "International Remote Kizigua Interpreter",
+   "org": "Language Services Associates",
+   "location": "USA"
+  },
+  "international remote bassa interpreter|language services associates|usa": {
+   "first_seen": "2026-11-28T11:43:55+00:00",
+   "last_seen": "2026-11-28T11:43:55+00:00",
+   "title": "International Remote Bassa Interpreter",
+   "org": "Language Services Associates",
+   "location": "USA"
+  },
+  "customs & trade compliance subject matter expert (mexico)|welo global|mexico": {
+   "first_seen": "2026-11-28T11:43:55+00:00",
+   "last_seen": "2026-11-28T11:43:55+00:00",
+   "title": "Customs & Trade Compliance Subject Matter Expert (Mexico)",
+   "org": "Welo Global",
+   "location": "Mexico"
+  },
+  "staff software engineer, machine learning (consumer revenue)|discord|usa": {
+   "first_seen": "2026-11-28T11:43:55+00:00",
+   "last_seen": "2026-11-28T11:43:55+00:00",
+   "title": "Staff Software Engineer, Machine Learning (Consumer Revenue)",
+   "org": "Discord",
    "location": "USA"
   }
  }
